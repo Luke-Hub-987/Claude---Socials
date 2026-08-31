@@ -32,3 +32,17 @@ mine detail that didn't make it into the distilled versions.
 See `principles.md` and `hook-frameworks.md` at the repo root for the
 distilled, numbered (P1-P14, HF1-HF8) versions these skills actually
 cite.
+
+## Audience research (Engine Room Nutrition)
+
+- `reddit-running-research-manual.txt` — ~7,200 lines of real posts
+  Luke manually collected from running subreddits: training, race
+  reports, gear, injury, and heavy fueling/nutrition content. Assumed
+  ERN-relevant given the carb/gel/hydration focus.
+- `reddit-running-themes-summary.md` — a quick theme/frequency pass
+  over the above (marathon/PB-obsessed audience, injury and GI-distress
+  as recurring pain points, organically-mentioned competitor brands:
+  Maurten, Skratch Labs, Gatorade, Nuun, SIS, Tailwind, Huma). Draft
+  signal for `brands/engine-room-nutrition/audience.md` and
+  `competitors.md`, to confirm during `/onboard-ern`, not a
+  replacement for it.
