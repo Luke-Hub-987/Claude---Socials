@@ -27,7 +27,11 @@ ACTOR_ID = "apify~instagram-scraper"
 POSTS_PER_HANDLE = 20
 OUTLIER_MULTIPLIER = 2.0
 POLL_INTERVAL_SECONDS = 5
-MAX_WAIT_SECONDS = 180
+# Generous on purpose: a run that outlasts this gets aborted below
+# rather than left running server-side burning Apify credits with
+# nothing waiting on the result (see reddit_scan.py for the incident
+# that prompted this).
+MAX_WAIT_SECONDS = 480
 
 
 def run_actor(token, handles):
@@ -44,6 +48,7 @@ def run_actor(token, handles):
 
     status_url = f"https://api.apify.com/v2/actor-runs/{run_id}?token={token}"
     waited = 0
+    status = "READY"
     while waited < MAX_WAIT_SECONDS:
         resp = requests.get(status_url, timeout=30)
         resp.raise_for_status()
@@ -52,6 +57,13 @@ def run_actor(token, handles):
             break
         time.sleep(POLL_INTERVAL_SECONDS)
         waited += POLL_INTERVAL_SECONDS
+
+    if status not in ("SUCCEEDED", "FAILED", "TIMED-OUT", "ABORTED"):
+        try:
+            requests.post(f"https://api.apify.com/v2/actor-runs/{run_id}/abort?token={token}", timeout=30)
+        except requests.RequestException:
+            pass
+        raise RuntimeError(f"Apify run did not finish within {MAX_WAIT_SECONDS}s, aborted it (was: {status})")
 
     if status != "SUCCEEDED":
         raise RuntimeError(f"Apify run ended with status {status}")

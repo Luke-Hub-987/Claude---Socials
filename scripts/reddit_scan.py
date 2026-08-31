@@ -30,7 +30,11 @@ ACTOR_ID = "trudax~reddit-scraper-lite"
 POSTS_PER_SUBREDDIT = 15
 TIME_FILTER = "month"  # matches the actor's "time" enum: hour|day|week|month|year|all
 POLL_INTERVAL_SECONDS = 5
-MAX_WAIT_SECONDS = 180
+# A 2-subreddit run measured at ~5.5 minutes in testing, so this leaves
+# real headroom rather than the 3 minutes an earlier version used (which
+# gave up on a run that was still going, then left it running server-side
+# burning Apify credits with nothing waiting on the result).
+MAX_WAIT_SECONDS = 480
 
 
 def strip_subreddit_prefix(raw):
@@ -67,6 +71,17 @@ def run_actor(token, names):
             break
         time.sleep(POLL_INTERVAL_SECONDS)
         waited += POLL_INTERVAL_SECONDS
+
+    if status not in ("SUCCEEDED", "FAILED", "TIMED-OUT", "ABORTED"):
+        # We gave up waiting, but the run is still live on Apify's side
+        # and will keep burning credits unless we abort it — don't
+        # leave an orphaned run behind just because our client stopped
+        # watching it.
+        try:
+            requests.post(f"https://api.apify.com/v2/actor-runs/{run_id}/abort?token={token}", timeout=30)
+        except requests.RequestException:
+            pass
+        raise RuntimeError(f"Apify run did not finish within {MAX_WAIT_SECONDS}s, aborted it (was: {status})")
 
     if status != "SUCCEEDED":
         raise RuntimeError(f"Apify run ended with status {status}")
