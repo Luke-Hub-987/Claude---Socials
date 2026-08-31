@@ -18,7 +18,8 @@ brands/
 principles.md                Briar Cochran / Paddy Galloway / Heaton Ralston positions (shared, live)
 hook-frameworks.md           named hook patterns + swipe file (shared, live)
 voice-rules.md               universal style rules (shared, drafted)
-research/                    raw transcripts principles.md / hook-frameworks.md were built from
+research/                    raw transcripts principles.md / hook-frameworks.md were built from,
+                              plus Reddit running research for ERN's audience
 scripts/                     yt_outliers.py, reddit_scan.py, ig_outliers.py, validator.py
 ideas/
   personal/                  generated briefs land here
@@ -35,11 +36,15 @@ ideas/
 1. `pip install -r requirements.txt`
 2. `cp .env.example .env` and fill in:
    - `YOUTUBE_API_KEY` (Google Cloud Console, YouTube Data API v3)
-   - `REDDIT_USER_AGENT` (no dev app needed — `reddit_scan.py` uses
-     Reddit's public JSON endpoints, since Reddit's current developer
-     signup rules can be hard to clear for a small project)
-   - `APIFY_API_TOKEN` (console.apify.com — covers Instagram scraping;
-     no separate Instagram or TikTok key needed)
+   - `APIFY_API_TOKEN` (console.apify.com) — covers **both** Instagram
+     scraping (`ig_outliers.py`) and Reddit scraping (`reddit_scan.py`,
+     via the `trudax/reddit-scraper-lite` actor). No separate Reddit
+     credential exists: Reddit's current developer signup rules made
+     an OAuth app hard to get approved, and even Reddit's own public
+     unauthenticated endpoints return a 403 straight from Reddit's
+     servers when called directly from a datacenter IP (confirmed
+     directly). Apify's actor routes around both. No separate
+     Instagram or TikTok key needed either.
 3. Run `/onboard-personal` and/or `/onboard-ern` to fill in each
    brand's voice, pillars, audience, and competitors.
 4. Run `/ideate-personal` or `/ideate-ern` to generate a 10-idea brief.
@@ -48,16 +53,14 @@ ideas/
 
 If you're running the `/ideate-*` skills from a hosted Claude Code
 session (as opposed to your own machine), the environment's network
-egress policy can block some of these hosts outright — confirmed in
-this environment: `reddit.com` and `api.apify.com` are blocked by
-policy (`403` at the proxy, before the request even reaches Reddit or
-Apify), while `googleapis.com` (YouTube Data API) is not. If
-`reddit_scan.py` or `ig_outliers.py` fail with a connection/403 error
-that isn't from Reddit or Apify themselves, this is almost certainly
-why. Fix it by widening the environment's egress allowlist (see
-https://code.claude.com/docs/en/claude-code-on-the-web for how
-environment network policy is configured) or by running the pipeline
-from a machine/environment without that restriction.
+egress policy can block some hosts outright. In this environment,
+`api.apify.com` was initially blocked by policy and later opened up
+after the environment's network settings were widened (see
+code.claude.com/docs/en/claude-code-on-the-web for where that's
+configured) — everything below was verified working only after that
+change. Direct `reddit.com` access stays blocked at the Reddit-server
+level regardless of environment policy (see above), which is exactly
+why `reddit_scan.py` goes through Apify instead.
 
 ## Status
 
@@ -65,9 +68,11 @@ from a machine/environment without that restriction.
 - `principles.md`, `hook-frameworks.md`: live, built from Luke's
   uploaded research (Briar Cochran, Paddy Galloway, Heaton Ralston
   brothers) — see `research/` for the source transcripts
-- Scraper scripts: `yt_outliers.py` confirmed working end-to-end with
-  a live key. `reddit_scan.py` and `ig_outliers.py` are written and
-  keyed but unverified from this environment due to the network policy
-  above — verify from an environment/machine that can reach
-  reddit.com and api.apify.com
-- `brands/*/*.md`: pending, run `/onboard-personal` / `/onboard-ern`
+- Scraper scripts: all three confirmed working end-to-end with live
+  keys — `yt_outliers.py` (YouTube Data API), `ig_outliers.py` and
+  `reddit_scan.py` (both via Apify, `apify/instagram-scraper` and
+  `trudax/reddit-scraper-lite` respectively)
+- `brands/*/*.md`: in progress via `/onboard-ern` (personal brand not
+  started yet) — see `research/reddit-running-themes-summary.md` for
+  draft ERN audience/competitor signal pulled from Luke's own Reddit
+  research

@@ -4,15 +4,17 @@
 Usage:
     python3 reddit_scan.py "subreddit1,subreddit2" --output /tmp/reddit_posts.json
 
-Uses Reddit's public, unauthenticated JSON endpoints
-(reddit.com/r/<sub>/top.json), not the official OAuth Data API — no
-developer app registration needed. This is the fallback for personal,
-low-volume, read-only use when a Reddit dev app isn't available (e.g.
-Reddit's tightened developer signup rules). It's more likely to get
-rate-limited (HTTP 429) than an authenticated app, especially from a
-datacenter IP, so failures here are handled per-subreddit rather than
-aborting the whole run. Requires REDDIT_USER_AGENT in the environment
-(or .env) — Reddit rejects generic/default user agents.
+Uses the Apify "trudax/reddit-scraper-lite" actor rather than hitting
+reddit.com directly. Two things ruled out the direct approach: Reddit's
+current developer signup rules made an official OAuth app hard to get
+approved, and even the public unauthenticated JSON endpoints
+(reddit.com/r/<sub>/top.json) get a 403 straight from Reddit's own
+servers when called from a datacenter IP (confirmed directly, this
+isn't a guess). The Apify actor scrapes Reddit's own listing pages
+through Apify's infrastructure and returns real, current post data.
+Requires APIFY_API_TOKEN in the environment (or a .env file in the
+repo root) — the same token ig_outliers.py uses, no separate Reddit
+credential needed.
 """
 import argparse
 import json
@@ -24,36 +26,56 @@ from pathlib import Path
 import requests
 from dotenv import load_dotenv
 
+ACTOR_ID = "trudax~reddit-scraper-lite"
 POSTS_PER_SUBREDDIT = 15
-TIME_FILTER = "month"  # top.json ?t= param: hour|day|week|month|year|all
-REQUEST_DELAY_SECONDS = 2  # be polite to the unauthenticated endpoint
+TIME_FILTER = "month"  # matches the actor's "time" enum: hour|day|week|month|year|all
+POLL_INTERVAL_SECONDS = 5
+MAX_WAIT_SECONDS = 180
 
 
-def fetch_top_posts(name, user_agent):
-    url = f"https://www.reddit.com/r/{name}/top.json"
-    resp = requests.get(
-        url,
-        params={"t": TIME_FILTER, "limit": POSTS_PER_SUBREDDIT},
-        headers={"User-Agent": user_agent},
-        timeout=15,
-    )
-    if resp.status_code == 429:
-        raise RuntimeError("rate-limited (429) — try again later or with fewer subreddits")
+def strip_subreddit_prefix(raw):
+    name = raw.strip()
+    if name.startswith("/r/"):
+        name = name[3:]
+    elif name.startswith("r/"):
+        name = name[2:]
+    return name.strip("/")
+
+
+def run_actor(token, names):
+    run_url = f"https://api.apify.com/v2/acts/{ACTOR_ID}/runs?token={token}"
+    payload = {
+        "startUrls": [{"url": f"https://www.reddit.com/r/{name}/top/?t={TIME_FILTER}"} for name in names],
+        "skipComments": True,
+        "includeMediaLinks": True,
+        "maxItems": POSTS_PER_SUBREDDIT * len(names),
+        "maxPostCount": POSTS_PER_SUBREDDIT,
+    }
+    resp = requests.post(run_url, json=payload, timeout=30)
     resp.raise_for_status()
-    data = resp.json()
-    posts = []
-    for child in data.get("data", {}).get("children", []):
-        d = child.get("data", {})
-        posts.append({
-            "subreddit": name,
-            "title": d.get("title", ""),
-            "url": f"https://www.reddit.com{d.get('permalink', '')}",
-            "score": d.get("score", 0),
-            "num_comments": d.get("num_comments", 0),
-            "author": d.get("author") or "[deleted]",
-            "selftext": (d.get("selftext") or "")[:500],
-        })
-    return posts
+    run = resp.json()["data"]
+    run_id = run["id"]
+
+    status_url = f"https://api.apify.com/v2/actor-runs/{run_id}?token={token}"
+    waited = 0
+    status = "READY"
+    while waited < MAX_WAIT_SECONDS:
+        resp = requests.get(status_url, timeout=30)
+        resp.raise_for_status()
+        status = resp.json()["data"]["status"]
+        if status in ("SUCCEEDED", "FAILED", "TIMED-OUT", "ABORTED"):
+            break
+        time.sleep(POLL_INTERVAL_SECONDS)
+        waited += POLL_INTERVAL_SECONDS
+
+    if status != "SUCCEEDED":
+        raise RuntimeError(f"Apify run ended with status {status}")
+
+    dataset_id = requests.get(status_url, timeout=30).json()["data"]["defaultDatasetId"]
+    items_url = f"https://api.apify.com/v2/datasets/{dataset_id}/items?token={token}&clean=true"
+    resp = requests.get(items_url, timeout=60)
+    resp.raise_for_status()
+    return resp.json()
 
 
 def main():
@@ -63,22 +85,43 @@ def main():
     args = parser.parse_args()
 
     load_dotenv()
-    user_agent = os.environ.get("REDDIT_USER_AGENT")
-    if not user_agent:
-        print("ERROR: REDDIT_USER_AGENT not set.", file=sys.stderr)
+    token = os.environ.get("APIFY_API_TOKEN")
+    if not token:
+        print("ERROR: APIFY_API_TOKEN not set. Add it to .env or the environment.", file=sys.stderr)
         sys.exit(1)
 
-    names = [s.strip().lstrip("r/").lstrip("/r/") for s in args.subreddits.split(",") if s.strip()]
+    names = [strip_subreddit_prefix(s) for s in args.subreddits.split(",") if s.strip()]
+
+    errors = []
+    try:
+        items = run_actor(token, names)
+    except Exception as e:
+        print(f"ERROR: Apify run failed: {e}", file=sys.stderr)
+        Path(args.output).parent.mkdir(parents=True, exist_ok=True)
+        with open(args.output, "w") as f:
+            json.dump({"posts": [], "errors": [str(e)]}, f, indent=2)
+        sys.exit(1)
 
     posts = []
-    errors = []
-    for i, name in enumerate(names):
-        try:
-            if i > 0:
-                time.sleep(REQUEST_DELAY_SECONDS)
-            posts.extend(fetch_top_posts(name, user_agent))
-        except Exception as e:
-            errors.append(f"r/{name}: {e}")
+    seen_communities = set()
+    for item in items:
+        if item.get("dataType") not in (None, "post"):
+            continue
+        community = item.get("parsedCommunityName") or (item.get("communityName") or "").lstrip("r/")
+        seen_communities.add(community)
+        posts.append({
+            "subreddit": community,
+            "title": item.get("title", ""),
+            "url": item.get("url") or item.get("link", ""),
+            "score": item.get("upVotes", 0),
+            "num_comments": item.get("numberOfComments", 0),
+            "author": item.get("username") or "[deleted]",
+            "selftext": (item.get("body") or "")[:500],
+        })
+
+    for name in names:
+        if name not in seen_communities:
+            errors.append(f"r/{name}: no posts returned (private, banned, or scrape failed)")
 
     posts.sort(key=lambda p: p["score"], reverse=True)
 
