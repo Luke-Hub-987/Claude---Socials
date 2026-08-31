@@ -4,20 +4,56 @@
 Usage:
     python3 reddit_scan.py "subreddit1,subreddit2" --output /tmp/reddit_posts.json
 
-Requires REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET, REDDIT_USER_AGENT in
-the environment (or a .env file in the repo root).
+Uses Reddit's public, unauthenticated JSON endpoints
+(reddit.com/r/<sub>/top.json), not the official OAuth Data API — no
+developer app registration needed. This is the fallback for personal,
+low-volume, read-only use when a Reddit dev app isn't available (e.g.
+Reddit's tightened developer signup rules). It's more likely to get
+rate-limited (HTTP 429) than an authenticated app, especially from a
+datacenter IP, so failures here are handled per-subreddit rather than
+aborting the whole run. Requires REDDIT_USER_AGENT in the environment
+(or .env) — Reddit rejects generic/default user agents.
 """
 import argparse
 import json
 import os
 import sys
+import time
 from pathlib import Path
 
-import praw
+import requests
 from dotenv import load_dotenv
 
 POSTS_PER_SUBREDDIT = 15
-TIME_FILTER = "month"
+TIME_FILTER = "month"  # top.json ?t= param: hour|day|week|month|year|all
+REQUEST_DELAY_SECONDS = 2  # be polite to the unauthenticated endpoint
+
+
+def fetch_top_posts(name, user_agent):
+    url = f"https://www.reddit.com/r/{name}/top.json"
+    resp = requests.get(
+        url,
+        params={"t": TIME_FILTER, "limit": POSTS_PER_SUBREDDIT},
+        headers={"User-Agent": user_agent},
+        timeout=15,
+    )
+    if resp.status_code == 429:
+        raise RuntimeError("rate-limited (429) — try again later or with fewer subreddits")
+    resp.raise_for_status()
+    data = resp.json()
+    posts = []
+    for child in data.get("data", {}).get("children", []):
+        d = child.get("data", {})
+        posts.append({
+            "subreddit": name,
+            "title": d.get("title", ""),
+            "url": f"https://www.reddit.com{d.get('permalink', '')}",
+            "score": d.get("score", 0),
+            "num_comments": d.get("num_comments", 0),
+            "author": d.get("author") or "[deleted]",
+            "selftext": (d.get("selftext") or "")[:500],
+        })
+    return posts
 
 
 def main():
@@ -27,32 +63,20 @@ def main():
     args = parser.parse_args()
 
     load_dotenv()
-    client_id = os.environ.get("REDDIT_CLIENT_ID")
-    client_secret = os.environ.get("REDDIT_CLIENT_SECRET")
     user_agent = os.environ.get("REDDIT_USER_AGENT")
-    if not (client_id and client_secret and user_agent):
-        print("ERROR: REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET / REDDIT_USER_AGENT not set.", file=sys.stderr)
+    if not user_agent:
+        print("ERROR: REDDIT_USER_AGENT not set.", file=sys.stderr)
         sys.exit(1)
-
-    reddit = praw.Reddit(client_id=client_id, client_secret=client_secret, user_agent=user_agent)
 
     names = [s.strip().lstrip("r/").lstrip("/r/") for s in args.subreddits.split(",") if s.strip()]
 
     posts = []
     errors = []
-    for name in names:
+    for i, name in enumerate(names):
         try:
-            subreddit = reddit.subreddit(name)
-            for submission in subreddit.top(time_filter=TIME_FILTER, limit=POSTS_PER_SUBREDDIT):
-                posts.append({
-                    "subreddit": name,
-                    "title": submission.title,
-                    "url": f"https://www.reddit.com{submission.permalink}",
-                    "score": submission.score,
-                    "num_comments": submission.num_comments,
-                    "author": str(submission.author) if submission.author else "[deleted]",
-                    "selftext": (submission.selftext or "")[:500],
-                })
+            if i > 0:
+                time.sleep(REQUEST_DELAY_SECONDS)
+            posts.extend(fetch_top_posts(name, user_agent))
         except Exception as e:
             errors.append(f"r/{name}: {e}")
 

@@ -78,8 +78,11 @@ Tell the user: "Scanning Instagram via Apify, this takes the longest,
 60-120 seconds." Read the JSON, report.
 
 Common errors to handle:
-- `APIFY_API_TOKEN not set` (or `YOUTUBE_API_KEY` / Reddit creds) → tell
-  the user to fill in `.env` from `.env.example`
+- `APIFY_API_TOKEN not set` (or `YOUTUBE_API_KEY`, or `REDDIT_USER_AGENT`)
+  → tell the user to fill in `.env` from `.env.example`
+- Reddit `429` (rate-limited) → the public JSON endpoint has no
+  guaranteed quota; note it in the brief and continue with whatever
+  subreddits succeeded
 - One handle private/missing → script continues with others; note it
   in the brief
 
