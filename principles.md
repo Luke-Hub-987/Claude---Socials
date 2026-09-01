@@ -317,6 +317,36 @@ talking points to riff on, not a verbatim script to read aloud.
 
 *Source: Briar, directly.*
 
+## P20 — Translate the curiosity mechanism, not the stunt
+
+A real failure mode `/ideate-*` fell into once, worth naming so it
+doesn't repeat: when an outlier is a big physical feat (a course
+record, running the length of a country), the wrong translation is
+"go do a comparable feat." Briar's own example of doing this right,
+"Seven Climates in One Garden," works because it's an intriguing
+systems/insight framing of something completely ordinary, filmable in
+an actual home garden, no stunt, no signup, no new equipment. The
+curiosity is in the framing ("wait, seven climates? in one garden?"),
+not in the scale of what was physically done.
+
+Every idea must pass a concrete test: **could this be filmed inside
+the creator's/brand's existing normal week, with no new race signup,
+no new purchase, no new event required** — unless that activity is
+already something they do regularly anyway (per `pillars.md`, Luke's
+adventure pillar is fine precisely because he climbs mountains often,
+not because any single climb needs to be a record attempt). An outlier
+built around a big achievement should be mined for its *angle* (what
+made people curious, what taxonomy/insight/reframe it used), not its
+*scale*. This also connects back to P1: the real engine is a specific,
+curious angle on a real ICP pain point (see Luke's own account
+history, `brands/personal/voice.md` — his highest performers are
+things like "Are they trail running or just walking really fast?" and
+"How do you know if you're actually building a base," both filmable on
+an ordinary training day, neither requiring anything new to happen).
+
+*Source: Luke, directly, after reviewing a batch of ideas that leaned
+too hard on literal feat-replication.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

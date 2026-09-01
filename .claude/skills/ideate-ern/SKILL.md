@@ -168,6 +168,13 @@ If no focus argument was passed:
 - No health/nutrition claims beyond what's in ERN's own past content or
   `voice.md`. If an idea would need an unverified product or efficacy
   claim to work, drop it rather than inventing one.
+- **P20 test (principles.md): every idea must be filmable inside the
+  founders' existing normal week** — no new race signup, no new event,
+  no new purchase required, unless it's something they already do
+  regularly (their proof-by-doing pillar is fine because they're
+  already testing the bar on real training, a specific record-attempt
+  framing is not). When an outlier source is a big physical feat,
+  translate the *curiosity angle*, never the *scale*.
 
 ## Step 6 — Validate
 

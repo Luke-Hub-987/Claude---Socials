@@ -169,6 +169,13 @@ If no focus argument was passed:
 - No em-dashes anywhere, per `voice-rules.md`.
 - No two ideas cite the same creator.
 - Each idea must serve one of the pillars in `pillars.md`.
+- **P20 test (principles.md): every idea must be filmable inside
+  Luke's existing normal week** — no new race signup, no new event,
+  no new purchase required, unless it's something he already does
+  regularly (his adventure pillar is fine because he climbs mountains
+  often, a specific record-attempt framing is not). When an outlier
+  source is a big physical feat, translate the *curiosity angle*
+  (what made it intriguing), never the *scale* (do a comparable feat).
 
 ## Step 6 — Validate
 
