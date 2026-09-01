@@ -146,7 +146,8 @@ If no focus argument was passed:
 - id: 1
   pillar: <which pillar this serves>
   format: <IG_carousel | IG_reel | IG_post | X_thread | LinkedIn_post | YT_short | YT_long>
-  hook: <opening line, applying a framework from hook-frameworks.md, NO em-dashes>
+  on_screen_text_hook: <MANDATORY. The literal on-screen text overlay, per HF6/P15/P21. Specific, numbered/taxonomy-shaped where possible, NO em-dashes, NO bare reversal clichés ("it's not what you think" etc unless paired with real specificity)>
+  verbal_hook: <OPTIONAL. The spoken opening line per HF9, only if distinct from the on-screen text hook, NO em-dashes>
   body_angle: <2-3 sentences describing what the post argues or shows>
   voice_match: <one short line citing a specific element of voice.md it adheres to>
   briar_principle: <name + citation from principles.md>
@@ -160,8 +161,8 @@ If no focus argument was passed:
 ### Hard rules for the ideas themselves
 
 - Every `source.url` must be copied verbatim from the scraped JSON.
-- Every hook must follow a framework you can name from
-  `hook-frameworks.md`.
+- Every `on_screen_text_hook` is mandatory and must follow a framework
+  you can name from `hook-frameworks.md`.
 - No em-dashes anywhere, per `voice-rules.md`.
 - No two ideas cite the same creator.
 - Each idea must serve one of the pillars in `pillars.md`.
@@ -175,6 +176,25 @@ If no focus argument was passed:
   already testing the bar on real training, a specific record-attempt
   framing is not). When an outlier source is a big physical feat,
   translate the *curiosity angle*, never the *scale*.
+- **P21 test (principles.md): every `on_screen_text_hook` must clear
+  the newspaper-headline bar** — a specific number, a named
+  taxonomy/system, or a concrete claim, not a generic curiosity-gap
+  phrase. "It's not what you think" / "the real reason X" / "everyone
+  thinks X but actually Y" is banned as the *entire* mechanism of a
+  hook; a reversal framing is only allowed paired with real
+  specificity underneath it.
+- **P22 test (principles.md): before citing a source, weigh
+  confounds.** Would this packaging plausibly have worked from a
+  smaller or unrelated account too, or is the source's channel
+  size/topicality doing the actual work? Drop or flag sources where the
+  multiplier likely reflects reach/timing rather than genuine hook
+  quality.
+- **P23 test (principles.md): never fabricate a personal fact.** Don't
+  assert a habit, routine, or claim about ERN's founders as
+  autobiographical fact unless it's actually confirmed true. If a
+  source's angle depends on an unconfirmed personal claim, reframe it
+  as a question/hypothetical or drop it for a different confirmed
+  angle, never assert it anyway.
 
 ## Step 6 — Validate
 
@@ -234,7 +254,8 @@ research. Pick the ones worth making. Star or comment in the file.
 
 - **Pillar:** ...
 - **Format:** ...
-- **Hook:** "..."
+- **On-screen text hook:** "..."
+- **Verbal hook (if distinct):** "..."
 - **Body angle:** ...
 - **Why it matches ERN's voice:** ...
 - **Briar principle applied:** ...
@@ -268,8 +289,14 @@ why.
 
 - **No fabricated sources.** Every cited URL comes from a scraped JSON
   file in /tmp. If you can't find a real source, drop the idea.
+- **No fabricated personal facts** (P23). Never assert an unconfirmed
+  habit/routine/claim about ERN's founders as if it's true.
 - **No em-dashes** anywhere in the brief.
 - **No two ideas cite the same creator.**
+- **Every idea has a mandatory `on_screen_text_hook`** that clears the
+  P21 specificity bar — no bare reversal clichés.
+- **Weigh outlier confounds (P22)** before trusting a source's
+  multiplier as evidence a hook pattern works.
 - **Quotas: ≤3 YouTube, ≤2 Reddit, ≤3 TikTok, ≥5 Instagram.** If you
   can't hit the IG minimum, reduce the total (e.g. output 7) rather
   than padding with extra YT/TikTok.

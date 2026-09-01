@@ -105,8 +105,24 @@ and, so — keep only proper nouns/verbs/keywords), max 2 lines,
 line-break by structure not by character limit, hold text on screen
 ~10 seconds (not the native 2-3s cut speed) so it's actually readable.
 
+**Every `/ideate-*` idea must produce its own dedicated
+`on_screen_text_hook`, mandatory, not optional and not the same field
+as any spoken/verbal hook** (see HF9's separate "verbal hook" beat).
+This is the literal text overlay copy, written to pass P21's
+newspaper-headline bar directly: a specific number, a named
+taxonomy/system, or a concrete claim, not a generic curiosity-gap
+phrase. Banned as the *entire* mechanism of an on-screen text hook:
+"it's not what you think," "the real reason X," "everyone thinks X but
+actually Y," or any close variant — these read as AI-slop the moment
+they're not paired with real specificity underneath (P21). "The 3
+types of hills near me (and what each one is actually training)" is
+the reference example to hold every on-screen text hook to: numbered,
+taxonomy-shaped, concretely curious.
+
 *Source: Briar Cochran research doc (on-screen text segment,
-referencing a tool integration with a company called Artec).*
+referencing a tool integration with a company called Artec). The
+mandatory-field and anti-reversal-cliché rules are Luke's own direct
+feedback — see P21 in `principles.md`.*
 
 ## HF7 — Outcome/solution template swipe file
 
@@ -183,3 +199,10 @@ Per Briar directly: hooks matter less than people think — topic/idea
 selection (P1, P6) is the real lever, hooks are third in his stated
 priority order (topics, formats, hooks, storytelling). Use these
 frameworks to sharpen a good idea, not to rescue a weak one.
+
+**Read P21, P22, P23 in `principles.md` before finalizing any brief.**
+Every idea needs its own mandatory `on_screen_text_hook` that clears
+the newspaper-headline specificity bar (P21, no bare reversal
+clichés), every cited source needs a confound check before being
+trusted as evidence a pattern works (P22), and no idea may assert an
+unconfirmed personal fact about the creator (P23).

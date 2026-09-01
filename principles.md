@@ -347,6 +347,96 @@ an ordinary training day, neither requiring anything new to happen).
 *Source: Luke, directly, after reviewing a batch of ideas that leaned
 too hard on literal feat-replication.*
 
+## P21 — The newspaper-headline bar: specificity beats reversal
+
+A hook pattern `/ideate-*` leaned on too hard and got called out for
+directly: "it's not what you think" / "the real reason X (it's not
+Y)" / "everyone thinks X but actually Y." This is a *shape*, not
+content — swapping the words in without adding real information reads
+as generic no matter which niche it's dropped into, and Luke named it
+correctly: "AI slop." The tell is that you can guess the twist is
+coming (a reversal is signaled) without learning anything specific
+about what the reversal actually is.
+
+The bar instead, per Ogilvy (already cited in P15) and Luke's own
+direct instruction: a hook has to pass the same test as a real
+newspaper headline — would a stranger with zero context stop and want
+to read this because of the *specific, concrete* claim in it, not
+because of a withheld-answer trick. "The 3 types of hills near me (and
+what each one is actually training)" clears this bar: it's numbered,
+it names a real taxonomy, and the curiosity is "wait, there are types
+of hills?" not "there's a twist coming." "The secret to finishing a
+race isn't what you think" fails it: no number, no taxonomy, no
+concrete claim, nothing a reader couldn't have predicted the shape of
+in advance.
+
+Practical test for `/ideate-*`: before finalizing any hook, ask
+whether it contains a specific number, a named taxonomy/system, or a
+concrete claim that couldn't be swapped into an unrelated niche
+unchanged. A reversal framing ("...it's not what you think") is only
+allowed when it's paired with that kind of concrete specificity, never
+as the entire mechanism of the hook.
+
+*Source: Luke, directly, after reviewing a batch of hooks that leaned
+on the reversal cliché without real specificity underneath it. Builds
+on P15's Ogilvy citation.*
+
+## P22 — Weigh outlier confounds before citing a source
+
+Before citing a scraped item as the source behind an idea, check
+whether its multiplier over baseline (P8) plausibly reflects genuine
+hook/packaging quality, or a confound that has nothing to do with the
+hook: a mega-channel's raw subscriber reach (a video from a
+million-subscriber channel can outperform smaller creators on
+mediocre packaging purely on distribution), a trending news cycle or
+current-events topic (performs because it's timely, not because the
+hook framing was strong), or a one-off external boost (a
+collab/feature/algorithm push unrelated to the content itself).
+
+Luke's own framing of this, directly: "is that an outlier for him, or
+is that just because he has a certain follower account." The question
+to ask per source before citing it: would this specific packaging
+choice (the hook, the framing, the angle) plausibly have worked from a
+smaller or unrelated account too, or is the channel's size/topicality
+doing the actual work? Prefer sources where the answer is clearly the
+former. When it's ambiguous or leans toward the latter (very large
+channel, breaking-news-adjacent topic), either drop the source or use
+it cautiously and say so rather than treating its raw multiplier as
+proof the hook pattern itself is strong.
+
+*Source: Luke, directly, questioning whether a large-channel news-topic
+outlier was actually evidence a hook pattern worked, versus just reach.
+Builds on P8.*
+
+## P23 — Never fabricate a personal fact to fit a template
+
+An idea must never assert something about the creator (Luke, or ERN's
+founders) as if it's true unless it's actually confirmed true — a
+daily habit, a specific routine, a claimed food/meal, anything
+presented as autobiographical fact. This is a different failure from
+vagueness (P21): it's not that the hook is weak, it's that it puts
+words in the creator's mouth they don't actually stand behind. Luke's
+own description of the effect: "it's kind of forced me then to say
+something that I'm not actually really behind whatsoever."
+
+If a scraped outlier's angle depends on a specific personal claim
+("I eat the same lunch every day," "I do X every morning") and that
+claim isn't independently confirmed as true for the creator, `/ideate-*`
+has exactly three options, in order of preference:
+1. Confirm the fact first (ask, or check it against `voice.md`/prior
+   content) before using it.
+2. Reframe the idea as a question, a one-off, or a hypothetical
+   instead of a standing claim ("what I ate today," not "what I eat
+   every day").
+3. Drop the idea and pick a different real, already-confirmed fact or
+   angle to carry the same curiosity mechanism.
+
+Never pick the fourth option: asserting the unconfirmed version anyway
+because it fits the template.
+
+*Source: Luke, directly, catching a fabricated "same lunch every day"
+claim that wasn't true of him.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
