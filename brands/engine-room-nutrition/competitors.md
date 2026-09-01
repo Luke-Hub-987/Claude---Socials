@@ -7,33 +7,26 @@ updated_at: 2026-09-01
 
 # ERN Competitors
 
-Same confidence caveat as the personal brand's competitors.md — many
-names came through a fast voice message, transcribed as heard where
-spelling wasn't clear. Low-risk to use as-is (scrapers skip a bad
-handle rather than scrape the wrong account), worth confirming the
-uncertain ones before relying on results at scale.
+YouTube and subreddits are confirmed directly by Luke. Instagram names
+below are still transcribed as heard from a fast voice message where
+spelling wasn't always clear — low-risk to use as-is (scrapers skip a
+bad handle rather than scrape the wrong account), worth confirming
+before relying on results at scale.
 
 ## YouTube channels
 
-Running/endurance (direct niche):
-- Ben. Is. Running.
-- Alex Yee (heard as "Alexey")
-- Stephen Scullion (heard as "Steven Scullion")
-- Steve Magness (heard as "Steve Magnus")
-
-Food/product creators (cross-niche inspiration for the bar itself —
-Luke said he likes food content, relevant given ERN's product is
-literally a food product):
+Confirmed by Luke directly (replaces the earlier uncertain/split list
+— shared across both ERN and personal):
+- Nick Bare
+- BPN (Bare Performance Nutrition — Nick Bare's own nutrition brand,
+  directly relevant as an ERN reference point)
+- Fallow
+- Binging with Babish
 - Eater
-- Bon Appétit (heard as "bone out petite")
+- Bon Appétit
+- Ross Mackay
+- Greg Lavecchia
 - Johnny Harris
-- Joshua Weissman
-- Binging with Babish (heard as "Binning or Babish")
-
-Business/proof-of-concept inspiration:
-- Greg ______ (unconfirmed spelling, see personal/competitors.md)
-- Rasmukhai (unconfirmed spelling)
-- George Heaton
 
 ## Instagram handles
 

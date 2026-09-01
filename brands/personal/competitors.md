@@ -7,14 +7,11 @@ updated_at: 2026-09-01
 
 # My Competitors — Personal
 
-Pulled from a rambling voice message listing many names quickly —
-some are high-confidence (well-known, spelled with reasonable
-certainty), others are transcribed as heard because the exact
-spelling wasn't clear. **Before running `/ideate-personal` at scale,
-worth a quick pass to confirm the uncertain ones** — the scrapers fail
-safely on a wrong handle (skip + note it, not silently scrape the
-wrong account), so this is low-risk to use as-is, just not
-guaranteed accurate yet.
+YouTube and subreddits are confirmed directly by Luke. Instagram names
+below are still transcribed as heard from a fast voice message where
+spelling wasn't always clear — low-risk to use as-is (scrapers skip a
+bad handle rather than scrape the wrong account), worth confirming
+before relying on results at scale.
 
 Per Briar's own stated method (research/briar-ai-podcast-transcript.txt):
 competitors don't have to be in-niche — cross-niche accounts are
@@ -23,27 +20,18 @@ competitors.
 
 ## YouTube channels
 
-Business/entrepreneur creators (personal-brand inspiration — Luke
-said he personally likes business content):
-- Greg ______ (heard as "Greg Leveck" / "Greg Lavakia" / "Greg
-  Levaki" inconsistently across the message — same person each time,
-  exact name unconfirmed)
-- Rasmukhai / Rasmokai (heard consistently this way, exact spelling
-  unconfirmed)
-- George Heaton (high confidence — same "Heaton Ralston" brothers
-  already cited in principles.md/research)
-
-Running/endurance creators:
-- Ben. Is. Running. (heard as "Ben Pariks" then corrected to "Ben is
-  running" — likely the actual channel name)
-- Alex Yee (heard as "Alexey" — real Olympic triathlete, medium
-  confidence on this being who's meant)
-- Stephen Scullion (heard as "Steven Scully"/"Steven Scullion" — real
-  elite Irish marathoner, higher confidence given Luke is Sligo-based)
-- Steve Magness (heard as "Steve Magnus" — real, well-known running
-  coach/author, high confidence)
-- Spencer Matthews (real, documented his own sub-2:45 marathon
-  training journey on YouTube — matches what Luke described)
+Confirmed by Luke directly (replaces the earlier uncertain/split list
+— shared across both personal and ERN):
+- Nick Bare
+- BPN (Bare Performance Nutrition — Nick Bare's own nutrition brand,
+  directly relevant as an ERN reference point too)
+- Fallow
+- Binging with Babish
+- Eater
+- Bon Appétit
+- Ross Mackay
+- Greg Lavecchia
+- Johnny Harris
 
 ## Instagram handles
 
@@ -65,10 +53,9 @@ Running/endurance creators:
 
 ## Subreddits
 
-Not given yet for personal specifically — the ERN research already
-used r/running and r/AdvancedRunning, reasonable defaults for the
-personal brand too given the same niche, but worth confirming with
-Luke directly rather than assuming.
+Confirmed by Luke: same as ERN.
+- r/running
+- r/AdvancedRunning
 
 ## TikTok handles
 
