@@ -124,6 +124,12 @@ selection first (P1 TAM+unique+psychology, P6 idea funnel) — hooks are
 a later, smaller lever, not the primary one. Write `body_angle` as
 talking points to riff on (P19), not a verbatim script.
 
+Two more levers once a topic is chosen: P24 (raise the stakes — frame
+a real moment with real intensity instead of a plain listicle, bounded
+by P23, never an invented moment) and HF10 in `hook-frameworks.md` (a
+library of real on-screen-text shapes — use for the *pattern*, never
+copy the actual wording onto Luke's topic).
+
 ### Hard quotas (non-negotiable)
 
 - **Max 3 from YouTube**

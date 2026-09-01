@@ -120,6 +120,22 @@ selection first (P1 TAM+unique+psychology, P6 idea funnel) — hooks are
 a later, smaller lever, not the primary one. Write `body_angle` as
 talking points to riff on (P19), not a verbatim script.
 
+Two more levers once a topic is chosen: P24 (raise the stakes — frame
+a real moment with real intensity instead of a plain listicle, bounded
+by P23, never an invented moment) and HF10 in `hook-frameworks.md` (a
+library of real on-screen-text shapes — use for the *pattern*, never
+copy the actual wording onto ERN's topic).
+
+ERN specifically should also draw on P25-P28 (principles.md), all from
+a brand strategist Luke follows: P25 (push every idea one level more
+specific, "the address" not the category), P26 (the brand's
+through-line, still an open item to confirm with Luke, don't invent
+one), P27 (product-development content framed as a transformation
+journey, not a plain behind-the-scenes update — the "Rice Crisp
+Graveyard" series is the natural fit), and P28 (borrowing creative
+direction from outside the protein-snack category once there's a
+physical product to shoot).
+
 ### Hard quotas (non-negotiable)
 
 - **Max 3 from YouTube**

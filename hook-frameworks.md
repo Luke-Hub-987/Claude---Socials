@@ -74,7 +74,10 @@ progressive intrigue and story structure).*
 formats, not a secondary one** — see P15 in `principles.md`: on-screen
 text drives reach, the caption barely matters. When `/ideate-*`
 produces a `hook` for these formats, write it as the literal on-screen
-text, not a spoken line or caption.
+text, not a spoken line or caption. Per P3's CCN addendum: a strong
+YouTube title is a legitimate direct reference point for on-screen
+text, both are doing the same job of hitting Core, Casual, and New
+simultaneously through specific curiosity.
 
 Luke's own account history (`brands/personal/voice.md`,
 `brands/engine-room-nutrition/voice.md`) is full of real examples of
@@ -188,6 +191,58 @@ so for a single carousel slide or a short-form hook-only post).
 
 *Source: Luke, describing his own established format.*
 
+## HF10 — Real OST pattern library (inspiration, not a template)
+
+Luke was explicit about how to use this one: these are real on-screen
+text examples from Briar Cochran's own account and a couple of his
+clients (a coffee-cart founder, `@christian.j.lynch`, and a
+fitness/athletic creator, `brandon_trajano`), pulled from a screenshot
+document. **Use these as inspiration for shape, never lift the
+verbiage and drop Luke's or ERN's topic into it — that's the exact
+mistake this system fell into before and it must not repeat.** The
+value here is the *pattern*, applied fresh to a real, specific idea
+that passes P21, not the sentence itself.
+
+Recurring shapes worth knowing, confirmed both in the text export and
+visually (bold on-screen headline box top-of-frame, smaller subtext
+lower in the frame, held on screen, matching HF6's mechanical rules):
+
+1. **Headline + parenthetical whisper subtext** — "How to Become
+   Noticeably More Athletic in 90 Days (It only takes 3 Hours a Week)."
+   Same device as HF6's whisper technique, risk-rehearsal doing the
+   work in the parentheses.
+2. **Self-deprecating comprehension framing** — "Explaining
+   [complex topic] but You Are NOT Smarter Than a 5th Grader." Makes a
+   dense topic feel accessible via a running joke-format, not a
+   simplification of the content itself.
+3. **Branded mini-program naming** — "Tendon Maxing 101,"
+   "Plyometricmaxxing 101," "Conditioningmaxxing 102." Gives one piece
+   of educational content a named, numbered "course" identity, which
+   compounds with P11's world-building (shared vocabulary that repeat
+   viewers start to recognize and collect).
+4. **Direct address, reassurance or confrontation** — "You're Not
+   Behind (yet)," "Stop doing zone 2." Speaks straight at one specific
+   fear or habit, no windup.
+5. **Numbered process/count framing** — "The 3 Step Process to
+   Becoming an Athletic God," "5 lessons," "4 reasons." The same
+   numbered-taxonomy shape P21 already requires, independently
+   confirmed here across a different creator's real top performers.
+6. **Tier-list format** — "Coffee industry tier list nobody made,"
+   "Ranking espresso machines D to S tier." A distinct format worth
+   adding to the format vocabulary (P16's Formats lever) alongside
+   green-screen/native-caption/split-screen.
+7. **Hyper-specific numbers as the hook itself** — "$35k -> $100K in
+   12 months," "$3K/mo to $40K/mo," "$19,000 in 3 weeks." The number's
+   specificity does the entire curiosity job, no reveal-withholding
+   needed — direct real-world proof for P21's bar.
+8. **"POV: you..." scenario immersion** — drops the viewer straight
+   into a specific, concrete scenario rather than describing one.
+
+*Source: OST document (screenshots of `@briarcochran`'s own account
+plus two of his clients' accounts, `@christian.j.lynch` and
+`brandon_trajano`). Used here as a pattern-shape reference per Luke's
+explicit instruction, not as source text to copy.*
+
 ## Universal reminder
 
 Every hook produced from these frameworks still has to clear
@@ -206,3 +261,12 @@ the newspaper-headline specificity bar (P21, no bare reversal
 clichés), every cited source needs a confound check before being
 trusted as evidence a pattern works (P22), and no idea may assert an
 unconfirmed personal fact about the creator (P23).
+
+**Read P24-P28 in `principles.md` too.** P24 (raise the stakes via a
+real moment, not a listicle, bounded by P23) and HF10 above (real OST
+shapes as inspiration, never verbiage) are the two levers most
+relevant to sharpening a hook once the topic is chosen. P25-P28 are
+account/brand-level (specificity as algorithmic routing, brand
+through-line, product-as-transformation, cross-category creative
+borrowing) — mostly relevant to ERN, worth knowing before generating
+its briefs specifically.

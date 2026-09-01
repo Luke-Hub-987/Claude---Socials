@@ -77,8 +77,20 @@ alienate the audience you're actually building), or staying so deep in
 Core that you never grow. Check every idea: would a core viewer, a
 casual viewer, and a complete outsider all click and enjoy this?
 
+**The mechanism that actually hits all three layers at once, per Luke
+directly: specific curiosity.** A good YouTube title already has to do
+this job (P17 explains why: YouTube is permission-based, so the
+title/thumbnail alone carries the signal), which is why a strong
+YouTube title is a legitimate reference point for on-screen text too,
+not just a separate research source. This doesn't mean maximum,
+MrBeast-scale stakes on every post — it means specific enough that
+Core recognizes real expertise, Casual gets pulled in without feeling
+lost, and New still clicks off curiosity alone, all from the same
+line. See P21 for the concrete bar this sets for hooks/on-screen text.
+
 *Source: Paddy Galloway, cited approvingly and reused by Briar
-Cochran.*
+Cochran. The CCN-via-specific-curiosity connection is Luke's own,
+directly.*
 
 ## P4 — The Accordion Method (attribution resolved: Caleb Ralston, via Briar)
 
@@ -437,6 +449,134 @@ because it fits the template.
 *Source: Luke, directly, catching a fabricated "same lunch every day"
 claim that wasn't true of him.*
 
+## P24 — Raise the stakes, don't list the tips
+
+The single easiest upgrade to a piece of information-content: don't
+present it as a plain listicle ("here are 4 tips to do X"), frame it
+as a real moment pulled from life with actual stakes attached. The
+source's own example: instead of "here are 4 tips," something like
+"my dad, four weeks before he passed away, told me these four things"
+— same four tips, radically different intensity, because it's
+grounded in something that actually happened and actually mattered.
+The subtlety matters more than the drama: even "I couldn't sleep last
+night because I had to write this down" outperforms "here are four
+tips," and that's a small, real, ordinary claim, not a manufactured
+one.
+
+**This only works inside P23's boundary.** The source's own example
+escalates into an obviously fabricated hook (information "locked in a
+closet since 1915") specifically as a hyperbolic illustration of the
+technique, not a real instruction to invent stakes — the actual
+instruction is "pull inspiration from life," i.e. use a real moment,
+raised in intensity through framing, not an invented one. `/ideate-*`
+must apply this only to real, confirmed events (a real conversation, a
+real sleepless night, a real thing that actually happened), never to
+manufacture a personal story that didn't happen to make a tips-list
+feel bigger.
+
+*Source: Briar Cochran (a clip on "raising the stakes" as a content
+technique).*
+
+## P25 — Specificity is a mailing address, not a preference
+
+Directly from a corporate brand strategist Luke follows (name given as
+"Alex Garcia," described as having worked with a major consumer brand;
+exact company name unconfirmed in the source material, worth
+double-checking with Luke if it matters): reach isn't capped by
+follower count, it's bounded by how many people share the specific
+interest a piece of content signals. Vague content sends the algorithm
+28 weak, contradictory signals it can't route anywhere; specific
+content sends one signal so strong every post drops into the same
+interest cluster, already full of people obsessed with exactly that.
+"Fitness" is a category, "running" is a topic, "trail running
+technique" is the address — go as specific as the address, not the
+category.
+
+Four practical tests, applied directly to `/ideate-*`:
+
+1. **Find the address, not the category.** Push every idea one level
+   more specific than feels comfortable.
+2. **One-sentence through-line test.** If an idea doesn't serve a
+   single clear sentence about what the account is about, drop it —
+   this is what kills topic drift before it starts.
+3. **Lock a format or two.** Repeating the same hook style/shot
+   setup/caption style deliberately (not laziness) helps the
+   algorithm — and the audience — recognize the account on sight.
+4. **Don't chase a new topic when something flops.** Study the data on
+   why it flopped instead of topic-hopping; topic-hopping is what
+   creates the vague-signal problem in the first place.
+
+*Source: Alex Garcia (brand strategist, name as given by Luke;
+company affiliation unconfirmed).*
+
+## P26 — Brand through-line: POV + Unresolved Tension + Aesthetic
+
+A distinct, higher-level exercise from P16's per-video topic
+selection: the account-level North Star every piece of content should
+point back to. Built from three layers, each with an observational and
+an evocative question:
+
+1. **Brand's POV** — the arguable position the brand claims that a
+   competitor never would.
+2. **Unresolved tension** — two things the brand believes that pull
+   against each other, creating friction that keeps the position from
+   sitting in a safe, forgettable middle.
+3. **Brand aesthetic** — the visual identity that shows up consistently
+   in the best work.
+
+The goal is to find the common denominator across all three and state
+it in **seven words or less** (real examples: Yeti's "Built for the
+Wild," BPN's "Go One More" — BPN is already one of the personal
+brand's own competitor-research sources, see `competitors.md`). Remove
+any one of the three layers and the through-line collapses; it has to
+be a collision of all three, not a slogan pulled from just one.
+
+**Open item, not yet done for ERN**: `brands/engine-room-nutrition/voice.md`
+has strong real voice samples (the underdog "2 accountants made a Carb
+Bar" origin story, "Nobody expected us 2," proof-by-doing on real
+endurance events) but no stated seven-word-or-less through-line yet.
+Worth running this exercise directly with Luke rather than guessing
+one — the raw material (underdog origin story as POV, "engineered
+product wrapped in a familiar rice-krispie form" as a live tension
+between approachable and engineered, proof-by-doing on real races as
+aesthetic) is already sitting in the real voice samples.
+
+*Source: Alex Garcia.*
+
+## P27 — Product content as a transformation journey, not a product shot
+
+Directly relevant to ERN as a pre-manufacturing product brand: the
+source's cited example (a studio, Sambouli, that built a diehard fan
+base on product content) works because it frames product content as an
+A-to-Z journey the viewer needs to watch unfold, not a static product
+shot. The mechanical pattern: **on-screen text states the
+transformation, the sub-headline teases the steps that create it**,
+then the video actually shows the ongoing action across those steps.
+Practical translation for ERN's own "what happens when [X]" territory:
+"what happens when a batch fails in the food lab," "what happens when
+we finally get a sample back," mapping the real product-development
+steps (already partially captured by the "Rice Crisp Graveyard"
+recurring series in `brands/engine-room-nutrition/voice.md`) into this
+transformation frame instead of a plain behind-the-scenes update.
+
+*Source: Alex Garcia (citing Sambouli Studio).*
+
+## P28 — Borrow creative direction from outside your category to stand out inside it
+
+An extension of P2's counter-positioning-via-association tactic, with
+a real example directly analogous to ERN's own competitive category:
+in a stale, visually-identical product category (the source's example
+is protein snacks/bars — macro product photography, heavy graphic
+design, near-identical across competitors), one brand stood out by
+importing the creative direction of a completely different premium
+category (fashion/hospitality editorial photography) instead of
+competing on the category's own visual language. The move isn't a new
+message, it's borrowed visual/creative direction applied to the same
+product truth. Directly worth testing for ERN's own product-reveal
+content once there's a physical bar to shoot, not just for messaging.
+
+*Source: Alex Garcia.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
@@ -445,3 +585,9 @@ claim that wasn't true of him.*
   an example in his own content? Matters for how confidently
   `/ideate-*` can attribute P5. (P4's Accordion Method attribution is
   now resolved — see P4 above — this is the one remaining open item.)
+- P25's source is named "Alex Garcia," said to have worked with a
+  major consumer brand — the company name wasn't clearly resolvable
+  from the transcript. Worth confirming if it matters for attribution.
+- P26 flags that ERN doesn't have a stated seven-word-or-less brand
+  through-line yet. Worth doing that exercise directly with Luke
+  rather than drafting one from guesses.
