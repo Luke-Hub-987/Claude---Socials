@@ -23,6 +23,8 @@ from pathlib import Path
 import requests
 from dotenv import load_dotenv
 
+from _http import make_session
+
 ACTOR_ID = "apify~instagram-scraper"
 POSTS_PER_HANDLE = 20
 OUTLIER_MULTIPLIER = 2.0
@@ -35,13 +37,14 @@ MAX_WAIT_SECONDS = 480
 
 
 def run_actor(token, handles):
+    session = make_session()
     run_url = f"https://api.apify.com/v2/acts/{ACTOR_ID}/runs?token={token}"
     payload = {
         "directUrls": [f"https://www.instagram.com/{h.lstrip('@')}/" for h in handles],
         "resultsType": "posts",
         "resultsLimit": POSTS_PER_HANDLE,
     }
-    resp = requests.post(run_url, json=payload, timeout=30)
+    resp = session.post(run_url, json=payload, timeout=30)
     resp.raise_for_status()
     run = resp.json()["data"]
     run_id = run["id"]
@@ -50,7 +53,7 @@ def run_actor(token, handles):
     waited = 0
     status = "READY"
     while waited < MAX_WAIT_SECONDS:
-        resp = requests.get(status_url, timeout=30)
+        resp = session.get(status_url, timeout=30)
         resp.raise_for_status()
         status = resp.json()["data"]["status"]
         if status in ("SUCCEEDED", "FAILED", "TIMED-OUT", "ABORTED"):
@@ -60,7 +63,7 @@ def run_actor(token, handles):
 
     if status not in ("SUCCEEDED", "FAILED", "TIMED-OUT", "ABORTED"):
         try:
-            requests.post(f"https://api.apify.com/v2/actor-runs/{run_id}/abort?token={token}", timeout=30)
+            session.post(f"https://api.apify.com/v2/actor-runs/{run_id}/abort?token={token}", timeout=30)
         except requests.RequestException:
             pass
         raise RuntimeError(f"Apify run did not finish within {MAX_WAIT_SECONDS}s, aborted it (was: {status})")
@@ -68,9 +71,9 @@ def run_actor(token, handles):
     if status != "SUCCEEDED":
         raise RuntimeError(f"Apify run ended with status {status}")
 
-    dataset_id = requests.get(status_url, timeout=30).json()["data"]["defaultDatasetId"]
+    dataset_id = session.get(status_url, timeout=30).json()["data"]["defaultDatasetId"]
     items_url = f"https://api.apify.com/v2/datasets/{dataset_id}/items?token={token}&clean=true"
-    resp = requests.get(items_url, timeout=60)
+    resp = session.get(items_url, timeout=60)
     resp.raise_for_status()
     return resp.json()
 
