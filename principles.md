@@ -446,8 +446,28 @@ has exactly three options, in order of preference:
 Never pick the fourth option: asserting the unconfirmed version anyway
 because it fits the template.
 
+**Corollary, added after this rule was still broken once more: the
+check applies to the headline claim itself, not just the specific
+details under it.** `/ideate-*` once translated a source's real quote
+("I won an ultra, then just unpacked my bags") onto Luke by keeping
+"I won" as the on-screen text and only placeholder-ing the *details*
+below it (which race, what he felt) — but Luke has never won a race,
+so the headline itself was the fabrication, dressed up as if only the
+specifics were unconfirmed. A fill-in-the-blank on the details doesn't
+satisfy P23 if the premise those details sit under is itself an
+unconfirmed or false claim. Before finalizing any hook translated from
+another creator's story, check the core premise word by word against
+`voice.md`/`audience.md`'s confirmed facts (for Luke: 1 marathon, 3
+ultras — Connemara 60k, Connemara 100k, Seven Sisters 55k — no
+confirmed wins). If the premise itself isn't true, none of P23's three
+options is "keep the premise, blank out the details" — go back to
+option 2 or 3: reframe what actually happened (a finish, not a win) or
+pick a different real angle entirely.
+
 *Source: Luke, directly, catching a fabricated "same lunch every day"
-claim that wasn't true of him.*
+claim that wasn't true of him, and again catching "I won" kept as a
+headline claim in a script he never confirmed and that turned out to
+be false.*
 
 ## P24 — Raise the stakes, don't list the tips
 
