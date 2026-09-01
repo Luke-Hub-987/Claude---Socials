@@ -31,15 +31,14 @@ mountainroche, amglaze, runseanierun, jdrunsfar).
 **Direct nutrition-brand competitors** — tracked for a different
 reason than the others: Luke was explicit most of these accounts' own
 content is "boring," so the point isn't style inspiration, it's
-tracking **which athletes use and endorse them** as a signal. Handles
-corrected from earlier guesses, verification pending on this batch:
+tracking **which athletes use and endorse them** as a signal. All 9
+confirmed working (real content returned):
 - maurten_official (not `maurten`)
-- skratchlabs (confirmed correct as guessed)
-- gatorade (confirmed correct as guessed, already verified working in
-  the first personal-brand test run)
+- skratchlabs
+- gatorade
 - nuunhydration (not `nuun`)
 - scienceinsport (not `SIS`)
-- tailwindnutrition (confirmed correct as guessed)
+- tailwindnutrition
 - humagel (not `huma`)
 - precisionfandh (Precision Fuel & Hydration — not
   `precisionfuelandhydration`; Luke rates this one as "actually good,"
