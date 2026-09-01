@@ -208,6 +208,28 @@ figure] would").
 
 *Source: Briar Cochran, cross-referenced from P2.*
 
+**The specific worked example Luke gave, worth keeping as a named
+sub-pattern of this: "Why do CEOs run marathons?"** His own reasoning
+as a hypothetical viewer: "I work in business, so I'm kind of like,
+oh, I see why CEOs do it... CEOs are pretty cool people." The
+mechanism has two parts stacked together, not one: (1) name a
+specific, genuinely credible or interesting group (not "people," not
+"runners," an actual identifiable group), (2) connect them to the
+topic via real curiosity about *why*, not a generic question about the
+viewer's own life. This out-performs a plain scenario-question because
+the viewer gets pulled in twice, once by the interesting group, once
+by the specific mechanism behind their choice. **"The great humbling"
+failed this same session for the opposite reason**: it's a real
+phrase (Stephen Scullion's own words) but has no group, no mechanism,
+no anchor, just a vague label, so out of the context that made it work
+on his own account, it says nothing. A named-concept hook still needs
+one concrete anchor (a group, a number, a named mechanism), the
+concept alone isn't enough.
+
+*Source: Briar Cochran, cross-referenced from P2. The "why do CEOs run
+marathons" sub-pattern and the "great humbling" counter-example are
+Luke's own, directly.*
+
 ## HF9 — Luke's own post structure: Verbal Hook → Super Hook → Body → Feeling → CTA
 
 Luke's own stated structure for how he actually builds a post, distinct
