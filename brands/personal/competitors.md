@@ -20,36 +20,30 @@ competitors.
 
 ## YouTube channels
 
-Confirmed by Luke directly (replaces the earlier uncertain/split list
-— shared across both personal and ERN):
+Confirmed by Luke directly (shared across both personal and ERN):
 - Nick Bare
 - BPN (Bare Performance Nutrition — Nick Bare's own nutrition brand,
   directly relevant as an ERN reference point too)
+- David Senra (Founders podcast)
 - Fallow
 - Binging with Babish
 - Eater
 - Bon Appétit
 - Ross Mackay
 - Greg Lavecchia
-- Johnny Harris
+- Johnny Harris (the journalist/explainer channel — confirmed)
 
 ## Instagram handles
 
-- maxjolliffe (heard as "MaxJolf" — matches "Max Joliff," the Badwater
-  135 course-record holder already named in Luke's own Reddit
-  research, high confidence on identity, handle spelling unconfirmed)
-- markdowdle (heard as "Mark Doddel" — matches "Mark Dowdle," the
-  backyard ultra record holder from the same Reddit research, same
-  confidence note)
-- davidroche (heard as "David Roach" — real pro ultrarunner, medium
-  confidence)
-- nickbareofficial (heard as "Nick Bear" — real, "Nick Bare," Bare
-  Performance Nutrition founder)
-- Andy Glaze (as heard, unconfirmed)
-- Ross McKay (as heard, unconfirmed)
-- Johnny Davies (as heard, unconfirmed)
-- Sean Casey (as heard, unconfirmed)
-- Steve Magness (same as YouTube, also active on IG)
+Luke follows all of the YouTube channels above on Instagram too — same
+list applies. Plus these IG-specific athlete accounts (names as heard,
+spelling unconfirmed):
+- maxjolliffe (Max Joliff)
+- markdowdle (Mark Dowdle)
+- davidroche (David Roche)
+- Andy Glaze
+- Johnny Davies
+- Sean Casey
 
 ## Subreddits
 
