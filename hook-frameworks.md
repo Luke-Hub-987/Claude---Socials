@@ -143,6 +143,35 @@ figure] would").
 
 *Source: Briar Cochran, cross-referenced from P2.*
 
+## HF9 — Luke's own post structure: Verbal Hook → Super Hook → Body → Feeling → CTA
+
+Luke's own stated structure for how he actually builds a post, distinct
+from HF6 (which is about the copywriting mechanics of on-screen text,
+not the overall shape of a post). This is the shape:
+
+1. **Verbal hook** (spoken, not on-screen) — states the dream outcome
+   directly. His own example: "If you want a few tips for marathon
+   training, I want you to feel excited again for your long runs.
+   Here's how you can do it."
+2. **Super hook** (on-screen text) — a credibility/authority statement,
+   not a curiosity hook. His own example: establishing something like
+   "I ran a marathon, I'm sub-19 for a 5k" before getting into the
+   content. This is what makes the advice worth listening to,
+   distinctly different from HF6's curiosity/pain-point framing.
+3. **Body** — 3-5 elements/tips/benefits.
+4. **Feeling** — describe how the viewer should feel while/after doing
+   each element, not just what to do mechanically.
+5. **CTA** — for ERN specifically, this points to the email
+   list/newsletter signup (ERN is pre-manufacturing, so the CTA is
+   list-building toward launch, not a purchase link).
+
+When `/ideate-*` builds a `body_angle` for a longer-form idea (not just
+a single on-screen-text hook), structure it through these 5 beats
+where the format allows (works well for IG_reel/YT_short scripts less
+so for a single carousel slide or a short-form hook-only post).
+
+*Source: Luke, describing his own established format.*
+
 ## Universal reminder
 
 Every hook produced from these frameworks still has to clear

@@ -15,11 +15,19 @@ in the grid Luke shared (looks like reach/views from IG insights).
   completion, base-building, recovery vs. rest, 10k/marathon pacing.
   The steady bread-and-butter pillar (roughly 500-2,600 views per
   post, consistent).
-- **Pillar 2: Working professional who runs** — fitting training
-  around a demanding job: "leave on time without killing your
-  career," "log off without guilt," "outperform people staying late."
-  This is the pillar that's distinct from a typical running account —
-  worth protecting as a differentiator, not diluting.
+- **Pillar 2: Working professional who runs — OPEN, don't treat as
+  settled.** "Leave on time without killing your career," "log off
+  without guilt," "outperform people staying late" — real posts, and
+  they performed well (2,260 / 630 / 679 views). But Luke's since said
+  he's reconsidering this angle: he doesn't want anything that reads
+  as being about his specific employer or work habits (workplace risk
+  — colleagues could read his own content into his own behavior at
+  work), and he's uneasy about the adjacent pattern of overclaiming
+  results the way some creators do with income numbers. So this pillar
+  is genuinely undecided, not a settled differentiator: drop it, keep
+  it but keep it generic/hypothetical (never tied to his actual
+  employer or specific work situations), or something in between —
+  his call.
 - **Pillar 3: Mental side of running** — spotlight effect, letting
   your head end runs early, guilt over one missed session, "3 reasons
   I run on holiday." Vulnerable/psychological rather than tactical.

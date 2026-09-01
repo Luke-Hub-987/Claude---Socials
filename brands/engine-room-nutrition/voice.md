@@ -58,11 +58,18 @@ least Ep. 4 exists).
 - Origin-story self-deprecation: "2 accountants made a Carb Bar,"
   "Nobody expected us 2"
 
-## Hard rules (drafted — confirm scope)
+## Hard rules
 
-_pending confirmation_ — same open question as the personal brand:
-is mild profanity/slang ("asf") fine for ERN as a company account too,
-or should the company voice stay a notch more polished than Luke's
-personal one? Also: ERN is pre-manufacturing (per earlier
-conversation) — confirm what claims are safe to make right now about
-product availability/timeline versus what's still aspirational.
+- **No overclaiming on availability.** ERN is pre-manufacturing —
+  working with a food scientist, progress has been slow, possibly
+  bringing development in-house. Never imply the product is available
+  now or state a firm launch date unless that's actually changed.
+  Content CTAs point to the email/newsletter list, not a purchase.
+- **The rice-krispie-square framing is deliberate**, keep it: it's the
+  familiarity/trust mechanism that makes an unfamiliar "engineered"
+  product feel approachable. Don't drift into generic "engineered
+  performance nutrition" language that loses that hook.
+
+_still open_ — is mild profanity/slang ("asf") fine for ERN as a
+company account too, or should the company voice stay a notch more
+polished than Luke's personal one?

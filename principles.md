@@ -30,7 +30,12 @@ an unusual take that also delivers value), and a **connection back to
 money or a specific benefit** (the content ties back to your actual
 business, not just engagement for its own sake).
 
-*Source: Briar Cochran.*
+*Source: Briar Cochran. Luke also cites a creator he calls "Kayla
+Bronson" (spelling unconfirmed, worth double-checking) making the same
+"unique valuable angle to a real problem" point independently — this
+is what prompted Luke's own Reddit research
+(`research/reddit-running-research-manual.txt`), so the practice
+already exists, this is naming the theory behind it.*
 
 ## P2 — Counter positioning (3 tactics)
 

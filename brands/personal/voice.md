@@ -61,9 +61,35 @@ people think."
 - Specific real numbers, never rounded/vague: "1,200 hours," "18:53," "4K in to 5K," not "a lot of training" or "a fast time"
 - Self-deprecating humor: "slow asf," "shit weather"
 
-## Hard rules (drafted — confirm scope)
+## Credibility background (for the HF9 "super hook," not a content topic)
 
-_pending confirmation_ — mild profanity ("f**kin," "asf," "shit") shows
-up in some real posts. Confirm: is that fine everywhere, or reserved
-for specific pillars/moods? Also confirm: any topics or words you
-explicitly want kept out regardless of what's performed well before.
+Luke explicitly does not want this fed heavily into content — he's
+seen it before where giving an AI his background makes everything
+become about that background. Use it narrowly for the "super hook"
+credibility beat in HF9 (`hook-frameworks.md`), not as a recurring
+topic:
+
+- 1 marathon, 3 ultra marathons: Connemara 60k, Connemara 100k, Seven
+  Sisters 55k (most recent)
+- Based in Sligo, northwest Ireland
+- Day job: associate tax director (see Pillar 2 open question in
+  `pillars.md` — this is explicitly NOT to be leaned into as a content
+  topic given workplace-visibility concerns, even though it's true
+  background)
+
+## Hard rules
+
+- **Never make content that implies anything about Grand Thornton or
+  his specific employer/colleagues.** He's explicit this can't happen
+  — it would be dishonest framing and creates real workplace risk
+  (colleagues reading his own work habits into "leave on time" style
+  content). See Pillar 2 in `pillars.md` for the fuller open question.
+- **Don't overclaim on-camera income/results the way some creators do**
+  (e.g. "I went from $0 to $30k") — Luke referenced this pattern from
+  another creator explicitly as something he's uneasy about applying
+  to himself in fitness content, where results are harder to prove
+  than a screenshotted income number.
+
+_still open_ — mild profanity ("f**kin," "asf," "shit") shows up in
+some real posts. Confirm: fine everywhere, or reserved for specific
+pillars/moods?
