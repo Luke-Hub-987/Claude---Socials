@@ -130,6 +130,15 @@ by P23, never an invented moment) and HF10 in `hook-frameworks.md` (a
 library of real on-screen-text shapes — use for the *pattern*, never
 copy the actual wording onto Luke's topic).
 
+Two final filters, both catching things P21 lets through — run every
+idea through both before finalizing: **P29** (Purple Cow test — a
+hook can be fully specific and still be unremarkable; would someone
+actually be desperate for the answer, or just able to follow it once
+told) and **P30** (StoryBrand — the hook and verbal hook must be
+framed around what the viewer gets, not what Luke did; a day-in-the-
+life or proof-by-doing idea needs a viewer-facing transformation
+wrapped around it, not the creator's day as the subject itself).
+
 ### Hard quotas (non-negotiable)
 
 - **Max 3 from YouTube**

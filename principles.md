@@ -577,6 +577,95 @@ content once there's a physical bar to shoot, not just for messaging.
 
 *Source: Alex Garcia.*
 
+## P29 — The Purple Cow test: specificity isn't the same as remarkability
+
+A gap P21 alone doesn't close, caught directly by Luke reviewing v5:
+"The Mile-8 Rule... yeah, it's okay. Am I desperate to find out the
+answer to that? No." That idea has a real number, a named rule, no
+bare reversal — it clears P21 cleanly — and still isn't good enough.
+P21 kills the *generic* hook (no specificity at all). P29 is the next
+filter: even a specific hook can be unremarkable, an answer nobody was
+actually burning to know.
+
+Named after Seth Godin's Purple Cow (a field of brown cows is
+unremarkable no matter how accurately you describe each one; a purple
+cow is worth remarking on by definition): before finalizing a hook,
+ask **would someone be genuinely desperate to know the answer**, not
+just able to follow it once told. "The 3 types of hills near me" clears
+this — there's a real "wait, hills have types?" pull. "Why long runs
+feel harder after mile 8" doesn't — the answer (fueling) is
+unsurprising once you think about it for two seconds, so the curiosity
+gap was never really open.
+
+Practical test for `/ideate-*`, applied after P21, not instead of it:
+does this specific claim make someone stop, or would they nod and keep
+scrolling? If a hook only survives because it's numbered/specific, not
+because the actual content underneath is surprising, it's failing this
+test even though it passes P21.
+
+*Source: Luke, directly, citing Seth Godin's Purple Cow, reviewing the
+v5 personal brief.*
+
+## P30 — StoryBrand: the viewer is the hero, not the creator
+
+Directly from Luke, citing Donald Miller's StoryBrand: "the viewer
+doesn't give a shit about me personally... all they want is extreme
+value... in a way that makes them curious and improves their lives."
+His own example of what this rules out: a plain "day in my life"
+framing, even when it's genuinely proof-by-doing (P9), reads as
+about the creator rather than for the viewer unless it's wrapped in
+value the viewer actually wants. The fix isn't dropping proof-by-doing
+content, Luke likes the format when it's in service of something the
+viewer wants, per his own example: don't open with "here's my day,"
+open with the transformation the viewer gets from watching, then use
+the day/proof as the vehicle.
+
+His own verbal-hook example, worth keeping as a reference model
+(dream-outcome, StoryBrand-style, matches HF9's verbal-hook beat
+exactly): "After watching this, you will be excitingly better at
+running. You'll be passing people out all over the place, and you
+will never get out of breath again." Note what it does: names a
+concrete, sensory transformation for the *viewer*, not a claim about
+the creator's day or credentials (that's HF9's separate super-hook
+beat).
+
+Practical implication for `/ideate-*`: before finalizing any idea,
+check whether the hook and verbal hook are framed around what the
+viewer gets, not what the creator did or is doing. A "day in the life"
+or origin-story idea isn't banned, it needs a viewer-facing value/
+curiosity frame wrapped around it, not the creator's day as the
+subject in its own right.
+
+*Source: Luke, directly, citing Donald Miller's StoryBrand.*
+
+## Clarification — how to actually use cross-niche inspiration sources (P17, P22)
+
+Luke pushed back on how P22 was being applied to his own named
+inspiration accounts (Johnny Harris, Babish, Fallow), worth recording
+precisely so it isn't misapplied again: **P22's confound check is
+about whether a source's raw multiplier is trustworthy evidence a
+specific hook pattern drove the outperformance — it was never meant to
+disqualify a creator as inspiration at all.** Luke's own explanation of
+why he named these specific accounts: they have real proof/credibility
+themselves, they show him how to do something he actually wants to
+learn, they give away substantial free value, and critically, they
+satisfy real curiosity vicariously (his own examples: Babish
+taste-testing ten flavors of something so the viewer doesn't have to
+buy all ten themselves, or cooking an expensive cut of meat so the
+viewer doesn't have to risk ruining one). That mechanism, proof, free
+value, vicarious curiosity satisfaction, is what `/ideate-*` should
+mine from these sources, regardless of whether any single video's view
+multiplier is confound-clean enough to cite as "proof this exact hook
+works." Dropping Johnny Harris from the ERN brief over a channel-size
+confound wasn't wrong on P22's own terms, but it's worth being
+explicit going forward: the fix for a confounded outlier is usually
+to keep mining the *account* for its mechanism while being honest that
+its multiplier isn't the evidence, not to drop the creator from
+consideration entirely.
+
+*Source: Luke, directly, clarifying the intent behind his own
+competitor list.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

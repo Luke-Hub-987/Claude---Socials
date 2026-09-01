@@ -169,9 +169,16 @@ from HF6 (which is about the copywriting mechanics of on-screen text,
 not the overall shape of a post). This is the shape:
 
 1. **Verbal hook** (spoken, not on-screen) — states the dream outcome
-   directly. His own example: "If you want a few tips for marathon
-   training, I want you to feel excited again for your long runs.
-   Here's how you can do it."
+   directly, StoryBrand-style (P30, principles.md): the transformation
+   is about the *viewer*, not the creator. His own examples: "If you
+   want a few tips for marathon training, I want you to feel excited
+   again for your long runs. Here's how you can do it." And, sharper,
+   more sensory: "After watching this, you will be excitingly better
+   at running. You'll be passing people out all over the place, and
+   you will never get out of breath again." The second is the
+   reference model — concrete, sensory, and entirely about what the
+   viewer gets, not a claim about the creator's day or credentials
+   (that's the separate super-hook beat below).
 2. **Super hook** (on-screen text) — a credibility/authority statement,
    not a curiosity hook. His own example: establishing something like
    "I ran a marathon, I'm sub-19 for a 5k" before getting into the
@@ -270,3 +277,12 @@ account/brand-level (specificity as algorithmic routing, brand
 through-line, product-as-transformation, cross-category creative
 borrowing) — mostly relevant to ERN, worth knowing before generating
 its briefs specifically.
+
+**Read P29 and P30 too, both catch things P21 alone lets through.**
+P29 (the Purple Cow test): a hook can be fully specific and still be
+unremarkable, ask whether someone would be genuinely desperate for the
+answer, not just able to follow it once told. P30 (StoryBrand): the
+hook and verbal hook need to be framed around what the *viewer* gets,
+not what the creator did, even for proof-by-doing or origin-story
+ideas — wrap the day/proof in a viewer-facing transformation, don't
+lead with the creator's day as the subject itself.
