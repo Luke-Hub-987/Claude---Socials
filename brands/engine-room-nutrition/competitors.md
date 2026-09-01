@@ -26,7 +26,7 @@ accounts below — see `brands/personal/competitors.md` for full
 confidence notes on the shared names (nickbarefitness, bpnsupps,
 davidsenra, fallowrestaurant, bingingwithbabish, eater, bonappetitmag,
 rossmackay, greglavslife, johnnyharris, woah_max, mark.dowdle,
-mountainroche, amglaze, runseanierun, jdrunsfar).
+mountainroche, amglaze, scaseyfitness, jeffnippard, noeldeyzel, jdrunsfar).
 
 **Direct nutrition-brand competitors** — tracked for a different
 reason than the others: Luke was explicit most of these accounts' own
@@ -62,5 +62,5 @@ for ongoing competitor/topic tracking.)
 
 Same as personal — see `brands/personal/competitors.md` for the
 confirmed-working list (eater, bonappetitmag, fallowrestaurant,
-woah_max, jdrunsfar, babishculinaryuniverse, runseanierun,
+woah_max, jdrunsfar, babishculinaryuniverse,
 johnnyharris) and the list confirmed-real-but-no-TikTok-content.

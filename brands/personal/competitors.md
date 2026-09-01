@@ -52,14 +52,12 @@ Confirmed working (real content returned):
 - mountainroche (David Roche — not `davidroche`, that was wrong and
   also explains a real bug: the wrong handle matched an unrelated
   person's TikTok account, not just an empty result)
-- amglaze (Andrew "Andy" Glaze — medium confidence this is the right
-  person: a real ultrarunner known for running 100mi/week for PTSD
-  awareness, matches the profile but wasn't explicitly reconfirmed by
-  Luke)
-- runseanierun (Sean Casey — medium confidence: an Irish ultrarunner,
-  "Wild Atlantic Way," all 275 Irish mountains — fits Luke's Sligo
-  context well, but there were multiple real "Sean Casey"s in
-  running/content, wasn't explicitly reconfirmed)
+- amglaze (Andrew "Andy" Glaze — confirmed correct by Luke directly)
+- scaseyfitness (Sean Casey — confirmed correct by Luke directly,
+  replaces the earlier medium-confidence guess `runseanierun`, which
+  was a different real Sean Casey and should not be used)
+- jeffnippard (Jeff Nippard — added by Luke, well-known exercise
+  science YouTuber/creator, cross-niche fitness inspiration)
 
 Confirmed real handle via search, but returned no posts on this scrape
 (worth retrying, possibly rate-limited rather than wrong):
@@ -68,6 +66,10 @@ Confirmed real handle via search, but returned no posts on this scrape
 - jdrunsfar (Jonny Davies — not `johnnydavies`, high confidence: a
   real UK ultrarunner sponsored by BPN, 243.8K followers, confirmed
   via search — just didn't return results this specific run)
+
+Added by Luke, real handle given directly, but no posts returned on
+this scrape (worth retrying before relying on it):
+- noeldeyzel
 
 ## Subreddits
 
@@ -85,7 +87,6 @@ Confirmed working (real content returned):
 - jdrunsfar
 - babishculinaryuniverse (Binging with Babish — not `bingingwithbabish`,
   different handle on TikTok specifically)
-- runseanierun
 - johnnyharris
 
 Confirmed real handles, no TikTok content returned this run — likely
@@ -93,3 +94,6 @@ just not active on TikTok specifically, not wrong handles (each is
 separately confirmed working on another platform above):
 - bpnsupps, greglavslife, mountainroche, nickbarefitness, davidsenra,
   mark.dowdle, amglaze, rossmackay
+
+Not yet tested on TikTok specifically: scaseyfitness, jeffnippard,
+noeldeyzel (all added after the TikTok verification pass).
