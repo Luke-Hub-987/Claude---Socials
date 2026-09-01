@@ -250,6 +250,42 @@ plus two of his clients' accounts, `@christian.j.lynch` and
 `brandon_trajano`). Used here as a pattern-shape reference per Luke's
 explicit instruction, not as source text to copy.*
 
+## HF11 — The Double Aha
+
+Good content delivers one hit of dopamine before a viewer scrolls
+away, usually a non-obvious fact, tip, or insight that feels new and
+valuable (this is P29/P31's "aha" moment, from the delivery side).
+Great content delivers it **twice** in the same video, "the double
+aha": two genuine light-bulb moments inside roughly the first 60
+seconds. Hit two, per the source, and the viewer subconsciously trusts
+you know what you're talking about, which is what actually drives the
+follow, not just the watch.
+
+Tactically, this is a script-writing structure, not just a hook rule:
+
+1. Before writing anything, name **two separate non-obvious things**
+   you believe to be true about the topic. Not two phrasings of the
+   same insight, two genuinely distinct ones.
+2. **Front-load both as early as possible.** They land across the
+   hook, the "lock-in zone" (the beat right after the hook that
+   confirms the viewer should keep watching), body block 1, or body
+   block 2, not held in reserve for a big reveal at the end.
+3. Each aha has to actually be non-obvious and true, not just phrased
+   like a reveal, this is P21/P29's specificity-and-remarkability bar
+   applied twice per video instead of once.
+
+Maps directly onto HF9's beats: HF9's verbal hook / super hook cover
+the hook + lock-in-zone territory, HF9's body (3-5 elements) is where
+body blocks 1 and 2 live. Practical rule for `/ideate-*` going
+forward: every `body_angle` for a short-form idea should be checked
+for **two** distinct non-obvious insights, not one, and both should be
+identifiable within the first two beats of HF9's structure, not saved
+for later in the body.
+
+*Source: a clip Luke shared, explicitly framed as one piece of a
+larger storytelling framework still to come — expect more principles
+in this vein.*
+
 ## Universal reminder
 
 Every hook produced from these frameworks still has to clear
