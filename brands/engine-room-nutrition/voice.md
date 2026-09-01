@@ -1,19 +1,18 @@
 ---
 type: my-brand
 section: voice
-status: draft
-updated_at: 2026-08-31
+status: live
+updated_at: 2026-09-01
 ---
 
 # Voice — Engine Room Nutrition (Company, @engineroomnutrition)
 
-**Draft, built from real on-screen text + view counts Luke shared
-(screenshot of ERN's IG grid), not yet confirmed by him.** Per P15 in
-`principles.md`, on-screen text is the actual headline for these
-formats, so these are pulled from the on-screen overlays, not
-captions.
+Built from real on-screen text + view counts across ERN's own IG grid,
+confirmed by Luke. Per P15 in `principles.md`, on-screen text is the
+actual headline for these formats, so these are pulled from the
+on-screen overlays, not captions.
 
-## Voice signature (drafted, confirm/adjust)
+## Voice signature
 
 Founder-led, first-person "us/we" brand voice — Luke and his
 co-founder are visibly the product's own test subjects (climbing
@@ -70,6 +69,6 @@ least Ep. 4 exists).
   product feel approachable. Don't drift into generic "engineered
   performance nutrition" language that loses that hook.
 
-_still open_ — is mild profanity/slang ("asf") fine for ERN as a
-company account too, or should the company voice stay a notch more
-polished than Luke's personal one?
+- **Mild profanity/slang is fine** ("asf" etc.) — confirmed, same as
+  the personal brand, no extra polish requirement for the company
+  account.

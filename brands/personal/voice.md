@@ -1,19 +1,19 @@
 ---
 type: my-brand
 section: voice
-status: draft
-updated_at: 2026-08-31
+status: live
+updated_at: 2026-09-01
 ---
 
 # Voice — Luke (Personal Brand, @luke_morrison_er)
 
-**Draft, built from real on-screen text + view counts Luke shared
-(screenshots of his own IG grid), not yet confirmed by him.** Per
-P15 in `principles.md`, on-screen text is the actual headline for
-these formats — the caption underneath barely matters for reach — so
-these are pulled from the on-screen overlays, not captions.
+Built from real on-screen text + view counts across Luke's own IG
+grid, confirmed by him. Per P15 in `principles.md`, on-screen text is
+the actual headline for these formats — the caption underneath barely
+matters for reach — so these are pulled from the on-screen overlays,
+not captions.
 
-## Voice signature (drafted, confirm/adjust)
+## Voice signature
 
 Relatable, matter-of-fact runner who also works a demanding office job
 — the voice sits at the intersection of running-technique advice and
@@ -72,10 +72,10 @@ topic:
 - 1 marathon, 3 ultra marathons: Connemara 60k, Connemara 100k, Seven
   Sisters 55k (most recent)
 - Based in Sligo, northwest Ireland
-- Day job: associate tax director (see Pillar 2 open question in
-  `pillars.md` — this is explicitly NOT to be leaned into as a content
-  topic given workplace-visibility concerns, even though it's true
-  background)
+- Day job: associate tax director (see Pillar 2 in `pillars.md` —
+  the fact of a busy full-time job is a counter-positioning frame, not
+  a content topic; never make this specific or tied to the actual
+  employer)
 
 ## Hard rules
 
@@ -90,6 +90,5 @@ topic:
   to himself in fitness content, where results are harder to prove
   than a screenshotted income number.
 
-_still open_ — mild profanity ("f**kin," "asf," "shit") shows up in
-some real posts. Confirm: fine everywhere, or reserved for specific
-pillars/moods?
+- **Mild profanity is fine** ("f**kin," "asf," "shit") — confirmed, no
+  restriction on where it's used.

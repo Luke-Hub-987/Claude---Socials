@@ -54,3 +54,10 @@ product exists.
   Content should stay honest about this — no claims that imply the
   product is available now or has a firm launch date unless that
   changes.
+- Possible audience-widening signal (low confidence — came through
+  garbled in a voice message, worth confirming with Luke directly
+  rather than acting on it): the bar may be intended as accessible to
+  "anybody looking to get into running or endurance," not just
+  already-serious athletes. If true, this softens "who they are"
+  above toward including beginners, not just committed endurance
+  athletes. Don't treat this as settled.
