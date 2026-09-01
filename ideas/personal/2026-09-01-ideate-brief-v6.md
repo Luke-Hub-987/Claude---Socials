@@ -135,6 +135,76 @@ real rule violation, not just a bad pick. Fixed at the source:
   is the "obvious" answer, so naming that it's *not* the answer
   without yet revealing what is creates a real pull.
 
+## CCN + counter-positioning pass
+
+Two follow-up questions Luke asked after reviewing this: are these
+topics actually grounded in real outlier research (yes, every topic
+above cites its real source, same as v4/v5, nothing here is
+generated from nothing), and are the hooks pulling Core, Casual, and
+New simultaneously (P3), sharpened further with counter-positioning
+(P2) where it genuinely helps.
+
+**On grounding:** the mix is deliberately not all-running. UK2004 and
+red_fox23 are r/running (Core-adjacent, same niche). amglaze and
+mountainroche are ultrarunning Instagram (same niche, different
+sub-audience). davidsenra (Founders podcast) and Ross Mackay (Building
+The Brand) are genuinely cross-niche, business/entrepreneurship, not
+running at all, per P17's reasoning for scraping outside the niche.
+bpnsupps and nickbare sit in between, hybrid-athlete/supplement-brand
+content adjacent to running. So topics 1, 2, 3, 6 come from
+within-niche outliers; topics 5, 7, 8 come from cross-niche outliers
+translated into running; topic 4 sits in between (a training-content
+IG account, not strictly a running account).
+
+**CCN review, topic by topic:**
+
+- **Topic 1, both:** strong across all three. B ("2 kinds of
+  strength") pulls New especially well, curiosity works with zero
+  running knowledge.
+- **Topic 2:** A is strong CCN (a universal social-observation
+  format). B leans Core, "Strava" is insider jargon a New viewer won't
+  recognize, weakening exactly the layer P3 cares about. Sharper CCN
+  version of B: **"The training club. The friend-group club. The
+  content-machine club. Which one's actually near you?"** — same
+  taxonomy, no unexplained jargon.
+- **Topic 3:** A is Core-strong but New-weak, "6 x 800m at 5k pace" is
+  pure insider language with nothing for an outsider to grab onto. B
+  already fixes this (the paradox is universal, jargon-free) — **lead
+  with B, not A**, this is the one to swap.
+- **Topic 4:** both reasonable, B ("a heart-rate zone most runners
+  never train in") pulls New slightly better since heart-rate zones
+  aren't running-exclusive (cyclists, general fitness).
+- **Topic 5:** both strong, A is close to universally applicable
+  (execution vs. patience applies to any pursuit), genuinely good New
+  reach without diluting Core's specific application.
+- **Topic 6:** unchanged, already confirmed strong CCN previously.
+- **Topic 7, 8:** both strong, the paradox structure ("nobody hits X
+  by training for X," "it's not discipline") works with zero running
+  context, which is exactly what pulled David Senra's and Ross
+  Mackay's cross-niche audiences into their own versions of these
+  ideas in the first place.
+
+**Counter-positioning (P2) pass, added where it genuinely sharpens
+rather than for its own sake:**
+
+- **Topic 1, C (association):** "Powerlifters have a word for this.
+  Runners don't, but they should." — borrows credibility/intrigue from
+  an adjacent world (P2 tactic 3), stronger hook than A or B alone.
+- **Topic 7, C (add-to-niche):** "Marathon training and building a
+  startup follow the exact same rule." — directly the P2 tactic 1
+  move (add a second world to the niche), and it's honest to what's
+  actually driving this topic, it was translated from startup-building
+  content in the first place.
+- **Topic 8, C (association):** "It's the same reason habit
+  researchers say motivation is overrated." — associates with a
+  broader self-improvement authority without naming an unconfirmed
+  specific study or person, keeps P23 safe.
+
+Recommendation: swap Topic 3 to lead with B, swap Topic 2's B for the
+sharpened jargon-free version above, and treat Topics 1C/7C/8C as a
+third option worth testing against their A/B pairs, not a replacement
+for them.
+
 ## What this doesn't include yet
 
 No full HF9 scripts this round on purpose, this is a hook-only
