@@ -804,6 +804,65 @@ own tactical list); the specific wrapping-tactic menu above is this
 system's own mapping of what's already active elsewhere in
 principles.md/hook-frameworks.md onto the source's framework.*
 
+## P32 — Luke's own top performers, and what the tail actually needs
+
+`/ideate-*` had been theorizing about specificity from other creators'
+outliers without going back to check what actually won on Luke's own
+account, the most directly relevant data available. Corrected here.
+Ranked by real views, excluding the career-themed ones (retired as a
+pillar) and the 148K Benbulben outlier (P8, its own case):
+
+1. "Are they trail running... or are they just walking really fast?"
+   — 2,578
+2. "Q: If it's hot on race day, should I pour water over myself to
+   cool down?" — 2,505
+3. "How to actually use strides (To get you a PB)" — 2,266
+4. "How do I distinguish between 'good' race pain and a genuine
+   injury? (and you can't tell the difference)" — 1,891
+5. "3 reasons I run on holiday (the 3rd is the one nobody admits)" —
+   1,830
+6. "How to build a sauna into your easy run *(to make racing
+   easier)" — 1,770
+7. "How to FULLY finish every workout (Far stronger than everyone
+   else)" — 1,759
+
+Two real, distinct patterns, not one:
+
+- **Scenario-questions.** #1, #2, #4 aren't "how to" at all, they're
+  a real, specific, first-person moment (a race-day heat decision, an
+  injury-or-soreness moment of doubt, watching someone and genuinely
+  wondering if they're running or power-walking). No mechanism
+  explained, just the actual moment stated as a question. This is a
+  different shape than most of what `/ideate-*` has been producing,
+  worth generating directly, not just as a variant of "how to X."
+- **"How to X" with a concrete tail.** #3, #6, #7 all pass P21 *and*
+  clear the bar Luke just named: the parenthetical is never a vague
+  qualifier, it's a real, tangible, specific outcome, "to get you a
+  PB," "to make racing easier," "far stronger than everyone else." His
+  own comparison, verbatim: "how to build a personal brand" alone is
+  "meh," but "how to build a personal brand, I don't mind coming from
+  30k to 50k" is something "everybody will wanna sit down and watch."
+  The topic word count matters less than whether the tail is concrete.
+
+**The corollary that broke topics 3-12 in the last pass:** shortening
+an on-screen text to HF6's word-count target is not the fix by itself,
+if the shortening strips out the one concrete number/fact that made it
+specific in the first place. "How much marathon training actually
+burns (it's a lot)" is short and still fails, "it's a lot" is a vague
+qualifier standing where a number should be, functionally identical to
+"3 reasons your 'threshold' runs aren't actually threshold anymore"
+being long but also vague. Length was never the actual variable,
+concreteness of the tail is. Every "How to X" needs either a real
+number, a real named outcome, or a real specific scenario in the
+parenthetical, never a placeholder word standing in for one that was
+never found.
+
+*Source: Luke, directly, reviewing v2 of the full topic list and
+finding every single one "meh." His own worked example: "how to build
+a personal brand" (generic, no stakes) vs. "how to build a personal
+brand, I don't mind coming from 30k to 50k" (concrete, "everybody will
+wanna sit down and watch that").*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

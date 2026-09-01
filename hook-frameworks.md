@@ -149,12 +149,29 @@ belongs in `body_angle` instead. Literally trying "How to..." or a
 short imperative/declarative as the opening move is usually the
 fastest way back to this shape.
 
+**Second hard rule, added after shortening alone made things worse
+(see P32 in `principles.md`): the parenthetical/tail must contain a
+real number, a real named outcome, or a real specific scenario, never
+a vague qualifier standing in for one.** "How much marathon training
+actually burns (it's a lot)" is short and still fails, "it's a lot"
+isn't a fact, it's a placeholder where a number belongs. Compare to
+Luke's own top-performing real posts (P32): "How to actually use
+strides (To get you a PB)," "How to build a sauna into your easy run
+*(to make racing easier)." Both tails name something concrete the
+viewer gets. This is Ogilvy's own headline discipline (P15): a
+specific, concrete benefit or number beats an abstract topic label
+every time, "how to build a personal brand" is meh on its own, "how
+to build a personal brand, from 30k to 50k" is not. Before finalizing
+any parenthetical, ask whether it's a fact or a filler word doing a
+fact's job.
+
 *Source: Briar Cochran research doc (on-screen text segment,
 referencing a tool integration with a company called Artec). The
 mandatory-field and anti-reversal-cliché rules are Luke's own direct
-feedback — see P21 in `principles.md`. The length/shape correction is
-Luke's own direct feedback too, comparing output against HF10's real
-examples.*
+feedback — see P21 in `principles.md`. The length/shape correction and
+the concrete-tail rule are Luke's own direct feedback too, comparing
+output against HF10's real examples and his own account's real top
+performers (P32).*
 
 ## HF7 — Outcome/solution template swipe file
 
