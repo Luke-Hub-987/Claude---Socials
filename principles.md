@@ -201,6 +201,25 @@ audiences notice.
 brand" segment about staying true to yourself and curated
 partnerships).*
 
+## P15 — On-screen text is the headline, the caption barely matters
+
+For IG/TikTok video formats, reach is driven by the on-screen text
+overlay, not the caption underneath the post. Treat on-screen text the
+way David Ogilvy treated ad headlines: "on average, five times as many
+people read the headline as read the body copy" — so the on-screen
+text is where nearly all the copywriting effort belongs, and the
+caption is not a ranking factor worth optimizing. Practically: when
+`/ideate-*` produces a `hook` for an `IG_reel`, `IG_carousel`, or
+`YT_short`, write it as the actual on-screen text/headline that would
+appear on screen, not as a spoken intro line or a caption. This lines
+up with HF6 in `hook-frameworks.md` (on-screen text copywriting) —
+HF6 is the primary framework for these formats, not a secondary one.
+
+*Source: Luke's own stated operating belief, backed by his own
+account performance data (see `brands/personal/voice.md` and
+`brands/engine-room-nutrition/voice.md` for the real on-screen-text
+samples this was built from) and Ogilvy's headline research.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

@@ -65,8 +65,15 @@ is empty, ask:
 > 1. **YouTube channels** — 2-5 creators/brands in nutrition/fitness.
 > 2. **Subreddits** — 3-5 where ERN's customers hang out.
 > 3. **Instagram accounts** — 3-5 competitor brand handles (no @).
+> 4. **TikTok accounts** — 2-5 competitor brand handles (no @).
 >
 > Skip any that don't apply."
+
+If `research/reddit-running-themes-summary.md` exists, it already
+surfaced real organic competitor mentions (Maurten, Skratch Labs,
+Gatorade, Nuun, SIS, Tailwind, Huma) from Luke's own Reddit research —
+offer these as a starting list to confirm/adjust rather than asking
+fully cold.
 
 Write it using this schema:
 
@@ -87,6 +94,9 @@ updated_at: <today, via `date +%Y-%m-%d`>
 - r/subreddit1
 
 ## Instagram handles
+- creator1
+
+## TikTok handles
 - creator1
 ```
 

@@ -70,6 +70,21 @@ progressive intrigue and story structure).*
 
 ## HF6 — On-screen text: 5 copywriting principles
 
+**This is the primary framework for IG_reel/IG_carousel/YT_short
+formats, not a secondary one** — see P15 in `principles.md`: on-screen
+text drives reach, the caption barely matters. When `/ideate-*`
+produces a `hook` for these formats, write it as the literal on-screen
+text, not a spoken line or caption.
+
+Luke's own account history (`brands/personal/voice.md`,
+`brands/engine-room-nutrition/voice.md`) is full of real examples of
+this pattern already working — e.g. "How to actually use strides (To
+get you a PB)" is dream-outcome-in-parentheses; "How to build a sauna
+into your easy run *(to make racing easier)" is the whisper technique;
+"Q: How do you decide between recovery and rest?" is a direct
+pain-point/curiosity question. Use those as a starting reference before
+inventing something new.
+
 For on-screen text/captions overlaid on video (not the spoken hook):
 
 1. **Curiosity** — allude to something you'll reveal later.

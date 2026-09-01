@@ -1,23 +1,69 @@
 ---
 type: my-brand
 section: voice
-status: _pending_
-updated_at: _pending_
+status: draft
+updated_at: 2026-08-31
 ---
 
-# Voice — Luke (Personal Brand)
+# Voice — Luke (Personal Brand, @luke_morrison_er)
 
-_pending_ — run `/onboard-personal` to fill this in.
+**Draft, built from real on-screen text + view counts Luke shared
+(screenshots of his own IG grid), not yet confirmed by him.** Per
+P15 in `principles.md`, on-screen text is the actual headline for
+these formats — the caption underneath barely matters for reach — so
+these are pulled from the on-screen overlays, not captions.
 
-## Voice signature
-_pending_
+## Voice signature (drafted, confirm/adjust)
 
-## Voice samples
-_pending_ (need 2+ pieces of your own past writing: captions, scripts,
-LinkedIn posts, tweets, whatever you've actually published or drafted)
+Relatable, matter-of-fact runner who also works a demanding office job
+— the voice sits at the intersection of running-technique advice and
+career/burnout advice for people doing both at once. Blunt and
+practical rather than motivational-fluffy. Comfortable with mild
+profanity and self-deprecation. Skeptical of received wisdom: a
+recurring move is putting a common word in scare quotes ("actually,"
+"good," "real," "normal") to signal "that word is doing less work than
+people think."
 
-## Vocabulary / phrases you actually use
-_pending_
+## Voice samples (real on-screen text, verbatim from Luke's own posts)
 
-## Hard rules (things you never say / never do)
-_pending_
+- "How to actually use strides (To get you a PB)" — 2,266 views
+- "How to FULLY finish every workout (Far stronger than everyone else)" — 1,759
+- "What's it actually like to Climb - Benbulben" — 148,000 views (huge outlier, see pillars.md)
+- "How I Went From Run/Walk To 3K Straight (1 Lamppost At A Time)" — 561
+- "How to switch off from work by 6PM (I found out what's killing your work brain for high performers just like you)" — 817
+- "Q: If it's hot on race day, should I pour water over myself to cool down?" — 2,505
+- "How do I distinguish between 'good' race pain and a genuine injury? (and you can't tell the difference)" — 1,891
+- "3 reasons I run on holiday (the 3rd is the one nobody admits)" — 1,830
+- "Are they trail running... or are they just walking really fast?" — 2,578
+- "One missed session out of 1,200 hours of training (but you lie awake like it's all over)" — 462
+- "How to become so f**kin interesting - everyone will want to work with you" — 1,662
+- "How to never miss your run after work (*Without it costing your career)" — 721
+- "How runners outperform the people staying late (Output>presence)" — 630
+- "How to log off without guilt" — 679
+- "How to leave on time (Without killing your career)" — 2,260
+- "How to build a sauna into your easy run *(to make racing easier)" (caption: "And the absolute shit weather we have here in Ireland") — 1,770
+- "How to run when you \"think\" everyone is watching you (*Spotlight effect)" — 313
+- "When you \"actually\" need a gel (*To absolutely smash your race)" — 631
+- "How to stop letting your head end your runs early *(4K in to 5K)" — 1,539
+- "The \"real\" problem with running everything easy (+what I do now)" — 518
+- "Q: When does running 20K feel \"normal\"? (How to get there)" — 1,610
+- "Q: How to know if you \"actually\" raced? (When most take part)" — 133
+- "Q: How to know if you're actually building a base (That nobody asks this when you're training)" — 770
+- "Running in the hottest place on earth" (+ "Can I do 5K?") — 687
+- "Feeling slow asf at Parkrun" — 606
+
+## Vocabulary / phrases you actually use (drafted from the samples above)
+
+- "actually" as a contrarian marker before a claim ("actually use," "actually eat," "actually raced," "actually building a base")
+- Scare-quoting a word to undercut it: "good" race pain, "real" problem, "normal," "think" everyone is watching
+- Parenthetical twist/reveal after the main hook, often prefixed `*` or `+`
+- "Q:" as a direct hook prefix for question-led posts
+- Specific real numbers, never rounded/vague: "1,200 hours," "18:53," "4K in to 5K," not "a lot of training" or "a fast time"
+- Self-deprecating humor: "slow asf," "shit weather"
+
+## Hard rules (drafted — confirm scope)
+
+_pending confirmation_ — mild profanity ("f**kin," "asf," "shit") shows
+up in some real posts. Confirm: is that fine everywhere, or reserved
+for specific pillars/moods? Also confirm: any topics or words you
+explicitly want kept out regardless of what's performed well before.

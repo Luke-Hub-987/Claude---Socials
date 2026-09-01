@@ -32,6 +32,11 @@ content (or merge it in) so `/ideate-*` is enforcing the real rules.
   you'd actually say it out loud to one person.
 - Lead with the claim or the tension, not the setup.
 - One idea per hook. If a hook needs "and" to hold two claims, split it.
+- For IG/TikTok/YT_short formats, the `hook` field is the on-screen
+  text overlay, not spoken audio and not the caption. Captions don't
+  drive reach on these platforms (P15, principles.md) — the on-screen
+  text does all the work a headline does. Don't waste effort polishing
+  a caption; put it into the on-screen text instead.
 
 ## Per-brand overrides
 

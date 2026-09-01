@@ -1,6 +1,6 @@
 ---
 name: ideate-ern
-description: Generate 10 content ideas for Engine Room Nutrition by scanning YouTube outliers, Reddit top posts, and IG competitor reels, then applying Briar's frameworks + ERN's brand voice. Every idea cites a real source URL.
+description: Generate 10 content ideas for Engine Room Nutrition by scanning YouTube outliers, Reddit top posts, IG competitor reels, and TikTok competitor videos, then applying Briar's frameworks + ERN's brand voice. Every idea cites a real source URL.
 argument-hint: "[optional: pillar name or topic to focus on]"
 allowed-tools: Bash(python3 *) Bash(cat *) Bash(ls *) Bash(grep *) Bash(date *) Read Write
 ---
@@ -74,17 +74,36 @@ python3 scripts/ig_outliers.py \
   --output /tmp/ig_outliers_ern.json
 ```
 
-Tell the user: "Scanning Instagram via Apify, this takes the longest,
-60-120 seconds." Read the JSON, report.
+Tell the user: "Scanning Instagram via Apify, this can take a few
+minutes." Read the JSON, report.
 
-Common errors to handle:
+## Step 4 — Scrape TikTok
+
+Read the TikTok handles from `brands/engine-room-nutrition/competitors.md`. Run:
+
+```bash
+python3 scripts/tiktok_outliers.py \
+  <space-separated-handles> \
+  --output /tmp/tiktok_outliers_ern.json
+```
+
+Tell the user: "Scanning TikTok via Apify, this can take a few
+minutes too." Read the JSON, report. If no TikTok handles are listed,
+skip this step.
+
+Common errors to handle (all three Apify-backed scripts: Instagram,
+Reddit, TikTok):
 - `APIFY_API_TOKEN not set` (or `YOUTUBE_API_KEY`) → tell the user to
-  fill in `.env` from `.env.example`. Reddit scraping uses the same
-  Apify token as Instagram, no separate Reddit credential exists.
+  fill in `.env` from `.env.example`. Reddit and TikTok scraping use
+  the same Apify token as Instagram, no separate credential exists for
+  either.
+- Apify run didn't finish within its wait budget → the script aborts
+  the run itself and reports the error; note it in the brief, don't
+  retry more than once
 - One handle/subreddit private, banned, or scrape failed → script
   continues with others; note it in the brief
 
-## Step 4 — Generate 10 ideas
+## Step 5 — Generate 10 ideas
 
 Synthesize 10 ideas using:
 
@@ -100,7 +119,13 @@ Synthesize 10 ideas using:
 
 - **Max 3 from YouTube**
 - **Max 2 from Reddit**
-- **Min 5 from Instagram** (primary source)
+- **Max 3 from TikTok**
+- **Min 5 from Instagram** (primary source — this is where ERN
+  actually publishes; the other three are discovery/research sources)
+
+These are independent caps, not required allocations — they won't all
+hit their max in the same 10-idea batch (5+3+2+3 = 13 > 10). Fill
+toward the Instagram floor first, then round out with the others.
 
 ### Mix across pillars
 
@@ -123,7 +148,7 @@ If no focus argument was passed:
   hook_framework: <name from hook-frameworks.md>
   source:
     creator: <handle or name>
-    platform: <youtube | reddit | instagram>
+    platform: <youtube | reddit | instagram | tiktok>
     url: <FULL real URL from the scraped JSON, must be reachable>
 ```
 
@@ -139,7 +164,7 @@ If no focus argument was passed:
   `voice.md`. If an idea would need an unverified product or efficacy
   claim to work, drop it rather than inventing one.
 
-## Step 5 — Validate
+## Step 6 — Validate
 
 Write the 10 ideas to `/tmp/ideate-draft-ern.json`:
 
@@ -162,9 +187,9 @@ up to 2 times. If still failing, write what you have to
 `ideas/engine-room-nutrition/<date>-brief.md` but flag the unvalidated
 ideas clearly.
 
-If validation PASSES, continue to step 6.
+If validation PASSES, continue to step 7.
 
-## Step 6 — Write the brief
+## Step 7 — Write the brief
 
 Get today's date with `date +%Y-%m-%d`. Write to
 `ideas/engine-room-nutrition/<date>-ideate-brief.md`:
@@ -180,6 +205,7 @@ sources_scraped:
   youtube: <N outliers>
   reddit: <N posts>
   instagram: <N reels>
+  tiktok: <N videos>
 validation: passed | failed-after-retries
 ---
 
@@ -210,11 +236,12 @@ research. Pick the ones worth making. Star or comment in the file.
 YouTube outliers analyzed: <N>. Top creators: ...
 Reddit top posts analyzed: <N>. Top subreddits: ...
 Instagram reels analyzed: <N>. Top accounts: ...
+TikTok videos analyzed: <N>. Top accounts: ...
 ```
 
 Also print a clean readable summary to the terminal.
 
-## Step 7 — Wrap up
+## Step 8 — Wrap up
 
 Tell the user:
 
@@ -231,9 +258,9 @@ why.
   file in /tmp. If you can't find a real source, drop the idea.
 - **No em-dashes** anywhere in the brief.
 - **No two ideas cite the same creator.**
-- **Quotas: ≤3 YouTube, ≤2 Reddit, ≥5 Instagram.** If you can't hit the
-  IG minimum, reduce the total (e.g. output 7) rather than padding
-  with extra YT.
+- **Quotas: ≤3 YouTube, ≤2 Reddit, ≤3 TikTok, ≥5 Instagram.** If you
+  can't hit the IG minimum, reduce the total (e.g. output 7) rather
+  than padding with extra YT/TikTok.
 - **If voice doc is thin** (under 2 voice samples), flag it at the top
   of the brief.
 - **No invented product/efficacy claims.**

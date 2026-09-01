@@ -74,6 +74,7 @@ If `brands/personal/competitors.md` doesn't exist yet or is empty, ask:
 > 1. **YouTube channels** — 2-5 creators, handles or URLs.
 > 2. **Subreddits** — 3-5 where your audience hangs out.
 > 3. **Instagram accounts** — 3-5 competitor handles you respect (no @).
+> 4. **TikTok accounts** — 2-5 competitor handles you respect (no @).
 >
 > Skip any that don't apply."
 
@@ -96,6 +97,9 @@ updated_at: <today, via `date +%Y-%m-%d`>
 - r/subreddit1
 
 ## Instagram handles
+- creator1
+
+## TikTok handles
 - creator1
 ```
 
