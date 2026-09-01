@@ -30,6 +30,15 @@ an unusual take that also delivers value), and a **connection back to
 money or a specific benefit** (the content ties back to your actual
 business, not just engagement for its own sake).
 
+Directly from Briar (podcast transcript,
+`research/briar-ai-podcast-transcript.txt`): he cites a Neil Patel
+study of ~1,000 videos that all had 100,000+ views — the only two
+things present in 100% of them were a good hook and novel information
+(the "unique" part of this principle). TAM isn't "bigger is always
+better" either: it's a deliberate choice per video based on your goal
+— a tightly-scoped TAM can be exactly right when you want to build
+authority with a specific viewer, a wide TAM when you want reach.
+
 *Source: Briar Cochran. Luke also cites a creator he calls "Kayla
 Bronson" (spelling unconfirmed, worth double-checking) making the same
 "unique valuable angle to a real problem" point independently — this
@@ -71,23 +80,31 @@ casual viewer, and a complete outsider all click and enjoy this?
 *Source: Paddy Galloway, cited approvingly and reused by Briar
 Cochran.*
 
-## P4 — The Accordion Method / content market fit
+## P4 — The Accordion Method (attribution resolved: Caleb Ralston, via Briar)
 
-Post high volume cheaply first (minimum viable content, "MVC") to find
-what resonates, then compress: take your best-performing themes (not
-just the winning individual video — the underlying theme/format/angle)
-and re-post fewer, better, more polished versions of them. Concretely,
-per the notes: post ~10-15x/week on a discovery platform (TikTok) to
-find content market fit, then compress the winning themes down to
-~5-7x/week and polish, then push the best performers up to
-longer-form (YouTube). This mirrors lean-startup "product market fit"
-applied to content.
+Confirmed directly from Briar's own words (podcast transcript,
+`research/briar-ai-podcast-transcript.txt`): "I pulled it from Caleb
+Ralston actually and I've just modified it a hair, but I want to give
+him all of the credit for this." Three phases, more precise than the
+earlier secondary-source version of this principle:
 
-*Source: attributed in the notes to "Caleb Ralston" in one place and
-folded into Briar Cochran's own material elsewhere — the notes aren't
-fully consistent on whose original framework this is. Treat "Accordion
-Method" as Briar Cochran's applied version regardless of origin; flag
-to Luke if exact attribution matters for citing him publicly.*
+1. **Compressed phase** — when you don't yet have the skill, post
+   *minimum* once a day and spend the rest of your time consuming
+   content education (podcasts, other strategists), not making more.
+   Run this ~30 days, until you're consistently getting real traction
+   (his benchmark: 1,000-3,000 views).
+2. **Expanded phase** — once the skill is there, expand to 2-3x/day
+   and flip the ratio: more making, less learning. Run this 30-60
+   days to generate real volume and real data (his own example: ~180
+   pieces of content).
+3. **Re-compressed phase** — take the top 15-20 performers from that
+   volume and compress effort back into making *those* better: a
+   nicer camera, a better location, testing 10 hooks on one video.
+   Once revenue supports it, add editors and expand back out to
+   2-3x/day while holding that higher quality bar.
+
+*Source: Caleb Ralston (original), Briar Cochran (this specific
+applied version, credited explicitly).*
 
 ## P5 — Niche vocabulary / the iceberg
 
@@ -225,13 +242,86 @@ account performance data (see `brands/personal/voice.md` and
 `brands/engine-room-nutrition/voice.md` for the real on-screen-text
 samples this was built from) and Ogilvy's headline research.*
 
+## P16 — Ideas beat hooks: the language of social media, in order
+
+Directly from Briar, and a genuine reordering worth internalizing: "the
+backbone of a truly phenomenal personal brand is great ideas... hooks
+don't actually matter as much as people make them seem like they
+matter." His stated hierarchy, in priority order:
+
+1. **Topics/ideas** — what are you actually talking about. The
+   foundational layer; everything else is polish on top of this.
+2. **Formats** — the visual way a video is delivered: green screen,
+   native on-screen captions, split-screen/mirror-board, "clone"
+   (talking to yourself) videos. Underrated and often the lowest-effort
+   lever: switching formats alone can meaningfully change performance.
+3. **Hooks** — curiosity in the opening (this is where
+   `hook-frameworks.md` HF1-HF9 apply). Real, but third, not first.
+4. **Storytelling** — taking the viewer through a journey, informed by
+   looking at the data on what actually landed.
+
+Practical implication for `/ideate-*`: idea/topic selection (P1, P6)
+is where the real work and real research should go. Hook-crafting
+(hook-frameworks.md) is applied after a good topic is chosen, not a
+substitute for one. Format (which of `IG_carousel | IG_reel | ...`)
+deserves real thought too, not a default.
+
+*Source: Briar, directly.*
+
+## P17 — Why Reddit, YouTube, and cross-niche competitors specifically
+
+Briar's own stated reasoning for the three research sources this
+system already scrapes — useful to know *why*, not just *that*:
+
+- **Reddit**: conversation is anonymous, so it's unfiltered in a way
+  Instagram comments aren't (people don't actually dialogue honestly
+  in an IG comment the way they do on Reddit).
+- **YouTube**: a "permission-based" platform — the viewer has to
+  choose to click, unlike short-form's autoplay feed. That means a
+  video's title and thumbnail carry concentrated signal about why it
+  worked; you can study an outlier's title/thumbnail alone without
+  watching the full video, which is why `yt_outliers.py` works on
+  view-count/title data rather than transcripts.
+- **Cross-niche competitors**: 10-20 recommended, and they don't have
+  to be in your niche. "Competitor" is the wrong word — "inspiration"
+  is more accurate. When picking them, note *why* you like each one
+  AND what you don't want copied from them (e.g. "I love his business
+  content, I don't love his relationship content") — that nuance is
+  what should get carried into `competitors.md`, not just a bare
+  handle list.
+
+*Source: Briar, directly.*
+
+## P18 — Choose ideas by passion, not by guessing what's good
+
+When a batch of ideas comes back, the selection heuristic is which
+ones you're genuinely excited to make, not which ones you predict will
+perform. Passion shows on camera and drives better delivery; most
+people's guesses about what will land are unreliable anyway, so
+prioritizing enthusiasm is both more honest and, empirically, tends to
+correlate with better output. Counter-rule: if genuinely nothing in a
+batch excites you, make one anyway rather than waiting for
+inspiration — an unfilled content slot is worse than an imperfect one.
+
+*Source: Briar, directly.*
+
+## P19 — Bullet points, not full scripts, for most people
+
+Full scripts read as robotic for most creators (teleprompter delivery
+works for some people, but it's the exception) — reading a script
+suppresses personality, which is the actual thing making content work
+right now. Stumbling, "um," restarting a thought mid-sentence: these
+read as authentic in the current climate, not as mistakes to edit out.
+Practical implication for `/ideate-*`: a `body_angle` should read as
+talking points to riff on, not a verbatim script to read aloud.
+
+*Source: Briar, directly.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
   "Brian grew up around wrestling" examples in the raw research) the
   same person as Briar Cochran, or a separate creator he's citing as
   an example in his own content? Matters for how confidently
-  `/ideate-*` can attribute P5.
-- Is the Accordion Method (P4) Briar Cochran's own framework, Caleb
-  Ralston's, or Briar's adaptation of Caleb Ralston's? Only matters if
-  you want public-facing attribution to be exact.
+  `/ideate-*` can attribute P5. (P4's Accordion Method attribution is
+  now resolved — see P4 above — this is the one remaining open item.)

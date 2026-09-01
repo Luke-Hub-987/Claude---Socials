@@ -29,8 +29,20 @@ mine detail that didn't make it into the distilled versions.
   maximizer vs. targeted views, packaging/thumbnail principles,
   channel growth phases (establishment / improvement / optimization).
 
+- `briar-ai-podcast-transcript.txt` — full podcast interview with
+  Briar as the actual guest (confirms he's a real named person, not a
+  transcription artifact): ideas-over-hooks priority ("the language of
+  social media": topics, formats, hooks, storytelling), what makes a
+  great idea (TAM + unique/novel + specific psychology, with a Neil
+  Patel study citation), the Accordion Method's real origin (Caleb
+  Ralston, credited by Briar directly) with precise 3-phase detail,
+  why Reddit/YouTube/cross-niche-competitors specifically, passion as
+  the idea-selection heuristic, and — not coincidentally — a detailed
+  walkthrough of the exact AI-agent ideation skill this whole repo's
+  `/onboard-*` and `/ideate-*` skills are a reconstruction of.
+
 See `principles.md` and `hook-frameworks.md` at the repo root for the
-distilled, numbered (P1-P14, HF1-HF8) versions these skills actually
+distilled, numbered (P1-P19, HF1-HF9) versions these skills actually
 cite.
 
 ## Audience research (Engine Room Nutrition)

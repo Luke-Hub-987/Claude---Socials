@@ -115,6 +115,11 @@ Synthesize 10 ideas using:
 - Universal voice rules (`voice-rules.md`)
 - The actual outlier content from `/tmp/*_ern.json`
 
+Per P16 (principles.md): spend the real effort on topic/idea
+selection first (P1 TAM+unique+psychology, P6 idea funnel) — hooks are
+a later, smaller lever, not the primary one. Write `body_angle` as
+talking points to riff on (P19), not a verbatim script.
+
 ### Hard quotas (non-negotiable)
 
 - **Max 3 from YouTube**

@@ -177,3 +177,9 @@ so for a single carousel slide or a short-form hook-only post).
 Every hook produced from these frameworks still has to clear
 `voice-rules.md` (no em-dashes, no hedging, no corporate filler) and
 whichever brand's own `voice.md` hard rules apply.
+
+**Read P16 in `principles.md` before leaning too hard on this file.**
+Per Briar directly: hooks matter less than people think — topic/idea
+selection (P1, P6) is the real lever, hooks are third in his stated
+priority order (topics, formats, hooks, storytelling). Use these
+frameworks to sharpen a good idea, not to rescue a weak one.
