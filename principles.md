@@ -128,10 +128,36 @@ the obvious. Find it via Reddit, time-in-niche, and layered polling
 (not "what do you want" but progressively deeper follow-up questions).
 Move the vocabulary you surface directly into your hooks/titles.
 
+**Luke's own illustration of this, worth keeping as the go-to mental
+model:** a football (soccer) analogy. A general topic like "how to
+pass the ball" gets a shrug from anyone who's played, "yeah, of course
+I know that." A hyper-specific, position-and-situation topic, "how to
+mirror an attacker from the left-back angle," gets a completely
+different reaction from someone who actually plays left-back: "oh
+yeah, I'm really struggling with that specifically." Same sport,
+same general subject, wildly different response, because one is
+surface-level and one is two layers down. This is the same mechanism
+P29 tests for from the output side (would someone be desperate for
+the answer); P5 is how you find that topic in the first place, by
+going as specific as "left-back mirroring an attacker," not stopping
+at "passing."
+
+**A real example of the failure mode, caught live by Luke watching a
+training video:** it opened with "training harder is not smarter,"
+paused, then "I'm gonna teach you how to become a smarter runner."
+His own reaction: "I'm kind of numb to that. There's nothing
+exceptional, nothing different, nothing that differentiated." That's
+a surface-level topic (train smart vs. hard) wearing a curiosity-hook
+costume, not an actual left-back-angle topic. It's the P29 failure
+mode from the P5 side: generic advice restated with a contrarian
+wrapper isn't the same as finding the two-layers-down topic.
+
 *Source: Briar Cochran's notes, illustrated with a wrestling-content
 example attributed to someone referred to as "Brian" in the notes —
 unclear if this is Briar Cochran himself (transcription drift) or a
-separate person he's citing. Worth confirming with Luke.*
+separate person he's citing. Worth confirming with Luke. The
+football/left-back analogy and the "train harder is not smarter"
+counter-example are Luke's own, directly.*
 
 ## P6 — The idea funnel
 

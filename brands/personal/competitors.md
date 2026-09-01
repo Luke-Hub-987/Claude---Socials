@@ -28,6 +28,15 @@ All confirmed working (real content pulled from each):
 - Greg Lavecchia — `@GregLaVecchia` (CEO/co-founder of Bloom Nutrition,
   not Cadence — corrects an earlier mix-up with Ross Mackay's company)
 - Johnny Harris — `@johnnyharris`
+- Stephen Scullion — `@stephenscullion262` (Olympic marathoner,
+  2:09 PB, running-focused channel, added by Luke, verified via search
+  + scrape, 100K+ subscribers)
+- Ben Parkes — `@BenParkes` (2:25 marathon PB, training/gear-review
+  channel, added by Luke, verified via search + scrape, 219K
+  subscribers)
+- Untapped with Spencer Matthews — `@Untapped-Podcast` ("the #1
+  podcast for runners," Spencer Matthews interviewing elite
+  athletes/coaches, added by Luke, verified via search + scrape)
 
 Note: BPN (Bare Performance Nutrition) doesn't have a separate YouTube
 channel from Nick Bare's — his channel IS the BPN channel on this
@@ -58,6 +67,9 @@ Confirmed working (real content returned):
   was a different real Sean Casey and should not be used)
 - jeffnippard (Jeff Nippard — added by Luke, well-known exercise
   science YouTuber/creator, cross-niche fitness inspiration)
+- lionscull (Stephen Scullion — his Instagram handle doesn't match his
+  name, verified via search + scrape)
+- benparkes (Ben Parkes — verified via search + scrape, 88K followers)
 
 Confirmed real handle via search, but returned no posts on this scrape
 (worth retrying, possibly rate-limited rather than wrong):
