@@ -118,6 +118,13 @@ Synthesize 10 ideas using:
 - Briar's hook frameworks (`hook-frameworks.md`)
 - Universal voice rules (`voice-rules.md`)
 - The actual outlier content from `/tmp/*_personal.json`
+- **`research/reddit-running-research-manual.txt`** — Luke's own
+  manual research (~7,264 lines of real ICP posts/questions). Per his
+  direct instruction, this is the default *topic* source: filter it
+  for a real, specific, already-asked question first, then apply the
+  hook-craft toolkit (P21, P29, P32, HF6, HF10) to the packaging. The
+  outlier scrapes (`/tmp/*_personal.json`) are a hook-craft/format
+  reference (P17), not the first place a topic should come from.
 
 Per P16 (principles.md): spend the real effort on topic/idea
 selection first (P1 TAM+unique+psychology, P6 idea funnel) — hooks are
