@@ -296,6 +296,43 @@ plus two of his clients' accounts, `@christian.j.lynch` and
 `brandon_trajano`). Used here as a pattern-shape reference per Luke's
 explicit instruction, not as source text to copy.*
 
+**Second real-account check, this time actually pulled live from
+TikTok (`@briarcochran` and `@dantebrunelli_2`, cover-image scrape,
+not the OST screenshot doc)**, specifically because the system had
+started converting every topic into a scenario-question and Luke
+flagged that as its own new sameness trap. Neither of these two real
+accounts uses a question as their primary device, not once across 11
+real videos checked. Four patterns present in the live data that
+weren't in the original library:
+
+9. **Named-concept headline** — "Hook stacking," "Super hooks,"
+   "Witnessing consistency." Two to three words, no verb needed, just
+   naming something that sounds like an insider term. The curiosity is
+   "what does that actually mean," not a question mark doing the work.
+10. **The formula/equation device** — "Niched idea + mind share =
+    Quality virality." A genuinely distinct structural device, states
+    a cause-and-effect relationship as literal math. Nothing else in
+    this library does this.
+11. **Audience-filtering subtext** — "⚠️ For advanced business
+    owners" under "Why you can't sell to cold traffic." Doesn't chase
+    everyone, explicitly filters OUT who it's not for, which is what
+    makes the right viewer feel directly spoken to. Directly the
+    "speak to one person, one person only" instruction Luke gave
+    separately.
+12. **Real stakes/scale as pure credibility** — "WE SPEND MILLIONS ON
+    META." A huge, concrete, checkable-sounding number used with no
+    other hook mechanism at all, the scale alone does the work.
+
+**Rule this forces on `/ideate-*`: don't let any single device (not
+even scenario-questions, which worked well in the last pass) become
+the default for every topic in a batch.** Mix devices deliberately,
+same as these two real accounts do across their own real output.
+
+*Source: live TikTok scrape of `@briarcochran` and `@dantebrunelli_2`
+(video cover images, since on-screen text is burned into the frame
+and isn't in the caption metadata), per Luke's direct request to look
+at these two specific accounts.*
+
 ## HF11 — The Double Aha
 
 Good content delivers one hit of dopamine before a viewer scrolls
