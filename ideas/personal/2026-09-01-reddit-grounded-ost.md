@@ -33,6 +33,37 @@ packaging move to 5 headlines, not a full rebuild:
 5. **"The most embarrassing marathon problem nobody talks about"**
    (from #2, sharpened for directness)
 
+## Round 3 — real originality wrapping + deliberate TAM spread
+
+Confirmed: round 2 landed better, but all 5 used the same wrapping
+move (power word + superlative), just P33's device-rotation problem
+again in a new outfit. Luke's own TAM analysis of round 2 named the
+fix directly: the heart-rate hook is deliberately high TAM ("everybody
+has a heart, everyone gets a heart rate," pulls Core/Casual/New at
+once even though it's about running), the marathon-bathroom hook is
+deliberately low TAM/bottom-of-funnel, and a batch should mix widths
+on purpose (now P1 in `principles.md`). This round applies a genuinely
+different P31 wrapping tactic to each hook, not the same formula 5
+times, and tags TAM explicitly:
+
+1. **"180bpm for 5 hours: is that dangerous?"** — unchanged, the
+   confirmed high-TAM winner. Wrap: raw stat stated as the entire
+   hook, no framing needed.
+2. **"Grief has 5 stages. So does a bad race."** — medium TAM. Wrap:
+   cross-domain association (P31), borrows the well-known 5-stages-
+   of-grief framework instead of repeating "worst race ever."
+3. **"The 3 warning signs training has become self-destructive"** —
+   medium-low TAM. Wrap: numbered taxonomy (P31), replaces the vague
+   "exact point" phrasing with 3 nameable signs.
+4. **"The 1 mistake that turns a marathon into a DNF"** — low-medium
+   TAM. Wrap: raised stakes via a named real consequence (DNF, Did Not
+   Finish) instead of a declarative "worst day to test" statement.
+5. **"Nobody preps you for mile-1 bathroom panic"** — low TAM,
+   bottom-of-funnel on purpose, same as before. Wrap: blunt direct
+   address (HF10 pattern #4) instead of the "most embarrassing...
+   nobody talks about" phrasing, and narrows the moment to mile 1
+   specifically.
+
 ## The actual shift this time
 
 Every topic in the last several rounds started from an outlier title,
