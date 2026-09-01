@@ -46,6 +46,23 @@ is what prompted Luke's own Reddit research
 (`research/reddit-running-research-manual.txt`), so the practice
 already exists, this is naming the theory behind it.*
 
+**Deliberate TAM variety within a batch, not just per video.** Luke's
+own worked analysis of a 5-hook batch: "180bpm for 5 hours, is that
+dangerous" is high TAM on purpose, because a heart rate spiking under
+load isn't a running-specific fact, "everybody has a heart, everyone
+gets a heart rate," so it pulls Core, Casual, and New (P3's CCN) at
+once even though the content is about running. A hook about the
+specific bathroom logistics of marathon day is deliberately low TAM,
+bottom-of-funnel, speaking to people already deep in the sport. Both
+are correct choices, not a mistake to fix, as long as a batch mixes
+them on purpose rather than landing on one width by accident. When
+building a set of hooks, tag each one's rough TAM (high/medium/low)
+the same way `/ideate-*` already tags pillar and hook framework, and
+check the spread across the batch, not just each hook in isolation.
+
+*Source: Luke, directly, analyzing a 5-hook batch and explicitly
+naming which ones were high vs. low TAM and why that's fine.*
+
 ## P2 — Counter positioning (3 tactics)
 
 To stand out or find your niche, counter-position one of three ways:
