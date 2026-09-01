@@ -226,6 +226,24 @@ on his own account, it says nothing. A named-concept hook still needs
 one concrete anchor (a group, a number, a named mechanism), the
 concept alone isn't enough.
 
+**Funnel-stage distinction, confirmed by which hooks Luke actually
+kept across two rounds of feedback.** "Why ex-military founders become
+endurance athletes" was singled out as the standout, specifically
+because it's a genuinely novel juxtaposition nobody else is covering,
+pure top-of-funnel curiosity, no prior knowledge needed to want the
+answer. "Excellence = pain tolerance" was kept but flagged as "a bit
+top of funnel" itself, meaning even a good real quote can read as
+already-known packaged wisdom rather than a new juxtaposition. The
+fix demonstrated in the same feedback: push a quote/formula hook
+further toward the named-group-and-mechanism structure too, name the
+actual person behind the quote and the specific claim, not just the
+abstract formula. "Excellence = pain tolerance" is more expected than
+"Why Travis Kalanick says talent is the wrong metric," even though
+both come from the same real source. When building a batch, bias
+toward the genuinely novel cross-context juxtaposition (an unexpected
+group doing an expected thing, or an expected group doing an
+unexpected thing) over a well-packaged but familiar formula.
+
 *Source: Briar Cochran, cross-referenced from P2. The "why do CEOs run
 marathons" sub-pattern and the "great humbling" counter-example are
 Luke's own, directly.*
