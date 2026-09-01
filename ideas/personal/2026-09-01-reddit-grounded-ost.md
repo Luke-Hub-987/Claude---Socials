@@ -7,6 +7,32 @@ source: research/reddit-running-research-manual.txt (real ICP posts, 7,264 lines
 
 # Reddit-Grounded On-Screen Text (Personal) — 2026-09-01
 
+## Round 2 — 5 upgraded headlines, per direct feedback
+
+The bar sharpened further after reviewing round 1: #9 ("worst race
+ever") and #10 ("self-destructive") were the 2 clear winners, praised
+for being clear, simple, and carrying real stakes. The rest read as
+either no-stakes ("meh, I don't care about the rule") or, in one case,
+too clever to parse quickly (the "slow run" one, called out as
+confusing despite being specific). Luke's own worked edit on #9:
+"what actually helps" becomes "what literally happens after the worst
+race you've ever had" — a power word ("literally"), a superlative
+("worst... ever"), direct address ("your"). Applying that exact
+packaging move to 5 headlines, not a full rebuild:
+
+1. **"What literally happens after the worst race of your life"**
+   (#9, upgraded with Luke's own edit almost verbatim)
+2. **"The exact point training becomes self-destructive"** (#10,
+   sharpened, same real stakes, more precise)
+3. **"180bpm for 5 hours: is that dangerous?"** (from #1, the real
+   number now paired with the real, direct stakes-question the
+   original poster actually had)
+4. **"The worst day to test new fueling: race day"** (from #6, the
+   real stakes made explicit: a ruined race, not just "gels matter
+   at some point")
+5. **"The most embarrassing marathon problem nobody talks about"**
+   (from #2, sharpened for directness)
+
 ## The actual shift this time
 
 Every topic in the last several rounds started from an outlier title,
