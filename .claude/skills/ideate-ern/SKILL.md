@@ -114,6 +114,15 @@ Synthesize 10 ideas using:
 - Briar's hook frameworks (`hook-frameworks.md`)
 - Universal voice rules (`voice-rules.md`)
 - The actual outlier content from `/tmp/*_ern.json`
+- **`research/reddit-running-research-manual.txt`** — real ICP posts,
+  arguably more directly ERN's category than the personal brand's
+  (dense with real fueling/GI-distress/carb-load/gel/hydration
+  content). Per the same instruction that applies to
+  `/ideate-personal`, this is the default *topic* source: filter for
+  a real, already-asked question first, then apply the hook-craft
+  toolkit (P21, P29, P32, P35, HF6, HF10) to the packaging. The
+  outlier scrapes are a hook-craft/format reference (P17), not the
+  first place a topic should come from.
 
 Per P16 (principles.md): spend the real effort on topic/idea
 selection first (P1 TAM+unique+psychology, P6 idea funnel) — hooks are
