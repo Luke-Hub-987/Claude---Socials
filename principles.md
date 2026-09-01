@@ -863,6 +863,46 @@ a personal brand" (generic, no stakes) vs. "how to build a personal
 brand, I don't mind coming from 30k to 50k" (concrete, "everybody will
 wanna sit down and watch that").*
 
+## P33 — One example is a device to add to the toolkit, not a template to stamp
+
+This has now happened twice with two different devices: after "use
+questions" landed well once, every topic in the next batch became a
+question. After "why do CEOs run marathons" landed well once, most of
+the next batch became "why does [group] do [thing]." Both times Luke
+had to explicitly call it out: "if I give you an example, it doesn't
+mean you just carbon copy the exact [structure]... I've told you this
+three or four times now."
+
+**Rule: when a single example works, extract the device it
+demonstrates (see HF8-HF11 for the growing list: named-concept,
+formula, filtering subtext, group-and-mechanism, numbered taxonomy,
+real-number-flat, direct address, scenario-question), add it to the
+rotation, and deliberately avoid letting it dominate the next batch.**
+No single device should account for more than roughly a quarter of any
+given set of hooks. Before finalizing a batch, count which device each
+hook uses and check the distribution, the same discipline P21 already
+demands for content specificity applies to structural variety too.
+
+## P34 — What the personal brand is actually for
+
+Luke's own explicit gut-check, worth keeping visible: the personal
+brand's business purpose is to build a genuine, engaged running
+audience that complements Engine Room Nutrition once it launches, not
+to be famous for its own sake. **This does not mean forcing ERN or
+carbohydrate content into every video** — his own words: "I don't make
+every video now all of a sudden about carbohydrates just because we're
+selling a carbohydrate bar." The connection is indirect and works
+through P9 (make content for customers, not views): a real,
+trust-built running audience *is* the ERN-complementary asset,
+regardless of whether any single video mentions fueling, a bar, or
+ERN at all. Genuinely good, creative, curiosity-driven running content
+(the kitchen/military/founder cross-niche territory in the current
+topic list included) serves this goal precisely because it's good, not
+despite not being about ERN.
+
+*Source: Luke, directly, checking whether the last few rounds of topic
+work had drifted from the personal brand's actual business purpose.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
