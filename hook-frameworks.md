@@ -122,10 +122,39 @@ types of hills near me (and what each one is actually training)" is
 the reference example to hold every on-screen text hook to: numbered,
 taxonomy-shaped, concretely curious.
 
+**Length and shape, corrected after this rule was followed loosely:**
+the on-screen text got long, explanatory, multi-sentence hooks (e.g.
+"Marathon training can burn through 3,800+ calories in a single heavy
+day. Here's what actually replaces that.") that don't look anything
+like HF10's real examples. Luke's own words: "not anything like the
+OSTs that Briar had or his clients... very long and not good, no how
+tos or anything like Briar's." Checked HF10's actual real examples
+against this: the overwhelming majority are a short **"How to
+[X]"** main clause, roughly 4-9 words, one clause, one sentence, no
+period-separated second sentence. Specificity/curiosity/tease goes in
+a short parenthetical after it (the whisper technique, already
+documented above), not in a second full sentence. Real examples:
+"How to find your niche/rebrand (Counter Positioning)," "How to post
+3x/day (without losing quality)," "How to Become Noticeably More
+Athletic in 90 Days (It only takes 3 Hours a Week)." "The 3 types of
+hills near me (and what each one is actually training)" already
+matches this shape correctly, main clause 7 words, one parenthetical,
+which is exactly why it's worked as the reference example since v3.
+
+**Hard rule going forward:** an `on_screen_text_hook` is one sentence,
+roughly 4-9 words in the main clause, optionally followed by one short
+parenthetical. If it needs a period and a second sentence to make its
+point, it's not an on-screen text hook, it's a script beat that
+belongs in `body_angle` instead. Literally trying "How to..." or a
+short imperative/declarative as the opening move is usually the
+fastest way back to this shape.
+
 *Source: Briar Cochran research doc (on-screen text segment,
 referencing a tool integration with a company called Artec). The
 mandatory-field and anti-reversal-cliché rules are Luke's own direct
-feedback — see P21 in `principles.md`.*
+feedback — see P21 in `principles.md`. The length/shape correction is
+Luke's own direct feedback too, comparing output against HF10's real
+examples.*
 
 ## HF7 — Outcome/solution template swipe file
 
