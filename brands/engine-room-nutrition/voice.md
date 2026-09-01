@@ -27,6 +27,10 @@ least Ep. 4 exists).
 
 ## Voice samples (real on-screen text, verbatim from ERN's own posts)
 
+The two workplace-themed ones below (H&B "most interesting at work,"
+"falling behind at work") are style reference only — workplace/career
+is retired as a pillar, see `pillars.md`.
+
 - "WELCOME TO THE ENGINE ROOM" (pinned intro post) — 6,814 views
 - "Why 2 accountants made a Carb Bar" — 680
 - "How to run the last 10k faster than the first 10k *(Marathon edition)" — 439

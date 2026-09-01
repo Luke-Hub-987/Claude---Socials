@@ -15,16 +15,21 @@ not captions.
 
 ## Voice signature
 
-Relatable, matter-of-fact runner who also works a demanding office job
-— the voice sits at the intersection of running-technique advice and
-career/burnout advice for people doing both at once. Blunt and
-practical rather than motivational-fluffy. Comfortable with mild
-profanity and self-deprecation. Skeptical of received wisdom: a
-recurring move is putting a common word in scare quotes ("actually,"
-"good," "real," "normal") to signal "that word is doing less work than
-people think."
+Relatable, matter-of-fact runner. Blunt and practical rather than
+motivational-fluffy. Comfortable with mild profanity and
+self-deprecation. Skeptical of received wisdom: a recurring move is
+putting a common word in scare quotes ("actually," "good," "real,"
+"normal") to signal "that word is doing less work than people think."
+**Not** a career/workplace voice — see `pillars.md`, that framing is
+explicitly retired, Luke pushed back on it twice.
 
 ## Voice samples (real on-screen text, verbatim from Luke's own posts)
+
+The career/workplace-themed ones below (switch off by 6pm, leave on
+time, log off without guilt, outperform people staying late) are kept
+as **style reference only** — real examples of phrasing patterns
+(parenthetical twist, "Q:" prefix, etc.) — not topics to repeat.
+Career/workplace is retired as a pillar, see `pillars.md`.
 
 - "How to actually use strides (To get you a PB)" — 2,266 views
 - "How to FULLY finish every workout (Far stronger than everyone else)" — 1,759
@@ -72,18 +77,18 @@ topic:
 - 1 marathon, 3 ultra marathons: Connemara 60k, Connemara 100k, Seven
   Sisters 55k (most recent)
 - Based in Sligo, northwest Ireland
-- Day job: associate tax director (see Pillar 2 in `pillars.md` —
-  the fact of a busy full-time job is a counter-positioning frame, not
-  a content topic; never make this specific or tied to the actual
-  employer)
+
+Job title deliberately left out here — see Hard rules below.
 
 ## Hard rules
 
-- **Never make content that implies anything about Grand Thornton or
-  his specific employer/colleagues.** He's explicit this can't happen
-  — it would be dishonest framing and creates real workplace risk
-  (colleagues reading his own work habits into "leave on time" style
-  content). See Pillar 2 in `pillars.md` for the fuller open question.
+- **No career/workplace framing anywhere, texture included.** Luke
+  reviewed an earlier version that kept "busy full-time job" alive as
+  quiet counter-positioning texture and pushed back on that too — the
+  whole thing reads as too career-focused for what he wants. Resolved:
+  don't reference his job, work habits, or being a working professional
+  at all, not even lightly. This is stronger than just "don't name the
+  employer."
 - **Don't overclaim on-camera income/results the way some creators do**
   (e.g. "I went from $0 to $30k") — Luke referenced this pattern from
   another creator explicitly as something he's uneasy about applying

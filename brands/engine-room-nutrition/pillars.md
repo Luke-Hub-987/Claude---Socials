@@ -8,7 +8,10 @@ updated_at: 2026-09-01
 # Content Pillars — Engine Room Nutrition
 
 Clustered from real on-screen text + view count evidence, confirmed
-and revised by Luke.
+and revised by Luke. Same career/workplace pushback that hit the
+personal brand's pillars applies here too — workplace tie-in humor is
+fully retired as a pillar (not just "develop a distinct angle later"),
+consistent with the personal brand.
 
 - **Pillar 1: Race-day fueling & performance advice** — general
   fueling advice, not always product-specific: "What to actually eat
@@ -39,10 +42,7 @@ and revised by Luke.
   personal brand) — "Feeling slow asf at Parkrun," "the morning that
   produced my fastest ever 5k, it shouldn't have." Not flagged as a
   problem — fine to keep cross-posting.
-- **Pillar 6: Workplace tie-in humor — retiring the direct crossover.**
-  Luke's decision: ERN should develop its own distinct angle here
-  rather than just reposting the personal brand's workplace humor
-  ("most interesting at work," "falling behind at work had nothing to
-  do with my job"). What that distinct angle actually is still needs
-  more thought — flagged by Luke himself as something to come back to,
-  not resolved yet.
+- ~~Pillar 6: Workplace tie-in humor~~ — **retired**, not just the
+  crossover from the personal brand ("most interesting at work,"
+  "falling behind at work had nothing to do with my job"), the theme
+  itself. Consistent with the personal brand's Pillar list above.
