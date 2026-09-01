@@ -55,18 +55,14 @@ marathon, 3 ultras, Sligo-based"
 
 **Body — Double Aha placement (HF11):**
 
-- **Aha #1, right after the super hook:** Threshold isn't a fixed
-  pace, it's a moving target. Most runners set a "threshold pace"
-  once, usually off an old time trial, and just chase that number
-  forever without ever checking whether it's still doing what it's
-  supposed to do.
-- **Aha #2, body block 2:** The exact same pace can stop being a
-  threshold effort on a hot day, a tired day, or a hilly route,
-  without you noticing, because you're still hitting the number on
-  your watch. On a bad day it's now genuinely too hard for what the
-  session is supposed to train. On a great day it's now genuinely too
-  easy. Either way, the session's not doing its job, and the watch
-  will never tell you that.
+- **Aha #1, right after the super hook:** Your threshold pace from
+  three months ago might already be your easy pace. Most runners set
+  it once, usually off an old time trial, then chase that same number
+  every session without ever checking it again.
+- **Aha #2, body block 2:** The same pace on a hot day, a tired day,
+  or a hilly route costs your body a completely different amount than
+  it did the day you set it. The watch shows the same number, your
+  actual effort doesn't.
 - **Supporting point, body block 3 (the fix, not a third aha, just
   the payoff):** check effort against the number, not just the
   number. If you can hold a full sentence at your "threshold" pace,

@@ -411,13 +411,37 @@ in advance.
 Practical test for `/ideate-*`: before finalizing any hook, ask
 whether it contains a specific number, a named taxonomy/system, or a
 concrete claim that couldn't be swapped into an unrelated niche
-unchanged. A reversal framing ("...it's not what you think") is only
-allowed when it's paired with that kind of concrete specificity, never
-as the entire mechanism of the hook.
+unchanged.
+
+**The "paired with specificity" exception is retired.** It was read as
+license to keep the reversal *sentence shape* as long as something
+specific sat next to it, which is exactly how "Threshold isn't a fixed
+pace, it's a moving target" got written, specific-sounding, same banned
+shape, still caught immediately as AI slop. The shape itself is the
+problem, not just an empty version of it.
+
+**Hard mechanical check, run against the literal sentence before it's
+finalized, not just the idea behind it.** If a hook or an aha line
+matches any of these patterns, rewrite it, no exception:
+- "X isn't/doesn't [verb] Y, it's/it does Z"
+- "It's not about X, it's about Y"
+- "X isn't just Y, it's Z"
+- "Everyone thinks X, but actually Y"
+- "The secret/truth/real reason isn't what you think"
+- Any sentence whose second half could be swapped in without reading
+  the first half, the classic tell that it's a template with words
+  dropped in, not an actual thought.
+
+State the specific, concrete claim directly instead. Not "threshold
+isn't a fixed pace, it's a moving target" but "your threshold pace
+from three months ago might already be your easy pace" — same
+information, no reversal scaffolding holding it up.
 
 *Source: Luke, directly, after reviewing a batch of hooks that leaned
-on the reversal cliché without real specificity underneath it. Builds
-on P15's Ogilvy citation.*
+on the reversal cliché without real specificity underneath it, and
+again after the same shape reappeared in a "specific-sounding" hook
+that still read as obviously AI-written. Builds on P15's Ogilvy
+citation.*
 
 ## P22 — Weigh outlier confounds before citing a source
 
@@ -494,6 +518,22 @@ pick a different real angle entirely.
 claim that wasn't true of him, and again catching "I won" kept as a
 headline claim in a script he never confirmed and that turned out to
 be false.*
+
+**A related but distinct failure mode, caught separately: a citation
+can be wrong even when nothing about the creator's own words was
+touched.** The "3 types of hills near me" idea cited a real,
+reachable `mountainroche` URL from v3 through v7 and was never
+actually a hills post, it was a real Leadville race-recap caption with
+zero mention of hills. `scripts/validator.py` only checks that a URL
+resolves and that creators aren't duplicated, it can't check whether
+the cited caption actually supports the claimed idea, that's a human
+(or model) judgment call made once at creation time and then silently
+trusted on every later carry-forward. Practical rule: re-read the
+actual cached caption at the URL being cited every time an idea is
+newly generated, never trust a citation just because it appeared in an
+earlier version of a brief, "unchanged, still good" applies to the
+idea's quality, not to whether its source citation was ever actually
+checked.
 
 ## P24 — Raise the stakes, don't list the tips
 
