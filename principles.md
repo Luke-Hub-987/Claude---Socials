@@ -712,6 +712,58 @@ consideration entirely.
 *Source: Luke, directly, clarifying the intent behind his own
 competitor list.*
 
+## P31 — Originality density, and the two ways to get it
+
+From a clip Luke shared (creator not credited in what was sent,
+attribute as unconfirmed source if it matters later): viewer
+psychology runs on novelty. "People are scrolling the feed looking for
+new things they haven't heard before... when a niche is relatively
+untapped, you can say just about anything and it'll feel new. But as
+a niche gets more saturated, the low-hanging-fruit ideas get
+regurgitated over and over and lose their novelty." The stakes named
+directly: "viewers will not trust, follow, or buy from you if your
+content doesn't feel new to them."
+
+**Originality density** = the ratio of your output that's actually new
+and original, not the raw count of ideas. Two ways to raise it:
+
+1. **Genuine novelty** — coming up with something literally nobody's
+   said before. Real, but hard to do consistently unless you're
+   producing new insight at a very high rate.
+2. **Originality wrapping** (the source's term, and the one to lean on
+   for a sustainable content cadence) — taking a known concept and
+   wrapping it in a new angle or frame so it *feels* new, without the
+   underlying idea itself needing to be new. The clip cuts off before
+   listing its own tactical menu for this, but the system already
+   built this session has several wrapping tactics in active use, worth
+   naming explicitly as a menu:
+   - **Numbered/taxonomy framing** (P21, HF10 pattern #5) — "the 3
+     types of hills" isn't a new idea (hill training), it's an old
+     idea wrapped in a systems frame.
+   - **Cross-domain association** (P2, HF8) — the Ironman-coach topic
+     (v7) wraps ordinary training advice in borrowed authority from an
+     adjacent discipline.
+   - **Paradox/reversal-with-real-specificity** (P21's exception
+     clause) — "getting fitter raises injury risk" wraps "avoid
+     injury" (an old topic) in a counter-intuitive frame, the wrap is
+     what makes P21's reversal exception earn its place.
+   - **Raised stakes** (P24) — wraps ordinary information in a real,
+     higher-intensity moment instead of a listicle.
+   - **Narrowed audience specificity** (P5's left-back bar) — "advice
+     for first-time marathoners" wraps "running advice" (old) by
+     narrowing who it's for until it feels newly relevant.
+
+Practical implication for `/ideate-*`: before finalizing a topic, name
+which wrapping tactic (if any) is actually doing the work. A topic
+with no identifiable wrap, old idea, no new frame, is exactly what P5
+and P29 already reject, this principle explains *why* that rejection
+matters (novelty is what earns trust/follow/buy, not just attention).
+
+*Source: unattributed clip Luke shared, partial (cuts off before its
+own tactical list); the specific wrapping-tactic menu above is this
+system's own mapping of what's already active elsewhere in
+principles.md/hook-frameworks.md onto the source's framework.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

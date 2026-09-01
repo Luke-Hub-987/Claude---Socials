@@ -43,13 +43,13 @@ confirmed working (real content returned):
 - precisionfandh (Precision Fuel & Hydration — not
   `precisionfuelandhydration`; Luke rates this one as "actually good,"
   not lumped in with the "boring" assessment of the others)
-- untappedmaple (UnTapped, maple-syrup-based energy gel — verified via
-  search + scrape. Added based on Luke saying "Untapped" alongside
-  "Spencer Matthews podcast" — there's a real naming overlap here: the
-  gel brand UnTapped and the podcast "UNTAPPED with Spencer Matthews"
-  (see YouTube channels below) are two different things sharing a
-  name. Added both since both are real and relevant; flag if only one
-  was meant.)
+
+Note: "Untapped" refers only to the podcast, "UNTAPPED with Spencer
+Matthews" (`@Untapped-Podcast` on YouTube, see personal's
+`competitors.md` for the shared YouTube list), confirmed directly by
+Luke. Not the maple-syrup gel brand of the same name, an earlier
+version of this file guessed wrong and listed that brand here, now
+removed.
 
 **Style/curiosity inspiration** (explicitly praised, contrast to the
 "boring" brand accounts above):

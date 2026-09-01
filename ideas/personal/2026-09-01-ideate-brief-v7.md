@@ -180,6 +180,42 @@ down disagreement, not a settled explainer topic.
 CCN: Core is genuinely split on this and curious what side gets
 argued, Casual/New get pulled in by "there's a live debate" framing.
 
+## Originality density audit (P31)
+
+Added after the fact, per P31 in `principles.md`: name which
+originality-wrapping tactic each topic is actually using, since a
+topic with no identifiable wrap is just an old idea restated. Two
+topics got sharpened as a result, the rest were already wrapping
+something, just not labeled.
+
+- **Topic 1 (threshold plateau):** wraps "get faster" via narrowed
+  specificity (threshold pace specifically) + paradox (stalling
+  despite training). Strong wrap, no change.
+- **Topic 2 (underfuelling disguised as fitness):** wraps "fueling
+  advice" via a misdiagnosis paradox. Strong wrap, no change.
+- **Topic 3 (fitness trap):** wraps "avoid injury" via a genuine
+  paradox (fitter = higher risk). Strong wrap, no change.
+- **Topic 4 (two real levers):** wraps "get faster" via
+  numbered/taxonomy framing + narrowed specificity (naming the
+  neglected lever). Strong wrap, no change.
+- **Topic 5 (one fix for first-timers):** the weakest wrap in this
+  set, narrowed audience + a borrowed format, but underneath it's
+  still a fairly generic "top tip" shape. Sharper version, narrowing
+  further per P5: **"The 1 fix for first-time marathoners whose legs
+  are already tired by week 6"** — a genuinely specific sub-situation,
+  not just "first-timers" as a category.
+- **Topic 6 (Ironman coach's rule):** wraps ordinary training advice
+  via cross-domain association. Strong wrap, this is the reference
+  example P31 itself uses.
+- **Topic 7 (hills):** wraps "hill training" via taxonomy framing.
+  Strong wrap, the other reference example, unchanged.
+- **Topic 8 (heart rate zones):** wraps a settled-feeling topic via
+  "live debate" framing, decent but could add a second wrap layer.
+  Sharper version, naming both sides for more specificity: **"Pace
+  purists vs. heart-rate purists: the running debate that hasn't been
+  settled"** — same live-debate wrap, now with the actual two camps
+  named instead of left implicit.
+
 ## What this still doesn't include
 
 No scripts, same as v6, on purpose. Once topics/hooks are picked, the
