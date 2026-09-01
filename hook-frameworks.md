@@ -445,3 +445,13 @@ hook and verbal hook need to be framed around what the *viewer* gets,
 not what the creator did, even for proof-by-doing or origin-story
 ideas — wrap the day/proof in a viewer-facing transformation, don't
 lead with the creator's day as the subject itself.
+
+**Read P35 before writing a single sentence of any script body, not
+just the hook.** The negative-parallelism check in P21 ("it's not X,
+it's Y") applies to every line of `body_angle`, not only on-screen
+text — it recurred inside a script body, not a headline, which is
+what forced P35 into existence. P35 is the full real catalog (sourced
+from Wikipedia:Signs of AI writing): rule-of-three overuse, AI
+vocabulary (delve, tapestry, testament, pivotal...), false ranges,
+filler phrases, excessive hedging, generic positive conclusions. Run
+every finished script against it before calling it done.

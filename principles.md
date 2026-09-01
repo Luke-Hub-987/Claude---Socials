@@ -454,11 +454,22 @@ isn't a fixed pace, it's a moving target" but "your threshold pace
 from three months ago might already be your easy pace" — same
 information, no reversal scaffolding holding it up.
 
+**This pattern has an official name, confirmed against a real source
+after it kept recurring: "Negative Parallelism" / "Tailing Negation"
+(Wikipedia:Signs of AI writing, WP:AIPARALLEL, "It's not just X, it's
+Y").** It showed up a third time in the grief-stages script body, not
+just headlines: "it's not disappointment, it's the exact same
+psychological sequence," "not a character flaw, not 'just get over
+it,' a real process." The check in this principle applies to every
+sentence in a script's body, not only the on-screen text hook, see
+P35 for the fuller catalog this pattern belongs to.
+
 *Source: Luke, directly, after reviewing a batch of hooks that leaned
 on the reversal cliché without real specificity underneath it, and
 again after the same shape reappeared in a "specific-sounding" hook
 that still read as obviously AI-written. Builds on P15's Ogilvy
-citation.*
+citation. The official pattern name is sourced from Wikipedia:Signs of
+AI writing, see P35.*
 
 ## P22 — Weigh outlier confounds before citing a source
 
@@ -919,6 +930,63 @@ despite not being about ERN.
 
 *Source: Luke, directly, checking whether the last few rounds of topic
 work had drifted from the personal brand's actual business purpose.*
+
+## P35 — The real AI-writing catalog, not a guessed blocklist
+
+After the negative-parallelism pattern (P21) recurred a third time,
+Luke provided the actual real source instead of another one-off
+correction: Wikipedia:Signs of AI writing
+(`en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing`, maintained by
+WikiProject AI Cleanup), a documented catalog of tells used to detect
+undisclosed AI-generated text. P21's blocklist was this system's own
+guess at part of one pattern in that catalog; this replaces the guess
+with the real, named list. Full catalog, the patterns most relevant to
+on-screen text and script bodies (not just Wikipedia articles):
+
+- **Negative Parallelism / Tailing Negation** (WP:AIPARALLEL) — "It's
+  not just X, it's Y." Already P21's core rule, now with its real
+  name. Applies to every sentence in a script body, not only the
+  on-screen text hook.
+- **Rule of Three overuse** — reflexively grouping things in 3s
+  because it *sounds* rhythmic, not because 3 is actually the right
+  count. Worth flagging precisely because this system leans on
+  numbered taxonomies a lot (P21 rewards specificity via numbers) —
+  the taxonomy has to be a real count, not a default reached for out
+  of habit. If a real count is 2, 4, or 5, use that, don't round to 3
+  for the cadence.
+- **Overused "AI vocabulary"** — delve, tapestry, testament, landscape,
+  pivotal, boasts, and similar words that read as generic-elevated
+  rather than specific. Banned outright in any output this system
+  produces.
+- **Avoidance of basic copulatives** — "serves as," "boasts," "stands
+  as" used to dress up a plain "is." Use "is."
+- **False ranges** — "from the Big Bang to dark matter"-style
+  constructions that sound comprehensive but say nothing concrete.
+  Same failure mode as a vague parenthetical (P32): a placeholder
+  performing scope instead of stating a fact.
+- **Filler phrases** — "in order to," "due to the fact that," "it is
+  important to note that." Cut them, say the thing.
+- **Excessive hedging** — "may potentially," "it could be argued
+  that," stacking qualifiers past the point of an actual claim.
+- **Generic positive conclusions** — "the future looks bright," "the
+  possibilities are endless," a feel-good close that isn't actually
+  connected to the specific content above it.
+- **Em dashes** — already banned by `voice-rules.md`, confirmed as
+  the same family of tell here.
+- **Elegant variation / synonym cycling** — swapping in a different
+  word each time to refer to the same thing (runner, athlete,
+  competitor, the individual) purely to avoid repetition, reads as
+  evasive rather than varied. Repeat the plain word.
+
+Practical implication: P21's mechanical check extends to this full
+list, run against on-screen text, verbal hooks, and body_angle bullet
+points alike, not just the headline. When in doubt whether a sentence
+reads as AI-written, this catalog is the actual reference now, not a
+guess at what "AI slop" means.
+
+*Source: Wikipedia:Signs of AI writing (WikiProject AI Cleanup),
+linked directly by Luke after the negative-parallelism pattern
+recurred a third time in a script body.*
 
 ## Open questions for Luke
 

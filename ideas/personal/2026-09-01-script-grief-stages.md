@@ -36,11 +36,10 @@ Names the transformation the viewer gets, not what you did, per P30.
   Psychologists mapped grief into 5 real stages: denial, anger,
   bargaining, depression, acceptance. Most runners either shrug off a
   bad race as "just disappointing" or feel weirdly guilty for still
-  thinking about it weeks later. Neither is right, it's not
-  disappointment, it's the exact same psychological sequence as any
-  other loss, just compressed into a few days. This is the
-  reframe: not a character flaw, not "just get over it," a real
-  process with real stages.
+  thinking about it weeks later. A bad race runs through the same 5
+  stages as any other loss, just compressed into days instead of
+  months, a real process with real stages, the same one grief
+  researchers actually mapped.
 - **Aha #2, body block 2 (the specific mapping, this is the new
   packaging):** Walk through what each stage actually looks like for
   a runner:
@@ -54,10 +53,11 @@ Names the transformation the viewer gets, not what you did, per P30.
   - Acceptance: ready to actually look at what happened and train
     again
 - **Payoff, body block 3 (not a third aha, the practical close):**
-  Name bargaining as the stage most people get stuck in, because it
-  feels productive (it's not, it's just rumination dressed up as
-  analysis). The actual move: write down the 1 real factor you'd
-  change, then close the loop deliberately instead of replaying it.
+  Name bargaining as the stage most people get stuck in, because
+  replaying "if only" loops feels like productive analysis while
+  actually just being rumination. The actual move: write down the 1
+  real factor you'd change, then close the loop deliberately instead
+  of replaying it.
 
 ## Feeling
 
