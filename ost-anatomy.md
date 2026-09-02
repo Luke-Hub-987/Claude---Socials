@@ -29,11 +29,15 @@ is the machine.
 6. ERN's account data, which rewards a different shape entirely
 7. 82 real YouTube titles, what the multipliers show
 8. The advertising canon and why market sophistication explains everything
+8b. Paddy Galloway: the title IS the idea test
+8c. The Briar podcast: a real A-versus-B+ grading
+8d. Online research: MrBeast, Loewenstein, and the verified ad history
 9. Movie titles: sayability and visualisability
 10. The visual layer
 11. The mechanism library
 12. Construction order
 13. The kill list
+14. **What makes a fantastic OST: six tests, each with its proof**
 
 ---
 
@@ -161,9 +165,9 @@ have to care about first.
 
 ### "Worn by supermodels in London and dads in Ohio" (New Balance)
 
-Luke quoted it as "models"; the commonly cited version is
-"supermodels," which widens the mechanism. Verify before repeating it
-publicly (P39).
+Verified online: New Balance, 2019, for the 990v5. The line is "Worn
+by supermodels in London and dads in Ohio." See Part 8d for the
+localisation detail, which matters.
 
 Structure: `worn by + [Pole A: max status, max distance] + and + [Pole
 B: min status, max familiarity]`
@@ -472,6 +476,240 @@ earlier, and it is why Part 2 sits above every other section here.
 
 ---
 
+## Part 8b — Paddy Galloway, from the 74KB interview in this repo that was never opened
+
+`research/paddy-galloway-ccn-interview-transcript.txt` is a single-line
+file, which is why it read as "1 line" and got skipped. It is the most
+directly relevant document in the folder.
+
+### The four traits of a viral video in any niche
+
+1. **CCN fit.** Core, casual, new. "Look at every idea and say: can a
+   core, casual and new viewer all click this and enjoy it." His own
+   version for his channel: "the world's biggest creator needs to be
+   able to watch this, and my mother needs to be able to watch this."
+2. **Unique novelty value.** "Something about it that makes this video
+   feel like its own island, not just another screaming-into-the-void
+   idea."
+3. **Easy to convey in title and thumbnail.** Quoted, because it
+   changes what an idea even is: *"So many great ideas are hard to
+   convey in title and thumbnail, and they're just not great ideas
+   then. I get really annoyed at YouTubers saying I've got this amazing
+   idea, I just can't thumbnail it. You don't have an amazing idea
+   then."*
+4. **The excitement test.** Tell the idea to people in your niche. Do
+   they light up?
+
+> **The title is not packaging applied to an idea. The title is the
+> test of whether the idea exists.** That single reframe invalidates
+> most of how this system has worked, which was to pick a topic from
+> research and then try to write a hook onto it afterwards.
+
+### Returns on packaging are non-linear
+
+Red Bull, "World's Fastest Camera Drone vs F1 Car," 20 million plus
+views. His point: *"if we had titled it something 10 or 20% worse, the
+video wouldn't have 10 or 20% less views. It might have a fraction of
+the views... a 20% better title could mean double, triple, quadruple,
+it could mean 100 times more views, because YouTube is this exponential
+game and returns are non-linear."*
+
+With the counterweight, which matters just as much: cap the
+overthinking at an hour or two, never a week, because the other
+variable is time passing.
+
+### The one that maps almost exactly onto Luke's problem
+
+A permaculture and horticulture lecturer, Andrew Millison. Genuinely
+narrow niche. His video **"How the UN is Holding Back the Sahara
+Desert"** did 12 million views in four months. Paddy's own breakdown:
+the UN is a universally known anchor, top of mind for everyone, and
+then *"holding back the Sahara Desert, just that framing of holding
+back, I love that term."*
+
+The transferable move: **anchor the niche idea to something universally
+known, then attach an unexpected verb to it.** Not "permaculture
+techniques in arid regions." A known institution, doing a physically
+vivid thing, to a famous place.
+
+His woodworking equivalents: not "reviewing the WoodSaw 3400 Second
+Edition" but *"this tool is so good it should be illegal,"* *"99% of
+woodworkers get this wrong,"* *"this tool is now illegal in seven and a
+half states."*
+
+### The glance test and the three-element rule
+
+- **Glance test:** put the thumbnail on a slide with blank white slides
+  either side, flick to it briefly at small size, and ask whether you
+  can process it. *"People vastly overestimate how much time the
+  average viewer looks at a thumbnail. It's milliseconds."*
+- **Three-element rule:** no more than three things for the eye to
+  land on, and *"if anything, three is even too much."* Beginners fill
+  the space; the most viral thumbnails have empty space in them.
+- **Simplicity plus slight exaggeration**, stopping short of
+  misrepresentation. Show the world's most expensive saw, and make it
+  shinier.
+
+### The idea funnel, with a filter this system has never applied
+
+Sources: **internal** (what has already worked for us), **external**
+(what worked for competitors and elsewhere on the platform), and
+**innovation** (blue ocean). Then filter, roughly: CCN fit removes
+about 40 of 100, feasibility removes about 20 more, and then the one
+that matters here:
+
+> **"Can we actually come up with a title and a rough thumbnail sketch
+> for it, before we go any further?"** Half the survivors fail this.
+
+Then creator excitement, then one-page development for the last ten
+(thumbnail sketch, title, a "why this works" box, and a log line), then
+show them to other people and pick three or four.
+
+### Start narrow, then expand
+
+*"It's always worked better to focus more narrow, at that core first,
+and then expand out over time. You can never go the other way."* He
+describes it as monkey bars across overlapping sub-niches. Which lines
+up exactly with the Briar podcast's Hormozi data point: **his first 300
+videos were 88% specifically about how to grow a gym business.**
+
+---
+
+## Part 8c — The Briar podcast, and a real A-versus-B+ grading
+
+`research/briar-ai-podcast-transcript.txt`, 103KB, also single-line,
+also never opened. He runs live gradings of on-screen text for an
+invented gardening creator, and the gradings are more useful than any
+abstract rule.
+
+### "Seven climates in one garden" — his verdict: 5x outlier minimum
+
+*"That is an on-screen text hook. That is a 5x outlier at minimum."*
+Why it works: a **hidden-multiplicity reveal.** The thing you assumed
+was one thing is secretly seven. It is a small information gap (you
+know what a garden is, you know what a climate is), it promises a
+reframe of something the viewer already owns, and it is instantly
+picturable.
+
+### "Fixed watering schedules are killing your garden" — his verdict: B+
+
+This is the most useful grading in the whole repo, because he says
+exactly what costs it the A:
+
+> *"I don't love how deterministic it is. I would love a little bit
+> more curiosity in this, like hey, what fixed watering schedules are
+> actually doing to your garden. Just because **the answer being in the
+> on-screen text is not perfect.**"*
+
+> **Rule: the OST points at the answer, it does not deliver it.**
+> "Killing your garden" closes the loop. "What fixed watering schedules
+> are actually doing to your garden" leaves it open.
+
+This is the same failure as several of the current batch, in reverse:
+those state a topic and promise nothing; this one states the conclusion
+and leaves nothing to find out.
+
+### "The Paperback Potato Experiment" — and the correct form of naming
+
+*"People love names and nouns to things. Proper nouns. The
+experiment."*
+
+Naming is validated, but note **what** is named: an experiment, a thing
+that was done. Not a concept, not a coined mechanism. That is the
+precise difference between "The Paperback Potato Experiment" (a named
+event with built-in narrative and a result the viewer wants) and
+"Cadence Lock" (a coined concept with no event and no result).
+
+### TAM as a dial you set on purpose
+
+His two poles, verbatim in substance: *"Hey girlies, if you're a
+freshman or sophomore at Arizona State and you love Pilates, come out
+Saturday"* is a TAM of a few thousand. *"If you want to make a piss ton
+of money in the next six years, watch this video"* is a TAM of
+billions. **Neither is better. You just have to know which one you are
+choosing.** His own examples: "How to have ungodly levels of
+creativity" reached roughly 100,000 views and pulled in musicians and
+writers; "here's your first three stages of hiring a media team" did
+about 10,000, and that was the intention.
+
+### Two more from the same transcript
+
+- **A Neil Patel study of 1,000 videos with 100,000+ views** found two
+  things present in essentially all of them: a good hook, and **novel
+  information**. Novelty is not a stylistic preference, it is the
+  co-requirement.
+- **Formats are the most underrated lever**, ahead of hooks. Green
+  screen, native captions, split screen, clone videos. *"Just start
+  making some green screen, that'll automatically 10x your views."*
+  Luke has never varied format deliberately.
+
+---
+
+## Part 8d — The online research, and the one piece of academic theory that explains the failures
+
+### MrBeast, the clearest single lesson in title craft
+
+From the leaked production memo: *"'I Spent 50 Hours In My Front Yard'
+is lame and you wouldn't click it. But you would click 'I Spent 50
+Hours In Ketchup.'"* Same duration, same effort, and by his estimate
+easily 100 times more viral. The memo also suggests **"I Survived"**
+over "I Spent," because it adds intrigue and stakes.
+
+Two extractable moves: **swap the mundane noun for a concrete, absurd,
+picturable one**, and **choose the verb that carries the most
+jeopardy.** Front yard is a place; ketchup is an image. Spent is
+duration; survived is stakes.
+
+### Loewenstein's information gap theory, which explains "Cadence Lock" precisely
+
+Curiosity is a state of **deprivation** that appears when attention
+focuses on a gap in your own knowledge. Three conditions have to hold:
+you become aware something is missing, you believe finding out is
+possible, and you believe the answer will matter.
+
+And the finding that matters most here:
+
+> **Small gaps produce high curiosity. Large gaps produce low
+> curiosity.** A small amount of known information acts as a "priming
+> dose."
+
+This is the clean explanation for the whole recent run of failures.
+"Cadence Lock" was a **large** gap: the viewer had no foothold, no
+prior knowledge to feel deprived against, so no curiosity was possible.
+"Junk miles" is a **small** gap: they know the term, they suspect they
+might be guilty, they cannot tell. High curiosity. Same for "seven
+climates in one garden."
+
+It also explains the B+ grading above: closing the gap in the text
+removes the deprivation entirely.
+
+### The advertising history, now verified
+
+- **Ogilvy, Rolls-Royce, 1958.** "At 60 miles an hour the loudest noise
+  in this new Rolls-Royce comes from the electric clock." Sales rose
+  roughly 50% from 1957 to 1958. It never claims quiet, it
+  **demonstrates** quiet by naming the loudest surviving sound.
+- **Caples, 1925-26**, US School of Music. "They Laughed When I Sat
+  Down at the Piano But When I Started to Play!" His documented
+  levers: self-interest, news, curiosity, and specifics, with the
+  headline as the single most important element.
+- **New Balance, 2019, the 990v5.** The line is confirmed as **"Worn by
+  supermodels in London and dads in Ohio,"** and there is a detail that
+  strengthens the analysis in Part 4: **the campaign was localised, so
+  people in different places saw their own city or state in place of
+  Ohio.** The self-location mechanism was not a happy accident, it was
+  engineered by swapping the near pole to match the reader.
+
+### Short-form specifics, current
+
+The hook text belongs in the **first frame**, large, high contrast,
+**under about 7 words**, and a bold full-screen title card is the
+version that consistently performs. Captioned reels retain
+substantially better than uncaptioned. Most viewing is muted, so the
+text carries the whole hook.
+
+---
+
 ## Part 9 — Movie titles: sayability and visualisability
 
 The user asked specifically about titles "like a movie," and the craft
@@ -645,15 +883,109 @@ Not finished if any of these are true.
 - It produces no image.
 - Nobody could repeat it to a friend after hearing it once.
 - It's a how-to on the ERN account (Part 6).
+- **The gap is too large**: the viewer has no prior foothold to feel
+  deprived against (Loewenstein, Part 8d).
+- **The answer is in the text**: the loop closes before the video
+  starts (Briar's B+ grading, Part 8c).
+- **The title had to be forced on afterwards.** If the title would not
+  come, the idea was never there (Paddy, Part 8b).
+
+---
+
+## Part 14 — What makes a fantastic OST: six tests, each with its proof
+
+This is the answer, compressed. Every test has a real example that
+passes and a real example that fails, drawn from the datasets above.
+
+### Test 1 — The gap is small, not large
+
+Curiosity is deprivation, and it needs a foothold. The viewer must
+already know enough to feel the hole (Loewenstein).
+
+- **Passes:** "Seven climates in one garden." You know gardens. You
+  know climates. You did not know a garden holds seven.
+- **Fails:** "Cadence Lock." No foothold, no prior knowledge, no
+  deprivation, no click.
+
+### Test 2 — It names something the viewer can hold
+
+A proper noun, a named experiment, a named test, a hard number.
+Briar: *"people love names and nouns to things."*
+
+- **Passes:** "The Paperback Potato Experiment." A named event with a
+  result.
+- **Fails:** a coined concept with no event attached. Naming the thing
+  you did beats naming an idea you had.
+
+### Test 3 — It points at the answer, it does not deliver it
+
+Briar's own A-versus-B+ line.
+
+- **Passes:** "What fixed watering schedules are actually doing to your
+  garden."
+- **Fails (B+ only):** "Fixed watering schedules are killing your
+  garden." The loop is closed in the text, so the deprivation is gone.
+
+### Test 4 — The payoff belongs to the viewer, and it's in the same breath
+
+From Luke's own ranked data: every tail above 1,500 views names the
+viewer's gain, stakes, objection or path; every tail below 700 names a
+mechanism, a method, a feeling or the creator.
+
+- **Passes:** "How to actually use strides (To get you a PB)," 2,266.
+- **Fails:** "How I Went From Run/Walk To 3K Straight (1 Lamppost At A
+  Time)," 561. Concrete, specific, true, and the tail names the method
+  instead of the payoff.
+
+### Test 5 — It survives a glance and leaves a picture
+
+Under about seven words in the first frame. Paddy's glance test and
+three-element rule. Movie-title logic: can they see it, can they repeat
+it.
+
+- **Passes:** "I Spent 50 Hours In Ketchup." One image, instantly.
+- **Fails:** "I Spent 50 Hours In My Front Yard." Same effort, no
+  picture, and by MrBeast's own estimate roughly 100x less viral.
+
+### Test 6 — The TAM was chosen on purpose, and the vocabulary matches it
+
+TAM is a dial, not a mistake. Broad video, shallow familiar words. Core
+video, iceberg vocabulary. What kills a hook is a mismatch.
+
+- **Passes broad:** "How the UN is Holding Back the Sahara Desert."
+  Universally known anchor, unexpected verb, 12 million views off a
+  permaculture channel.
+- **Passes narrow:** "Five design principles for commercial gardens,"
+  expected 1,000 to 3,000 views, and that was the intent.
+- **Fails:** any hook where the words are pitched at one audience and
+  the topic at another.
+
+### And the test that sits above all six
+
+Paddy, and it changes the order of operations for this whole system:
+
+> **If you cannot write the title and sketch the thumbnail, you do not
+> have an idea yet.** The title is not packaging you apply afterwards.
+> It is the test of whether the idea exists at all.
 
 ---
 
 ## What this file changes
 
 P21, P29, P30, P32, P37, P40 and HF6 remain correct as far as they go.
-Underneath them: **the outcome comes before the keyword, the
-consequence of the pain comes before the pain, vocabulary depth is
-chosen against TAM rather than by instinct, and in a saturated market
-mechanism and identity beat claims every time.** The two accounts want
-different shapes, and the data says so clearly enough that they should
-stop being written the same way.
+Underneath them:
+
+- **The title is the idea test, not the packaging.** Write the title
+  first. If it will not come, the idea is not real. This inverts how
+  every brief in this repo has been produced.
+- **The gap must be small.** Iceberg vocabulary works because the ICP
+  already half-knows the word. Invented vocabulary fails for the same
+  reason in reverse.
+- **Point at the answer, never state it.**
+- **The payoff is the viewer's, stated in the same breath as the
+  keyword.**
+- **The consequence of the pain beats the pain.**
+- **TAM is a dial that sets vocabulary depth**, and in a saturated
+  market (running is stage 4-5) mechanism and identity beat claims.
+- **The two accounts want opposite shapes** (P42), and returns on
+  getting any of this right are non-linear, not incremental.
