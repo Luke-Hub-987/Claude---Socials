@@ -325,6 +325,13 @@ why.
   file in /tmp. If you can't find a real source, drop the idea.
 - **No fabricated personal facts** (P23). Never assert an unconfirmed
   habit/routine/claim about Luke as if it's true.
+- **No fabricated factual/technical/scientific claims either** (P39).
+  Any factual claim a script states as true (physiology, technique,
+  device behavior, anything) needs a real, citable line in
+  `research/reddit-running-research-manual.txt`, a verified outlier
+  post, or a source Luke has explicitly named, same bar as topic
+  selection (P17). Plausible-sounding is not sourced. If it can't be
+  traced, it doesn't go in the script.
 - **No em-dashes** anywhere in the brief.
 - **No two ideas cite the same creator.**
 - **Every idea has a mandatory `on_screen_text_hook`** that clears the

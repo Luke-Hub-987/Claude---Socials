@@ -1127,6 +1127,65 @@ vibe check.
 text "Secret Formula of Lethal Hooks"), verbal transcript of Briar's
 own 3-ingredient breakdown.*
 
+## P39 — Every factual claim in a script needs a real, checkable source, same bar as topic selection
+
+A serious failure, more serious than P21/P23's usual scope: the
+"Cadence Lock" script asserted a specific technical claim, wrist
+optical heart rate sensors locking onto footstrike cadence instead of
+pulse, plus a specific numeric framework (marathon heart rate targets
+by finish time: 82-88% of max for sub-3, 75-82% for 3:30-4:30, 70-75%
+for 5+ hours), as established fact, with neither one actually checked
+against this system's real research pool first. Luke caught it and
+named the real rule directly: topics and content both have to trace
+back to `research/reddit-running-research-manual.txt` or a real,
+verified outlier scrape (P17), never asserted because it sounded
+plausible, no matter who supplied it, this system's own reasoning or a
+message relaying something from elsewhere. P23 already banned
+fabricating a *personal* fact about the creator; this extends the same
+standard to *any* factual, physiological, or technical claim a script
+states as true.
+
+**What checking it actually found**, run after the fact, which is what
+should have happened before the script was written:
+
+- **Real and grounded**: a real Reddit thread
+  (`research/reddit-running-research-manual.txt`, ~line 6674) has a
+  poster who ran a 50k, 5 hours, average heart rate 174 (a couple hours
+  over 180), stated max around 205, asking if they're "just
+  physiologically predisposed to a slower easy pace." A real reply
+  pushes back almost exactly on-topic: "If 205 is your true max heart
+  rate, I'd be really surprised if you could sustain 88% of MaxHR for
+  multiple hours... I'm wondering if your true Max HR is actually
+  higher than 205." This genuinely supports a "your true max HR may be
+  higher than you think" angle, citable, real, on-topic.
+- **Real but general, not the specific claim made**: lines 720-726 of
+  the same file, a real post confirming wrist optical HRMs are
+  "notorious" for inaccuracy (tendon noise, arm-swing noise the
+  firmware has to filter, chest straps more reliable). Real and
+  usable, but this is general wrist-sensor unreliability, not the
+  specific "locks onto cadence instead of pulse" mechanism the script
+  stated as fact, that specific term and mechanism doesn't appear
+  anywhere in the research file and wasn't independently verified
+  elsewhere either.
+- **Not found anywhere in the research pool**: the specific numeric
+  framework (82-88% / 75-82% / 70-75% by finish-time band). Plausible-
+  sounding is not the same as sourced.
+
+**Hard rule going forward**: before any factual/technical/physiological
+claim goes into a script (not just the topic/headline), it needs one
+of: (a) a real, citable line in the manual Reddit research, (b) a
+verified real outlier post/video, or (c) a source Luke has explicitly
+named and can point to. If it can't be traced to one of those, it does
+not go in the script, full stop, regardless of how confident it sounds.
+When a claim is close-but-not-exact to something real in the research
+(the wrist-HRM-inaccuracy case above), say so explicitly and use the
+weaker, actually-supported version, don't round it up to the sharper
+unverified claim because it makes a better hook.
+
+*Source: Luke, directly, catching an unverified technical/scientific
+claim presented as fact and asking point-blank whether it was sourced
+from the Reddit research or outlier research, neither of which it was.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
