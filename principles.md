@@ -752,6 +752,64 @@ subject in its own right.
 
 *Source: Luke, directly, citing Donald Miller's StoryBrand.*
 
+**2 real reference OSTs Luke pointed to as ones that made him actually
+stop scrolling, worth holding as the bar, not just the theory:**
+"morning mobility routine that makes me feel 25 at 35" and "4 elite
+conversation starters you can use anytime." Both are short, both name
+a concrete tool/routine, and both state the viewer's payoff directly
+in the same breath, not as a separate reveal, "makes me feel 25 at 35"
+and "you can use anytime" are the benefit stated inline, not implied.
+Neither leans on an obscure insider term the way this system's recent
+output has (Cadence Lock, Badwater, 3:00:02) — P37's keyword check and
+P30's benefit-forward framing have to both be satisfied together, a
+keyword that names an interesting fact but doesn't say what the viewer
+gets from it still fails P30 even when it passes P37.
+
+## P40 — Never borrow another creator's specific personal achievement as if it's Luke's topic
+
+A real failure, caught directly: the "Badwater" and "391 Miles" OST
+options took real facts from `woah_max` and `bpnsupps`/`mark.dowdle`'s
+own posts (real people who actually ran those real races) and dropped
+them into Luke's OST as if they were his content to post, with no
+vehicle connecting Luke to the fact at all. Luke's own words: "that was
+Max Jolliffe out there... I am not there so how could I post about
+that? Is it a history lesson?" Neither option, no vehicle and no
+history-lesson/reaction framing, works.
+
+**The actual working model was already documented, just not applied
+consistently: the Clarification note above (P17/P22), Babish tasting
+ten flavors himself so the viewer doesn't have to.** The mechanism only
+works when the creator is genuinely the one doing, translating, or
+explicitly commentating on the thing, vicarious curiosity requires a
+real vehicle. Compare to what worked: the jdrunsfar-inspired topic
+(HF10 #13) translated a real device onto Luke's *own* already-confirmed
+story, not onto jdrunsfar's specific transformation claim. The "3:00:02"
+script also works, because it's told explicitly as someone else's real
+story, with Luke as narrator/guide drawing the lesson out for the
+viewer (StoryBrand's guide role, P30), never implied as Luke's own
+result.
+
+**Hard rule for `/ideate-*` going forward, checked before any outlier-
+sourced topic is finalized:** an outlier's specific personal
+achievement (a race they ran, a result they hit, a place they went)
+can only become a topic one of two ways:
+1. **Translate the underlying device/mechanism onto something Luke can
+   actually stand behind** (his own confirmed experience, or a real
+   ICP problem he can credibly speak to as an experienced runner) —
+   the achievement itself doesn't travel, only the format/mechanism
+   does.
+2. **Tell it explicitly as someone else's story, narrated, with Luke
+   drawing out the lesson for the viewer** (the "3:00:02" model),
+   never phrased as if it happened to Luke.
+A third option that does NOT work by default: a bare reaction/
+"history lesson" format about someone else's achievement with no
+translation, Luke was explicit this doesn't fit what he wants from
+this channel, don't default to it as a fallback.
+
+*Source: Luke, directly, catching "Badwater" as unfilmable content
+since he wasn't the one who ran it, and asking point-blank whether the
+system intended it as a history lesson.*
+
 ## Clarification — how to actually use cross-niche inspiration sources (P17, P22)
 
 Luke pushed back on how P22 was being applied to his own named

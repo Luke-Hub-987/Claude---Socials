@@ -441,6 +441,17 @@ larger storytelling framework still to come — expect more principles
 in this vein. The corrected beat order is sourced from real published
 performance data, see P36 in `principles.md`.*
 
+**Delivery rule, added after Luke flagged scripts reading as "long
+winded jargon that nobody understands" instead of short, concise aha
+moments:** each aha has to land as a single clear insight a viewer
+could repeat back in one breath, not a paragraph of reasoning that
+arrives at a point. If an aha needs several sentences of setup before
+the actual insight shows up, it isn't concise enough yet, cut the
+setup and state the insight first, then justify it in one more short
+line at most. Test before finalizing any `body_angle`: could this aha
+be said out loud in under 10 seconds and still land? If not, tighten
+it.
+
 ## HF12 — The Legend Pairing (a visual hook, not just a text one)
 
 A format Luke pointed to directly, a real post
