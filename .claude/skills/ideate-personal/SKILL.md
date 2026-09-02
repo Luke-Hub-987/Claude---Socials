@@ -146,6 +146,17 @@ framed around what the viewer gets, not what Luke did; a day-in-the-
 life or proof-by-doing idea needs a viewer-facing transformation
 wrapped around it, not the creator's day as the subject itself).
 
+Two more checks, both from Briar directly (see P37, P38 in
+`principles.md`, HF13 in `hook-frameworks.md`): **P37** — every topic
+must compress to one nameable keyword/concept the viewer can latch
+onto (a person, a named framework, a specific number, a coined term);
+if it can't, the topic is still too diffuse, no amount of OST wording
+fixes that. **P38/HF13** — the verbal hook specifically must clear
+Briar's 3-ingredient formula as 3 separate checks: a gate (name the
+narrow ICP early, on purpose), an open loop (sentence 1 should leave
+the viewer wondering "how does that work"), and a stated pain or
+benefit, not a blended vibe check.
+
 ### Hard quotas (non-negotiable)
 
 - **Max 3 from YouTube**
@@ -172,7 +183,7 @@ If no focus argument was passed:
 - id: 1
   pillar: <which pillar this serves>
   format: <IG_carousel | IG_reel | IG_post | X_thread | LinkedIn_post | YT_short | YT_long>
-  on_screen_text_hook: <MANDATORY. The literal on-screen text overlay, per HF6/P15/P21. Specific, numbered/taxonomy-shaped where possible, NO em-dashes, NO bare reversal clichés ("it's not what you think" etc unless paired with real specificity)>
+  on_screen_text_hook: <MANDATORY. The literal on-screen text overlay, per HF6/P15/P21/P35/P37. Specific, numbered/taxonomy-shaped where possible, compresses to one nameable keyword (P37), NO em-dashes, NO negative-parallelism/reversal shapes ever ("it's not X, it's Y" and the rest of P35's catalog — no exception, the old "paired with specificity" carve-out is retired)>
   verbal_hook: <OPTIONAL. The spoken opening line per HF9, only if distinct from the on-screen text hook, NO em-dashes>
   body_angle: <2-3 sentences describing what the post argues or shows>
   voice_match: <one short line citing a specific element of voice.md it adheres to>
@@ -317,7 +328,9 @@ why.
 - **No em-dashes** anywhere in the brief.
 - **No two ideas cite the same creator.**
 - **Every idea has a mandatory `on_screen_text_hook`** that clears the
-  P21 specificity bar — no bare reversal clichés.
+  P21 specificity bar, P35's full AI-writing catalog (no negative
+  parallelism, no exceptions), and P37 (compresses to one nameable
+  keyword).
 - **Weigh outlier confounds (P22)** before trusting a source's
   multiplier as evidence a hook pattern works.
 - **Quotas: ≤3 YouTube, ≤2 Reddit, ≤3 TikTok, ≥5 Instagram.** If you

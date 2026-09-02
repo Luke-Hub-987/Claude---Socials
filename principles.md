@@ -1048,6 +1048,83 @@ published post, then correctly pushing back on an overconfident
 single-cause diagnosis and offering his own read (delivery, and that
 his top performers work because they're genuinely novel).*
 
+**Update, confirmed by Luke directly:** the posted on-screen text on
+the grief video matched the scripted headline exactly, not a
+simplified or rewritten version. This rules out an execution/copy
+mismatch as a contributing factor (the "did the real OST match the
+script" question this file previously left open) and leaves all 3
+hypotheses above exactly where they were, none confirmed or
+eliminated by this, it just removes one alternative explanation from
+consideration.
+
+## P37 — Every video needs one nameable keyword the viewer can latch onto
+
+Confirmed by Luke pointing at two real posts side by side: the Ogilvy
+post's keyword was "David Ogilvy" (HF12), the hook-formula post's
+keyword is "Hooks" (see the on-screen text "Secret Formula of Lethal
+Hooks," HF13). In both, the entire topic compresses into one nameable
+concept a viewer can hold onto, silently ask "do I know about that
+already," and decide to stay or scroll based on. This is the topic-
+selection version of what HF10 pattern 9 (named-concept headline)
+already showed at the OST-wording level, elevated here to a standing
+check on the *topic itself*, not just its packaging: before finalizing
+any topic, name the one keyword/concept it resolves to. If a topic
+can't compress to a single sayable noun or named concept (a person,
+a named framework, a specific number, a coined term), it's still too
+diffuse, no amount of OST polish fixes that at the wording stage.
+
+Examples already in this system's own output: "180bpm" (the 2026-09-02
+script), "grief" / "5 stages" (borrowed framework, HF8/P31), "the 1
+mistake," "the 3-hour rule." Examples still too diffuse to pass this
+test on their own: "how to build a personal brand," "training
+process."
+
+*Source: Luke, comparing the Ogilvy post's keyword ("David Ogilvy") to
+a Briar Cochran hook-formula post's keyword ("Hooks"), pointing out
+both compress the entire video to one nameable concept.*
+
+## P38 — Briar's 3-ingredient hook formula, and why templates lose to principles
+
+Real advice Luke shared directly from Briar Cochran (verbal, from a
+video whose own on-screen text was "Secret Formula of Lethal Hooks,"
+itself a live example of P37): copying other people's hooks, hook
+templates, or crowd-sourced "best hooks" lists puts you behind, because
+a hook's power depends on first-mover advantage, once a phrasing is
+copied it's already stale. The fix is principles, not templates, the
+same reasoning this entire `principles.md`/`hook-frameworks.md` system
+is built on. Briar's actual 3 ingredients, verbatim in substance:
+
+1. **The gate (call-out).** Name who this is for, early and narrowly,
+   on purpose. A wide gate ("if you want to get rich in 2026") pulls
+   viewers who don't convert to anything; a narrow one ("if you want to
+   get rich in 2026 in the blue-collar industry") filters IN the right
+   viewer and filters OUT everyone else, which is the point, not a
+   flaw. Same instruction as HF10 pattern 11 (audience-filtering
+   subtext), confirmed independently here as core hook mechanics, not
+   just a subtext trick.
+2. **The open loop.** State something that creates real curiosity and
+   foreshadows the payoff, without revealing it. Briar's own rule of
+   thumb: the end of your first sentence should leave the viewer
+   silently thinking "I wonder what he means by that" or "how does that
+   work." This is P21/P29's specificity-and-remarkability bar applied
+   specifically to sentence 1, not the whole hook.
+3. **Pain or benefit.** State plainly, early, either what the viewer
+   avoids by watching or what they gain. Briar's own example: opening
+   with the pain of losing first-mover advantage by copying hooks in
+   2026, not a benefit-framed alternative, both directions work, pick
+   whichever is more true and more specific for the topic at hand.
+
+**Most creators forget one ingredient. Briar's own claim: most forget
+all three.** Practical use for `/ideate-*`: when building the verbal
+hook beat of HF9's structure, check it against all 3 ingredients
+explicitly, not just against P21's specificity bar alone, gate and
+open-loop and pain-or-benefit are 3 separable checks, not one blended
+vibe check.
+
+*Source: Luke, sharing a real Briar Cochran video directly (on-screen
+text "Secret Formula of Lethal Hooks"), verbal transcript of Briar's
+own 3-ingredient breakdown.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

@@ -464,6 +464,46 @@ as the series-banner line.
 
 *Source: Luke, directly, breaking down a real post he admires.*
 
+## HF13 — Briar's 3-ingredient hook formula (gate, open loop, pain-or-benefit)
+
+Real advice Luke shared directly from Briar Cochran, verbal, from a
+video whose own on-screen text ("Secret Formula of Lethal Hooks") is
+itself a live P37 example (one nameable keyword, "Hooks," as the whole
+topic). Briar's own framing first, because it's the reason this file
+exists at all: copying other people's hooks or hook templates in 2026
+already puts you behind, a hook's power is first-mover advantage, once
+it's been said it's stale. The fix is principles, not templates. His 3
+real ingredients for the *verbal hook* specifically (the spoken beat in
+HF9, step 1), most creators forget one, some forget all three:
+
+1. **Gate (call-out).** Name who this is for, early, narrowly, on
+   purpose. "If you want to get rich in 2026" is too wide a gate; "if
+   you want to get rich in 2026 in the blue-collar industry" filters IN
+   the right viewer and filters OUT everyone else, deliberately. Same
+   move as HF10 pattern 11 (audience-filtering subtext), now confirmed
+   as core verbal-hook mechanics, not just an on-screen-text trick.
+2. **Open loop.** State something that creates real curiosity toward
+   the payoff without revealing it. Briar's own test: the end of
+   sentence 1 should leave the viewer silently thinking "I wonder what
+   he means" or "how does that work." P21/P29's bar, applied
+   specifically to the first sentence.
+3. **Pain or benefit.** State plainly, early, what the viewer avoids or
+   gains by watching. Briar's own hook opened with pain (losing
+   first-mover advantage by copying hooks), not benefit, either
+   direction works, pick whichever is more true and more specific for
+   the topic.
+
+**Practical use for `/ideate-*`:** when writing HF9's verbal-hook beat,
+check it against all 3 as separate pass/fail items, gate, open loop,
+pain-or-benefit, not one blended "does this feel hooky" judgment call.
+See P38 in `principles.md` for the full source writeup, and P37 for the
+matching topic-level rule (every video needs one nameable keyword) that
+this same source video demonstrated.
+
+*Source: Luke, sharing a real Briar Cochran video directly (on-screen
+text "Secret Formula of Lethal Hooks"), verbal transcript of Briar's
+own 3-ingredient breakdown.*
+
 ## Universal reminder
 
 Every hook produced from these frameworks still has to clear
