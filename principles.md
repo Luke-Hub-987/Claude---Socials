@@ -811,10 +811,12 @@ and original, not the raw count of ideas. Two ways to raise it:
    - **Cross-domain association** (P2, HF8) — the Ironman-coach topic
      (v7) wraps ordinary training advice in borrowed authority from an
      adjacent discipline.
-   - **Paradox/reversal-with-real-specificity** (P21's exception
-     clause) — "getting fitter raises injury risk" wraps "avoid
-     injury" (an old topic) in a counter-intuitive frame, the wrap is
-     what makes P21's reversal exception earn its place.
+   - **Paradox framing** — a counter-intuitive real fact stated as a
+     direct positive claim, never via negative-parallelism phrasing
+     (P35 retired that carve-out with no exception): "a heart rate
+     that looks dangerous can be completely normal" wraps "is my heart
+     rate okay" (an old topic) in a genuine paradox, stated flat, not
+     via an "it's not X, it's Y" construction.
    - **Raised stakes** (P24) — wraps ordinary information in a real,
      higher-intensity moment instead of a listicle.
    - **Narrowed audience specificity** (P5's left-back bar) — "advice
