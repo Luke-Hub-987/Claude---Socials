@@ -397,17 +397,26 @@ Tactically, this is a script-writing structure, not just a hook rule:
    like a reveal, this is P21/P29's specificity-and-remarkability bar
    applied twice per video instead of once.
 
-Maps directly onto HF9's beats: HF9's verbal hook / super hook cover
-the hook + lock-in-zone territory, HF9's body (3-5 elements) is where
-body blocks 1 and 2 live. Practical rule for `/ideate-*` going
-forward: every `body_angle` for a short-form idea should be checked
-for **two** distinct non-obvious insights, not one, and both should be
-identifiable within the first two beats of HF9's structure, not saved
-for later in the body.
+**Beat order corrected after real performance data (P36,
+principles.md): the super hook does not sit between the on-screen
+hook and aha #1.** The original mapping here (verbal hook / super hook
+covering the hook + lock-in-zone, body covering the two ahas) put a
+spoken credibility beat before any payoff, and a real published post
+built that way got a 7-second average watch time against a 36.7%
+baseline skip rate, worse than typical. Corrected order: **on-screen
+hook → aha #1 → super hook (compressed to a near-instant on-screen
+credential, not a spoken beat) → aha #2 → body/payoff.** The first aha
+has to land inside the first 2-3 seconds combined with the hook, full
+stop, credibility earns its place once the viewer already has a reason
+to stay, never before. Practical rule for `/ideate-*` going forward:
+every `body_angle` for a short-form idea should be checked for **two**
+distinct non-obvious insights, not one, and the first one has to be
+reachable before any credibility beat, not after it.
 
 *Source: a clip Luke shared, explicitly framed as one piece of a
 larger storytelling framework still to come — expect more principles
-in this vein.*
+in this vein. The corrected beat order is sourced from real published
+performance data, see P36 in `principles.md`.*
 
 ## Universal reminder
 

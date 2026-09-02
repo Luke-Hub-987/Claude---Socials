@@ -988,6 +988,48 @@ guess at what "AI slop" means.
 linked directly by Luke after the negative-parallelism pattern
 recurred a third time in a script body.*
 
+## P36 — HF9's super hook has to come after the first aha, not before it
+
+Real performance data on the "Grief has 5 stages" post
+(`instagram.com/p/DcwkYsAubh3/`) exposed a structural conflict between
+two rules this system had never actually reconciled. The numbers:
+266 views, 50% skip rate against a 36.7% account baseline, 7 second
+average watch time, 93% of viewers non-followers (normal cold-reach
+distribution, not itself the problem).
+
+**A 7-second average watch time is the whole diagnosis.** Whatever the
+exact delivery, viewers left before any real payoff could land. The
+script this system produced put HF9's super hook (a spoken credibility
+beat, "1 marathon, 3 ultras, based in Sligo") *between* the on-screen
+hook and HF11's first aha. That's exactly the kind of throat-clearing
+a cold, fast-scrolling audience won't sit through, HF11 says front-load
+the first aha as early as possible, HF9's beat order as written
+contradicts that by inserting credibility first.
+
+**Fix: when combining HF9 and HF11, the super hook moves to after the
+first aha, or gets compressed to an on-screen credential shown
+silently under 1 second, never a spoken preamble.** The on-screen text
+hook and the first aha need to land inside the first 2-3 seconds
+combined, credibility earns its place once the viewer already has a
+reason to keep watching, not before.
+
+**Second, less certain hypothesis, worth testing rather than assuming:**
+the topic itself ("grief," a heavy/clinical word) may have been a
+tonal mismatch for a fast-scroll running account, costing a beat of
+confusion before the connection to running lands, versus a viscerally
+immediate hook like "Are they trail running or just walking really
+fast?" (P32, 2,578 views, zero translation required). Worth watching
+whether this recurs on a hook that isn't also carrying the pacing
+problem above before treating it as confirmed.
+
+**Standing practice going forward: real posted performance is ground
+truth and overrides hook-craft theory (P8, P13).** When Luke reports
+real numbers on a published post, that data updates this file, the
+same as any other direct feedback.
+
+*Source: Luke, directly, sharing real Instagram Insights data on a
+published post and asking for the failure analysis.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
