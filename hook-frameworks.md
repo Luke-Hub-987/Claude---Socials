@@ -373,6 +373,29 @@ same as these two real accounts do across their own real output.
 and isn't in the caption metadata), per Luke's direct request to look
 at these two specific accounts.*
 
+**Pattern 13, found via the outlier-scrape pipeline (`ig_outliers_personal_v2.json`/`tiktok_outliers_personal.json`) rather than a manual account check, real cover images pulled live:**
+
+13. **Serialized sentence across slides/cuts.** `@jdrunsfar` (a
+    confirmed real competitor, `competitors.md`), a real 135.23x
+    outlier (3.4M plays,
+    `tiktok.com/@jdrunsfar/video/7660463369618574599`), opens on
+    "I went from 0…." on the first frame; a separate real post from the
+    same account
+    (`tiktok.com/@jdrunsfar/video/7662705248653380872`, 16.41x, 430K
+    plays) continues the same sentence structure, "because maybe…" on
+    its own cover. The sentence itself is the open loop, split across
+    a photo-dump/carousel rather than stated in one shot, each slide's
+    on-screen text is a fragment, not a complete thought, which is what
+    pulls a viewer through the next slide instead of relying on a
+    single punchy line to do everything. A distinct format lever
+    (alongside green-screen/native-caption/split-screen/tier-list, P16)
+    worth using when the underlying content is a real personal
+    narrative arc, not a single fact or tip.
+
+*Source: live TikTok scrape via the outlier-research pipeline
+(`scripts/tiktok_outliers.py` output), cover images pulled live per
+the same method used for `@briarcochran`/`@dantebrunelli_2` above.*
+
 ## HF11 — The Double Aha
 
 Good content delivers one hit of dopamine before a viewer scrolls
