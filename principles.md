@@ -1085,6 +1085,24 @@ process."
 a Briar Cochran hook-formula post's keyword ("Hooks"), pointing out
 both compress the entire video to one nameable concept.*
 
+**Hard rule, added after this was still missed on a serialized-slide
+OST that read fine as a narrative but had no keyword anywhere in it:**
+this check is not optional for some formats and skippable for others.
+It applies whether the final on-screen text is a question, a flat
+statement, a quote, or a narrative/serialized device across multiple
+slides (HF10 #13) — no format is exempt. Mechanical process, every
+time, before a single word of the actual hook is written: **state the
+keyword in isolation first** (one line: "keyword: ___"), then build
+the hook, question, quote, or narrative around it. If a narrative/
+serialized device is used, the keyword still has to appear somewhere
+visible on screen, as a title card, a persistent corner tag, a leading
+slide, or the opening line itself, not just be implied by the story.
+"The 0-to-3K story" being a real, true narrative is not the same as it
+containing a keyword, a story can be entirely true and still fail this
+check if nothing nameable ever appears on screen. Skipping this check
+because a format felt narrative or conversational rather than
+fact-based is exactly the failure mode this hard rule exists to close.
+
 ## P38 — Briar's 3-ingredient hook formula, and why templates lose to principles
 
 Real advice Luke shared directly from Briar Cochran (verbal, from a

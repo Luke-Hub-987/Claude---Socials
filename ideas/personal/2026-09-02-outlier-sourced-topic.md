@@ -30,24 +30,32 @@ story, already posted once: `brands/personal/voice.md`'s real sample,
 views). Same real fact, reformatted into the higher-performing
 serialized device instead of one static line.
 
-### OST options (3-slide serialized version)
+### Keyword (P37, stated first, per the hard rule — this was missing
+from the previous version of this file, corrected directly)
 
-1. Slide 1: **"I went from run/walk…"**
-   Slide 2: **"…to 3K straight."**
-   Slide 3: **"One lamppost at a time."**
-2. Slide 1: **"I couldn't run 1K without walking…"**
-   Slide 2: **"…so I picked one lamppost."**
-   Slide 3: **"Then the next one. Then 3K straight."**
+**"The Lamppost Method"** — real (it's literally the technique Luke
+used), nameable, ownable, matches HF10 #9's named-concept shape (2-3
+words, no verb). This has to actually appear on screen, not just be
+implied by the narrative, the fix below leads with it as its own
+slide/title card rather than leaving it as subtext under a story.
 
-Option 2 adds a real concrete unit (lamppost-by-lamppost) earlier,
-matching P32's concrete-tail rule slide by slide instead of only at the
-end. Both use only the confirmed real facts already in `voice.md`, no
-new claim.
+### OST options (keyword leads, then the HF10 #13 serialized narrative)
 
-**P37 keyword check:** the single thing this compresses to is the
-concrete milestone itself, "0 to 3K straight," same test as "Cadence
-Lock" or "David Ogilvy," a viewer can hold that number and decide to
-watch.
+1. Slide 1 (title card): **"The Lamppost Method"**
+   Slide 2: **"I went from run/walk…"**
+   Slide 3: **"…to 3K straight. One lamppost at a time."**
+2. Slide 1 (title card): **"The Lamppost Method"**
+   Slide 2: **"I couldn't run 1K without walking…"**
+   Slide 3: **"…so I picked one lamppost. Then the next. Then 3K
+   straight."**
+3. Keyword as a persistent corner tag instead of its own slide (stays
+   on screen through all 3 story slides rather than using a slide of
+   its own): small tag, **"The Lamppost Method"**, main text per option
+   1 or 2 above underneath it throughout.
+
+All 3 use only the confirmed real facts already in `voice.md`, no new
+claim, the only change from the previous draft is that the keyword now
+actually appears on screen instead of being left implied by the story.
 
 ## Backup topic leads (real, verified, not yet ready to script)
 
@@ -74,8 +82,8 @@ scripted as fact until the actual video content is reviewed:
 Passes every check this session has added, cleanly, without needing
 another verification pass first: real outlier source (P17), real
 device newly logged (HF10 #13), real confirmed personal fact already
-in `voice.md` (P23-safe), single nameable keyword (P37), and nothing
-in it is a factual/technical claim that needs sourcing beyond "this
-happened to Luke, already confirmed" (P39 doesn't even apply here the
-way it did to the heart-rate script, there's no science claim to
-source, just a real personal history).
+in `voice.md` (P23-safe), a keyword that's actually visible on screen
+(P37, corrected above), and nothing in it is a factual/technical claim
+that needs sourcing beyond "this happened to Luke, already confirmed"
+(P39 doesn't even apply here the way it did to the heart-rate script,
+there's no science claim to source, just a real personal history).

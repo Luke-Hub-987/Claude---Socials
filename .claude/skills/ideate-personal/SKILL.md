@@ -183,7 +183,8 @@ If no focus argument was passed:
 - id: 1
   pillar: <which pillar this serves>
   format: <IG_carousel | IG_reel | IG_post | X_thread | LinkedIn_post | YT_short | YT_long>
-  on_screen_text_hook: <MANDATORY. The literal on-screen text overlay, per HF6/P15/P21/P35/P37. Specific, numbered/taxonomy-shaped where possible, compresses to one nameable keyword (P37), NO em-dashes, NO negative-parallelism/reversal shapes ever ("it's not X, it's Y" and the rest of P35's catalog — no exception, the old "paired with specificity" carve-out is retired)>
+  keyword: <MANDATORY, write this BEFORE on_screen_text_hook, not after. The single nameable concept this idea compresses to (P37) — a person, a named framework, a specific number, a coined term. State it in isolation here first, then build the hook around it below. Applies regardless of the hook's final format (question, statement, quote, narrative/serialized slides, HF10 #13) — no format is exempt, and the keyword must actually appear on screen somewhere (title card, corner tag, leading slide, opening line), not just be implied by the story>
+  on_screen_text_hook: <MANDATORY. The literal on-screen text overlay, per HF6/P15/P21/P35/P37. Specific, numbered/taxonomy-shaped where possible, must visibly contain or lead with the `keyword` field above, NO em-dashes, NO negative-parallelism/reversal shapes ever ("it's not X, it's Y" and the rest of P35's catalog — no exception, the old "paired with specificity" carve-out is retired)>
   verbal_hook: <OPTIONAL. The spoken opening line per HF9, only if distinct from the on-screen text hook, NO em-dashes>
   body_angle: <2-3 sentences describing what the post argues or shows>
   voice_match: <one short line citing a specific element of voice.md it adheres to>
