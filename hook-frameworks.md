@@ -70,6 +70,16 @@ progressive intrigue and story structure).*
 
 ## HF6 — On-screen text: 5 copywriting principles
 
+**Read `ost-anatomy.md` before writing any on-screen text.** HF6 and
+P21/P32/P37 describe the surface rules; `ost-anatomy.md` is the teardown
+of why the real examples work (the New Balance identity span, "4 elite
+conversation starters," "morning mobility routine that makes me feel 25
+at 35," Luke's own winners and losers read together, and the shape
+distribution across the 80-item swipe file). Its single most important
+finding, which every rule below assumes but none of them stated: **the
+tail must name what the viewer walks away with, never the mechanism,
+the method's name, a feeling, or the creator.**
+
 **This is the primary framework for IG_reel/IG_carousel/YT_short
 formats, not a secondary one** — see P15 in `principles.md`: on-screen
 text drives reach, the caption barely matters. When `/ideate-*`

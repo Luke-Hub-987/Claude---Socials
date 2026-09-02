@@ -22,6 +22,11 @@ the PBA course content those files are waiting on).
 3. `brands/engine-room-nutrition/audience.md` — ICP / customer profile
 4. `principles.md` — Briar's positions (shared across brands)
 5. `hook-frameworks.md` — Briar's hook patterns (shared across brands)
+5b. `ost-anatomy.md` — MANDATORY before writing any on-screen text.
+   The teardown of why real OSTs work (identity span, two-number
+   delta, objection grave, the tail-ownership rule from Luke's own
+   ranked account data, and the real shape distribution). Rules in
+   HF6/P21/P32/P37 describe the surface; this is the machine underneath
 6. `voice-rules.md` — universal voice rules (em-dashes etc., shared)
 7. `brands/engine-room-nutrition/competitors.md` — if MISSING or empty,
    tell the user to run `/onboard-ern` first (it collects this)
@@ -191,8 +196,9 @@ If no focus argument was passed:
 - id: 1
   pillar: <which pillar this serves>
   format: <IG_carousel | IG_reel | IG_post | X_thread | LinkedIn_post | YT_short | YT_long>
+  dream_outcome: <MANDATORY, write this FIRST, before keyword and before the hook. What the viewer walks away with, phrased as something they would say out loud about their own life ("I want to stop dying at mile 20"). If this can't be written, there is no video yet. See ost-anatomy.md Part 8>
   keyword: <MANDATORY, write this BEFORE on_screen_text_hook, not after. The single nameable concept this idea compresses to (P37) — a person, a named framework, a specific number, a coined term. State it in isolation here first, then build the hook around it below. Applies regardless of the hook's final format (question, statement, quote, narrative/serialized slides, HF10 #13) — no format is exempt, and the keyword must actually appear on screen somewhere (title card, corner tag, leading slide, opening line), not just be implied by the story>
-  on_screen_text_hook: <MANDATORY. The literal on-screen text overlay, per HF6/P15/P21/P35/P37. Specific, numbered/taxonomy-shaped where possible, must visibly contain or lead with the `keyword` field above, NO em-dashes, NO negative-parallelism/reversal shapes ever ("it's not X, it's Y" and the rest of P35's catalog — no exception, the old "paired with specificity" carve-out is retired)>
+  on_screen_text_hook: <MANDATORY. The literal on-screen text overlay, per HF6/P15/P21/P35/P37. Specific, numbered/taxonomy-shaped where possible, must visibly contain or lead with the `keyword` field above, and its tail/parenthetical must name the `dream_outcome` or kill the biggest reason to scroll past, NEVER the mechanism, the method's name, a feeling, or the creator (ost-anatomy.md Parts 5 and 9), NO em-dashes, NO negative-parallelism/reversal shapes ever ("it's not X, it's Y" and the rest of P35's catalog — no exception, the old "paired with specificity" carve-out is retired)>
   verbal_hook: <OPTIONAL. The spoken opening line per HF9, only if distinct from the on-screen text hook, NO em-dashes>
   body_angle: <2-3 sentences describing what the post argues or shows>
   voice_match: <one short line citing a specific element of voice.md it adheres to>

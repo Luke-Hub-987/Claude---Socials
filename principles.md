@@ -1119,6 +1119,16 @@ consideration.
 
 ## P37 — Every video needs one nameable keyword the viewer can latch onto
 
+**Read alongside `ost-anatomy.md`, which corrects a real misreading of
+this principle.** P37 was being applied as "coin an insider term"
+(Cadence Lock, Badwater), when the real corpus shows the keyword is
+usually plain language for something the viewer already half-wants
+("morning mobility routine," "recovery run"), sitting inside a how-to
+with the payoff attached. Named proprietary concepts are roughly 15% of
+the real swipe file; how-to-with-gain is roughly 35%. The keyword is
+necessary and never sufficient: it answers "is this about me," and the
+outcome still has to answer "what do I get."
+
 Confirmed by Luke pointing at two real posts side by side: the Ogilvy
 post's keyword was "David Ogilvy" (HF12), the hook-formula post's
 keyword is "Hooks" (see the on-screen text "Secret Formula of Lethal
