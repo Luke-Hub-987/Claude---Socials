@@ -418,6 +418,52 @@ larger storytelling framework still to come — expect more principles
 in this vein. The corrected beat order is sourced from real published
 performance data, see P36 in `principles.md`.*
 
+## HF12 — The Legend Pairing (a visual hook, not just a text one)
+
+A format Luke pointed to directly, a real post
+(`instagram.com/p/DZYsyECIPSA/`): the creator's own photo next to a
+real, named legend in the field (David Ogilvy, "Father of
+Advertising"), real brand logos the legend actually worked with
+(Rolls-Royce, Dove, Schweppes, Guinness) arranged above them, an
+upward-pointing visual cue between the two photos (arrows), and a
+bold series-title banner across the bottom ("greatest marketers").
+Luke's own read on why it works, worth keeping verbatim: seeing
+Ogilvy's name and title makes a viewer think "straight away, he made
+ad companies lots of money, I can learn from him to better my own
+position toward my dream outcome." The credibility and the curiosity
+both land before a single word is spoken, this is P2's association
+tactic and P30's viewer-as-hero (the promise is *your* improvement,
+via the legend, not the legend's own story) executed visually instead
+of in the on-screen text.
+
+Structure, generalizable beyond marketing:
+
+1. **A real, named, verifiably-titled legend** in the creator's field
+   ("Father of X," or an equivalent widely-recognized title). Not a
+   vague "expert," a specific person with a real, checkable claim to
+   the title.
+2. **Real proof-of-scale artifacts** shown alongside them (brand logos
+   they worked with, a real record they hold, a real institution they
+   founded), doing the credibility work visually so the on-screen text
+   doesn't have to.
+3. **A visual aspirational device** connecting the creator to the
+   legend (arrows, a side-by-side, anything that reads as "learning
+   from/leveling up toward," not "equal to").
+4. **A series-title banner**, not a one-off caption, "greatest
+   marketers" implies there are more entries, which is P11's
+   world-building (a named, collectible format viewers return for)
+   executed as a visual/thumbnail device rather than a verbal one.
+
+This is a thumbnail/creative-direction pattern, not something
+`/ideate-*` can produce as pixels, the actual photo pairing and logo
+sourcing is a filming/editing task for Luke. What `/ideate-*` can and
+should do: identify real, verifiable legends per topic (never an
+invented or unconfirmed title, P23's standard applies to a legend's
+credentials the same as anywhere else) and write the on_screen_text_hook
+as the series-banner line.
+
+*Source: Luke, directly, breaking down a real post he admires.*
+
 ## Universal reminder
 
 Every hook produced from these frameworks still has to clear
