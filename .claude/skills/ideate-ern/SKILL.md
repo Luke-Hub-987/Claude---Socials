@@ -160,6 +160,15 @@ better OST wording. **P38/HF13** — the verbal hook must clear Briar's
 early), an open loop (sentence 1 leaves the viewer wondering "how does
 that work"), and a stated pain or benefit.
 
+**ERN-specific shape rule (P42, data-backed, non-negotiable): do NOT
+write how-to on-screen text for ERN.** Every how-to on ERN's real grid
+sits between 439 and 645 views; every narrative-with-stakes sits
+between 1,271 and 2,158. Write tests that can fail, trials, jeopardy,
+underdog narrative, and the unglamorous process revealed (Hopkins, see
+`ost-anatomy.md` Parts 6 and 8). "The bar that worked in a food lab was
+about to meet 1,200 metres of climbing" is the reference model. Keep
+how-to for the personal account.
+
 ERN specifically should also draw on P25-P28 (principles.md), all from
 a brand strategist Luke follows: P25 (push every idea one level more
 specific, "the address" not the category), P26 (the brand's

@@ -1272,6 +1272,71 @@ unverified claim because it makes a better hook.
 claim presented as fact and asking point-blank whether it was sourced
 from the Reddit research or outlier research, neither of which it was.*
 
+## P41 — Progressive intrigue: every sentence owes both payoff and mystery
+
+From a transcript already sitting in
+`research/briar-cochran-notes-accordion-tam-ccn.txt` that this system
+never mined. The creator's claim: they grew 10,000 followers in a month
+focusing on one thing, and it applies to every speech, presentation and
+conversation, not just content.
+
+> Every video is a story, even a tutorial. A good story is one where
+> the plot keeps thickening. **Every sentence should deliver both payoff
+> and mystery, leaving the listener both enlightened and unsatisfied.**
+> The question they should always be silently asking is "what happens
+> next."
+
+The tactical test, and it is unusually concrete: **imagine a transition
+word between every pair of sentences. If it isn't "therefore," "however,"
+or "for example," the second sentence doesn't belong.** Sentences that
+merely sit next to each other are the thing that makes a script feel
+long-winded.
+
+This is also the source's own answer to hook-copying: the reason a
+borrowed hook underperforms is that the borrower reproduced the first
+sentence and none of the escalation behind it.
+
+Pairs directly with HF11's delivery rule (each aha sayable in under 10
+seconds) and with Heaton's promise/progress/payoff (P42). Run the
+transition-word test over every script body before it's called done.
+
+*Source: transcript in the research folder, creator not named in what
+was supplied, attribute as unconfirmed if it ever matters.*
+
+## P42 — The two accounts reward opposite shapes, and the data is unambiguous
+
+Real view counts, both accounts, from `voice.md` in each brand folder.
+Full working in `ost-anatomy.md` Parts 5 and 6.
+
+- **Personal (`@luke_morrison_er`)**: how-to-with-a-viewer-gain and
+  scenario-questions dominate. "How to actually use strides (To get you
+  a PB)" 2,266. "Q: If it's hot on race day, should I pour water over
+  myself?" 2,505.
+- **ERN (`@engineroomnutrition`)**: **every single how-to sits between
+  439 and 645. Every narrative-with-stakes sits between 1,271 and
+  2,158.** "the bar that worked in a food lab was about to meet 1,200
+  metres of climbing" 1,725. "Nobody expected us 2 to be next" 2,158.
+  "POV: Climb Mount Brandon. Only survived bcause of the ERN bar" 1,271.
+
+The coherent reading: **the personal brand is followed for what the
+viewer can learn, the company account is followed for what it can
+prove.** A pre-launch product brand has no teaching authority yet, so
+instruction underperforms and jeopardy overperforms. A test that can
+fail is ERN's native shape.
+
+Practical, and it changes `/ideate-ern` directly: **stop writing how-to
+on-screen text for ERN.** Write tests, trials, jeopardy, underdog
+narrative, and the unglamorous process revealed (Hopkins, see
+`ost-anatomy.md` Part 8). Keep how-to for the personal account.
+
+Also worth noting as a live hypothesis rather than a conclusion: both
+accounts posted "Feeling slow asf at Parkrun" and both did ~606, which
+is consistent with the shape mattering more than the account.
+
+*Source: this system's own analysis of the real ranked view counts in
+both `voice.md` files, run after Luke pointed out that the research
+already in the repo had not been read properly.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
