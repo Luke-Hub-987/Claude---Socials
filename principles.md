@@ -1337,6 +1337,52 @@ is consistent with the shape mattering more than the account.
 both `voice.md` files, run after Luke pointed out that the research
 already in the repo had not been read properly.*
 
+## P43 — The biggest lever on the personal account has had zero OSTs written for it
+
+Found while reading every file end to end. `brands/personal/pillars.md`
+records Pillar 3, adventure/outdoor, as **confirmed, lean in**:
+Benbulben did **148,000 views against a baseline of roughly 500 to
+2,500**. That is about 60x the account's normal, it is the single
+biggest thing that has ever happened on it, Luke has repeatable access
+to mountains, and he has stated he wants this made regularly.
+
+**Across every OST batch this system has produced, not one served
+Pillar 3.** Every batch has been how-to and problem-solving content,
+which is Pillar 1.
+
+Luke's own angle for it, already recorded in `pillars.md` and never
+used: **show the climb, not the summit.** "People want to see
+themselves going up," not arriving. Plus his explicit caution: do not
+let generated scripts over-produce this, keep it raw.
+
+This shape is **vicarious experience** (`ost-formula.md`): it promises
+a feeling or a place, not a lesson, and it should not be judged by the
+tail rule, because the feeling is the payoff. Any future batch for the
+personal brand should carry at least one.
+
+*Source: reading `brands/personal/pillars.md` properly during the
+complete-file pass Luke asked for.*
+
+## P44 — ERN's real counter-position is a 30-minute window, and no OST has used it
+
+Also found in the complete pass, in
+`brands/engine-room-nutrition/audience.md`: ERN's problem is stated
+razor-sharp and has never made it into a hook.
+
+> The specific, narrow problem ERN is built around: **the 30 minutes
+> before a race or event.** Right now the only real option in that
+> window is a gel, and most people who use gels don't actually like
+> them. It's tolerated, not enjoyed. There isn't a good, likeable
+> product built specifically for that pre-activity window.
+
+That is a counter-position (P2), a named enemy (Heaton's world-building
+point), and a time anchor, all in one, and it is already confirmed by
+Luke rather than invented. Combine it with P42's finding that ERN
+rewards jeopardy over instruction and the native shape is obvious: a
+test in that window, that can fail, on camera.
+
+*Source: `brands/engine-room-nutrition/audience.md`, read in full.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

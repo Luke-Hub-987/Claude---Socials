@@ -15,6 +15,10 @@ purpose: The definitive OST/headline/title reference. Built from every
 
 # The Anatomy of On-Screen Text, Headlines and Titles
 
+**For the operational version, use `ost-formula.md`.** That file is the
+structure you run every time. This file is the evidence underneath it:
+why each rule exists, and which real dataset it came from.
+
 This exists because the system kept producing on-screen text that
 passed every written rule (P21 specificity, P32 concrete tail, P37
 keyword) and still landed as bad. The rules described the surface. This

@@ -22,7 +22,12 @@ the PBA course content those files are waiting on).
 3. `brands/engine-room-nutrition/audience.md` — ICP / customer profile
 4. `principles.md` — Briar's positions (shared across brands)
 5. `hook-frameworks.md` — Briar's hook patterns (shared across brands)
-5b. `ost-anatomy.md` — MANDATORY before writing any on-screen text.
+5a. `ost-formula.md` — MANDATORY, read FIRST. The operational OST
+   structure: the two-line shape, the fill order (dream outcome ->
+   consequence of pain -> keyword -> gap check -> whisper -> shape ->
+   test), the shapes that work per account, and the seven gates
+5b. `ost-anatomy.md` — the evidence behind the formula. Read before
+   writing any on-screen text.
    The teardown of why real OSTs work (identity span, two-number
    delta, objection grave, the tail-ownership rule from Luke's own
    ranked account data, and the real shape distribution). Rules in
