@@ -10,19 +10,54 @@ purpose: The operational structure for writing on-screen text. Short on
 
 # The OST Structure
 
+## The 10 rules
+
+Every OST passes all ten. No exceptions, no formats exempt.
+
+**Structure**
+1. **Two lines maximum.** Line 1 is the hook, roughly 6 to 10 words.
+   Line 2 is the whisper, in parentheses, 3 to 7 words.
+2. **No function words.** Cut and, so, the, is, a. Every word left is a
+   noun, verb, number or name.
+
+**Content**
+3. **Line 1 carries the keyword** — one real thing the viewer can name,
+   taken from vocabulary they already use. Never invented.
+4. **Line 2 carries the viewer's payoff, or kills their biggest
+   objection.** Never a mechanism, never the method's name, never a
+   feeling, never the creator. (Exception: for vicarious and jeopardy
+   shapes the experience *is* the payoff, so line 2 may carry the
+   series name or the stake instead.)
+5. **Never put the answer in the text.** Point at it. "What fixed
+   watering schedules are doing to your garden" ships. "Fixed watering
+   schedules are killing your garden" is a B+.
+6. **Specific means a real number, a real named thing, or a real
+   moment.** Not a category label. Not a hype word.
+7. **The gap must be small.** They already half-know the keyword. No
+   foothold means no curiosity.
+8. **It leaves a picture**, and someone could repeat it after hearing
+   it once.
+
+**Selection**
+9. **TAM is chosen on purpose**, and vocabulary depth matches it.
+   Broad video, surface words. Core video, iceberg words.
+10. **Shape comes from the account's proven list**, not from whichever
+    device worked last.
+
+**Above all ten:** if you cannot write the OST and sketch the frame,
+you do not have an idea. Kill it there, not after filming.
+
+---
+
 ## The shape
 
 ```
 LINE 1   [KEYWORD]  +  [PROMISE or TENSION]
-LINE 2   ([WHISPER: objection killed, or the concrete payoff])
+LINE 2   ([WHISPER: viewer payoff, objection killed, or the stake])
 ```
 
-Two lines maximum. Roughly 6 to 10 words on line 1, 4 to 7 in the
-whisper. One font. No function words (and, so, the, is). Break the
-line by structure, not by where the box runs out. Hold it on screen
-about 10 seconds, not the native 2-second cut.
-
-That is the whole shape. Everything below is how you fill it.
+One font. Break the line by structure, not by where the box runs out.
+Hold about 10 seconds, not the native 2-second cut.
 
 ---
 
@@ -134,52 +169,161 @@ filming.
 
 ---
 
-## Worked examples
+## Rule 4's real exception, stated properly
 
-Built live with the structure, to show it running. Sources are real
-(`research/reddit-running-research-manual.txt`, `voice.md`,
-`pillars.md`).
+Rule 4 says line 2 carries the viewer's payoff. Three shapes are
+exempt, and the data says so:
 
-### A. Core, personal, how-to + gain
+- **Self-recognition.** "Are they trail running... or just walking
+  really fast?" did **2,578 with no second line at all.** Being seen is
+  the payoff. Do not bolt a benefit onto these.
+- **Vicarious experience.** The feeling is the payoff.
+- **Jeopardy.** The stake is the payoff, so line 2 carries the stake.
 
-- Dream outcome: "I want to know my easy runs are actually doing
-  something."
-- Consequence of pain: doing 40 miles a week and improving at nothing.
-- Keyword: **junk miles** (iceberg, real, from the research).
-- Gap: small. They know the term and suspect they are guilty.
-- Whisper: kills "I don't want to change my whole plan."
+Everything else obeys rule 4 without exception.
 
-> **Junk miles or base building**
-> *(one question tells you, no plan changes)*
+---
 
-### B. Broad, personal, vicarious experience — Pillar 3, the missing one
+## Worked examples, with the rules applied line by line
 
-- Dream outcome: "I want to feel what that's like."
-- Keyword: **Benbulben** (a real named place, surface vocabulary,
-  broad TAM, and it already did 148,000).
-- Shape: vicarious. No lesson promised, the feeling is the payoff.
-- Whisper: Luke's own angle, the going up rather than the arriving.
+Every fact below is sourced. Line references are to
+`research/reddit-running-research-manual.txt`. Square brackets are real
+numbers Luke fills in, never invented (P39).
 
-> **The last 200m of Benbulben**
-> *(the bit nobody films)*
+### First, the one that failed, and exactly why
 
-### C. Personal, self-recognition
+> **The last 200m of Benbulben** / *(the bit nobody films)*
 
-- Consequence of the pain, not the pain: waiting for the car park to
-  empty before starting your watch.
-- Keyword: none needed. Self-recognition shapes carry themselves.
+- **Rule 4: FAIL.** "The bit nobody films" is about filming. It is a
+  remark about the creator's craft, not the viewer's payoff. This is
+  the same failure as "(*Spotlight effect)" at 313 views and "(1
+  Lamppost At A Time)" at 561.
+- **Rule 6: WEAK.** "200m" is a number, but it is a number about the
+  mountain, not about anything the viewer gets or does.
+- **Rule 8: FAIL.** Nobody repeats "the bit nobody films" to a friend.
 
-> **Waiting for the car park to empty**
-> *(before you start your watch)*
+Vicarious shapes are exempt from carrying a payoff, but they are not
+exempt from being about the viewer. That one was about the camera.
 
-### D. ERN, jeopardy
+---
 
-- Counter-position: the 30 minutes before a race, where a gel is the
-  only option and nobody likes it.
-- Shape: a test that can fail.
+### 1. ERN, jeopardy (approved)
 
 > **30 minutes before the gun**
 > *(bar vs gel, no second chances)*
+
+| Rule | Applied |
+|---|---|
+| 3. Keyword | "30 minutes before the gun" — the real window from `audience.md`, every racer knows it |
+| 4. Line 2 | Jeopardy exception: carries the stake, not a benefit |
+| 5. Points, never delivers | Never says which wins |
+| 6. Specific | A real 30-minute window, two named objects |
+| 7. Small gap | They have all stood in that window with a gel |
+| 9. TAM | Core, and the vocabulary is surface, because the moment is universal to racers |
+| 10. Shape | Jeopardy, ERN's proven shape (1,725 / 2,158) |
+
+### 2. Personal, self-recognition
+
+Source: line 157, verbatim: *"Sometimes I dread running in public cause
+I'm worried of being judged. Or I just go faster and then regret it 5k
+in."*
+
+> **Speeding up because someone's watching**
+> *(then blowing up at 5k)*
+
+| Rule | Applied |
+|---|---|
+| 2. No function words | Only "because" survives, and it carries the causation |
+| 3. Keyword | The behaviour itself, in their words |
+| 4. Line 2 | Self-recognition exception: recognition is the payoff |
+| 6. Specific | "5k" is a real number, "blowing up" is real running vocabulary |
+| 7. Small gap | Almost every runner has done this exact thing |
+| 8. Picture | You can see the road, the person, the sudden pace change |
+| 10. Shape | Self-recognition, the account's 2,578 shape |
+
+**This is the consequence of the pain, not the pain.** The pain is
+being judged. The consequence is wrecking your own run over it.
+
+### 3. Personal, broad TAM, scenario-question
+
+Source: line 212, verbatim: *"I am fat and in my 30s. Went for my first
+ever run today. How long before I can do this without feeling like I am
+going to die?"*
+
+> **How long until running stops feeling like dying**
+> *(the real answer, not "just keep going")*
+
+| Rule | Applied |
+|---|---|
+| 3. Keyword | The feeling itself, in their exact words |
+| 4. Line 2 | Kills the biggest objection: they have already been fobbed off with "just keep going" |
+| 5. Points, never delivers | No timeframe given |
+| 6. Specific | The specificity is the quoted bad advice, which they have all heard |
+| 9. TAM | Deliberately broad. Surface vocabulary throughout, no iceberg words |
+| 10. Shape | Scenario-question (2,505 shape) |
+
+### 4. Personal, core TAM, how-to + gain
+
+Source: line 1002, real title: *"Am I base-building or running junk
+miles?"*
+
+> **Junk miles or base building**
+> *(one check, mid-run, no plan changes)*
+
+| Rule | Applied |
+|---|---|
+| 3. Keyword | "Junk miles" — iceberg vocabulary, real, from the research |
+| 4. Line 2 | Payoff (a portable check) plus the objection killed (I do not want to rewrite my plan) |
+| 5. Points, never delivers | Never says which one they are doing |
+| 6. Specific | "One check" and "mid-run" are both concrete |
+| 7. Small gap | They know the term and suspect they are guilty |
+| 9. TAM | Core. Iceberg vocabulary, correctly matched |
+
+### 5. Personal, how-to + gain, number-led
+
+Source: line 2238, real account: DNF at Berlin at 26km, then 3:00:02 at
+Cape Town three weeks later.
+
+> **3:00:02, three weeks after a DNF**
+> *(what a near miss is actually worth)*
+
+| Rule | Applied |
+|---|---|
+| 3. Keyword | The time itself, the most specific thing available |
+| 4. Line 2 | The viewer's payoff: they own near misses too |
+| 6. Specific | Three real specifics: the time, the gap, the DNF |
+| 8. Picture | A race clock reading 3:00:02 |
+
+### 6. Personal, Pillar 3, vicarious, done properly
+
+Fixes the failure above. The whisper is now about the viewer's own
+question, not the camera.
+
+> **Could you climb Benbulben untrained?**
+> *(how bad the last [X] minutes really get)*
+
+| Rule | Applied |
+|---|---|
+| 3. Keyword | Benbulben, a real named place that already carried 148,000 views |
+| 4. Line 2 | The viewer's real question answered: what it would actually take from them |
+| 5. Points, never delivers | Never answers yes or no |
+| 6. Specific | [X] is a real number Luke fills in. No terrain facts invented (P39) |
+| 8. Picture | The mountain, and a person part-way up it |
+| 10. Shape | Vicarious, and it uses Luke's own stated angle: the going up, not the arriving |
+
+### 7. ERN, boring process revealed
+
+Source: `pillars.md` Pillar 4, the real Rice Crisp Graveyard series.
+
+> **What killed prototype [N]**
+> *(Rice Crisp Graveyard, Ep [N])*
+
+| Rule | Applied |
+|---|---|
+| 3. Keyword | "Prototype [N]" plus the real series name |
+| 4. Line 2 | Jeopardy exception, and the series name does world-building (P11) |
+| 6. Specific | Real batch numbers, filled in by Luke, never invented |
+| 10. Shape | Boring process revealed, plus jeopardy. No how-to on ERN (P42) |
 
 ---
 
