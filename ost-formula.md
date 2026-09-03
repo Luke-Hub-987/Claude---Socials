@@ -39,7 +39,18 @@ Every OST passes all ten. No exceptions, no formats exempt.
    watering schedules are doing to your garden" ships. "Fixed watering
    schedules are killing your garden" is a B+.
 6. **Specific means a real number, a real named thing, or a real
-   moment.** Not a category label. Not a hype word.
+   moment.** Not a category label.
+6b. **Then run a heat pass** (P51). Accurate and flat is the most
+   common failure this system has. Add an intensifier bolted to
+   something concrete (absolutely, completely, insanely, brutally,
+   quietly, suddenly, and "actually", which is Luke's own), state the
+   stakes, and apply the movie-title test. An intensifier on a vague
+   noun is hype and stays banned; on a concrete noun, number or moment
+   it is required.
+6c. **Line 1 is a painkiller too, not just line 2.** A headline that
+   promises information is a vitamin ("what actually happens at 13").
+   One that promises relief or escape is a painkiller ("the 13-mile
+   wall that makes people quit marathon training").
 7. **The gap must be small.** They already half-know the keyword. No
    foothold means no curiosity.
 8. **It leaves a picture**, and someone could repeat it after hearing

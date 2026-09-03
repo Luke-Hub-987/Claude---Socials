@@ -1623,6 +1623,67 @@ reason entirely.
 Sits alongside P35's AI-writing catalogue and P41's progressive
 intrigue as the third script-level check.
 
+## P51 — Accurate and specific is not enough. It has to be tantalising.
+
+The recurring gap Luke has now named more precisely than anything else
+in this thread: the lines are correct, sourced, specific, CCN-layered,
+and **flat**. His words on a line that passed every existing rule:
+*"Why our pace jumps when we run past people. So boring, bland, mild."*
+
+**The bar he set: people should be clawing at the screen.** His own
+benchmark for the wording, verbatim: *"it's no different to 10/10
+uncomfortable habits to make you dangerously charismatic. That is such
+a good line, such a good wording."*
+
+### The three tools
+
+**1. Intensifiers bolted to something concrete.** absolutely,
+completely, insanely, dangerously, brutally, catastrophically,
+suddenly, quietly. His own rewrites:
+
+- "sound insane until mile 30" → **"sound absolutely insane until mile 30"**
+- "make you a faster runner" → **"make you an insanely faster runner"**
+- "change how you race" → **"will completely change how you race"**
+- "why our pace jumps" → **"why our pace jumps like crazy"**
+
+**The guard that keeps this from becoming hype:** an intensifier on a
+vague noun is hype and stays banned. An intensifier on a **concrete
+noun, number or moment** is oomph and is now required. "Dangerously
+charismatic" works because charismatic is a specific identity. "Insanely
+good tips" would fail because tips is a category label.
+
+**2. Stakes, stated.** What does the viewer lose by not knowing? "The 3
+lies your watch tells you" has no stakes. "The 3 lies your watch tells
+you that wreck your race" does.
+
+**3. The movie-title test, his own.** *"Would that make a good movie
+title? No."* on "The 13-mile wall almost everyone hits (what's actually
+happening at 13)."
+
+### The vitamin rule applies to line 1, not just the whisper
+
+His sharpest catch: *"'What actually happens at 13' is a pure vitamin
+line. What pain are we solving?"* P46 was written for the whisper. It
+governs the headline too. A line that promises **information** is a
+vitamin. A line that promises **relief, escape or an outcome** is a
+painkiller.
+
+- Vitamin: "what's actually happening at 13"
+- Painkiller: "the 13-mile wall that makes people quit marathon
+  training"
+
+### Also recorded
+
+- **"Actually" is Luke's own native intensifier** (`voice.md`) and he
+  reached for it unprompted: "could you *actually* climb Benbulben
+  untrained." Use it as the house intensifier.
+- Flat-but-correct is the single most common failure mode this system
+  has, across every batch. Every line now gets a heat pass before it
+  ships.
+
+*Source: Luke, rewriting a batch's wording himself and naming the
+missing quality directly.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
