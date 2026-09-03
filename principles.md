@@ -1383,6 +1383,71 @@ test in that window, that can fail, on camera.
 
 *Source: `brands/engine-room-nutrition/audience.md`, read in full.*
 
+## P45 — CCN is a layer test on every OST, not a lane you pick
+
+Paddy's exact instruction, and this system has been reading it wrong:
+
+> "Look at every idea and say: **can a core, casual AND new viewer all
+> click this video and enjoy it.** That's where so many people go
+> wrong, they get too caught up in just the core... and they forget
+> about the casual and the new viewer. And on the flip side some
+> people get too caught up in the new viewer and they go too broad and
+> miss the mark with the audience they have been building."
+
+Every OST this system has produced has been **single-layer**. "Junk
+miles or base building" is core only. "How long until running stops
+feeling like dying" is new only. Luke graded both exactly that way
+without using the word: "not probably CCN enough."
+
+**Luke's funnel mapping, his own words:** core is bottom of funnel,
+casual is middle, new is top. He is more excited to make top-of-funnel
+videos than deep core ones, so batches should be weighted that way,
+while still layering each individual OST.
+
+### What each layer actually clicks on
+
+- **CORE (bottom).** A precise term or number tied to the goal they are
+  actively chasing. They would feel behind not knowing it. Iceberg
+  vocabulary lives here.
+- **CASUAL (middle).** A benchmark they recognise, or a frustration
+  they have personally felt. They dip in and out of the niche.
+- **NEW (top).** Something graspable with **zero context**: an
+  effort-to-outcome gap, jeopardy, spectacle, a universal human tell,
+  a famous anchor, or a number that is shocking on its own.
+
+The Sahara example is the model: permaculture is the core layer, "the
+UN" is the famous anchor that lets a new viewer in, and "holding back
+a desert" is the spectacle. One line, three layers, 12 million views.
+
+### Luke's own construction, which is the one to copy
+
+He proposed it himself and it is the sharpest thing in this whole
+thread: **take a boring niche technique and attach a specific numeric
+outcome.** His example, verbatim in substance: "how strides can get you
+to a sub-20-minute 5k... that's incredibly specific, that's in the
+niche stuff that I want to know."
+
+That is core (strides, sub-20) plus casual (sub-20 is the recognised
+wall) plus new (a tiny drill producing a big result is an
+effort-to-outcome gap anyone understands). Note the discipline that
+goes with it, also his: **do not then make every video about strides.**
+The technique rotates; the construction stays.
+
+### Two failures this principle explains
+
+- **"Speeding up because someone's watching"** — Luke: "pretty vague,
+  speeding up in a car, speeding up going down the stairs." The line
+  never says it is about running. A New viewer cannot place it, so the
+  layer that was supposed to carry it does not exist.
+- **"30 minutes before the gun"** — Luke: "what is the gun, the gun of
+  the race, someone shooting in the air?" Jargon that reads as
+  universal to the core and as ambiguous to everyone else. Name the
+  real object.
+
+*Source: Luke, grading a batch by funnel position and pointing back at
+Paddy's CCN document, which this system had summarised but not
+actually applied.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

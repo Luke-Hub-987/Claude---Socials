@@ -144,6 +144,28 @@ is a counter-position, not a product spec, and no OST has used it yet.
 
 ---
 
+## The CCN layer test (do this before the gates)
+
+Paddy's rule: **can a core, casual AND new viewer all click this and
+enjoy it?** Not pick one. All three, in one line.
+
+| Layer | Funnel | Clicks on | In running |
+|---|---|---|---|
+| **Core** | Bottom | A precise term or number tied to the goal they are chasing | strides, threshold, sub-20, junk miles, negative split |
+| **Casual** | Middle | A benchmark they recognise, or a frustration they have felt | sub-20 5k, the wall, a DNF, hating gels |
+| **New** | Top | Anything graspable with zero context: effort-to-outcome gap, jeopardy, spectacle, a universal human tell, a famous anchor, a shocking number | "20 seconds twice a week", a mountain, "lose 2.9kg", a car passing you |
+
+**Weight the batch toward New.** Luke is more excited to make
+top-of-funnel videos, and they are what grows the account. Layer every
+one of them anyway.
+
+**The construction to copy, Luke's own:** a boring niche technique plus
+a specific numeric outcome. "Strides" is core-only and dead. "Can
+20-second strides get you sub-20?" is all three. Rotate the technique
+every time, never build a run of strides videos.
+
+---
+
 ## The seven gates
 
 An OST ships only if all seven pass.
