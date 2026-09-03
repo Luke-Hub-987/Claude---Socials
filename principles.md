@@ -1557,6 +1557,72 @@ me feel 25 at 35").
 
 *Source: Luke, sending five OSTs that stopped his own scroll.*
 
+## P48 — Top of funnel still has to pull the right audience
+
+Luke on the POV-identity shape ("POV: laundry with Slavic wife"), which
+genuinely stopped his scroll: *"What audience would that attract? It's
+very top of funnel, probably not that great of an audience that you
+want to get."*
+
+**Reach is not the goal. Reach among people who could become runners
+is.** A hook can be maximally New and still be worthless if the New
+viewers it pulls have no path to becoming Core. This is the missing
+constraint on P45's "weight the batch toward New."
+
+**The test:** a New-weighted OST must still be *about running*, or
+about a body doing something hard. Someone with zero running knowledge
+should be able to click it, and someone who clicks it should be one
+step from caring about the next video.
+
+- **Passes:** "You can lose 2.9kg during one marathon." No running
+  knowledge needed, and everyone it pulls is now curious about
+  marathons.
+- **Fails:** a POV lifestyle or identity bit that happens to be
+  running-adjacent. Big reach, wrong room.
+
+Retired from the batch on these grounds: both POV-identity entries.
+
+## P49 — Never build an OST on a feat Luke has not committed to
+
+Second instance of the same failure, so it becomes a rule rather than a
+correction. First was Badwater (P40, another person's race). Now:
+"Running the Wild Atlantic Way, one section a week" and "Running every
+peak in Sligo," both invented challenges. Luke: *"I'm not going to be
+running the entire length of the Wild Atlantic Way any time soon. When
+I do a big race or a big challenge, I'll ask you for input then."*
+
+**Rule: an OST may only reference a race, route, climb or challenge
+that Luke has already done, or has already told this system he is
+doing.** Not one that would be a good video if he did it. The idea is
+not the content; the doing is, and this system does not schedule his
+life.
+
+Adventure content still runs (Pillar 3 is confirmed and it holds the
+148,000-view record), but only against real access he already has, and
+he confirms the specifics.
+
+## P50 — No staccato fragments in scripts
+
+Luke, on the scripting style this system has drifted into: *"really
+short, like two-word sentences, three-word sentences, none of that,
+get rid of that. Maybe a bit different for the on-screen text, and
+probably more so talk about scripting."*
+
+The 3:00:02 script is the example of the fault: "Food poisoning." "Five
+hours, dead on." "Two seconds outside sub-3." That clipped fragment
+rhythm reads as written-to-be-dramatic, which is the opposite of the
+raw, unpolished delivery both Briar's transcript and `pillars.md` call
+for.
+
+**Rule for every script body: write full spoken sentences, the way he
+would actually say them out loud.** One-word and two-word fragments are
+a stylistic tic, not emphasis. On-screen text is exempt, since it obeys
+the no-function-words rule (`ost-formula.md` rule 2) for a different
+reason entirely.
+
+Sits alongside P35's AI-writing catalogue and P41's progressive
+intrigue as the third script-level check.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
