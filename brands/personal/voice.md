@@ -74,8 +74,17 @@ become about that background. Use it narrowly for the "super hook"
 credibility beat in HF9 (`hook-frameworks.md`), not as a recurring
 topic:
 
-- 1 marathon, 3 ultra marathons: Connemara 60k, Connemara 100k, Seven
+- 1 marathon, and ultra marathons including Connemara 60k and Seven
   Sisters 55k (most recent)
+- **CORRECTION, 2026-09-02, flagged by Luke directly: Connemara 100k
+  was wrong and had been in this file since it was drafted. He has not
+  run it and is not planning to.** It was carried into super hooks in
+  multiple scripts before he caught it. The "3 ultras" count is now
+  unverified too, since it depended on that third race, so it is
+  removed rather than guessed. **Open question: what is the correct
+  list?** Until Luke confirms, credibility beats should use only
+  Connemara 60k and Seven Sisters 55k, and should not state a total
+  count.
 - Based in Sligo, northwest Ireland
 
 Job title deliberately left out here — see Hard rules below.
