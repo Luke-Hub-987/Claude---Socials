@@ -1684,6 +1684,74 @@ painkiller.
 *Source: Luke, rewriting a batch's wording himself and naming the
 missing quality directly.*
 
+## P52 — Heat comes from stakes and structure, never from adverbs
+
+P51 was half right and got applied wrongly. Luke gave one example
+("sound absolutely insane until mile 30") and this system bolted
+intensifiers onto the whole list. His response: *"if I give an example
+of 'insanely good', I don't expect you to apply insane to every single
+line."* That is P33's templating failure for the fifth time, and it
+matters more here because the adverb was never the mechanism.
+
+His test, on a line that had just been through the heat pass: *"'3 lies
+your watch tells you that wreck your race.' That is a shit title. Would
+you go and sit and watch a movie about that? What are the stakes
+there?"*
+
+**The thing that was actually missing is stakes. What is at risk.**
+
+### Why his reference examples are hot, structurally
+
+Read past the vocabulary and each one has a mechanism underneath:
+
+- **"10/10 uncomfortable habits to make you dangerously charismatic."**
+  A stated **cost** ("uncomfortable") paired with a slightly
+  **forbidden reward** ("dangerously"). Tension between price and prize.
+- **"5 things elite runners say that sound insane until mile 30."** A
+  **time bomb**: a claim that sounds wrong, plus the exact moment it
+  detonates and proves right.
+- **"Cycling from UK to Australia."** **Scale plus implied suffering
+  plus a real chance of failure.**
+- **"10/10 famous quotes to completely alter your sense of reality."**
+  **Irreversibility.** Tiny input, permanent change.
+
+None of those are hot because of an adverb. Strip every intensifier and
+the structures still work.
+
+### The heat mechanisms, to be rotated, never stacked
+
+1. **Time bomb.** A cause now, a detonation at a named moment later.
+2. **Betrayal.** Something they trust is working against them.
+3. **Irreversibility.** It cannot be undone once it happens.
+4. **Jeopardy.** Something can visibly fail, on camera.
+5. **Self-incrimination.** They realise they are guilty of it.
+6. **Cost plus forbidden reward.** A stated price, a slightly illicit
+   prize.
+7. **The unperceived danger.** It is happening to them and they cannot
+   feel it.
+8. **Point of no return.** The specific place where people quit.
+
+### What is actually at stake for this audience
+
+Drawn from the real research, this is the well to draw from instead of
+a thesaurus: months of training wasted by one decision; six weeks lost
+to an injury; being publicly humiliated by walking, being passed, or a
+DNF; missing a goal by seconds; years of work with no improvement; a
+race already paid for, travelled to, and announced to everyone; and
+their own identity as a runner.
+
+### The method, in order
+
+1. Name the real stake. What do they lose.
+2. Pick **one** heat mechanism from the eight, and rotate it across the
+   batch.
+3. Make a specific moment or number the detonation point.
+4. Only then ask whether a single intensifier earns its place. Usually
+   it will not, because the structure is already carrying the load.
+
+*Source: Luke, catching the adverb-templating and naming stakes as the
+real gap.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

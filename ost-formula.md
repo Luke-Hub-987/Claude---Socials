@@ -40,13 +40,15 @@ Every OST passes all ten. No exceptions, no formats exempt.
    schedules are killing your garden" is a B+.
 6. **Specific means a real number, a real named thing, or a real
    moment.** Not a category label.
-6b. **Then run a heat pass** (P51). Accurate and flat is the most
-   common failure this system has. Add an intensifier bolted to
-   something concrete (absolutely, completely, insanely, brutally,
-   quietly, suddenly, and "actually", which is Luke's own), state the
-   stakes, and apply the movie-title test. An intensifier on a vague
-   noun is hype and stays banned; on a concrete noun, number or moment
-   it is required.
+6b. **Then run a heat pass** (P51, corrected by P52). Accurate and
+   flat is the most common failure this system has, **and the fix is
+   structural, not vocabulary.** Name the real stake, then pick ONE
+   heat mechanism and rotate it across the batch: time bomb, betrayal,
+   irreversibility, jeopardy, self-incrimination, cost plus forbidden
+   reward, unperceived danger, point of no return. An intensifier is
+   the last thing you consider, not the first, and usually the
+   structure has already done the work. Never bolt the same adverb onto
+   a whole list.
 6c. **Line 1 is a painkiller too, not just line 2.** A headline that
    promises information is a vitamin ("what actually happens at 13").
    One that promises relief or escape is a painkiller ("the 13-mile
