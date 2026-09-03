@@ -1752,6 +1752,77 @@ their own identity as a runner.
 *Source: Luke, catching the adverb-templating and naming stakes as the
 real gap.*
 
+## P53 — Stop hedging, make it visceral, and own the intersection
+
+Three connected notes from Luke, and the first is about this system's
+behaviour rather than the craft.
+
+### 1. The hedging problem
+
+His words: *"It seems like you're afraid to be very much one way, so
+you're vague on some of the pains. If we're not specific enough, we
+won't talk to anybody. If we're specific enough, we will talk to a
+certain portion of people. That is fine."*
+
+This system has been de-risking its language, softening every pain into
+something defensible, and the result is lines that offend nobody and
+grip nobody. **Vagueness is not safety, it is failure.** Naming a pain
+sharply enough to exclude some viewers is the correct trade, because
+the batch as a whole covers top, middle and bottom of funnel anyway.
+
+Permission is explicit and standing: pick a side, name the pain in the
+ugliest specific terms it actually occurs in, and let it alienate the
+people it alienates.
+
+### 2. The visceral test
+
+His comparison of two lines on the same topic:
+
+- *"How not to worry when other people run past you"* — his verdict,
+  meh, no stakes, no interest.
+- *"A stranger overtakes you and decides your whole race"* — his
+  verdict, spot on, and his reason is worth keeping verbatim: **"the
+  spread has passed me and then I'm like, oh, all of a sudden I've
+  fucking got to get this fucker."**
+
+The difference is not intensity. The first is an abstraction about a
+feeling. The second is **a scene**. His test: *"I'm playing it out as a
+movie in my head. Make it visceral. We can touch it."*
+
+**The rule: name the moment, not the topic. Put a body in it, doing
+something, with a consequence.**
+
+- Topic: worrying about being judged. Moment: the 14-minute mile
+  someone called walking.
+- Topic: pacing errors. Moment: the maths you start doing at 30k when
+  the numbers stop adding up.
+
+### 3. The intersection, which is how a niche actually gets carved
+
+His own example of a hook he would stop dead for: **"why CEOs run
+marathons."** His reason: *"I like business, I work in business, and I
+run marathons and ultras. I'm obviously going to sit and watch that."*
+
+The device is two identities collided, and the viewer who sits in both
+cannot scroll past. This is P2's association tactic, and it is exactly
+what Briar does to carve out his own lane rather than competing in the
+sea of sameness. **Luke's framing: we are carving a niche for ourselves
+through the on-screen text. It comes down to packaging.**
+
+**Intersections available to Luke, and one that is not:**
+
+- **Not available:** anything career or workplace. Retired twice, see
+  `pillars.md`. "The accountant who runs ultras" is off the table for
+  the personal brand no matter how well it would work.
+- **Available, personal:** elite methods against mid-pack reality (his
+  real position), ultra distance against being genuinely mid-pack,
+  mountains and Irish terrain against ordinary road running.
+- **Available, ERN:** the origin story is already an intersection and
+  already confirmed, "2 accountants made a carb bar."
+
+*Source: Luke, on hedged language, the visceral test, and carving a
+niche through packaging.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
