@@ -1823,6 +1823,56 @@ through the on-screen text. It comes down to packaging.**
 *Source: Luke, on hedged language, the visceral test, and carving a
 niche through packaging.*
 
+## P54 — The real test: what does it cost the viewer to scroll past?
+
+Luke's sharpest formulation yet, and it corrects P52 rather than
+replacing it. His words: *"essentially it's like, what's the
+consequence of me not watching this video?"* His own read of the
+reference line: *"10/10 uncomfortable habits to make you dangerously
+charismatic. In my head: I want to be more charismatic. If I don't
+watch this, I won't figure it out."*
+
+**P52 put the stakes inside the scene. That was half the job. The
+stakes have to attach to the act of scrolling.**
+
+### Why the last batch failed on exactly this
+
+"The maths you start doing at 30k when the numbers stop adding up" is a
+vivid scene, and Luke's verdict was meh. The reason: it **describes an
+experience the viewer already owns.** There is nothing to acquire, so
+scrolling past costs nothing. Self-recognition alone works for a joke
+("are they trail running... or just walking really fast," 2,578) but
+not for a value video.
+
+### The three ingredients that create a cost to scrolling
+
+1. **An identity or outcome they already want.** Charismatic. Uninjured.
+   Faster. Not blowing up. It has to be pre-existing desire, not
+   something the hook has to sell them on first.
+2. **A finite, enumerable set.** 10 habits, 3 resources, 4 things. The
+   viewer can picture completing the acquisition.
+3. **A signal they could not guess the contents themselves.**
+   "Uncomfortable" does this in the reference line, because
+   uncomfortable means counterintuitive, which means not derivable. If
+   the viewer could guess your list, scrolling is free.
+
+Ingredient 3 is the one this system has never deliberately built in.
+
+### The check, added to the gates
+
+> **Could the viewer write this list themselves? If yes, they will
+> scroll. What exactly do they lose by not watching?**
+
+### And a fresh factual failure to record
+
+"Why does the fittest person in your club always blow up?" Luke: *"Is
+that a fact? I don't think they do."* A false premise phrased as a
+question is still a false premise (P39). Asking it rhetorically does
+not launder it.
+
+*Source: Luke, naming consequence-of-not-watching as the missing
+mechanism and catching a false premise in the same pass.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

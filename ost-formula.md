@@ -204,6 +204,13 @@ An OST ships only if all seven pass.
    and the vocabulary matches.
 7. **Sayable.** Someone could repeat it to a friend after hearing it
    once.
+8. **Cost of scrolling** (P54, the one that matters most). Could the
+   viewer write this list themselves? If yes, they scroll and it is
+   free. Needs three things: an outcome they **already** want, a
+   **finite enumerable set**, and a signal they **could not guess the
+   contents** ("uncomfortable", "nobody tells you", "counterintuitive").
+   Describing their own experience back to them fails this gate, however
+   vivid the scene.
 
 **And the gate above the gates:** if you cannot write the OST and
 sketch the frame, you do not have an idea. Kill it there, not after
