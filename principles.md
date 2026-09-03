@@ -1448,6 +1448,115 @@ The technique rotates; the construction stays.
 Paddy's CCN document, which this system had summarised but not
 actually applied.*
 
+## P46 — Painkillers, not vitamins: the whisper line is where you remove pain
+
+From an offer-building framework Luke shared, and it translates
+directly onto on-screen text.
+
+**The core claim:** the size of the result is roughly 20% of why people
+say yes. What they actually pay for is **pain relief**. The stated
+proof: the pharmaceutical industry is far larger than the fitness and
+nutrition industry, because it sells painkillers rather than vitamins.
+People will accept a smaller result if you remove the pain of getting
+it.
+
+**The three pains, and what removes each:**
+
+| Pain | What it feels like | What removes it |
+|---|---|---|
+| **Action** | the work, effort, time, money, sacrifice | done-for-you elements, templates, cheat sheets, pre-made resources |
+| **Thinking** | cognitive load, "I don't even know where to start" | step-by-step processes, a decision rule, a tool that walks you through |
+| **Fear** | the negative emotion of trying and failing publicly | support, reassurance, someone who has been through it, permission |
+
+### The translation to OSTs, which is the useful part
+
+**Rule 4's whisper line is a painkiller, not a vitamin.** Every strong
+parenthetical in this repo's own data is removing one of the three
+pains, and the weak ones are stating a result:
+
+- "(It only takes 3 Hours a Week)" — **action relief**
+- "(one check, mid-run)" and "(3 signs, no watch needed)" — **thinking
+  relief**
+- "(Without killing your career)" 2,260 — **fear relief**
+- "(the real answer, not 'just keep going')" — **fear/frustration
+  relief**
+- "(twice a week, nothing else changes)" — **action relief**
+
+Practical rule: **when writing the whisper, name which of the three
+pains it removes. If it removes none, it is a vitamin, and it should
+probably be rewritten.** A pure result belongs there only when the
+result is what the viewer is genuinely desperate for (P29).
+
+### And the translation to ERN's positioning
+
+ERN's value is not "more carbs" (a vitamin). It is "you do not have to
+choke down a gel you don't like in the 30 minutes before a race" (a
+painkiller). That is exactly the counter-position already sitting in
+`audience.md` (P44), and this framework explains why it is the stronger
+of the two framings, rather than just a nicer one.
+
+*Source: an offer-building framework Luke shared, creator not named in
+what was supplied.*
+
+## P47 — Five real scroll-stoppers Luke flagged, and the mechanism in each
+
+Luke supplied five on-screen texts that stopped his own scroll. Broken
+down for the mechanism, not to be copied verbatim.
+
+**1. "Top 3 resources to get better at running."** Curation as a
+painkiller. Somebody already did the searching (thinking relief).
+"Resources" are possessable objects, not a topic. "Top 3" caps the time
+cost and implies filtering from a larger set. Deliberately unhyped
+language, which reads as honest curation rather than a pitch. Saveable
+and shareable, which drives sends.
+
+**2. "Cycling from UK to Australia."** Pure spectacle and scale, and
+the whole hook is two place names with the absurdity left for the
+reader to compute (the same derived-conclusion mechanism as the New
+Balance span). It has a defined start and end, so a narrative with a
+possible failure is implied. Zero adjectives, zero jargon, maximum New.
+It is also a **series engine**: one line can carry a hundred videos.
+
+**3. "POV: laundry with Slavic wife."** A mundane task collided with a
+hyper-specific identity. "Slavic" does exactly what "Ohio" does for New
+Balance, a compressed identity that "European" or "foreign" would
+destroy. It works on two audiences at once: in-group recognition for
+anyone who lives it, out-group curiosity for everyone else. POV puts
+the viewer inside the scene rather than describing it.
+
+**4. "10/10 uncomfortable habits to make you more dangerously
+charismatic."** Three devices stacked. "10/10" reads as a scored,
+quality-controlled, collectible series rather than a listicle.
+**"Uncomfortable" is the key word and it runs against the painkiller
+rule on purpose**: it prices the content as costly, which signals real
+substance to an audience that is jaded about easy hacks.
+"Dangerously" adds transgression to an otherwise soft outcome, and the
+promise is an identity rather than a metric.
+
+**5. "10/10 famous quotes to completely alter your sense of reality."**
+The most extreme effort-to-outcome gap available: ten sentences to
+consume, your entire sense of reality to gain. "Famous quotes" is
+borrowed authority plus thinking relief, and the outcome is internal
+and unfalsifiable, so it cannot be argued with (the same move as "makes
+me feel 25 at 35").
+
+### What the set proves collectively
+
+- **Three of five are numbered, collectible lists.** All are saveable.
+- **Two use "10/10" as a series marker**, which is world-building (P11)
+  done inside the headline.
+- **Effort framing works at both extremes.** Zero effort ("resources,"
+  "quotes") sells as a painkiller. High effort ("uncomfortable") sells
+  as credibility. The dead middle is what fails.
+- **Zero jargon anywhere in the set.** Every word is understandable
+  with no context, even for the two that are aimed at niches.
+- **None of the five has a parenthetical whisper.** They are all single
+  lines. This corrects rule 1 in `ost-formula.md`: **the whisper is
+  optional, not mandatory.** When line 1 already carries both the
+  keyword and the payoff, a second line weakens it.
+
+*Source: Luke, sending five OSTs that stopped his own scroll.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

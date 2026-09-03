@@ -15,16 +15,23 @@ purpose: The operational structure for writing on-screen text. Short on
 Every OST passes all ten. No exceptions, no formats exempt.
 
 **Structure**
-1. **Two lines maximum.** Line 1 is the hook, roughly 6 to 10 words.
-   Line 2 is the whisper, in parentheses, 3 to 7 words.
+1. **One or two lines, never three.** Line 1 is the hook, roughly 6 to
+   10 words. Line 2 is the whisper, in parentheses, 3 to 7 words.
+   **The whisper is optional.** If line 1 already carries both the
+   keyword and the payoff, adding a second line weakens it. All five of
+   the scroll-stoppers Luke flagged (P47) are single lines.
 2. **No function words.** Cut and, so, the, is, a. Every word left is a
    noun, verb, number or name.
 
 **Content**
 3. **Line 1 carries the keyword** — one real thing the viewer can name,
    taken from vocabulary they already use. Never invented.
-4. **Line 2 carries the viewer's payoff, or kills their biggest
-   objection.** Never a mechanism, never the method's name, never a
+4. **Line 2 is a painkiller, not a vitamin** (P46). Name which of the
+   three pains it removes: **action** (effort, time, money),
+   **thinking** (cognitive load, where do I start), or **fear** (trying
+   and failing). If it removes none of them, it is a vitamin and
+   probably needs rewriting. It carries the viewer's payoff, or kills
+   their biggest objection.** Never a mechanism, never the method's name, never a
    feeling, never the creator. (Exception: for vicarious and jeopardy
    shapes the experience *is* the payoff, so line 2 may carry the
    series name or the stake instead.)
