@@ -1873,6 +1873,37 @@ not launder it.
 *Source: Luke, naming consequence-of-not-watching as the missing
 mechanism and catching a false premise in the same pass.*
 
+## P55 — Scripts are condensed by default
+
+Luke on the injury script: *"These scripts need to be more condensed."*
+
+The scripts this system writes have been running roughly 400 to 450
+words, which is two and a half minutes spoken. Too long for the format,
+and the length dilutes the ahas rather than supporting them.
+
+**Target: 150 to 200 words for a short-form script, which is roughly 60
+to 80 seconds spoken.** A five-item list gets one tight sentence per
+item, not a paragraph.
+
+**How to condense, and how not to.** This sits directly alongside P50,
+which bans staccato fragments, so the two could pull against each other
+if applied carelessly. They do not:
+
+- **Condense by cutting sentences**, not by cutting sentences into
+  stubs. Twelve full sentences beats thirty fragments.
+- **Fuse the mechanism and the cost into one sentence per item.** The
+  contrast actually lands harder compressed than spread over three
+  sentences.
+- **Cut connective throat-clearing.** "Here is the thing", "so the
+  habit is", "start with the one people get wrong". The structure
+  survives without them.
+- **Keep every beat.** Verbal hook, aha #1, super hook, aha #2, body,
+  payoff, CTA all stay. They just get shorter.
+
+The beats are the frame. The word count is the discipline.
+
+*Source: Luke, on script length.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
