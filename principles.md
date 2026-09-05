@@ -2059,6 +2059,51 @@ nobody.
 
 *Source: Luke, rejecting the ERN v2 batch for specificity.*
 
+## P59 — If the OST poses a test, he has to go and perform it
+
+Luke on the v3 batch: *"these are stunts - if I ask the question kind
+of have to test it no? All of these require I go do something crazy."*
+
+"Can you eat 700g of carbs the day before a marathon?" "We took 120g
+and ran hard for 90 minutes." "We took N gels in 90 minutes to find
+where the stomach gives up." Every one of those is a dare, and the
+video is the dare being performed. **A question in the OST is a
+commitment to answer it on camera.**
+
+That is unsustainable at one video a week, and it quietly turns the
+account into a stunt channel, which is not what either brand is.
+
+### The correction
+
+Before a line ships, answer: **what does he physically do to film
+this?** If the answer is anything other than talk to camera, work in
+the kitchen, or use a run he was already doing, it is a stunt and it
+needs the shape changing rather than the wording.
+
+### Where the shapes should come from
+
+The highest multipliers in our own research are mostly **talking
+heads, rankings and analysis**, not performances:
+
+- Series numbering (Ross Mackay Ep 55-64: 9 of the top 25 slots)
+- Diagnosis reversal ("You're Not Unfit. You're Underfuelled", 3.4x)
+- Status peek ("What a $1B CEO Actually Does in a Day", 16.6x)
+- Constraint framing ("If I Only Had 5 Minutes...", 2.7x)
+- Consensus attack ("Why Most Marathon Runners Train Completely
+  Wrong", 2.5x)
+- Gate plus number ("...FOR REGULAR RUNNERS", 2.6x)
+- Tier list (`@christian.j.lynch`, four separate posts)
+- The study hook (Briar's "Study on 1000 Videos With 100K+ Views")
+- His own "10/10 uncomfortable habits" at 2,156
+
+**Standing instruction: build from that list first.** The library
+exists precisely so that lines are adapted from things that already
+worked, not invented fresh each time. Jeopardy stays available, but
+only when the thing being risked is something he was doing anyway.
+
+*Source: Luke, rejecting the v3 batch as stunts and telling this
+system to use the shapes it has already been given.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
