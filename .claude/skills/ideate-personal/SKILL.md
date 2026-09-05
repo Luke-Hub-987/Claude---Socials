@@ -32,13 +32,14 @@ paste in the PBA course content those files are waiting on).
    test), the shapes that work per account, and the seven gates
 5b. `ost-anatomy.md` — the evidence behind the formula. Read before
    writing any on-screen text.
-5c. `ost-10-10-formats.md` — the 10/10 format taken apart, its ten
-   variants and the power-word bank. Read before writing any list-shaped
-   OST, and rotate the pricing variant rather than repeating one word.
    The teardown of why real OSTs work (identity span, two-number
    delta, objection grave, the tail-ownership rule from Luke's own
    ranked account data, and the real shape distribution). Rules in
    HF6/P21/P32/P37 describe the surface; this is the machine underneath
+5c. `ost-10-10-formats.md` — the 10/10 format taken apart, its ten
+   variants and the power-word bank. Read before writing any
+   list-shaped OST, and rotate the pricing variant rather than
+   repeating one word
 6. `voice-rules.md` — universal voice rules (em-dashes etc., shared)
 7. `brands/personal/competitors.md` — if MISSING or empty, tell the
    user to run `/onboard-personal` first (it collects this)
