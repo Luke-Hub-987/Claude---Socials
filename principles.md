@@ -2026,6 +2026,39 @@ audience, then run it as the reward.
 
 *Source: Luke, rejecting the first full ERN batch.*
 
+## P58 — Specific means a named object or a real number, never a category label
+
+Luke on the v2 ERN batch: *"none of these specific enough - the ones
+for personal brand are specific and CCN."*
+
+Rule 6 in `ost-formula.md` already said this and it still failed, so
+here is the mechanical version. Set the two batches side by side:
+
+| Approved (personal) | Names | Rejected (ERN v2) | Names |
+|---|---|---|---|
+| You can lose **2.9kg** in a single marathon | a weight | "90g an hour, or the amount that stays down" | "the amount" |
+| The 4 things worth buying before you spend **£200** on carbon shoes | money | "The 3 fuelling mistakes in every blow-up" | "mistakes" |
+| Can **20-second strides** get you **sub-20**? | a session, a time | "Your stomach is trainable" | a concept |
+| 5 things elites say that sound insane until **mile 30** | a moment | "The race breakfast that betrays you" | "breakfast" |
+
+**The banned list.** If the line leans on *mistakes, things, factors,
+habits, tips, the amount, the right way, what actually happens*, it has
+named nothing and it is not finished. Swap in the food, the brand name,
+the gram count, the price, the kilometre marker, the hour of the
+morning.
+
+**The replacement test, run before the gates:** point at the noun the
+video is about. Can you photograph it? 700g of carbs on a table, a
+Maurten 100, a banana at an aid station, £45 of gels, mile 20. If it
+cannot be photographed, it is a category, and the line is still vague.
+
+This is the same failure as P52 (heat) in a different coat: the system
+keeps reaching for the abstraction one level above the real thing,
+because the abstraction is safer and covers more cases. It also covers
+nobody.
+
+*Source: Luke, rejecting the ERN v2 batch for specificity.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

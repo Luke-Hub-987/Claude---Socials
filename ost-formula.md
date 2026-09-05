@@ -39,7 +39,12 @@ Every OST passes all ten. No exceptions, no formats exempt.
    watering schedules are doing to your garden" ships. "Fixed watering
    schedules are killing your garden" is a B+.
 6. **Specific means a real number, a real named thing, or a real
-   moment.** Not a category label.
+   moment.** Not a category label. **The photograph test (P58): point
+   at the noun the video is about and try to photograph it.** 700g of
+   carbs on a table, a Maurten 100, £45 of gels, mile 20 — all
+   photographable. "Mistakes", "things", "habits", "the amount", "the
+   right way", "what actually happens" — none are, and a line built on
+   one of them is not finished.
 6b. **Then run a heat pass** (P51, corrected by P52). Accurate and
    flat is the most common failure this system has, **and the fix is
    structural, not vocabulary.** Name the real stake, then pick ONE
