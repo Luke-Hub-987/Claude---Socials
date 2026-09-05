@@ -62,6 +62,11 @@ Every OST passes all ten. No exceptions, no formats exempt.
    foothold means no curiosity.
 8. **It leaves a picture**, and someone could repeat it after hearing
    it once.
+8b. **The one-second read (P62).** About ten words in line 1, one
+   number at most and only if it means something on sight, no
+   arithmetic, one idea, ordinary words. An inference is free; a
+   calculation is work. A line nobody finishes reading has no stakes
+   however specific it is.
 
 **Selection**
 9. **TAM is chosen on purpose**, and vocabulary depth matches it.

@@ -2189,6 +2189,43 @@ mechanisms, in `ost-list-format-library.md`.
 *Source: Luke, asking why the 10/10 shape works and for other packages
 that achieve the same thing.*
 
+## P62 — The one-second read: no arithmetic, one number, one idea
+
+Luke on "£4 a gel, 3 a long run, 16 long runs. £192 to not enjoy any
+of it": *"an offline math there for people... not really that good.
+Easy to understand, there's not that much friction in terms of them
+digesting that screen text."*
+
+He is right and it contradicts something this system had been getting
+wrong about Ogilvy. The Rolls-Royce line asks for an **inference**
+(silent), which is instant. The receipt line asks for **arithmetic**,
+which is work. Both are "derived conclusions"; only one is free.
+
+P61's mechanism 3 is processing fluency, and that line broke it while
+trying to satisfy loss aversion. **Fluency wins. A line nobody finishes
+reading has no stakes at all.**
+
+### The friction rules
+
+1. **It must read in about one second.** Roughly ten words in line 1.
+2. **One number maximum**, and it has to be meaningful on sight. "2.9kg
+   in a marathon" lands. "£4 x 3 x 16" does not.
+3. **No arithmetic, no ratios, no chains of figures.** If the viewer
+   has to compute, they scroll.
+4. **One idea.** No subordinate clauses, no second thought bolted on.
+5. **Ordinary words.** The gap comes from the situation, not the
+   vocabulary.
+6. **The picture should form before the sentence ends.**
+
+### The test
+
+Read it once at scrolling speed. If you could describe the video
+straight after, it ships. If you had to go back, it does not, however
+specific and high-stakes it was.
+
+*Source: Luke, rejecting a line that was accurate, specific,
+loss-framed and unreadable at speed.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
