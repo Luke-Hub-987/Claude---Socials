@@ -1904,6 +1904,85 @@ The beats are the frame. The word count is the discipline.
 
 *Source: Luke, on script length.*
 
+## P56 — First real performance data on a system-built video, and it worked
+
+"10/10 uncomfortable habits of runners who never get injured", posted
+4 September, is the first video built end to end with the OST rules and
+the script frameworks. Real Instagram Insights:
+
+| Metric | This video | The grief video (the only prior data point) |
+|---|---|---|
+| Views | **2,156** (1,911 IG, 245 FB) | 266 |
+| Skip rate | **39.5%** | 50% |
+| Typical skip rate at the time | 46.2% | 36.7% |
+| Average watch time | **27 sec** (of 1:43) | 7 sec |
+| Total watch time | 12h 5m 10s | not recorded |
+| Likes / saves / comments | 34 / **25** / 0 | not recorded |
+| Reels tab share of views | 82.3% (plus 13.5% Explore) | 93% non-follower |
+
+**Roughly 8x the views, and average watch time went from 7 seconds to
+27.** More importantly, skip rate went from **worse** than his baseline
+to **better** than it, by 6.7 points.
+
+### What can honestly be attributed, and what cannot
+
+P36 applies: one data point supports several live hypotheses, not one
+confident diagnosis. Several things changed at once, so:
+
+- **Most attributable: the hook.** Skip rate is the metric closest to
+  the OST and first frame, and it beat his own typical rate rather than
+  just beating the grief video. That is the strongest evidence any rule
+  in this repo has produced so far.
+- **Note the moving baseline.** His typical skip rate rose from 36.7%
+  to 46.2% between the two videos, so the account's normal got worse
+  while this video went the other way. That makes the result better,
+  not worse, but it also means baseline comparisons across time need
+  care.
+- **Cannot be isolated yet:** OST versus topic versus format versus
+  length. The collage-plus-talking-head format was also new, and Luke
+  rewrote the script himself (see below). Any of those could carry
+  part of it.
+
+### The saves number is the real signal
+
+**25 saves against 34 likes, and zero comments.** A save rate near 1.2%
+of views, with saves almost matching likes, is a reference-material
+signature: people filing a list to come back to. That is exactly what
+P54 predicted for a finite, enumerable, unguessable set, and it is the
+first direct evidence for that principle.
+
+### The CTA failed, and that is the clearest fix available
+
+Zero comments on 2,156 views, despite a direct question CTA ("which one
+would you find hardest?"). People saved instead of answering. Either
+the question was too low-stakes to answer publicly, or a list format
+naturally converts to saves rather than comments. Worth testing a
+different CTA shape on the next list video rather than repeating this
+one.
+
+### Luke's own edits went further than the script did
+
+He cut five habits to three, and made every mechanism **more**
+anatomically specific: "a single-spot jab on an Achilles tendon, inner
+shin bone, or beneath a kneecap", "greater than 80% of your 1-rep max",
+"shifting the landing impact into your glutes and calves". He also
+added "elite" to the hook ("3 elite habits") and sharpened "feels like
+weakness" into "feels like a show of weakness".
+
+**Every one of his edits moved in the direction he has been pushing
+this system: fewer items, more specific, more visceral.** Three items
+with real depth beat five with less. Worth treating as the default for
+list videos rather than filling the number in the hook.
+
+### Where it sits on his account
+
+Around fifth or sixth all time, behind the Benbulben outlier at 148,000
+and the 2,578 / 2,505 / 2,266 / 2,260 cluster. It is the first one
+built with the system rather than by instinct.
+
+*Source: Luke, sharing real Instagram Insights on the first
+system-built video, along with the script he actually filmed.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

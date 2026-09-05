@@ -56,6 +56,7 @@ Career/workplace is retired as a pillar, see `pillars.md`.
 - "Q: How to know if you're actually building a base (That nobody asks this when you're training)" — 770
 - "Running in the hottest place on earth" (+ "Can I do 5K?") — 687
 - "Feeling slow asf at Parkrun" — 606
+- "10/10 uncomfortable habits of runners who never get injured" — 2,156 (4 Sep 2026, first video built with the OST rules, 39.5% skip rate against a 46.2% typical, 27 sec average watch on 1:43, 25 saves. See P56.)
 
 ## Vocabulary / phrases you actually use (drafted from the samples above)
 
