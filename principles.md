@@ -2226,6 +2226,39 @@ specific and high-stakes it was.
 *Source: Luke, rejecting a line that was accurate, specific,
 loss-framed and unreadable at speed.*
 
+## P63 — The verbal hook carries the dream outcome and the cost, and never the answer
+
+Luke on the ladder script's first verbal hook: *"not much curiosity, no
+stakes as to if they don't watch this video, no dream outcome."*
+
+The line was *"you are almost certainly on level two, and the reason it
+feels like a stomach problem is that you are eating far too little, far
+too late."* Gate present, pain present, and **the diagnosis handed over
+in the first sentence.** The loop was closed before the video started.
+
+HF13's three ingredients (gate, open loop, pain or benefit) are the
+floor, not the ceiling. Two more belong in the verbal hook:
+
+**4. The dream outcome, in their words.** Not the topic, the life they
+want: finishing the last five kilometres at the pace they started, long
+runs that do not cost them the next two days.
+
+**5. The cost of not watching.** They stay where they are, indefinitely,
+still blaming the wrong thing.
+
+**And the hard one: the verbal hook must not contain the answer.** Name
+the mechanism's existence, never its content. "The jump out of level
+two is one change" holds the loop open. "You are eating too little too
+late" closes it.
+
+A useful shape, since it also matches his own approved payoff line:
+*"they are not tougher than you, they are three levels up."* The
+identity is reachable, which is what makes the rest of the video worth
+staying for.
+
+*Source: Luke, rejecting a verbal hook that satisfied HF13 and still
+had no curiosity, no stakes and no dream outcome.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

@@ -50,11 +50,18 @@ as a rung on a ladder rather than a pitch. Say it once, do not sell it.
 **[ON SCREEN, held ~10s]**
 "The 5 levels of fuelling a long run (most runners never leave level 2)"
 
-**[VERBAL HOOK — gate, open loop, pain]**
-"If you have ever hit twenty five kilometres with dead legs and decided
-that gels just do not work for your stomach, you are almost certainly
-sitting on level two of five, and the reason it feels like a stomach
-problem is that you are eating far too little, far too late."
+**[VERBAL HOOK — gate, open loop, dream outcome, cost (v2)]**
+"If your long runs leave you wrecked for two days afterwards, and you
+have quietly decided that gels do not agree with you, there is a five
+level scale for this and you are almost certainly on level two. The
+people finishing the last five kilometres at the pace they started are
+not tougher than you, they are three levels up, and the jump out of
+level two is one change."
+
+*Rejected v1, kept as a record: "you are eating far too little, far too
+late." It gave the diagnosis away in the first sentence, so the loop
+was closed before the video began, and it named no dream outcome and no
+cost of scrolling.*
 
 **[AHA #1]**
 "Level one is running fasted to force your body to burn fat, and fat
