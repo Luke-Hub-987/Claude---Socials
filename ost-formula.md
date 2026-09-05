@@ -185,6 +185,23 @@ enjoy it?** Not pick one. All three, in one line.
 | **Casual** | Middle | A benchmark they recognise, or a frustration they have felt | sub-20 5k, the wall, a DNF, hating gels |
 | **New** | Top | Anything graspable with zero context: effort-to-outcome gap, jeopardy, spectacle, a universal human tell, a famous anchor, a shocking number | "20 seconds twice a week", a mountain, "lose 2.9kg", a car passing you |
 
+### The zero-context test (do this first)
+
+Read line 1 to someone who has never run a step. **Do they know what
+they would be watching?** If any word needs the account's context to
+land, the line is core-only however visceral it is.
+
+Failures caught this way, all written by this system: "Nobody eats
+anything on a 16k" (16k of what?), "Try chewing anything at 4:45 pace"
+(4:45 what?), "The 90-minute rule everyone breaks on a Sunday" (ninety
+minutes of doing what?). Each was instantly readable and still meant
+nothing to New.
+
+**The fix is almost always plain words, not fewer words:** "on a long
+run" instead of "on a 16k", "at running pace" instead of "at 4:45
+pace". Core still reads their own meaning into it. New can finally get
+in.
+
 **Weight the batch toward New.** Luke is more excited to make
 top-of-funnel videos, and they are what grows the account. Layer every
 one of them anyway.
