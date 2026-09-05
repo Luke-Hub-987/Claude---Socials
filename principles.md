@@ -2104,6 +2104,50 @@ only when the thing being risked is something he was doing anyway.
 *Source: Luke, rejecting the v3 batch as stunts and telling this
 system to use the shapes it has already been given.*
 
+## P60 — The it's-not-X-it's-Y carve-out is withdrawn, and painful specificity has rungs
+
+Two corrections from one message.
+
+### 1. The negative-parallelism carve-out caused exactly what it was warned about
+
+`ost-anatomy.md` used to argue that "You're Not Unfit. You're
+Underfuelled" (3.4x) justified a narrow exception to P35, on the
+grounds that it swaps a self-diagnosis for a specific alternative.
+Within a fortnight that exception produced **"You didn't hit the wall
+at 30k. You got it wrong at 8am."** Luke: *"that completely goes
+against our rule of the no AI slop of it's not this it's that."*
+
+**The rule is now absolute in both brands, whatever the multiplier
+says.** The shape is the most recognisable signature of AI-written copy
+there is, so what reads as a sharp reversal in someone else's feed
+reads as slop in ours. The mechanism underneath — a corrected diagnosis
+— survives; deliver it as a single positive statement. "The pasta
+dinner the night before is 48 hours too late" carries the same reversal
+with none of the tell.
+
+**And the meta-lesson: a documented exception to a house rule will be
+used.** Do not write carve-outs into the reference files. Record the
+outlier, record why it is not transferable, and leave the rule intact.
+
+### 2. Specificity has rungs, and this system keeps stopping one short
+
+| Rung | Example | Verdict |
+|---|---|---|
+| Category | fuelling habits | dead |
+| Named thing | gels | still vague |
+| Named thing + number | 3 gels | closer |
+| **Named thing + number + place + moment** | **the third gel still in your shorts at 30k** | **ships** |
+
+P58 got it to rung two and stopped. Painful specificity is rung four:
+the clock time, the food, the price, the pocket, the kilometre marker.
+
+**The clichés are the tell.** "Hit the wall", "race day", "fuelling
+mistakes", "the right way" are all rung one wearing a costume, and they
+are the words that make a line feel written rather than lived.
+
+*Source: Luke, killing a negative-parallelism line and rejecting a
+whole top-of-funnel batch as not painfully specific.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
