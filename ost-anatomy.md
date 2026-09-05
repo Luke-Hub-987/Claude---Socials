@@ -359,14 +359,24 @@ theory.
 ### The P35 tension, stated honestly
 
 "You're Not Unfit. You're Underfuelled" (3.4x) is tailing negation, the
-shape P35 bans. It works here, and pretending otherwise would be
-dishonest. The distinction that holds: the banned version negates
-toward a vague abstraction ("it's not what you think"). This version
-**negates the viewer's self-diagnosis and replaces it with a specific,
-iceberg-vocabulary alternative that changes what they do tomorrow.**
-That is a diagnosis reversal, not a rhetorical tic. Still handle with
-care, still never use it as the default, and never use it without a
-specific second half.
+shape P35 bans. It is a real outlier and pretending otherwise would be
+dishonest.
+
+**The carve-out that used to sit here has been withdrawn.** It said the
+shape was allowed when it "replaces a self-diagnosis with a specific
+alternative", and within a fortnight it produced "You didn't hit the
+wall at 30k. You got it wrong at 8am." Luke's verdict: *"that
+completely goes against our rule of no AI slop of it's not this it's
+that."* He was right, and the carve-out was the cause.
+
+**The rule is now absolute: never write it's-not-X-it's-Y, in either
+brand, whatever the multiplier says.** The reason the outlier is not
+transferable is that the shape is now the single most recognisable
+signature of AI-written copy, so what read as a sharp reversal in
+someone else's feed reads as slop in ours. Keep the underlying
+mechanism, which is a corrected diagnosis, and deliver it as one
+positive statement: "the pasta dinner the night before is 48 hours too
+late" carries the same reversal with none of the tell.
 
 ### Structural findings across all 82
 
