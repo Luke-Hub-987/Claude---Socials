@@ -45,12 +45,16 @@ as a rung on a ladder rather than a pitch. Say it once, do not sell it.
 
 ---
 
-## Script (~240 words)
+## Script (~250 words)
+
+Every level carries its own consequence, the way his edit of the injury
+script did. The stakes are not stated once at the top and then dropped,
+they run through every beat.
 
 **[ON SCREEN, held ~10s]**
 "The 5 levels of fuelling a long run (most runners never leave level 2)"
 
-**[VERBAL HOOK — gate, open loop, dream outcome, cost (v2)]**
+**[VERBAL HOOK — gate, open loop, dream outcome, cost]**
 "If your long runs leave you wrecked for two days afterwards, and you
 have quietly decided that gels do not agree with you, there is a five
 level scale for this and you are almost certainly on level two. The
@@ -58,47 +62,48 @@ people finishing the last five kilometres at the pace they started are
 not tougher than you, they are three levels up, and the jump out of
 level two is one change."
 
-*Rejected v1, kept as a record: "you are eating far too little, far too
-late." It gave the diagnosis away in the first sentence, so the loop
-was closed before the video began, and it named no dream outcome and no
-cost of scrolling.*
-
-**[AHA #1]**
-"Level one is running fasted to force your body to burn fat, and fat
-burns in the flame of carbohydrate, so you finish with nothing left for
-the end. Level two is one gel an hour, started at twenty kilometres
-because you felt fine until then. By that point blood flow has already
-moved away from your stomach, so the gel sits there like a brick, and
-you blame the gel."
+**[AHA #1 — the frame, not the fix]**
+"Every level is a different answer to one question, which is how much
+carbohydrate you can actually get into yourself while running. Level
+one is running fasted to force your body to burn fat, and fat burns in
+the flame of carbohydrate, so you finish with nothing left for the end.
+Level two is a gel an hour, started at twenty kilometres because you
+felt fine until then, and by that point blood flow has moved away from
+your stomach, so it sits there like a brick and you blame the gel
+instead of the timing."
 
 **[ON SCREEN ONLY, not spoken]**
 "2 accountants. ⚑[N] failed batches. Still pre-launch."
 
-**[AHA #2]**
-"Here is the part almost nobody knows. Your gut absorbs glucose through
-one doorway called SGLT1, and it caps out at around sixty grams an
-hour, no matter how much you take. Adding fructose opens a second
-doorway, GLUT5, which is how people get to eighty or ninety grams an
-hour without cramping."
+**[AHA #2 — the mechanism nobody knows]**
+"Here is why level two has a ceiling you cannot train your way out of.
+Glucose crosses your gut through one doorway called SGLT1, and it caps
+out at around sixty grams an hour no matter how much you swallow.
+Fructose opens a second doorway called GLUT5, which is the entire
+reason anybody can take eighty or ninety grams an hour without
+cramping."
 
 **[LEVEL 3, over the b-roll]**
 "So level three is sixty grams an hour on a clock. A low fibre carb bar
 thirty minutes before you head out, then a gel every twenty minutes
-from twenty minutes in."
+from twenty minutes in. That is the level where the last hour stops
+being damage limitation."
 
 **[LEVEL 4]**
-"Level four is eighty to ninety grams an hour at roughly a one to
-zero point eight glucose to fructose ratio, practised every weekend so
-your gut adapts."
+"Level four is eighty to ninety grams an hour at roughly one to zero
+point eight glucose to fructose, practised every weekend until your gut
+stops complaining. This is where recovery gets noticeably quicker ⚑."
 
 **[LEVEL 5]**
 "Level five is over a hundred grams an hour with five hundred to a
 thousand milligrams of sodium, because SGLT1 needs sodium to pull
-glucose across at all."
+glucose across at all. Get that right and the last five kilometres feel
+like the first."
 
 **[PAYOFF]**
 "Nobody jumps from two to five. You move one level at a time, on long
-runs, until the last five kilometres feel like the first."
+runs, and the only one that costs you anything is staying where you
+are."
 
 **[CTA]**
 "Tell me which level you are actually on."
