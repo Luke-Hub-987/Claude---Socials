@@ -40,6 +40,11 @@ paste in the PBA course content those files are waiting on).
    variants and the power-word bank. Read before writing any
    list-shaped OST, and rotate the pricing variant rather than
    repeating one word
+5d. `ost-list-format-library.md` — the four mechanisms the list shape
+   fires (open loop, information gap, fluency, self-reference) plus
+   loss aversion, and eleven non-10/10 formats built on them. Use it to
+   vary the package week to week, and to check the unit is possessable
+   (P61)
 6. `voice-rules.md` — universal voice rules (em-dashes etc., shared)
 7. `brands/personal/competitors.md` — if MISSING or empty, tell the
    user to run `/onboard-personal` first (it collects this)

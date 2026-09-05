@@ -2148,6 +2148,47 @@ are the words that make a line feel written rather than lived.
 *Source: Luke, killing a negative-parallelism line and rejecting a
 whole top-of-funnel batch as not painfully specific.*
 
+## P61 — The unit in a list has to be possessable, and the tail has to name a loss
+
+Luke on "10/10 reasons runners skip fuel on a 16k, and the one that
+costs them": *"Not really good. Not enough stakes."*
+
+**The fault is the unit. You cannot acquire a reason.** A list of
+reasons explains behaviour the viewer already has, so there is nothing
+to take away and nothing lost by scrolling. Every list line that has
+worked used a unit they can hold: **habits** (do them), **signs**
+(check yourself), **things worth buying** (spend or save), **quotes**
+(repeat them), **words on a packet** (use it in a shop tomorrow).
+
+**Banned units: reasons, factors, thoughts, considerations, things.**
+
+### The four mechanisms the format is actually firing
+
+Worth knowing by name, because new formats are built by hitting these,
+not by copying the words:
+
+1. **Open loop (Zeigarnik).** Unfinished sets are held in mind better
+   than finished ones. A number is an explicitly unfinished task.
+2. **Information gap (Loewenstein).** Curiosity needs *partial*
+   knowledge. Complete ignorance produces almost none, which is the
+   mechanical reason invented jargon kills a hook and half-known
+   keywords carry it.
+3. **Processing fluency.** A numeral caps the perceived cost of
+   watching.
+4. **Self-referential encoding.** Information processed about the self
+   is attended to and remembered better. This is Luke's "that is me"
+   test, and it is why an identity in the tail beats a topic.
+
+**And the one that creates the cost of scrolling: loss aversion.** Name
+what they lose, not only what they gain. "£192" moves people; "save
+money" does not.
+
+Full library, with eleven non-10/10 formats built on the same
+mechanisms, in `ost-list-format-library.md`.
+
+*Source: Luke, asking why the 10/10 shape works and for other packages
+that achieve the same thing.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
