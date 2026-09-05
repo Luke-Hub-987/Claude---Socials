@@ -1983,6 +1983,49 @@ built with the system rather than by instinct.
 *Source: Luke, sharing real Instagram Insights on the first
 system-built video, along with the script he actually filmed.*
 
+## P57 — On ERN, the stakes still have to belong to the viewer
+
+Luke on the first ERN batch: *"none of these make me want to sit down
+and watch, with stakes, keywords and curiosity."*
+
+Every line in that batch was about Engine Room Nutrition. "2
+accountants, N failed batches." "What killed batch N-1." "Bar vs gel."
+Run P54's three ingredients against them and all three are absent:
+there is no outcome the viewer already wants, no finite set they can
+picture acquiring, and nothing they could not guess (a small brand had
+some failures is the most guessable sentence in business).
+
+**The cause was a category error.** P42 says ERN is rewarded for
+jeopardy, underdog and process rather than how-tos, and that is true of
+the shapes. It was read as licence to make the brand the subject. It is
+not. The shape is jeopardy; the subject is still the viewer.
+
+### The correction
+
+**ERN's jeopardy has to be a fear the viewer already owns, and we are
+the crash-test dummy who goes and finds out.** We take the risk, they
+get the answer.
+
+- Weak: "we tested our bar against a gel." Our product's fate.
+- Strong: "we took N gels in 90 minutes to find where the stomach gives
+  up." Their fear, our body, their answer.
+
+### Process content is a reward, not a hook
+
+The underdog and Rice Crisp Graveyard shapes are honest and they are
+proven on that grid, but the 2,158-view post worked because it was an
+origin moment, not a status update. Process pays once people already
+care who is making it. Hold it until a viewer-staked line has pulled an
+audience, then run it as the reward.
+
+### The test to run on every ERN line before it ships
+
+> Strip out Engine Room Nutrition entirely. Is there still a video
+> somebody would stop for? If not, it is a company update wearing a
+> hook.
+
+*Source: Luke, rejecting the first full ERN batch.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
