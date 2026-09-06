@@ -2259,6 +2259,44 @@ staying for.
 *Source: Luke, rejecting a verbal hook that satisfied HF13 and still
 had no curiosity, no stakes and no dream outcome.*
 
+## P64 — Verbal hook order: pain, then the cost of staying, then the dream outcome
+
+Luke's instruction on the ladder script: *"emphasise the pain point at
+the start if they don't watch this and then transition to dream
+outcome."*
+
+The order is the mechanism, not a preference. Opening on the dream
+outcome asks the viewer to want something. Opening on the pain finds
+them already in it, and only then does the dream outcome become a way
+out rather than an advert.
+
+**The four beats, in order:**
+
+1. **The pain, in their own physical detail.** "Runs above 12K leave
+   you wiped for two days with aches and pains."
+2. **The cost of staying there.** Not implied, stated: "that is where
+   you will still be in three years, blaming your stomach for it."
+3. **The dream outcome, as a person they already know.** "Those people
+   we all know who run 20K and look completely fine afterwards do not
+   have a secret hack." A named human beats an abstract benefit.
+4. **The loop, with the answer withheld.** "The jump out of level two
+   is one change."
+
+### What his own rewrites keep teaching
+
+Every time Luke edits a script, the same three moves show up, and they
+are worth copying rather than rediscovering:
+
+- **He names the exact number.** "12K", "20K", "100Ks a week", never
+  "long runs" or "high mileage".
+- **He puts a real person in the frame.** "Those people we all know
+  who..." rather than "runners who...".
+- **He keeps his own idiom.** "That is the sauce", "a secret hack".
+  Fragments are fine when they are his voice; P50 bans manufactured
+  staccato, not the way he actually talks.
+
+*Source: Luke, rewriting the fuelling ladder script.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

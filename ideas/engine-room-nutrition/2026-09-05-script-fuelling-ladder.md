@@ -45,29 +45,35 @@ as a rung on a ladder rather than a pitch. Say it once, do not sell it.
 
 ---
 
-## Script (~250 words)
+## Script — v3, cut to 3 levels (~260 words)
 
-Every level carries its own consequence, the way his edit of the injury
-script did. The stakes are not stated once at the top and then dropped,
-they run through every beat.
+Luke's own rewrite is the base. Kept from it: the 12K gate, "wiped for
+two days with aches and pains", the people who run 20K and are fine
+afterwards, "they don't have a secret hack", "you cannot just run 100Ks
+a week out of", the two doors, and "that is the sauce". Three levels,
+not five.
+
+Changed: the hook now leads with the pain and the cost of staying
+there, then turns to the dream outcome; aha 2 and level 3 were
+contradicting each other on the numbers; and the payoff still said "two
+to five" from the old five-level version.
 
 **[ON SCREEN, held ~10s]**
-"The 5 levels of fuelling a long run (most runners never leave level 2)"
+"The 3 levels of fuelling a long run (most runners never leave level 2)"
 
-**[VERBAL HOOK — gate, open loop, dream outcome, cost]**
-"If your long runs leave you wrecked for two days afterwards, and you
-have quietly decided that gels do not agree with you, there is a five
-level scale for this and you are almost certainly on level two. The
-people finishing the last five kilometres at the pace they started are
-not tougher than you, they are three levels up, and the jump out of
-level two is one change."
+**[VERBAL HOOK — pain, cost of staying, dream outcome, loop]**
+"If your runs above twelve K leave you wiped for two days, with aches
+and pains and nothing in your legs, and you have quietly decided that
+eating mid run does not agree with you, that is where you will still be
+in three years, blaming your stomach for it. Those people we all know
+who run twenty K and look completely fine afterwards do not have a
+secret hack. There is a three level scale for this, they are two levels
+up, and the jump out of level two is one change."
 
-**[AHA #1 — the frame, not the fix]**
-"Every level is a different answer to one question, which is how much
-carbohydrate you can actually get into yourself while running. Level
-one is running fasted to force your body to burn fat, and fat burns in
-the flame of carbohydrate, so you finish with nothing left for the end.
-Level two is a gel an hour, started at twenty kilometres because you
+**[AHA 1 — the frame, not the fix]**
+"Level one is running fasted to force your body to burn fat, and fat
+burns in the flame of carbohydrate, so you finish with nothing left for
+the end. Level two is a gel an hour, started at twenty K because you
 felt fine until then, and by that point blood flow has moved away from
 your stomach, so it sits there like a brick and you blame the gel
 instead of the timing."
@@ -75,35 +81,24 @@ instead of the timing."
 **[ON SCREEN ONLY, not spoken]**
 "2 accountants. ⚑[N] failed batches. Still pre-launch."
 
-**[AHA #2 — the mechanism nobody knows]**
-"Here is why level two has a ceiling you cannot train your way out of.
-Glucose crosses your gut through one doorway called SGLT1, and it caps
-out at around sixty grams an hour no matter how much you swallow.
-Fructose opens a second doorway called GLUT5, which is the entire
-reason anybody can take eighty or ninety grams an hour without
-cramping."
+**[AHA 2 — the mechanism]**
+"Here is why level two has a ceiling you cannot run a hundred K a week
+out of. Carbs get in through two doors. Glucose goes through the first
+and caps out around sixty grams an hour ⚑. Fructose goes through the
+second, and that is worth another thirty to sixty on top ⚑. That is the
+whole reason a pro can push ninety to a hundred grams an hour and you
+cannot get one gel down at twenty five K."
 
-**[LEVEL 3, over the b-roll]**
-"So level three is sixty grams an hour on a clock. A low fibre carb bar
-thirty minutes before you head out, then a gel every twenty minutes
-from twenty minutes in. That is the level where the last hour stops
-being damage limitation."
-
-**[LEVEL 4]**
-"Level four is eighty to ninety grams an hour at roughly one to zero
-point eight glucose to fructose, practised every weekend until your gut
-stops complaining. This is where recovery gets noticeably quicker ⚑."
-
-**[LEVEL 5]**
-"Level five is over a hundred grams an hour with five hundred to a
-thousand milligrams of sodium, because SGLT1 needs sodium to pull
-glucose across at all. Get that right and the last five kilometres feel
-like the first."
+**[LEVEL 3 — over the b-roll]**
+"So level three is getting the first door fully open, on a clock. A low
+fibre carb bar thirty minutes before you head out, then a gel every
+twenty minutes from twenty minutes in. Sixty grams an hour, every hour,
+and the last five K stops being damage limitation. That is the sauce."
 
 **[PAYOFF]**
-"Nobody jumps from two to five. You move one level at a time, on long
-runs, and the only one that costs you anything is staying where you
-are."
+"Nobody gets out of level two by trying harder. You move one level at a
+time, on long runs, and the only level that costs you anything is the
+one you are on right now."
 
 **[CTA]**
 "Tell me which level you are actually on."
