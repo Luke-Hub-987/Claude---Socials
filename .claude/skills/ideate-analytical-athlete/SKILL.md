@@ -30,12 +30,15 @@ brand's docs start populated from real data rather than empty.
 2. `brands/analytical-athlete/voice.md` — the line-by-line "slippery
    slide" mechanic, the Justin Welsh post structure, the "engine"
    metaphor, hard rules.
-3. `brands/analytical-athlete/pillars.md` — the 4 pillars and mix
-   guidance.
+3. `brands/analytical-athlete/pillars.md` — the 5 pillars (Pillar 5,
+   direct running/fueling content, added 2026-09-07 — don't skip it,
+   it's now the largest pillar by mix guidance) and mix guidance.
 4. `brands/analytical-athlete/audience.md` — ICP (finance/professional-
-   services, senior/director-level, Dublin/London). This is NOT the
-   same audience as `brands/personal/audience.md` — do not import that
-   file's assumptions.
+   services, senior/director-level, Dublin/London) **and** its
+   "Clarified targeting logic" section: the follower demographics
+   describe who sees the content, not who it must always be written
+   for — the list's real job is collecting runners, of any profession,
+   for the eventual carb bar.
 5. `brands/analytical-athlete/competitors.md` — named style references
    (Justin Welsh, Ogilvy/Caples) and any LinkedIn URLs Luke has since
    given for manual reference.
@@ -44,10 +47,19 @@ brand's docs start populated from real data rather than empty.
    separate product. Read this so CTAs and any product claims stay
    accurate to ERN's real, pre-manufacturing stage rather than
    inventing an "Analytical Athlete" offer.
-7. `voice-rules.md` — universal rules (no em-dashes, no hedging, no
-   corporate filler — note LinkedIn is exactly the platform this rule
-   is guarding against).
-8. `principles.md` — P1 (TAM/unique angle/money) and P2
+7. For Pillar 5 ideas specifically, also read:
+   `research/reddit-running-themes-summary.md` (real runner pain
+   points), `ost-10-10-teardown.md` (the "10/10 X of Y" scored-list
+   device, and ERN's owned RPE-scoring variant), and
+   `ideas/engine-room-nutrition/2026-09-05-script-fuelling-ladder.md`
+   (real, already-source-checked fueling physiology and the ladder
+   device) — reuse this material directly, don't re-derive physiology
+   claims from scratch or invent new ones.
+8. `voice-rules.md` — universal rules (no em-dashes, no hedging, no
+   corporate filler, and the **AI-slop checklist** — read this in full
+   and check every hook against it before finalizing, every single
+   run, not just once).
+9. `principles.md` — P1 (TAM/unique angle/money) and P2
    (counter-positioning) apply directly and are worth citing. Treat
    the rest of that file with judgment: it was built for short-form
    video (on-screen text, watch-time, skip-rate) and much of it
@@ -102,15 +114,16 @@ Per-idea schema:
   cta: <The newsletter close, naming "The Analytical Athlete" and the current subscriber count from swipe-file.md's "Newsletter growth" section (use the latest figure, note it'll be stale by publish time and Luke should update it). Confirmed: this funnels into Engine Room Nutrition's own list (engineroomnutrition.com/pages/fuel-1), not a separate product — see audience.md. Don't invent Analytical-Athlete-specific offers or claims about what happens after signup beyond what brands/engine-room-nutrition/pillars.md's product context actually supports>
   voice_match: <one line citing which voice.md device this uses: the engine metaphor, direct 2nd-person address, a PS-line secondary hook, etc.>
   visual_concept: <OPTIONAL. Only if the hook is built on a two-sided contrast (per voice.md's confirmed two-panel image device) — a one-line description of a two-panel image mirroring the contrast, e.g. "left: at desk late, right: lacing up shoes at dawn." Omit entirely for ideas without a real contrast to mirror, don't force it>
-  swipe_file_precedent: <MANDATORY. Which real post in swipe-file.md this idea's mechanism is modeled on, by date/title. If it can't be traced to a real precedent, it's a stretch idea — say so explicitly rather than pretending it's proven>
+  swipe_file_precedent: <MANDATORY. For Pillars 1-4, which real post in swipe-file.md this idea's mechanism is modeled on, by date/title. For Pillar 5, which real source this draws from instead (research/reddit-running-themes-summary.md's named pain point, ost-10-10-teardown.md's device, or the fuelling-ladder script) — cite it the same way. If it can't be traced to a real precedent/source, it's a stretch idea — say so explicitly rather than pretending it's proven>
   briar_principle: <P1 or P2 from principles.md if genuinely applicable, otherwise omit the field rather than forcing a citation>
 ```
 
 ### Mix (default, no argument passed)
 
-Per `pillars.md`: 4 Pillar 1 (career-capacity narrative), 2 Pillar 2
-(research-backed performance science), 2 Pillar 3 (practical training
-protocols), 2 Pillar 4 (personal proof-of-concept). An earlier version
+Per `pillars.md`'s revised mix: 3 Pillar 1 (career-capacity narrative),
+4 Pillar 5 (direct running/fueling — now the largest single pillar,
+per Luke's 2026-09-07 instruction not to fixate on the career-bridge
+angle), 1 Pillar 2, 1 Pillar 3, 1 Pillar 4. An earlier version
 of this rule banned other-people's-story ideas (Bezos/Branson/Ramsay-
 style) from Pillar 4 outright — that was based on xlsx numbers later
 found to be unreliable for pre-6/10/2026 posts, and the best-verified
@@ -159,11 +172,20 @@ test to pass.
   the scenario.
 - **Every idea traces to a `swipe_file_precedent`** or is explicitly
   flagged as an untested stretch idea.
-- **P1 test (TAM/unique/money):** does this idea's angle actually
-  connect back to the training-as-career-capacity bridge, or is it
-  just a running tip with a LinkedIn wrapper? If it's the latter, it's
-  competing with `brands/personal/` content for a completely different
-  audience and probably belongs there instead.
+- **P1 test (TAM/unique/money), REVISED 2026-09-07:** does this idea's
+  angle connect back to either the career-capacity bridge (Pillar 1)
+  *or* directly to real runner pain points that make someone a
+  qualified lead for the eventual carb bar (Pillar 5)? Both are valid
+  per `audience.md`'s "Clarified targeting logic" — a Pillar 5 idea
+  overlapping with `brands/personal/` content is fine and expected
+  (both draw on the same real running-audience research), the LinkedIn
+  version should still be adapted to this platform's text format and
+  voice, not copy-pasted.
+- **AI-slop check, mandatory, every idea, every run** (see
+  `voice-rules.md`): before finalizing, check every `hook` against the
+  checklist there. Negative parallelism ("not just X, but Y," "it's
+  not X, it's Y") is banned outright with no exceptions — it's the
+  single most likely pattern to slip in unnoticed.
 
 ## Step 3 — Write the brief
 

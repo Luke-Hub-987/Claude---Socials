@@ -2,12 +2,97 @@
 type: ideation-brief
 brand: analytical-athlete
 generated_at: 2026-09-07
-focus: all-pillars (4/2/2/2 mix per pillars.md)
-pillars_covered: [1, 1, 1, 1, 2, 2, 3, 3, 4, 4]
-inputs_status: audience.md and swipe-file.md are live (built from real data); voice.md, pillars.md, competitors.md are still draft, pending Luke's confirmation and the Claude Project summary — see each file's "Open" section. Ideas below are still grounded in real swipe-file evidence regardless.
+focus: all-pillars, rebalanced 3/4/1/1/1 per pillars.md's 2026-09-07 revision (Pillar 5, direct running/fueling, added and now the largest)
+pillars_covered: [1, 1, 5, 5, 5, 5, 1, 2, 3, 4]
+inputs_status: audience.md and swipe-file.md are live (built from real data); voice.md, pillars.md, competitors.md are still draft, pending Luke's confirmation and the Claude Project summary — see each file's "Open" section. Ideas below are still grounded in real evidence regardless.
 ---
 
 # Ideation Brief (The Analytical Athlete) — 2026-09-07
+
+## THIRD REVISION, same day: Pillar 5 added, no AI-slop language, rebalanced mix
+
+Luke gave three more instructions after the second revision, now
+permanent rules in `voice-rules.md`, `pillars.md`, and `audience.md`:
+
+1. **No AI-slop language, checked against
+   [Wikipedia: Signs of AI Writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
+   every time.** Negative parallelism ("it's not X, it's Y," "not just
+   X but Y") is banned outright — every idea below, including the
+   surviving ones from earlier revisions, was re-checked against this.
+2. **Don't fixate on the career-bridge angle.** The list's real job is
+   collecting runners for the eventual carb bar — direct running/
+   fueling content is at least as valid a route to them as the
+   marathon-CEO career metaphor. New Pillar 5 added to `pillars.md`.
+3. **Use the ICP and pain-point research already in this repo**, not
+   new topics invented for LinkedIn — `research/reddit-running-themes-
+   summary.md`, the fueling-ladder script already built for ERN, and
+   the "10/10" scored-list device already proven on IG/TikTok.
+
+New mix: 3 Pillar 1, 4 Pillar 5, 1 each of Pillars 2-4. The 4 new
+Pillar 5 ideas are below. From the earlier revisions, ideas 1 and 2
+(the S&P 1500 study's two facets) stay as the 2 remaining Pillar 1
+slots alongside idea 4 (first-person) for 3 total; idea 3 (the
+unfilled template) is dropped from the official 10 rather than kept as
+a placeholder. Ideas 5, 7, and 9 stay as the single Pillar 2/3/4 slots;
+ideas 6, 8, and 10 move to a "spare ideas" note at the end rather than
+being deleted, in case Luke wants a bigger batch later.
+
+## Pillar 5 ideas — direct running/fueling content (new)
+
+### P5 Idea A — The fuelling ladder, adapted from the real ERN script
+
+- **Hook:** "Most runners never get past level 2 of fuelling a long run."
+- **Body talking points:**
+  - Level 1: running fasted, burning fat, finishing with nothing left for the end.
+  - Level 2: a gel at 20k, started once you already felt the dip. By then blood flow has already left the stomach for the legs, so the gel sits there and gets blamed for timing that was never right.
+  - The ceiling: glucose absorption caps around 60 grams an hour (SGLT1), a second pathway (GLUT5, triggered by fructose) adds another 30-60 grams on top.
+  - Level 3: a low-fibre carb bar 30 minutes before heading out, then steady intake through both pathways from the start, not from the dip.
+  - Close: the last 5k stops being damage limitation.
+  - Transition to CTA.
+- **Research claim:** Real, already source-checked — SGLT1 glucose ceiling (~60g/hour) and GLUT5 fructose pathway (~30-60g/hour additional) are verified in `ideas/engine-room-nutrition/2026-09-05-script-fuelling-ladder.md`'s "Verify before filming" section. Reused directly, not re-derived.
+- **CTA:** "The Analytical Athlete goes out weekly. Join 160+ people training seriously who want a free copy of the fuelling protocol above: [link to fuel-1]." (Confirm current subscriber count before publishing.)
+- **Voice match:** Real numbers never rounded, line-by-line "slippery slide" structure, painkiller-first (names the level-2 failure mode before the fix).
+- **Swipe-file precedent:** Adapted from `ideas/engine-room-nutrition/2026-09-05-script-fuelling-ladder.md` (the ladder device, IG/TikTok-proven mechanism) — translated to LinkedIn's line-break text format rather than a video script, per Luke's named example "3 elite levels of eating on a long run."
+- **AI-slop check:** No negative parallelism, no "delve/boasts/testament," no rule-of-three padding. Clean.
+
+### P5 Idea B — The last 10k, named example
+
+- **Hook:** "There's a specific point where every marathon's last 10k falls apart. It's exactly where carb intake capped at 60 grams an hour and effort didn't."
+- **Body talking points:**
+  - Name the dreaded moment directly: the wall, the fade, the last 10k that always seems to arrive at the same relative point.
+  - Reveal the mechanism: the same SGLT1 60g/hour ceiling as Idea A, this time framed as a countdown rather than a ladder.
+  - The fix: adding the GLUT5/fructose pathway extends the ceiling, timed from the start rather than from the first sign of fading.
+  - Reframe: this isn't a fitness problem showing up at 32k, it's a math problem that started at kilometre zero.
+  - Transition to CTA.
+- **Research claim:** Same SGLT1/GLUT5 sourcing as Idea A — one real citation, two different applications.
+- **CTA:** Same as Idea A.
+- **Voice match:** Specific real number as the hook's anchor, painkiller (names the exact dreaded moment).
+- **Swipe-file precedent:** Luke's own named example, "How to run the last 10k faster than the last 10k" — built on the same real, already-vetted physiology as Idea A rather than a new claim.
+- **AI-slop check:** Rewrote twice to avoid "it doesn't happen because X, it happens because Y" — landed on a direct causal statement instead of a negation-then-correction shape.
+
+### P5 Idea C — GI distress, from your own Reddit research
+
+- **Hook:** "A stomach shutting down at 20k runs on a predictable schedule, not bad luck. Blood flow leaves the gut for the legs the moment effort crosses a threshold, and whatever's still in there just sits."
+- **Body talking points:**
+  - Name the pain point directly: GI distress during long runs, a specific and recurring theme in real runner discussion (`research/reddit-running-themes-summary.md` flags ~29 combined mentions of stomach/GI issues as a named pain point).
+  - Explain the mechanism: blood flow redirected away from the digestive system under sustained effort — same underlying claim already used in the fuelling-ladder script's level 2 explanation, applied here as the headline topic instead of a supporting detail.
+  - Reframe: the fix isn't tolerating a worse product, it's timing intake before the redirect happens, not after.
+  - Transition to CTA.
+- **Research claim:** Same blood-flow-redirection claim already in the fuelling-ladder script (verified there) — reused, not new.
+- **CTA:** Same as Idea A.
+- **Voice match:** Painkiller-first (names a genuinely dreaded, specific runner experience), plain causal explanation, no reversal framing.
+- **Swipe-file precedent:** `research/reddit-running-themes-summary.md`'s GI-distress theme + the fuelling-ladder script's blood-flow mechanism.
+- **AI-slop check:** Clean — direct causal statement, no negation-reversal, no inflated vocabulary.
+
+### P5 Idea D — The RPE-scored device, format ready, content needs Luke
+
+- **Hook (format only, not finished):** "[Something] scored out of 10 at race effort" — ERN's own variant of the "10/10" device (see `ost-10-10-teardown.md`), built on RPE (rate of perceived exertion), a scale runners already use daily.
+- **Status: not ready to publish.** Luke's named example, "10/10 uncomfortable habits of runners who never get injured," doesn't have its actual 10 items saved anywhere in this repo — the IG/TikTok video predates a written script. Two ways to complete this:
+  1. Luke supplies the real 10 items from the original video, translated to LinkedIn's text format.
+  2. Build a new list sourced from `research/reddit-running-research-manual.txt`'s injury/overtraining theme (116 mentions in the summary) — this needs someone to actually read the raw manual for real, quotable examples rather than inventing plausible-sounding habits, which is exactly the kind of unsourced claim the hard rules exist to prevent.
+- **Research claim:** None yet — this is a format placeholder, not a sourced idea.
+- **CTA:** Same as Idea A, once content exists.
+- **Swipe-file precedent:** `ost-10-10-teardown.md` (the device) + Luke's named example (the specific title).
 
 ## REVISION, same day: ideas 1-4 retracted and replaced
 
@@ -53,7 +138,7 @@ notes, they're not optional polish.
 ## Idea 1 (REPLACED AGAIN) — The recovery-discipline facet of your own best post
 
 - **Pillar:** 1 (training-as-career-capacity)
-- **Hook:** "The marathon-running-CEO study didn't find that training made them tougher. It found the strongest predictor was how deliberately they recovered."
+- **Hook (fixed, 2026-09-07 AI-slop pass):** "In the marathon-running-CEO study, recovery discipline predicted the effect more strongly than training volume itself." *(the original hook, "The study didn't find X, it found Y," was the exact negative-parallelism pattern Luke banned — caught on re-audit, not before)*
 - **Body talking points:**
   - This is the same S&P 1500 study already in your best-performing post ("Companies led by marathon-running CEOs," 65,693 impressions) — that post listed three explanations in one line each (stress tolerance, long-term thinking, recovery discipline) and moved on. This idea goes deep on just the third one, which the original never unpacked.
   - Painkiller framing: name the real fear directly — most senior professionals treat rest as the thing that happens when everything else is done, which means it never happens.
@@ -92,7 +177,7 @@ notes, they're not optional polish.
 ## Idea 4 — Luke's own first-person admission
 
 - **Pillar:** 1
-- **Hook:** "I used to tell myself the fatigue was just what your thirties in tax feel like. It wasn't age. It was eleven months without a single hard session."
+- **Hook (fixed, 2026-09-07 AI-slop pass):** "I used to blame my thirties in tax for the fatigue. The actual cause was eleven months without a single hard training session." *(original hook had the same "it wasn't X, it was Y" pattern as Idea 1 above — same fix applied)*
 - **Body talking points:**
   - Open with the self-deceiving explanation (blaming age/career stage) most of the audience has told themselves too.
   - Reveal the real cause, specific and personal, not a generalized claim about "professionals."
@@ -106,7 +191,7 @@ notes, they're not optional polish.
 ## Idea 5 (revised hook, painkiller-first) — The call you already know you'll flub
 
 - **Pillar:** 2 (research-backed performance science)
-- **Hook:** "You already know which call today you're going to handle worse than you should. It's not a scheduling problem. It's a training problem." *(revised from the original vitamin-shaped hook, "The best time to schedule your hardest call isn't after your coffee" — that led with the tip, not the pain)*
+- **Hook (fixed again, 2026-09-07 AI-slop pass):** "You already know which call today you're going to handle worse than you should. That's a training problem hiding inside a calendar." *(this went through two problems in two revisions: first it led with the tip instead of the pain, then the painkiller fix I made introduced "it's not a scheduling problem, it's a training problem," the exact banned pattern — fixed again here)*
 - **Body talking points:**
   - Name the felt pain directly: everyone in this audience has had the call they knew, going in, they weren't sharp for.
   - Reveal the mechanism: cite the "113 studies, 4,390 people" meta-analysis (already used in the tick-off-tasks post) showing one exercise session sharpens decisions, focus and recall "for hours."
@@ -135,7 +220,7 @@ notes, they're not optional polish.
 ## Idea 7 — The minimum viable strength protocol
 
 - **Pillar:** 3 (practical training protocols)
-- **Hook:** "You don't need an hour in the gym twice a week to build real strength. You need twenty minutes and a bar."
+- **Hook (fixed, 2026-09-07 AI-slop pass):** "Twenty minutes with a bar, twice a week, builds real strength for a runner. That's the entire program." *(original hook, "You don't need X, you need Y," was the same negation-reversal family as the banned pattern)*
 - **Body talking points:**
   - Name the assumed barrier (needing a full session) and knock it down immediately.
   - Give a concrete protocol: 2x/week, 20 minutes, a small number of compound lifts, specific set/rep scheme.
@@ -148,7 +233,7 @@ notes, they're not optional polish.
 ## Idea 8 — Your commute is a Zone 2 session
 
 - **Pillar:** 3
-- **Hook:** "Your commute isn't dead time. It's the Zone 2 session you've been telling yourself you don't have time for."
+- **Hook (fixed, 2026-09-07 AI-slop pass):** "Your commute already qualifies as the Zone 2 session you've been telling yourself you don't have time for." *(original hook, "isn't X, it's Y," was the same banned pattern found throughout this batch)*
 - **Body talking points:**
   - Reframe an existing daily block of time (walk/cycle commute) as usable aerobic base-building.
   - Explain Zone 2 briefly: easy effort, conversational pace, builds the aerobic base everything else sits on.
@@ -186,7 +271,31 @@ notes, they're not optional polish.
 - **CTA:** Same as Idea 1.
 - **Swipe-file precedent:** "3,000 people finished the full Cork City Marathon last Sunday" (6/7/2026, currently in the "mid-tier, unreliable xlsx data" table) — reuses the real event, new angle (workplace-anxiety comparison, not a race report).
 
-## Notes on this batch (updated after the second revision)
+## Spare ideas (not in the official 10, kept rather than deleted)
+
+- **Idea 6** — "The unmeasured variable" (Pillar 2, BJSM citation). Clean on the AI-slop check, no fix needed. Bumped only because the new mix allows just 1 Pillar 2 slot.
+- **Idea 8** — "Your commute is a Zone 2 session" (Pillar 3). Hook fixed above for the same negative-parallelism pattern as several others. Bumped only for mix reasons, not quality.
+- **Idea 10** — "Cork marathon start line vs. Monday stand-up" (Pillar 4). Clean on the AI-slop check. Bumped only for mix reasons.
+- **Idea 3** — the unfilled first-person template. Dropped entirely, not just bumped — it was never a finished idea, just a structure waiting on a real detail from Luke.
+
+## Notes on this batch (updated after the third revision)
+
+- **AI-slop audit found the exact banned pattern in 4 of my own hooks**
+  (ideas 1, 4, 5, 8 — plus idea 7 in a close variant, "you don't need
+  X, you need Y") — all fixed above, with the original wording kept
+  visible so the pattern is easy to recognize next time rather than
+  quietly erased. This ran on autopilot across three prior revisions
+  before Luke flagged it directly — worth treating as a standing
+  blind spot, not a one-off, which is why it's now a mandatory
+  per-idea check in the ideate skill, not just a rule on paper.
+- **4 new Pillar 5 ideas added** (A-D), built only from material
+  already real and sourced in this repo: the fuelling-ladder script's
+  verified physiology, Luke's own named examples, and the Reddit
+  research summary's GI-distress theme. Idea D is explicitly
+  unfinished — the format is proven, the specific content needs either
+  Luke's real list or a deeper pull from the raw Reddit research file.
+- **Mix rebalanced to 3/4/1/1/1** (Pillar 1/5/2/3/4) per Luke's
+  instruction not to fixate on the career-bridge angle.
 
 - **Ideas 1-4 have now been through two revisions.** First pass used
   the retired two-colleagues device. Second pass swapped in new

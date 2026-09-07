@@ -99,12 +99,60 @@ bridge), not a bare namedrop. Pillar 4 guidance is corrected below.
   checked — don't repeat the old "avoid celebrity stories" rule as
   settled fact, and don't assume they're secretly great either.
 
+## Pillar 5: Direct running/fueling technical content (added 2026-09-07, Luke direct)
+
+**Luke's instruction: don't fixate on the career-bridge angle** (the
+marathon-CEOs model). The email list's actual purpose is collecting
+**runners** who'll want the carb bar once it's available — the
+career-capacity bridge is one way to reach them, not the only one, and
+not even necessarily the main one. LinkedIn's real audience skews
+professional (see `audience.md`), but the target is the runners within
+that network, and direct, technical, real running/fueling content is a
+legitimate, arguably sharper way to find and filter for them than
+always routing through a career metaphor.
+
+This pillar draws on material **already proven or already vetted
+elsewhere in this repo**, not new topics invented for LinkedIn:
+
+- `research/reddit-running-themes-summary.md` — real runner pain
+  points from Luke's own Reddit research: GI distress during fueling
+  (specific, recurring, named), carb-loading precision (grams/kg,
+  timing), PB obsession, injury (116 mentions), the zone 2 training
+  debate, fatigue, half-marathon-through-ultra range.
+- `ost-10-10-teardown.md` — the "10/10 X of Y" scored-list device
+  already proven on IG/TikTok ("10/10 uncomfortable habits of runners
+  who never get injured," 2,156 views), and ERN's owned variant
+  (scoring on RPE / race effort, the vocabulary runners already use).
+- `ideas/engine-room-nutrition/2026-09-05-script-fuelling-ladder.md`
+  — the "levels of fuelling a long run" ladder device, with real,
+  already-source-checked physiology (SGLT1 glucose ceiling ~60g/hour,
+  GLUT5 fructose adding another 30-60g/hour) and the exact place ERN's
+  carb bar sits in the protocol (30 minutes before heading out) —
+  reuse this content and its verification notes directly rather than
+  re-deriving the physiology from scratch.
+- Named examples Luke gave directly as proven-format references (not
+  necessarily literal LinkedIn posts yet): "3 elite levels of eating on
+  a long run," "How to run the last 10k faster than the last 10k,"
+  "10/10 uncomfortable habits of runners who never get injured."
+
+**Named-example content gap:** the actual 10 items behind "10/10
+uncomfortable habits of runners who never get injured" aren't captured
+as a written list anywhere in this repo (the IG/TikTok video predates
+a saved script). Before building a LinkedIn post on that exact title,
+either get the real list from Luke or build a new one sourced from
+`research/reddit-running-themes-summary.md`'s injury/overtraining
+theme (116 mentions) and flag it as new, not a port of the original.
+
 ## Mix guidance (draft, revise once more data exists)
 
-Given Pillar 1 is both the best performer and the most differentiated
-from every other channel Luke runs, default new-idea batches toward it:
-roughly 4 Pillar 1, 2 Pillar 2, 2 Pillar 3, 2 Pillar 4 out of every 10,
-unless Luke redirects.
+**REVISED 2026-09-07:** the original 4/2/2/2 mix (Pillars 1-4)
+over-indexed on the career-capacity bridge per Luke's own instinct
+that it shouldn't be the fixation. New default, pending more data:
+roughly 3 Pillar 1 (career-capacity, still real and proven), 4 Pillar
+5 (direct running/fueling, the newly added pillar — this is now the
+largest single pillar), 1 Pillar 2, 1 Pillar 3, 1 Pillar 4. Revise
+again once enough Pillar 5 posts have real performance data to compare
+against Pillar 1's.
 
 ## Open question for Luke
 

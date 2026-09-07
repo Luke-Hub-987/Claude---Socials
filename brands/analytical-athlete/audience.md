@@ -80,6 +80,25 @@ more qualified signup, which is a legitimate strategic choice, but it's
 worth being explicit that this is a positioning decision, not something
 the existing data already proved.
 
+## Clarified targeting logic (Luke direct, 2026-09-07)
+
+The demographics above describe who **sees** this content (a
+professional-services network), not necessarily who the content should
+always be **written for**. Luke's own framing: the email list's real
+job is collecting **runners** who'll want the carb bar once it's
+available — the career-capacity bridge (Pillar 1) is one route to
+them, not the required one. Direct, technical running/fueling content
+(`pillars.md` Pillar 5) is a legitimate, possibly sharper way to find
+and filter for the runners inside this professional network (and the
+74-90% of reach that's out-of-network per `swipe-file.md`), because it
+self-selects: someone who reads a post about carb-loading ceilings or
+GI distress on long runs is a runner, regardless of job title. Don't
+treat "this audience is professionals, not runners" (stated earlier in
+this file) as a reason to avoid direct running content — it's a reason
+to expect direct running content to convert a smaller share of total
+impressions into engaged readers, but a more qualified one for the
+actual goal (people who'd want the carb bar).
+
 ## Why they'd follow this account specifically over a generic fitness/productivity creator
 
 Luke is a credible peer, not an outside influencer: ACA/CTA-qualified, in the same firms and career track as the audience, who also races ultras and marathons at a competitive amateur level while working full time. The credibility beat is "I am one of you and I also do this," not "let me teach you fitness."

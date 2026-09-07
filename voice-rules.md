@@ -25,6 +25,45 @@ content (or merge it in) so `/ideate-*` is enforcing the real rules.
 - No hedging language in hooks: "I think," "maybe," "just my opinion."
   State the position.
 - No hashtag walls. If hashtags are used, 3-5 max, relevant only.
+- **No AI slop language (2026-09-07, Luke direct).** Before finalizing
+  any headline/hook, check it against
+  [Wikipedia: Signs of AI Writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
+  every time, not just once. The parts of that checklist that actually
+  apply to short-form hooks and posts (the Wikipedia-specific markup/
+  citation items don't):
+  - **Negative parallelism, banned outright, no exceptions:** "not
+    just X, but Y," "it's not X, it's Y," "X rather than Y" as the
+    entire mechanism of a line. This is the single most-flagged
+    pattern and the one most likely to show up in a hook.
+  - **Avoidance of plain "is/are":** don't reach for "serves as,"
+    "stands as," "marks," "functions as," "represents" where "is"
+    would do the job.
+  - **Marketing verbs standing in for "has":** "features," "boasts,"
+    "offers," "maintains" used unnaturally.
+  - **Overused AI vocabulary:** "delve," "intricate/intricacies,"
+    "meticulous," "tapestry," "underscore," "garner," "bolstered,"
+    "align with," "enhance," "fostering," "showcasing," "emphasizing,"
+    "deep dive," "additionally" as a transition crutch.
+  - **Promotional/inflated tone:** "boasts," "vibrant," "profound,"
+    "groundbreaking," "renowned," "game-changing," "pivotal moment,"
+    "testament to," "stands as a reminder."
+  - **Rule-of-three padding:** three parallel items listed purely for
+    rhythm, not because there are actually three things worth saying.
+  - **Present-participle padding:** trailing "-ing" clauses added for
+    vague superficial analysis ("highlighting their significance").
+  - **Vague attribution:** "industry reports show," "experts argue,"
+    "observers have noted" without a real, named, checkable source.
+  - **Excessive boldface, title-case abuse, emoji-as-formatting.**
+  - **The "challenges" formula:** "Despite its [positive], [subject]
+    faces challenges..." as a rigid, formulaic structure.
+
+## Fabrication and sourcing
+
+- Never fabricate a research claim, statistic, or study, in any brand.
+  If a claim can't be traced to something real (a source in
+  `research/`, something the user has explicitly confirmed, or a
+  citation genuinely verified via search and clearly flagged as such),
+  don't state it as fact.
 
 ## Always
 
