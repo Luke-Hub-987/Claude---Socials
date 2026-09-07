@@ -59,13 +59,22 @@ brand's docs start populated from real data rather than empty.
    corporate filler, and the **AI-slop checklist** — read this in full
    and check every hook against it before finalizing, every single
    run, not just once).
-9. `principles.md` — P1 (TAM/unique angle/money) and P2
-   (counter-positioning) apply directly and are worth citing. Treat
-   the rest of that file with judgment: it was built for short-form
-   video (on-screen text, watch-time, skip-rate) and much of it
-   (HF-series in `hook-frameworks.md` especially) doesn't translate to
-   a LinkedIn text post's mechanics. Don't force a video-specific
-   framework citation onto a LinkedIn idea just to fill the field.
+9. **REVISED 2026-09-07, Luke direct: the LinkedIn hook is on-screen
+   text and gets the same craft toolkit, not a separate lesser one.**
+   Read `hook-frameworks.md` HF6 (the five on-screen-text principles:
+   curiosity, pain point, dream outcome, tangibility, whisper
+   technique) and `principles.md` P3 (CCN), P21 (specificity beats
+   reversal), P32 (real ranked shapes: scenario-questions, how-to-
+   with-gain, named-tier/borrowed-authority), P33 (one example is a
+   device to rotate, never a template to stamp — already happened
+   twice in this system's history, don't make it three), P35/P60 (the
+   canonical AI-slop rule, absolute, no carve-outs), P37 (one nameable
+   keyword). Also read `ost-10-10-formats.md`'s power-word bank (one
+   word per line, by job: price it costly, make it transgressive, make
+   it secret, borrow authority, name the moment, state the
+   consequence). See `voice.md`'s "Headline craft" section, which
+   consolidates all of this for this brand specifically. P1/P2 still
+   apply as before.
 
 ## Argument handling
 
@@ -116,7 +125,18 @@ Per-idea schema:
   visual_concept: <OPTIONAL. Only if the hook is built on a two-sided contrast (per voice.md's confirmed two-panel image device) — a one-line description of a two-panel image mirroring the contrast, e.g. "left: at desk late, right: lacing up shoes at dawn." Omit entirely for ideas without a real contrast to mirror, don't force it>
   swipe_file_precedent: <MANDATORY. For Pillars 1-4, which real post in swipe-file.md this idea's mechanism is modeled on, by date/title. For Pillar 5, which real source this draws from instead (research/reddit-running-themes-summary.md's named pain point, ost-10-10-teardown.md's device, or the fuelling-ladder script) — cite it the same way. If it can't be traced to a real precedent/source, it's a stretch idea — say so explicitly rather than pretending it's proven>
   briar_principle: <P1 or P2 from principles.md if genuinely applicable, otherwise omit the field rather than forcing a citation>
+  ccn: <MANDATORY, per P3. One line: who's Core, who's Casual, who's New for this specific hook, and what the specific-curiosity mechanism is that pulls all three at once. If you can't name a real New-audience angle, say so rather than skipping the field>
+  device: <MANDATORY, per P33. Name the structural device this hook uses (scenario-question, numbered taxonomy, named-tier/borrowed-authority, ladder/progression, research-citation, first-person admission, etc.) so the batch-level distribution check below can actually be done>
+  power_word: <OPTIONAL, per ost-10-10-formats.md. If the hook uses one, name it and its job (price as costly / make transgressive / make secret / borrow authority / name the moment / state the consequence). One word, one slot — never two in the same hook>
 ```
+
+### Batch-level device check (P33), mandatory before finalizing
+
+Count which `device` each idea uses. No single device should account
+for more than roughly a quarter of the batch (2-3 out of 10). If one
+device dominates, especially the same one Luke praised in a prior
+batch (the S&P 1500 study, the fuelling ladder), swap some ideas for a
+different device from P32's list before presenting the batch.
 
 ### Mix (default, no argument passed)
 

@@ -25,8 +25,19 @@ content (or merge it in) so `/ideate-*` is enforcing the real rules.
 - No hedging language in hooks: "I think," "maybe," "just my opinion."
   State the position.
 - No hashtag walls. If hashtags are used, 3-5 max, relevant only.
-- **No AI slop language (2026-09-07, Luke direct).** Before finalizing
-  any headline/hook, check it against
+- **No AI slop language.** This is already the house rule in
+  `principles.md` P35 (the real source: Wikipedia:Signs of AI Writing,
+  maintained by WikiProject AI Cleanup) and P60, which withdrew an
+  earlier narrow carve-out after a "corrected" version of the pattern
+  (negative parallelism with the twist moved one clause later) slipped
+  through anyway: **"the rule is now absolute in both brands, whatever
+  the multiplier says"** (P60). Luke's own words on why: "that
+  completely goes against our rule of the no AI slop of it's not this
+  it's that." Fix pattern, per P60's own example: deliver the
+  corrected-diagnosis mechanism as a single positive statement instead
+  of a reversal — "The pasta dinner the night before is 48 hours too
+  late," not "It's not the pasta, it's the timing." Before finalizing
+  any headline/hook, in any brand, check it against
   [Wikipedia: Signs of AI Writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
   every time, not just once. The parts of that checklist that actually
   apply to short-form hooks and posts (the Wikipedia-specific markup/

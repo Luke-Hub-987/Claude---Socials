@@ -96,6 +96,63 @@ Full text of these and the rest of the swipe file is in
 `swipe-file.md` — read it before drafting, the compression above loses
 the line-by-line rhythm that makes them work.
 
+## Headline craft: the LinkedIn hook IS on-screen text (2026-09-07, Luke direct)
+
+Luke's own framing: "the headline are just words in order to make
+people read, want, and feel something by reading the post" — exactly
+the job on-screen text does for video. **Treat the LinkedIn hook with
+the same craft rigor as an on-screen-text hook for IG/TikTok, not a
+separate, lesser system.** Concretely, before finalizing any hook:
+
+- **Run it through HF6's five on-screen-text principles**
+  (`hook-frameworks.md`): curiosity, pain point, dream outcome,
+  tangibility, the whisper technique (a parenthetical aside for
+  curiosity-building or risk rehearsal). These transfer directly to a
+  LinkedIn opening line.
+- **Check it against P3 (CCN)** in `principles.md`: does it work for
+  Core (people who already take running/fueling seriously), Casual
+  (dip in and out of the niche), and New (outside running entirely but
+  still curious) simultaneously, via *specific curiosity*, not maximum
+  stakes? Tag every idea's CCN read explicitly, the same discipline
+  already used for IG/TikTok.
+- **Check it against P21's newspaper-headline bar**: specificity beats
+  a reversal/twist shape. Would a stranger with zero context want to
+  read this because of a concrete, specific claim, not because a
+  withheld answer is being teased?
+- **Use `ost-10-10-formats.md`'s power-word bank** when a hook calls
+  for one: each word does a specific job (price it as costly, make it
+  transgressive, make it secret, make it counterintuitive, borrow
+  authority, name the moment/kilometre marker, state the consequence).
+  **One power word per line, in one slot** — two starts sounding
+  written, and a power word can't rescue a weak underlying structure.
+  Sample words Luke named directly: charismatically, emphatically,
+  elite — these are illustrations of the *job* words like "elite" and
+  "sub-2:30" do (borrow authority), not a fixed list to reuse verbatim
+  every time.
+- **P33: one example is a device to add to the rotation, never a
+  template to stamp.** This has already happened twice in this
+  system's history per `principles.md` (questions taking over a batch,
+  then "why do CEOs run marathons" taking over the next one) — Luke
+  had to call it out multiple times. No single device (the ladder, a
+  scenario-question, a numbered taxonomy, a named-tier/borrowed-
+  authority line) should account for more than roughly a quarter of
+  any batch. Name the device each idea uses and check the batch's
+  distribution before finalizing, the same discipline already required
+  for IG/TikTok batches.
+- **P32's real, ranked shapes are a legitimate reference**, not just
+  the S&P 1500/marathon-CEO citation model: scenario-questions (a
+  real, specific first-person moment stated as a question, no
+  mechanism explained — "Are they trail running, or just walking
+  really fast?"), how-to-with-gain (plain language for something the
+  reader already half-wants, payoff attached), named-tier/borrowed-
+  authority (a real sub-elite-level cited example). Vary across these,
+  don't default to research-citation every time.
+- **P37: every idea should compress to one nameable keyword** the
+  reader can silently ask "do I already know about that" and decide to
+  stay or scroll — plain language for something they already
+  half-want (a specific training concept, a real number, a named
+  moment), not a coined insider term.
+
 ## Visual device: the two-panel contrast image (confirmed real, see `swipe-file.md`)
 
 "Same intake, same bonus" carries a custom two-panel, retro-styled

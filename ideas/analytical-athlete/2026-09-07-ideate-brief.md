@@ -9,6 +9,99 @@ inputs_status: audience.md and swipe-file.md are live (built from real data); vo
 
 # Ideation Brief (The Analytical Athlete) — 2026-09-07
 
+## FOURTH REVISION, same day: the LinkedIn hook gets the full on-screen-text craft toolkit
+
+Luke's instruction: stop treating the LinkedIn headline as a separate,
+lesser system from the on-screen-text hooks already proven on IG/
+TikTok. "The headline are just words in order to make people read,
+want, and feel something" — the same job on-screen text does. Now
+permanent in `voice.md` and the ideate skill: every hook gets checked
+against HF6 (curiosity/pain/dream outcome/tangibility/whisper),
+P3 (CCN — Core/Casual/New), P21 (specificity beats reversal), P32
+(real ranked shapes: scenario-question, how-to-with-gain, borrowed-
+authority), P33 (one example is a device to rotate, never a template —
+already flagged twice in this system's history before today), P35/P60
+(the AI-slop rule, absolute, no carve-outs — this is where the "no
+it's-not-X-it's-Y" instruction actually already lived in `principles.md`
+before Luke had to repeat it here), and `ost-10-10-formats.md`'s
+power-word bank (one word per line, by job).
+
+The 6 ideas below demonstrate this directly: each names its device
+(P33's discipline) and CCN read, and no device repeats, unlike the
+ladder/research-citation-heavy Pillar 5 batch from the third revision.
+
+**Note: I don't have the "past LinkedIn templates" or the "Joey"
+example Luke referenced** — nothing was attached to that message.
+Proceeding on the swipe file's real posts (already analyzed for
+structure/CTA) plus the frameworks above; if there's a real file or
+example to share, it'll sharpen the next batch.
+
+## Ideas 11-16 — device-varied, CCN-tagged (added this revision)
+
+### Idea 11 — the scenario-question
+- **Hook:** "Have you ever had to stop mid-run to decide if that gel is coming back up?"
+- **Device:** scenario-question (P32 shape 1 — a real specific first-person moment, no mechanism explained yet).
+- **CCN:** Core recognizes this exact moment instantly. Casual has felt a milder version once or twice. New doesn't run, but the visceral specificity (a gel "coming back up") is graspable to anyone, curiosity carries them in.
+- **Body talking points:** Land on the moment, let it breathe. Reveal the mechanism (blood flow redirected from the gut under effort — same real claim already used in the fuelling-ladder script). Reframe: this is fixable with timing, not something to just tolerate. CTA.
+- **Research claim:** Same blood-flow mechanism already verified in `ideas/engine-room-nutrition/2026-09-05-script-fuelling-ladder.md`.
+- **Power word:** none needed — the plain image does the work, per HF6.
+- **AI-slop check:** clean, no reversal shape.
+
+### Idea 12 — the numbered taxonomy
+- **Hook:** "There are 3 fuelling mistakes that only show up after kilometre 30."
+- **Device:** numbered taxonomy (distinct from the ladder/progression device used last batch — this is a flat categorized list, not ranked levels).
+- **CCN:** Core wants to know if they make these 3. Casual is curious which apply to them. New gets pulled in by the specific "kilometre 30" marker even without running context.
+- **Body talking points:** Name the 3 (can reuse real ones from the fuelling-ladder script: fasted starts, late gel timing, single-source carb intake capping at 60g/hour). Reframe each briefly. CTA.
+- **Research claim:** Same SGLT1/GLUT5 material, reused, not new.
+- **Power word:** "kilometre 30" — job: set the bomb/name the moment.
+- **AI-slop check:** clean.
+
+### Idea 13 — the borrowed authority
+- **Hook:** "Sub-2:30 marathoners start taking on carbs at kilometre 5, not kilometre 20."
+- **Device:** named-tier/borrowed-authority (P32 shape 3, ost-10-10-formats.md's "borrow authority" word class: sub-2:30, elite).
+- **CCN:** Core will argue with or confirm this against their own splits. Casual is surprised by how early. New doesn't need to know what sub-2:30 means exactly, "elite runners do X differently" carries the curiosity alone.
+- **Body talking points:** State the practice as a known convention in elite/sub-elite fuelling protocols (not a single fabricated study — flag as general practice, verify the exact figure with Luke before publishing). Contrast with the common amateur habit of waiting until feeling depleted. Reframe: earlier, steadier intake, not more total volume. CTA.
+- **Research claim: NEEDS VERIFICATION.** This describes a general elite-fuelling convention consistent with the fuelling-ladder script's own protocol (intake from the start, not from the dip), but the specific "kilometre 5" figure isn't sourced to a named study — confirm the real number with Luke or soften to "early," not a precise marker, before publishing.
+- **Power word:** "sub-2:30" — job: borrow authority.
+- **AI-slop check:** clean.
+
+### Idea 14 — the confession
+- **Hook:** "Nobody admits they recalculate their finish time at kilometre 15. Almost everyone does it."
+- **Device:** confession/secret (ost-10-10-formats.md word class: nobody admits, quietly).
+- **CCN:** Core has done this exact math mid-race. Casual has done it once. New relates through the universal behavior (recalculating a deadline mid-task), not running knowledge specifically.
+- **Body talking points:** Name the behavior plainly. Unpack why it happens (early pacing data is the only real-time feedback a runner has). Reframe: this instinct is useful data, not a distraction, if it's fuelling a decision rather than just anxiety. CTA.
+- **Research claim:** None needed — behavioral observation, not a factual claim requiring a citation.
+- **Power word:** "nobody admits" — job: make it secret.
+- **AI-slop check:** clean, no reversal shape (states the behavior, then the true prevalence, not a corrected diagnosis).
+
+### Idea 15 — the effort-to-outcome gap
+- **Hook:** "Your easy-day heart rate predicts your last 10k better than your weekly mileage does."
+- **Device:** effort-to-outcome gap / counterintuitive claim (P32-adjacent, distinct from the taxonomy and ladder devices).
+- **CCN:** Core already tracks this and will engage on the specifics. Casual is surprised mileage isn't the answer. New understands "the easy days predict the hard ones" as a general principle even without training-zone knowledge.
+- **Body talking points:** State the claim. Explain the real mechanism: rising easy-pace heart rate over weeks signals accumulating fatigue/inadequate fuelling before a race exposes it. Reframe: mileage is an input, heart rate trend is a readout. CTA.
+- **Research claim: NEEDS VERIFICATION.** Aerobic decoupling / rising easy-day heart rate as an overtraining or under-fuelling signal is a real, established endurance-training concept, but confirm the specific claim and any figures with Luke or a real source before publishing as stated.
+- **Power word:** none — the comparison itself carries the specificity.
+- **AI-slop check:** clean.
+
+### Idea 16 — the money
+- **Hook:** "Most runners spend more on the race photo of themselves in pain at 35k than on the fuelling plan that would have prevented it."
+- **Device:** money/consequence (ost-10-10-formats.md's "the money — most literal painkiller," word class: costs you, comes back up).
+- **CCN:** Core winces, recognizes the exact photo. Casual has seen these photos of friends. New understands the money/priorities joke without any running knowledge at all.
+- **Body talking points:** Land the observation, let it sting a little. Pivot: what a real fuelling plan actually costs vs. what gets spent on race photos, merchandise, etc. Reframe toward prevention being cheap relative to what's already being spent. CTA.
+- **Research claim:** None needed — observational/behavioral, not a factual claim.
+- **Power word:** "in pain" — job: state the consequence.
+- **AI-slop check:** clean.
+
+## Batch-level device check (P33)
+
+Ideas 11-16: scenario-question, numbered taxonomy, borrowed-authority,
+confession, effort-to-outcome-gap, money — six distinct devices, none
+repeated. Combined with ideas 1-10 from earlier revisions (research-
+citation x2, first-person x2, ladder-adapted, negative-split, GI-
+distress/scenario-adjacent, RPE-format placeholder, unmeasured-
+variable question, race-vs-standup comparison), no single device
+exceeds roughly a quarter of the full 16-idea pool.
+
 ## THIRD REVISION, same day: Pillar 5 added, no AI-slop language, rebalanced mix
 
 Luke gave three more instructions after the second revision, now
