@@ -2346,16 +2346,62 @@ account. Real Instagram Insights:
    join. The ladder had levels four and five sitting right there and
    never promised them.
 
-### The instruction that follows
+### The instruction that follows — CORRECTED, see P66
 
-**Stop optimising the hook and start optimising the send.** The next
-video on the personal account should be built to be sent to one
-specific person, which is his own proven top shape (self-recognition,
-2,578) and the one shape neither recent video used. Saveable and
-sendable are different designs, and we have now proved we can do the
-first one.
+The first version of this said "optimise the send". Luke rejected it:
+comments and shares are not what he is building for, and the example
+given (a hobby-jogger archetype video) was mockery of a group of
+runners. **The objective function is follows, saves and watch time.**
+See P66.
 
 *Source: Luke, sharing full Reel insights on the ladder video.*
+
+## P66 — The objective function: follows, saves, watch time. Not comments, never mockery.
+
+Luke, on being handed a comment-driving and share-driving plan: *"I
+don't like the thought of getting more comments, getting irrelevant
+people to comment and say oh that's wrong, this is this. I don't
+really care. Follows, saves and watch time are the things I'd like to
+optimise for ultimately, because these are what drive good high
+quality followers."*
+
+**The ranking, in order: follows, then saves, then watch time.**
+Comments are not a goal, and a video is not better for provoking an
+argument. Rage bait and mockery of any group of runners are out
+entirely, which killed the hobby-jogger archetype idea. Nothing in
+either brand punches down at beginners, slow runners, or people
+carrying too much kit.
+
+### What that changes, mechanically
+
+Saves and watch time we can now produce on demand: two videos in a row
+did it (P56, P65). **Follows we have never produced at all. Zero on
+2,134 views.**
+
+The cause is structural, not tonal. **Both videos were complete.**
+Everything promised was delivered inside 90 seconds, so following added
+nothing. A viewer follows for one of three reasons:
+
+1. **An unresolved outcome.** A goal in progress they want to see the
+   end of. In our own outlier data this is the strongest format signal
+   we have: Ross Mackay's numbered series holds 9 of the top 25 slots
+   on a 1,492 baseline, and "Road to 2:45 EP8" and "RoadToLondon Ep 14"
+   both multiply.
+2. **A world, not a fact.** Pillar 3 is exactly this, and it is the
+   single biggest thing on the account: Benbulben at 148,000 against a
+   500-2,500 baseline, roughly sixty times.
+3. **A promise of more of the same specific thing**, named and
+   numbered so it is obviously repeatable.
+
+### The rule
+
+**Every video from here needs one unresolved thread.** Not a
+cliffhanger gimmick, a real next thing: the levels we did not cover,
+the next mountain, the outcome we do not know yet. A perfectly
+complete video is a saved video and a lost follower.
+
+*Source: Luke, correcting the optimisation target and rejecting
+mockery-based content.*
 
 ## Open questions for Luke
 
