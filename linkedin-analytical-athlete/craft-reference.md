@@ -150,6 +150,59 @@ stay or scroll based on — plain language for something they already
 half-want (a training concept, a real number, a named moment), not a
 coined insider term.
 
+## The minimum quality bar, taken from Luke's own winners
+
+**A headline that passes every other rule in this file and still reads
+as mild has failed.** Luke's verdict on a batch that was clean, plain,
+jargon-free and correctly pillared: "very boring, very bland, very
+mild... none of these would get past Briar Cochran." Correct on all
+counts. The rules below the line stop a headline being *bad*. This
+section is what makes one worth publishing.
+
+Four gates, taken from the posts that actually performed on this
+account:
+
+1. **Unguessable.** Can a reader work out the whole content from the
+   headline alone? If yes, kill it. "The best-selling product in
+   endurance sport was designed for a problem you don't have" (17,353
+   impressions) is unguessable twice over: which product, which
+   problem. "Have you ever ignored a stomach cramp on a long run?"
+   (rejected) gives away everything and asks for nothing.
+2. **Named and specific.** A number, a named thing, a coined term, a
+   kilometre marker. "60 grams an hour," "at 32k," "2 doors,"
+   "poor man's altitude." Vague intensifiers ("a second gear," "a
+   specific point," "one thing most people never check") are the tell
+   that the specificity was skipped, not the payoff for it.
+3. **Self-recognition: "this is so me."** Luke's own framing of the
+   target reaction: "oh shit, I have to read this because this is so
+   me." The reader has to see their own behaviour named, not a
+   generic runner's.
+4. **A cost for not reading.** Loss aversion in the tail. What does
+   staying ignorant of this cost them, and when do they find out?
+   "you find out at 32k" attaches a price. "It happens earlier than
+   you'd guess" does not.
+
+The three real shapes on this account that clear all four, worth
+returning to before inventing a new one:
+
+- **Superlative category plus direct accusation** — "The best-selling
+  product in endurance sport was designed for a problem you don't
+  have." Name a category the reader is already inside, then implicate
+  them.
+- **Flat credibility, then inverted confession** — "I've run more
+  ultra than 5K's, but the 5K is the one that frightens me the most."
+  Credential stated as fact with no boast, then an admission that
+  reverses what the credential implies.
+- **Coined reframe, five words** — "Heat is a poor man's altitude."
+  A borrowed, instantly-graspable concept applied somewhere new.
+
+And the scored-list skeleton, which is proven on Luke's own account
+(2,156 views) and clears all four gates by construction:
+`[10/10] [PRICE] [UNIT] [BRIDGE] [IDENTITY or OUTCOME]` — e.g.
+"10/10 signs you under-fuelled before a race (you find out at 32k)."
+The score implies curation, the price word signals costly substance,
+the unit is possessable, the tail names the moment the cost lands.
+
 ## CCN is a real test, not a label — and jargon fails it every time
 
 **Real failure case, 2026-09-07.** A batch included: "A single
