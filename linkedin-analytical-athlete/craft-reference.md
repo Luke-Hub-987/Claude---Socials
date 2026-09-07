@@ -150,6 +150,39 @@ stay or scroll based on — plain language for something they already
 half-want (a training concept, a real number, a named moment), not a
 coined insider term.
 
+## CCN is a real test, not a label — and jargon fails it every time
+
+**Real failure case, 2026-09-07.** A batch included: "A single
+training session raises oxygen delivery to your brain for hours
+afterward, not just your legs." Luke's verdict: "too sciencey, too
+jargony... Core, maybe. Casual? No. New? No, they'd be like, what is
+all that stuff?" This hook was *tagged* with a CCN read, but never
+actually tested against a New reader's ear — it reads like a fact
+lifted from a journal abstract, not a hook. That's the actual failure
+mode to check for every time, not just "did I write a CCN line."
+
+**What passed instead, same batch:** "Most runners fuel a marathon in
+2 stages: too little, then too late." And: "Runners spend more on a
+finish-line photo than on the fuelling plan that would have changed
+what that photo looked like." Neither uses a single technical word.
+Both use a concrete, visualizable image or a plain numbered structure.
+Both have an ironic or surprising sting. Neither requires the reader to
+already know what a "pathway," "oxygen delivery," or any physiology
+term means.
+
+**The actual test, every hook, every time:** could someone with zero
+interest in exercise science read this and still feel the pull? If the
+hook needs the reader to already find physiology interesting to work,
+it has failed New (and probably Casual too), no matter how accurate or
+well-sourced it is. **Translate the mechanism into a concrete image or
+plain behavioral observation before it goes anywhere near a hook** —
+save the actual scientific term, if any, for the body copy, never the
+opening line. "Blood flow leaves your stomach for your legs" is
+jargon-adjacent; "your stomach quietly gives up" is the same fact in a
+sentence anyone would feel. This is the single most common way a
+technically-correct, well-sourced hook still reads as "absolute shit"
+(Luke's words) — accuracy is necessary but nowhere near sufficient.
+
 ## Power-word bank
 
 Words are not decoration — each does one structural job. **One power

@@ -59,22 +59,23 @@ anyway but note in the brief which inputs are unconfirmed.
 ## Argument handling
 
 If an argument was passed (e.g. `/ideate-analytical-athlete
-career-capacity`), use it as a focus filter — all 10 ideas serve that
-pillar. Otherwise spread across pillars per the mix guidance in
-`brand/pillars.md`.
+fuelling`), use it as a focus filter — all 10 ideas serve that pillar.
+Otherwise spread across pillars per the mix guidance in
+`brand/pillars.md` (Pillar 1 is retired, do not generate for it under
+any argument).
 
 ## Prefer swipe-file citations over new research
 
-When a Pillar 1/2 idea needs an external-subject anchor (a study, a
+When a Pillar 2 idea needs an external-subject anchor (a study, a
 named example), **check `brand/swipe-file.md` for a citation already
-proven with this audience before reaching for new research**. The
-S&P 1500 marathon-CEO study names three explanations (stress
-tolerance, long-term thinking, recovery discipline) in one line each —
-each unused facet of an already-proven citation is a legitimate new
-idea. Only bring in genuinely new research (verified via WebSearch,
-never fabricated, clearly flagged as untested with this audience) once
+proven with this audience before reaching for new research**. Only
+bring in genuinely new research (verified via WebSearch, never
+fabricated, clearly flagged as untested with this audience) once
 already-proven citations are exhausted, and say explicitly it's new
-when you do.
+when you do. **Whatever the source, translate it into a plain, concrete
+image before it goes in a hook — see `craft-reference.md`'s "CCN is a
+real test" section. A technically accurate, well-sourced hook that
+still reads as jargon has failed, full stop.**
 
 ## Step 1 — Mine the swipe file and craft-reference for patterns
 
@@ -116,12 +117,13 @@ dominates, swap some ideas for a different device from
 
 ### Mix (default, no argument passed)
 
-Per `brand/pillars.md`'s mix guidance (3 Pillar 1, 4 Pillar 5, 1 each
-of Pillars 2-4 as of 2026-09-07 — check the file for the current
-numbers since this may be revised). An other-person's-story idea
-(Pillar 1 or 4) needs a real, specific, named research citation
-underneath it, not just an anecdote about someone famous. A Pillar 4
-idea built on Luke's own race/result/lived detail is always safe.
+**Pillar 1 is retired — never generate it, under any argument or
+framing.** Per `brand/pillars.md`'s mix guidance: Pillar 5 carries most
+of every batch, Pillars 2-4 fill the rest in small, roughly equal
+shares (check the file for current numbers). A Pillar 4 (personal
+proof-of-concept) idea built on Luke's own race/result/lived detail is
+always safe, but must be pure running/athletic content — no career,
+employer, or work references, even incidental ones.
 
 ### Hard rules
 
@@ -145,16 +147,23 @@ idea built on Luke's own race/result/lived detail is always safe.
   "it's not X, it's Y," "X isn't Y, it's Z") is banned outright, in any
   form, including a "corrected" version where the twist just moves one
   clause later. Check every hook against this before finalizing.
+- **No jargon/sciencey hooks, absolute** — see `craft-reference.md`'s
+  "CCN is a real test" section, added after Luke rejected a batch on
+  exactly this ("too sciencey, too jargony... New? No, they'd be like,
+  what is all that stuff"). If a hook needs the reader to already find
+  the underlying science interesting, translate it into a plain,
+  concrete image before it goes anywhere near the opening line, or
+  drop it.
 - **Every idea ends in a real, named CTA** with a current subscriber
   count. Never "link in bio," never omitted.
 - **No two ideas share the same underlying mechanism/device** as each
   other or as an existing swipe-file post.
 - **Every idea traces to a real precedent** or is explicitly flagged
   as an untested stretch idea.
-- **P1-style test (TAM/unique/money):** does this idea connect to
-  either the career-capacity bridge (Pillar 1) or real runner pain
-  points that make someone a qualified lead for the carb bar
-  (Pillar 5)? Both are valid per `brand/audience.md`.
+- **P1-style test (TAM/unique/money):** does this idea connect to real
+  runner pain points that make someone a qualified lead for the carb
+  bar? See `brand/audience.md`. (The career-capacity bridge is
+  retired — see Pillar 1's status in `brand/pillars.md`.)
 
 ## Step 3 — Write the brief
 
