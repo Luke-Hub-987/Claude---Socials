@@ -36,15 +36,26 @@ bridge), not a bare namedrop. Pillar 4 guidance is corrected below.
   The core, highest-performing pillar. A contrast or narrative that
   reframes training discipline as the thing that quietly determines
   professional outcomes over years — never a training tip on its own.
-  Examples: **"Companies led by marathon-running CEOs are worth
-  measurably more" (65,693 phone-verified impressions, 175 link
-  clicks — the strongest real performance in the account's history)**,
-  "Same intake, same bonus, one leaves at 5:30" (2,736 impressions),
-  "I'll get fit once work calms down" (1,011), "The executive/CEO you
-  pictured isn't the one closing deals anymore" (475), "By 4pm your
-  brain is running on whatever oxygen this morning's training sent it"
-  (700). This is the pillar that most directly matches the audience
-  (see `audience.md`) — write more of this than anything else.
+  **REVISED 2026-09-07 per Luke's direct instruction: the "two
+  colleagues at a firm diverge" device (as in "Same intake, same
+  bonus") is retired going forward** — see `audience.md`'s
+  employer-safety note (Luke is Associate Director at Grant Thornton,
+  a real employer in his own follower base; even a fictional
+  colleague-comparison reads as commentary on real coworkers). The
+  model to build from now is **"Companies led by marathon-running
+  CEOs are worth measurably more" (65,693 phone-verified impressions,
+  175 link clicks — the strongest real performance in the account's
+  history)** — external, named, checkable subjects (companies,
+  executives, published research), or Luke's own first-person
+  experience. Also apply `audience.md`'s painkiller-not-vitamin test:
+  name the reader's already-felt dread before the mechanism, not just
+  a nice stat. Other examples still valid under the revised device:
+  "I'll get fit once work calms down" (1,011, first-person-adjacent,
+  painkiller-shaped), "By 4pm your brain is running on whatever oxygen
+  this morning's training sent it" (700, painkiller-shaped). "The
+  executive/CEO you pictured isn't the one closing deals anymore"
+  (475) still works as written (named real example, Ross Mackay, not a
+  fictional coworker).
 
 - **Pillar 2: Research-backed performance science.** A real study or
   number, translated into what it means for a working professional's

@@ -42,6 +42,44 @@ This is **not** a running/fitness audience that happens to have day jobs — it 
 - Watching peers who look identically positioned diverge in outcomes over years, without a clear mechanism for why.
 - Skepticism that "wellness" content applies to someone in a genuinely demanding, billable-hours career — this audience will tune out anything that reads as generic productivity-guru fluff (see `voice.md` hard rules).
 
+## Employer-safety constraint (confirmed by Luke, 2026-09-07)
+
+Luke is Associate Director, International Tax at Grant Thornton
+Ireland — and Grant Thornton Ireland is itself one of the top
+companies in his own follower base (see demographics above). **Never
+build content around a fictional or composite "two colleagues/two
+trainees at a firm" comparison device**, even when clearly intended as
+generic. It reads as commentary on real coworkers to an audience that
+includes his actual partners, bosses, and trainees, and creates real
+professional risk regardless of intent ("sets a bad tone," his words).
+This retires the narrative device behind "Same intake, same bonus" —
+that specific post already exists and can't be unpublished, but do not
+build new ideas on that mechanism. Pillar 1 content should be built on
+**external, named, checkable subjects** (companies, executives,
+published research — the "Companies led by marathon-running CEOs"
+model) or **Luke's own first-person experience** (safe, since it's
+self-directed, not about real identifiable colleagues).
+
+## Painkiller, not vitamin (confirmed by Luke, 2026-09-07)
+
+Luke wants this brand's content to move away from "vitamin" framing
+(a nice-to-have benefit the reader wasn't asking about) toward
+"painkiller" framing (naming a real, already-felt, acute problem
+first, then showing training/discipline as the relief). Test before
+finalizing any hook: **does it name something the reader already
+consciously dreads or resents right now**, before offering the
+mechanism? If the hook only describes a nice hypothetical upside
+("here's a stat about CEOs"), it's still vitamin-shaped even if
+well-crafted. Worth being honest about a tension here: the
+best-performing post in the account's history by reach ("Companies led
+by marathon-running CEOs," 65,693 impressions) is actually vitamin-
+shaped by this test, not painkiller. That doesn't mean painkiller
+framing is unproven, reach and signup-conversion quality aren't
+necessarily the same goal, and Luke may be trading some reach for a
+more qualified signup, which is a legitimate strategic choice, but it's
+worth being explicit that this is a positioning decision, not something
+the existing data already proved.
+
 ## Why they'd follow this account specifically over a generic fitness/productivity creator
 
 Luke is a credible peer, not an outside influencer: ACA/CTA-qualified, in the same firms and career track as the audience, who also races ultras and marathons at a competitive amateur level while working full time. The credibility beat is "I am one of you and I also do this," not "let me teach you fitness."

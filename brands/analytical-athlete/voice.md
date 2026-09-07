@@ -141,6 +141,20 @@ training discipline directly into career/professional capacity.
 
 ## Hard rules
 
+- **Never build a hook around a fictional/composite "two colleagues or
+  trainees at a firm diverge" comparison** (2026-09-07, Luke direct).
+  He's Associate Director at Grant Thornton, which is itself a top
+  employer in his own follower base — this device reads as commentary
+  on real coworkers even when clearly meant as generic, and creates
+  real professional risk. Use external, named, checkable subjects
+  (companies, executives, published research) or Luke's own
+  first-person experience instead. See `pillars.md` and
+  `audience.md`.
+- **Painkiller, not vitamin** (2026-09-07, Luke direct): lead every
+  hook with something the reader already consciously dreads or
+  resents, not a nice hypothetical upside. See `audience.md` for the
+  test and the honest caveat that the account's best-reach post is
+  actually vitamin-shaped by this test.
 - No em-dashes (universal rule, `voice-rules.md`).
 - No generic productivity-guru language ("unlock your potential,"
   "10x your output," "hustle") — this audience is senior/skeptical

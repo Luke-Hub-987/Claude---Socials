@@ -111,6 +111,21 @@ test to pass.
 
 ### Hard rules
 
+- **Never build a hook around a fictional/composite "two colleagues or
+  trainees at a firm diverge" comparison** (retired 2026-09-07, Luke
+  direct — he's Associate Director at Grant Thornton, a top employer
+  in his own follower base per `audience.md`; even fictional coworker
+  comparisons read as real commentary and carry professional risk).
+  Use external, named, checkable subjects (companies, executives,
+  research) or Luke's own first-person experience instead.
+- **Painkiller, not vitamin** (2026-09-07, Luke direct): every hook
+  should name something the reader already consciously dreads or
+  resents before offering the mechanism, not just a nice hypothetical
+  upside. See `audience.md`'s test and its honest caveat that the
+  account's best-reach post is itself vitamin-shaped — this is a
+  deliberate positioning choice, not something reach data already
+  proved, so don't oversell it as "what the data says" when pitching
+  ideas back to Luke.
 - **No fabricated research claims.** If `research_claim` can't be
   traced to something real, mark it "NEEDS REAL CITATION" per the
   schema above and do not present it as an established fact in
