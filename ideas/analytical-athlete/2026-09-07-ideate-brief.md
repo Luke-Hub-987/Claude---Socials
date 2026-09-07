@@ -31,9 +31,16 @@ forward, not just to this brief — both are now hard rules in
    existing data already proved works better. Watch the next few
    posts' click-through rate specifically to see if it holds up.
 
-The replacement ideas 1-4 below cite real research, verified by live
-web search this session (sources linked), not fabricated — see each
-idea's Research claim field.
+The replacement ideas 1-4 below originally cited new research I found
+via live web search — real and verified, but never tested with this
+audience, and not something Luke had actually posted. **Second
+revision, same day: Luke pushed back on that too** — he wants ideas
+grounded in what his own posts have already proven, not new external
+research he's never used. Ideas 1-3 below are rewritten again, this
+time built only from citations and examples that already exist inside
+his own top-performing posts (`swipe-file.md`), nothing new introduced.
+Idea 4 stays as first-person narrative, which never needed outside
+research in the first place.
 
 ## How to use this brief
 
@@ -43,51 +50,46 @@ comparison, study, or story Luke already posted. Three ideas (3, 6, 9)
 carry an explicit flag before they're publishable as-is — read those
 notes, they're not optional polish.
 
-## Idea 1 (REPLACED) — The cortisol study
+## Idea 1 (REPLACED AGAIN) — The recovery-discipline facet of your own best post
 
 - **Pillar:** 1 (training-as-career-capacity)
-- **Hook:** "A 2018 study tracked cortisol in senior executives for a year. The ones under chronic pressure showed measurable decline in the exact part of the brain responsible for judgment and impulse control."
+- **Hook:** "The marathon-running-CEO study didn't find that training made them tougher. It found the strongest predictor was how deliberately they recovered."
 - **Body talking points:**
-  - Open with the finding, not a training tip — this is the painkiller: the reader has already suspected their judgment gets worse under sustained pressure, this names it directly.
-  - Explain the mechanism briefly: chronically elevated cortisol linked to reduced prefrontal cortex function (planning, judgment, impulse regulation).
-  - Bridge to the fix: separate research shows a 12-week structured aerobic training program returned burned-out subjects' executive function to healthy-control levels.
-  - Reframe, second person: "The decision you second-guess at 11pm isn't a you problem. It's a recovery problem."
+  - This is the same S&P 1500 study already in your best-performing post ("Companies led by marathon-running CEOs," 65,693 impressions) — that post listed three explanations in one line each (stress tolerance, long-term thinking, recovery discipline) and moved on. This idea goes deep on just the third one, which the original never unpacked.
+  - Painkiller framing: name the real fear directly — most senior professionals treat rest as the thing that happens when everything else is done, which means it never happens.
+  - Reframe: recovery discipline (planned, non-negotiable) is what separates people who sustain output for decades from people who burn out chasing it.
   - Transition to CTA.
-- **Research claim:** Real, verified this session via web search. A 2018 study in *Psychoneuroendocrinology* measured cortisol in senior executives over 12 months and found chronically elevated cortisol associated with measurable reductions in prefrontal cortex function. Separately, burnout-and-cognition research (Frontiers in Psychiatry / PMC) shows a 12-week supervised aerobic program returned executive function to healthy-control baseline in burnout patients. Confirm the exact study titles/authors before publishing — I have the finding from search results, not the original paper, so verify before quoting specifics like sample size.
+- **Research claim:** Same S&P 1500 marathon-CEO study already cited and proven in your own top-performing post — no new source introduced, just a deeper cut of a citation your audience has already responded to.
 - **CTA:** "The Analytical Athlete goes out weekly. Join 160+ professionals who train seriously and want the research behind what it's doing to their career: [link]" (160+ is the 7/12/2026 figure — confirm the current count before publishing.)
-- **Voice match:** Research-citation-as-credibility (voice.md's core device), no coworker comparison, painkiller-first structure.
-- **Swipe-file precedent:** Same external-research-citation model as "Companies led by marathon-running CEOs" (4/26/2026) — different study, avoids repeating the same citation.
-- **Briar principle:** P1 (TAM/unique/money) — direct career-capacity bridge.
+- **Voice match:** Research-citation-as-credibility, same real study, no coworker comparison.
+- **Swipe-file precedent:** Directly extends "Companies led by marathon-running CEOs are worth measurably more" (4/26/2026) — not a new study, a new angle on the one already proven.
 
-## Idea 2 (REPLACED) — The executive depression rate
-
-- **Pillar:** 1
-- **Hook:** "26% of executives report symptoms consistent with clinical depression. That's not a wellness statistic. That's one in four of the people in the room at your next partner meeting."
-- **Body talking points:**
-  - Lead with the real number, stated plainly, no softening.
-  - Contrast: 18% in the general workforce — this population is measurably worse off, not better, despite outward success.
-  - Reframe: the outward markers of "making it" (title, pay, client list) don't protect against this, and may actively work against recovery (harder to admit, harder to step back).
-  - Position training as one of the few levers a senior professional can control directly, without needing permission or a career change.
-  - Transition to CTA.
-- **Research claim:** Real, verified this session via web search — Journal of Occupational Health Psychology reporting 26% of executives with symptoms consistent with clinical depression vs. 18% in the general workforce. Confirm the original citation/methodology before publishing a specific percentage as fact.
-- **CTA:** Same as Idea 1.
-- **Voice match:** Blunt, specific-number opener per voice.md's "real numbers, never rounded" device.
-- **Swipe-file precedent:** Same external-research model as marathon-CEOs, different study.
-
-## Idea 3 (REPLACED) — The invisible metric on the scorecard
+## Idea 2 (REPLACED AGAIN) — The long-term-thinking facet of the same study
 
 - **Pillar:** 1
-- **Hook:** "A decade-long study of 1,500 executives found CEO physical fitness was tied to higher firm profitability and stronger M&A returns. Nobody puts that on a performance review."
+- **Hook:** "The same study found marathon training selects for a specific kind of patience. The kind most quarterly-results cultures actively punish."
 - **Body talking points:**
-  - Open with the real, specific, checkable study finding.
-  - Reframe as painkiller: the pain isn't "wouldn't it be nice if fitness helped" — it's "this variable is already shaping outcomes around you and nobody told you."
-  - Second person: "You're already being measured against people who have this advantage, whether or not you can see it."
+  - Same S&P 1500 study again, this time the "long-term thinking / delayed gratification" explanation — the second of the three the original post named but didn't develop.
+  - Painkiller: name the tension directly — the audience is rewarded quarter to quarter, but the traits that actually compound (patience, sustained effort with no visible payoff for months) get no credit in that cycle.
+  - Reframe: marathon training is a rare space where that patience is practiced without needing anyone's permission or a system that rewards it.
   - Transition to CTA.
-- **Research claim:** Real, verified this session via web search — Limbach and Sonnenburg (2015), a decade-long study of roughly 1,500 executives, found CEO physical fitness associated with higher firm profitability and higher M&A announcement returns. Confirm exact figures/journal before quoting precisely.
+- **Research claim:** Same S&P 1500 study — no new source, second unused facet of an already-proven citation.
 - **CTA:** Same as Idea 1.
-- **Swipe-file precedent:** Same device as marathon-CEOs, a different real study — don't run this in the same batch as Idea 1/2 above without spacing them out, three research-citation posts in a row risks feeling repetitive even with different studies.
+- **Swipe-file precedent:** Same as Idea 1 — don't run Ideas 1 and 2 back to back, space them out even though they're both grounded in real, proven material, since they cite the identical study.
 
-## Idea 4 (REPLACED) — Luke's own first-person admission
+## Idea 3 (REPLACED AGAIN) — First-person, templated for Luke to fill with a true detail
+
+- **Pillar:** 1
+- **Hook:** "The year I [made a specific career milestone — promotion, a big client win, qualifying], I also had my [worst/most inconsistent] training block in years, and didn't notice until [someone/something] pointed it out."
+- **Body talking points:**
+  - This is a template, not a finished hook — I don't have a real detail to fill it with, and inventing one would be exactly the kind of fabricated personal claim the hard rules exist to prevent.
+  - If a real instance of this pattern exists in Luke's actual history (a career win that coincided with a training dip he didn't notice at the time), it's a strong, fully safe (first-person, no coworkers, no unproven research) painkiller hook: the pain is "I didn't even notice my own decline because I was winning at work."
+  - If no real instance exists, drop this idea rather than force a fictional one.
+- **Research claim:** None needed — first-person only.
+- **CTA:** Same as Idea 1.
+- **Swipe-file precedent:** Same first-person-admission model as "I've run more ultra than 5K's" and "I'll get fit once work calms down" — needs Luke's real input to become a real idea, not a finished post.
+
+## Idea 4 — Luke's own first-person admission
 
 - **Pillar:** 1
 - **Hook:** "I used to tell myself the fatigue was just what your thirties in tax feel like. It wasn't age. It was eleven months without a single hard session."
@@ -184,30 +186,35 @@ notes, they're not optional polish.
 - **CTA:** Same as Idea 1.
 - **Swipe-file precedent:** "3,000 people finished the full Cork City Marathon last Sunday" (6/7/2026, currently in the "mid-tier, unreliable xlsx data" table) — reuses the real event, new angle (workplace-anxiety comparison, not a race report).
 
-## Notes on this batch (updated after the revision)
+## Notes on this batch (updated after the second revision)
 
-- **Ideas 1-4 were fully replaced** — the originals used the now-
-  retired two-colleagues-diverge device. Replacements use real,
-  externally-sourced research (verified via web search this session:
-  a 2018 *Psychoneuroendocrinology* cortisol study, a Journal of
-  Occupational Health Psychology depression-rate stat, and Limbach &
-  Sonnenburg's 2015 CEO-fitness/firm-value study) or Luke's own
-  first-person experience. **Confirm exact citation details (authors,
-  sample sizes, journal) before publishing** — these were found via
-  search summaries, not the original papers.
+- **Ideas 1-4 have now been through two revisions.** First pass used
+  the retired two-colleagues device. Second pass swapped in new
+  external research Luke had never posted (cortisol study, depression
+  stat, Limbach & Sonnenburg) — real, verified, but untested with this
+  audience, which Luke correctly flagged as not what he asked for.
+  **Current version (1-3) uses only the S&P 1500 marathon-CEO study
+  already proven in his own best-performing post**, mining its two
+  unused explanations (recovery discipline, long-term thinking) as
+  separate posts, plus one first-person template (3) that needs a real
+  detail from Luke, not an invented one. Idea 4 was untouched by either
+  revision — first-person narrative never needed outside research.
+- **Lesson for future batches, now in the ideate skill:** when Pillar 1
+  needs an external-subject anchor, check `swipe-file.md` for an
+  already-proven citation first, and mine unused facets of it, before
+  reaching for new research Luke has never tested with this audience.
 - **Ideas 5 and 6 had their hooks revised** to lead with the reader's
   already-felt pain rather than the tip/stat itself, and Idea 6 was
   reworded to stop personifying "two advisers" closely enough to risk
   reading as the retired device.
 - **Idea 4 and Idea 9 need Luke's own fact-check** on a personal detail
   (the "eleven months," the ultra-vs-CTA-exam comparison) before
-  publishing.
+  publishing. **Idea 3 needs Luke to supply the real detail outright**
+  — it's a template, not a finished idea.
 - **Idea 10 needs a repetition check** — it revisits a real event Luke
   already posted about once.
-- **Running three research-citation posts back to back (1, 2, 3)
-  within one publishing cadence risks feeling repetitive** even though
-  each cites a different study — space them out rather than posting in
-  sequence.
+- **Ideas 1 and 2 cite the identical study** — don't post them back to
+  back even though both are fully grounded in proven material.
 - Still open, not blocking this batch but worth closing before the
   next one: the Claude Project "what works well" summary, a real
   LinkedIn competitor list, and confirmation of the two-panel image

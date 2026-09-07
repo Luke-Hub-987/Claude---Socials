@@ -63,6 +63,21 @@ pillar. Otherwise spread across pillars per the mix guidance in
 `pillars.md` (currently 4/2/2/2 favoring Pillar 1, career-capacity
 narrative).
 
+## Prefer swipe-file citations over new research (2026-09-07, Luke direct)
+
+When a Pillar 1/2 idea needs an external-subject anchor (a study, a
+named example), **check `swipe-file.md` for a citation already proven
+with this audience before reaching for new research**. The S&P 1500
+marathon-CEO study in "Companies led by marathon-running CEOs" names
+three explanations (stress tolerance, long-term thinking, recovery
+discipline) in one line each — each unused facet of an already-proven
+citation is a legitimate, un-fabricated new idea. Only bring in
+genuinely new research (verified via WebSearch, never fabricated, and
+clearly flagged as untested with this audience) once the already-
+proven citations are exhausted, and say explicitly that it's new/
+untested when you do — don't present it as equivalent to proven
+material.
+
 ## Step 1 — Mine the swipe file for patterns, not just topics
 
 Per P16-style discipline (spend real effort on topic/angle selection
