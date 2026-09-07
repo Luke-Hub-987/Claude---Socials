@@ -1,0 +1,167 @@
+---
+name: ideate-analytical-athlete
+description: Generate 10 LinkedIn post ideas for The Analytical Athlete (Luke's LinkedIn/newsletter brand), grounded in his own swipe file of real top-performing posts rather than competitor scraping, ending every idea in a newsletter CTA.
+argument-hint: "[optional: pillar name or topic to focus on]"
+allowed-tools: Read Write Bash(date *)
+---
+
+You are running the ideation pipeline for **The Analytical Athlete**
+(Luke's LinkedIn brand). This is structurally different from
+`/ideate-personal` and `/ideate-ern`: there is no video, no competitor
+outlier-scraping pipeline for LinkedIn in this repo, and the goal
+metric is newsletter signups feeding a future paid offer, not
+reach/views for their own sake. Every idea's fuel comes from Luke's own
+`swipe-file.md` — what has actually worked for this exact account — not
+from scraped outliers.
+
+## Pre-flight: load context
+
+Read these in order. If `brands/analytical-athlete/*.md` files are
+still `status: draft` with unresolved "Open" items, continue anyway but
+note in the brief which inputs are unconfirmed — don't block on it the
+way `/ideate-personal` blocks on missing `_pending_` files, since this
+brand's docs start populated from real data rather than empty.
+
+1. `brands/analytical-athlete/swipe-file.md` — MANDATORY, read FIRST
+   and read in full. This is the actual evidence base: which posts
+   worked, their full text, the pre/post-pivot contrast, and the
+   flagged underperforming pattern (celebrity namedrops without Luke's
+   own angle). Every idea should be traceable to a pattern in here.
+2. `brands/analytical-athlete/voice.md` — the line-by-line "slippery
+   slide" mechanic, the Justin Welsh post structure, the "engine"
+   metaphor, hard rules.
+3. `brands/analytical-athlete/pillars.md` — the 4 pillars and mix
+   guidance.
+4. `brands/analytical-athlete/audience.md` — ICP (finance/professional-
+   services, senior/director-level, Dublin/London). This is NOT the
+   same audience as `brands/personal/audience.md` — do not import that
+   file's assumptions.
+5. `brands/analytical-athlete/competitors.md` — named style references
+   (Justin Welsh, Ogilvy/Caples) and any LinkedIn URLs Luke has since
+   given for manual reference.
+6. `voice-rules.md` — universal rules (no em-dashes, no hedging, no
+   corporate filler — note LinkedIn is exactly the platform this rule
+   is guarding against).
+7. `principles.md` — P1 (TAM/unique angle/money) and P2
+   (counter-positioning) apply directly and are worth citing. Treat
+   the rest of that file with judgment: it was built for short-form
+   video (on-screen text, watch-time, skip-rate) and much of it
+   (HF-series in `hook-frameworks.md` especially) doesn't translate to
+   a LinkedIn text post's mechanics. Don't force a video-specific
+   framework citation onto a LinkedIn idea just to fill the field.
+
+## Argument handling
+
+If an argument was passed (e.g. `/ideate-analytical-athlete
+career-capacity`), use it as a focus filter — all 10 ideas serve that
+pillar. Otherwise spread across pillars per the mix guidance in
+`pillars.md` (currently 4/2/2/2 favoring Pillar 1, career-capacity
+narrative).
+
+## Step 1 — Mine the swipe file for patterns, not just topics
+
+Per P16-style discipline (spend real effort on topic/angle selection
+before wording): for each of the 10 top full-text posts in
+`swipe-file.md`, identify the underlying **mechanism**, not the
+surface topic. E.g. "Same intake, same bonus" isn't a post about
+running, it's the pattern "two identically-positioned people, one
+small compounding choice, shown at a 3-year time delta." Reuse the
+*mechanism* on a new specific instance, never reuse the exact same
+scenario Luke already published.
+
+## Step 2 — Generate 10 ideas
+
+Per-idea schema:
+
+```yaml
+- id: 1
+  pillar: <Pillar 1-4, from pillars.md>
+  hook: <MANDATORY. The literal opening 1-3 lines as they'd appear before LinkedIn's "see more" cutoff. This is the equivalent of the on-screen-text hook in the other brands' schemas — it IS the headline here, there's no separate visual layer. Must be a single sharp claim or contrast, per voice.md's post-structure model, never a scene-setter or a question that needs the reader to already care>
+  body_talking_points: <3-6 short bullets in the line-by-line "slippery slide" order: hook -> mechanism/research citation -> reframe onto reader's own life, 2nd person -> transition to CTA. Talking points to riff on when actually writing the post (P19-style), not a verbatim script>
+  research_claim: <Any specific number/study the idea leans on, with its source. If genuinely sourced (from research/ files in this repo, or something Luke has explicitly told you), cite it. If no real source exists yet, write "NEEDS REAL CITATION — do not publish until sourced" instead of inventing one. Never fabricate a study or statistic, this is a hard rule, see below>
+  cta: <The newsletter close, naming "The Analytical Athlete" and the current subscriber count from swipe-file.md's "Newsletter growth" section (use the latest figure, note it'll be stale by publish time and Luke should update it)>
+  voice_match: <one line citing which voice.md device this uses: the engine metaphor, direct 2nd-person address, a PS-line secondary hook, etc.>
+  swipe_file_precedent: <MANDATORY. Which real post in swipe-file.md this idea's mechanism is modeled on, by date/title. If it can't be traced to a real precedent, it's a stretch idea — say so explicitly rather than pretending it's proven>
+  briar_principle: <P1 or P2 from principles.md if genuinely applicable, otherwise omit the field rather than forcing a citation>
+```
+
+### Mix (default, no argument passed)
+
+Per `pillars.md`: 4 Pillar 1 (career-capacity narrative), 2 Pillar 2
+(research-backed performance science), 2 Pillar 3 (practical training
+protocols), 2 Pillar 4 (personal proof-of-concept). Within Pillar 4,
+do NOT produce a celebrity-namedrop-only idea (Bezos/Branson/Ramsay-
+style, someone else's story with no Luke-specific angle) — the swipe
+file shows this is the one pattern in the post-pivot era that
+underperformed everything else. A Pillar 4 idea needs Luke's own race,
+result, or lived detail as the anchor.
+
+### Hard rules
+
+- **No fabricated research claims.** If `research_claim` can't be
+  traced to something real, mark it "NEEDS REAL CITATION" per the
+  schema above and do not present it as an established fact in
+  `body_talking_points`. This matters more here than in the other
+  brands: the entire voice is built on citing real numbers as the
+  credibility mechanism (see `voice.md`), so a fabricated stat isn't
+  just risky, it breaks the actual thing that makes this voice work.
+- **No em-dashes**, no corporate filler ("unlock your potential,"
+  "let's dive in") per `voice-rules.md` — LinkedIn is exactly the
+  platform this rule exists to guard against.
+- **Every idea ends in a real, named CTA** to The Analytical Athlete
+  newsletter with a subscriber count. Never "link in bio," never
+  omitted.
+- **No two ideas share the same underlying mechanism** as each other
+  or as an existing swipe-file post — riff on the pattern, don't repeat
+  the scenario.
+- **Every idea traces to a `swipe_file_precedent`** or is explicitly
+  flagged as an untested stretch idea.
+- **P1 test (TAM/unique/money):** does this idea's angle actually
+  connect back to the training-as-career-capacity bridge, or is it
+  just a running tip with a LinkedIn wrapper? If it's the latter, it's
+  competing with `brands/personal/` content for a completely different
+  audience and probably belongs there instead.
+
+## Step 3 — Write the brief
+
+Get today's date (`date +%Y-%m-%d`). Write to
+`ideas/analytical-athlete/<date>-ideate-brief.md`:
+
+```yaml
+---
+type: ideation-brief
+brand: analytical-athlete
+generated_at: <full timestamp>
+focus: <argument value or "all-pillars">
+pillars_covered: [list]
+inputs_status: <note which brands/analytical-athlete/*.md files were still draft/had open items>
+---
+
+# Ideation Brief (The Analytical Athlete) — <date>
+
+## Ideas
+
+### Idea 1 — <short title>
+
+- **Pillar:** ...
+- **Hook:** "..."
+- **Body talking points:** ...
+- **Research claim:** ... (or "NEEDS REAL CITATION")
+- **CTA:** ...
+- **Voice match:** ...
+- **Swipe-file precedent:** ...
+- **Briar principle (if applicable):** ...
+
+[... repeat for ideas 2-10 ...]
+```
+
+Also print a clean readable summary to the terminal.
+
+## Step 4 — Wrap up
+
+Tell Luke: the path to the brief, how many ideas per pillar, how many
+carry an unresolved "NEEDS REAL CITATION" flag (these need his input
+before they're publishable, not just a rewrite), and to star the 3-5
+he'd actually write up. If any `brands/analytical-athlete/*.md` inputs
+are still draft, remind him `/onboard-analytical-athlete` will close
+those gaps for a stronger next batch.
