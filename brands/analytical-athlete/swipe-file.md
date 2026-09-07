@@ -73,19 +73,65 @@ don't invent a separate "Analytical Athlete" product.
 
 ## Real per-post analytics (phone-verified, most reliable data in this file)
 
-| Post | Impressions | Profile viewers | Followers gained | Reactions | Comments | Link clicks (fuel-1) |
-|---|---|---|---|---|---|---|
-| "Companies led by marathon-running CEOs..." (4/26/2026) | 65,693 | 222 | 7 | 176 | 10 | 175 |
-| "Same intake. Same bonus..." (6/11/2026) | 2,737 | 11 | 1 | 7 | 0 | 12 |
+| Post | Impressions | Members reached | Profile viewers | Followers gained | Reactions | Comments | Link clicks (fuel-1) | Click-through |
+|---|---|---|---|---|---|---|---|---|
+| "Companies led by marathon-running CEOs..." (4/26/2026) | 65,693 | – | 222 | 7 | 176 | 10 | 175 | 0.27% |
+| "I've run more ultra than 5K's..." (7/12/2026) | 8,115 | 5,586 | 96 | 1 | 33 | 2 | 34 | 0.42% |
+| "Same intake. Same bonus..." (6/11/2026) | 2,737 | 1,753 | 10-11 | 0-1 | 7 | 0 | 4-12* | 0.15-0.44%* |
+| "I'll get fit once work calms down..." (6/18/2026) | 1,011 | 697 | 10 | – | – | – | – | – |
+| Likely "3,000 people finished the full Cork City Marathon..." (6/7/2026), unconfirmed** | – | – | 10 | 0 | 7 | 0 | 4 | – |
 
-**Companies led by marathon-running CEOs is the standout by every real
-metric here** — 65,693 impressions and 175 link clicks vs. 2,737 and 12
-for the next one. That's a ~14x higher click-through despite ~24x the
-impressions, i.e. roughly the same click-through rate — worth noting
-this isn't just a reach outlier, the conversion rate held up at scale.
-More screenshots from Luke will keep improving this table; treat the
-xlsx-only numbers below it as directional, not final, for any post
-before 6/10/2026.
+\* Two separate screenshots of "Same intake, same bonus" gave different
+link-click counts (12 in one capture, 4 in another) and slightly
+different profile-viewer/follower numbers (11/1 vs 10/0), captured only
+minutes apart. Reactions (7) and comments (0) matched both times. Not
+resolved — could be LinkedIn's own count still settling, a caching
+quirk, or two different metrics being read. Don't treat either number
+as final; ask Luke to reconfirm with a fresh screenshot if this post's
+click data matters for a specific decision.
+
+\*\* This row's screenshot didn't carry a header/post title (mid-scroll
+capture) — it's placed here because it appeared in the sequence right
+after "Same intake" in the activity feed, matching the feed order in
+the same screenshot batch, but this is inferred, not confirmed. Luke
+should confirm which post this actually was.
+
+**Notable pattern across all four confirmed posts: follower conversion
+is consistently near-zero** (0-1 followers gained per post, even at
+65,693 impressions) while link clicks to `fuel-1` are meaningfully
+larger (34-175). This matches the actual goal (audience.md: email
+signups feeding a future paid offer) — **follower count is not the
+metric that matters here, click-through to `fuel-1` is**, and every
+confirmed post's click-through rate lands in a fairly tight 0.15-0.42%
+band regardless of impression volume, suggesting CTR is a stable
+property of the format/CTA rather than something that decays at scale.
+
+**Companies led by marathon-running CEOs is still the standout by
+absolute reach and clicks** (65,693 impressions, 175 clicks), but "I've
+run more ultra than 5K's" has the highest confirmed click-through rate
+(0.42%) and is also notable for being 90% out-of-network reach (vs. 74%
+out-of-network for "Same intake") — this is the post that traveled
+furthest beyond Luke's existing connections. More screenshots from Luke
+will keep improving this table; treat the xlsx-only numbers below it as
+directional, not final, for any post before 6/10/2026.
+
+## Confirmed: top posts use a real custom-designed image, not just a link-preview thumbnail
+
+**Correction to the original version of this file, which claimed no
+custom images were detected.** "Same intake, same bonus" carries a real
+two-panel, retro/vintage-styled contrast graphic: "THE HIDDEN DIVIDEND
+OF CONSISTENCY" / "One Leaves at 5:30 to Train" / "The Other Kept
+Meaning to Start... since 2019" — one panel shows a figure packing a
+gym bag, the other a figure slumped at an old-style office desk. It
+carries a small "Cr" badge suggesting an AI-image-generation tool
+(Canva/similar), not a stock photo or a real photo of Luke. This is a
+real, repeatable device: **the post's two-sided contrast (in the
+opening line) is mirrored visually as a two-panel image**, not just
+described in text. Worth treating as part of the format going forward,
+and worth asking Luke whether the top research-citation posts
+(marathon-CEOs, by-4pm, etc.) used a similar image or relied on text
+alone — WebFetch can't reliably see attached images, so this file
+can't confirm that without more screenshots.
 
 ## Account-level numbers (for context, not per-post)
 
@@ -318,19 +364,25 @@ every new post's CTA rather than reusing a stale figure.
 
 ## Gaps in this file (need Luke)
 
-- **Per-post click data for everything except the 2 posts above.**
-  Luke has shown click-through is real signal (marathon-CEOs held its
-  click-through rate even at 24x the reach) — more Post Analytics
-  screenshots, especially for the "mid-tier" table above, would very
-  likely reshuffle which posts count as top performers.
-- **Images/carousels.** Every post fetched showed only a generic
-  LinkedIn link-preview thumbnail, no actual custom image or
-  document-carousel was detected — worth confirming with Luke whether
-  that's accurate (WebFetch may not surface native image attachments
-  reliably) or whether some of these did carry a real photo/graphic
-  that didn't come through.
+- **Per-post click data for the mid-tier table.** Luke has shown
+  click-through is real signal — more Post Analytics screenshots for
+  the still-unverified mid-tier posts (Bezos, Branson, Ramsay, $1.4T
+  CEO, Peak 5&8, colleague-same-job, most-endurance-athletes) would
+  very likely reshuffle which posts count as top performers, the same
+  way marathon-CEOs did.
+- **Confirm which post the "10 profile viewers / 0 followers / 7
+  reactions / 4 link clicks" screenshot actually belongs to** (see
+  footnote in the table above — inferred as the Cork City Marathon
+  post from feed order, not confirmed).
+- **Resolve the "Same intake" link-click discrepancy** (12 vs 4 clicks,
+  two captures minutes apart) — a fresh screenshot would settle it.
+- **Whether the two-panel contrast image is used on other top posts**
+  (marathon-CEOs, by-4pm, executive/CEO, etc.) or unique to "Same
+  intake" — WebFetch doesn't reliably surface attached images, this
+  needs a screenshot per post to confirm.
 - **The Claude Project "what works well" summary** Luke mentioned —
   paste it in, it likely covers a longer history than this export and
   may surface patterns this file missed.
-- **Full text of the mid-tier posts**, worth pulling once/if Luke
-  confirms any of them are real performers via screenshot.
+- **A real LinkedIn competitor/reference list** — `competitors.md` is
+  still just Justin Welsh (structure) and Ogilvy/Caples (copywriting
+  philosophy), no actual accounts to study.

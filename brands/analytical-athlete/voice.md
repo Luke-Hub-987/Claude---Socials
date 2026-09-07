@@ -96,6 +96,20 @@ Full text of these and the rest of the swipe file is in
 `swipe-file.md` — read it before drafting, the compression above loses
 the line-by-line rhythm that makes them work.
 
+## Visual device: the two-panel contrast image (confirmed real, see `swipe-file.md`)
+
+"Same intake, same bonus" carries a custom two-panel, retro-styled
+graphic mirroring its opening line's contrast exactly: one panel shows
+the disciplined figure (packing a gym bag), the other the figure who
+"kept meaning to start" (slumped at a desk). Appears AI-generated
+(Canva or similar), not a stock photo or a real photo of Luke. Where an
+idea's hook is built on a two-sided contrast (see the post-structure
+model above), pair it with this device rather than leaving it text-
+only — it's a confirmed, real, repeatable pattern, not a guess. Not yet
+confirmed whether Luke's other top posts (marathon-CEOs, by-4pm, etc.)
+use a similar image or rely on text alone, so don't assume every idea
+needs one, only ones with a genuine two-sided contrast to mirror.
+
 ## Vocabulary / recurring devices
 
 - **The "engine" metaphor** — training capacity as a literal engine
