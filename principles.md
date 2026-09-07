@@ -2297,6 +2297,66 @@ are worth copying rather than rediscovering:
 
 *Source: Luke, rewriting the fuelling ladder script.*
 
+## P65 — Second data point: the ladder held retention, and the real problem is now shares and follows
+
+"The 3 ELITE levels of eating on a long run (and the one the people who
+finish strong are on)", posted on ERN as a collab with the personal
+account. Real Instagram Insights:
+
+| Metric | Ladder (ERN) | Injury list (personal) |
+|---|---|---|
+| Views | 2,134 (1,935 IG, 199 FB) | 2,156 |
+| Viewers | 1,615 | not recorded |
+| **Skip rate** | **35.4%, marked Lower** | 39.5% |
+| **Average watch time** | **35s of 1:25** | 27s of 1:43 |
+| Likes / saves / comments | 31 / 26 / **0** | 34 / 25 / **0** |
+| Shares | **0** (0.2% rate, "Higher") | not recorded |
+| Follows | **0** | not recorded |
+| Reels tab share | 85.5% (+10.3% Explore) | 82.3% (+13.5%) |
+
+### What is now supported by two data points
+
+- **The OST system works on the metric closest to it.** Two videos in a
+  row with skip rates better than his own baseline, and the better of
+  the two is the more specific hook.
+- **The ladder held the middle of the video.** The retention curve
+  drops steeply to roughly a third by about eight seconds and then goes
+  **almost flat to the end**. That plateau is the sequential device
+  doing exactly what it was picked for: the loop only closes at level
+  three. Average watch time rose 27s to 35s on a shorter video.
+- **The 2.1k ceiling is real.** Two very different videos landed within
+  22 views of each other, which looks like a distribution band rather
+  than a coincidence.
+
+### The three findings that change what to do next
+
+1. **Zero comments on two different CTAs.** One asked an opinion
+   question, one asked for a number. **The CTA is not the variable.**
+   Either an 85% Reels-tab non-follower audience does not comment, or
+   both formats close so cleanly that there is nothing left to argue
+   about. The device library's argument formats (tier list, bracket,
+   ranking) are the untested lever.
+2. **Zero shares, and share rate is the weakest of the three rates in
+   absolute terms** (0.2% against 1.9% likes and 1.6% saves). The
+   account converts attention into **private saving, never into
+   sending**. Shares are the main compounding mechanism on Reels, so
+   this is the ceiling.
+3. **Zero follows on 2,134 views.** Nothing in either video gave a
+   reason to come back. No part two, no named series, no identity to
+   join. The ladder had levels four and five sitting right there and
+   never promised them.
+
+### The instruction that follows
+
+**Stop optimising the hook and start optimising the send.** The next
+video on the personal account should be built to be sent to one
+specific person, which is his own proven top shape (self-recognition,
+2,578) and the one shape neither recent video used. Saveable and
+sendable are different designs, and we have now proved we can do the
+first one.
+
+*Source: Luke, sharing full Reel insights on the ladder video.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
