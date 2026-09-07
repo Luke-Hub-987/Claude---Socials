@@ -6,109 +6,87 @@ allowed-tools: Read Write Bash(date *)
 ---
 
 You are running the ideation pipeline for **The Analytical Athlete**
-(Luke's LinkedIn brand). This is structurally different from
-`/ideate-personal` and `/ideate-ern`: there is no video, no competitor
-outlier-scraping pipeline for LinkedIn in this repo, and the goal
-metric is newsletter signups feeding a future paid offer, not
-reach/views for their own sake. Every idea's fuel comes from Luke's own
-`swipe-file.md` — what has actually worked for this exact account — not
+(Luke's LinkedIn brand). **This is a completely separate project from
+the rest of this repo, per Luke's direct instruction (2026-09-07):**
+what works on LinkedIn doesn't necessarily work on IG/TikTok and vice
+versa, so this skill only reads and writes inside
+`linkedin-analytical-athlete/`. Never read or edit `brands/`,
+`ideas/personal/`, `ideas/engine-room-nutrition/`, `principles.md`,
+`hook-frameworks.md`, `ost-*.md`, `voice-rules.md`, `research/`, or
+`scripts/` — those belong to the personal/ERN video system and this
+project keeps its own independent copy of anything it needs.
+
+There is no video, no competitor outlier-scraping pipeline, and the
+goal metric is signups to Engine Room Nutrition's real pre-launch email
+list feeding a future paid offer, not reach/views for their own sake.
+Every idea's fuel comes from `linkedin-analytical-athlete/brand/
+swipe-file.md` — what has actually worked for this exact account — not
 from scraped outliers.
 
 ## Pre-flight: load context
 
-Read these in order. If `brands/analytical-athlete/*.md` files are
-still `status: draft` with unresolved "Open" items, continue anyway but
-note in the brief which inputs are unconfirmed — don't block on it the
-way `/ideate-personal` blocks on missing `_pending_` files, since this
-brand's docs start populated from real data rather than empty.
+Read these, all inside `linkedin-analytical-athlete/`, in order. If
+files are still `status: draft` with unresolved "Open" items, continue
+anyway but note in the brief which inputs are unconfirmed.
 
-1. `brands/analytical-athlete/swipe-file.md` — MANDATORY, read FIRST
-   and read in full. This is the actual evidence base: which posts
-   worked, their full text, the pre/post-pivot contrast, and the
-   flagged underperforming pattern (celebrity namedrops without Luke's
-   own angle). Every idea should be traceable to a pattern in here.
-2. `brands/analytical-athlete/voice.md` — the line-by-line "slippery
-   slide" mechanic, the Justin Welsh post structure, the "engine"
-   metaphor, hard rules.
-3. `brands/analytical-athlete/pillars.md` — the 5 pillars (Pillar 5,
-   direct running/fueling content, added 2026-09-07 — don't skip it,
-   it's now the largest pillar by mix guidance) and mix guidance.
-4. `brands/analytical-athlete/audience.md` — ICP (finance/professional-
-   services, senior/director-level, Dublin/London) **and** its
-   "Clarified targeting logic" section: the follower demographics
-   describe who sees the content, not who it must always be written
-   for — the list's real job is collecting runners, of any profession,
-   for the eventual carb bar.
-5. `brands/analytical-athlete/competitors.md` — named style references
-   (Justin Welsh, Ogilvy/Caples) and any LinkedIn URLs Luke has since
-   given for manual reference.
-6. `brands/engine-room-nutrition/pillars.md` (its "Product context"
-   section) — confirmed 2026-09-07: this brand funnels into ERN, not a
-   separate product. Read this so CTAs and any product claims stay
-   accurate to ERN's real, pre-manufacturing stage rather than
-   inventing an "Analytical Athlete" offer.
-7. For Pillar 5 ideas specifically, also read:
-   `research/reddit-running-themes-summary.md` (real runner pain
-   points), `ost-10-10-teardown.md` (the "10/10 X of Y" scored-list
-   device, and ERN's owned RPE-scoring variant), and
-   `ideas/engine-room-nutrition/2026-09-05-script-fuelling-ladder.md`
-   (real, already-source-checked fueling physiology and the ladder
-   device) — reuse this material directly, don't re-derive physiology
-   claims from scratch or invent new ones.
-8. `voice-rules.md` — universal rules (no em-dashes, no hedging, no
-   corporate filler, and the **AI-slop checklist** — read this in full
-   and check every hook against it before finalizing, every single
-   run, not just once).
-9. **REVISED 2026-09-07, Luke direct: the LinkedIn hook is on-screen
-   text and gets the same craft toolkit, not a separate lesser one.**
-   Read `hook-frameworks.md` HF6 (the five on-screen-text principles:
-   curiosity, pain point, dream outcome, tangibility, whisper
-   technique) and `principles.md` P3 (CCN), P21 (specificity beats
-   reversal), P32 (real ranked shapes: scenario-questions, how-to-
-   with-gain, named-tier/borrowed-authority), P33 (one example is a
-   device to rotate, never a template to stamp — already happened
-   twice in this system's history, don't make it three), P35/P60 (the
-   canonical AI-slop rule, absolute, no carve-outs), P37 (one nameable
-   keyword). Also read `ost-10-10-formats.md`'s power-word bank (one
-   word per line, by job: price it costly, make it transgressive, make
-   it secret, borrow authority, name the moment, state the
-   consequence). See `voice.md`'s "Headline craft" section, which
-   consolidates all of this for this brand specifically. P1/P2 still
-   apply as before.
+1. `brand/swipe-file.md` — MANDATORY, read FIRST and read in full. The
+   actual evidence base: which posts worked, their full text, the
+   data-quality corrections already made, and the funnel destination
+   (Engine Room Nutrition's real pre-launch product/list). Every idea
+   should be traceable to a pattern in here.
+2. `brand/voice.md` — the line-by-line "slippery slide" mechanic, the
+   post-structure model, the "engine" metaphor, the confirmed two-panel
+   image device, and the "Headline craft" section.
+3. `brand/pillars.md` — the 5 pillars and mix guidance (Pillar 5,
+   direct running/fueling content, is the largest single pillar as of
+   2026-09-07 — don't skip it).
+4. `brand/audience.md` — ICP and its "Clarified targeting logic"
+   section: LinkedIn's follower demographics (finance/professional-
+   services) describe who sees the content, not who it must always be
+   written for — the list's real job is collecting runners, of any
+   profession, for the eventual carb bar.
+5. `brand/competitors.md` — named style references and any LinkedIn
+   URLs Luke has given for manual reference.
+6. `craft-reference.md` — MANDATORY, this project's self-contained
+   copy of every writing rule and craft principle used here: universal
+   style rules, the absolute AI-slop rule (checked against Wikipedia's
+   "Signs of AI Writing" every time, no carve-outs), the on-screen-
+   text-equivalent hook craft (CCN, the specificity bar, one-example-
+   is-a-device-not-a-template, the hook-shape menu), and the
+   power-word bank. Nothing outside this project needs to be read for
+   any of this.
 
 ## Argument handling
 
 If an argument was passed (e.g. `/ideate-analytical-athlete
 career-capacity`), use it as a focus filter — all 10 ideas serve that
 pillar. Otherwise spread across pillars per the mix guidance in
-`pillars.md` (currently 4/2/2/2 favoring Pillar 1, career-capacity
-narrative).
+`brand/pillars.md`.
 
-## Prefer swipe-file citations over new research (2026-09-07, Luke direct)
+## Prefer swipe-file citations over new research
 
 When a Pillar 1/2 idea needs an external-subject anchor (a study, a
-named example), **check `swipe-file.md` for a citation already proven
-with this audience before reaching for new research**. The S&P 1500
-marathon-CEO study in "Companies led by marathon-running CEOs" names
-three explanations (stress tolerance, long-term thinking, recovery
-discipline) in one line each — each unused facet of an already-proven
-citation is a legitimate, un-fabricated new idea. Only bring in
-genuinely new research (verified via WebSearch, never fabricated, and
-clearly flagged as untested with this audience) once the already-
-proven citations are exhausted, and say explicitly that it's new/
-untested when you do — don't present it as equivalent to proven
-material.
+named example), **check `brand/swipe-file.md` for a citation already
+proven with this audience before reaching for new research**. The
+S&P 1500 marathon-CEO study names three explanations (stress
+tolerance, long-term thinking, recovery discipline) in one line each —
+each unused facet of an already-proven citation is a legitimate new
+idea. Only bring in genuinely new research (verified via WebSearch,
+never fabricated, clearly flagged as untested with this audience) once
+already-proven citations are exhausted, and say explicitly it's new
+when you do.
 
-## Step 1 — Mine the swipe file for patterns, not just topics
+## Step 1 — Mine the swipe file and craft-reference for patterns
 
-Per P16-style discipline (spend real effort on topic/angle selection
-before wording): for each of the 10 top full-text posts in
-`swipe-file.md`, identify the underlying **mechanism**, not the
-surface topic. E.g. "Same intake, same bonus" isn't a post about
-running, it's the pattern "two identically-positioned people, one
-small compounding choice, shown at a 3-year time delta." Reuse the
-*mechanism* on a new specific instance, never reuse the exact same
-scenario Luke already published.
+For each top full-text post in `brand/swipe-file.md`, identify the
+underlying **mechanism**, not the surface topic (e.g. "Same intake,
+same bonus" is the pattern "two identically-positioned people, one
+compounding choice, shown at a time delta" — though that specific
+device is retired, see Hard rules below). Reuse mechanisms on a new
+specific instance, never the exact scenario Luke already published.
+For Pillar 5 ideas, draw on the real facts already inlined in
+`brand/pillars.md` and `brand/swipe-file.md` (fueling physiology, real
+runner pain points) rather than inventing new claims.
 
 ## Step 2 — Generate 10 ideas
 
@@ -116,110 +94,81 @@ Per-idea schema:
 
 ```yaml
 - id: 1
-  pillar: <Pillar 1-4, from pillars.md>
-  hook: <MANDATORY. The literal opening 1-3 lines as they'd appear before LinkedIn's "see more" cutoff. This is the equivalent of the on-screen-text hook in the other brands' schemas — it IS the headline here, there's no separate visual layer. Must be a single sharp claim or contrast, per voice.md's post-structure model, never a scene-setter or a question that needs the reader to already care>
-  body_talking_points: <3-6 short bullets in the line-by-line "slippery slide" order: hook -> mechanism/research citation -> reframe onto reader's own life, 2nd person -> transition to CTA. Talking points to riff on when actually writing the post (P19-style), not a verbatim script>
-  research_claim: <Any specific number/study the idea leans on, with its source. If genuinely sourced (from research/ files in this repo, or something Luke has explicitly told you), cite it. If no real source exists yet, write "NEEDS REAL CITATION — do not publish until sourced" instead of inventing one. Never fabricate a study or statistic, this is a hard rule, see below>
-  cta: <The newsletter close, naming "The Analytical Athlete" and the current subscriber count from swipe-file.md's "Newsletter growth" section (use the latest figure, note it'll be stale by publish time and Luke should update it). Confirmed: this funnels into Engine Room Nutrition's own list (engineroomnutrition.com/pages/fuel-1), not a separate product — see audience.md. Don't invent Analytical-Athlete-specific offers or claims about what happens after signup beyond what brands/engine-room-nutrition/pillars.md's product context actually supports>
-  voice_match: <one line citing which voice.md device this uses: the engine metaphor, direct 2nd-person address, a PS-line secondary hook, etc.>
-  visual_concept: <OPTIONAL. Only if the hook is built on a two-sided contrast (per voice.md's confirmed two-panel image device) — a one-line description of a two-panel image mirroring the contrast, e.g. "left: at desk late, right: lacing up shoes at dawn." Omit entirely for ideas without a real contrast to mirror, don't force it>
-  swipe_file_precedent: <MANDATORY. For Pillars 1-4, which real post in swipe-file.md this idea's mechanism is modeled on, by date/title. For Pillar 5, which real source this draws from instead (research/reddit-running-themes-summary.md's named pain point, ost-10-10-teardown.md's device, or the fuelling-ladder script) — cite it the same way. If it can't be traced to a real precedent/source, it's a stretch idea — say so explicitly rather than pretending it's proven>
-  briar_principle: <P1 or P2 from principles.md if genuinely applicable, otherwise omit the field rather than forcing a citation>
-  ccn: <MANDATORY, per P3. One line: who's Core, who's Casual, who's New for this specific hook, and what the specific-curiosity mechanism is that pulls all three at once. If you can't name a real New-audience angle, say so rather than skipping the field>
-  device: <MANDATORY, per P33. Name the structural device this hook uses (scenario-question, numbered taxonomy, named-tier/borrowed-authority, ladder/progression, research-citation, first-person admission, etc.) so the batch-level distribution check below can actually be done>
-  power_word: <OPTIONAL, per ost-10-10-formats.md. If the hook uses one, name it and its job (price as costly / make transgressive / make secret / borrow authority / name the moment / state the consequence). One word, one slot — never two in the same hook>
+  pillar: <Pillar 1-5, from brand/pillars.md>
+  hook: <MANDATORY. The literal opening 1-3 lines as they'd appear before LinkedIn's "see more" cutoff — this IS the headline, treated with the same craft rigor as on-screen text per craft-reference.md. A single sharp claim or contrast, never a scene-setter>
+  ccn: <MANDATORY, per craft-reference.md's CCN section. Who's Core, who's Casual, who's New for this hook, and what specific-curiosity mechanism pulls all three at once>
+  device: <MANDATORY, per craft-reference.md's "one example is a device" rule. Name the structural device (scenario-question, numbered taxonomy, named-tier/borrowed-authority, ladder/progression, research-citation, first-person admission, confession, effort-to-outcome-gap, money, etc.) for the batch-level check below>
+  power_word: <OPTIONAL. If used, name it and its job per craft-reference.md's power-word bank. One word, one slot>
+  body_talking_points: <3-6 short bullets in the line-by-line "slippery slide" order: hook -> mechanism/citation -> reframe onto reader's own life, 2nd person -> transition to CTA. Talking points to riff on, not a verbatim script>
+  research_claim: <Any specific number/study/fact the idea leans on, with its source (from this project's own files, or something Luke has explicitly told you, or a citation verified via search and flagged as new/untested). If unsourced, write "NEEDS REAL CITATION" or "NEEDS VERIFICATION" instead of inventing one>
+  cta: <The newsletter close, naming "The Analytical Athlete" and the current subscriber count from brand/swipe-file.md's "Newsletter growth" section. This funnels into Engine Room Nutrition's real pre-launch product/list (see brand/audience.md) — don't invent claims about what happens after signup beyond what's already documented there>
+  voice_match: <one line citing which brand/voice.md device this uses>
+  visual_concept: <OPTIONAL. Only for a hook built on a real two-sided contrast, per voice.md's confirmed two-panel image device>
+  swipe_file_precedent: <MANDATORY. Which real post/fact in brand/swipe-file.md or brand/pillars.md this idea is modeled on. If it can't be traced to a real precedent, say so explicitly as a stretch idea>
 ```
 
-### Batch-level device check (P33), mandatory before finalizing
+### Batch-level device check, mandatory before finalizing
 
 Count which `device` each idea uses. No single device should account
 for more than roughly a quarter of the batch (2-3 out of 10). If one
-device dominates, especially the same one Luke praised in a prior
-batch (the S&P 1500 study, the fuelling ladder), swap some ideas for a
-different device from P32's list before presenting the batch.
+dominates, swap some ideas for a different device from
+`craft-reference.md`'s hook-shape menu.
 
 ### Mix (default, no argument passed)
 
-Per `pillars.md`'s revised mix: 3 Pillar 1 (career-capacity narrative),
-4 Pillar 5 (direct running/fueling — now the largest single pillar,
-per Luke's 2026-09-07 instruction not to fixate on the career-bridge
-angle), 1 Pillar 2, 1 Pillar 3, 1 Pillar 4. An earlier version
-of this rule banned other-people's-story ideas (Bezos/Branson/Ramsay-
-style) from Pillar 4 outright — that was based on xlsx numbers later
-found to be unreliable for pre-6/10/2026 posts, and the best-verified
-post in the account's history ("Companies led by marathon-running
-CEOs") is exactly that shape. The real rule per `pillars.md`: an
-other-person's-story idea needs a **real, specific, named research
-citation** underneath it (a named study, a real data point), not just
-an anecdote about someone famous — that's what separated the verified
-winner from the still-unverified mid-tier posts in that shape. A
-Pillar 4 idea built on Luke's own race/result/lived detail is always
-safe; a Pillar 4 idea built on someone else's story needs the citation
-test to pass.
+Per `brand/pillars.md`'s mix guidance (3 Pillar 1, 4 Pillar 5, 1 each
+of Pillars 2-4 as of 2026-09-07 — check the file for the current
+numbers since this may be revised). An other-person's-story idea
+(Pillar 1 or 4) needs a real, specific, named research citation
+underneath it, not just an anecdote about someone famous. A Pillar 4
+idea built on Luke's own race/result/lived detail is always safe.
 
 ### Hard rules
 
 - **Never build a hook around a fictional/composite "two colleagues or
-  trainees at a firm diverge" comparison** (retired 2026-09-07, Luke
-  direct — he's Associate Director at Grant Thornton, a top employer
-  in his own follower base per `audience.md`; even fictional coworker
-  comparisons read as real commentary and carry professional risk).
-  Use external, named, checkable subjects (companies, executives,
-  research) or Luke's own first-person experience instead.
-- **Painkiller, not vitamin** (2026-09-07, Luke direct): every hook
-  should name something the reader already consciously dreads or
-  resents before offering the mechanism, not just a nice hypothetical
-  upside. See `audience.md`'s test and its honest caveat that the
-  account's best-reach post is itself vitamin-shaped — this is a
-  deliberate positioning choice, not something reach data already
-  proved, so don't oversell it as "what the data says" when pitching
-  ideas back to Luke.
-- **No fabricated research claims.** If `research_claim` can't be
-  traced to something real, mark it "NEEDS REAL CITATION" per the
-  schema above and do not present it as an established fact in
-  `body_talking_points`. This matters more here than in the other
-  brands: the entire voice is built on citing real numbers as the
-  credibility mechanism (see `voice.md`), so a fabricated stat isn't
-  just risky, it breaks the actual thing that makes this voice work.
-- **No em-dashes**, no corporate filler ("unlock your potential,"
-  "let's dive in") per `voice-rules.md` — LinkedIn is exactly the
-  platform this rule exists to guard against.
-- **Every idea ends in a real, named CTA** to The Analytical Athlete
-  newsletter with a subscriber count. Never "link in bio," never
-  omitted.
-- **No two ideas share the same underlying mechanism** as each other
-  or as an existing swipe-file post — riff on the pattern, don't repeat
-  the scenario.
-- **Every idea traces to a `swipe_file_precedent`** or is explicitly
-  flagged as an untested stretch idea.
-- **P1 test (TAM/unique/money), REVISED 2026-09-07:** does this idea's
-  angle connect back to either the career-capacity bridge (Pillar 1)
-  *or* directly to real runner pain points that make someone a
-  qualified lead for the eventual carb bar (Pillar 5)? Both are valid
-  per `audience.md`'s "Clarified targeting logic" — a Pillar 5 idea
-  overlapping with `brands/personal/` content is fine and expected
-  (both draw on the same real running-audience research), the LinkedIn
-  version should still be adapted to this platform's text format and
-  voice, not copy-pasted.
-- **AI-slop check, mandatory, every idea, every run** (see
-  `voice-rules.md`): before finalizing, check every `hook` against the
-  checklist there. Negative parallelism ("not just X, but Y," "it's
-  not X, it's Y") is banned outright with no exceptions — it's the
-  single most likely pattern to slip in unnoticed.
+  trainees at a firm diverge" comparison.** Luke is Associate Director
+  at Grant Thornton, a top employer in his own follower base per
+  `brand/audience.md` — even fictional coworker comparisons read as
+  real commentary and carry professional risk. Use external, named,
+  checkable subjects or Luke's own first-person experience instead.
+- **Painkiller, not vitamin:** every hook should name something the
+  reader already consciously dreads or resents before offering the
+  mechanism. See `brand/audience.md`'s test and its honest caveat that
+  the account's best-reach post is itself vitamin-shaped — this is a
+  deliberate positioning choice, not proven by reach data, don't
+  oversell it as such.
+- **No fabricated research claims**, ever. Mark unsourced claims
+  "NEEDS REAL CITATION" / "NEEDS VERIFICATION" and don't present them
+  as fact in `body_talking_points`.
+- **No AI-slop language, absolute, no exceptions** — see
+  `craft-reference.md`. Negative parallelism ("not just X, but Y,"
+  "it's not X, it's Y," "X isn't Y, it's Z") is banned outright, in any
+  form, including a "corrected" version where the twist just moves one
+  clause later. Check every hook against this before finalizing.
+- **Every idea ends in a real, named CTA** with a current subscriber
+  count. Never "link in bio," never omitted.
+- **No two ideas share the same underlying mechanism/device** as each
+  other or as an existing swipe-file post.
+- **Every idea traces to a real precedent** or is explicitly flagged
+  as an untested stretch idea.
+- **P1-style test (TAM/unique/money):** does this idea connect to
+  either the career-capacity bridge (Pillar 1) or real runner pain
+  points that make someone a qualified lead for the carb bar
+  (Pillar 5)? Both are valid per `brand/audience.md`.
 
 ## Step 3 — Write the brief
 
 Get today's date (`date +%Y-%m-%d`). Write to
-`ideas/analytical-athlete/<date>-ideate-brief.md`:
+`linkedin-analytical-athlete/ideas/<date>-ideate-brief.md`:
 
 ```yaml
 ---
 type: ideation-brief
-brand: analytical-athlete
+project: linkedin-analytical-athlete
 generated_at: <full timestamp>
 focus: <argument value or "all-pillars">
 pillars_covered: [list]
-inputs_status: <note which brands/analytical-athlete/*.md files were still draft/had open items>
+inputs_status: <note which brand/*.md files were still draft/had open items>
 ---
 
 # Ideation Brief (The Analytical Athlete) — <date>
@@ -230,12 +179,14 @@ inputs_status: <note which brands/analytical-athlete/*.md files were still draft
 
 - **Pillar:** ...
 - **Hook:** "..."
+- **CCN:** ...
+- **Device:** ...
+- **Power word (if used):** ...
 - **Body talking points:** ...
 - **Research claim:** ... (or "NEEDS REAL CITATION")
 - **CTA:** ...
 - **Voice match:** ...
 - **Swipe-file precedent:** ...
-- **Briar principle (if applicable):** ...
 
 [... repeat for ideas 2-10 ...]
 ```
@@ -245,8 +196,6 @@ Also print a clean readable summary to the terminal.
 ## Step 4 — Wrap up
 
 Tell Luke: the path to the brief, how many ideas per pillar, how many
-carry an unresolved "NEEDS REAL CITATION" flag (these need his input
-before they're publishable, not just a rewrite), and to star the 3-5
-he'd actually write up. If any `brands/analytical-athlete/*.md` inputs
-are still draft, remind him `/onboard-analytical-athlete` will close
-those gaps for a stronger next batch.
+carry an unresolved citation/verification flag, and to star the 3-5
+he'd actually write up. If any `brand/*.md` inputs are still draft,
+remind him `/onboard-analytical-athlete` will close those gaps.

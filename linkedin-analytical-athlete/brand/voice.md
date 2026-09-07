@@ -11,8 +11,7 @@ Drafted from 10 real full-text posts pulled directly off LinkedIn (see
 `swipe-file.md`), the highest-impression/engagement posts in the
 6/10/2026-9/7/2026 export. **Status: draft** — Luke should confirm this
 matches how he wants to sound before `/ideate-analytical-athlete` leans
-on it hard, the same way `brands/personal/voice.md` was confirmed after
-review.
+on it hard.
 
 Luke named two explicit reference points for this brand: **Ogilvy /
 John Caples-style direct-response copywriting** ("people don't care
@@ -96,62 +95,23 @@ Full text of these and the rest of the swipe file is in
 `swipe-file.md` — read it before drafting, the compression above loses
 the line-by-line rhythm that makes them work.
 
-## Headline craft: the LinkedIn hook IS on-screen text (2026-09-07, Luke direct)
+## Headline craft: the LinkedIn hook IS on-screen text
 
 Luke's own framing: "the headline are just words in order to make
-people read, want, and feel something by reading the post" — exactly
-the job on-screen text does for video. **Treat the LinkedIn hook with
-the same craft rigor as an on-screen-text hook for IG/TikTok, not a
-separate, lesser system.** Concretely, before finalizing any hook:
-
-- **Run it through HF6's five on-screen-text principles**
-  (`hook-frameworks.md`): curiosity, pain point, dream outcome,
-  tangibility, the whisper technique (a parenthetical aside for
-  curiosity-building or risk rehearsal). These transfer directly to a
-  LinkedIn opening line.
-- **Check it against P3 (CCN)** in `principles.md`: does it work for
-  Core (people who already take running/fueling seriously), Casual
-  (dip in and out of the niche), and New (outside running entirely but
-  still curious) simultaneously, via *specific curiosity*, not maximum
-  stakes? Tag every idea's CCN read explicitly, the same discipline
-  already used for IG/TikTok.
-- **Check it against P21's newspaper-headline bar**: specificity beats
-  a reversal/twist shape. Would a stranger with zero context want to
-  read this because of a concrete, specific claim, not because a
-  withheld answer is being teased?
-- **Use `ost-10-10-formats.md`'s power-word bank** when a hook calls
-  for one: each word does a specific job (price it as costly, make it
-  transgressive, make it secret, make it counterintuitive, borrow
-  authority, name the moment/kilometre marker, state the consequence).
-  **One power word per line, in one slot** — two starts sounding
-  written, and a power word can't rescue a weak underlying structure.
-  Sample words Luke named directly: charismatically, emphatically,
-  elite — these are illustrations of the *job* words like "elite" and
-  "sub-2:30" do (borrow authority), not a fixed list to reuse verbatim
-  every time.
-- **P33: one example is a device to add to the rotation, never a
-  template to stamp.** This has already happened twice in this
-  system's history per `principles.md` (questions taking over a batch,
-  then "why do CEOs run marathons" taking over the next one) — Luke
-  had to call it out multiple times. No single device (the ladder, a
-  scenario-question, a numbered taxonomy, a named-tier/borrowed-
-  authority line) should account for more than roughly a quarter of
-  any batch. Name the device each idea uses and check the batch's
-  distribution before finalizing, the same discipline already required
-  for IG/TikTok batches.
-- **P32's real, ranked shapes are a legitimate reference**, not just
-  the S&P 1500/marathon-CEO citation model: scenario-questions (a
-  real, specific first-person moment stated as a question, no
-  mechanism explained — "Are they trail running, or just walking
-  really fast?"), how-to-with-gain (plain language for something the
-  reader already half-wants, payoff attached), named-tier/borrowed-
-  authority (a real sub-elite-level cited example). Vary across these,
-  don't default to research-citation every time.
-- **P37: every idea should compress to one nameable keyword** the
-  reader can silently ask "do I already know about that" and decide to
-  stay or scroll — plain language for something they already
-  half-want (a specific training concept, a real number, a named
-  moment), not a coined insider term.
+people read, want, and feel something by reading the post." **Every
+hook gets the full craft treatment documented in `craft-reference.md`**
+(this project's own self-contained copy, not shared with any other
+brand): the five hook principles (curiosity, pain point, dream
+outcome, tangibility, whisper technique), CCN tagging (Core/Casual/
+New via specific curiosity, not maximum stakes), the newspaper-
+headline specificity bar, the "one example is a device to rotate,
+never a template to stamp" rule (max ~1/4 of a batch per device), the
+real hook-shape menu (scenario-question, numbered taxonomy, ladder,
+borrowed-authority, confession, effort-to-outcome-gap, money,
+research-citation, first-person), the power-word bank (one word per
+line, one job), and the one-nameable-keyword rule. Read
+`craft-reference.md` before writing or reviewing any hook — it's
+mandatory, not optional background.
 
 ## Visual device: the two-panel contrast image (confirmed real, see `swipe-file.md`)
 
@@ -172,7 +132,6 @@ needs one, only ones with a genuine two-sided contrast to mirror.
 - **The "engine" metaphor** — training capacity as a literal engine
   that "compounds quietly" or gets "protected." Appears across multiple
   top posts, seems to be Luke's core recurring image for this brand.
-  Distinct from the personal brand's voice, which has no equivalent.
 - **Real, specific numbers, never rounded**: "113 studies. 4,390
   people," "2.9% better running economy," "$500... resale... $3,000,"
   "145+ / 150+ / 160+ subscribers" (growing count used as live proof,
@@ -181,20 +140,17 @@ needs one, only ones with a genuine two-sided contrast to mirror.
   this in your body."
 - **"PS" line reused as a secondary hook** for the newsletter's current
   topic, separate from the main CTA (seen in the tick-off-tasks post).
-- **Named research citations** as the credibility mechanism, replacing
-  the personal brand's "actually"/scare-quote skepticism device
-  entirely — this voice trusts data, it doesn't undercut received
-  wisdom with irony.
+- **Named research citations** as the credibility mechanism — this
+  voice trusts data, it doesn't undercut received wisdom with irony.
 
-## How this differs from `brands/personal/voice.md`
+## What this voice is not
 
-Do not reuse the personal-brand voice here. That voice is blunt,
-self-deprecating, deliberately anti-career-framing, and skeptical/ironic
-("actually," scare quotes). This voice is the opposite on the one axis
-that matters most: **career and professional identity are the entire
-point here**, not something to strip out. Where personal-brand content
-retires any workplace framing, this brand's central move is bridging
-training discipline directly into career/professional capacity.
+Not blunt/self-deprecating/ironic (no scare-quoting words to undercut
+them, no "actually" as a contrarian marker). **Career and professional
+identity are the entire point of this voice** — the central move is
+bridging training discipline directly into career/professional
+capacity, alongside the direct running/fueling content in Pillar 5
+(see `pillars.md`).
 
 ## Hard rules
 
@@ -212,7 +168,7 @@ training discipline directly into career/professional capacity.
   resents, not a nice hypothetical upside. See `audience.md` for the
   test and the honest caveat that the account's best-reach post is
   actually vitamin-shaped by this test.
-- No em-dashes (universal rule, `voice-rules.md`).
+- No em-dashes (universal rule, `craft-reference.md`).
 - No generic productivity-guru language ("unlock your potential,"
   "10x your output," "hustle") — this audience is senior/skeptical
   professional-services people, that register reads as junior and gets

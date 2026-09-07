@@ -71,10 +71,9 @@ bridge), not a bare namedrop. Pillar 4 guidance is corrected below.
   who can't train like a full-time athlete. Examples: "What's the
   fewest runs a week that still gets me to a marathon?" (3-day plan,
   818 impressions), heat training as "poor man's altitude" (2,327),
-  Dublin marathon training-monotony advice (1,114). This is the pillar
-  most directly reusable from the existing IG/TikTok running-technique
-  content (`brands/personal/pillars.md` Pillar 1), translated into
-  LinkedIn's professional framing rather than copied verbatim.
+  Dublin marathon training-monotony advice (1,114). Real, specific,
+  actionable protocols in this voice's own direct-response style, not
+  ported verbatim from anywhere else.
 
 - **Pillar 4: Personal proof-of-concept / credibility narrative.**
   Luke's own results and races, told as evidence he's not a theorist.
@@ -111,25 +110,33 @@ that network, and direct, technical, real running/fueling content is a
 legitimate, arguably sharper way to find and filter for them than
 always routing through a career metaphor.
 
-This pillar draws on material **already proven or already vetted
-elsewhere in this repo**, not new topics invented for LinkedIn:
+This pillar's real facts are inlined below, copied once into this
+project rather than read live from elsewhere (this project doesn't
+open files outside `linkedin-analytical-athlete/`):
 
-- `research/reddit-running-themes-summary.md` — real runner pain
-  points from Luke's own Reddit research: GI distress during fueling
-  (specific, recurring, named), carb-loading precision (grams/kg,
-  timing), PB obsession, injury (116 mentions), the zone 2 training
-  debate, fatigue, half-marathon-through-ultra range.
-- `ost-10-10-teardown.md` — the "10/10 X of Y" scored-list device
-  already proven on IG/TikTok ("10/10 uncomfortable habits of runners
-  who never get injured," 2,156 views), and ERN's owned variant
-  (scoring on RPE / race effort, the vocabulary runners already use).
-- `ideas/engine-room-nutrition/2026-09-05-script-fuelling-ladder.md`
-  — the "levels of fuelling a long run" ladder device, with real,
-  already-source-checked physiology (SGLT1 glucose ceiling ~60g/hour,
-  GLUT5 fructose adding another 30-60g/hour) and the exact place ERN's
-  carb bar sits in the protocol (30 minutes before heading out) —
-  reuse this content and its verification notes directly rather than
-  re-deriving the physiology from scratch.
+- **Real runner pain points** (originally from Luke's own Reddit
+  research, copied here as static facts): GI distress during fueling
+  is a specific, recurring, named pain point; carb-loading precision
+  (grams/kg, timing) is something this audience already thinks about
+  quantitatively; injury and overtraining is a frequent theme; the
+  Zone 2 training debate is active and informed; fatigue and burnout/
+  plateau are real, recurring threads; the audience spans half
+  marathon through ultra distance.
+- **Real, already-verified fueling physiology** (originally sourced
+  from an ERN video script's fact-check pass, copied here as static
+  facts): glucose absorption caps around 60 grams/hour (the SGLT1
+  pathway); a second pathway (GLUT5, triggered by fructose) adds
+  another 30-60 grams/hour on top; a low-fibre carb bar 30 minutes
+  before heading out, then steady dual-pathway intake from the start
+  (not from the first sign of fading), is the real protocol this
+  project's CTA product is built around.
+- **The scored-list device**: "10/10 [price] [unit] [bridge]
+  [identity/outcome]" — a real, proven hook skeleton (e.g. "10/10
+  uncomfortable habits of runners who never get injured," 2,156 views
+  on IG/TikTok). This project's own variant: score anything out of 10
+  at race effort (RPE — rate of perceived exertion, a scale runners
+  already use daily), which is real, owned vocabulary for this niche,
+  not borrowed language.
 - Named examples Luke gave directly as proven-format references (not
   necessarily literal LinkedIn posts yet): "3 elite levels of eating on
   a long run," "How to run the last 10k faster than the last 10k,"
@@ -137,11 +144,11 @@ elsewhere in this repo**, not new topics invented for LinkedIn:
 
 **Named-example content gap:** the actual 10 items behind "10/10
 uncomfortable habits of runners who never get injured" aren't captured
-as a written list anywhere in this repo (the IG/TikTok video predates
-a saved script). Before building a LinkedIn post on that exact title,
-either get the real list from Luke or build a new one sourced from
-`research/reddit-running-themes-summary.md`'s injury/overtraining
-theme (116 mentions) and flag it as new, not a port of the original.
+in this project (the original IG/TikTok video predates a saved
+script). Before building a LinkedIn post on that exact title, either
+get the real list from Luke or build a new one from the injury/
+overtraining pain point above and flag it as new, not a port of the
+original.
 
 ## Mix guidance (draft, revise once more data exists)
 

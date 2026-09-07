@@ -1,26 +1,13 @@
 # Claude — Socials
 
-Content ideation engine covering three separate brands:
+Content ideation engine covering two separate brands:
 
-- **Personal** — Luke's personal brand (@luke_morrison_er), IG/TikTok/YouTube, video
-- **Engine Room Nutrition (ERN)** — the company account (@engineroomnutrition), video
-- **The Analytical Athlete** — Luke's LinkedIn content identity
-  (@luke-morrison-aca-cta), text posts, no video. Confirmed: this is
-  **not** a separate business — every post's CTA funnels into Engine
-  Room Nutrition's own pre-launch email list
-  (`engineroomnutrition.com/pages/fuel-1`), reaching a different
-  audience (finance/professional-services peers) than ERN's own
-  IG/TikTok account
+- **Personal** — Luke's personal brand (@luke_morrison_er)
+- **Engine Room Nutrition (ERN)** — the company account (@engineroomnutrition)
 
 Each brand has its own voice, pillars, audience, and competitor set,
-and its own `/onboard-*` and `/ideate-*` skill so ideas never blend
-voices together. The Analytical Athlete works differently from the
-other two: there's no competitor-outlier scraper for LinkedIn in this
-repo, so its ideation pipeline is grounded in Luke's own
-`swipe-file.md` (real past post text + performance, pulled from his
-LinkedIn Aggregate Analytics export) rather than scraped outliers —
-see `brands/analytical-athlete/swipe-file.md` for the full writeup,
-including the clear before/after pivot in what actually performs.
+and its own `/onboard-*` and `/ideate-*` skill so ideas never blend the
+two voices together.
 
 ## Layout
 
@@ -28,9 +15,8 @@ including the clear before/after pivot in what actually performs.
 brands/
   personal/                  voice.md, pillars.md, audience.md, competitors.md
   engine-room-nutrition/     same, for ERN
-  analytical-athlete/        same, plus swipe-file.md (real LinkedIn post data), for LinkedIn
 principles.md                Briar Cochran / Paddy Galloway / Heaton Ralston / Ogilvy positions (shared, live)
-hook-frameworks.md           named hook patterns + swipe file (shared, live, video-specific)
+hook-frameworks.md           named hook patterns + swipe file (shared, live)
 voice-rules.md               universal style rules (shared, drafted)
 research/                    raw transcripts principles.md / hook-frameworks.md were built from,
                               plus Reddit running research for ERN's audience
@@ -38,14 +24,11 @@ scripts/                     yt_outliers.py, reddit_scan.py, ig_outliers.py, tik
 ideas/
   personal/                  generated briefs land here
   engine-room-nutrition/     generated briefs land here
-  analytical-athlete/        generated briefs land here
 .claude/skills/
   onboard-personal/          interviews you, fills brands/personal/*.md
   onboard-ern/                interviews you, fills brands/engine-room-nutrition/*.md
-  onboard-analytical-athlete/ closes remaining gaps in brands/analytical-athlete/*.md
   ideate-personal/           generates 10 ideas for the personal brand
   ideate-ern/                 generates 10 ideas for ERN
-  ideate-analytical-athlete/ generates 10 LinkedIn post ideas from the swipe file
 ```
 
 ## Setup
@@ -62,14 +45,10 @@ ideas/
      Reddit's own public unauthenticated endpoints return a 403
      straight from Reddit's servers when called directly from a
      datacenter IP (confirmed directly). Apify's actors route around
-     that. There's no equivalent scraper for LinkedIn (harder anti-
-     scraping/ToS exposure than the other three) — The Analytical
-     Athlete brand runs on Luke's own swipe file instead.
-3. Run `/onboard-personal`, `/onboard-ern`, and/or
-   `/onboard-analytical-athlete` to fill in each brand's voice,
-   pillars, audience, and competitors.
-4. Run `/ideate-personal`, `/ideate-ern`, or
-   `/ideate-analytical-athlete` to generate a 10-idea brief.
+     that.
+3. Run `/onboard-personal` and/or `/onboard-ern` to fill in each
+   brand's voice, pillars, audience, and competitors.
+4. Run `/ideate-personal` or `/ideate-ern` to generate a 10-idea brief.
 
 ## Network access in a Claude Code on the web / remote session
 
@@ -104,11 +83,3 @@ level regardless of environment policy, which is exactly why
   for both brands — see `research/reddit-running-themes-summary.md`
   for draft ERN audience/competitor signal from Luke's own Reddit
   research
-- `brands/analytical-athlete/`: `audience.md` and `swipe-file.md` are
-  live, built directly from Luke's real LinkedIn Aggregate Analytics
-  export (post text pulled from the live URLs). `voice.md`,
-  `pillars.md`, and `competitors.md` are draft, inferred from that same
-  data — run `/onboard-analytical-athlete` to confirm them against
-  Luke's own Claude Project summary and close the remaining gaps
-  (per-post click/signup data, a real LinkedIn competitor list, image/
-  carousel confirmation).

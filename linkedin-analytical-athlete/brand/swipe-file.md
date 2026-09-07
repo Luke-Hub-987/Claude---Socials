@@ -53,23 +53,19 @@ from that post, not backward from the tax era. That old content is
 summarized at the bottom of this file for historical record only, not
 as pillars evidence.
 
-## Confirmed: this funnels into Engine Room Nutrition, not a separate business
+## Confirmed: this funnels into the real ERN product, not a separate business
 
 The CTA link (`lnkd.in/epPvBWP4`) resolves to
-**`engineroomnutrition.com/pages/fuel-1`** — ERN's own site. Confirmed
-by Luke directly: **this is the same business as
-`brands/engine-room-nutrition/`**, not a separate product. "The
-Analytical Athlete" is the content identity/voice for this specific
-LinkedIn audience (see `voice.md`), and per
-`brands/engine-room-nutrition/audience.md`, ERN is pre-manufacturing
-and its content funnel already points to email signup rather than
-purchase for exactly this reason — LinkedIn is simply a second
-top-of-funnel channel into that same list, reaching a different
-audience segment (finance/professional-services peers, see
-`audience.md`) than ERN's own IG/TikTok account (endurance athletes).
-Treat `brands/engine-room-nutrition/pillars.md` and its product-context
-section as the ground truth for what the eventual offer actually is —
-don't invent a separate "Analytical Athlete" product.
+**`engineroomnutrition.com/pages/fuel-1`**, a pre-launch email signup
+page. Confirmed by Luke directly: this LinkedIn presence funnels into
+the same real business as Engine Room Nutrition (a pre-manufacturing
+carbohydrate bar for endurance athletes), not a separate product —
+"The Analytical Athlete" is this project's content identity/voice, the
+destination and eventual offer are the real ERN one. Stated here as a
+static fact for this project's independent use (LinkedIn is a
+completely separate project, per Luke's 2026-09-07 instruction, and
+doesn't read ERN's files on an ongoing basis) — if the product's status
+changes, this needs a manual update, not a live lookup.
 
 ## Real per-post analytics (phone-verified, most reliable data in this file)
 

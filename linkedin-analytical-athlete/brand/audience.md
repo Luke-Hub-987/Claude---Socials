@@ -7,20 +7,20 @@ updated_at: 2026-09-07
 
 # Audience / ICP — The Analytical Athlete (LinkedIn)
 
-**Confirmed by Luke (2026-09-07): this funnels into Engine Room
-Nutrition, not a separate business.** The CTA link on every post
-resolves to `engineroomnutrition.com/pages/fuel-1` — ERN's own
-pre-launch signup page (see `brands/engine-room-nutrition/audience.md`,
-ERN is pre-manufacturing and already runs an email-first funnel for
-this reason). "The Analytical Athlete" is the content identity/voice
-for this specific LinkedIn audience, not a second product or a second
-list. This audience is genuinely different from ERN's own IG/TikTok
-audience (see below) but they're being funneled toward the same
-eventual offer — treat `brands/engine-room-nutrition/pillars.md`'s
-product-context section as the real target, don't invent a separate
-"Analytical Athlete" product when writing CTAs or ideas.
+**Confirmed by Luke (2026-09-07): this funnels into the same real
+business as Engine Room Nutrition (ERN), a pre-launch, pre-
+manufacturing carbohydrate bar for endurance athletes.** The CTA link
+on every post resolves to `engineroomnutrition.com/pages/fuel-1` — a
+pre-launch email signup page, not a purchase page (the product doesn't
+exist yet). "The Analytical Athlete" is the content identity/voice for
+this specific LinkedIn audience, not a second product or a second
+list — the destination and eventual offer are ERN's real one. This is
+stated here as a static fact for this project's own use; this project
+doesn't read ERN's files on an ongoing basis (LinkedIn is a completely
+separate project, per Luke's 2026-09-07 instruction) — if ERN's
+product status changes materially, this file needs a manual update.
 
-Built from real LinkedIn Aggregate Analytics data (`AggregateAnalytics_Luke_Morrison_ACA_CTA_20260610_20260907.xlsx`, AUDIENCE DEMOGRAPHICS + CONTENT DEMOGRAPHICS sheets), not assumed. **This directly contradicts the working assumption that LinkedIn's ICP is the same as the personal IG/TikTok brand's** (`brands/personal/audience.md` — runners/endurance athletes, no employment framing at all). The two are different audiences and this brand should not borrow that file.
+Built from real LinkedIn Aggregate Analytics data (`AggregateAnalytics_Luke_Morrison_ACA_CTA_20260610_20260907.xlsx`, AUDIENCE DEMOGRAPHICS + CONTENT DEMOGRAPHICS sheets), not assumed. This is a professional-services audience (see below), not a running-specific one — no assumption is borrowed from anywhere else, this project's ICP stands on its own data.
 
 ## Who they actually are (from the data)
 

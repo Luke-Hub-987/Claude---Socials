@@ -9,6 +9,22 @@ inputs_status: audience.md and swipe-file.md are live (built from real data); vo
 
 # Ideation Brief (The Analytical Athlete) — 2026-09-07
 
+## Note on this file's history (added when the project was split out)
+
+This brief was written and revised four times while this project still
+lived under `brands/analytical-athlete/` inside the main repo, before
+Luke's instruction to make LinkedIn a completely separate project. Some
+file paths mentioned below in earlier revisions (`principles.md`,
+`hook-frameworks.md`, `ost-10-10-formats.md`, `research/reddit-running-
+themes-summary.md`, `ideas/engine-room-nutrition/...`) refer to that
+prior location and are kept here as an honest historical record of
+where each idea's underlying facts/devices were originally sourced —
+they are not live dependencies. The actual facts referenced (the
+SGLT1/GLUT5 fueling physiology, the GI-distress research theme, the
+power-word bank, the AI-slop rule, etc.) are now copied into this
+project's own `../craft-reference.md` and `../brand/pillars.md`, which
+is what the ideate skill actually reads going forward.
+
 ## FOURTH REVISION, same day: the LinkedIn hook gets the full on-screen-text craft toolkit
 
 Luke's instruction: stop treating the LinkedIn headline as a separate,

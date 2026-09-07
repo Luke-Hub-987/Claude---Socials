@@ -8,16 +8,11 @@ updated_at: 2026-09-07
 # Competitors / Reference Creators — The Analytical Athlete (LinkedIn)
 
 **Incomplete — only two references named so far, both structural/style
-references rather than a competitor list to scan for topics.** Unlike
-the personal and ERN brands, this file does not (yet) drive an
-automated scrape: `scripts/*_outliers.py` covers YouTube, Instagram,
-Reddit, and TikTok, and there is no equivalent LinkedIn scraper in this
-repo. LinkedIn is a materially harder scrape target (aggressive
-anti-scraping, ToS exposure) than the other three platforms already
-wired up here. Until/unless that changes, this brand's primary fuel is
-Luke's own `swipe-file.md`, not competitor outliers — see
-`ideate-analytical-athlete`'s SKILL.md for how that trade-off is
-handled.
+references rather than a competitor list to scan for topics.** This
+project has no automated LinkedIn scraper — LinkedIn is a materially
+harder scrape target (aggressive anti-scraping, ToS exposure) than
+other platforms. Until/unless that changes, this project's primary
+fuel is Luke's own `swipe-file.md`, not competitor outliers.
 
 ## Named references (style/structure, not topic sources)
 
@@ -40,6 +35,7 @@ handled.
   structurally, that I can pull manually with WebFetch the same way
   `swipe-file.md` was built, rather than scraping at scale.
 - Whether a LinkedIn Apify actor is worth wiring up as a real scraper
-  (`scripts/linkedin_outliers.py`, mirroring the existing four) — worth
-  attempting only if Luke wants ongoing competitor-outlier scanning
-  rather than a one-off manual pull.
+  (would live inside this project, not the shared repo's `scripts/`
+  folder, per the separate-project instruction) — worth attempting
+  only if Luke wants ongoing competitor-outlier scanning rather than a
+  one-off manual pull.
