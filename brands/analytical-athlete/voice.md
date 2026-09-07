@@ -58,10 +58,21 @@ line at a time and asking "does this line alone earn the next one."
    ("The Analytical Athlete"), with a growing subscriber count as
    social proof ("Join 145+ working professionals") and a single link.
    This is the money line — never cut it, never bury it, never make it
-   vague ("check out my page").
+   vague ("check out my page"). **Confirmed 2026-09-07: the link
+   resolves to `engineroomnutrition.com/pages/fuel-1` — this funnels
+   into Engine Room Nutrition's own list, not a separate product** (see
+   `audience.md` and `swipe-file.md`). "The Analytical Athlete" is the
+   name/voice of this content stream, the destination and eventual
+   offer are ERN's.
 
 ## Voice samples (verbatim opening lines, real posts, with performance)
 
+- "Companies led by marathon-running CEOs are worth measurably more
+  than those that aren't." — 65,693 impressions, 176 reactions, 175
+  link clicks (phone-verified; the strongest real performance in the
+  account's history, see `swipe-file.md`'s correction note — an
+  earlier draft of this file wrongly flagged this post's pattern as
+  underperforming based on bad data)
 - "Same intake. Same bonus. One leaves at 5:30 to train for their PB in
   the half-marathon. 3 years on, what they take home has quietly come
   apart." — 2,736 impressions, 19 engagements

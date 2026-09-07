@@ -39,10 +39,15 @@ brand's docs start populated from real data rather than empty.
 5. `brands/analytical-athlete/competitors.md` — named style references
    (Justin Welsh, Ogilvy/Caples) and any LinkedIn URLs Luke has since
    given for manual reference.
-6. `voice-rules.md` — universal rules (no em-dashes, no hedging, no
+6. `brands/engine-room-nutrition/pillars.md` (its "Product context"
+   section) — confirmed 2026-09-07: this brand funnels into ERN, not a
+   separate product. Read this so CTAs and any product claims stay
+   accurate to ERN's real, pre-manufacturing stage rather than
+   inventing an "Analytical Athlete" offer.
+7. `voice-rules.md` — universal rules (no em-dashes, no hedging, no
    corporate filler — note LinkedIn is exactly the platform this rule
    is guarding against).
-7. `principles.md` — P1 (TAM/unique angle/money) and P2
+8. `principles.md` — P1 (TAM/unique angle/money) and P2
    (counter-positioning) apply directly and are worth citing. Treat
    the rest of that file with judgment: it was built for short-form
    video (on-screen text, watch-time, skip-rate) and much of it
@@ -79,7 +84,7 @@ Per-idea schema:
   hook: <MANDATORY. The literal opening 1-3 lines as they'd appear before LinkedIn's "see more" cutoff. This is the equivalent of the on-screen-text hook in the other brands' schemas — it IS the headline here, there's no separate visual layer. Must be a single sharp claim or contrast, per voice.md's post-structure model, never a scene-setter or a question that needs the reader to already care>
   body_talking_points: <3-6 short bullets in the line-by-line "slippery slide" order: hook -> mechanism/research citation -> reframe onto reader's own life, 2nd person -> transition to CTA. Talking points to riff on when actually writing the post (P19-style), not a verbatim script>
   research_claim: <Any specific number/study the idea leans on, with its source. If genuinely sourced (from research/ files in this repo, or something Luke has explicitly told you), cite it. If no real source exists yet, write "NEEDS REAL CITATION — do not publish until sourced" instead of inventing one. Never fabricate a study or statistic, this is a hard rule, see below>
-  cta: <The newsletter close, naming "The Analytical Athlete" and the current subscriber count from swipe-file.md's "Newsletter growth" section (use the latest figure, note it'll be stale by publish time and Luke should update it)>
+  cta: <The newsletter close, naming "The Analytical Athlete" and the current subscriber count from swipe-file.md's "Newsletter growth" section (use the latest figure, note it'll be stale by publish time and Luke should update it). Confirmed: this funnels into Engine Room Nutrition's own list (engineroomnutrition.com/pages/fuel-1), not a separate product — see audience.md. Don't invent Analytical-Athlete-specific offers or claims about what happens after signup beyond what brands/engine-room-nutrition/pillars.md's product context actually supports>
   voice_match: <one line citing which voice.md device this uses: the engine metaphor, direct 2nd-person address, a PS-line secondary hook, etc.>
   swipe_file_precedent: <MANDATORY. Which real post in swipe-file.md this idea's mechanism is modeled on, by date/title. If it can't be traced to a real precedent, it's a stretch idea — say so explicitly rather than pretending it's proven>
   briar_principle: <P1 or P2 from principles.md if genuinely applicable, otherwise omit the field rather than forcing a citation>
@@ -89,12 +94,19 @@ Per-idea schema:
 
 Per `pillars.md`: 4 Pillar 1 (career-capacity narrative), 2 Pillar 2
 (research-backed performance science), 2 Pillar 3 (practical training
-protocols), 2 Pillar 4 (personal proof-of-concept). Within Pillar 4,
-do NOT produce a celebrity-namedrop-only idea (Bezos/Branson/Ramsay-
-style, someone else's story with no Luke-specific angle) — the swipe
-file shows this is the one pattern in the post-pivot era that
-underperformed everything else. A Pillar 4 idea needs Luke's own race,
-result, or lived detail as the anchor.
+protocols), 2 Pillar 4 (personal proof-of-concept). An earlier version
+of this rule banned other-people's-story ideas (Bezos/Branson/Ramsay-
+style) from Pillar 4 outright — that was based on xlsx numbers later
+found to be unreliable for pre-6/10/2026 posts, and the best-verified
+post in the account's history ("Companies led by marathon-running
+CEOs") is exactly that shape. The real rule per `pillars.md`: an
+other-person's-story idea needs a **real, specific, named research
+citation** underneath it (a named study, a real data point), not just
+an anecdote about someone famous — that's what separated the verified
+winner from the still-unverified mid-tier posts in that shape. A
+Pillar 4 idea built on Luke's own race/result/lived detail is always
+safe; a Pillar 4 idea built on someone else's story needs the citation
+test to pass.
 
 ### Hard rules
 

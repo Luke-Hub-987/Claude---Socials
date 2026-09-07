@@ -4,9 +4,13 @@ Content ideation engine covering three separate brands:
 
 - **Personal** — Luke's personal brand (@luke_morrison_er), IG/TikTok/YouTube, video
 - **Engine Room Nutrition (ERN)** — the company account (@engineroomnutrition), video
-- **The Analytical Athlete** — Luke's LinkedIn/newsletter brand
-  (@luke-morrison-aca-cta), text posts, no video, funnels to an email
-  list ahead of a future paid offer
+- **The Analytical Athlete** — Luke's LinkedIn content identity
+  (@luke-morrison-aca-cta), text posts, no video. Confirmed: this is
+  **not** a separate business — every post's CTA funnels into Engine
+  Room Nutrition's own pre-launch email list
+  (`engineroomnutrition.com/pages/fuel-1`), reaching a different
+  audience (finance/professional-services peers) than ERN's own
+  IG/TikTok account
 
 Each brand has its own voice, pillars, audience, and competitor set,
 and its own `/onboard-*` and `/ideate-*` skill so ideas never blend

@@ -2,19 +2,90 @@
 type: swipe-file
 brand: analytical-athlete
 status: live
-source: AggregateAnalytics_Luke_Morrison_ACA_CTA_20260610_20260907.xlsx (LinkedIn native export, uploaded by Luke)
+source: AggregateAnalytics_Luke_Morrison_ACA_CTA_20260610_20260907.xlsx (LinkedIn native export) + phone Post Analytics screenshots, both uploaded by Luke
 updated_at: 2026-09-07
 ---
 
 # Swipe File — The Analytical Athlete (LinkedIn)
 
 Real data, not reconstructed from memory. Source: Luke's own LinkedIn
-"Aggregate Analytics" export (DISCOVERY, ENGAGEMENT, TOP POSTS,
-FOLLOWERS, AUDIENCE DEMOGRAPHICS, CONTENT DEMOGRAPHICS sheets),
-covering the LinkedIn-reported window 6/10/2026-9/7/2026 for daily
-trend data, plus a "top 50 posts of all time" table that reaches back
-to 2018. Post text below was pulled directly from the live LinkedIn URL
-for each post (WebFetch), not guessed from the slug.
+"Aggregate Analytics" xlsx export (DISCOVERY, ENGAGEMENT, TOP POSTS,
+FOLLOWERS, AUDIENCE DEMOGRAPHICS, CONTENT DEMOGRAPHICS sheets), plus
+in-app "Post analytics" screenshots for individual posts (these carry
+real link-click and follower-conversion data the xlsx export doesn't
+have at all). Post text below was pulled directly from the live
+LinkedIn URL for each post (WebFetch), not guessed from the slug.
+
+## CORRECTION, 2026-09-07: the xlsx "Impressions" column undercounts
+## posts published before the export's date window by ~1000x
+
+The xlsx TOP POSTS sheet covers the window 6/10/2026-9/7/2026. A first
+draft of this file treated its Impressions/Engagements columns as
+lifetime totals for every post and ranked all posts on that basis. That
+was wrong for any post **published before 6/10/2026**: Luke's phone
+screenshot of "Companies led by marathon-running CEOs..." (published
+4/26/2026) shows **65,693 lifetime impressions and 175 clicks** to the
+CTA link. The same post's row in the xlsx shows only **56 impressions**.
+For a post published inside the window ("Same intake, same bonus,"
+6/11/2026), the two sources agree almost exactly (2,736 in the xlsx vs
+2,737 on the phone) — so the xlsx number is real, it's just scoped to
+impressions gained *during the reporting window*, not lifetime, and a
+post born before that window shows only its trailing trickle.
+
+**Consequence: the original version of this file's claim that
+celebrity-namedrop posts (Bezos, Branson, Ramsay, the marathon-CEOs
+post) "underperformed everything else" was built on that bad
+comparison and was backwards** — the marathon-CEOs post is actually one
+of the strongest posts in the account's history by both impressions and
+real link clicks. That claim is retracted; see the corrected section
+below. Full text of that post is also now included, and structurally it
+matches the winning pattern (a real research citation + the training-
+to-career bridge), not a bare celebrity namedrop — the earlier
+characterization of it was simply wrong.
+
+**Per Luke's direct instruction (2026-09-07): everything before
+"Companies led by marathon-running CEOs..." (4/26/2026) — the entire
+tax/accounting/news-commentary era, 2018 through March 2025, plus the
+one earlier running post from 4/23/2026 — is excluded from this
+brand's working dataset.** Not because the numbers are unreliable
+(some may be), but because Luke has directly said to build forward
+from that post, not backward from the tax era. That old content is
+summarized at the bottom of this file for historical record only, not
+as pillars evidence.
+
+## Confirmed: this funnels into Engine Room Nutrition, not a separate business
+
+The CTA link (`lnkd.in/epPvBWP4`) resolves to
+**`engineroomnutrition.com/pages/fuel-1`** — ERN's own site. Confirmed
+by Luke directly: **this is the same business as
+`brands/engine-room-nutrition/`**, not a separate product. "The
+Analytical Athlete" is the content identity/voice for this specific
+LinkedIn audience (see `voice.md`), and per
+`brands/engine-room-nutrition/audience.md`, ERN is pre-manufacturing
+and its content funnel already points to email signup rather than
+purchase for exactly this reason — LinkedIn is simply a second
+top-of-funnel channel into that same list, reaching a different
+audience segment (finance/professional-services peers, see
+`audience.md`) than ERN's own IG/TikTok account (endurance athletes).
+Treat `brands/engine-room-nutrition/pillars.md` and its product-context
+section as the ground truth for what the eventual offer actually is —
+don't invent a separate "Analytical Athlete" product.
+
+## Real per-post analytics (phone-verified, most reliable data in this file)
+
+| Post | Impressions | Profile viewers | Followers gained | Reactions | Comments | Link clicks (fuel-1) |
+|---|---|---|---|---|---|---|
+| "Companies led by marathon-running CEOs..." (4/26/2026) | 65,693 | 222 | 7 | 176 | 10 | 175 |
+| "Same intake. Same bonus..." (6/11/2026) | 2,737 | 11 | 1 | 7 | 0 | 12 |
+
+**Companies led by marathon-running CEOs is the standout by every real
+metric here** — 65,693 impressions and 175 link clicks vs. 2,737 and 12
+for the next one. That's a ~14x higher click-through despite ~24x the
+impressions, i.e. roughly the same click-through rate — worth noting
+this isn't just a reach outlier, the conversion rate held up at scale.
+More screenshots from Luke will keep improving this table; treat the
+xlsx-only numbers below it as directional, not final, for any post
+before 6/10/2026.
 
 ## Account-level numbers (for context, not per-post)
 
@@ -31,22 +102,40 @@ for each post (WebFetch), not guessed from the slug.
   either way it's the kind of thing `/ideate-analytical-athlete` can't
   fix by itself — it needs him actually posting the ideas.
 
-## The pivot (the single most important fact in this file)
+## Working dataset starts at 4/26/2026
 
-Every post from 2018 through March 2025 is generic tax/accounting/news
-commentary or personal-life content (career news, rugby World Cup
-posts, Irish tax law explainers, tax history trivia). **Every single
-one of those posts sits at 4-20 impressions** — effectively nobody saw
-them. Starting April 2026 the account pivoted to training/career
-content and impressions began climbing, reaching four figures by June
-and 17,353 on the best post in August. **Do not resurrect the
-pre-2026 tax/news/commentary format as a pillar** — this isn't a
-hunch, it's the clearest signal in the entire dataset: 25+ posts at
-single-digit-to-teens impressions on one side, a sustained climb into
-the thousands on the other, and the dividing line is exactly the topic
-pivot.
+Per Luke's direct instruction, the tax/accounting/news-commentary era
+(2018-March 2025) is excluded outright, not compared against — see the
+correction note above. **Do not resurrect the pre-2026
+tax/news/commentary format as a pillar regardless** — even setting the
+window-scoping issue aside, those posts' in-window numbers (4-20
+impressions each) are consistent with genuinely dead content, and
+Luke's own instinct to abandon that format matches what evidence exists.
+The working dataset below runs chronologically from "Companies led by
+marathon-running CEOs..." (4/26/2026) onward.
 
-## Top performers, full text (chronological, all from the post-pivot era)
+## Top performers, full text (chronological, from the working dataset)
+
+### 4/26/2026 — 65,693 impressions (phone-verified), 176 reactions, 10 comments, 175 link clicks — the strongest post in the account's history by every real metric
+**"Companies led by marathon-running CEOs are worth measurably more
+than those that aren't."**
+
+Cites a peer-reviewed study tracking S&P 1500 executives, matching
+marathon finish data (references Nick Thompson, CEO of The Atlantic,
+running sub-2:30) against company valuation, holding after controlling
+for age, tenure, and company size. Key finding: the effect was
+strongest among the busiest CEOs — "those with the least logical reason
+to train for marathons." Offers three mechanisms: stress tolerance
+(training under load improves performance under pressure), long-term
+thinking (marathon training selects for delayed gratification), and
+recovery discipline (physical recovery management transfers to
+cognitive recovery management). Closes: "If this is your domain —
+serious career, serious training — the Analytical Athlete newsletter
+goes out weekly." This is a research-citation + career-capacity post,
+structurally identical to the later top performers below, not a bare
+celebrity namedrop — see the correction note above for why an earlier
+draft of this file mischaracterized it.
+[Source](https://www.linkedin.com/posts/luke-morrison-aca-cta-b35316140_companies-led-by-marathon-running-ceos-are-share-7454058892059176960-fgX5)
 
 ### 6/11/2026 — 2,736 impressions, 19 engagements
 **"Same intake. Same bonus. One leaves at 5:30 to train for their PB in
@@ -192,12 +281,18 @@ a motivation milestone every 4 weeks of a marathon block. CTA to email
 signup for a free endurance guide.
 [Source](https://www.linkedin.com/posts/luke-morrison-aca-cta-b35316140_dublin-marathon-training-bored-of-the-same-share-7498844558223470592-r9YY)
 
-## Mid-tier posts, post-pivot (title only, not yet fetched in full — pull these before writing more ideas if the pattern above needs more evidence)
+## Mid-tier posts, working dataset (xlsx numbers only — treat as unreliable/undercounted, per the correction above, until Luke sends real per-post data)
 
-| Date | Title (from slug) | Impressions | Engagements |
+All of these were published before the xlsx export's 6/10/2026 window
+start, so — per the marathon-CEOs example above — their real lifetime
+impressions/clicks are almost certainly much higher than shown here.
+**Do not rank or draw pillar conclusions from these numbers alone.**
+Full text not yet fetched for these; worth pulling if Luke sends real
+screenshots for any of them, since the marathon-CEOs precedent suggests
+some of these may be genuinely strong posts hiding behind bad data.
+
+| Date | Title (from slug) | xlsx impressions (unreliable) | xlsx engagements |
 |---|---|---|---|
-| 4/23/2026 | The truth about training for a marathon while... | 28 | – |
-| 4/26/2026 | Companies led by marathon-running CEOs are... | 56 | 2 |
 | 4/30/2026 | The truth about how Gordon Ramsay has sustained... | 23 | – |
 | 5/4/2026 | Most endurance athletes notice their legs... | 24 | – |
 | 5/10/2026 | The CEO of a $1.4 trillion company entered... | 31 | – |
@@ -207,30 +302,13 @@ signup for a free endurance guide.
 | 5/27/2026 | Peak 5&8: a choice between calling mountain... | 189 | 3 |
 | 6/7/2026 | 3,000 people finished the full Cork City... | 205 | 5 |
 
-**Pattern worth flagging:** the celebrity-namedrop posts here (Bezos,
-Branson, Ramsay, "$1.4T CEO," marathon-running CEOs in general) all sit
-at the bottom of the post-pivot era, 23-86 impressions — an order of
-magnitude below the top-10 posts above, none of which lean on a
-celebrity's story without Luke's own specific angle attached. See
-`pillars.md` — this is why the celebrity-namedrop format is flagged as
-underperforming rather than treated as a safe pillar just because it's
-"about" the right topic.
+## Excluded (2018-March 2025 tax/accounting/news era, plus one 4/23/2026 running post)
 
-## Pre-pivot / off-topic posts (low performers, 2018-2025, for contrast only)
-
-All at 4-20 impressions regardless of topic: Irish/UK tax law
-explainers and news commentary (dividends, medical expenses, Trump
-tariffs/OECD tax deal, digital services tax, Lloyds Banking Group
-fine), tax history trivia (the "decimation tax"/Cromwell, the "brick
-tax"), personal-life posts (2018 graduation, 2019 gratitude post), and
-2023 Rugby World Cup travel posts. Two early running posts also predate
-the pivot and underperformed: "Running through work goals, literally"
-(8/27/2025, 17 impressions) and "Climbed almost half of Everest in the
-mountains" (9/24/2025, 35 impressions) — worth noting these show the
-running *topic* alone wasn't sufficient before the training-as-career-
-capacity *angle* and consistent CTA structure were added; the pivot is
-the whole package (audience.md + voice.md + pillars.md together), not
-just "post about running instead of tax."
+Excluded from the working dataset per Luke's direct instruction (see
+correction note above), not analyzed further. For the record: this era
+was Irish/UK tax law explainers, tax news commentary, tax history
+trivia, personal-life posts, and 2023 Rugby World Cup travel posts, all
+showing 4-20 impressions in-window.
 
 ## Newsletter growth (subject-line proof-of-work, useful for CTAs)
 
@@ -240,18 +318,19 @@ every new post's CTA rather than reusing a stale figure.
 
 ## Gaps in this file (need Luke)
 
-- **Per-post signup/click data on the `lnkd.in/epPvBWP4` link.** This
-  export only has impressions/engagements. The real target metric per
-  `audience.md` is newsletter signups; right now we can't tell which
-  post actually converted best, only which got seen/reacted to most.
-- **Images/carousels.** Every post fetched above showed only a generic
+- **Per-post click data for everything except the 2 posts above.**
+  Luke has shown click-through is real signal (marathon-CEOs held its
+  click-through rate even at 24x the reach) — more Post Analytics
+  screenshots, especially for the "mid-tier" table above, would very
+  likely reshuffle which posts count as top performers.
+- **Images/carousels.** Every post fetched showed only a generic
   LinkedIn link-preview thumbnail, no actual custom image or
-  document-carousel was detected in any top performer — worth
-  confirming with Luke whether that's accurate (WebFetch may not
-  surface native image attachments reliably) or whether some of these
-  did carry a real photo/graphic that didn't come through.
+  document-carousel was detected — worth confirming with Luke whether
+  that's accurate (WebFetch may not surface native image attachments
+  reliably) or whether some of these did carry a real photo/graphic
+  that didn't come through.
 - **The Claude Project "what works well" summary** Luke mentioned —
-  paste it in, it likely covers a longer history than this ~13-week
-  export and may surface patterns this file missed.
-- **Full text of the mid-tier and pre-pivot posts**, if Luke wants a
-  more complete picture than the top-10 analyzed in depth here.
+  paste it in, it likely covers a longer history than this export and
+  may surface patterns this file missed.
+- **Full text of the mid-tier posts**, worth pulling once/if Luke
+  confirms any of them are real performers via screenshot.

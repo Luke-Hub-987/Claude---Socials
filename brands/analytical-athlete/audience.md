@@ -7,6 +7,19 @@ updated_at: 2026-09-07
 
 # Audience / ICP — The Analytical Athlete (LinkedIn)
 
+**Confirmed by Luke (2026-09-07): this funnels into Engine Room
+Nutrition, not a separate business.** The CTA link on every post
+resolves to `engineroomnutrition.com/pages/fuel-1` — ERN's own
+pre-launch signup page (see `brands/engine-room-nutrition/audience.md`,
+ERN is pre-manufacturing and already runs an email-first funnel for
+this reason). "The Analytical Athlete" is the content identity/voice
+for this specific LinkedIn audience, not a second product or a second
+list. This audience is genuinely different from ERN's own IG/TikTok
+audience (see below) but they're being funneled toward the same
+eventual offer — treat `brands/engine-room-nutrition/pillars.md`'s
+product-context section as the real target, don't invent a separate
+"Analytical Athlete" product when writing CTAs or ideas.
+
 Built from real LinkedIn Aggregate Analytics data (`AggregateAnalytics_Luke_Morrison_ACA_CTA_20260610_20260907.xlsx`, AUDIENCE DEMOGRAPHICS + CONTENT DEMOGRAPHICS sheets), not assumed. **This directly contradicts the working assumption that LinkedIn's ICP is the same as the personal IG/TikTok brand's** (`brands/personal/audience.md` — runners/endurance athletes, no employment framing at all). The two are different audiences and this brand should not borrow that file.
 
 ## Who they actually are (from the data)
@@ -35,4 +48,4 @@ Luke is a credible peer, not an outside influencer: ACA/CTA-qualified, in the sa
 
 ## Open question for Luke to confirm
 
-- **The real optimization target is newsletter signups (leading to a future paid offer), not impressions or reactions** — per his stated goal. The current export has no per-post click/signup data, only impressions and engagements. Until that's available, ideation should treat impressions/engagements as a proxy, but flag this gap rather than pretending they're the real metric. Worth asking Luke whether he can pull click-through or signup numbers on the `lnkd.in/epPvBWP4` link per post (Bitly/LinkedIn campaign manager/newsletter platform should have this).
+- **The real optimization target is signups to ERN's email list (leading to the eventual paid product), not impressions or reactions.** Luke's own phone "Post analytics" screenshots show this data exists (link clicks to `fuel-1` per post) and it's genuinely informative — see `swipe-file.md`'s "Real per-post analytics" table, where the best-by-impressions post also held its click-through rate at scale. Getting more of these screenshots, or a full click-data export, would meaningfully improve which posts/patterns this brand treats as proven.
