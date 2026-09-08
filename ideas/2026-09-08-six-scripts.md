@@ -114,49 +114,44 @@ written. Softened above, with what changed:
 Also: the OST now says euro, since all four prices are in euro. Check
 that is the currency he wants on screen.
 
-# PERSONAL 2 — The 3 levels of an easy run
+# PERSONAL 2 — The 3 levels of an easy run (v2, fast to value)
 
 **OST:** "The 3 levels of an easy run" *(level 1 is why you are always tired)*
 
 **[VERBAL HOOK]**
-"If you finish most of your runs mildly wrecked and your race times
-have not moved in a year, you are almost certainly on level one, and
-you can stay there for a very long time because nothing about it feels
-wrong. The people whose sessions keep getting better are not training
-harder than you on the hard days. They are two levels up on the easy
-ones, and the jump takes one run to make."
-
-**[AHA 1, the frame]**
-"All three levels are answers to one question, which is what easy is
-actually for. It is not a smaller version of a session. It is the
-volume you can absorb without paying for it later."
+"If you finish most runs mildly wrecked and your times have not moved
+in a year, you are on level one, and nothing about it feels wrong
+enough to make you change it. The people whose sessions keep improving
+are not working harder on the hard days, they are two levels up on the
+easy ones."
 
 **[LEVEL 1]**
-"Level one is every run landing at roughly the same moderate effort. It
-feels productive because nothing is ever wasted, and it is why the hard
-days never feel good."
+"Level one is every run landing at roughly the same moderate effort,
+because it feels wasteful to go slower. Nothing is ever hard enough to
+build anything and nothing is ever easy enough to recover from, so you
+arrive at every session slightly flat. If your hard days never feel
+good, that is the reason, and it is fixable on your next run."
 
 **[ON SCREEN ONLY]**
 "1 marathon. Ultras: Connemara 60k, Seven Sisters 55k."
 
-**[AHA 2, the mechanism]**
-"Here is the part nobody explains. Easy pace is not a number you set,
-it is whatever pace lets you hold a full conversation on the day you
-are on. Same runner, same route, and that pace can move by a minute a
-kilometre depending on sleep, heat and what you did yesterday ⚑."
-
 **[LEVEL 2]**
-"So level two is running easy off your watch, which drifts faster every
-week without you noticing, and leaves you slightly tired every single
-day."
+"Level two is running easy off a number on your watch. The problem is
+that easy is not a fixed pace, it is whatever lets you hold a full
+conversation on the day you are on, and that moves with sleep, heat and
+what you did yesterday ⚑. So the number stays still, your body does
+not, and you are slightly tired every day without ever being able to
+point at why."
 
 **[LEVEL 3]**
-"Level three is running easy off your breathing and walking the hills
-if you have to. It is uncomfortable for about three weeks because of
-what it does to your average pace, and then your sessions start moving."
+"Level three is running easy off your breathing, walking the hills if
+you have to, and letting the pace be whatever it is. It is
+uncomfortable for about three weeks because of what it does to your
+average, and then the hard sessions start moving, which is the entire
+point of the easy ones."
 
 **[PAYOFF]**
-"Nobody skips from one to three by deciding to. You do it one run at a
+"Nobody jumps from one to three by deciding to. You do it one run at a
 time, and the only level that costs you anything is the one where every
 day feels the same."
 
@@ -166,217 +161,204 @@ three. Save this for your next easy day."
 
 ---
 
-# PERSONAL 3 — Threshold sessions
+# PERSONAL 3 — Threshold sessions (v2, fast to value)
 
 **OST:** "The 3 signs your threshold sessions stopped working"
 *(sign 2 shows up in the last rep)*
 
-*Alternative if the counted-list wrapper feels stale (P67):* **"Your
+*Alternative if the counted wrapper feels stale (P67):* **"Your
 threshold sessions stopped working about six weeks ago"** ⚑
 
 **[VERBAL HOOK]**
-"If you have been doing the same threshold session every week and your
-ten kilometre time has not moved since spring, the session is not
-building anything any more, and you can repeat it for another six
-months without ever getting the feedback that would tell you. There are
-three signs it has gone stale, and two of them show up inside the
-session itself."
-
-**[AHA 1, the frame]**
-"Threshold work stops paying when the pace stops matching the runner.
-The number was right when you set it, and you have been defending it
-ever since."
+"If you have run the same threshold session every week since spring and
+your ten K time has not moved, that session has stopped building
+anything, and it will not tell you. Two of the three signs show up
+inside the session itself, so you can check on Tuesday."
 
 **[SIGN 1]**
-"The pace is the same but it costs more. Same session, same splits, and
-your heart rate is sitting higher for it than it did two months ago ⚑.
-That is the clearest one and almost nobody tracks it."
+"Same session, same splits, higher heart rate than two months ago ⚑.
+That is the clearest signal there is and almost nobody looks for it,
+because the splits look fine and the splits are what gets written down.
+Go back through two months of the same session and compare the average
+heart rate. It takes about a minute."
 
 **[ON SCREEN ONLY]**
 "1 marathon. Ultras: Connemara 60k, Seven Sisters 55k."
 
 **[SIGN 2]**
-"The last rep falls apart. If you are hanging on through the final one
-most weeks, you are racing the session rather than training, and you
-will pay for it on the long run two days later."
+"The last rep falls apart most weeks. Hanging on through the final one
+feels like effort well spent, but you are racing the session rather
+than training, and you pay for it on the long run two days later
+instead."
 
-**[AHA 2 + SIGN 3]**
-"And the third one is the giveaway. Your threshold pace came from a
-race you ran a while ago, so as you got fitter the number stayed
-still, and now you are running a session that is too easy to build
-anything and too hard to recover from ⚑."
+**[SIGN 3]**
+"And this is the one underneath the other two. Your threshold pace came
+from a race you ran a while back. You got fitter, the number stayed
+still, and now the session is too easy to build anything and too hard
+to recover from ⚑."
 
-**[PAYOFF]**
-"The fix is not a harder session. It is a current number, taken from
-something you ran this month, and then the same session starts working
-again."
+**[THE FIX]**
+"The fix is not a harder session, it is a current number. Take it from
+something you actually ran this month, reset the pace, and the same
+session starts working again."
 
 **[THREAD + CTA]**
-"Next one is how to get that number without racing ⚑. Save this before
-your next threshold day."
+"Next one is how to get that number without racing for it ⚑. Save this
+before your next threshold day."
 
 ---
 
-# ERN 1 — Race morning
+# ERN 1 — Race morning (v2, fast to value)
 
 **OST:** "What people actually eat at 5am before a marathon"
 *(and the ones that come back up)*
 
 **[VERBAL HOOK]**
-"If you have ever stood in a kitchen at five in the morning on race
-day, not hungry, forcing something down and hoping it is the right
-thing, that guess decides your first ten kilometres. We read a few
-hundred race reports and the same handful of breakfasts come up again
-and again, along with the ones people regret by twenty five K."
+"Standing in a kitchen at five in the morning, not hungry, forcing
+something down and hoping it is right, is how most people pick a race
+breakfast, and that guess decides your first ten kilometres. We read a
+few hundred race reports, and the same handful comes up over and over."
 
-**[AHA 1, the frame]**
-"Almost nobody picks a race breakfast. They eat whatever they ate
-before their best training run and hope it scales, and a training run
-does not have three hours of adrenaline in front of it."
-
-**[THE LIST, from real race reports]**
-"Porridge, small bowl, no coffee, just water. Three plain bagels. A
-banana with peanut butter. White rice. Pop tarts, which come up far
-more often than you would think. Every one of them is the same thing,
-which is simple carbohydrate that is low in fibre and completely
-familiar."
+**[THE LIST, straight in]**
+"A small bowl of porridge, no coffee, just water. Three plain bagels. A
+banana with peanut butter. White rice. Pop tarts, far more often than
+you would expect. Every one of them is simple carbohydrate, low in
+fibre, and completely familiar to the person eating it, which is the
+only pattern that matters."
 
 **[ON SCREEN ONLY]**
 "2 accountants. ⚑[N] failed batches. Still pre-launch."
 
-**[AHA 2, the mechanism]**
-"The ones that come back up have one thing in common too. High fibre,
-high fat, or new. Race morning is the worst possible day to introduce
-your stomach to something, because adrenaline has already slowed
-everything down before you have taken a step ⚑."
+**[THE ONES THAT COME BACK UP]**
+"The regrets have a pattern too. High fibre, high fat, or anything new.
+Race morning is the worst possible day to introduce your stomach to
+something, because nerves have already slowed digestion right down
+before you have taken a step ⚑, so a breakfast that is fine on a
+Tuesday is not the same breakfast at seven on Sunday."
 
-**[PAYOFF]**
-"Whatever you pick, eat it before your next three long runs. A race
-breakfast is not a choice you make at five in the morning, it is one
-you already made weeks ago."
+**[THE USEFUL BIT]**
+"So pick one this week and eat it before your next three long runs. A
+race breakfast is not a decision you make at five in the morning, it is
+one you already made weeks earlier, and the only way to know is to have
+run on it."
 
 **[THREAD + CTA]**
-"Next one is the thirty minutes before the gun, which is the bit nobody
-has solved. We are still pre-manufacturing, so the list is in the bio."
+"Next one is the thirty minutes before the gun, which is the part
+nobody has solved. We are still pre-manufacturing, so the list is in
+the bio."
 
 ---
 
-# ERN 2 — Finishing versus racing
+# ERN 2 — Finishing versus racing (v2, fast to value)
 
 **OST:** "The gap between finishing a marathon and racing one"
 *(levels 4 and 5 of eating on the run)*
 
 **[VERBAL HOOK]**
-"If your plan is to get round, sixty grams of carbohydrate an hour will
-get you round. If your plan is to race the last ten kilometres rather
-than survive them, sixty is where you stop being able to, and most
-people never find that out because they never go past it. There are two
-levels above it, and the first one is a ratio."
+"Sixty grams of carbohydrate an hour will get you round a marathon. If
+you want to race the last ten kilometres rather than survive them,
+sixty is the exact point you stop being able to, and almost nobody
+finds that out because almost nobody goes past it."
 
-**[AHA 1, the frame]**
-"Everything above sixty grams an hour is a gut problem rather than a
-willingness problem. The limit is not how much you can face eating, it
-is how much you can actually absorb while running."
-
-**[AHA 2, the mechanism]**
-"Glucose crosses through one doorway that caps out around sixty grams
-an hour ⚑. Fructose goes through a separate one, which is worth another
-thirty to sixty on top ⚑. That is the entire reason anyone can run on
-ninety grams an hour, and it is a ratio rather than a brand."
+**[LEVEL 4, with the mechanism inside it]**
+"Level four is eighty to ninety grams an hour, and it only works as a
+ratio, roughly one to zero point eight glucose to fructose. That is
+because glucose crosses your gut through one doorway that caps out
+around sixty grams an hour ⚑, and fructose goes through a completely
+separate one worth another thirty to sixty on top ⚑. Take ninety grams
+of straight glucose and the extra thirty just sits there."
 
 **[ON SCREEN ONLY]**
 "2 accountants. ⚑[N] failed batches. Still pre-launch."
 
-**[LEVEL 4]**
-"So level four is eighty to ninety grams an hour at roughly one to
-zero point eight, glucose to fructose, and it only works if you
-practise it on long runs first. Try it cold on race day and you will
-spend the last hour regretting it."
+**[THE PRACTICE BIT]**
+"It has to be rehearsed on long runs, because the gut adapts to what
+you regularly ask of it ⚑. Try ninety cold on race day and you will
+spend the last hour of the race regretting it."
 
 **[LEVEL 5]**
 "Level five is over a hundred grams an hour with five hundred to a
-thousand milligrams of sodium ⚑, because that first doorway needs
-sodium to pull the glucose across at all."
+thousand milligrams of sodium ⚑, and the sodium is not for cramp. That
+first doorway needs sodium to pull glucose across at all, which is why
+the people running the highest numbers are also taking the most salt."
 
 **[PAYOFF]**
-"Nobody arrives at level five. You add ten grams an hour, on a long
-run, and you find out where your own limit currently is."
+"Nobody arrives at level five. You add ten grams an hour on a long run,
+see what your stomach does with it, and repeat until it complains. That
+number is your actual ceiling, and it is trainable."
 
 **[THREAD + CTA]**
-"Level three is the last video if you have not seen it. We are still
+"Level three is in the last video if you have not seen it. We are still
 pre-manufacturing, so the list is in the bio."
 
 ---
 
-# ERN 3 — Built for search (P68)
+# ERN 3 — Gels, built for search (v2, fast to value)
 
 **OST:** "Q: Why do gels make you feel sick at 30k?" *(marathon edition)*
 
-**Search build.** The query goes in four places: this on-screen text,
-the first spoken line, the first line of the caption, and a few
-matching hashtags. Nothing in the video is time-bound, so it stays
-findable for years. Judge it at 30 days, not 48 hours.
+**Search build (P68).** The query appears in the on-screen text, the
+first spoken line, the first line of the caption, and a few matching
+hashtags. Nothing in the video is time-bound. Judge it at 30 days.
 
 **Caption opens:** "Why gels make you feel sick at 30k, and what to
 change."
 
-**[VERBAL HOOK, query spoken immediately]**
+**[VERBAL HOOK, query spoken first]**
 "Why do gels make you feel sick at thirty K when the same gel was fine
-on every long run? It is the most common fuelling question there is,
-and the answer is almost never the gel itself, which is why switching
-brands usually changes nothing."
+on every long run? It is almost never the gel, which is why switching
+brands usually changes nothing, and there are three things to change
+instead."
 
-**[AHA 1, the frame]**
-"Three things are all true at thirty kilometres and none of them were
-true in training. You have been running for over two hours, your
-effort is higher than it was on any long run, and you have taken more
-sugar in total than you ever practise with."
-
-**[AHA 2, the mechanism]**
-"As the effort climbs, blood gets sent to your legs and away from your
-stomach ⚑. So the gel arrives somewhere that has largely stopped
-working, sits there, and the nausea people describe is a gel waiting
-rather than a gel disagreeing."
+**[CHANGE 1, with the mechanism inside it]**
+"Take them earlier and closer together. As the effort climbs, blood
+goes to your legs and away from your stomach ⚑, so by the time you feel
+low, you are handing a big load to something that has largely stopped
+working. Every twenty minutes from twenty minutes in beats one an hour
+starting at halfway."
 
 **[ON SCREEN ONLY]**
 "2 accountants. ⚑[N] failed batches. Still pre-launch."
 
-**[WHAT TO CHANGE, 1]**
-"Take them earlier and closer together. Waiting until you feel low
-means asking a stomach that is already struggling to deal with a big
-load at the worst possible moment."
+**[CHANGE 2]**
+"Take water with every single one. A gel on its own is extremely
+concentrated, and concentrated sugar sitting in a stomach that has
+slowed down is exactly the feeling people are describing ⚑. That one
+change fixes it for a lot of people on its own."
 
-**[WHAT TO CHANGE, 2]**
-"Take water with every one. A gel on its own is very concentrated, and
-concentrated sugar sitting in your stomach is exactly what that feeling
-is ⚑."
-
-**[WHAT TO CHANGE, 3]**
-"And practise it. Your gut adapts to what you regularly ask of it ⚑, so
-whatever you plan to take on race day, take it on your long runs from
-now on."
+**[CHANGE 3]**
+"And rehearse it. Your gut adapts to what you regularly ask of it ⚑, so
+taking gels only on race day is asking an untrained stomach to do
+something new in the hardest hour of your year. Take race fuel on your
+long runs from now on."
 
 **[PAYOFF]**
 "Almost nobody needs a different gel. They need it earlier, with water,
-and rehearsed."
+and practised, and all three of those are free."
 
 **[THREAD + CTA]**
-"The full ladder of how much to take is in the last video. We are still
-pre-manufacturing, so the list is in the bio."
+"How much to actually take is the full ladder in the last video. We are
+still pre-manufacturing, so the list is in the bio."
 
 ---
 
-# The claims to check before any of this is filmed (P39)
+# The claims to check before filming (P39)
 
-**Well supported, still worth one citation each:** the ~60g/hour
-single-source ceiling, fructose via a second transporter raising it,
-the sodium-glucose link, blood flow redistribution away from the gut at
-intensity, and gut trainability.
+**Well supported, worth one citation each:** the roughly 60g/hour
+single-source ceiling, fructose through a second transporter raising it,
+the sodium-glucose link, blood flow moving away from the gut as
+intensity rises, gut trainability, and heat adaptation raising plasma
+volume.
 
-**Needs a real source or should be softened:** shoe rotation and injury
-risk, the "two minutes" carbon shoe figure, easy pace moving by a
-minute per kilometre day to day, heart rate drift as a staleness
-signal, and adrenaline slowing digestion on race morning.
+**Needs a source or should stay soft:** easy pace moving day to day
+with sleep and heat, heart rate drift as a staleness signal, nerves
+slowing digestion on race morning, shoe foam lifespan (the usual figure
+is 300 to 500 **miles**, not kilometres), and plated shoes loading the
+Achilles and calf more.
 
-**Needs a number from Luke:** the failed-batch count, and the real
-price of the socks and anti-chafe.
+**Removed as overclaimed, do not put back without a source:** growth
+hormone being the only repair mechanism, massage tools doing nothing at
+all, and tendons absorbing three times body weight from band work.
+
+**Needs a number from Luke:** the failed-batch count, and confirmation
+that prices go on screen in euro.
