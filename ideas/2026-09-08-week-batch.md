@@ -65,28 +65,57 @@ from.*
 
 ---
 
-## ENGINE ROOM NUTRITION
+## ENGINE ROOM NUTRITION — v2
 
-### Top of funnel — race breakfast
-> **Every race breakfast, S to F, by what stays down** ⚑
-*Device: tier list, unused by us and proven four times over in the
-swipe file. Evidence: carbs at 100 mentions, and the porridge, bagels
-and banana threads. Completely CCN, no jargon, and it films on a
-kitchen table.*
+v1 was rejected: not specific enough, too much jargon, and the "3
+signs" wrapper has gone stale. Luke: *"everybody's on here's three
+things you need to do x y z. We need to be better at packaging."*
+Options given per slot, lead option first.
+
+### Top of funnel — race morning
+
+**A. What people actually eat at 5am before a marathon** *(and the ones that come back up)* ⚑
+Lead. Zero jargon, one clock time, and the whole thing is sourced
+verbatim from real race reports: porridge, three plain bagels, pizza
+the night before, a banana with peanut butter, black coffee. Voyeurism
+plus a stated consequence, and it films on a kitchen table.
+
+**B. 8 race breakfasts, ranked by what is still fine two hours later** ⚑
+The tier list without the S-to-F gaming language, which New does not
+read. Only ships if he has genuinely eaten all eight.
+
+**C. The breakfast that ruins the first 10k** ⚑
+Singular and severe, but it is a claim, so it needs a real source
+before it goes on camera.
 
 ### Middle of funnel — the sequel
-> **The 2 levels above the one you are on** *(Levels of fuelling, part 2)*
-*Device: ladder, part 2. This is the single most data-led item in the
-batch. The last video got 26 saves and zero follows because it was
-complete; levels 4 and 5 were cut and never promised. Making the sequel
-turns that video into a series retrospectively and gives the 1,615
-people who watched it a reason to follow.*
+
+**A. The gap between finishing a marathon and racing one** *(levels 4 and 5 of eating on the run)* ⚑
+Lead. v1 was "the 2 levels above the one you are on", which means
+nothing to anyone who did not watch part one. This version stands alone
+for a cold viewer, carries the dream outcome in line 1, and the
+parenthetical does the series work. Plain words throughout.
+
+**B. What runners eating 100 grams an hour do differently** ⚑
+One number, no jargon, borrowed authority without naming anyone.
+
+**C. Level 3 is where most people stop. Two levels sit above it.** ⚑
+Closest to the original series framing, weakest cold.
 
 ### Bottom of funnel — the gut
-> **The 3 signs your stomach is what is capping your long runs** ⚑
-*Device: signs. Evidence: 353 GI mentions and 23 stomach mentions in
-the research, and it is ERN's counter-position stated as a diagnosis
-rather than a pitch.*
+
+**A. The word on a gel packet that decides whether it stays down** ⚑
+Lead. Glossary device, never used by us, and the unit is a physical
+object anyone can pick up. Singular, so maximum fluency. Painkiller in
+money and in vomiting. Needs the real mechanism sourced (ratio and
+osmolality) before filming.
+
+**B. Your stomach quits before your legs do** *(and it decides your last 10k)* ⚑
+The counter-position stated as a diagnosis. Visceral and severe, and it
+is ERN's whole thesis in six words. Needs sourcing, it is a claim.
+
+**C. The ten minutes where your stomach decides your race is over** ⚑
+A scene with a clock on it.
 
 ---
 

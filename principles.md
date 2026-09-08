@@ -2403,6 +2403,37 @@ complete video is a saved video and a lost follower.
 *Source: Luke, correcting the optimisation target and rejecting
 mockery-based content.*
 
+## P67 — The wrapper goes stale, and "3 signs" has gone stale
+
+Luke on a batch built around "the 3 signs your stomach is capping your
+long runs": *"everybody on, like, here's three things that you need to
+do x y zed. We need to be better at packaging those, bit more creative
+there."*
+
+**The devices in `ost-device-library.md` are not a permanent solution,
+they are a rotation with a shelf life.** "3 signs", "3 things", "3
+reasons" are now the default wrapper of every account in every niche,
+so the frame itself has stopped signalling quality. It reads as
+generic before the topic is even processed.
+
+**Two ways out, both used in the same pass:**
+
+1. **Make the unit a physical object.** "3 signs your stomach is the
+   problem" is a category. "The word on a gel packet that decides
+   whether it stays down" is a thing they can pick up, and it takes the
+   count down to one, which reads as a real finding rather than a list.
+2. **State the diagnosis as a sentence, not a count.** "Your stomach
+   quits before your legs do" carries more severity in six words than
+   any three-item list of the same content.
+
+**And the specific failure that triggered this:** "The 2 levels above
+the one you are on" was written for people who saw part one. A sequel
+OST still has to stand alone cold, with the series tie in the
+parenthetical, never in the main clause.
+
+*Source: Luke, rejecting the ERN batch for jargon, vagueness and stale
+packaging.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
