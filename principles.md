@@ -2434,6 +2434,54 @@ parenthetical, never in the main clause.
 *Source: Luke, rejecting the ERN batch for jargon, vagueness and stale
 packaging.*
 
+## P68 — Search is a second distribution channel, and it rewards the opposite shape
+
+Luke, on his own post *"How to run the last 10k faster than the first
+10k (marathon edition)"*: *"it seems to be very search dominated,
+because I get likes and follows weeks after I post it."*
+
+That is the signature of search and recommendation-by-topic rather than
+feed distribution. Feed reach dies in about 48 hours; search reach
+compounds indefinitely. It is also, for this account, the only observed
+mechanism that produces follows **weeks later**, which is the metric
+that matters most (P66).
+
+### The conflict this resolves
+
+P42 says never a how-to on ERN, because every how-to on that grid sits
+at 439-645 views while narrative sits at 1,271-2,158. **That was
+measured on feed performance only.** Search rewards the exact shape the
+feed punishes: a plain "how to [thing someone types]".
+
+**So the rule becomes a lane rule, not a ban.** How-to is allowed on
+ERN when the video is deliberately built for search, and the trade is
+explicit: a lower day-one number in exchange for reach that keeps
+arriving. Judge those videos at 30 days, never at 48 hours.
+
+### What actually makes a video findable
+
+The query has to appear in all four places the platforms index:
+
+1. **The on-screen text** (read by OCR).
+2. **Spoken aloud in the first few seconds** (read from the
+   transcript).
+3. **The first line of the caption.**
+4. **A small number of matching hashtags.**
+
+### How to write the line
+
+- **Use the words people type, not the words that read well.** "How to
+  stop gels making you sick" beats anything clever.
+- **Keep the "how to".** It is the shape of a query.
+- **Put the qualifier in the whisper**, exactly as he did with
+  "(marathon edition)". It adds a second searchable term and doubles as
+  a series device.
+- **Nothing time-bound.** No "this week", no seasonal reference,
+  nothing that dates. It has to still be true in a year.
+
+*Source: Luke, spotting delayed follows on his own how-to post and
+asking for the bottom-of-funnel slot to be built for search.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

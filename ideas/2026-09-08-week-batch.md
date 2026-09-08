@@ -102,7 +102,36 @@ One number, no jargon, borrowed authority without naming anyone.
 **C. Level 3 is where most people stop. Two levels sit above it.** ⚑
 Closest to the original series framing, weakest cold.
 
-### Bottom of funnel — the gut
+### Bottom of funnel — built for search (P68)
+
+Luke's own *"How to run the last 10k faster than the first 10k
+(marathon edition)"* is still pulling likes and follows weeks after
+posting, which is search distribution rather than feed distribution.
+This slot is now built for that deliberately, and judged at 30 days
+rather than 48 hours.
+
+**A. How to stop gels making you sick mid-race** *(marathon edition)* ⚑
+Lead. "Gels making me sick" is a query people actually type, the
+qualifier matches his proven pattern, and it is ERN's counter-position
+answered as a search result.
+
+**B. How to take 90 grams of carbs an hour without wrecking your stomach** *(marathon edition)* ⚑
+Contains two high-volume search terms in one line. Core, and it is the
+natural search sibling of the ladder video.
+
+**C. How to train your gut before a marathon** *(the 6 week version)* ⚑
+"Gut training" is a real and rising query, and the timeframe in the
+whisper makes it a plan rather than a topic.
+
+**D. How to stop hitting the wall at 30k** *(fuelling edition)* ⚑
+Biggest search volume of the four, broadest, least ERN-specific.
+
+**Execution, for any of them:** the exact query goes in the on-screen
+text, is spoken in the first five seconds, opens the caption, and
+appears in a few matching hashtags. Nothing time-bound anywhere in the
+video.
+
+### Bottom of funnel — the gut, feed-first alternatives
 
 **A. The word on a gel packet that decides whether it stays down** ⚑
 Lead. Glossary device, never used by us, and the unit is a physical
