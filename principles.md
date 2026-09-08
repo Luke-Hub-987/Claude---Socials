@@ -2482,6 +2482,43 @@ The query has to appear in all four places the platforms index:
 *Source: Luke, spotting delayed follows on his own how-to post and
 asking for the bottom-of-funnel slot to be built for search.*
 
+## P69 — Time to first value: the viewer gets something usable inside fifteen seconds
+
+Luke: *"I find that you take far too long to actually get into the
+meat, the value within the video. Get to the point quicker, get to the
+value quicker."*
+
+The structure this system had settled into was hook, aha one, silent
+credential, aha two, and only then the first item. That is roughly
+forty seconds of setup before the viewer receives anything they can
+use, on a video whose average watch time is thirty five seconds. **Most
+viewers were leaving before the first useful thing arrived.**
+
+**The rule: item one lands inside fifteen seconds.**
+
+### Where the ahas go instead
+
+They do not get cut, they get **distributed into the items**. Luke's own
+structure for the carbon shoes video is the model, and every item
+carries three beats:
+
+1. **The counter-position.** What everyone does instead, and why it is
+   backwards.
+2. **The mechanism.** Why this actually works, in one sentence.
+3. **How it feels.** The concrete experience, which is the payoff.
+
+That way every item is its own small aha, curiosity resets four times
+instead of once, and the viewer is being paid throughout rather than
+waiting to be paid at the end.
+
+### What survives in front of the first item
+
+The verbal hook, and nothing else. Two sentences: the pain with its
+cost, then the dream outcome with the loop left open. The silent
+credential moves to somewhere after item one, where it costs nothing.
+
+*Source: Luke, on scripts taking too long to reach the value.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

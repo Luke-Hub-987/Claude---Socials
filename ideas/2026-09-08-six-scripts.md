@@ -29,60 +29,90 @@ next line worth staying for.
 
 ---
 
-# PERSONAL 1 — Carbon shoes
+# PERSONAL 1 — Carbon shoes (v2, Luke's four items, fast to value)
 
-**OST:** "The 4 things worth buying before you spend £200 on carbon shoes"
-*(number 3 costs about a tenner)* ⚑
+**Structural change (P69):** v1 spent about forty seconds on a hook and
+two framing ahas before the viewer got anything usable. Item one now
+lands inside fifteen seconds. Each item carries its own
+counter-position, mechanism and payoff, so the aha beats live **inside**
+the value rather than in front of it.
 
-**[VERBAL HOOK]**
-"If you are about to spend two hundred pounds on carbon shoes because
-your times have stalled, you will get maybe a couple of minutes back
-and still have the same problem in eight weeks. The people knocking
-real chunks off did not start with the shoes, and there are four things
-I would buy first, all of them cheaper."
+**OST:** "The 4 things worth buying before you spend €200 on carbon shoes"
+*(number 1 costs €25)*
 
-**[AHA 1, the frame]**
-"Carbon plates make an efficient runner slightly more efficient. They
-do nothing for the reasons most of us actually slow down, which are
-turning up tired, turning up under fuelled, and turning up on legs that
-have never been asked to hold pace."
+**[VERBAL HOOK — pain, cost, dream, loop. Two sentences, no more.]**
+"If your times have stalled and you are about to spend two hundred euro
+on carbon shoes, you will get a few percent back mechanically and still
+have the same legs in eight weeks. These four cost less than a hundred
+between them, and the first one is basically a portable sauna."
 
-**[ITEM 1]**
-"A second pair of normal trainers, so you rotate. Two pairs going at
-once means fresher legs and less repeated load in exactly the same
-place ⚑, and it costs you nothing extra over a year because both last
-longer."
+**[ITEM 1 — €25 thermal base layer]**
+"Everyone buys shoes for a mechanical gain and ignores the cheapest
+biological one, which is running hot. Trap the heat under an extra
+thermal layer and your body responds by building extra blood plasma
+⚑, so every heartbeat delivers more oxygen to your legs. It is
+horrible while you are out there, and then you take the layers off on
+race day and your normal pace feels weightless."
 
 **[ON SCREEN ONLY]**
 "1 marathon. Ultras: Connemara 60k, Seven Sisters 55k."
 
-**[ITEM 2]**
-"Carbs for your long runs. Sixty grams an hour is the single cheapest
-change on this list and it is the difference between finishing your
-long run and surviving it."
+**[ITEM 2 — €15 bounce-free running belt]**
+"People buy carbon shoes for stride efficiency and then carry a phone
+and a bottle in one hand for two hours. Weight in one hand puts your
+shoulders out of line and sends uneven force through your hips and
+lower back on every step ⚑. With a belt you forget you are carrying
+anything, your arm drive stays even, and your cadence stays fast."
 
-**[ITEM 3]**
-"Proper socks and anti-chafe, about a tenner ⚑. Nobody has ever run a
-personal best while walking the last mile because of a blister."
+**[ITEM 3 — €40 heavy kettlebell and bands]**
+"The pitch on carbon foam is that it absorbs impact so your body does
+not have to. Foam is finished in a few hundred kilometres ⚑ and your
+tendons last a lifetime if you load them. Stiff plates actually ask
+more of your Achilles and calves ⚑, so heavy squats, deadlifts and
+banded hip and ankle work are what make that survivable. It is hard on
+gym days, and your knees and shins feel springy on steep downhills."
 
-**[ITEM 4]**
-"A race entry three months out. Nothing makes you train like a date
-you have already paid for."
+**[ITEM 4 — €15 blackout mask and earplugs]**
+"People spend hundreds on massage guns and compression boots for
+recovery. The repair itself happens in deep sleep, when your body
+releases the hormones that rebuild the tissue you broke that morning
+⚑, and ambient light and small noises pull you out of it. Two odd
+nights, then you wake up with fresh legs."
 
 **[PAYOFF]**
-"Buy the shoes eventually. Buy them when the four things above are
-already handled, because that is when they actually give you the two
-minutes."
+"Buy the shoes eventually. Buy them once the blood, the form, the
+tendons and the sleep are handled, because that is when the few percent
+is worth anything."
 
 **[THREAD + CTA]**
 "Next one is what carbon shoes actually do at eleven minute miles ⚑.
 Save this before you spend the two hundred."
 
-**⚑ before filming:** the rotation-and-injury evidence, the real price
-of the socks, and whether he wants to stand behind the two minute
-figure or drop it.
+## Claims in this one to check before filming (P39)
 
----
+Luke supplied this content and four lines in it are overclaimed as
+written. Softened above, with what changed:
+
+1. **Heat adaptation and plasma volume.** Well supported. Kept, worth
+   one citation.
+2. **"Twists your spine off-centre with every footstrike."** Softened
+   to "puts your shoulders out of line and sends uneven force through
+   your hips and lower back", which is defensible.
+3. **"Foam breaks down in 300km."** The usual figure is 300 to 500
+   **miles**, not kilometres. Written as "a few hundred kilometres" ⚑,
+   fix the unit before saying a number on camera.
+4. **"Tendons absorb 3x your body weight on every step."** The
+   multiple varies by speed and by study, and band walks do not produce
+   it. Removed rather than softened.
+5. **"HGH is the only chemical in your body that repairs leg tissue"
+   and "massage tools do zero cell repair."** Both are false as
+   absolutes and are the two lines that would draw a correction in the
+   comments. Rewritten as "the repair itself happens in deep sleep,
+   when your body releases the hormones that rebuild the tissue", which
+   is true and says the same thing usefully.
+
+Also: the OST now says euro, since all four prices are in euro. Check
+that is the currency he wants on screen.
 
 # PERSONAL 2 — The 3 levels of an easy run
 
