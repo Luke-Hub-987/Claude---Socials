@@ -2673,6 +2673,62 @@ device, not the topic.**
 *Source: Briar Cochran on niche monopoly and follower fatigue, supplied
 by Luke.*
 
+## P73 — Caples' four qualities, and specificity as credibility (Cashvertising)
+
+Luke supplied pages 99-109 of Cashvertising with his own margin notes.
+Two things land directly on current work. Full working file:
+`ost-cashvertising.md`.
+
+### 1. News is missing from every OST we have written
+
+Caples: a good headline may possess **self-interest, news, curiosity,
+and the quick easy way.** Audited against all seven current OSTs,
+curiosity and self-interest are always present, **news is absent from
+every one, and the quick easy way from five of seven.**
+
+- **News, honestly available to us:** a test we actually ran, something
+  real found in the research, a seasonal peg like race season, a
+  genuinely new batch. Never invented novelty (P39).
+- **The quick easy way:** "costs €25", "one number", "three fixes, all
+  free", "fix it on your next run", "takes a minute".
+
+Adding the quick easy way to the whisper is nearly free and it is the
+single cheapest improvement available to a finished line.
+
+### 2. The 22 starters, filtered
+
+Usable in these voices: HOW, WHY, THESE, HERE'S, IF YOU, DO YOU, CAN
+YOU, WHICH OF, WARNING, AT LAST, FINALLY, NEW, ANNOUNCING, STARTING
+TODAY. Luke's own "Q:" prefix (2,505 views) is already the DO YOU
+family.
+
+Banned: AMAZING, LOOK, PRESENTING, INTRODUCING, FREE as a shout. Both
+accounts trade on not sounding like advertising.
+
+### 3. Specificity is credibility, and ERN is wasting it
+
+The hardware store that lists "343 kinds of fasteners, 28 types of
+nails, a daily inventory of 354,000 bolts" beats the one that says
+"hammers, screwdrivers, power tools" even when they stock the same
+things. Whitman's reason, and Luke's margin note: **nobody needs the
+information. The length of the specifics implies strength, and because
+hardly anyone else says it, the one who does is judged better.**
+
+**So the bar is never a category, it is always a spec.** Luke's other
+note, "clean label brands like RxBar", is the same idea: RxBar built a
+brand by printing the ingredient list on the front of the packet.
+
+- Weak: "a high carb bar for endurance."
+- Strong: "30 grams of carbs. Rice crisp, honey, sea salt. ⚑[N] failed
+  batches before this one. Built to be eaten standing still thirty
+  minutes before a race, not halfway round one."
+
+Every number we can honestly state is worth stating. The count is the
+credibility, and it costs nothing.
+
+*Source: Cashvertising pages 99-109, supplied by Luke with margin
+notes.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
