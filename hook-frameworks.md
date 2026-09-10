@@ -508,6 +508,26 @@ as the series-banner line.
 
 *Source: Luke, directly, breaking down a real post he admires.*
 
+## HF14 — Hook stacking (supersedes the last ingredient of HF13)
+
+Three hooks before any value, all in one paragraph, roughly ten seconds
+spoken:
+
+1. **Hook.** Pattern interrupt plus the gate. Who this is for.
+2. **Super hook, pain twisted.** What it costs them not to watch,
+   stated at the top of what is plausible.
+3. **Super hook, dream outcome.** The specific state they end up in.
+
+Then the value (P69). A **rehook** is optional and belongs where
+retention normally sags.
+
+Briar's reason is retention, not hooks: engagement happens at the end
+of a video, because people finish, then send, then comment, then save.
+More finishers is the only real lever on all three. See P71.
+
+HF13 below still holds for the gate and the open loop. Its third
+ingredient, "pain or benefit", is now **both, in that order**.
+
 ## HF13 — Briar's 3-ingredient hook formula (gate, open loop, pain-or-benefit)
 
 Real advice Luke shared directly from Briar Cochran, verbal, from a

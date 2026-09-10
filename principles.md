@@ -2571,6 +2571,108 @@ on a different date.
 *Source: Luke, sharing the script and his read on why it keeps getting
 reach.*
 
+## P71 — Hook stacking: three hooks before the value, not one
+
+Briar, direct: *"Before you deliver the main value, you hook, and then
+you superhook, and then potentially a rehook later."*
+
+**The stack, in order, all inside the first paragraph:**
+
+1. **Hook — the pattern interrupt and the gate.** Names who this is for
+   and stops the scroll.
+2. **Super hook — twist the pain.** State what it costs them if they do
+   not watch, at the top of what is plausible. Briar's example: *"if
+   not, you're gonna spend a hundred thousand or more in taxes and hate
+   throwing that money away."*
+3. **Super hook — the dream outcome.** The specific state they end up
+   in. *"You will end up with assets that appreciate higher than real
+   estate, the S&P and gold over the next seven years."*
+
+Then the value. A **rehook** later in the video is optional and belongs
+at the point retention usually sags.
+
+### Why it matters more than it looks
+
+Briar's reason is a retention argument, not a hook argument: *"people
+rarely comment so early in the video. They usually watch the whole
+video, and then they send it, and then they comment, and then they save
+it."*
+
+**Engagement happens at the end.** That is a direct explanation for our
+two zero-comment, zero-share videos: the saves came from people who
+finished, and almost nobody finished. The lever is not the CTA, it is
+getting more of them to the end.
+
+### This replaces the middle of HF13
+
+Briar's earlier three ingredients were gate, open loop, pain or
+benefit. The stack keeps the gate, and splits the last ingredient into
+**two separate beats: pain first, then dream outcome.** Both, never one.
+
+### It does not conflict with P69
+
+P69 says the viewer gets something usable inside fifteen seconds. The
+stack is three sentences, roughly ten seconds spoken. What P69 banned
+was forty seconds of framing ahas, not the hooks themselves.
+
+### Luke's best performing script is already a clean stack
+
+*"You already decided the last 10k of your marathon is going to hurt
+like hell"* is the pain super hook. *"But after watching this you'll be
+passing people at 32k like a breeze"* is the dream outcome. *"Here's
+how your perfect race day is gonna play out"* announces the shape. He
+arrived at it himself, which is the strongest argument for it in this
+repo.
+
+*Source: Briar Cochran on hook stacking, supplied by Luke.*
+
+## P72 — Fixed niche, never-repeating material. Do not double down on winners.
+
+Briar, on how Dr Becky built a monopoly in the parenting niche: *"Spend
+years on exactly one promise. One week she's breaking down an Oscar
+speech, the next it's Sam Altman on AI, and somehow she's tied both to
+parenting psychology. The niche stays fixed, but the material never
+repeats."*
+
+And the warning, which lands directly on what this system just
+recommended: *"So many of you are doubling down too much on your
+winning content. If you're coming back to winners more than once a
+month, you're probably overdoing it, because you'll get follower
+fatigue so fast. People rip too many exact hooks, exact scripts, exact
+formats, and then they taper off."*
+
+### What we had queued, and why it was wrong
+
+- Three ladder videos across the two accounts, back to back.
+- Levels of fuelling part 2, immediately after part 1.
+- Five more race day walkthroughs in the identical template.
+
+That is the exact failure described. Each one was individually
+justified by evidence, and together they are a fatigue machine.
+
+### The rule
+
+**The promise stays fixed. The material never repeats.**
+
+- Personal: one promise, keep running and keep getting faster without
+  breaking.
+- ERN: one promise, fix the fuelling nobody has solved, starting with
+  the thirty minutes before the gun.
+
+**Return to a winning format at most once a month.** Between visits,
+change the format, the angle, the style and the hook while staying
+inside the promise. Variety is what stops an audience tapering off, and
+it is worth more than the extra few percent a proven wrapper buys.
+
+### The practical version
+
+Before scheduling anything, look at the last three posts on that
+account. **If the new one shares a device with any of them, change the
+device, not the topic.**
+
+*Source: Briar Cochran on niche monopoly and follower fatigue, supplied
+by Luke.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
