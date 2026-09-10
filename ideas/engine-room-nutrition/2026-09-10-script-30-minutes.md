@@ -52,61 +52,66 @@ search reach that made the original keep earning (P68).
 
 ---
 
-## Script (~250 words)
+## Script (~240 words) — v2, Luke's three steps, bar integrated
+
+The bar is now **step two**, which is where it actually belongs, rather
+than only appearing in the CTA. Jargon stripped throughout: no
+cortisol, no insulin, no SGLT1, no "dual source". Plain speech.
 
 **[ON SCREEN, held ~10s]**
 "What to do in the last 30 minutes before a marathon (the part nobody
 plans)"
 
-**[HOOK STACK — P71 / HF14, three beats, about eleven seconds]**
+**[HOOK STACK]**
 
 *Hook and gate:* "If you are running a marathon in the next few weeks,
 you have a plan for the first 10k and a plan for your gels, and no plan
 at all for the last thirty minutes before the gun."
 
 *Super hook, pain twisted:* "That is sixteen weeks of training riding
-on half an hour you have never once rehearsed, and it is where you go
-cold in the corral or panic-eat something you have never trained with."
+on half an hour you have never once rehearsed, and it is where most
+people quietly burn through fuel they are going to want at 32k."
 
-*Super hook, dream outcome:* "Get it right and you go through 10k warm
-and settled with the fuel already working, while half the corral around
-you is regretting theirs. Here is how the half hour plays out."
+*Super hook, dream outcome:* "Get it right and you go through 10k calm,
+settled and not looking for a toilet, while half the corral around you
+is already regretting theirs. Three things, and the first one is doing
+nothing."
 
-**[STEP 1 — the last real fuel, at thirty minutes]**
-"Take your final proper fuel now, while you are still standing still.
-Once you are moving and the adrenaline is up, digestion slows right
-down ⚑, so anything you swallow after this sits there far longer than
-you want it to. Thirty minutes out is the last point your stomach is
-working normally, and almost everybody wastes it queuing instead."
+**[STEP 1 — do not hype yourself up]**
+"Everyone tells you to get the music on and jump around. Standing in a
+corral with your heart at a hundred and twenty is your body burning
+sugar you have not started needing yet ⚑. Long slow breaths, five
+seconds out, and let everyone else sweat before the gun has even gone."
+
+**[STEP 2 — something solid at thirty minutes]**
+"Everyone else rips open a gel five minutes before the start. Liquid
+sugar in a nervous stomach with nothing else in there is exactly how
+you end up flat at two kilometres ⚑, and it sloshes the whole way. Have
+something solid at thirty minutes instead, with a bit of salt in it,
+because the salt helps you take on the gels later ⚑."
 
 **[ON SCREEN ONLY, not spoken]**
 "2 accountants. ⚑[N] failed batches. Still pre-launch."
 
-**[STEP 2 — the cold twenty]**
-"After bag drop you stand still for about twenty minutes, and that is
-long enough to lose everything your warm-up just gave you. Keep an old
-layer or a bin bag on right into the corral and bin it at the last
-second. Skip this and you spend the first two kilometres getting warm
-again instead of racing, which is the most expensive two kilometres of
-your day."
+**[THE BAR, said plainly, not sold]**
+"That is the entire reason ours exists. Thirty grams, rice crisp,
+honey, a bit of sea salt, and it is built to be eaten standing still
+thirty minutes before a race rather than halfway round one."
 
-**[STEP 3 — the corral rule]**
-"Whatever they are handing out in the last ten minutes, do not take it.
-Race morning is the worst possible time to introduce your stomach to
-something new, and a free gel from a brand you have never trained with
-is the most expensive free thing at the entire event."
+**[STEP 3 — stop drinking]**
+"And stop drinking. Anything you swallow in the last half hour is not
+reaching your legs in time ⚑. It sits there, sloshes, and it is in your
+bladder by five kilometres, which is where the emergency toilet stop
+comes from."
 
 **[MECHANISM, late and short]**
-"All three are the same idea. Thirty minutes out you are still warm and
-your stomach still works, and both of those are gone by the time the
-gun goes. Everything you do in that half hour is either protecting them
-or throwing them away."
+"All three are the same idea. Turn up calm, with something real in your
+stomach and nothing sloshing, and the first hour looks after itself."
 
 **[CONDITIONAL CTA + SECOND DOOR]**
-"If you want something for that last thirty minutes that is not another
-gel, ours is built specifically for that window and early access is in
-the bio. The free race week guide is in there too, whether you want the
-bar or not."
+"If you want something for that window that is not another gel, early
+access is in the bio. The free race week guide is in there too, whether
+you want the bar or not."
 
 ---
 
@@ -123,14 +128,31 @@ bar or not."
 
 ---
 
-## ⚑ Before filming
+## ⚑ Before filming — and four claims that were rewritten
 
-1. **Adrenaline and digestion slowing.** Real, but find one source or
-   soften to "your stomach is not going to deal with it the way it does
-   on a normal morning".
-2. **The twenty minute cold gap.** Check it against how the race
-   actually runs bag drop and corrals, since that specificity is what
-   makes it better than a generic version.
-3. **The failed-batch count.**
-4. **The free race week guide has to exist** before the CTA promises
-   it.
+**Rewritten, because they were overclaimed or unprovable as written:**
+
+1. **"Gelatin and rice crisp absorb stomach acid and stop gut
+   sloshing."** Not a real mechanism. Cut. What survives is the honest
+   version, which is that something solid sits better than liquid in a
+   nervous stomach.
+2. **"An insulin spike that crashes your blood sugar at kilometre
+   two."** Rebound low blood sugar from pre-race sugar is real but
+   contested, and it is largely blunted once you start running. Written
+   as "exactly how you end up flat at two kilometres" ⚑ and it needs a
+   source, or drop the mechanism and keep the sloshing point.
+3. **"Sea salt pre-loads your SGLT1 gut pumps."** True underneath, and
+   unsayable. Now "the salt helps you take on the gels later" ⚑.
+4. **"Cortisol and liver glycogen."** Replaced with "burning sugar you
+   have not started needing yet" ⚑, which says the same thing to a
+   normal person.
+
+**Still to confirm:**
+
+- The 120bpm figure, or soften to "heart rate climbing while you stand
+  still".
+- Fluid not reaching the muscle in time, one source.
+- The failed-batch count.
+- **The exact bar spec** as stated on camera: 30g, rice crisp, honey,
+  sea salt. Only say what is actually in the current version.
+- **The free race week guide has to exist** before the CTA promises it.
