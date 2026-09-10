@@ -45,16 +45,24 @@ to three weeks after the original, still inside the Dublin window.
 
 ## Script (~240 words)
 
-**[HOOK STACK, three beats, about ten seconds]**
+**[HOOK STACK — P71 / HF14, three beats, about eleven seconds]**
 
-"You have a plan for the first 10k, a plan for your gels, and no plan
-at all for the thirty minutes before the gun."
+*Hook and gate:* "If you are running a marathon in the next few weeks,
+you have a plan for the first 10k and a plan for your gels, and no plan
+at all for the last thirty minutes before the gun."
 
-"That is the window where people go cold, panic-eat something they have
-never trained with, and spend the first 5k regretting it."
+*Super hook, pain twisted:* "That is sixteen weeks of training riding
+on half an hour you have never once rehearsed, and it is where you go
+cold in the corral or panic-eat something you have never trained with."
 
-"Get it right and you cross the line warm, settled, and with the last
-real fuel already working. Here is how the half hour plays out."
+*Super hook, dream outcome:* "Get it right and you go through 10k warm
+and settled with the fuel already working, while half the corral around
+you is regretting theirs. Here is how the half hour plays out."
+
+**Naming the race:** keep the on-screen text, caption first line and
+spoken hook generic, and mention Dublin once in the caption body only.
+Naming it in the hook sharpens the gate for six weeks and then kills
+the evergreen search reach that made the original keep earning (P68).
 
 **[STEP 1 — the last real fuel, thirty minutes out]**
 "Take your final proper fuel now, while you are still standing still.

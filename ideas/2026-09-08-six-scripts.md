@@ -213,11 +213,20 @@ before your next threshold day."
 **OST:** "What people actually eat at 5am before a marathon"
 *(and the ones that come back up)*
 
-**[VERBAL HOOK]**
-"Standing in a kitchen at five in the morning, not hungry, forcing
-something down and hoping it is right, is how most people pick a race
-breakfast, and that guess decides your first ten kilometres. We read a
-few hundred race reports, and the same handful comes up over and over."
+**[HOOK STACK — P71 / HF14, three beats, about ten seconds]**
+
+*Hook and gate:* "If you are running a marathon in the next few weeks
+and you still have not decided what you are eating at five in the
+morning, you are going to make that call half asleep and not hungry."
+
+*Super hook, pain twisted:* "That one guess decides your first ten
+kilometres before you have crossed the start line, and it is the only
+part of race day you can still get completely wrong for free."
+
+*Super hook, dream outcome:* "Settle it this week and you go through
+10k with nothing sloshing and nothing repeating on you, wondering what
+everyone around you is complaining about. Here is what actually comes
+up in a few hundred race reports."
 
 **[THE LIST, straight in]**
 "A small bowl of porridge, no coffee, just water. Three plain bagels. A
@@ -242,10 +251,12 @@ race breakfast is not a decision you make at five in the morning, it is
 one you already made weeks earlier, and the only way to know is to have
 run on it."
 
-**[THREAD + CTA]**
-"Next one is the thirty minutes before the gun, which is the part
-nobody has solved. We are still pre-manufacturing, so the list is in
-the bio."
+**[CONDITIONAL CTA + SECOND DOOR]**
+"If you want something for race morning that is not another gel, ours
+is built for exactly that window and early access is in the bio. The
+free race week guide is there too, whether you want the bar or not.
+Next one is the thirty minutes before the gun, which is the part nobody
+has solved."
 
 ---
 
@@ -254,11 +265,19 @@ the bio."
 **OST:** "The gap between finishing a marathon and racing one"
 *(levels 4 and 5 of eating on the run)*
 
-**[VERBAL HOOK]**
-"Sixty grams of carbohydrate an hour will get you round a marathon. If
-you want to race the last ten kilometres rather than survive them,
-sixty is the exact point you stop being able to, and almost nobody
-finds that out because almost nobody goes past it."
+**[HOOK STACK — P71 / HF14]**
+
+*Hook and gate:* "If you are training for a marathon and your plan is
+sixty grams of carbohydrate an hour, you are fuelled to get round it."
+
+*Super hook, pain twisted:* "You are not fuelled to race the last ten
+kilometres, so you will spend the final hour hanging on, and then spend
+the next six months calling it a pacing problem and training harder for
+something that was never the issue."
+
+*Super hook, dream outcome:* "Two levels sit above sixty, and at the
+top of them you come through 32k picking people off instead of doing
+sums. The first one is a ratio."
 
 **[LEVEL 4, with the mechanism inside it]**
 "Level four is eighty to ninety grams an hour, and it only works as a
@@ -287,9 +306,11 @@ the people running the highest numbers are also taking the most salt."
 see what your stomach does with it, and repeat until it complains. That
 number is your actual ceiling, and it is trainable."
 
-**[THREAD + CTA]**
-"Level three is in the last video if you have not seen it. We are still
-pre-manufacturing, so the list is in the bio."
+**[CONDITIONAL CTA + SECOND DOOR]**
+"If you want something for the pre-race window that is not another gel,
+ours is built for it and early access is in the bio. The free
+endurance guide is there for everyone else. Level three is in the last
+video if you have not seen it."
 
 ---
 
@@ -304,11 +325,18 @@ hashtags. Nothing in the video is time-bound. Judge it at 30 days.
 **Caption opens:** "Why gels make you feel sick at 30k, and what to
 change."
 
-**[VERBAL HOOK, query spoken first]**
-"Why do gels make you feel sick at thirty K when the same gel was fine
-on every long run? It is almost never the gel, which is why switching
-brands usually changes nothing, and there are three things to change
-instead."
+**[HOOK STACK — P71 / HF14, with the query first for search]**
+
+*Hook and gate, the query verbatim:* "Why do gels make you feel sick at
+thirty K when the same gel was fine on every long run?"
+
+*Super hook, pain twisted:* "Switch brands and it will happen again,
+because it is almost never the gel, and you will keep writing off the
+one thing that is supposed to carry you through the last hour."
+
+*Super hook, dream outcome:* "Three changes, all of them free, and you
+spend the last 10k taking fuel instead of gagging on it. Here they
+are."
 
 **[CHANGE 1, with the mechanism inside it]**
 "Take them earlier and closer together. As the effort climbs, blood
@@ -336,9 +364,12 @@ long runs from now on."
 "Almost nobody needs a different gel. They need it earlier, with water,
 and practised, and all three of those are free."
 
-**[THREAD + CTA]**
-"How much to actually take is the full ladder in the last video. We are
-still pre-manufacturing, so the list is in the bio."
+**[CONDITIONAL CTA + SECOND DOOR]**
+"If none of the three fix it for you, the problem is probably the
+format rather than the timing, and ours is built for people in exactly
+that spot. Early access is in the bio, and the free endurance guide is
+there either way. How much to take is the full ladder in the last
+video."
 
 ---
 
