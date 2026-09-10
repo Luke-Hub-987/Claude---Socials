@@ -24,26 +24,39 @@ and nobody plans the half hour before it.
 
 ## OST
 
-> **What to do in the last 30 minutes before the gun**
-> *(marathon edition)*
+> **What to do in the last 30 minutes before a marathon**
+> *(the part nobody plans)*
 
-Deliberately built on the same title architecture as the account's best
-evergreen performer: a "what to do" query plus the "(marathon edition)"
-qualifier, which is both a second search term and a series marker.
+Main clause is the exact phrase people type, so it carries the search
+weight the way "How to run the last 10k faster than the first 10k" did.
+"Marathon" sits in line 1, so no third line is needed. The whisper does
+the counter-position and the curiosity in four words, and "nobody" is
+the power word, structural rather than an adverb (P52).
 
-**Alternatives:**
-- **The 30 minutes before the gun nobody plans** *(marathon edition)*
-- **How to fuel the last 30 minutes before a marathon** *(nobody plans this bit)*
+**Runners-up:** "The 30 minutes before a marathon that quietly wreck
+it" *(what to do instead)* · "You have 30 minutes before the gun and no
+plan for any of it"
 
 ## Spacing (P72)
 
-Same template as the winner, so it does not go out back to back. Put
-the race morning breakfast video between them and run this roughly two
-to three weeks after the original, still inside the Dublin window.
+Same walkthrough template as the account's winner, so it does not go
+out back to back. Put the race morning breakfast video between them and
+run this two to three weeks after, still inside the race window.
+
+## Naming the race
+
+Keep the on-screen text, the caption's first line and the spoken hook
+generic. Mention Dublin once in the caption body only. Naming it in the
+hook sharpens the gate for six weeks and then kills the evergreen
+search reach that made the original keep earning (P68).
 
 ---
 
-## Script (~240 words)
+## Script (~250 words)
+
+**[ON SCREEN, held ~10s]**
+"What to do in the last 30 minutes before a marathon (the part nobody
+plans)"
 
 **[HOOK STACK — P71 / HF14, three beats, about eleven seconds]**
 
@@ -59,44 +72,54 @@ cold in the corral or panic-eat something you have never trained with."
 and settled with the fuel already working, while half the corral around
 you is regretting theirs. Here is how the half hour plays out."
 
-**Naming the race:** keep the on-screen text, caption first line and
-spoken hook generic, and mention Dublin once in the caption body only.
-Naming it in the hook sharpens the gate for six weeks and then kills
-the evergreen search reach that made the original keep earning (P68).
-
-**[STEP 1 — the last real fuel, thirty minutes out]**
+**[STEP 1 — the last real fuel, at thirty minutes]**
 "Take your final proper fuel now, while you are still standing still.
-Once you start moving and the adrenaline is up, digestion slows right
-down ⚑, so anything you swallow after this is going to sit there for
-longer than you want it to. This is the last point your stomach is
-working normally."
+Once you are moving and the adrenaline is up, digestion slows right
+down ⚑, so anything you swallow after this sits there far longer than
+you want it to. Thirty minutes out is the last point your stomach is
+working normally, and almost everybody wastes it queuing instead."
 
-**[ON SCREEN ONLY]**
+**[ON SCREEN ONLY, not spoken]**
 "2 accountants. ⚑[N] failed batches. Still pre-launch."
 
 **[STEP 2 — the cold twenty]**
-"After bag drop you stop moving for about twenty minutes, and that is
-long enough to lose everything you gained in the warm-up. Keep an old
+"After bag drop you stand still for about twenty minutes, and that is
+long enough to lose everything your warm-up just gave you. Keep an old
 layer or a bin bag on right into the corral and bin it at the last
-moment. Everybody who skips this spends the first two kilometres
-getting warm again instead of racing."
+second. Skip this and you spend the first two kilometres getting warm
+again instead of racing, which is the most expensive two kilometres of
+your day."
 
 **[STEP 3 — the corral rule]**
-"Whatever they hand out in the last ten minutes, do not take it. Race
-morning is the worst possible time to introduce your stomach to
+"Whatever they are handing out in the last ten minutes, do not take it.
+Race morning is the worst possible time to introduce your stomach to
 something new, and a free gel from a brand you have never trained with
-is the most expensive free thing at the whole event."
+is the most expensive free thing at the entire event."
 
 **[MECHANISM, late and short]**
-"All three are the same idea. Thirty minutes out, your stomach still
-works and your body is still warm, and both of those are gone by the
-time the gun goes."
+"All three are the same idea. Thirty minutes out you are still warm and
+your stomach still works, and both of those are gone by the time the
+gun goes. Everything you do in that half hour is either protecting them
+or throwing them away."
 
-**[CONDITIONAL CTA, plus the second door]**
-"If you want something for that last thirty minutes that is not
-another gel, ours is built specifically for that window and early
-access is in the bio. The free race week guide is there too, whether
-you want the bar or not."
+**[CONDITIONAL CTA + SECOND DOOR]**
+"If you want something for that last thirty minutes that is not another
+gel, ours is built specifically for that window and early access is in
+the bio. The free race week guide is in there too, whether you want the
+bar or not."
+
+---
+
+## Filming notes
+
+- **Nothing time-bound on screen or in the spoken track**, so it keeps
+  ranking after this race season (P68).
+- **The query goes in four places:** on-screen text, the first spoken
+  line, the first line of the caption, and a few matching hashtags.
+- **Number the steps on screen** as they land. The numbering is the
+  retention device.
+- **Rehook option (P71):** if retention sags, "and the third one is the
+  one that costs people the most" goes just before step 3.
 
 ---
 
@@ -105,9 +128,9 @@ you want the bar or not."
 1. **Adrenaline and digestion slowing.** Real, but find one source or
    soften to "your stomach is not going to deal with it the way it does
    on a normal morning".
-2. **The twenty minute cold gap.** Check it against how Dublin actually
-   runs its bag drop and corrals ⚑, since naming the race is what makes
-   it specific.
+2. **The twenty minute cold gap.** Check it against how the race
+   actually runs bag drop and corrals, since that specificity is what
+   makes it better than a generic version.
 3. **The failed-batch count.**
-4. **The free race week guide** has to actually exist before the CTA
-   promises it.
+4. **The free race week guide has to exist** before the CTA promises
+   it.
