@@ -2519,6 +2519,58 @@ credential moves to somewhere after item one, where it costs nothing.
 
 *Source: Luke, on scripts taking too long to reach the value.*
 
+## P70 — The race day walkthrough, and the calendar as a content input
+
+ERN's best performer, still gaining likes and follows weeks after
+posting: *"How to run the last 10k faster than the first 10k (marathon
+edition)."* Luke's read on why: *"people are running the Dublin
+marathon soon and looking at videos."*
+
+Two separate mechanisms are stacked in it, and both are repeatable.
+
+### 1. The template (full teardown in `ost-race-day-walkthrough.md`)
+
+The moves that make the script work, in order:
+
+- **Open on a prediction the viewer has already made about
+  themselves**, not on a symptom. "You already decided the last 10k is
+  going to hurt like hell" is much harder to scroll past than a
+  described pain.
+- **Hand them the opposite scene immediately**, with a real marker in
+  it. "Passing people at 32k like a breeze."
+- **Announce the shape.** "Here is how your perfect race day plays
+  out."
+- **Name every step.** The ego check, the sleep walk, the hunt. This is
+  the most transferable move in the whole script: a small vocabulary
+  the viewer takes away and repeats, which is Briar's nameable keyword
+  applied three times inside one video rather than once in the title.
+- **Pre-empt the objection at the exact moment it will occur.**
+  "Everybody will pass you, and you'll be convinced you're going too
+  slow."
+- **Mechanism late, and in one sentence.** Physiology after the payoff,
+  never before it.
+- **Payoff as an experience.** "Claiming a few souls", not a finish
+  time.
+- **Conditional CTA with a second door.** The product offered as the
+  answer to a problem the video already established, plus a free guide
+  for everyone not ready to buy. **This is the only video on either
+  account with a real conversion mechanism in it.**
+
+### 2. The calendar is a content input, and we have been ignoring it
+
+Race season manufactures demand that no amount of hook craft can. For
+roughly six weeks before a major race, high-intent execution questions
+get searched far more than usual, and a video published into that
+window keeps earning afterwards because the query is evergreen.
+
+**So the content calendar should be built backwards from the race
+calendar.** Dublin in late October ⚑ is the live one now. Every major
+marathon, and the spring half marathon season, is the same opportunity
+on a different date.
+
+*Source: Luke, sharing the script and his read on why it keeps getting
+reach.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
