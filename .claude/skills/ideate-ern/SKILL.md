@@ -41,6 +41,32 @@ the PBA course content those files are waiting on).
    loss aversion, and eleven non-10/10 formats built on them. Use it to
    vary the package week to week, and to check the unit is possessable
    (P61)
+5e. `ost-race-day-walkthrough.md` — the template behind the account's
+   best evergreen performer: prediction, opposite scene, named steps,
+   objection pre-empted in place, mechanism late, conditional CTA plus
+   a free second door
+
+**Script rules that now apply to every script, no exceptions:**
+
+- **P71 / HF14 hook stacking.** Three hooks in the first paragraph,
+  roughly ten seconds: pattern interrupt and gate, then the pain
+  twisted, then the dream outcome. Engagement happens at the END of a
+  video, so finishers are the only real lever on saves, sends and
+  comments.
+- **P69 time to first value.** Item one lands inside fifteen seconds.
+  Ahas are distributed into the items (counter-position, mechanism, how
+  it feels), never stacked in front of them.
+- **P64 hook order.** Pain, then the cost of staying there, then the
+  dream outcome, then the loop with the answer withheld.
+- **P66 one unresolved thread per video**, and CTAs aimed at follows
+  and saves, never comments. Never mockery of any group of runners.
+- **P72 fixed niche, never-repeating material.** Check the last three
+  posts on that account. If the new one shares a device with any of
+  them, change the device, not the topic. Return to a winning format at
+  most once a month.
+- **P70 the calendar is a content input.** Build backwards from the
+  race calendar; the six weeks before a major race are the cheapest
+  reach available.
 6. `voice-rules.md` — universal voice rules (em-dashes etc., shared)
 7. `brands/engine-room-nutrition/competitors.md` — if MISSING or empty,
    tell the user to run `/onboard-ern` first (it collects this)
