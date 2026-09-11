@@ -2729,6 +2729,74 @@ credibility, and it costs nothing.
 *Source: Cashvertising pages 99-109, supplied by Luke with margin
 notes.*
 
+## P74 — The biggest result on either account, and the follows problem is solved
+
+"What to do in the last 30 minutes before a marathon", posted 10
+September to ERN as a collab, and cross-posted to TikTok.
+
+| Metric | 30 minutes (IG) | Ladder (IG) | Injury list (IG) |
+|---|---|---|---|
+| Views | **6,683** (6,419 IG, 264 FB) | 2,134 | 2,156 |
+| Viewers | 5,179 | 1,615 | not recorded |
+| **Skip rate** | **29.5%, Lower** | 35.4% | 39.5% |
+| Average watch | **36s** | 35s | 27s |
+| **Saves** | **130 (2.5%, Higher)** | 26 | 25 |
+| **Follows** | **12** | 0 | not recorded |
+| Likes / comments | 93 / 0 | 31 / 0 | 34 / 0 |
+
+**TikTok, same video:** 2,478 views, 25.1s average watch, 7.84%
+finished, **10 new followers**, 77 likes, 20 saves, **6 comments, 4
+shares**.
+
+**Combined: roughly 9,161 views and 22 new followers**, against zero
+follows on everything before it.
+
+### What changed, and what it means
+
+Five things were true of this video and of no previous one: the race
+day walkthrough template with **named steps**, a **search-shaped
+title**, an **event window** (race season), a **free guide as a second
+CTA door**, and the **product placed inside a step** rather than bolted
+on at the end. That combination is now the account's proven shape
+(P70).
+
+- **Skip rate 29.5% is the best ever recorded here**, six points better
+  than the previous best.
+- **Saves went up five times**, to 2.5% of viewers. A race-execution
+  walkthrough is reference material people file for a specific day.
+- **The follows problem is solved.** Zero to twenty two. The difference
+  is a video that answers a question someone has *right now*, on a date
+  that is coming.
+
+### TikTok behaves differently and is being under-used
+
+Six comments and four shares on TikTok against zero and one on
+Instagram, from a third of the views. Follow rate per view is **higher
+on TikTok**. Everything should be cross-posted, and TikTok is where
+comment and share signals will come from if we ever want them.
+
+### The counter-example, same week
+
+"Buy these before a carbon plated shoe" on the personal account: 1,908
+views, 26s average watch, and a **42.4% skip rate against a 41.0%
+typical**, so worse than baseline for the first time since the system
+started.
+
+Honest attribution, one data point, several live hypotheses (P36):
+
+- **Most likely, intent.** Nobody urgently needs to know what to buy
+  before carbon shoes. Everyone running a race in three weeks urgently
+  needs to know what to do before the gun. **The two winners both
+  answer a dated question.**
+- The cover was a collage of shoe photos, which reads as an
+  advertisement in a way a talking head does not.
+- Shopping-list topics have no event to ride and no search spike.
+
+**Working conclusion: park the gear pillar until race season is over**,
+and spend the window on high-intent, date-driven execution questions.
+
+*Source: Luke, sharing Instagram and TikTok analytics on both videos.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
