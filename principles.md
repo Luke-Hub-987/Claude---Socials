@@ -2797,6 +2797,60 @@ and spend the window on high-intent, date-driven execution questions.
 
 *Source: Luke, sharing Instagram and TikTok analytics on both videos.*
 
+## P75 — The sequel beat the original, and the fatigue worry was wrong
+
+"What to do in the last 3 hours before your marathon", posted 15
+September, directly after the 30 minutes video and in the same
+template.
+
+| Metric | 3 hours | 30 minutes |
+|---|---|---|
+| Views (IG) | **7,727** | 6,683 |
+| Viewers | **6,004** | 5,179 |
+| **Skip rate** | **27.5%, Lower** | 29.5% |
+| Average watch | **38s** | 36s |
+| **Saves (IG)** | **231 (3.7%)** | 130 (2.5%) |
+| Follows (IG) | 10 | 12 |
+| Comments / reposts | 5 / 2 | 0 / 0 |
+| TikTok views | **5,090** | 2,478 |
+| TikTok follows | **20** | 10 |
+| TikTok saves / shares | 115 / 13 | 20 / 4 |
+
+**Combined: about 12,817 views, 30 new followers, 346 saves.** Best on
+every axis except Instagram follows, which held flat.
+
+### The fatigue prediction was wrong, and here is why
+
+P72 said do not repeat a winning device back to back. This is exactly
+that, and it beat the original. Two reasons, both worth keeping:
+
+1. **The audience is mostly non-followers**, arriving from the Reels
+   tab, Explore and search. Follower fatigue needs followers seeing
+   consecutive posts, and they are a small minority of this reach.
+2. **Query families compound.** The two videos answer adjacent
+   questions, so each one makes the other more findable and more
+   likely to be watched next.
+
+**Amended rule: P72 applies to a following, not to a search-driven
+audience.** While reach is dominated by non-followers and the topic
+sits in one query family, consecutive same-template videos are not just
+safe, they stack. Revisit if follower share of reach climbs.
+
+### Saves are now the account's defining signal
+
+3.7% save rate and 231 saves on a single video. People are filing race
+day instructions to use on a specific morning. That is the clearest
+product-market fit signal the content has produced, and it says keep
+making things that get used on a date rather than read once.
+
+### TikTok is outgrowing Instagram on the metrics that matter
+
+Twenty followers from 5,090 views against ten from 7,727, plus 13
+shares against two reposts. **TikTok is now the better follower engine
+of the two** and should not be treated as the cross-post afterthought.
+
+*Source: Luke, sharing Instagram and TikTok analytics.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
