@@ -2851,6 +2851,53 @@ of the two** and should not be treated as the cross-post afterthought.
 
 *Source: Luke, sharing Instagram and TikTok analytics.*
 
+## P76 — Craft and reach are different metrics, and the gels video separates them
+
+"Why gels make you feel sick at 30k", posted 16 September.
+
+| Metric | Gels | 3 hours | 30 minutes |
+|---|---|---|---|
+| Views | **1,608** | 7,727 | 6,683 |
+| **Skip rate** | **28.2% vs a 42.0% typical** | 27.5% | 29.5% |
+| Average watch | **37s** | 38s | 36s |
+| Saves | 11 | 231 | 130 |
+| Non-followers | 97% | — | — |
+
+**The video is not the problem.** A 28.2% skip against a 42.0% baseline
+is the widest margin the system has produced, and 37 seconds matches
+the two winners. The hook, the OST and the script all did their job.
+
+**What was missing was reach, and reach is a different variable.**
+
+- **Skip rate and watch time measure the video.**
+- **Views measure the size of the addressable audience multiplied by
+  distribution.**
+
+Three likely causes, all about reach rather than craft (P36, several
+live hypotheses):
+
+1. **It went out on one account.** Both winners were collabs, so they
+   were served to two audiences. This one shows no collaboration line.
+   Most likely the single biggest factor.
+2. **Narrower audience.** Every marathoner needs to know what to do in
+   the three hours before the gun. Only the subset who have had a bad
+   gel needs this one.
+3. **Lower search volume**, and the topic is a problem rather than a
+   scheduled event, so there is no date pulling people to it.
+
+The cover was also a gel-packet graphic, which is the second time a
+product-style cover has coincided with low reach (the carbon shoes
+collage was the first). Worth watching, not yet a finding.
+
+### The rule that follows
+
+**Post everything as a collab, and choose topics by how many people in
+the window need them, not by how interesting the question is.** The
+gels question was more interesting than the three hours question. The
+three hours question applied to everybody.
+
+*Source: Luke, sharing insights on the gels video.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
