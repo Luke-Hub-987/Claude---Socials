@@ -2898,6 +2898,48 @@ three hours question applied to everybody.
 
 *Source: Luke, sharing insights on the gels video.*
 
+## P77 — Withhold the answer, never the subject
+
+Luke, reading back three hook stacks: *"incredibly vague and not
+specific enough, I'm reading back on them and confused myself as to
+what the idea topic is about."*
+
+This is P63 over-applied. The rule was **do not give the answer away in
+the hook**, and it turned into **do not say what the video is about**,
+which is a different and much worse thing.
+
+The two winners never did this:
+
+- *"What to do in the last 30 minutes before a marathon."* You know the
+  subject completely. What you do not know is the three things.
+- *"You already decided the last 10k is going to hurt like hell."* You
+  know exactly which part of the race is being discussed.
+
+The failed version: *"there is one session still sitting in your week
+that stopped working for you a month ago."* You cannot tell whether
+this is a training video or a fuelling one, let alone which session.
+
+### The rule
+
+**Name the subject in the first sentence. Withhold only the how.**
+
+The gap should be "how exactly do I do that", never "what is this even
+about". A viewer who cannot name the topic after five seconds has
+nothing to be curious about.
+
+**The test:** read the three hook beats aloud and ask someone what the
+video is about. If they cannot answer in one sentence, the hook has
+withheld the wrong thing.
+
+| Withhold | Never withhold |
+|---|---|
+| The exact session | That it is about your Tuesday track session |
+| The protocol | That it is about fuelling on the long run |
+| The two things to do | That it is about a niggle five weeks out |
+
+*Source: Luke, on hook stacks that hid the topic rather than the
+answer.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
