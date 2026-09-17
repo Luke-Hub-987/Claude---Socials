@@ -24,14 +24,18 @@ problem, reach was.
 
 ## OST
 
-> **The session to stop doing 5 weeks out**
-> *(and the one that replaces it)*
+> **The last session that can still make you fitter**
+> *(marathon edition)* ⚑
 
-**A note on the alternative.** "The last session that can still make
-you fitter" is the stronger hook, but it needs the adaptation-window
-claim (roughly 10 to 14 days ⚑) to be honest, and that is not in the
-material supplied. Either source that line and use the stronger hook,
-or run the one above, which the content fully supports.
+Reverted to the original at Luke's call, and he was right: this names
+an irreversible deadline in words anyone understands, where "the
+session to stop doing" named neither the session nor the stake.
+
+**What it costs to use it.** The hook promises a deadline, so the
+script has to say why five weeks is one. That is the ⚑ line in the WHY
+beat below, and it is load-bearing. Without a real source for it the
+title writes a cheque the video does not cash, which is worse than a
+weaker title.
 
 ## Script (~250 words)
 
@@ -73,10 +77,12 @@ and you should finish feeling like you could have done one more block
 if somebody made you. If you are hanging on, the pace is wrong, and
 that tells you something about your goal time too."
 
-**[WHY]**
-"All you are doing for the next five weeks is teaching your legs to
-hold race pace while they are already tired ⚑. Nothing else moves the
-needle now."
+**[WHY — this beat is what earns the hook]**
+"And this is why five weeks is the line. Anything you do inside the
+last two weeks is too late to land ⚑, so these next three weeks are the
+last ones that change anything. After that you are only protecting what
+you already have. All they need to do is teach your legs to hold race
+pace while they are already tired."
 
 **[THREAD + CTA]**
 "The three hours and the thirty minutes before the gun both have their
