@@ -35,20 +35,21 @@ or run the one above, which the content fully supports.
 
 ## Script (~250 words)
 
-**[HOOK STACK]**
+**[HOOK STACK — P71 / HF14, rebuilt]**
 
 *Hook and gate:* "If you are running a marathon in about five weeks,
-maybe Dublin, there is one session in your week that has stopped paying
-you back and you are still doing it."
+maybe Dublin, there is one session still sitting in your week that
+stopped working for you a month ago."
 
-*Pain twisted:* "Track reps at 5k pace this close in leave you flat for
-days ⚑ and give you almost nothing you can actually use over 42
-kilometres. So you arrive at your long runs tired, and the long runs
-are the ones that matter now."
+*Super hook, pain twisted:* "You will keep doing it, because it is the
+one that feels hard, and it will keep leaving you flat for the long
+runs that are the only thing still building anything. Five more weeks
+of that and you turn up fit but hollow, wondering why race pace feels
+like a fight from kilometre one."
 
-*Dream outcome:* "Swap it for one session and you spend the next five
-weeks teaching your legs to hold race pace when they are already tired.
-Here is exactly what it is."
+*Super hook, dream outcome:* "Swap it for one session and by about week
+three, race pace stops being a pace you are holding on to and starts
+being the pace you are just running at. Here is the swap."
 
 **[STOP DOING]**
 "Delete the short, fast stuff. 400s, 800s, anything at 5k pace. The
@@ -103,18 +104,20 @@ whole stake in two words.
 
 ## Script (~260 words)
 
-**[HOOK STACK]**
+**[HOOK STACK — P71 / HF14, rebuilt]**
 
 *Hook and gate:* "If you are running a marathon in about five weeks,
-this weekend's long run is close to the last one where getting your
-fuelling wrong costs you nothing."
+this weekend is close to the last long run where getting your fuelling
+wrong is still free."
 
-*Pain twisted:* "Get it wrong on the day instead and you find out at 30
-kilometres, with no way to fix it, in the one race you trained sixteen
-weeks for."
+*Super hook, pain twisted:* "Get it wrong on the day instead and you
+find out at thirty kilometres, in the one race you trained sixteen
+weeks for, with twelve K left and absolutely nothing you can do about
+it."
 
-*Dream outcome:* "So use this one as the test. Here is exactly what to
-take, and what it should feel like."
+*Super hook, dream outcome:* "Do it properly this weekend and at twenty
+eight kilometres on race day you are still eating, still moving, and
+going past people who are walking. Here is exactly what to take."
 
 **[STOP DOING]**
 "Stop doing fasted long runs, and stop going out with just water. That
@@ -184,18 +187,20 @@ a diagnosis:
 
 ## Script (~270 words)
 
-**[HOOK STACK]**
+**[HOOK STACK — P71 / HF14, rebuilt]**
 
 *Hook and gate:* "If you are running a marathon in about five weeks and
-something has started niggling this week, what you do in the next four
-days decides whether you are on that start line."
+something started niggling this week, the next four days decide whether
+you are on that start line."
 
-*Pain twisted:* "Almost everyone runs the midweek filler runs anyway,
-because four days off feels like throwing the block away. That is how a
-three out of ten ache becomes six weeks off."
+*Super hook, pain twisted:* "You will run the midweek filler runs
+anyway, because four days off feels like binning sixteen weeks. That is
+exactly how a three out of ten ache becomes six weeks off and a race
+you end up watching on Instagram."
 
-*Dream outcome:* "Cut the right things for four days and you lose
-nothing at all. Here is what that actually looks like."
+*Super hook, dream outcome:* "Do the opposite for four days and the
+ache is usually gone by the weekend with your long run still intact.
+Here is what that looks like."
 
 **[THE BOUNDARY, said immediately]**
 "This is for one specific thing. A single spot, about a three out of
