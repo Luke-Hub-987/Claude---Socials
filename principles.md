@@ -3001,6 +3001,51 @@ framings competing. Keep them identical.
 
 *Source: Luke, sharing five-hour analytics.*
 
+## P79 — The winners compound, and the heel lock video is a format we have ignored
+
+Two findings from the grids, and the second one is bigger.
+
+### 1. The race execution videos keep growing
+
+| Video | At first reading | Now |
+|---|---|---|
+| 3 hours before | 7,727 | **18,000** (IG) + 12,900 (TikTok) |
+| 30 minutes before | 6,683 | **13,800** (IG) + 4,934 (TikTok) |
+| Last 10k faster than the first | — | 6,821 (TikTok) |
+| Gels at 30k | 1,608 | 2,046 |
+| Sprint sessions | 898 | 877 |
+
+**Roughly 50,000 views across the top three**, still climbing weeks
+after posting. That is search and topic recommendation, not feed, and
+it confirms that these are assets rather than posts.
+
+It also widens the gap: race execution now sits at 13,800 to 18,000,
+and everything else sits between 877 and 2,580. **The topic ceiling is
+an order of magnitude, not a margin.**
+
+### 2. "HEEL LOCK" did 7,846 and it is not race execution at all
+
+Second best video on the personal grid, and nothing in this system
+predicted it or has tried to repeat it. It is a **named physical
+technique, demonstrated in close-up on the object itself**, solving a
+specific irritation.
+
+**Everything we have made recently is a talking head.** The heel lock
+video has no face in the thumbnail, just hands and a shoe, and a
+technique with a name written across it.
+
+| Proven shape | Best result | Times used recently |
+|---|---|---|
+| Race execution walkthrough | 18,000 | four |
+| **Named visual technique, close-up demo** | **7,846** | **zero** |
+| Training prescription | 2,031 | three |
+
+**The obvious move is the fusion: a named physical technique that is
+also race execution.** Something with hands, an object, a name, and a
+race-day moment attached.
+
+*Source: Luke, sharing the Instagram and TikTok grids.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
