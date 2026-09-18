@@ -2940,6 +2940,67 @@ withheld the wrong thing.
 *Source: Luke, on hook stacks that hid the topic rather than the
 answer.*
 
+## P78 — Race execution wins, training advice does not. The topic is the ceiling.
+
+"Your hardest run of the week does the least (5 weeks before a
+marathon)", posted 18 September. Five hours old at the time of
+reading, so not final, but the shape is already clear.
+
+| | Sprint session | Gels | 3 hours | 30 minutes |
+|---|---|---|---|---|
+| Views (IG) | 898 | 1,608 | 7,727 | 6,683 |
+| **Skip rate** | **30.6%** | **28.2%** | 27.5% | 29.5% |
+| **Average watch** | **25s** | 37s | 38s | 36s |
+| Saves | 4 | 11 | 231 | 130 |
+| TikTok views / follows | 315 / 0 | — | 5,090 / 20 | 2,478 / 10 |
+| Reels tab share | 54.7% | — | — | 85.5% |
+
+### The hook worked. The body did not.
+
+**Skip rate 30.6% is in line with the winners**, so the on-screen text
+and the first three seconds did their job. **Average watch fell to 25
+seconds against 36 to 38 on the winners**, and the retention curve
+drops to about a quarter by ten seconds with no plateau after it.
+
+That is the signature of a promise kept and a payoff that was not worth
+staying for.
+
+### Why the body underdelivered
+
+1. **One beat of value.** Stop this, do this, here is how it feels. The
+   winners had three steps or a clock, so there was always a next
+   thing. This loop closed at roughly twenty five seconds, which is
+   exactly where the audience left.
+2. **Usable by very few people.** The session needs a marathon, a
+   structured plan and a known target pace. The 3 hours video needed
+   only a marathon.
+3. **Not usable today.** The winners were saved and used on a named
+   day.
+
+### Distribution confirms it
+
+**Reels tab 54.7% against 85.5% on the winner, and feed at 29.1%.**
+Instagram did not push it out; it leaned on existing followers. That
+follows from weak early watch time rather than from the hook.
+
+### The pattern across all six videos
+
+**Race day execution: 6,683 and 7,727. Training and problem advice:
+898, 1,608, 2,134, 2,156.** Two clean data points now say the same
+thing, and the sprint video says it loudest because its hook was fine.
+
+**The topic sets the ceiling. Craft decides where inside the ceiling
+you land.** No amount of hook work moves a training prescription into
+the band that race execution occupies.
+
+### Minor, but fix it
+
+The post title was "Leave off the sprint sessions" while the on-screen
+text said "Your hardest run of the week does the least". Two different
+framings competing. Keep them identical.
+
+*Source: Luke, sharing five-hour analytics.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
