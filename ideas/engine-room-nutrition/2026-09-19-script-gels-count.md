@@ -47,21 +47,21 @@ people take 3)"
 run a marathon without falling apart ⚑, and you are probably planning
 to take three."
 
-*Super hook, pain twisted:* "Those seven missing gels are what happens
-to you at thirty kilometres, in the race you trained sixteen weeks for,
+*Super hook, pain twisted:* "Those seven missing gels are what meets
+you at thirty kilometres, in the race you trained sixteen weeks for,
 with twelve K left and nothing you can do about it."
 
-*Super hook, dream outcome:* "And hitting the wall is not mental
-weakness. It is arithmetic. Here is the sum, and the weekend you have
-left to fix it."
+*Super hook, dream outcome:* "There is a sum behind all of this and it
+takes about twenty seconds. Here it is, and the weekend you have left
+to act on it."
 
 **[ONE — THE SUM]**
 "At marathon pace you are burning well over a hundred grams of
 carbohydrate an hour ⚑. You can store about four to five hundred grams
 in your muscles and liver, total ⚑. So somewhere around thirty
 kilometres, the tank is empty. One gel an hour is about twenty five
-grams going in against well over a hundred going out. You are not
-running out of willpower at thirty two. You are seven gels short."
+grams going in against well over a hundred going out. By thirty two,
+you are seven gels short."
 
 **[ON SCREEN ONLY, not spoken]**
 "2 accountants. ⚑[N] failed batches. Still pre-launch."
@@ -73,7 +73,7 @@ hour on his world record run in Berlin ⚑, and the reason is a ratio.
 Sugar gets into you through two separate doors, and the first one jams
 at around sixty grams. Mix in the second type and the other door opens.
 That is the entire difference between four gels and ten. And it does
-not have to be gels, chews, jellies, whatever you actually use, the
+not have to be gels. Chews, jellies, whatever you actually use, the
 number is the number."
 
 **[THREE — THE DEADLINE AND THE TEST]**
@@ -125,10 +125,16 @@ week guide are in the bio."
 - Number the three beats on screen as they land.
 - Post as a collab across both accounts, and cross-post to TikTok.
 
-## The line to protect in the edit
+## Two failures corrected in this file, recorded so they do not recur
 
-> "You are not running out of willpower at thirty two. You are seven
-> gels short."
+1. **"Hitting the wall is not mental weakness. It is arithmetic."** and
+   **"You are not running out of willpower at thirty two."** Both are
+   not-X-it-is-Y, the construction P35 and P60 ban outright, written
+   after the carve-out was withdrawn and after two review passes. It is
+   also a false dichotomy: pacing, heat and training all feed the wall,
+   so claiming it is arithmetic overclaims and invites a correction.
+2. **An em dash** in beat two.
 
-Most shareable sentence written for either account so far, and the
-reason to stay past ten seconds.
+**Pre-delivery check, from now on, mechanical rather than intentional:
+scan every script for "not X, it is Y" and for em dashes before it is
+handed over.**
