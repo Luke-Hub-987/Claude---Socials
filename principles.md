@@ -3341,6 +3341,59 @@ spoken claim.
 
 *Source: Luke, supplying the post-run recovery science.*
 
+## P85 — 400 spoken words is the ceiling, and the hook stack is where the fat is
+
+Measured, not guessed. Spoken word counts against results:
+
+| Script | Spoken words | Result |
+|---|---|---|
+| 30 minutes before | ~371 | **13,800**, 36s avg watch |
+| 3 hours before | ~398 | **18,000**, 38s avg watch |
+| Gels count | ~398 | 2,809, 29s avg watch |
+| Not hungry, first draft | **510** | cut before filming |
+| Last long run, first draft | **598** | cut before filming |
+
+**Average watch sits at 36 to 39 seconds on the winners regardless of
+how long the video is.** Nobody is watching two minutes. So length
+does not buy watch time, it only lowers the percentage watched, which
+is the number both platforms actually rank on and the number TikTok
+reports as "watched full video".
+
+**The ceiling is about 400 spoken words**, which is roughly 2:10 at
+his delivery. Anything beyond it is dilution.
+
+### The hook stack is where it creeps
+
+| | Hook stack |
+|---|---|
+| 30 minutes before (winner) | ~105 words |
+| Not hungry, first draft | **154 words** |
+
+HF14 says the three hooks run about ten seconds. The winner runs
+closer to thirty five, so ten was never the real number, but 154 is
+**fifty five seconds of hooking before a single piece of value**, and
+P69 sets the first value at fifteen. A viewer who is still being sold
+the video at second forty has already gone.
+
+### The four cuts that are always available
+
+Checked in this order, because none of them costs anything:
+
+1. **Restatement across layers.** If the hook says the hunger switches
+   off, beat one saying it again in different words is dead air. The
+   hook is part of the script, so anything it establishes is spent.
+2. **Numbers that belong on a card.** Two gram figures became one
+   ratio, and the grams went on screen where they can be paused (P84).
+   Shorter, more memorable, more portable.
+3. **Clauses in the CTA.** Two doors, one sentence each, no framing.
+4. **Adjectives in the pain beat.** The pain lands on the nouns.
+
+**Count before delivering.** Spoken words only, excluding the on-screen
+card and the not-spoken overlays.
+
+*Source: measuring the 20 September scripts against the two winners,
+at Luke's question about length.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

@@ -56,7 +56,7 @@ day bridge, where it is true.
 
 ---
 
-## Script (~340 words)
+## Script (~395 words, v4, cut to the winner length)
 
 **[ON SCREEN, held ~10s]**
 "What to eat in the hour after a long run (and why you will not be
@@ -66,30 +66,24 @@ hungry)"
 
 *Hook. Gate, open loop and pain, all three (HF13):* "You have just
 finished a long run and you do not want to eat anything. That is your
-body turning your hunger off after hard running ⚑, and it stays off
-for about two hours. The problem is that the window where food
-actually does something closes after one."
+body turning your hunger off ⚑, and it stays off for about two hours.
+The window where food actually does something closes after one."
 
 *Super hook, pain twisted:* "So you have a cup of tea, you get on with
-your day, the first proper food goes in five hours later, and it fills
-you up without doing the job. Then from Monday morning you cannot stop
-eating, you sleep badly, and your next quality session feels like you
-have aged ten years."
+your day, and the first proper food goes in five hours later. Then
+from Monday you cannot stop eating, you sleep badly, and your next
+session feels flat."
 
-*Super hook, dream outcome:* "Ninety seconds and three things: why
-your hunger switches off, what that hour is actually doing, and the
-one thing to have waiting in the fridge that covers all of it. And
-this is exactly what happens to you at the finish line on race day, so
-today is the rehearsal."
+*Super hook, dream outcome:* "Ninety seconds: why your hunger switches
+off, what that hour is doing, and the one thing to have waiting in the
+fridge. And this is exactly what happens at the finish line on race
+day, so today is the rehearsal."
 
 **[ONE. WHY YOU CANNOT FACE FOOD]**
-"Two things are going on. Hard running turns your hunger down, the
-hormone that makes you feel hungry drops and the ones that make you
-feel full go up ⚑. And the blood that normally runs your stomach has
-been out in your legs and your skin for three hours. It takes thirty
-to forty five minutes to come back ⚑. So for that first stretch, your
-stomach is barely open for business, which is why a big plate of food
-sits there and a drink does not."
+"Two things are going on. Your hunger is switched down, and the blood
+that normally runs your stomach has been out in your legs for three
+hours. It takes thirty to forty five minutes to come back ⚑. So a
+plate of food sits there and a drink does not."
 
 **[ON SCREEN ONLY, not spoken]**
 "2 accountants. ⚑[N] failed batches. Still pre-launch."
@@ -97,23 +91,20 @@ sits there and a drink does not."
 **[TWO. WHAT THAT HOUR IS ACTUALLY DOING]**
 "For about an hour after you stop, your muscles are still pulling
 sugar straight out of your blood and packing it away, because the
-machinery that does it is still switched on from the running ⚑. Put
-carbs in during that hour and you refill roughly twice as fast as
-waiting two hours ⚑. Get protein in with it and you slow down the
-muscle breakdown at the same time ⚑. Same food, four hours later,
-does a fraction of the job."
+machinery that does it is still switched on from the running ⚑. Carbs
+in during that hour refill you roughly twice as fast as waiting two
+hours ⚑. Protein with them slows the muscle breakdown at the same time
+⚑. Same food four hours later does a fraction of the job."
 
 **[THREE. WHAT TO ACTUALLY TAKE]**
-"The target is on screen so you do not have to hold it. Roughly a gram
-of carbs for every kilo you weigh, twenty odd grams of protein with
-it, and some salt to hold on to the fluid.
+"The target is on screen so you do not have to hold it. Roughly three
+times as much carbs as protein, and some salt to hold the fluid.
 
-For most people that is a pint of chocolate milk and a banana ⚑. That
-is the whole thing. It is liquid, so it goes down while your stomach
-is still shut, it is about the right ratio without you doing any
-maths, and it is in your hand ninety seconds after you walk in the
-door. Salt whatever you eat next. Then have a proper meal an hour or
-two later when your appetite comes back.
+For most people that is a pint of chocolate milk and a banana ⚑. It is
+liquid, so it goes down while your stomach is still shut, it hits the
+ratio without you doing any maths, and it is in your hand ninety
+seconds after you walk in the door. Salt whatever you eat next, and
+have a proper meal when your appetite comes back.
 
 And if you want that solid instead of a pint of milk, that is the
 entire reason we are making a bar."
@@ -123,10 +114,38 @@ entire reason we are making a bar."
 week."
 
 **[CTA]**
-"Save this for the next one. And if you want first go at the bar, or
-the free race week guide, both are in the bio."
+"Save this for the next one. First go at the bar and the free race
+week guide are both in the bio."
 
 ---
+
+## Length, measured against the winners
+
+| Script | Spoken words | Roughly |
+|---|---|---|
+| 30 minutes before **(13,800)** | ~371 | 2:00 |
+| 3 hours before **(18,000)** | ~398 | 2:10 |
+| Gels count (2,809) | ~398 | 2:10 |
+| **This, v3** | **510** | **2:50** |
+| **This, v4** | **~395** | **2:10** |
+
+v3 was 28% longer than anything that has worked. Average watch sits at
+36 to 39 seconds on the winners no matter how long the video is, so
+every extra word lowers the percentage watched, which is the number
+both platforms rank on. **~400 spoken words is the ceiling** (P85).
+
+What came out, and why none of it was load bearing:
+
+- **The hook stack went from 154 words to 121.** The 30 minutes
+  winner runs about 105.
+- **Beat one dropped the hormone restatement.** The hook already says
+  the hunger is switched off, so saying it again in different words
+  was 30 seconds of nothing new.
+- **The ratio replaced two gram figures.** "Roughly three times as
+  much carbs as protein" is shorter, more memorable and more portable
+  than "a gram per kilo of body weight, twenty odd grams of protein",
+  and the exact grams are on the card where they can be paused (P84).
+- **The CTA lost a clause.**
 
 ## On-screen cards
 
@@ -134,7 +153,7 @@ the free race week guide, both are in the bio."
 |---|---|
 | Whole video | **"5 weeks to Dublin"**, corner (P82) |
 | Beat two | **"The hour: refill ~2x faster"** |
-| Beat three, held | **"80kg runner: ~80g carbs · 20-25g protein · 500-750mg sodium · inside 60 min"** |
+| Beat three, held | **"3:1 carbs to protein. 80kg runner: ~80g carbs · 20-25g protein · 500-750mg sodium · inside 60 min"** |
 | Beat three, on the object | **"1 pint chocolate milk + 1 banana"** |
 | End card | **"Last full rehearsal: Sun 4 Oct"** |
 
@@ -176,9 +195,10 @@ viewer can picture.
   under on protein. **It is genuinely short on sodium**, which is why
   the line is "salt whatever you eat next" rather than pretending the
   milk covers it. Check the label on whatever he holds up.
-- **"A gram per kilo"** is the standard figure and it is worth him
-  confirming he is comfortable saying it as a target rather than a
-  rule.
+- **The 3:1 ratio** is now the spoken form and the grams are on the
+  card. 1g/kg of carbs with 20 to 25g of protein works out at roughly
+  3:1 to 4:1, so the two are consistent. Saying "three times as much"
+  and showing "3:1" is the same claim twice, which is the point.
 - **The failed-batch count** ⚑[N].
 - **Only film the post-run version if he actually ran today.** Never
   stage a fake long run (standing rule).
