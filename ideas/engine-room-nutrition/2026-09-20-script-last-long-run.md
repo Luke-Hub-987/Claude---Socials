@@ -234,6 +234,7 @@ without touching the audio:
 
 | Post | Topic | Why then |
 |---|---|---|
+| **Today, Sun 20 Sep** | **Why you are not hungry after a long run** | The audience has just finished one. Sets this video up rather than competing with it |
 | Thu 24 or Fri 25 Sep | **This video** | Aimed at the 27 Sep long run, everything still fixable |
 | Thu 1 or Fri 2 Oct | What to eat the week of a marathon *(and when the carb load actually starts)* | Sits ahead of the 4 Oct rehearsal, so it can be tested on it |
 | Wed 7 to Fri 9 Oct | The final 2 weeks before a marathon *(taper edition)* | Lands as the taper starts, biggest search term on the board |
