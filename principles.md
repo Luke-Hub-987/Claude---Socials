@@ -3236,6 +3236,68 @@ spoken line is accurate even when it does not name the date:
 
 *Source: Luke, confirming the race date as 25 October.*
 
+## P83 — The winning OST is a template we drifted off, and an announced pain is not a pain
+
+Two failures found by auditing a finished OST and hook against the
+winners rather than against judgment.
+
+### 1. The architecture the two biggest videos share
+
+| Line 1 | Whisper | IG |
+|---|---|---|
+| What to do in the 3 hours before a marathon | *(hour by hour)* | 18,000 |
+| What to do in the last 30 minutes before a marathon | *(the part nobody plans)* | 13,800 |
+
+**`What to [ACTION] in the [TIME COORDINATE] before a marathon` +
+a whisper that is the structure or the objection.**
+
+Four components, and everything written since has been quietly
+dropping one or more of them:
+
+1. **An action verb, not "why".** "What to do" and "what to eat"
+   promise an instruction. "Why you are not hungry" promises an
+   explanation. Explanations get watched once. **Instructions get
+   saved**, and saves are what the gels video lost on (P80).
+2. **A time coordinate.** 3 hours, last 30 minutes, the first 5k, the
+   last 10k, the hour after. Every winner has one. The gels count OST
+   had none, and neither did the first draft of the not hungry OST.
+3. **The search noun of the season**, which is "marathon". When it
+   cannot go in line one honestly, it goes in the **hook**, on a race
+   day bridge, rather than being forced into the OST as a lie.
+4. **A whisper that is structure or objection.** "Hour by hour" is the
+   quick easy way. "The part nobody plans" is the objection. Both
+   leave the question in line one unanswered (P80).
+
+**Do not reuse a whisper we have already used.** "The part nobody
+plans for" is stale the second time (P67).
+
+### 2. An announced pain is not a pain
+
+The first hook for the not hungry video read: *"There is a reason for
+that, and there is a cost attached to it."* It passed a casual read
+and failed two of Briar's three ingredients (HF13):
+
+- **Open loop.** "There is a reason for that" **announces** a loop
+  instead of opening one. Briar's test is whether the end of sentence
+  one leaves the viewer thinking "how does that work". A sentence that
+  ends on something they already know leaves nothing.
+- **Pain or benefit.** "A cost" names no cost. Briar's instruction is
+  to state plainly what they avoid by watching.
+
+**The tell is the indefinite article.** "A reason", "a cost", "a
+problem", "something that is costing you" are all placeholders where
+the content should be. If the noun can be swapped for any other topic
+without editing, it is not a hook.
+
+The fix in both cases is the same: **put the claim in the hook.** "Your
+body switches your hunger off on purpose, and it stays off for about
+two hours, which happens to be the two hours that decide how Monday
+goes." Loop is a real mechanism, pain is a named day, and the viewer
+learns something true before sentence one ends (P69).
+
+*Source: auditing the 20 September script against the 3 hours and 30
+minutes winners, at Luke's request.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
