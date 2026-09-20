@@ -3298,6 +3298,49 @@ learns something true before sentence one ends (P69).
 *Source: auditing the 20 September script against the 3 hours and 30
 minutes winners, at Luke's request.*
 
+## P84 — When the source is a formula, the screen carries the numbers and the audio carries the object
+
+The recovery science for the not hungry video arrived as a formula: a
+3:1 or 4:1 carb to protein ratio, 1g of carbohydrate per kilo of body
+weight, 20 to 25g of protein, 500 to 750mg of sodium, inside 60
+minutes.
+
+Read out loud that is six numbers, two units and a ratio, and the
+viewer is doing arithmetic on their own body weight while the video
+keeps talking. That is the failure P62 already names, and the gels
+count video is what it looks like in the data (P80).
+
+**The split:**
+
+| Layer | Carries | Why |
+|---|---|---|
+| **On-screen card** | The full formula, held | It can be paused, screenshotted and re-read. It is why the save happens |
+| **Audio** | One photographable object that hits the formula | It can be acted on without pausing, and it is what makes the video feel easy |
+
+For this one: *"a pint of chocolate milk and a banana."* One sentence,
+no maths, and it lands close enough to the target that the formula on
+screen is the proof rather than the instruction.
+
+**The test:** after the beat, could the viewer do the thing without
+rewinding? If they need the numbers to act, the object is missing.
+
+Two things this also buys:
+
+1. **The object is the cover.** Hands pouring the milk is a frame. A
+   ratio is not (P58, and the arranged-object cover flag in P80).
+2. **It is where the product line fits without a pitch.** "If you want
+   that solid instead of a pint of milk, that is the entire reason we
+   are making a bar" answers a question the video just raised. The
+   formula created the need, the object showed the cheap version, and
+   the bar is the same job in a different form.
+
+**The formula still has to be right.** Putting it on screen rather than
+in the audio makes it more checkable, not less, because a viewer can
+pause on it. Everything on the card gets the same flag treatment as a
+spoken claim.
+
+*Source: Luke, supplying the post-run recovery science.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

@@ -2,36 +2,33 @@
 type: video-script
 brand: ERN, collab with personal
 generated_at: 2026-09-20
+revision: v3, recovery window science incorporated
 slot: today, Sunday 20 September, afternoon or evening
-basis: P80 (clock moment, screenshot test), P81 (mechanism is the
-  news), P82 (no dated language in the audio), P70, P71/HF14, P69, P66
+basis: P80 (screenshot test, clock moment), P81 (mechanism is the
+  news), P82 (no dated language in the audio), P83 (winner template,
+  no placeholder pain), P84 (formula on screen, object in the audio),
+  P62, P70, P71/HF13/HF14, P69, P66
 pairs_with: 2026-09-20-script-last-long-run.md (Thu 24 / Fri 25 Sep)
 ---
 
-# Why you are not hungry after a long run
+# What to eat in the hour after a long run
 
 ## Why this one today
 
-The Thursday video is aimed at the long run **before** it happens, so
-it needs to land Thursday or Friday. That leaves today, and today has
-its own moment: **most of the audience has just finished a long run.**
+Most of the audience has just finished a long run. This is the only
+slot where the viewer is sitting inside the exact situation the video
+describes while they watch it.
 
-This is the video for the two hours they are sitting in right now. It
-is the only slot where the viewer is inside the exact situation the
-video describes while they watch it.
-
-It also sets Thursday up rather than competing with it. Today is what
+It sets Thursday up rather than competing with it. Today is what
 happens **after** the run, Thursday is what the run is **for**, and
-each one threads to the other.
+each threads to the other.
 
 ## OST
 
 > **What to eat in the hour after a long run**
 > *(and why you will not be hungry)*
 
-Rebuilt in v2 against the two winners. Their shared architecture is
-**"What to do in the [time coordinate] before a marathon" + a whisper
-that is either the structure or the objection**:
+Built on the architecture the two winners share (P83):
 
 | | Line 1 | Whisper | IG |
 |---|---|---|---|
@@ -39,40 +36,27 @@ that is either the structure or the objection**:
 | Winner | What to do in the last 30 minutes before a marathon | *(the part nobody plans)* | 13,800 |
 | **This** | **What to eat in the hour after a long run** | ***(and why you will not be hungry)*** | |
 
-- **"What to eat" is an instruction**, which is what both winners
-  promise. The first draft opened on "Why", which promises an
-  explanation. Explanations get watched. Instructions get saved, and
-  saves are the metric the gels video lost on (P80).
-- **A time coordinate**, "the hour after", which every winner has and
-  the first draft had none of.
+- **"What to eat" is an instruction.** Both winners promise one.
+  Explanations get watched. Instructions get saved (P80, P83).
+- **A time coordinate**, and the new science makes "the hour" the
+  claim rather than a decoration.
 - **Search.** "what to eat after a long run" is a far bigger query
   than "not hungry after a long run" (P68).
-- **The self-recognition moved to the whisper** and still does its
-  job. "You will not be hungry" is the thought every marathoner has
-  had and never said, and as a whisper it is also the objection
-  pre-empt: it answers "I already know what to eat" before they think
-  it.
-- **Screenshot test passes** (P80). Line one asks what to eat. The
+- **Self-recognition in the whisper**, doing double duty as the
+  objection killer: it answers "I already know what to eat" before
+  they think it.
+- **Screenshot test passes** (P80). Line one asks what to eat and the
   whisper does not tell them.
 - **Caples:** self-interest, curiosity, quick easy way in "the hour",
-  and news in the whisper, which is the quality P73 found missing
-  everywhere.
+  and news in the whisper.
 
-**The one thing it does not carry is the word marathon**, which both
-winners have and which is the search noun of the season. It cannot go
-in honestly, because the video is about any long run. **So it goes in
-the hook instead**, on the race day bridge, which is where it is true.
-
-**Alternative if the seasonal pull matters more than the clean line:**
-*What to eat in the hour after a long run* *(the hour you will get
-wrong on race day)*.
-
-**Rejected:** *(the part nobody plans for)*. It is our own 30 minutes
-whisper reused, and a wrapper goes stale the second time (P67).
+**The word marathon is absent**, and it cannot go in honestly because
+this is about any long run. It goes in the hook instead, on the race
+day bridge, where it is true.
 
 ---
 
-## Script (~260 words)
+## Script (~340 words)
 
 **[ON SCREEN, held ~10s]**
 "What to eat in the hour after a long run (and why you will not be
@@ -82,132 +66,143 @@ hungry)"
 
 *Hook. Gate, open loop and pain, all three (HF13):* "You have just
 finished a long run and you do not want to eat anything. That is your
-body switching your hunger off on purpose, and it stays off for about
-two hours ⚑, which happens to be the two hours that decide how your
-Monday goes."
+body turning your hunger off after hard running ⚑, and it stays off
+for about two hours. The problem is that the window where food
+actually does something closes after one."
 
 *Super hook, pain twisted:* "So you have a cup of tea, you get on with
-your day, and the first proper food goes in five hours later. Then
-from Monday morning you cannot stop eating, you sleep badly, and your
-next quality session feels like you have aged ten years."
+your day, the first proper food goes in five hours later, and it fills
+you up without doing the job. Then from Monday morning you cannot stop
+eating, you sleep badly, and your next quality session feels like you
+have aged ten years."
 
-*Super hook, dream outcome:* "Ninety seconds and three things: why it
-happens, what it costs you, and what actually goes down when food is
-the last thing you want. And the same thing is going to happen to you
-at the finish line on race day, so today is the rehearsal."
+*Super hook, dream outcome:* "Ninety seconds and three things: why
+your hunger switches off, what that hour is actually doing, and the
+one thing to have waiting in the fridge that covers all of it. And
+this is exactly what happens to you at the finish line on race day, so
+today is the rehearsal."
 
-**[ONE. WHY IT HAPPENS]**
-"Hard running turns your hunger down. The hormone that makes you feel
-hungry drops, the ones that make you feel full go up, and it lasts for
-an hour or two afterwards ⚑. On top of that, the blood that normally
-runs your stomach has been out in your legs and your skin for three
-hours, and you are still hot. So your body is telling you it does not
-want food at the exact moment you have never needed it more."
+**[ONE. WHY YOU CANNOT FACE FOOD]**
+"Two things are going on. Hard running turns your hunger down, the
+hormone that makes you feel hungry drops and the ones that make you
+feel full go up ⚑. And the blood that normally runs your stomach has
+been out in your legs and your skin for three hours. It takes thirty
+to forty five minutes to come back ⚑. So for that first stretch, your
+stomach is barely open for business, which is why a big plate of food
+sits there and a drink does not."
 
 **[ON SCREEN ONLY, not spoken]**
 "2 accountants. ⚑[N] failed batches. Still pre-launch."
 
-**[TWO. WHAT IT COSTS]**
-"You have just emptied the tank. If nothing much goes back in for four
-or five hours, you feel it on Monday in three places: you are ravenous
-all day, you sleep worse, and your next quality session is flat. Most
-people blame the session. The session was fine."
+**[TWO. WHAT THAT HOUR IS ACTUALLY DOING]**
+"For about an hour after you stop, your muscles are still pulling
+sugar straight out of your blood and packing it away, because the
+machinery that does it is still switched on from the running ⚑. Put
+carbs in during that hour and you refill roughly twice as fast as
+waiting two hours ⚑. Get protein in with it and you slow down the
+muscle breakdown at the same time ⚑. Same food, four hours later,
+does a fraction of the job."
 
-**[THREE. THE WAY ROUND IT]**
-"When you cannot face food, drink it or make it soft. Milk, a
-smoothie, yoghurt and honey, a bar, anything that goes down without a
-decision. Get something in within about half an hour, then eat a
-proper meal an hour or two later when your appetite comes back. And
-treat today as the rehearsal, because you will be standing at the
-finish line of the marathon feeling exactly this, with a medal on and
-no interest in a single thing on offer."
+**[THREE. WHAT TO ACTUALLY TAKE]**
+"The target is on screen so you do not have to hold it. Roughly a gram
+of carbs for every kilo you weigh, twenty odd grams of protein with
+it, and some salt to hold on to the fluid.
+
+For most people that is a pint of chocolate milk and a banana ⚑. That
+is the whole thing. It is liquid, so it goes down while your stomach
+is still shut, it is about the right ratio without you doing any
+maths, and it is in your hand ninety seconds after you walk in the
+door. Salt whatever you eat next. Then have a proper meal an hour or
+two later when your appetite comes back.
+
+And if you want that solid instead of a pint of milk, that is the
+entire reason we are making a bar."
 
 **[THREAD]**
 "What that long run is actually for is its own video, going up this
 week."
 
 **[CTA]**
-"Save this for the next one. And if you want something for that window
-that goes down when nothing else will, early access and the free race
-week guide are in the bio."
+"Save this for the next one. And if you want first go at the bar, or
+the free race week guide, both are in the bio."
 
 ---
 
-## ⚑ Before filming
+## On-screen cards
 
-1. **"About two hours"** ⚑, now spoken in the hook. The direction is
-   solid and the duration varies a lot by person and intensity, so
-   "about two hours" is the softest form that still gives the hook a
-   real claim to open on. Drop to "for a while" if he wants it safer.
-2. **The appetite suppression** ⚑. The direction is well established:
-   hard endurance exercise lowers ghrelin and raises the satiety
-   hormones for a period afterwards. **Do not name the hormones out
-   loud** and do not give a percentage. "The hormone that makes you
-   feel hungry drops" is the safe form, and the duration varies by
-   person and intensity, so "an hour or two" stays soft.
-3. **"Four or five hours"** ⚑ is the behavioural point rather than a
-   measured threshold. The honest version of the claim is that the
-   window you should eat in is the window you do not want to, which is
-   true regardless of how hard you push the glycogen timing science.
-   **Do not claim a hard anabolic window.** It is contested, and an
-   overclaim here is the same failure as the arithmetic line.
-4. **Monday: ravenous, worse sleep, flat session.** Widely reported
-   and consistent with under-fuelling ⚑. Keep it as what happens
-   rather than as a proven causal chain.
-5. **The failed-batch count** ⚑[N].
-6. **Only film the post-run version if he actually ran today.** Never
-   stage a fake long run (standing rule).
+| When | Card |
+|---|---|
+| Whole video | **"5 weeks to Dublin"**, corner (P82) |
+| Beat two | **"The hour: refill ~2x faster"** |
+| Beat three, held | **"80kg runner: ~80g carbs · 20-25g protein · 500-750mg sodium · inside 60 min"** |
+| Beat three, on the object | **"1 pint chocolate milk + 1 banana"** |
+| End card | **"Last full rehearsal: Sun 4 Oct"** |
+
+---
+
+## ⚑ The science, checked
+
+Luke supplied this. Most of it holds. Three things were tightened on
+the way in, and the reasons matter more than the edits.
+
+**1. "Twice as fast" is real, and it has a scope.** It traces to the
+classic finding that delaying carbohydrate by two hours roughly halves
+glycogen resynthesis in that period. The honest scope is that it
+matters most **when you are training again soon**. For someone running
+five or six days a week in a marathon block, the next session is
+usually inside twenty four hours, so it applies to this audience. **Do
+not extend it into a general claim that one meal decides your week.**
+
+**2. "Immediately stopping muscle protein breakdown" was softened** to
+"slow down the muscle breakdown". Protein with carbs blunts breakdown.
+Stopping it is an overclaim, and an overclaim is the arithmetic
+failure again.
+
+**3. No jargon out loud** (P81). Glycogen synthase, GLUT4, leucine and
+splanchnic blood flow are all in the source and none of them are
+spoken. The mechanisms stayed, the names went. "The machinery that
+does it is still switched on from the running" is the same fact a
+viewer can picture.
+
+**Flags to resolve before filming:**
+
+- **"About two hours" for appetite** ⚑ and **"thirty to forty five
+  minutes" for gut blood flow** ⚑. Two different mechanisms, which is
+  why the numbers differ, and the clash between them is the hook. Both
+  vary by person and intensity. Say them as approximations.
+- **The chocolate milk numbers** ⚑. A pint is roughly 50 to 55g of
+  carbs and about 17 to 18g of protein, and the banana adds about 25g
+  of carbs. That lands close to the 80kg target on carbs and a little
+  under on protein. **It is genuinely short on sodium**, which is why
+  the line is "salt whatever you eat next" rather than pretending the
+  milk covers it. Check the label on whatever he holds up.
+- **"A gram per kilo"** is the standard figure and it is worth him
+  confirming he is comfortable saying it as a target rather than a
+  rule.
+- **The failed-batch count** ⚑[N].
+- **Only film the post-run version if he actually ran today.** Never
+  stage a fake long run (standing rule).
 
 ## Filming notes
 
 - **Best case: film it straight after his own long run**, in the
-  kitchen, still in kit, with the actual food in frame (P70). That is
-  real context, it is the most authentic footage either account can
-  get for this topic, and it costs nothing extra today.
-- **Cover frame is hands, mid-action** (P80): pouring the milk, or the
-  bar being opened, with the OST across it. No arranged flat-lay.
-- "You" in the first three words (P69), mechanism starts inside
-  fifteen seconds.
+  kitchen, still in kit, with the real pint and the real banana in
+  frame (P70). Most authentic footage either account can get for this
+  topic, and it costs nothing extra today.
+- **Cover frame is hands, mid-action** (P80): the milk going into the
+  glass. No arranged flat-lay. Three of those in a row have coincided
+  with weak reach and the 7,846 video was hands on one object.
+- "You" in the first three words, and a true fact lands before the
+  first sentence ends (P69).
 - Number the three beats on screen as they land.
-- **No dated language in the audio** (P82). Countdown goes on screen:
-  corner overlay **"5 weeks to Dublin"**, caption opens with the date.
+- **No dated language in the audio** (P82).
+- **The bar line is the cleanest product mention we have written.** It
+  answers a question the video just raised, it is present tense, and
+  it implies nothing about availability. Do not embellish it.
 - Post as a collab across both accounts, cross-post to TikTok (P76).
-
-## The hook audit, and why it was rebuilt (v2)
-
-The first hook failed **two of Briar's three ingredients** (HF13), and
-it failed them in the way that is hardest to see, by sounding like it
-had them.
-
-| Ingredient | First draft | Verdict |
-|---|---|---|
-| **Gate** | "You have just finished a long run" | **Pass.** Narrow, filters in, filters out |
-| **Open loop** | "There is a reason for that" | **Fail.** That announces a loop rather than opening one. Briar's test is whether the end of sentence one leaves them thinking "how does that work", and sentence one ended on something they already knew |
-| **Pain or benefit** | "there is a cost attached to it" | **Fail.** Briar says state plainly what they avoid. "A cost" names nothing |
-
-It also burned about six seconds saying that value was coming instead
-of giving any, which is the exact P69 failure, and it withheld the
-subject as well as the answer, which P77 bans.
-
-The rebuild fixes all three inside the first sentence. The gate is
-unchanged. The loop is now a real claim, that the body switches hunger
-off on purpose, which is a mechanism a viewer wants explained. The
-pain is named and dated to a day: how your Monday goes. And the viewer
-learns something true before the first sentence ends.
-
-Two further gains:
-
-- **"Ninety seconds and three things"** is the quick easy way (Caples)
-  and it maps to the three beats, so the promise is structurally
-  honest rather than decorative.
-- **The word marathon finally appears**, on the race day bridge, which
-  is the one place in this video it is true. The OST could not carry
-  it honestly, so the hook does.
 
 ## Pre-delivery check
 
 Mechanical scan: **no "not X, it is Y"**, **no em dashes** in spoken
-copy. Two near-misses rewritten. "That is not you being weird, it is
-your hormones" became "that is your body switching your hunger off on
-purpose". "It is not the session, it is the fuelling" became "most
-people blame the session. The session was fine."
+copy. Numbers spoken out loud kept to five, with the full formula on
+screen instead (P62, P84).
