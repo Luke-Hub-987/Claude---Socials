@@ -3046,6 +3046,101 @@ race-day moment attached.
 
 *Source: Luke, sharing the Instagram and TikTok grids.*
 
+## P80 — If the OST answers its own question, there is nothing left to watch
+
+The gels count video posted the **worst skip rate in the whole data
+set**, and the cause is in the second line of its own OST.
+
+> **How many gels you actually need in a marathon**
+> *(it's about 10, and most people take 3)*
+
+The title asks a question. The whisper answers it. Then the verbal
+hook answered it again in the first sentence: *"You need somewhere
+around ten gels."* By second three the viewer has the entire payload
+and a reason to leave.
+
+| | Gels count | 3 hours before | 30 minutes before | Gels at 30k |
+|---|---|---|---|---|
+| Skip rate | **42.9% (Higher)** | 27.5% | 29.5% | 28.2% |
+| Views (IG) | 2,809 | 18,000 | 13,800 | 2,046 |
+| Avg watch | 29s | 38s | 36s | — |
+| Saves | 21 (Lower) | 231 | 130 | — |
+| Follows | **0** | — | — | — |
+
+**The watch time was fine.** 29s sits above sprint sessions and near
+the winners. The people who stayed were served. The failure was
+entirely at the stop, which is what a closed loop causes and what a
+weak body does not.
+
+### The rule
+
+**The whisper may raise the stakes. It may never settle them.**
+
+The Two-Number Delta in `ost-anatomy.md` is not at fault. Its examples
+are all *transformations* — "25 at 35", "$35k to $100k". None of them
+is the answer to the question in line one. Here the two numbers *were*
+the answer.
+
+Amendment to `ost-formula.md` rule 5, and to the Two-Number Delta:
+
+> Write the whisper. Then ask: **could someone screenshot this OST and
+> skip the video without losing anything?** If yes, the whisper is the
+> answer and it has to go back in the body.
+
+This sits under P77, which says withhold the answer and never the
+subject. P77 stopped me hiding the subject. It did not stop me handing
+over the answer, because I was optimising for the opposite failure.
+
+### The second finding: a count is not a moment
+
+The winners are **named clock moments the viewer will personally
+arrive at** — three hours before, thirty minutes before, the first 5k,
+thirty kilometres. The viewer puts themselves inside a clock and waits
+to see what happens to them there.
+
+"How many gels" is **inventory**. It has one correct answer, it is
+held in the head in one word, and it is a shopping question rather
+than a fear. That also explains the saves: 0.75% against 1.28% on the
+3 hours video. **You do not save a number. You save a sequence you
+cannot hold in your head.**
+
+| Promise type | Example | Result |
+|---|---|---|
+| Clock moment, walked through in order | 3 hours before | 18,000 |
+| Clock moment, walked through in order | 30 minutes before | 13,800 |
+| Clock moment | The first 5k | 4,291 |
+| **Quantity** | How many gels | **2,809** |
+| Prescription | Sprint sessions | 877 |
+
+So the earlier reading — race execution beats training advice (P78) —
+is now sharper. **It is the moment that wins, not the category.** A
+race-day topic with a quantity promise performs like training advice.
+
+### The third finding: arranged objects, not hands
+
+Three covers have now been arranged objects — the carbon shoes
+collage, the gel packet graphic, and this flat-lay — and all three
+coincided with weak reach (2,031, ~2,000, 2,809). The heel lock video
+did 7,846 with **hands mid-action on one object** and a technique name
+across it.
+
+n is three and the cover is confounded with the topic, so this is a
+flag rather than a finding. But the cheap version of the test is free:
+**film the cover frame as hands doing the thing, not objects laid
+out.**
+
+### What I got wrong
+
+I predicted this would land in the winning band because it had the
+window, a number, a counter-position and a searchable query. It had
+all four and still posted the worst stop rate recorded. The checklist
+was complete and the promise was still closed. Passing every gate is
+not evidence a video will work when the gates do not yet contain the
+thing that matters.
+
+*Source: Luke, sharing the Instagram and TikTok insights for the
+19 September post.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

@@ -126,6 +126,11 @@ bury it in the parentheses. Or put the concrete payoff there. It must
 be a real number, outcome or scenario. Never a hype word, never a
 mechanism name, never a feeling, never you.
 
+   **Screenshot test (P80).** Could someone screenshot the two lines
+   and skip the video without losing anything? If yes, the whisper is
+   the answer to line one and it belongs in the body. The whisper may
+   raise the stakes. It may never settle them.
+
 **6. Shape.** Pick from the list below by account. Do not default to
 whichever device worked last.
 

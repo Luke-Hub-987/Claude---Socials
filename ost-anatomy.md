@@ -812,7 +812,7 @@ Named so they can be chosen deliberately.
 
 **Desire and payoff**
 5. **Consequence of the Pain.** Never the pain, the life it causes. ("tired of wearing a hat all the time.")
-6. **Two-Number Delta.** Outcome as the distance between two numbers. ("25 at 35," "$35k -> $100K in 12 months," "4K in to 5K.")
+6. **Two-Number Delta.** Outcome as the distance between two numbers. ("25 at 35," "$35k -> $100K in 12 months," "4K in to 5K.") Every example is a *transformation*. It is never the answer to the question in line one — "(it's about 10, and most people take 3)" under "how many gels do you need" closed the loop and posted the worst skip rate on record (P80).
 7. **Dream Outcome Stated.** Specific, sensory, theirs. (HF6 principle 3.)
 8. **Felt-State Testimony.** Unfalsifiable, desirable, first person. ("makes me feel.")
 9. **Countable Tools.** Small number of possessable objects, not a topic.
