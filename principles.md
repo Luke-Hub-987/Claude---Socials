@@ -3186,6 +3186,56 @@ picture, and the name of it is the thing that makes people leave.
 *Source: Luke, supplying three alternative bodies for the last long
 run video.*
 
+## P82 — Date the post, not the audio
+
+Dublin is Sunday 25 October 2026. The last long run video was written
+with "Sunday", "this weekend" and "three weeks" in the spoken copy,
+and all three were wrong by the time the real date was checked against
+them.
+
+Two separate problems, and the second one is the expensive one.
+
+**1. "Sunday" was the day it was being written.** Most of the audience
+had already done that long run. Timing a video to a weekly moment
+means posting **Thursday or Friday**, while the thing is still ahead
+of the viewer.
+
+**2. Dated audio kills the asset.** The two biggest videos, three
+hours before and thirty minutes before, are still climbing weeks after
+posting because **nothing in them ties to a date**. A viewer in March
+hears the same video the October viewer heard. Put "five weeks to
+Dublin" in the audio and the file is dead on 26 October, which throws
+away the search compounding that P68 and P75 identified as the whole
+reason these videos keep earning.
+
+### The split
+
+| Layer | Carries | Why |
+|---|---|---|
+| **Audio** | Relative time only: "your next long run", "you still have weeks", "the long runs you have left" | Never expires, so the file keeps earning for every marathon after this one |
+| **On-screen overlay** | The countdown: "5 weeks to Dublin", "Last full rehearsal: Sun 4 Oct" | Editable, and it can be dropped from a repost |
+| **Caption** | The date, the race, the deadline | Free to rewrite at any point |
+
+**The test before filming:** would this sentence still be true if
+someone watched it six months from now? If not, it belongs on screen
+or in the caption.
+
+### The dated work still has to be done
+
+Relative language is not an excuse to be vague. The real dates are
+what make the claims checkable, and they go in the ⚑ notes so the
+spoken line is accurate even when it does not name the date:
+
+- Five Sundays left: 27 Sep, 4 Oct, 11 Oct, 18 Oct, race day.
+- The last full dress rehearsal is **4 October** on a three week
+  taper, which is what makes "two or three long runs left" true rather
+  than a guess.
+- The 10 to 14 day gut window closes on **11 October**, which is what
+  makes "the long runs you have left are the last ones that can do
+  anything about it" a fact rather than urgency talk.
+
+*Source: Luke, confirming the race date as 25 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
