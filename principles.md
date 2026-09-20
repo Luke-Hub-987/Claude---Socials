@@ -3141,6 +3141,51 @@ thing that matters.
 *Source: Luke, sharing the Instagram and TikTok insights for the
 19 September post.*
 
+## P81 — A mechanism is how an old instruction becomes news
+
+P73 found that **news** was the Caples quality missing from every OST
+we had written. The last long run script showed where it can come from
+when the topic has no genuine news attached to it.
+
+Two of its three beats were the most repeated instructions in
+distance running:
+
+- "Practise your race fuel on a long run."
+- "Nothing new on race day."
+
+Both correct, both known by every viewer in the window, and neither
+gives anyone a reason to stay. Adding a mechanism made each one new
+without changing the instruction:
+
+| Instruction | Mechanism added | What it becomes |
+|---|---|---|
+| Practise your fuel | Blood leaves the stomach past 20K, so the first hour is the easy bit | Practise it in the **last ten K** |
+| Nothing new on race day | Dried sweat leaves salt on the skin and soaked fabric moves over it | A seam invisible at 5K takes skin off at 30 |
+
+**The test:** if the instruction alone would fit in a caption, the
+video is the mechanism, not the instruction.
+
+Two side effects worth knowing:
+
+1. **Mechanism drives saves.** "Practise your fuel" is held in the
+   head. "Fuel in the last ten K because your stomach has no blood in
+   it" cannot be acted on from memory, so it gets saved. That is the
+   metric the gels count video lost on (P80).
+2. **Mechanism is where the fabrication risk lives.** Every one of
+   these needs a flag. The direction of the effect is usually
+   established and the *size* of it usually is not, so the spoken line
+   takes the direction and leaves the number out. "Most of the blood"
+   rather than "80% of the blood", and the salt described rather than
+   called sandpaper.
+
+**Jargon is not the mechanism.** Splanchnic vasoconstriction, zone 2
+and anaerobic oxygen deficit were all dropped from the same script
+while everything they describe stayed in it. The mechanism is the
+picture, and the name of it is the thing that makes people leave.
+
+*Source: Luke, supplying three alternative bodies for the last long
+run video.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
