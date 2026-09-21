@@ -66,7 +66,7 @@ stake, weaker stop.
 
 ---
 
-## Script (~380 words, inside the P85 ceiling)
+## Script (~395 words, inside the P85 ceiling)
 
 **[ON SCREEN, held ~10s]**
 "What to do on the Monday after a long run (and why your legs feel
@@ -81,10 +81,9 @@ forty eight hours after ⚑, and what you do in the next few hours
 decides whether tomorrow's session is any good."
 
 *Super hook, pain twisted:* "Most people do one of two things. Sit
-still all day because they are sore, or go out and hammer an easy run
-out of guilt. Both of them put you into Tuesday with legs that have
-nothing in them, and in a marathon block you do not have many quality
-sessions left."
+still all day, or go out and hammer an easy run out of guilt. Both of
+them put you into Tuesday with legs that have nothing in them, and in
+a marathon block you do not have many quality sessions left."
 
 *Super hook, dream outcome:* "Ninety seconds: why today is worse than
 yesterday, the one thing that makes it go away faster, and how to tell
@@ -95,22 +94,21 @@ every single week."
 "What you are feeling this morning is the repair, and it arrives about
 a day late ⚑. Yesterday afternoon your blood flow and your adrenaline
 were still up, so you walked around feeling grand. This morning that
-has gone and the soreness has caught up. It usually peaks inside the
-first two days and then clears on its own."
+has gone and the soreness has caught up. It peaks inside the first
+two days and then clears."
 
 **[ON SCREEN ONLY, not spoken]**
 "2 accountants. ⚑[N] failed batches. Still pre-launch."
 
 **[TWO. WHAT ACTUALLY HELPS]**
 "The thing that helps most is the thing you least want to do, which is
-move. Twenty to thirty minutes, and easy means properly easy,
-conversation pace, or a walk if that is all you have in you. Blood
-moving through the muscle is what carries the repair in ⚑.
+move. Twenty to thirty minutes, conversation pace, or a walk if that
+is all you have in you. Blood moving through the muscle carries the
+repair in ⚑.
 
-And being straight with you, the evidence that this speeds up the
-actual recovery is thin ⚑. What it reliably does is make the rest of
-your day feel better, and it keeps you moving on the day you would
-otherwise do nothing."
+And being straight with you, the evidence that this speeds up recovery
+is thin ⚑. What it reliably does is make the rest of your day feel
+better."
 
 **[THREE. WHETHER TO RUN AT ALL]**
 "Here is the test. Go out for ten minutes. If it loosens off, you are
@@ -119,13 +117,12 @@ around, today is a walk. And if it is sharp, in one spot, on one leg,
 that is a different thing altogether and it does not belong in this
 video.
 
-The other half of today is food. If not much went in yesterday inside
-that first hour, this is the day you feel it, and you spend it eating
-everything in the house."
+And the other half of today is food. If not much went in yesterday
+inside that first hour, this is the day you feel it."
 
 **[THREAD]**
-"That one is its own video on the profile. And what your last long run
-is actually for is going up later this week."
+"That one is its own video on the profile, and what your last long run
+is actually for is up later this week."
 
 **[CTA]**
 "Save this for next Monday. First go at the bar and the free race week
