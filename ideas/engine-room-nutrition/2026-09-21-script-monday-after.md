@@ -2,7 +2,9 @@
 type: video-script
 brand: ERN, collab with personal
 generated_at: 2026-09-21
-slot: today, Monday 21 September, morning or lunchtime
+slot: Monday 28 September. Held back one week, because the goal pace
+  video took the 21 September slot. Nothing in this script is dated,
+  so it posts as written
 basis: P83 (winner template, HF13 three ingredients), P85 (400 word
   ceiling), P86 (craft dial vs topic dial), P80, P81, P82, P84, P69,
   P66, P72/P75
