@@ -3449,6 +3449,73 @@ is what P66 puts at the top of the objective function.
 *Source: Luke, sharing the Instagram and TikTok insights for the
 20 September post.*
 
+## P87 — Agreement is not curiosity. The hook needs a collision
+
+Luke's correction, and it names the thing that separates the two hooks
+we have data on.
+
+**The dead version**, written for the Monday video:
+
+> "You did your long run yesterday and your legs are worse this
+> morning than they were last night. That is normal, it peaks between
+> twenty four and forty eight hours after, and what you do in the next
+> few hours decides whether tomorrow's session is any good."
+
+Every clause is true and every clause is something the viewer already
+believes. They nod, and a nod is a scroll. **It reads as obvious, and
+obvious is the most expensive thing a hook can be**, because the
+viewer concludes they already know the rest.
+
+**The live version**, and the reason yesterday's video posted a 32.1%
+skip rate:
+
+> "You have just finished a long run and you do not want to eat
+> anything. That is your body turning your hunger off, and it stays
+> off for about two hours. **The window where food actually does
+> something closes after one.**"
+
+The curiosity is not in any single sentence. It is in the **clash**
+between two hours and one hour. Two facts that cannot both be
+comfortable, so the viewer has to stay to resolve it. That was written
+without naming why it worked, which is how it nearly got dropped.
+
+### The rule
+
+**Sentence one must contain something the viewer believes, set against
+something that makes it wrong, costly or impossible.**
+
+Shapes that produce a collision:
+
+| Shape | Example |
+|---|---|
+| Two numbers that do not fit | Hunger off for two hours, window closes after one |
+| The instrument they trust is the wrong one | "How your legs feel tells you almost nothing about whether you should run" |
+| The thing they are doing to help is the cost | "The hour you feel best is the hour you can least afford" |
+| The deadline is behind them | "The last time you could change this was Sunday" |
+
+### The test
+
+**Read sentence one and ask what the viewer says back.**
+
+- "Yes, I know" → dead. Rewrite.
+- "Wait, what?" or "how does that work?" → live.
+
+A restatement of the OST is always a nod. So is any sentence whose
+only content is naming the situation they are in. The situation is the
+**gate**, and the gate is one job of three (HF13). It is never the
+whole first sentence.
+
+### Where the collision comes from
+
+It is usually already in the script, sitting in a later beat. In the
+Monday video the collision is the reason the ten minute test exists at
+all: people decide by standing-still feel and standing-still feel is a
+poor instrument. That was buried in beat three. **Find the sentence in
+the body that would make a viewer argue, and move it to the front.**
+
+*Source: Luke, on the Monday video hook reading "a little bit too
+obvious".*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

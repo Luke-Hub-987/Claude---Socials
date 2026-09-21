@@ -80,7 +80,7 @@ Stronger stake, weaker stop.
 
 ---
 
-## Script (~395 words, v2, test moved to beat one)
+## Script (~380 words, v3, hook rebuilt on a collision)
 
 **[ON SCREEN, held ~10s]**
 "How to tell if you should run the day after a long run (the 10 minute
@@ -88,20 +88,18 @@ test)"
 
 **[HOOK STACK]**
 
-*Hook. Gate, open loop and pain, all three (HF13):* "You did your long
-run yesterday and your legs are worse this morning than they were last
-night. That is normal, it peaks somewhere between twenty four and
-forty eight hours after ⚑, and what you do in the next few hours
-decides whether tomorrow's session is any good."
+*Hook. The collision (HF13, P87):* "You did your long run yesterday,
+your legs are wrecked this morning, and how they feel right now tells
+you almost nothing about whether you should run today ⚑."
 
-*Super hook, pain twisted:* "Most people do one of two things. Sit
-still all day, or go out and hammer an easy run out of guilt. Both of
-them put you into Tuesday with legs that have nothing in them, and in
-a marathon block you do not have many quality sessions left."
+*Super hook, pain twisted:* "So you guess. And you either sit still all
+day and go into Tuesday's session stiff, or you run out of guilt and go
+into it empty. In a marathon block you do not have many of those
+sessions left to waste."
 
-*Super hook, dream outcome:* "Ninety seconds: the ten minute test, why
-today is the worst it will feel, and the one thing that makes it go
-away faster. This is the day most people get wrong every week."
+*Super hook, dream outcome:* "Ninety seconds: a ten minute test that
+answers it properly, why today feels worse than yesterday did, and the
+one thing that actually shifts it."
 
 **[ONE. THE TEST]**
 "Go out for ten minutes. If it loosens off, you are fine, keep it easy
@@ -202,6 +200,38 @@ morning is the repair, and it arrives about a day late".
 
 ---
 
+## The hook rebuild, v3
+
+Luke's call, and he is right. **The v2 hook was a sequence of things
+the viewer already agreed with.**
+
+> "You did your long run yesterday and your legs are worse this
+> morning than they were last night. That is normal, it peaks between
+> twenty four and forty eight hours after, and what you do in the next
+> few hours decides whether tomorrow's session is any good."
+
+Every clause in that is something they nod at. **Agreement is not
+curiosity.** Briar's test for sentence one is whether it leaves them
+thinking "how does that work", and "your legs are sore today" leaves
+them thinking "yes, I know."
+
+**The fix is a collision** (P87): something they believe, set against
+something that makes it wrong or expensive.
+
+> "...and how they feel right now tells you almost nothing about
+> whether you should run today."
+
+Everyone decides this by feel. Saying feel is the wrong instrument
+forces the question the video exists to answer, and it sets the test
+up as the replacement rather than as general advice.
+
+It also now lines up end to end. **The OST asks how to tell. The hook
+kills the method they were going to use. The test is beat one.**
+
+⚑ Keep the claim at the level of the decision, not physiology. "Tells
+you almost nothing about whether you should run" is honest and
+defensible. Do not extend it into a claim about what soreness means.
+
 ## The prediction, written down before it posts
 
 **This will not be a winner, and the reason is the topic, not the
@@ -232,8 +262,25 @@ save asset that keeps earning on a weekly query, and it clears the
 decks for Thursday. The race-day run starts then and does not stop
 until 25 October, and that is where the numbers are.
 
-**If he wants a swing today instead**, the move is to pull the taper
-video forward. It is race-adjacent, it is the biggest search term left
-on the board, and the cost is that it lands two weeks before the
-window it names, which is the exact thing that made the winners win.
-I would still post this one and keep the taper on 1 October.
+**The hook rebuild does not change the prediction.** Craft is worth
+roughly a doubling and topic a five-fold (P86), and the collision is
+craft. It should lift the stop rate, which is what it is for. It
+cannot move this out of the training-context band.
+
+**If he wants the swing, the topic to swap to is not the taper.** The
+taper lands two weeks before the window it names, and being needed on
+a date is the thing that made the winners win. The better candidate is
+a race-day decision that is genuinely live today:
+
+> **How to know what marathon time you are actually in shape for**
+> *(and the run that tells you)*
+
+Race stakes, a huge query, and it is decided now because the remaining
+long runs are the only chance left to test a goal pace. The collision
+is available and it is strong: most people pick a goal from what they
+want, and there is a run they have already done that answers it.
+
+⚑ **It needs a method he actually uses and believes.** A prediction
+formula stated with false precision is the cardiac-drift failure
+again. If he has one, this is the biggest topic left on the board
+outside race week. If he does not, it does not get written.
