@@ -3394,6 +3394,61 @@ card and the not-spoken overlays.
 *Source: measuring the 20 September scripts against the two winners,
 at Luke's question about length.*
 
+## P86 — Craft moves the stop rate. Topic moves the reach. Both are now measured
+
+The not hungry video was the controlled test, because only the craft
+changed between it and the gels count video. Same account, same week,
+same window, same three-beat structure, same product mention rules.
+
+| | Gels count | Not hungry |
+|---|---|---|
+| Skip rate | 42.9% **Higher** | **32.1% Lower** |
+| IG views | 2,809 | 3,681 |
+| TikTok views | 712 | **3,567** |
+| Combined | 3,521 | **7,248** |
+| Follows | 0 | **10** |
+| Saves | 21 | 34 |
+
+What changed, and nothing else did:
+
+1. An **instruction** in line one instead of "why" (P83).
+2. A **time coordinate** in the OST (P83).
+3. A hook with a **real loop and a named pain** instead of "there is a
+   reason for that, and there is a cost attached to it" (P83).
+4. A cut to **winner length** (P85).
+5. The formula on the card, **one object in the audio** (P84).
+
+**Skip rate is the dial those fixes turn**, and it moved 10.8 points
+from the worst recorded to better than his own baseline. Reach roughly
+doubled.
+
+**And it was still 3,681 against 18,000.** "Long run" is a training
+noun and the winners are race day. So P78 is now quantified: **craft is
+worth roughly a doubling, topic is worth roughly a five-fold.** Craft
+cannot rescue a mid topic, and a strong topic filmed badly loses the
+stop rate that gets it distributed at all. Pick the topic first.
+
+### The length tax, isolated
+
+| | Gels count | Not hungry (1:32) |
+|---|---|---|
+| Watched full video, TikTok | 7.71% | **1.72%** |
+
+A better hook on a longer video took completions down by a factor of
+four and a half. It did not cost reach here because the opening held,
+but TikTok ranks on completion, so **P85's 400 words is a ceiling, not
+a target, and 1:32 is the longest this account should run.**
+
+### Follows come from a finished promise
+
+Zero on a video that gave away its answer in the OST. Ten on a video
+that handed over a complete usable thing and then named two doors.
+**The follow is payment for the video having finished its job**, which
+is what P66 puts at the top of the objective function.
+
+*Source: Luke, sharing the Instagram and TikTok insights for the
+20 September post.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
