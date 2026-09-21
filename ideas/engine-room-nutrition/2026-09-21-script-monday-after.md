@@ -32,8 +32,25 @@ this is a different query from yesterday's, so the sequel is safe.
 
 ## OST
 
-> **What to do on the Monday after a long run**
-> *(and why your legs feel worse than they did yesterday)*
+> **How to tell if you should run the day after a long run**
+> *(the 10 minute test)*
+
+**v2. The first OST was weaker and the reason is the gap.** "What to
+do on the Monday after a long run" has a folk answer almost everyone
+already believes, which is easy run or rest. A small gap the viewer
+thinks is already closed produces no curiosity (P21, Loewenstein).
+"Should I run the day after a long run" is a question people genuinely
+agonise over every week and have no confident answer to, and it is a
+bigger live query than the Monday phrasing.
+
+**"The 10 minute test" is a possessable, named tool** (P61, and the
+Countable Tools device). It is the quick easy way in Caples terms, it
+is what gets saved, and saves are the one metric still marked Lower.
+
+**Superseded:** *What to do on the Monday after a long run* *(and why
+your legs feel worse than they did yesterday)*. The recognition in
+that whisper is strong and it is now the on-screen card in beat two
+instead.
 
 Built on the template that moved the skip rate 10.8 points (P83):
 
@@ -41,15 +58,13 @@ Built on the template that moved the skip rate 10.8 points (P83):
 |---|---|---|
 | Winner | What to do in the 3 hours before a marathon | *(hour by hour)* |
 | Yesterday | What to eat in the hour after a long run | *(and why you will not be hungry)* |
-| **Today** | **What to do on the Monday after a long run** | ***(and why your legs feel worse than they did yesterday)*** |
+| **Today** | **How to tell if you should run the day after a long run** | ***(the 10 minute test)*** |
 
-- **Instruction in line one.** "What to do", not "why". Instructions
-  get saved (P83, and the 34 saves against 21 yesterday).
-- **Time coordinate**: "the Monday after". Evergreen, because most
-  long runs are Sunday, so it survives past October (P82).
-- **Self-recognition in the whisper**, which is the strongest
-  curiosity device we have and the one that carried yesterday. Every
-  runner has had this exact thought and never said it.
+- **A decision in line one.** "How to tell" promises a rule they can
+  apply today, which is the strongest form of instruction (P83).
+- **Time coordinate**: "the day after". Evergreen (P82).
+- **A named tool in the whisper.** The 10 minute test is possessable,
+  it cannot be acted on from memory, and it is the save.
 - **Screenshot test passes** (P80). The whisper tells them nothing
   about what to do.
 - **Search.** "sore legs day after long run" and "should I run the day
@@ -60,17 +75,16 @@ Built on the template that moved the skip rate 10.8 points (P83):
 **The word marathon is absent again**, honestly, because this is any
 long run. It goes in the hook on the block stake.
 
-**Alternative whisper if he wants the race stake instead of the
-recognition:** *(and why it decides Tuesday's session)*. Stronger
-stake, weaker stop.
+**Alternative whisper:** *(and why it decides Tuesday's session)*.
+Stronger stake, weaker stop.
 
 ---
 
-## Script (~395 words, inside the P85 ceiling)
+## Script (~395 words, v2, test moved to beat one)
 
 **[ON SCREEN, held ~10s]**
-"What to do on the Monday after a long run (and why your legs feel
-worse than they did yesterday)"
+"How to tell if you should run the day after a long run (the 10 minute
+test)"
 
 **[HOOK STACK]**
 
@@ -85,37 +99,34 @@ still all day, or go out and hammer an easy run out of guilt. Both of
 them put you into Tuesday with legs that have nothing in them, and in
 a marathon block you do not have many quality sessions left."
 
-*Super hook, dream outcome:* "Ninety seconds: why today is worse than
-yesterday, the one thing that makes it go away faster, and how to tell
-whether you should run at all. This is the day most people get wrong
-every single week."
+*Super hook, dream outcome:* "Ninety seconds: the ten minute test, why
+today is the worst it will feel, and the one thing that makes it go
+away faster. This is the day most people get wrong every week."
 
-**[ONE. WHY TODAY IS WORSE]**
-"What you are feeling this morning is the repair, and it arrives about
-a day late ⚑. Yesterday afternoon your blood flow and your adrenaline
-were still up, so you walked around feeling grand. This morning that
-has gone and the soreness has caught up. It peaks inside the first
-two days and then clears."
+**[ONE. THE TEST]**
+"Go out for ten minutes. If it loosens off, you are fine, keep it easy
+and finish. If it gets worse as you go, turn around, today is a walk.
+And if it is sharp, in one spot, on one leg, that is a different thing
+altogether and it does not belong in this video."
+
+**[TWO. WHY TODAY IS WORSE THAN YESTERDAY]**
+"And here is why today is the worst it will feel. What you have this
+morning is the repair, and it arrives about a day late ⚑. Yesterday
+afternoon your blood flow and your adrenaline were still up, so you
+walked around feeling grand. This morning that has gone and the
+soreness has caught up. It peaks inside the first two days and then
+clears, which is why ten minutes tells you more than how you feel in
+the kitchen."
 
 **[ON SCREEN ONLY, not spoken]**
 "2 accountants. ⚑[N] failed batches. Still pre-launch."
 
-**[TWO. WHAT ACTUALLY HELPS]**
-"The thing that helps most is the thing you least want to do, which is
-move. Twenty to thirty minutes, conversation pace, or a walk if that
-is all you have in you. Blood moving through the muscle carries the
-repair in ⚑.
-
-And being straight with you, the evidence that this speeds up recovery
-is thin ⚑. What it reliably does is make the rest of your day feel
-better."
-
-**[THREE. WHETHER TO RUN AT ALL]**
-"Here is the test. Go out for ten minutes. If it loosens off, you are
-fine, keep it easy and finish. If it gets worse as you go, turn
-around, today is a walk. And if it is sharp, in one spot, on one leg,
-that is a different thing altogether and it does not belong in this
-video.
+**[THREE. WHAT ACTUALLY HELPS, AND THE OTHER HALF]**
+"If you pass the test, the thing that helps most is the thing you
+least want to do. Twenty to thirty minutes, conversation pace, or a
+walk. Blood moving through the muscle carries the repair in ⚑. And
+being straight with you, the evidence that this speeds up recovery is
+thin ⚑. What it does reliably is make the rest of your day better.
 
 And the other half of today is food. If not much went in yesterday
 inside that first hour, this is the day you feel it."
@@ -135,13 +146,15 @@ guide are both in the bio."
 | When | Card |
 |---|---|
 | Whole video | **"5 weeks to Dublin"**, corner (P82) |
-| Beat one | **"Soreness peaks 24-48h after"** |
-| Beat three, held, the save card | **"The 10 minute test — Eases off → run easy · Gets worse → walk · Sharp, one spot, one leg → neither"** |
+| Beat one, held, the save card | **"The 10 minute test. Eases off → run easy · Gets worse → walk · Sharp, one spot, one leg → neither"** |
+| Beat two | **"Soreness peaks 24-48h after. Today is the worst it gets"** |
 | End card | **"Last full rehearsal: Sun 4 Oct"** |
 
-The beat three card is the save (P84). Saves were the one metric that
-stayed marked Lower yesterday, and the lever is a card worth pausing
-on. This is the first one that is a decision rule rather than a fact.
+**The test is now beat one**, because the OST promises it and P69 says
+do not make them wait for the thing they came for. The mechanism moved
+to beat two, where it explains why the test works rather than
+preceding it. The card is the save (P84), and it is the first one that
+is a decision rule rather than a fact.
 
 ---
 
@@ -162,7 +175,8 @@ on. This is the first one that is a decision rule rather than a fact.
    vague, because the real number depends on his plan. **Do not put a
    number on it.**
 5. **The sharp, one spot, one leg line** is the boundary. It stays in,
-   it stays early in beat three, and it never becomes medical advice.
+   it is now in beat one where it lands early, and it never becomes
+   medical advice.
 6. **The failed-batch count** ⚑[N].
 
 ## Filming notes
@@ -185,3 +199,41 @@ Mechanical scan: **no "not X, it is Y"**, **no em dashes** in spoken
 copy. One near-miss rewritten: "your legs are not getting worse, what
 you are feeling is the repair" became "what you are feeling this
 morning is the repair, and it arrives about a day late".
+
+---
+
+## The prediction, written down before it posts
+
+**This will not be a winner, and the reason is the topic, not the
+craft.**
+
+| Band | Videos | Range |
+|---|---|---|
+| Race day | 3 hours, 30 minutes, first 5k | 4,291 to 18,000 |
+| Training context | sprint sessions, carbon shoes, gels at 30k, not hungry | 877 to 3,681 |
+
+This is training context. **Expect 2,500 to 4,500 on Instagram.**
+Anything above 5,000 means the named-test framing is worth more than
+the topic band suggests, and that would be the finding.
+
+Three specific reasons it is capped, beyond the band:
+
+1. **The stakes are small.** Every winner attaches to the fear of
+   ruining a race sixteen weeks in the making. Being sore on a Monday
+   costs one Tuesday session. Lower stakes, lower stop.
+2. **The gap is smaller than yesterday's.** "Why am I not hungry" had
+   no folk answer. "Should I run the day after" has one most people
+   half believe already. The named test is what rescues it, which is
+   the whole reason for the v2 OST.
+3. **Third training-context video in a row** to the same audience.
+
+**What it is for.** It holds the thread from yesterday, it is a real
+save asset that keeps earning on a weekly query, and it clears the
+decks for Thursday. The race-day run starts then and does not stop
+until 25 October, and that is where the numbers are.
+
+**If he wants a swing today instead**, the move is to pull the taper
+video forward. It is race-adjacent, it is the biggest search term left
+on the board, and the cost is that it lands two weeks before the
+window it names, which is the exact thing that made the winners win.
+I would still post this one and keep the taper on 1 October.
