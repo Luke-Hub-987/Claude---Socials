@@ -12,32 +12,75 @@ follows: ideas/2026-09-20-gels-count-review.md
 
 # What your last long run before a marathon is actually for
 
-## OST
+## OST, v4, rebuilt against the data
 
-> **What your last long run before a marathon is actually for**
-> *(and the 3 things to rehearse on it)*
+> **What to test on your last long run before a marathon**
+> *(and the one that ruins race day)*
 
-- **Clock moment**, singular, and every marathoner in the window has
-  one coming (P80). It stays a moment for the viewer without being
-  tied to a date in the audio (P82).
-- **Screenshot test passes.** The whisper says there are three things
-  and hands over none of them (P77, P80).
-- **Search.** "last long run before marathon" is a live query and it
-  keeps earning for every marathon after Dublin.
-- **Caples:** self-interest, curiosity, and the quick easy way sits in
-  "3 things". News now lives in the body rather than the OST, which is
-  the honest place for it here.
+### Why the previous version was wrong
 
-Considered and rejected: *(and the 3 things to rehearse in the last
-10k of it)*. Sharper, but it narrows the promise to fuel alone.
+> ~~What your last long run before a marathon is actually for~~
+> ~~*(and the 3 things to rehearse on it)*~~
+
+Audited against the seven things the data now supports, it failed
+three of them:
+
+| Test | v3 | v4 |
+|---|---|---|
+| Marathon in line one (P86) | Pass | Pass |
+| **Instruction verb, not an explanation (P83)** | **Fail.** "What X is for" promises an explanation | "What to test" |
+| Time coordinate | Pass, the named session | Pass |
+| **Named tool or thing withheld in the whisper** | **Fail.** "3 things" is a count, and P80 found counts underperform as a promise | "the one that ruins race day" |
+| **Two lines, ten words or fewer (P89)** | **Fail.** Eleven words, three lines | Ten words, 51 characters, same as the 13,800 video |
+| Screenshot test (P80) | Pass | Pass |
+| Collision available for the hook (P87) | Pass | Pass |
+
+The whisper is the important change. **The thing that produced 90
+saves was "and the run that actually tells you"**, which names that a
+single specific thing exists and withholds which. "The 3 things to
+rehearse" tells them the shape of the answer and leaves nothing to
+find out. "The one that ruins race day" makes them stay to learn
+which.
+
+### Where the checklist went
+
+The count did not disappear, it moved to where it earns. **The whisper
+does the stop, the card does the save** (P84):
+
+> **THE DRESS REHEARSAL CHECKLIST**
+> **Fuel** — exact gels, exact timing, exact amounts, in the last 10k
+> **Morning** — race alarm, race breakfast, same gap before you start
+> **Kit** — everything you will wear and carry, shoes included
+> **Any of it fails → you have 4 weeks to fix it**
+
+### Notes
+
+- **"Actually" is out.** It is his marker and it cost a line at eleven
+  words, which is the wrong trade (P89).
+- **The script has to name one.** The whisper promises that one of the
+  three is the one that ruins race day. **It is the fuel**, because
+  untested fuelling at thirty K is the classic blow-up and it is the
+  only one of the three with a hard deadline on it. Beat one already
+  carries this, so it needs to be said explicitly rather than implied.
+- ⚑ **"Ruins" is strong.** If he wants it softer, *(and the one that
+  decides race day)* keeps the curiosity and drops the drama.
+
+**Safer alternative, exact winner template:** *What to do on your last
+long run before a marathon* *(and the one that ruins race day)*. "What
+to do" is the verb both 13,800 and 18,000 videos used. "What to test"
+is more specific and it is the counter-position, since everyone else
+just runs it.
+
+**Thread to add:** "and what pace to run the middle of it at is its
+own video, up on the profile."
 
 ---
 
 ## Script (~370 words)
 
 **[ON SCREEN, held ~10s]**
-"What your last long run before a marathon is actually for (and the 3
-things to rehearse on it)"
+"What to test on your last long run before a marathon (and the one
+that ruins race day)"
 
 **[HOOK STACK]**
 
