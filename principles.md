@@ -3550,6 +3550,14 @@ scripts, on a blank page instead of a script.
 **What does:** who it is for and what they get, in the words they
 would use, carrying the search noun.
 
+**And it has to cover the whole grid.** The first one-line version was
+"what to eat, and when, for every part of a marathon", and three of
+the six videos on the grid are not about food. A bio narrower than the
+content tells part of the audience the account is not for them. **Read
+the grid before writing the line, and find the through-line that holds
+all of it.** For ERN that is the gap between the block and the day:
+"How to run the marathon you actually trained for."
+
 **The one exception to copying Briar.** He has no product and nothing
 to sell, so he needs no door. An account whose whole commercial plan
 is a free guide keeps its door, on the link label rather than in the

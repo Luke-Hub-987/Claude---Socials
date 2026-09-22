@@ -52,21 +52,61 @@ and more interesting.
 
 ### Display name, and this is the highest-leverage change on the page
 
-> **ERN | Marathon Fuelling**
+> **ERN | Marathon Training**
 
 The name field is **indexed by search on both platforms**. P68 and P75
 established that search is the second channel and that the winners are
 search assets that keep earning. "ERN" is searchable by nobody. This
 change costs thirty seconds and it is worth more than the bio.
 
+"Marathon training" is the largest query of the three the account
+serves, and every video sits inside a marathon build, so it is both
+the biggest term and an honest one. **Fuelling would now be too narrow
+for the same reason the first bio was.**
+
 Instagram equivalent: the **Name** field (not the handle), set to
-**Engine Room Nutrition | Marathon Fuelling**.
+**Engine Room Nutrition | Marathon Training**.
+
+⚑ **Check the character limit.** TikTok has historically capped the
+name field at 30 characters. "ERN | Marathon Training" is 23, so it
+fits. The Instagram version is longer and may need to be "ERN |
+Marathon Training".
 
 ### Bio, one line
 
-> **What to eat, and when, for every part of a marathon.**
+> **How to run the marathon you actually trained for.**
 
-That is the whole bio. Compare Briar at 109.4K:
+That is the whole bio.
+
+**v2. "What to eat, and when" was too narrow and Luke caught it.** The
+grid is not a fuelling account:
+
+| Video | What it actually is |
+|---|---|
+| What to do in the last 3 hours before your marathon | Race execution |
+| What to do in the first 5k of a marathon | Race execution |
+| Your hardest run of the week does the least | **Training** |
+| How to know what marathon time you are in shape for | **Training** |
+| How many gels you actually need in a marathon | Fuelling |
+| What to eat in the hour after a long run | Fuelling |
+
+Three of the six are not about food. A bio that says "what to eat"
+tells two thirds of the audience the account is not for them.
+
+**The real through-line is the gap between the block and the day.**
+Every video on that grid is about something people get wrong that
+costs them on race day, whether it is a session, the long run, the
+taper or the gels. "The marathon you actually trained for" names that
+gap in one line, and it holds the training videos as easily as the
+fuelling ones, because the training ones are about not wasting the
+block.
+
+**"Actually" is his marker**, confirmed across both datasets, and it
+is doing real work here rather than decorating.
+
+**Runner-up, if he wants the bio to describe coverage rather than
+promise an outcome:** *Marathon training, fuelling and race day,
+broken into the parts that decide it.* Accurate, longer, flatter. Compare Briar at 109.4K:
 
 > Helping creators/brands master their short-form content strategy
 
@@ -97,7 +137,7 @@ Label it **"Free race week fuel guide"**.
 If the platform will not let the link be labelled, and only then, the
 bio becomes two lines:
 
-> What to eat, and when, for every part of a marathon.
+> How to run the marathon you actually trained for.
 > → Free race week fuel guide
 
 Nothing else goes back in.
