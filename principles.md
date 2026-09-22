@@ -3570,6 +3570,66 @@ shortest version that still does the job, before it is delivered.
 
 *Source: Luke, comparing the ERN bio to Briar Cochran's.*
 
+## P89 — The OST has to render in two lines, and the platforms will disagree
+
+Two findings from the goal pace video.
+
+### 1. Two seconds is the cover, and the cover is the OST
+
+TikTok reported **most viewers stopped at 0:02** on a video whose skip
+rate on Instagram was the best recorded. At two seconds nothing has
+happened except the frame, so the frame is what lost them.
+
+**The OST wrapped to three lines and the play button sat on top of
+it.** "How to know what marathon time you are in shape for" is eleven
+words. It reads fine written down and becomes three lines of small
+text on a phone, over a stock photo, with a play triangle through the
+middle.
+
+| OST | Words | Lines |
+|---|---|---|
+| What to do in the last 3 hours before your marathon | 10 | 2 |
+| What to eat in the hour after a long run | 10 | 2 |
+| **How to know what marathon time you are in shape for** | **11** | **3** |
+
+**The rule: line one renders in two lines at full size, and nothing
+sits in the vertical centre of the frame** where the play button goes.
+
+Check it in the editor at phone size, not in the document. Eleven
+words is the edge. Ten is safe.
+
+When a word has to go, **the marker goes before the meaning.**
+"Actually" is his authenticity marker and it is worth a lot, and it is
+worth less than the OST being legible.
+
+### 2. Instagram and TikTok can move opposite ways on the same video
+
+| | IG | TikTok | Combined |
+|---|---|---|---|
+| Not hungry, wide gate | 3,681 | 3,567 | 7,248 |
+| Goal pace, narrow gate | **5,692** | **1,633** | 7,325 |
+
+**Combined reach was flat.** The mix moved, and the gate width
+explains it.
+
+Instagram's audience for this account is already marathon-shaped,
+built out of marathon videos and collabs, so a narrow gate
+concentrates. TikTok delivered 99.8% of traffic through For You, which
+is cold and broad, and a narrow gate there is a wall.
+
+**Two consequences:**
+
+1. **Do not read one platform as the verdict.** A video that halves on
+   TikTok and grows 55% on Instagram is not a failure, and the
+   combined number is the honest headline.
+2. **A narrow gate is still right.** The narrow one produced the best
+   saves, the best average watch and the first comments on either
+   platform. Widening the topic to chase TikTok would trade the
+   audience that buys a bar for views that do not.
+
+*Source: Luke, sharing the Instagram and TikTok insights for the
+22 September post.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
