@@ -62,34 +62,45 @@ change costs thirty seconds and it is worth more than the bio.
 Instagram equivalent: the **Name** field (not the handle), set to
 **Engine Room Nutrition | Marathon Fuelling**.
 
-### Bio
+### Bio, one line
 
 > **What to eat, and when, for every part of a marathon.**
-> 2 accountants building a carb bar in a home kitchen. ⚑[N] failed
-> batches, still pre-launch.
+
+That is the whole bio. Compare Briar at 109.4K:
+
+> Helping creators/brands master their short-form content strategy
+
+One line. No CTA in the text, no proof, no product, no story. **The
+bio states the function and the videos do everything else.**
+
+The first draft of this file had three lines, a failed-batch count and
+a CTA, which is the same over-engineering P85 caught in the scripts.
+Luke called it. What came out and why none of it is missed:
+
+- **"2 accountants building a carb bar. ⚑[N] failed batches, still
+  pre-launch."** This is the best thing about the brand and **it is
+  already on screen in every single video** as the not-spoken card.
+  Proof that runs in the content does not need to run in the bio.
+- **"→ Free fuel guide + early bar access."** The link field is its
+  own line on the profile with its own label. Putting the offer in the
+  bio text says it twice.
+
+**One honest difference from Briar.** He has 109K followers, no
+product and nothing to sell, so he does not need a door. ERN has 201
+followers and a free guide that is the whole commercial plan, so the
+door stays. **It belongs on the link label, not in the bio text.**
+
+### Link
+
+Label it **"Free race week fuel guide"**.
+
+If the platform will not let the link be labelled, and only then, the
+bio becomes two lines:
+
+> What to eat, and when, for every part of a marathon.
 > → Free race week fuel guide
 
-Why each line:
-
-1. **Line one is the through-line P26 said was missing.** It is also
-   literally what the account is: three hours before, thirty minutes
-   before, the first 5k, thirty K, the hour after. It states the
-   promise, carries the search noun, and it is about the viewer.
-2. **Line two is the only thing about this brand nobody else can
-   say.** Two accountants, a home kitchen, a real number of failed
-   batches, nothing on sale yet. It builds trust by admitting the
-   product is not ready, which is stronger than claiming it is first.
-3. **One CTA.** The free guide is the thing people will actually take.
-   Early access was doing nothing except diluting it.
-
-**Short version if the bio truncates on TikTok:**
-
-> **What to eat, and when, for every part of a marathon.**
-> 2 accountants. Bar still pre-launch.
-> → Free race week fuel guide
-
-**Rejected:** anything opening "The first...". It is a claim that
-invites a challenge, and it is about the bar rather than the runner.
+Nothing else goes back in.
 
 ---
 

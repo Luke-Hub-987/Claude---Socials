@@ -3516,6 +3516,52 @@ the body that would make a viewer argue, and move it to the front.**
 *Source: Luke, on the Monday video hook reading "a little bit too
 obvious".*
 
+## P88 — A bio is one line. The videos carry everything else
+
+Briar at 109.4K followers:
+
+> Helping creators/brands master their short-form content strategy
+
+One sentence. No CTA in the text, no proof, no product, no story.
+
+The first ERN bio rewrite came back with three lines, a failed-batch
+count and a two-part CTA. Luke's correction: **ours is too complex and
+too long.** He is right, and it is the same failure P85 caught in the
+scripts, on a blank page instead of a script.
+
+**The rule: the bio states the function in one sentence.**
+
+> What to eat, and when, for every part of a marathon.
+
+**What does not belong in a bio:**
+
+- **Proof that already runs in the content.** "2 accountants, ⚑[N]
+  failed batches, still pre-launch" is the best thing about the brand
+  and it is on screen in every video. Saying it twice adds nothing and
+  costs the one line people read.
+- **What the thing is not.** "Not a protein bar. Not a gel." is the
+  banned construction, and negative space is the least persuasive copy
+  there is.
+- **A category name the audience does not use about themselves.**
+  "Hybrid Professional" against a feed of marathon videos greets the
+  wrong person.
+- **The offer, when the link field has its own label.**
+
+**What does:** who it is for and what they get, in the words they
+would use, carrying the search noun.
+
+**The one exception to copying Briar.** He has no product and nothing
+to sell, so he needs no door. An account whose whole commercial plan
+is a free guide keeps its door, on the link label rather than in the
+bio text.
+
+**And the meta-lesson, which is the reason this is written down.**
+Given a blank page rather than an edit, the default output is too
+long. The fix is the same as P85: write it, then cut it to the
+shortest version that still does the job, before it is delivered.
+
+*Source: Luke, comparing the ERN bio to Briar Cochran's.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
