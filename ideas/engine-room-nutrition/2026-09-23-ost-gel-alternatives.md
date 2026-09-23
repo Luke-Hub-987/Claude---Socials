@@ -4,7 +4,7 @@ brand: ERN, collab with personal
 generated_at: 2026-09-23
 source: a direct message from a real follower asking what to take
   instead of gels, having said they cannot stomach gels or fibre
-slot: Sunday 27 September, after the long run
+slot: Saturday 26 September, the evening before the long run
 ---
 
 # What to take instead of gels in a marathon
@@ -75,6 +75,17 @@ close to the surface on this one.
 A table with grams on it is exactly the card that took saves from 34
 to 90 (P84).
 
+## Three production fixes carried from the tangents video
+
+1. **The save card moves to the middle of the video, not the end.**
+   Six saves on a 1:40 video whose card was behind a minute of
+   footage. If the card earns the saves it cannot be at the back.
+2. **The whisper sits directly under line one, in the top third.** It
+   has been under the play button on two covers running (P89).
+3. **Keep the numbers exactly as written.** The tangents OST became
+   42K instead of 42.2k in production and the precision was the
+   device. Here it is **60g an hour**, and 60 is the number.
+
 ## Beats
 
 1. **Why gels do this to people.** Concentration, the mouthful of
@@ -127,10 +138,17 @@ the first customer.
 **Thursday 24 September: the tangents video.** Race positioned, which
 is where every big number has come from, and the window helps.
 
-**Sunday 27 September: this one.** The reason is the same one that
-made the not hungry video work: **people will have just finished a
-long run and found out their gels do not agree with them.** They are
-inside the problem when they see it.
+**Saturday 26 September: this one.** Sunday was the first instinct,
+on the logic that made the not hungry video work: people have just
+finished a long run and found out their gels do not agree with them.
+
+**Saturday is better, and the difference is whether they can act.**
+The not hungry video was about something they do in the next hour, so
+Sunday afternoon was the moment. This one needs them to **buy or
+prepare something before they run**, and by Sunday lunchtime that
+weekend is gone. Saturday evening is when people lay their fuel out
+for the morning, so it arrives while they can still do something
+about it.
 
 It is also the only evergreen of the two. "Alternatives to gels" is a
 year round query and it will keep earning long after Dublin, which is
