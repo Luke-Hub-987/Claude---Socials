@@ -3630,6 +3630,48 @@ is cold and broad, and a narrow gate there is a wall.
 *Source: Luke, sharing the Instagram and TikTok insights for the
 22 September post.*
 
+## P90 — Judge craft immediately. Judge reach at 24 hours
+
+The tangents video was read at **two and a half hours old** and
+compared against videos read at five hours and twenty four hours. That
+comparison is worthless for reach and it nearly produced a wrong
+conclusion.
+
+**The rule: compare like ages, and know which metrics are which.**
+
+| Read at | What can be trusted | What cannot |
+|---|---|---|
+| **1 to 3 hours** | Skip rate, average watch, watched-full, retention shape | Views, saves, comments, follows |
+| **24 hours** | Everything, and this is the comparison point | |
+| **A week or more** | Search compounding, which only the winners show | |
+
+**Rate metrics stabilise early** because they are ratios of the people
+already served. **Count metrics need time**, and saves and comments
+lag hardest because they come from people who finished.
+
+### The numbers that made this worth writing down
+
+| | 18,000 winner | Goal pace | Tangents at 2.5h |
+|---|---|---|---|
+| IG skip rate | 27.5% | 28.6% | **20.6%** |
+| IG views | 18,000 | 5,692 | 1,418 |
+
+Read carelessly, that is a flop. Read properly, **it is the best stop
+rate the account has ever recorded on a video nobody has seen yet.**
+Those are completely different findings and they call for completely
+different responses.
+
+### Two habits this sets
+
+1. **Do not change the plan on a same-day read.** A rate metric can
+   justify keeping a technique. Only a 24 hour count can justify
+   dropping a topic.
+2. **Say the age of the data out loud** in every review, at the top,
+   before any number. Every review before this one failed to.
+
+*Source: reading the 23 September post two and a half hours after it
+went up.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
