@@ -1,82 +1,90 @@
-# Rice Crisp Carb Bar: v2 Test Plan (fixing the next-day staleness)
+# Rice Crisp Carb Bar: v2 Test Plan
 
-## Problem
-Bars are great on day 1. By day 2 the outside is still crunchy but the inside
-tastes stale.
+## Constraints (set by the team)
+- 5 bars per batch, 30g carbs per bar.
+- Minimal, clean ingredient list. No glycerine and no added humectants.
+- Beef gelatine (Dr. Oetker).
+- Target glucose:fructose ratio of 1:0.8.
+- 6-month shelf life, to be confirmed by lab testing (water activity and a
+  shelf-life study).
 
-## Diagnosis (hypothesis, to be confirmed by measurement)
-Moisture moves from the marshmallow binder into the rice, and the rice goes
-leathery.
-- Binder: estimated water activity (aw) ~0.6–0.7, a typical marshmallow
-  (not yet measured).
-- Crisped rice: ~0.2–0.3.
-- Water always moves toward the lower aw until the two are equal. The rice
-  can't stay crisp inside a wet binder. In food-science terms this is moisture
-  migration, and it shows up as staleness.
-- The outside stays crunchy because the surface dries into the air, which also
-  suggests the bars aren't sealed straight after cooling.
+## The ratio problem
+- The v1 (Gemini) recipe is **1:0.2**, not 1:0.8. Gemini's own "4.5:1" figure
+  says the same thing (1:0.22).
+- Rice starch counts as glucose: 50g of rice is about 42g of glucose that has
+  to be balanced.
+- Sugar, maple and honey are all roughly 1:1. However much of them you use,
+  they can't pull the whole bar past about **1:0.6**.
+- Reaching 1:0.8 needs something that is mostly fructose: crystalline fructose
+  or agave syrup.
+- Maltodextrin and glucose syrup are pure glucose. Both work against the
+  target, so both are removed in v2.
 
-aw (water activity) measures how much free water is in a food. The fix is to
-bring binder aw closer to the rice's and seal the bars properly. Six months also
-*requires* this: a gelatin marshmallow at ~0.65+ aw is a mould risk over that
-time.
+## Options (5-bar batch; per-bar figures)
 
-## v2 formula (5 bars, ~39g each, ~29.5g carbs per bar before glycerol)
+All options also include: coconut oil 5g, gelatine 1.5g, water 7.5g, salt 2g,
+vanilla 0.5g.
 
-| Ingredient | v1 (g) | v2 (g) | Why |
-|---|---|---|---|
-| Crisped rice | 50.0 | 50.0 | |
-| Coconut oil (rice pre-coat) | 5.0 | 5.0 | Keep the fat barrier |
-| Glucose syrup 42 DE | 48.0 | 48.0 | |
-| Maple syrup | 25.0 | 25.0 | Flavour (golden syrup is a cheaper option) |
-| Sugar | 33.0 | 33.0 | |
-| Maltodextrin | 19.5 | **0** | Large molecules barely lower aw |
-| Dextrose | – | **10.0** | Small molecule, lowers aw |
-| Crystalline fructose | – | **8.0** | Lowers aw strongly, less start-line sugar dip |
-| Vegetable glycerine | – | **0 / 5 / 10** | The main variable (see below) |
-| Salt | 1.0 | **2.0** | ~160mg sodium per bar |
-| Gelatine (Dr. Oetker) | 1.5 | 1.5 | |
-| Water (bloom) | 7.5 | 7.5 | |
-| Vanilla | 0.5 | 0.5 | |
+| | A: honey | A': acacia honey | B: + fructose | B': agave |
+|---|---|---|---|---|
+| Crisped rice | 50 | 50 | 50 | 50 |
+| Honey | 60 | 60 (acacia) | 45 | – |
+| Agave syrup | – | – | – | 75 |
+| Maple syrup | 25 | 25 | 25 | 25 |
+| Sugar | 48 | 48 | 33 | 38 |
+| Crystalline fructose | – | – | 24 | – |
+| **Carbs / bar** | 30.4g | 30.0g | 29.9g | 30.6g |
+| **G:F** | 1:0.56 | 1:0.61 | **1:0.78** | **1:0.82** |
+| Bar weight | ~40g | ~40g | ~39g | ~41g |
 
-Glycerine (the "humectant" in commercial bars) holds water so the rice can't
-take it. Don't count it toward the 30g carb claim. Check how it has to be
-labelled before any packaging goes to print.
+These estimates use typical label compositions. Agave and honey vary by brand
+(acacia honey is naturally higher in fructose). B is the most precise because
+crystalline fructose is 100% fructose.
 
-## Experiment 1: glycerine × packaging (the one that matters)
+For comparison, cutting the rice to 35g with only honey, maple and sugar only
+reaches 1:0.68. It also costs you the rice krispie identity, so it isn't
+recommended.
 
-Make three batches with glycerine at 0g, 5g and 10g. Keep everything else
-identical, including the cook temperature (probe thermometer) and how hard you
-press the tin.
+## Staleness (clean-label levers)
+The inside goes stale because moisture moves from the marshmallow binder into
+the rice. With no humectants allowed, these are the levers:
+1. **Remove maltodextrin and glucose syrup** (done in v2). Fructose and honey
+   hold water more tightly (lower water activity, aw) than long-chain
+   maltodextrin, so less of it moves into the rice. The ratio goal and the
+   staleness fix point the same way.
+2. **Cook the binder hotter so less water goes in.** Test 108, 112 and 116°C,
+   measured with a **probe** thermometer, not an IR gun. Fructose-rich syrups
+   brown faster, so watch the colour.
+3. **Keep the coconut oil coat on the rice.**
+4. **Press lightly into the tin.** Crushed rice goes stale faster.
+5. **Seal in foil or metallised pouches within 30 minutes of cutting.**
+   Fructose is hygroscopic (pulls moisture from the air), so unsealed bars get
+   sticky.
 
-- Press lightly. Crushed rice has more surface area and goes stale faster.
-- Split each batch in two:
-  - **A:** sealed into foil or metallised pouches within 30 minutes of setting.
-  - **B:** cling film (what we do now).
+## Method (v2)
+1. Toast the rice at 100°C for 8 minutes. Cool it, then toss it in the melted
+   coconut oil.
+2. Bloom the gelatine in the water for 5 minutes.
+3. Put the sugar, honey/agave, maple, fructose (option B) and salt in a pan.
+   Heat on low, stirring, until the sugar has fully dissolved.
+4. Cook to the test temperature on a probe thermometer. Take it off the heat
+   and let it cool to about 90°C.
+5. Stir in the gelatine, then whip for 60–90 seconds until it turns opaque.
+   Stir in the vanilla.
+6. Fold the binder into the rice. Press lightly into a lined tin.
+7. Leave to set for 1–2 hours, cut into 5 bars and seal them straight away.
 
-| Batch | Pack | D1 | D3 | D7 | D14 | D28 | Notes |
+## Test grid (score inside crispness and "stale" flavour 1–10, blind)
+
+| Recipe | Cook °C | D1 | D3 | D7 | D14 | D28 | Notes (sweetness, stickiness) |
 |---|---|---|---|---|---|---|---|
-| G0 | A | | | | | | |
-| G0 | B | | | | | | |
-| G5 | A | | | | | | |
-| G5 | B | | | | | | |
-| G10 | A | | | | | | |
-| G10 | B | | | | | | |
+| v1 (control) | as made | | | | | | |
+| A' | 112 | | | | | | |
+| B | 108 | | | | | | |
+| B | 112 | | | | | | |
+| B | 116 | | | | | | |
 
-Score inside crispness and "stale" flavour from 1 to 10, blind (someone else
-labels the bars). Also note stickiness and any glycerine aftertaste (bitter or
-warming).
-
-## Experiment 2: measure aw
-Send the G0 and best-scoring binder, plus the plain rice, to a food lab for aw
-(e.g. Campden BRI or any UKAS-accredited lab).
-- Target: finished bar aw ≤ ~0.55. That's needed for a 6-month claim and
-  narrows the gap to the rice.
-- A formal shelf-life study (with micro testing) is still needed before
-  printing a best-before date.
-
-## Benchmark
-Kellogg's Rice Krispies Squares. Buy a pack, check the ingredients list for
-humectants and sugar types, and taste one side by side at D7. Their rice is
-*not* crisp: it's a soft chew that equilibrated in the factory. Decide if that's
-the target texture, because a truly crisp rice bar at 6 months is much harder.
+Send the best two, plus plain rice, to the lab for aw.
+- Target: finished bar aw ≤ ~0.55.
+- Benchmark: Kellogg's Rice Krispies Squares at D7. Their rice is a soft chew,
+  not crisp.
