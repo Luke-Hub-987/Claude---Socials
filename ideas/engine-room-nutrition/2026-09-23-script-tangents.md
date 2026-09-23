@@ -72,7 +72,7 @@ the negative verb stands.
 
 ---
 
-## Script (~390 words, v2)
+## Script (~405 words, v2, counted)
 
 **[ON SCREEN, held ~10s]**
 "How to run 42.2k in a marathon (and where the extra kilometre comes
