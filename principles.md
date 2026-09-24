@@ -3339,7 +3339,37 @@ in the audio makes it more checkable, not less, because a viewer can
 pause on it. Everything on the card gets the same flag treatment as a
 spoken claim.
 
-*Source: Luke, supplying the post-run recovery science.*
+### CORRECTION, 24 September
+
+**Luke does not put cards on screen and never has.** Every card in
+every script since this principle described something that was not in
+the finished video.
+
+**So the split was never tested, and the results were mine to
+misattribute.** The goal pace video took 90 saves, the largest jump in
+the data, **with nothing on screen**. What it actually had was spoken
+content too dense in rules and numbers to hold in your head.
+
+**What survives:** the driver of a save is rule-dense content, and
+that works out loud. Where it is a formula, **say the ratio and skip
+the arithmetic**, which is still right, and still the reason "three
+times as much carbs as protein" beat "a gram per kilo plus twenty odd
+grams of protein".
+
+**What does not survive:** any claim that the card did the work, and
+any script line that says "it is on screen". Three scripts carried
+that line and one of them was filmed with it, promising a viewer
+something that was not there.
+
+**The replacement, until cards are actually tested:** an explicit
+**save prompt at the moment the rules land**, not saved for the CTA.
+"The numbers matter, so this is the bit to save."
+
+A card is still a good idea and it is worth one clean experiment. It
+is not an explanation for anything that has already happened.
+
+*Source: Luke, supplying the post-run recovery science. Corrected by
+Luke, 24 September, noting he does not use cards.*
 
 ## P85 — 400 spoken words is the ceiling, and the hook stack is where the fat is
 

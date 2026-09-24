@@ -69,8 +69,8 @@ nausea.
 Which is why the fix is usually the same carbs arriving more dilute,
 rather than fewer carbs."
 
-**[TWO. THE FOUR. Card held here, in the middle]**
-"Four options, and they are on screen.
+**[TWO. THE FOUR. The save moment, in the middle]**
+"Four options, and the numbers matter, so this is the bit to save.
 
 **Carb drink mix** first, because it solves the problem instead of
 dodging it. Forty to eighty grams in a five hundred mil bottle ⚑,
@@ -110,18 +110,38 @@ week guide are in the bio."
 
 ---
 
-## On-screen cards
+## On-screen cards, and the correction
+
+**Luke does not put cards on screen, and never has.** Every card table
+I have written since the goal pace video described something that did
+not exist in the finished video.
+
+**Which means the saves were never the card's doing.** The goal pace
+video took 90 saves with nothing on screen. What it had was **spoken
+content dense enough in rules and numbers that nobody could hold it**.
+That is the real driver, and it works without a card (P84, corrected).
+
+**Two consequences for this script:**
+
+1. **The line "four options, and they are on screen" is cut.** It
+   promised something that was not there. It is now **"four options,
+   and the numbers matter, so this is the bit to save"**, which puts
+   an explicit save prompt at the exact moment the saveable content
+   lands, instead of leaving it to the CTA.
+2. **The rules have to be complete out loud.** Every gram figure gets
+   said, because there is no card to fall back on.
+
+### If he wants to test cards once
+
+Optional, and worth one experiment rather than a habit. A screenshot
+is a stronger save than a memory.
 
 | When | Card |
 |---|---|
-| Whole video | **"5 weeks to Dublin"**, corner (P82) |
-| **Beat two, held, the save card, in the MIDDLE of the video** | **"60g AN HOUR WITHOUT GELS. Carb drink mix 40-80g per 500ml · Chews ~25g a pack · Jelly sweets ~5g each, a dozen is 60g · Flat cola ~35g a can · A bar ~30g. Test it on a long run. Never debut it on race day."** |
-| Beat three | **"The course has water. It will not have your mix."** |
-| End card | **"Last full rehearsal: Sun 4 Oct"** |
+| Beat two, held ~6 seconds | **"60g AN HOUR WITHOUT GELS. Drink mix 40-80g per 500ml · Chews ~25g a pack · Jelly sweets ~5g each · Flat cola ~35g a can · A bar ~30g"** |
 
-**The card is in the middle on purpose.** The tangents video put its
-card at the end of a 1:40 cut and took six saves. At 34 seconds of
-average watch, a card behind a minute of video is a card nobody sees.
+One card, one video, then compare the save rate. **Nothing else about
+the script changes**, so it is a clean test.
 
 ---
 
