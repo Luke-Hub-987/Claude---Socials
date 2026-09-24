@@ -352,6 +352,52 @@ was Irish/UK tax law explainers, tax news commentary, tax history
 trivia, personal-life posts, and 2023 Rugby World Cup travel posts, all
 showing 4-20 impressions in-window.
 
+## Luke's proven on-screen-text titles (supplied 2026-09-24, from his IG grid)
+
+Real titles with real view counts, handed over by Luke as reference for
+LinkedIn headlines. Copied here as static reference for this project;
+the originals belong to his video system and are not read from here.
+Counts partly obscured in the screenshot are marked approximate.
+
+| Title | Views |
+|---|---|
+| What to do in the last 3 hours before your marathon | 20.7K |
+| How to know what marathon time you are in shape for | 18.9K |
+| What to do in the last 30 minutes before a marathon | 14.9K |
+| How to run just 42K in a marathon (+ where the extra KM's comes from) | 5,372 |
+| Your hardest run of the week does the least (5 weeks before a marathon) | 4,953 |
+| What to eat in the hour after a long run (+why you won't be hungry) | 4,323 |
+| How many gels you actually need in a marathon | ~3,600 |
+| The 3 ELITE levels of eating on a long run (and the one the people who finish strong are on) | ~2,690 |
+| We've filed tax returns for 10 years. Today we made a carb bar instead. | 1,012 |
+| What to do in the first 5k of a marathon | ~900 |
+| Why 2 accountants made a Carb Bar | 789 |
+| How to run the last 10k faster than the first 10k *(Marathon edition) | 582 |
+
+**The pattern the top three share, and it is not subtle.** The three
+biggest (20.7K, 18.9K, 14.9K) are all **a specific, named, narrowing
+time window** ("the last 3 hours," "the last 30 minutes") or **a
+diagnostic the reader wants run on themselves** ("what marathon time
+you are in shape for"). Both give the reader a moment they are already
+standing in, or about to be. That beats every clever framing lower down
+the grid.
+
+**Second pattern: the parenthetical whisper carries the objection or
+the payoff.** "(+ where the extra KM's comes from)", "(+why you won't
+be hungry)", "(and the one the people who finish strong are on)". The
+main clause sets the topic, the parenthetical is what actually makes
+someone stop.
+
+**Third: plain words, always.** "gels," "eat," "hardest run," "in
+shape for." No physiology terms anywhere in the top half of the grid.
+This is the same point as the "CCN is a real test" section in
+`craft-reference.md`, proven on his own account rather than argued.
+
+**What underperformed, worth noting honestly:** the two
+founder/origin-story titles (789, 1,012) and the last-10k title (582)
+sit at the bottom. Origin story is not a reach format on this account,
+whatever it does for brand-building.
+
 ## Newsletter growth (subject-line proof-of-work, useful for CTAs)
 
 Subscriber count cited in-post, in order: 145+ (6/18), 150+ (6/25,
