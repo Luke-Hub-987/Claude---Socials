@@ -2,32 +2,42 @@
 type: post-draft
 project: linkedin-analytical-athlete
 headline_source: Luke's own IG on-screen text, 5,372 views
+body_source: Luke's own video script for the same topic, adapted to LinkedIn
 pillar: 5 (direct running/fueling)
-device: how-to-with-gain + hidden-mechanism reveal
 generated_at: 2026-09-24
-status: draft, all facts sourced and linked below
+status: v2, rewritten in the video script's voice
 ---
 
 # Post — "How to run just 42K in a marathon"
 
-## Why this title, unchanged
+## What changed in v2
 
-Luke's own on-screen text, 5,372 views on IG: **"How to run just 42K in
-a marathon (+ where the extra KM's comes from)"**. It clears all four
-gates in `craft-reference.md` without any help from me:
+v1 was accurate, sourced and structurally correct, and it read like a
+technical bulletin. Luke's verdict: "very formal, direct, and no soul
+to it." His own video script for this topic is the register, so v2 is
+built on that script rather than on my rewrite of the same facts.
 
-- **Unguessable** — you cannot work out where the extra distance comes
-  from before reading.
-- **Named and specific** — 42K is a number every runner in the audience
-  already holds in their head.
-- **Self-recognition** — every single person who has run a marathon has
-  looked down at 43.1 and felt cheated. This is the "so me" gate,
-  cleared harder than anything I wrote in the last two batches.
-- **Cost** — you are running distance you did not sign up for, and it
-  has a time value. The post makes that value explicit.
+Specifically taken from the script and missing from v1:
 
-Kept as written, adapted only for text (spelled-out parenthetical
-rather than the "+" that suits on-screen).
+- **The pain leads, the mechanism follows.** The script opens on the
+  watch reading long and the three minutes it costs. v1 opened on how
+  courses are measured, which is the interesting part but not the part
+  that makes someone keep reading.
+- **"Three minutes is four hours becoming four oh three, after sixteen
+  weeks."** The number turned into a felt loss. v1's equivalent line
+  was abstract by comparison.
+- **The start line and the water stations.** v1 missed both. They are
+  free, nobody does them, and the script is right that they belong.
+- **The honest bit about GPS.** v1 cut this deliberately and the
+  reasoning was wrong. Conceding the part the reader cannot fix is what
+  makes the part they can fix believable.
+- **The re-hook.** "The next one is the one nobody does, and it is
+  free."
+- **Luke's numbers, not mine.** The script's 42.8 on the watch, 400 to
+  500 metres saved, three minutes at four hour pace. More conservative
+  than v1's figures and they hold up: 450m at four hour pace (5:41/km)
+  is 2 minutes 34 seconds, which rounds honestly to "about three
+  minutes."
 
 ---
 
@@ -35,97 +45,106 @@ rather than the "+" that suits on-screen).
 
 How to run just 42K in a marathon (and where the extra kilometres come from).
 
-A marathon is measured 30 centimetres from the kerb.
+If you are running a marathon in the next few weeks, your watch is going to read long at the finish. Somewhere around 42.8.
 
-Not down the middle of the road. Not where the crowd is. Thirty centimetres from the inside edge of every corner on the course, by someone on a bicycle with a counter bolted to the front wheel, who rides the whole thing at least twice.
+Some of that is GPS being wrong. Some of it is distance you genuinely ran. The second part costs you about three minutes.
 
-That line measures 42.195km. It is the only line on the course that does.
+Three minutes is four hours becoming four oh three, after sixteen weeks of training. And you give it away a few metres at a time, without ever noticing you are doing it.
 
-Then they add a tenth of a percent on top, on purpose, so the course can never come up short. About 42 extra metres, built in before anyone has run a step.
+So here is where it goes.
 
-So the number you signed up for belongs to a route almost nobody actually runs.
+The course is already long before you start.
 
-Every corner you take wide costs you up to 12 metres. A city marathon has a lot of corners.
+The 42.195 is measured along the shortest line anybody could legally run. Thirty centimetres off the kerb, apex to apex, the inside of every single bend. Someone rides it on a bicycle with a counter bolted to the front wheel, at least twice, to be certain.
 
-Add them up and you are looking at close to 800 metres of extra road over 42 kilometres.
+Nobody runs that line.
 
-At 5:30 per kilometre, that is about four and a half minutes.
+And the measurers add a small margin on top on purpose, a tenth of a percent, so that a course can never come up short. About 42 metres, built in before anyone has moved.
 
-Four and a half minutes is a personal best for a lot of people. It is sitting on the road, in the corners, for free.
+So the number you signed up for was never really the number.
 
-Here is how you take it back.
+Then there are the corners, which are most of the rest.
 
-1. Pull up the course map the week before. You are not looking at the route. You are looking for the corners.
+A city marathon has dozens of turns, and on every one of them you either take the inside or you go the long way round. Most people drift through a bend wherever the crowd happens to put them.
 
-2. On every bend, pick the inside line before you reach it. Once you are in the middle of a pack you have already lost it.
+Here is the whole technique.
 
-3. Come off that line to overtake, then get straight back on it.
+Look at the next turn while you are still a hundred metres away, and move across to the inside before you get there. Cutting across during the bend is how you end up boxed in and wider than you started.
 
-4. On empty stretches, run the straight line between one corner and the next, rather than following the curve of the road.
+A few metres, dozens of times over, is where the kilometre comes from.
 
-5. Accept that you will not run 42.195. Nobody does. Run 42.4 instead of 43.2.
+The next one is the one nobody does, and it is free.
 
-That is the whole thing. No extra training, no extra kit, four minutes.
+The start line. Every metre sideways is a metre you ran without moving forward, and it buys you almost nothing, because the field spreads out by 5K anyway.
 
-Most race advice is about running faster. This one is about running less. Every week I break down the research behind what actually moves a race, for people who already train seriously. Join 160+ of them, the endurance guide is free when you do: [link]
+And at the water stations, pick your side a hundred metres out rather than at the table.
 
----
+Do those three things and you will finish having run four or five hundred metres less than the person beside you. At four hour pace, that is about three minutes, for nothing.
 
-## Suggested image hook
+Now the honest bit.
 
-**The measured line versus the line you ran.** This is the post's whole
-idea in one frame, and it is the thing someone screenshots.
+Some of the extra really is just GPS, especially between tall buildings, so your watch will read long even if you run the thing perfectly.
 
-Prompt for Canva or your usual generator:
+Do not chase the number. Run the line.
 
-> A clean overhead diagram of four consecutive city street corners, flat
-> vector style, muted off-white background, heavy black linework. Two
-> lines drawn through the same stretch of road: one thin red line
-> hugging the inside of every corner, labelled "THE MEASURED LINE
-> 42.195 KM"; one thicker grey line swinging wide on every corner,
-> labelled "THE LINE YOU RAN 43.1 KM". Small annotation at one corner
-> reading "+12m". Header across the top: "SAME RACE. DIFFERENT
-> DISTANCE."
-
-If you would rather shoot it yourself, the alternative is a photo of
-your own watch at the finish showing the overread, next to the official
-distance. Real, personal, and it costs nothing to make. That version
-also gives you the credibility beat the post is currently missing.
+Save this one before race day. And if you want the research behind the rest of race week, that is what I send out every week to 160+ runners who already train seriously. The endurance guide comes free with it: [link]
 
 ---
 
-## Sources, all verified this session
+## Your script's ⚑ flags, now resolved
 
-- **30cm from the kerb, shortest possible route, calibrated bicycle
-  method, course ridden twice or more**: World Athletics / AIMS Course
-  Measurement Book, and the SPR explainer at
-  [rat.run](https://rat.run/articles/content/course-measurement). The
-  "stretched string" description of the shortest possible route is
-  theirs.
-- **Short course prevention factor of 1.001, applied so a certified
-  course can never measure short**: required by World Athletics and
-  USATF, applies specifically to bicycle-measured courses.
-  [Wikipedia: Short course prevention factor](https://en.wikipedia.org/wiki/Short_course_prevention_factor).
-  0.1% of 42,195m is 42.195m, which is where "about 42 extra metres"
-  comes from.
-- **Up to 40 feet (roughly 12 metres) lost on a single wide turn, and
-  close to half a mile over a full marathon**:
-  [RunWashington](https://www.runwashington.com/2022/10/18/tangents/)
-  and [Salty Running](http://www.saltyrunning.com/running-the-tangents-why-your-gps-thinks-every-race-course-is-long/).
-- **The four-and-a-half minutes** is my arithmetic, not a source: 800m
-  at 5:30/km is 4 minutes 24 seconds. Change the pace and the number
-  moves, so if you want to quote a different pace, recalculate rather
-  than reusing this one.
+Four of the claims your script marked as needing verification are
+confirmed, with sources:
+
+- **"Inside of every bend" ⚑** — confirmed, and more specific than the
+  script assumed. The measured line sits **30cm from the kerb** and is
+  formally the "shortest possible route," described in the measurement
+  standards as where a stretched string would lie inside the course.
+  [World Athletics / AIMS measurement explainer](https://rat.run/articles/content/course-measurement).
+- **"The measurers add a small margin on purpose" ⚑** — confirmed. It
+  is called the short course prevention factor, it is **1.001**, and it
+  is required by World Athletics and USATF for any bicycle-measured
+  course. On a marathon that is **42.195 extra metres**, which is why
+  the post says "about 42 metres."
+  [Short course prevention factor](https://en.wikipedia.org/wiki/Short_course_prevention_factor).
+- **"Some of the extra is just GPS" ⚑** — confirmed, and worst in urban
+  canyons, which is exactly where city marathons are run.
+- **"Somewhere around 42.8" ⚑** — consistent with published tangent
+  analysis: a single wide turn can cost up to 40 feet, and the
+  cumulative effect over a marathon is commonly put at close to half a
+  mile. [RunWashington](https://www.runwashington.com/2022/10/18/tangents/),
+  [Salty Running](http://www.saltyrunning.com/running-the-tangents-why-your-gps-thinks-every-race-course-is-long/).
+  42.8 sits comfortably inside that range, so it is safe as written.
+
+Still unverified and left out of the post: **⚑[N] failed batches**. That
+number is yours to fill.
 
 ## Flags before publishing
 
+- **The "2 accountants, [N] failed batches, still pre-launch" line is
+  not in the LinkedIn version.** It is an on-screen-only device in the
+  script, and LinkedIn has no second visual layer to carry it without
+  interrupting the read. Worth noting too that both founder/origin-story
+  titles in your IG grid sit at the bottom for reach (789 and 1,012).
+  If you want the pre-launch credibility beat in, the cleanest place is
+  the image rather than the body.
 - **Subscriber count** is 160+, last confirmed 12 July. Update it.
-- **The credibility beat is still empty.** This post has a natural slot
-  for it after the "42.4 instead of 43.2" line, something like what
-  your own watch read at a specific race against the official distance.
-  I have not invented one. Give me a real race and a real number and I
-  will place it, or shoot the watch photo and let the image carry it.
-- **GPS overread is deliberately left out.** It is a real second cause,
-  but it splits the post's argument in two and hands the reader an
-  excuse ("my watch was wrong") instead of an action. The post is
-  stronger blaming the corners, which are the part they control.
+- **Credibility slot still open.** The natural spot is right after "Run
+  the line": your own watch reading at a specific race against the
+  official distance. Give me the real numbers and I will place it.
+
+## Suggested image hook
+
+The measured line against the line you ran, as a diagram. Prompt:
+
+> A clean overhead diagram of four consecutive city street corners,
+> flat vector style, muted off-white background, heavy black linework.
+> Two lines through the same stretch of road: a thin red line hugging
+> the inside of every corner, labelled "THE MEASURED LINE 42.195 KM";
+> a thicker grey line swinging wide on every corner, labelled "THE LINE
+> YOU RAN 42.8 KM". Small annotation at one corner reading "+12m".
+> Header across the top: "SAME RACE. DIFFERENT DISTANCE."
+
+Stronger alternative if you will shoot it: a photo of your own watch at
+a finish showing the overread, next to the official distance. That
+fills the credibility slot and the image slot in one go.

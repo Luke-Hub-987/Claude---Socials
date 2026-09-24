@@ -236,6 +236,42 @@ sentence anyone would feel. This is the single most common way a
 technically-correct, well-sourced hook still reads as "absolute shit"
 (Luke's words) — accuracy is necessary but nowhere near sufficient.
 
+## Tone: conversational, with asides. Not a technical bulletin.
+
+**Real failure, 2026-09-24.** A post draft was accurate, sourced,
+jargon-free and correctly structured, and Luke's verdict was still:
+"very formal, direct, and no soul to it." He was right, and the cause
+was this file: the "short declarative lines" guidance had hardened into
+clipped, lifeless staccato where every sentence stood alone and none of
+them talked to the reader.
+
+The fix is his own video scripts, which are the register to write in.
+What they do that the formal version does not:
+
+- **Turn the number into a felt loss.** "Three minutes is four hours
+  becoming four oh three, after sixteen weeks." That is the same three
+  minutes, made to hurt. The formal version said "four minutes is a
+  personal best for a lot of people," which is the idea without the
+  ache.
+- **Describe what people actually do, warmly, before correcting it.**
+  "Most people drift through a bend wherever the crowd happens to put
+  them." No blame in it, and the reader sees themselves immediately.
+- **Say "here is the whole technique" and then give it.** Signposting
+  in a human voice rather than a numbered heading.
+- **Include the honest bit.** "Some of the extra really is just GPS, so
+  your watch will read long even if you run it perfectly. Do not chase
+  the number, run the line." Conceding the part you cannot fix is what
+  makes the part you can fix believable. An earlier draft cut this on
+  the grounds that it "hands the reader an excuse." That was wrong:
+  it hands the reader a reason to trust everything else in the post.
+- **Re-hook mid-post.** "The next one is the one nobody does, and it is
+  free."
+
+Short sentences are still right. Short and *disconnected* is the
+failure. Each line should lean into the next one, and at least a few of
+them should sound like a person talking rather than a specification
+being read out.
+
 ## Power-word bank
 
 Words are not decoration — each does one structural job. **One power
