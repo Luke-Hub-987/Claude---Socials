@@ -43,31 +43,42 @@ Specifically taken from the script and missing from v1:
 
 ## THE POST
 
-How to run just 42K in a marathon (and where the extra kilometres come from).
+How to run just 42K in a marathon.
 
-If you are running a marathon in the next few weeks, your watch is going to read long at the finish. Somewhere around 42.8. Some of that is GPS being wrong, some of it is distance you genuinely ran, and the second part costs you about three minutes.
+Your watch is going to read about 42.8 at the finish. Some of that is GPS. Some of it is distance you actually ran, and that part costs you around three minutes.
 
-Three minutes is four hours becoming four oh three, after sixteen weeks of training. You give it away a few metres at a time without ever noticing you are doing it.
+Three minutes is four hours becoming four oh three, after sixteen weeks of training.
 
-Three things cause it, and all three are free to fix.
+Three things cause it. All three are free.
 
-1. The course is already longer than 42.2 before you start.
+1. The course is measured long on purpose
 
-The 42.195 is measured along the shortest line anybody could legally run: thirty centimetres off the kerb, the inside of every bend. Someone rides that line on a bicycle with a counter bolted to the front wheel, at least twice, to be certain of it. Then they add a tenth of a percent on purpose so the course can never come up short, which is another 42 metres. Nobody runs that line, so what you actually cover was always going to be more than 42.2.
+• 42.195 is measured 30cm off the kerb, the inside of every bend
+• Someone rides that line on a bike with a counter, twice, to be sure
+• Then they add 0.1% so it can never come up short. Another 42 metres
+• Nobody runs that line
 
-2. The corners, which are most of the rest.
+2. The corners, which are most of it
 
-A city marathon has dozens of turns, and on every one you either take the inside or you go the long way round. Most people drift through a bend wherever the crowd happens to put them. The whole technique is this: look at the next turn while you are still a hundred metres away, and move across to the inside before you get there. Cutting across during the bend is how you end up boxed in and wider than you started. A few metres, dozens of times over, is where the kilometre comes from.
+• Spot the next turn 100m out and move inside before you reach it
+• Cutting across mid-bend is how you get boxed in and end up wider
+• A few metres, dozens of turns, is where the kilometre comes from
 
-3. The start line and the water stations, which nobody bothers with and which cost nothing.
+3. The start line and the water stations
 
-Every metre you run sideways off the start is a metre you ran without moving forward, and it buys you almost nothing because the field spreads out by 5K anyway. Same at the water stations: pick your side a hundred metres out rather than at the table.
+• Every metre sideways off the start is a metre you didn't move forward
+• The field spreads out by 5K anyway, so it buys you nothing
+• Pick your side 100m before the table, not at it
 
-Do those three and you finish having run four or five hundred metres less than the person beside you. At four hour pace that is about three minutes, for nothing.
+Do those three and you'll finish having run four or five hundred metres less than the person beside you. At four hour pace that's about three minutes, for nothing.
 
-And the honest bit. Some of the extra really is just GPS, especially between tall buildings, so your watch will read long even if you run it perfectly. Do not chase the number. Run the line.
+The honest bit: some of it really is just GPS, especially between tall buildings. Your watch will read long even if you run it perfectly.
 
-Save this one before race day. The research behind the rest of race week goes out every week to 160+ runners who already train seriously, and the endurance guide comes free with it: [link]
+Don't chase the number. Run the line.
+
+Save this before race day. The full race week breakdown goes out to 160+ runners every week, and the endurance guide is free when you join: [link]
+
+*(Roughly 250 words, down from 420. Detail that got cut lives in the image below.)*
 
 ---
 
@@ -132,16 +143,33 @@ number is yours to fill.
 
 ## Suggested image hook
 
-The measured line against the line you ran, as a diagram. Prompt:
+Per the Lara Acosta example, the image carries the dense version and
+the post stays light. So this holds the detail cut from the post: the
+12 metres per corner, the calibrated bicycle, the race-day checklist.
 
-> A clean overhead diagram of four consecutive city street corners,
-> flat vector style, muted off-white background, heavy black linework.
-> Two lines through the same stretch of road: a thin red line hugging
-> the inside of every corner, labelled "THE MEASURED LINE 42.195 KM";
-> a thicker grey line swinging wide on every corner, labelled "THE LINE
-> YOU RAN 42.8 KM". Small annotation at one corner reading "+12m".
+> A single-page reference graphic, flat vector style, muted off-white
+> background, heavy black linework, one accent colour in red.
+>
+> Top third: an overhead diagram of four consecutive city street
+> corners. A thin red line hugs the inside of every corner, labelled
+> "THE MEASURED LINE — 42.195 KM". A thicker grey line swings wide on
+> every corner, labelled "THE LINE YOU RAN — 42.8 KM". One corner
+> annotated "+12m".
+>
 > Header across the top: "SAME RACE. DIFFERENT DISTANCE."
+>
+> Bottom two thirds: three labelled boxes in a row.
+> Box 1, "WHY IT'S ALREADY LONG": measured 30cm off the kerb; ridden on
+> a calibrated bicycle twice; +0.1% added on purpose so it can never
+> measure short (+42m).
+> Box 2, "THE CORNERS": up to 12m lost on one wide turn; dozens of
+> turns in a city marathon; move inside 100m early, never mid-bend.
+> Box 3, "FREE METRES": don't weave off the start, the field clears by
+> 5K; choose your water station side 100m out.
+>
+> Footer strip: "400-500m saved = ~3 minutes at 4hr pace."
 
-Stronger alternative if you will shoot it: a photo of your own watch at
-a finish showing the overread, next to the official distance. That
-fills the credibility slot and the image slot in one go.
+Stronger alternative if you'll shoot it: a photo of your own watch at a
+finish showing the overread next to the official distance. Fills the
+credibility slot and the image slot in one go, and costs nothing to
+make.

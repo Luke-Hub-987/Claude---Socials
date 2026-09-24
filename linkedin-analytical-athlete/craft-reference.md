@@ -326,6 +326,31 @@ post for race day needs to reopen it and get straight to point 2.
 Short sentences still belong inside those blocks. What does not work is
 every sentence being its own paragraph for the length of a post.
 
+### Length and density, from a worked example Luke supplied
+
+Luke's reference for an easy-to-read post is Lara Acosta's LinkedIn
+framework post. What it does that our drafts were not doing:
+
+- **Around 250 words, not 400.** A post that looks dense in the feed
+  gets skipped before the first line is read. Length is a hook problem
+  before it is a content problem.
+- **The numbered headers are three to six words.** "Proof-First
+  Content." "LinkedIn Video (let me explain...)." Not a full sentence.
+  They exist to be skimmed.
+- **Bullets under each number, not prose.** Three or four of them,
+  one line each, no full stops needed. Bullets grouped under a header
+  read as a unit. Standalone sentences floating with white space
+  between them do not, which is the distinction Luke is drawing when he
+  says he dislikes "lots of single lines."
+- **Contractions throughout.** "I've," "here's," "don't," "it's." The
+  universal style rules already ask for a spoken register and this is
+  what that actually sounds like. Drafts without contractions read
+  stiff no matter how good the content is.
+- **The image carries the dense version.** Her post text is the light,
+  skimmable layer; the infographic holds the detailed framework with
+  every sub-point. Push detail into the image rather than fattening the
+  post.
+
 ## Power-word bank
 
 Words are not decoration — each does one structural job. **One power
