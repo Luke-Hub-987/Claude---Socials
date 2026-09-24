@@ -21,66 +21,88 @@ days and an open shop. Saturday evening gives them nothing.
 
 **Thursday.**
 
-## OST
+## OST, v2, rebuilt for the share
 
-> **What to take instead of gels in a marathon**
-> *(and still hit 60g an hour)*
+> **How to hit 60g an hour in a marathon without gels**
+> *(your stomach was never the problem)*
 
-- **Nine words, 42 characters.** Two clean lines (P89).
-- **"Instead of gels" is the exact query**, lifted from how it was
-  actually asked.
-- **Instruction verb, marathon in line one** (P83, P86).
-- **The whisper kills the objection and withholds the answer.** The
-  first thought is "yes but then I will under fuel". Screenshot test
-  passes (P80).
-- **60 is the number.** The tangents OST became 42K instead of 42.2k
-  in production and the precision was the device. Do not round this.
+### Why this beats v1
+
+> ~~What to take instead of gels in a marathon~~ *(and still hit 60g
+> an hour)*
+
+v1 passed every test we had **before yesterday**. What it does not do
+is carry an **overturning fact in the title**, which is the thing that
+just produced the first Higher share rate and the best reach the
+account has recorded (P91).
+
+| Test | v1 | v2 |
+|---|---|---|
+| Marathon in line one | Pass | Pass |
+| Instruction verb | Pass | Pass |
+| **Numeric anchor in line one** | **Fail.** 60g sat in the whisper | **60g an hour** |
+| Two lines, ten words (P89) | Pass | Pass. 10 words, 48 characters |
+| Screenshot test (P80) | Pass | Pass. It says the stomach is innocent and nothing about what is guilty |
+| **Overturning fact carried by the OST** (P91) | **Fail** | **"Your stomach was never the problem"** |
+
+**"Your stomach was never the problem" is the most loaded line
+available on this topic.** Someone who has spent three years believing
+they cannot handle carbs reads that as relief, and relief is what gets
+forwarded to the mate who has the same trouble. That is the share
+mechanism, and it is in the first second rather than at second five.
+
+**What v2 costs:** "instead of gels" is the exact phrase the follower
+used and a live query. "Without gels" is close and "how to fuel a
+marathon without gels" is also real, so the search loss is small.
+
+**Alternative if he wants the exact query phrasing:** *What to take
+instead of gels in a marathon* *(your stomach was never the problem)*.
+Keeps the query, keeps the overturn, loses the numeric anchor.
 
 ---
 
-## Script (~395 words)
+## Script (~390 words, v2)
 
 **[ON SCREEN, held ~10s]**
-"What to take instead of gels in a marathon (and still hit 60g an
-hour)"
+"How to hit 60g an hour in a marathon without gels (your stomach was
+never the problem)"
 
 **[HOOK STACK]**
 
-*Hook. The collision (P87):* "If gels wreck your stomach, here is the
-bit nobody tells you. A gel is about twenty five grams of sugar in a
-mouthful of liquid ⚑, and the exact same twenty five grams in a bottle
-of water goes down fine for most people. Your stomach is objecting to
-how concentrated it is."
+*Hook. Gate, the overturning fact, and the loop (HF13, P91):* "If gels
+wreck your stomach, it is the concentration doing it. A gel is about
+twenty five grams of sugar in a mouthful of liquid ⚑, and the exact
+same twenty five grams in a bottle of water goes down fine for most
+people."
 
 *Super hook, pain twisted:* "So people spend years believing they
 cannot take carbs, go into a marathon on three gels, and it catches up
-with them somewhere past thirty."
+with them past thirty."
 
-*Super hook, dream outcome:* "Ninety seconds: why it happens, four
-things that get you to sixty grams an hour without a single gel, and
-the one that works best when your stomach has already gone."
+*Super hook, dream outcome:* "Ninety seconds: four things that get you
+to sixty grams an hour without a gel in sight, and the one that still
+works when your stomach has already gone."
 
 **[ONE. WHY IT HAPPENS]**
-"Sugar pulls water towards it. Put something that concentrated into a
-stomach that already has very little blood going to it ⚑ and it sits
-there, dragging fluid in with it. That is the cramping and that is the
-nausea.
+"Sugar pulls water towards it. Something that concentrated, going into
+a stomach that already has very little blood in it ⚑, sits there and
+drags fluid in with it. That is the cramping and that is the nausea.
 
-Which is why the fix is usually the same carbs arriving more dilute,
-rather than fewer carbs."
+So the fix is the same carbs arriving more dilute, rather than fewer
+carbs."
 
 **[TWO. THE FOUR. The save moment, in the middle]**
 "Four options, and the numbers matter, so this is the bit to save.
 
-**Carb drink mix** first, because it solves the problem instead of
-dodging it. Forty to eighty grams in a five hundred mil bottle ⚑,
-sipped across an hour, arriving at a concentration your stomach can
-deal with.
+**Carb drink mix** first, because it fixes the concentration instead
+of dodging it. Forty to eighty grams in a five hundred mil bottle ⚑,
+sipped across the hour.
 
-**Chews**, about twenty five grams a pack ⚑, chewed slowly with water.
+**Chews.** About twenty five grams a pack ⚑, chewed slowly, with
+water.
 
 **Jelly sweets.** About five grams each ⚑, so a dozen is your hour.
-Cheap, and it is the same sugar.
+Same sugar, a fraction of the price.
 
 **Flat cola** late on, about thirty five grams a can ⚑.
 
@@ -93,16 +115,16 @@ Any of those, with water, gets you to sixty an hour."
 "And here is the catch nobody mentions."
 
 **[THREE. THE CATCH]**
-"Anything liquid means carrying it, because the course will have water
-and it will not have your mix. So you are running with a bottle or
-planning a handover.
+"Anything liquid means carrying it, because the course has water and
+it will not have your mix. So that is a bottle in your hand or a
+handover planned.
 
-And every one of these goes on a long run first. Your gut takes a
-couple of weeks to get used to a new carb load ⚑, so switching on race
-morning is how you find out the hard way.
+And all of it goes on a long run first. Your gut takes a couple of
+weeks to get used to a new carb load ⚑, so race morning is the worst
+possible place to find out.
 
-And if what you actually want is something solid that is not another
-gel, that is the entire reason we are making a bar."
+And if what you want is something solid that is not another gel, that
+is the entire reason we are making a bar."
 
 **[CTA]**
 "Save this before the weekend. First go at the bar and the free race
@@ -147,6 +169,12 @@ the script changes**, so it is a clean test.
 
 ## ⚑ Before filming
 
+0. **The share fact is the whole opening and it has to be said
+   cleanly.** "A gel is twenty five grams of sugar in a mouthful of
+   liquid, and the same twenty five grams in a bottle of water goes
+   down fine" is the line somebody repeats to a running mate. If he
+   rushes it or buries it, the video loses the mechanism that
+   produced the best reach on the account (P91).
 1. **Every gram figure needs a label checked.** Gels run 20 to 40g,
    drink mixes vary enormously, sweets vary by brand. Say "about"
    every time and put ranges on the card.
