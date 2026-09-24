@@ -51,21 +51,17 @@ Some of that is GPS being wrong. Some of it is distance you genuinely ran. The s
 
 Three minutes is four hours becoming four oh three, after sixteen weeks of training. And you give it away a few metres at a time, without ever noticing you are doing it.
 
-So here is where it goes.
-
 The course is already long before you start.
 
-The 42.195 is measured along the shortest line anybody could legally run. Thirty centimetres off the kerb, apex to apex, the inside of every single bend. Someone rides it on a bicycle with a counter bolted to the front wheel, at least twice, to be certain.
+The 42.195 is measured along the shortest line anybody could legally run, thirty centimetres off the kerb, the inside of every bend. Someone rides it on a bicycle with a counter bolted to the front wheel, at least twice, to be certain.
 
 Nobody runs that line.
 
-And the measurers add a small margin on top on purpose, a tenth of a percent, so that a course can never come up short. About 42 metres, built in before anyone has moved.
+The measurers also add a tenth of a percent on purpose, so a course can never come up short. About 42 metres, before anyone has moved.
 
-So the number you signed up for was never really the number.
+The corners are most of the rest.
 
-Then there are the corners, which are most of the rest.
-
-A city marathon has dozens of turns, and on every one of them you either take the inside or you go the long way round. Most people drift through a bend wherever the crowd happens to put them.
+A city marathon has dozens of turns, and on every one you either take the inside or you go the long way round. Most people drift through a bend wherever the crowd happens to put them.
 
 Here is the whole technique.
 
@@ -77,17 +73,32 @@ The next one is the one nobody does, and it is free.
 
 The start line. Every metre sideways is a metre you ran without moving forward, and it buys you almost nothing, because the field spreads out by 5K anyway.
 
-And at the water stations, pick your side a hundred metres out rather than at the table.
+At the water stations, pick your side a hundred metres out rather than at the table.
 
-Do those three things and you will finish having run four or five hundred metres less than the person beside you. At four hour pace, that is about three minutes, for nothing.
+Do those three and you finish having run four or five hundred metres less than the person beside you. At four hour pace that is about three minutes, for nothing.
 
-Now the honest bit.
-
-Some of the extra really is just GPS, especially between tall buildings, so your watch will read long even if you run the thing perfectly.
+And the honest bit. Some of the extra really is just GPS, especially between tall buildings, so your watch will read long even if you run it perfectly.
 
 Do not chase the number. Run the line.
 
-Save this one before race day. And if you want the research behind the rest of race week, that is what I send out every week to 160+ runners who already train seriously. The endurance guide comes free with it: [link]
+Save this one before race day. The research behind the rest of race week goes out every week to 160+ runners who already train seriously, and the endurance guide comes free with it: [link]
+
+---
+
+## Slop cut from v2, line by line
+
+| Cut | Why |
+|---|---|
+| "So here is where it goes." | Announces content and carries nothing. The post goes straight from the three-minute cost into the first mechanism without it, and loses nothing. |
+| "So the number you signed up for was never really the number." | Sounds profound, says nothing the two lines above it have not already said better with real numbers. |
+| "Then there are the corners, which are most of the rest." | "Then there are" is filler. Cut to "The corners are most of the rest," which is the same claim with the throat-clearing removed. |
+| "apex to apex" | Third restatement of one idea in a single sentence. Rule-of-three padding. Two ways of describing the measured line is enough. |
+| "Now the honest bit." as its own line | Restored to your script's exact "And the honest bit," folded into the paragraph the way you wrote it. |
+| "And if you want the research behind..." | Conditional throat-clearing in the CTA. Stated flat instead. |
+
+Every line in the post above now passes the thumb test in
+`craft-reference.md`: cover it, and the post loses a fact, a number, an
+image, or momentum.
 
 ---
 

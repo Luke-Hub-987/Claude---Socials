@@ -79,6 +79,24 @@ not just once.
 - **Excessive boldface, title-case abuse, emoji-as-formatting.**
 - **The "challenges" formula:** "Despite its [positive], [subject]
   faces challenges..." as a rigid, formulaic structure.
+- **Empty signpost transitions, banned outright.** A sentence whose
+  only job is to announce that more content is coming. "So here is
+  where it goes." "Here is the thing." "Let me explain." "Here is what
+  that means." "Now, onto the next part." Luke has flagged this
+  repeatedly and it keeps coming back, so it gets its own line here
+  with a test attached rather than living inside the general slop list.
+
+  **The test, run on every line before publishing: cover it with your
+  thumb. Does the post lose a fact, a number, an image, or momentum?
+  If not, the line was filler and it goes.** A transition earns its
+  place only by carrying something: "The corners are most of the rest"
+  is a transition *and* a claim about proportion. "So here is where it
+  goes" is a transition and nothing else.
+
+  Related tics from the same habit, all worth grepping a draft for:
+  paragraph-opening "So" used more than once, "Then there are..." as
+  a list-opener, and vague closers that sound profound and say nothing
+  ("the number you signed up for was never really the number").
 
 ## The LinkedIn hook is on-screen text: the same craft applies
 
