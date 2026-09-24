@@ -290,6 +290,42 @@ failure. Each line should lean into the next one, and at least a few of
 them should sound like a person talking rather than a specification
 being read out.
 
+## Post structure: the value goes in a numbered list
+
+**Real failure, 2026-09-24.** A draft that had been through two tone
+passes was still rejected: "still already have the single line
+sentences, we want a numbered list giving people the useful knowledge,
+don't make them work to read it."
+
+Single-line paragraphs stacked one after another look punchy when you
+read them one at a time. Stacked up over a whole post they are the
+opposite of readable: nothing is grouped, nothing is scannable, and
+there is no way to find the bit you wanted again. A reader saving a
+post for race day needs to reopen it and get straight to point 2.
+
+**The shape, taken from Luke's own video scripts:**
+
+1. **Hook** — the gate (who this is for), the loop, and the pain, in
+   two or three lines that run together as a paragraph rather than
+   sitting alone.
+2. **The pain twisted into a felt number** — "three minutes is four
+   hours becoming four oh three, after sixteen weeks."
+3. **One line saying what is coming and what it costs** — "Three
+   things cause it, and all three are free to fix." Count plus
+   promise. This is the script's "dream outcome" beat.
+4. **The body as a numbered list.** Each number gets a short heading
+   line that works on its own when skimmed, then a grouped paragraph
+   underneath carrying the actual content. Sentences inside the block
+   flow together. This is where the value lives and it has to be
+   referenceable.
+5. **The payoff line** — what doing all of it is worth, in the same
+   units as the hook.
+6. **The honest bit** — the part they cannot fix, conceded plainly.
+7. **CTA.**
+
+Short sentences still belong inside those blocks. What does not work is
+every sentence being its own paragraph for the length of a post.
+
 ## Power-word bank
 
 Words are not decoration — each does one structural job. **One power

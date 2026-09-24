@@ -45,41 +45,27 @@ Specifically taken from the script and missing from v1:
 
 How to run just 42K in a marathon (and where the extra kilometres come from).
 
-If you are running a marathon in the next few weeks, your watch is going to read long at the finish. Somewhere around 42.8.
+If you are running a marathon in the next few weeks, your watch is going to read long at the finish. Somewhere around 42.8. Some of that is GPS being wrong, some of it is distance you genuinely ran, and the second part costs you about three minutes.
 
-Some of that is GPS being wrong. Some of it is distance you genuinely ran. The second part costs you about three minutes.
+Three minutes is four hours becoming four oh three, after sixteen weeks of training. You give it away a few metres at a time without ever noticing you are doing it.
 
-Three minutes is four hours becoming four oh three, after sixteen weeks of training. And you give it away a few metres at a time, without ever noticing you are doing it.
+Three things cause it, and all three are free to fix.
 
-The course is already long before you start.
+1. The course is already longer than 42.2 before you start.
 
-The 42.195 is measured along the shortest line anybody could legally run, thirty centimetres off the kerb, the inside of every bend. Someone rides it on a bicycle with a counter bolted to the front wheel, at least twice, to be certain.
+The 42.195 is measured along the shortest line anybody could legally run: thirty centimetres off the kerb, the inside of every bend. Someone rides that line on a bicycle with a counter bolted to the front wheel, at least twice, to be certain of it. Then they add a tenth of a percent on purpose so the course can never come up short, which is another 42 metres. Nobody runs that line, so what you actually cover was always going to be more than 42.2.
 
-Nobody runs that line.
+2. The corners, which are most of the rest.
 
-The measurers also add a tenth of a percent on purpose, so a course can never come up short. About 42 metres, before anyone has moved.
+A city marathon has dozens of turns, and on every one you either take the inside or you go the long way round. Most people drift through a bend wherever the crowd happens to put them. The whole technique is this: look at the next turn while you are still a hundred metres away, and move across to the inside before you get there. Cutting across during the bend is how you end up boxed in and wider than you started. A few metres, dozens of times over, is where the kilometre comes from.
 
-The corners are most of the rest.
+3. The start line and the water stations, which nobody bothers with and which cost nothing.
 
-A city marathon has dozens of turns, and on every one you either take the inside or you go the long way round. Most people drift through a bend wherever the crowd happens to put them.
-
-Here is the whole technique.
-
-Look at the next turn while you are still a hundred metres away, and move across to the inside before you get there. Cutting across during the bend is how you end up boxed in and wider than you started.
-
-A few metres, dozens of times over, is where the kilometre comes from.
-
-The next one is the one nobody does, and it is free.
-
-The start line. Every metre sideways is a metre you ran without moving forward, and it buys you almost nothing, because the field spreads out by 5K anyway.
-
-At the water stations, pick your side a hundred metres out rather than at the table.
+Every metre you run sideways off the start is a metre you ran without moving forward, and it buys you almost nothing because the field spreads out by 5K anyway. Same at the water stations: pick your side a hundred metres out rather than at the table.
 
 Do those three and you finish having run four or five hundred metres less than the person beside you. At four hour pace that is about three minutes, for nothing.
 
-And the honest bit. Some of the extra really is just GPS, especially between tall buildings, so your watch will read long even if you run it perfectly.
-
-Do not chase the number. Run the line.
+And the honest bit. Some of the extra really is just GPS, especially between tall buildings, so your watch will read long even if you run it perfectly. Do not chase the number. Run the line.
 
 Save this one before race day. The research behind the rest of race week goes out every week to 160+ runners who already train seriously, and the endurance guide comes free with it: [link]
 
