@@ -61,7 +61,7 @@ Keeps the query, keeps the overturn, loses the numeric anchor.
 
 ---
 
-## Script (~390 words, v2)
+## Script (~405 words, v3, elite design fact and maple syrup)
 
 **[ON SCREEN, held ~10s]**
 "How to hit 60g an hour in a marathon without gels (your stomach was
@@ -69,44 +69,43 @@ never the problem)"
 
 **[HOOK STACK]**
 
-*Hook. Gate, the overturning fact, and the loop (HF13, P91):* "If gels
-wreck your stomach, it is the concentration doing it. A gel is about
-twenty five grams of sugar in a mouthful of liquid ⚑, and the exact
-same twenty five grams in a bottle of water goes down fine for most
-people."
+*Hook. The overturn, in the first sentence (P91):* "If gels wreck your
+stomach, it helps to know what a gel is built to do. It puts the most
+carbs into the smallest possible swallow ⚑, because at the front of a
+race every gram you carry and every second you spend drinking costs
+you. Same idea as the carbon plates. Built for the sharp end, sold to
+the rest of us."
 
-*Super hook, pain twisted:* "So people spend years believing they
-cannot take carbs, go into a marathon on three gels, and it catches up
-with them past thirty."
+*Super hook, the second fact and the pain:* "So you take twenty five
+grams of sugar in a mouthful ⚑, four and a half hours into a marathon,
+and it sits there and wrecks you. The exact same twenty five grams in
+a bottle of water goes down fine."
 
-*Super hook, dream outcome:* "Ninety seconds: four things that get you
-to sixty grams an hour without a gel in sight, and the one that still
-works when your stomach has already gone."
+*Super hook, dream outcome:* "Ninety seconds: five ways to hit sixty
+grams an hour without a gel, and the cheapest one is in your kitchen."
 
 **[ONE. WHY IT HAPPENS]**
-"Sugar pulls water towards it. Something that concentrated, going into
-a stomach that already has very little blood in it ⚑, sits there and
-drags fluid in with it. That is the cramping and that is the nausea.
+"Sugar pulls water towards it. Something that concentrated, in a
+stomach that already has very little blood in it ⚑, sits there and
+drags more fluid in. That is the cramping and the nausea. Spread the
+same sugar across a bottle and it goes in."
 
-So the fix is the same carbs arriving more dilute, rather than fewer
-carbs."
+**[TWO. THE FIVE. The save moment, in the middle]**
+"Five options, and the numbers matter, so this is the bit to save.
 
-**[TWO. THE FOUR. The save moment, in the middle]**
-"Four options, and the numbers matter, so this is the bit to save.
+**Carb drink mix.** Forty to eighty grams in a five hundred mil bottle
+⚑, sipped across the hour.
 
-**Carb drink mix** first, because it fixes the concentration instead
-of dodging it. Forty to eighty grams in a five hundred mil bottle ⚑,
-sipped across the hour.
+**Maple syrup**, the same thing for a fraction of the price. Seventy
+mils into a bottle of water with a pinch of salt is about sixty grams
+⚑. It has to go in the bottle though, because neat it is more
+concentrated than a gel ⚑.
 
-**Chews.** About twenty five grams a pack ⚑, chewed slowly, with
-water.
+**Chews.** About twenty five grams a pack ⚑, slowly, with water.
 
 **Jelly sweets.** About five grams each ⚑, so a dozen is your hour.
-Same sugar, a fraction of the price.
 
-**Flat cola** late on, about thirty five grams a can ⚑.
-
-Any of those, with water, gets you to sixty an hour."
+**Flat cola** late on, about thirty five grams a can ⚑."
 
 **[ON SCREEN ONLY, not spoken]**
 "2 accountants. ⚑[N] failed batches. Still pre-launch."
@@ -121,7 +120,7 @@ handover planned.
 
 And all of it goes on a long run first. Your gut takes a couple of
 weeks to get used to a new carb load ⚑, so race morning is the worst
-possible place to find out.
+place to find that out.
 
 And if what you want is something solid that is not another gel, that
 is the entire reason we are making a bar."
@@ -169,8 +168,28 @@ the script changes**, so it is a clean test.
 
 ## ⚑ Before filming
 
-0. **The share fact is the whole opening and it has to be said
-   cleanly.** "A gel is twenty five grams of sugar in a mouthful of
+0. **The elite design claim** ⚑, and this is the one to get right.
+   **Say what a gel is built to do, never who it was invented for.**
+   Gels were not literally created for elites. The first ones came out
+   of the late eighties and GU came from a biophysicist making
+   something for his daughter, who ran ultras. What **is** defensible
+   is the design constraint: **maximum carbohydrate in minimum
+   volume**, which is a trade-off that only makes sense when carrying
+   weight and slowing to drink actually cost you something.
+
+   "Built to put the most carbs into the smallest possible swallow"
+   is true and checkable. "Designed for elites" is a claim about
+   intent that somebody will correct in the comments. The carbon plate
+   line stays as an **analogy**, not as a claim about shoes.
+
+0b. **Maple syrup** ⚑. About 13g of carbs a tablespoon, so **70ml is
+   roughly 60g**. Neat, it is about 89g per 100ml against a gel's
+   62g ⚑, which makes it **more** concentrated than the thing the
+   video is warning about. **The dilution line is not optional.**
+   Leave it out and the video contradicts itself, and it is the
+   strongest proof of the whole argument when it is in.
+
+0c. **The share fact has to be said cleanly.** "A gel is twenty five grams of sugar in a mouthful of
    liquid, and the same twenty five grams in a bottle of water goes
    down fine" is the line somebody repeats to a running mate. If he
    rushes it or buries it, the video loses the mechanism that
