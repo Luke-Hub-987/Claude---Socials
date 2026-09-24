@@ -3669,8 +3669,69 @@ different responses.
 2. **Say the age of the data out loud** in every review, at the top,
    before any number. Every review before this one failed to.
 
+**Amendment: skip rate rises as reach widens.** The same video read
+20.6% at 2.5 hours and 24.9% at 13 hours. The early number was
+measured on the warmest slice of the audience. **Early skip rates
+flatter**, so compare at the same age or not at all.
+
 *Source: reading the 23 September post two and a half hours after it
-went up.*
+went up, then again at thirteen hours.*
+
+## P91 — Saves and shares are different devices, and we have only been building for one
+
+The tangents video came back with a split nobody had seen before:
+
+| Metric | Rate | Flag |
+|---|---|---|
+| Save rate | 1.1% | Lower |
+| **Share rate** | **0.8%** | **HIGHER** |
+
+**That is the first metric this account has ever had marked Higher.**
+Fourteen more shares on TikTok on top.
+
+### The two behaviours
+
+| | Save | Share |
+|---|---|---|
+| The thought | "I will need this later" | "You are not going to believe this" |
+| Triggered by | A table, a checklist, a decision rule | One fact that overturns something they already believed |
+| Where it lives | The held card | The hook, or the title itself |
+| What it earns | A viewer who comes back | A new viewer who never saw you |
+
+**We have been building entirely for saves since P84.** The card took
+saves from 34 to 90 on the goal pace video and that was correct. What
+it did not do was give anyone a reason to send the video to somebody
+else.
+
+The tangents video had a fact that overturns a belief, **in the title**
+("a marathon is 42.2 and your watch says 43"), and it produced the
+first Higher share rate and the highest combined reach on the account,
+8,137.
+
+### Why shares matter more than saves for reach
+
+A save is a private act. It tells the platform the video was useful
+and it brings that one person back. **A share puts the video in front
+of a person who has never seen the account**, with a recommendation
+attached. That is the only organic mechanism that compounds outside the
+algorithm.
+
+### The rule
+
+**Every script gets both, in their own places:**
+
+1. **One overturning fact, stated inside the first fifteen seconds**,
+   ideally carried by the OST itself. It has to be something the
+   viewer believed differently thirty seconds ago.
+2. **One held card in the middle**, a rule or a table, for the save.
+
+**The test for the share fact:** would somebody repeat this out loud
+to a running mate, in one sentence, without needing the video? "A
+marathon course is measured on the shortest possible line and your
+watch reads 43" passes. "Take three times as much carbs as protein"
+does not, and does not need to, because that one is a save.
+
+*Source: Luke, sharing the 13 hour read on the 23 September post.*
 
 ## Open questions for Luke
 

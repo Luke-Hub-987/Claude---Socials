@@ -4,7 +4,7 @@ brand: ERN, collab with personal
 generated_at: 2026-09-23
 reviews: ideas/engine-room-nutrition/2026-09-23-script-tangents.md
 produces: P90
-status: PROVISIONAL, the video is 2.5 hours old
+status: FINAL, updated at 13 hours
 ---
 
 # The tangents video, read at 2.5 hours
@@ -110,3 +110,80 @@ anything about the approach.
 **To do tomorrow evening:** re-read this video at roughly 24 hours and
 compare it against the others at the same age. That is the only
 honest reach comparison available.
+
+
+---
+
+# UPDATE at 13 hours, read 24 September 07:08
+
+**This is the best video the account has made outside the three
+original winners.**
+
+**Instagram** — **5,403 views**, 4,392 viewers, **38s average watch**,
+**6 follows**, **49 saves**, 75 likes. Skip rate **24.9%, Lower**.
+**Share rate 0.8%, HIGHER.** Sources: Reels 61.0%, Feed 29.4%,
+Explore 8.8%.
+
+**TikTok** — **2,734 views**, 22h58m play time, **30.8s average**,
+**4.43% watched full**, **5 new followers**, 88 likes, **14 shares**,
+22 saves.
+
+**Combined: 8,137.** The highest total recorded.
+
+## What moved in ten and a half hours
+
+| | At 2.5h | At 13h | |
+|---|---|---|---|
+| IG views | 1,418 | **5,403** | 3.8x |
+| **IG saves** | **6** | **49** | **8x** |
+| TikTok views | 677 | 2,734 | 4x |
+| TikTok followers | 2 | 5 | |
+| IG avg watch | 34s | **38s** | rose |
+| IG skip rate | 20.6% | 24.9% | rose |
+
+**P90 was written twelve hours too late and proved itself anyway.**
+The six saves I flagged as a concern were eight times off. Saves lag
+hardest, exactly as predicted, and a 2.5 hour read on a count metric
+is worthless.
+
+**One thing to add to P90: skip rate rises as reach widens.** 20.6%
+was measured on the warmest slice of the audience. 24.9% is the same
+video shown to colder people and it is still marked Lower. **Early
+skip rates flatter. Compare at the same age or not at all.**
+
+## Against the whole set
+
+| | 18,000 winner | Goal pace | **Tangents** |
+|---|---|---|---|
+| IG views | 18,000 | 5,692 | 5,403 |
+| **Combined** | — | 7,325 | **8,137** |
+| IG avg watch | 38s | 34s | **38s** |
+| Follows | — | ~0 | **11** |
+| Share rate | — | 0.2% Lower | **0.8% HIGHER** |
+| TikTok watched full | — | 4.1% | 4.43% |
+
+**38 seconds matches the 18,000 video.** Eleven follows is the best
+recorded. And the share rate is **the first metric this account has
+ever had marked Higher.**
+
+## The finding: shares and saves are different devices
+
+Saves came in at 1.1%, still marked Lower, on a video with a card at
+the end. Shares came in at 0.8%, marked **Higher**, with 14 more on
+TikTok.
+
+That split is not noise, it is the content:
+
+| Behaviour | What triggers it | What it looks like |
+|---|---|---|
+| **Save** | "I will need this later" | A table, a checklist, a decision rule |
+| **Share** | "You are not going to believe this" | A fact that overturns something the person already thought |
+
+**We have been optimising entirely for saves**, and the first share
+signal came from the most counterintuitive topic on the board. A
+marathon being 43k is a thing you tell someone. A carb-to-protein
+ratio is a thing you keep.
+
+**Both are worth having and they need different beats.** The card
+earns the save. **A single overturning fact, stated early and cleanly,
+earns the share.** This video had one in the title.
