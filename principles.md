@@ -3698,7 +3698,9 @@ different responses.
 
 ### Two habits this sets
 
-1. **Do not change the plan on a same-day read.** A rate metric can
+1. **Do not change the plan on a same-day read.** (P92 moves the honest
+reach read further out again, to three days, with the real number at a
+week.) A rate metric can
    justify keeping a technique. Only a 24 hour count can justify
    dropping a topic.
 2. **Say the age of the data out loud** in every review, at the top,
@@ -3781,6 +3783,59 @@ anywhere.**
 
 *Source: Luke, sharing the 13 hour read on the 23 September post, and
 the 25 September post at about five hours.*
+
+## P92 — Race outcome decides it, not race day. And the real number is at a week
+
+The lifetime grid on 25 September overturned two things I had written
+as rules.
+
+**The goal pace video is the second biggest on the account at 19.8K**,
+900 views behind the 3 hours video. I read it at five hours, filed it
+in a training band at 5,692, and it grew 3.5x over the next three
+days. "Your hardest run of the week does the least", also training, is
+at 5,251 and ahead of two race-day fuelling videos.
+
+**So P86's training band of 877 to 3,681 is wrong**, and so is any
+rule that says race day beats training. The band was what videos look
+like when they are read too early.
+
+### What separates the compounders from the stallers
+
+| Compounded | Growth after first read |
+|---|---|
+| Goal pace | +248% |
+| First 5k | +115% |
+| Tangents | +85% in a day and a half |
+| 3 hours before | +16% on 18K |
+
+| Stalled | Growth |
+|---|---|
+| What to eat in the hour after a long run | +20% |
+| How many gels you actually need | +35% |
+
+**Every compounder has all three. Every staller misses at least one:**
+
+1. **"Marathon" in line one.**
+2. **The viewer's race outcome is at stake.** Their time, whether they
+   blow up, three minutes lost. Not Monday, not general health.
+3. **Line one reads as a query somebody types**, and the OST does not
+   hand over the answer (P80).
+
+**A compounder is an asset that keeps being found through search and
+recommendation. A staller is a post.**
+
+### Reading reach, corrected
+
+P90 said judge reach at 24 hours. **That is still too early.** Goal
+pace tripled after 24 hours and tangents doubled after thirteen.
+
+| When | Read |
+|---|---|
+| Day one | Rates: skip, watch, completion, save and share flags |
+| Day three | Reach, first honest read |
+| Day seven | The real number, and whether it is compounding |
+
+*Source: Luke, sharing the full Instagram grid with lifetime views.*
 
 ## Open questions for Luke
 
