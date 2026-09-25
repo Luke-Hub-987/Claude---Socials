@@ -510,6 +510,14 @@ as the series-banner line.
 
 ## HF14 — Hook stacking (supersedes the last ingredient of HF13)
 
+**Amendment, 25 September, Luke's call: the value comes first.** The
+stacks we actually wrote ran 100 to 150 words, thirty to fifty seconds
+before anything usable, against a retention curve that falls to a
+third by ten seconds. **The first sentence has to be value itself**,
+the overturning fact or the answer's headline, and the whole stack
+lands inside about fifteen seconds, roughly forty words. Pain and
+dream outcome shrink to a clause each or fold into the first sentence.
+
 Three hooks before any value, all in one paragraph, roughly ten seconds
 spoken:
 
