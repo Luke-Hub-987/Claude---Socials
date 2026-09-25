@@ -3421,6 +3421,11 @@ Checked in this order, because none of them costs anything:
 **Count before delivering.** Spoken words only, excluding the on-screen
 card and the not-spoken overlays.
 
+**Amendment, 25 September: the ceiling is ~330, not 400.** At his real
+delivery, ~400 word scripts produced finished cuts of 1:40 and 1:50,
+both over the 1:30 rule, and average watch and completion fell on
+both. 400 was calibrated on scripts, not on finished videos.
+
 *Source: measuring the 20 September scripts against the two winners,
 at Luke's question about length.*
 
@@ -3761,7 +3766,21 @@ marathon course is measured on the shortest possible line and your
 watch reads 43" passes. "Take three times as much carbs as protein"
 does not, and does not need to, because that one is a save.
 
-*Source: Luke, sharing the 13 hour read on the 23 September post.*
+### Amendment, 25 September: confirmed both ways, and the share fact belongs in line one
+
+The next video was built for the save (five options with grams, an
+explicit save prompt at the rules) and came back with **save rate 1.9%,
+HIGHER**, the first ever, and share rate 0.3% Lower. The mirror image
+of the tangents video, one day apart.
+
+**Its overturn sat in the whisper, and the whisper was dropped in
+production.** The tangents overturn sat in line one. **The whisper is
+unreliable real estate**: covered by the play button twice, dropped
+once. **The share fact goes in line one or it does not reliably go
+anywhere.**
+
+*Source: Luke, sharing the 13 hour read on the 23 September post, and
+the 25 September post at about five hours.*
 
 ## Open questions for Luke
 
