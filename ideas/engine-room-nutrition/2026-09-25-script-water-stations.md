@@ -9,6 +9,13 @@ basis: P91 (share fact in line one, save prompt at the rules), P85
 
 # How to drink from a cup in a marathon
 
+> **SUPERSEDED, 25 September.** Luke's call, and right on both counts.
+> **Too niche**: a cup matters for a few seconds at a few stations,
+> where tangents applies to every step of the race. And **I assumed
+> paper cups at Dublin without checking**, which is a fact about his own
+> race stated as true. Replaced by
+> `2026-09-25-script-night-before.md`.
+
 ## Why this one
 
 - **Race positioned, and the sibling of the best video on the
