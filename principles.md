@@ -3837,6 +3837,47 @@ pace tripled after 24 hours and tangents doubled after thirteen.
 
 *Source: Luke, sharing the full Instagram grid with lifetime views.*
 
+## P93 — The cover shows the viewer's problem, never a product or someone else's win
+
+The first half pacing video had the proven spoken gate, was the sequel
+to the second biggest video on the account, and ran the tightest
+script yet. It skipped at **41.9%**, the third worst on record. The
+retention after second two was flat and strong, so everything the
+viewer heard worked. What they saw first did not.
+
+| Cover shows | Skip |
+|---|---|
+| A product (gels count, carbon shoes) | 42.9%, 42.4% |
+| **Someone else's triumph** (Dublin 2025 winners with flags) | **41.9%** |
+| Food (pizza table) | 32.1% |
+| The problem (a runner bent double, a runner down on the road) | 28.7%, 28.6% |
+| The moment (the start line crowd) | 27.5%, 29.5% |
+| The place (the course map) | 20.6% to 24.9% |
+
+**Covers showing the viewer's problem, place or moment: 20% to 30%.
+Covers showing a product or somebody else's success: above 40%.**
+
+The reason is the same loss aversion that runs the whole account. A
+runner scrolling past a winner draped in a flag sees something that
+is not about them. A runner scrolling past someone doubled over at 30K
+sees their own fear.
+
+**The rule:** the cover image is **the moment the video saves them
+from**, or the place they will be standing. Never the product, never
+the trophy.
+
+Confounded with topic, like every cover finding. The test costs
+nothing, so it gets run on every video until it is disproven.
+
+**Also noted, not ruled on:** a contested claim ("the biggest mistake
+is banking time") produced the first Higher comment rate and the most
+Instagram comments on the account. Shares come from a surprising fact,
+saves from a list of numbers, and comments, on one video, from a claim
+people want to argue with.
+
+*Source: Luke, sharing the 14 hour read on the 25 September evening
+post.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

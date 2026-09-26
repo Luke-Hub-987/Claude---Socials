@@ -2,7 +2,7 @@
 type: video-script
 brand: ERN, collab with personal
 generated_at: 2026-09-25
-slot: today, Friday 25 September
+slot: Saturday 26 September, the night before the long run. v2
 replaces: 2026-09-25-script-water-stations.md
 basis: the two biggest videos (P74, P75), P83 template, P85 (~330),
   P87 collision, P91 (share fact early, save prompt at the rules)
@@ -61,25 +61,17 @@ stays a clean query.
 
 ---
 
-## Script (~300 words)
+## Script (~270 words, v2, value first)
 
 **[ON SCREEN, held ~10s]**
 "What to eat the night before a marathon"
 
-**[HOOK STACK]**
-
-*Hook. Gate and the overturn (HF13, P87):* "If you are running a
-marathon in the next few weeks, the big bowl of pasta the night before
-does a lot less than you think. The carbs that fill your legs for race
-day go in over the two or three days before ⚑. Tonight's meal has a
-different job."
-
-*Super hook, pain twisted:* "Get it wrong and you are standing in the
-start pen with a stomach full of lentils and salad, looking at a
-portaloo queue forty people long."
-
-*Super hook, dream outcome:* "Four rules, and you can rehearse every
-one of them before your next long run."
+**[HOOK. Value first, ~15 seconds (HF14 amended)]**
+"If you are running a marathon in the next few weeks, the big bowl of
+pasta the night before does a lot less than you think, because the
+carbs that fill your legs went in over the two or three days before
+⚑. Tonight's meal has one job, which is getting you to the start
+without joining the portaloo queue, and there are four rules for it."
 
 **[ONE. FAMILIAR]**
 "Eat something you have already eaten before a long run. Nothing new,
@@ -138,9 +130,11 @@ bar and the free race week guide are in the bio."
 
 ## Filming notes
 
-- **Cover frame: hands with a real plate**, ideally plain white rice or
-  pasta being served, close up. Ties to the topic in one frame and it
-  is the hands-and-object cover the data keeps pointing at.
+- **Cover: the portaloo queue at a marathon start.** Changed in v2 on
+  the cover pattern (P93). Food covers sit at 32%, products and other
+  people's wins above 40%, and the viewer's problem, place or moment
+  at 20% to 30%. The queue is the problem, it is the pain line in the
+  hook, and every runner has stood in one.
 - **Line one only on the cover.** Top third. Nothing in the middle of
   the frame.
 - **Under 1:30** (P85 amended). About 300 words, the shortest script
@@ -153,6 +147,16 @@ bar and the free race week guide are in the bio."
 
 Carb loading on 8 to 9 October now has a built-in audience: this
 video's thread promises it. Taper still 1 to 2 October.
+
+## What changed in v2, 26 September
+
+- **Hook compressed to value first.** The old stack ran about ninety
+  words before the first rule. The first half video used the value
+  first structure and its retention held flat after the opening.
+- **Pain and dream outcome folded into one sentence** that also
+  announces the four rules.
+- **Cover moved from a plate of food to the portaloo queue** (P93).
+- **"Four rules." as its own sentence was a fragment** and is merged.
 
 ## Pre-delivery check
 
