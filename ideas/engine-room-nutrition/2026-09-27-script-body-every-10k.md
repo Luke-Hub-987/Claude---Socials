@@ -28,51 +28,56 @@ gets saved, and it is a sentence people repeat, so it gets shared.
 
 ---
 
-## Script (~310 words)
+## Script (~310 words, v2, full hook stack and Luke's science)
 
 **[ON SCREEN, held ~10s]**
 "What happens to your body at every 10K of a marathon"
 
-**[HOOK. Value first, ~15 seconds]**
-"If you are running a marathon in the next few weeks, your body runs
-four different races on the way round, and each one is decided by the
-one before it. Here is every ten K, and what to do in it, so save
-this."
+**[HOOK STACK. Compressed, ~18 seconds]**
 
-**[ONE. NOUGHT TO TEN]**
-"Nought to ten K, adrenaline is hiding the effort. Five or ten seconds
-a K too fast feels like nothing, and it quietly shifts you further
-onto sugar ⚑. So hold back, five to ten seconds a K slower than goal
-pace for the first five, and let people go."
+*Hook. Gate, open loop, value (HF13):* "If you are running a marathon
+in the next few weeks, your body runs four different races on the way
+round, and each one is decided by the one before it."
+
+*Super hook, pain twisted, then dream outcome:* "Most people find that
+out at thirty K with nothing left, and the ones who get it right spend
+the last ten passing them."
+
+**[ONE. NOUGHT TO TEN. The save prompt]**
+"Every ten K, and what to do in it, so save this.
+
+Nought to ten, adrenaline hides the effort. Five seconds a K too fast
+feels like nothing, and it shifts you further onto sugar ⚑, so you are
+spending the tank before the race has started. Hold back, and take
+your first carbs at twenty minutes, while your stomach still works."
 
 **[TWO. TEN TO TWENTY]**
-"Ten to twenty, you settle, and blood starts moving away from your
-stomach towards your legs and your skin ⚑. Your stomach will not work
-better than it does right here, so this is where the fuel goes in.
-Something every twenty minutes, before you feel you need it."
+"Ten to twenty, you warm up and your body moves blood away from your
+stomach towards your legs and skin ⚑. You feel great, which is
+exactly when people stop fuelling. Every twenty minutes, with plain
+water, before your stomach gets any worse at it."
 
 **[ON SCREEN ONLY, not spoken]**
 "2 accountants. ⚑[N] failed batches. Still pre-launch."
 
 **[THREE. TWENTY TO THIRTY]**
-"Twenty to thirty, the sugar you started with is running low ⚑, and
-what you have been taking in is doing more and more of the work. Your
-hunger is turned down while you run hard ⚑, so you will not want it.
-Take it anyway, because this stretch decides the next one."
+"Twenty to thirty. By now you have taken about twenty thousand steps
+⚑, your quads are taking real damage, and the sugar you started with
+is running low ⚑. Shorten your stride a touch and quicken your feet
+⚑, so each landing is lighter on sore legs."
 
 **[REHOOK]**
-"And the last twelve K is where all of it gets paid out."
+"And the last twelve is where all of it gets paid out."
 
 **[FOUR. THIRTY TO THE FINISH]**
-"Thirty to the finish. If the first ten went too fast or the fuel got
-skipped, this is where it lands. The legs go heavy and the pace drops
-without you choosing it ⚑. If you got the first three right, this is
-where you start passing people. Stop staring at your watch, run on
-effort, and take it one K at a time."
+"Thirty to the finish. With less sugar left, your body leans harder on
+fat, and fat needs more oxygen for the same pace ⚑, which is why goal
+pace starts to feel like a sprint. If you have tried caffeine in
+training, this is where it earns its place ⚑. Then take it one K at a
+time."
 
 **[THREAD]**
-"The first half and the fuel both have their own video on the
-profile."
+"The first half and the fuel videos are both on the profile."
 
 **[CTA]**
 "Save this before race day. First go at the bar and the free race week
@@ -80,35 +85,70 @@ guide are in the bio."
 
 ---
 
-## ⚑ The science, and where each line was checked
+## The hook audit, v1 against Briar
 
-**Nearly every claim here has already been filmed and checked in an
-earlier script**, which is why this one carries less risk than any new
-topic would.
+**v1 dropped two of the three hooks.** When the hook was compressed
+for value first, the pain twist and the dream outcome went with it, and
+"passing people" ended up buried in stage four at a minute in.
 
-| Stage | Claim | Checked in |
+| HF14 hook | v1 | v2 |
 |---|---|---|
-| 0 to 10 | Adrenaline hides the effort; too fast shifts you further onto sugar | First half, v2 |
-| 0 to 10 | Five to ten seconds a K slower for the first five | First half, v2 (**match the first 5k video**) |
-| 10 to 20 | Blood moves away from the stomach towards legs and skin | Last long run, gels alternatives |
-| 10 to 20 | Fuel every twenty minutes | First half, gels count |
-| 20 to 30 | Hunger is turned down during hard running | Not hungry (that was after the run; the direction holds during) |
-| 20 to 30 | The sugar you started with is running low | Gels count, with the arithmetic kept out |
-| 30 on | Legs heavy, pace drops without choosing it | Kept to what a runner feels. **No heart rate numbers** |
+| **Hook: gate, open loop, value** | Pass: "four different races, each decided by the one before it" | Same |
+| **Super hook, pain twisted** | **Missing** | "Most people find that out at thirty K with nothing left" |
+| **Super hook, dream outcome** | **Missing** (buried in stage four) | "the ones who get it right spend the last ten passing them" |
+| Value inside ~15 to 18 seconds (HF14 amended) | Pass | Pass. The stack is about 55 words |
 
-**Deliberately left out:**
+**Both rules now hold at once.** The stack runs about eighteen seconds,
+and the first sentence is still value on its own. The pain and the
+dream share one sentence so the compression survives.
 
-- **Heart rate drift.** True, and the exact ground where the cardiac
-  drift mistake happened. Not needed.
-- **Any grams, kilometre of the wall, or glycogen totals.** The gels
-  count video handed over a number and stalled. This one stays a
-  sequence.
-- **"Everyone hits the wall at thirty two."** Many people never do,
-  and he has not himself (standing rule).
-- **Thirty to the finish is twelve K**, not ten, so the rehook says
-  "the last twelve K" and stays accurate.
+## ⚑ Luke's science, checked
 
-**The failed-batch count** ⚑[N].
+**Taken in, one new actionable per stage:**
+
+| Stage | New from the science | Status |
+|---|---|---|
+| 0 to 10 | **First carbs at twenty minutes** | Consistent with "every twenty minutes" in the first half video |
+| 10 to 20 | **People stop fuelling here because they feel great; take it with plain water** | Behavioural, and consistent with the gels alternatives video |
+| 20 to 30 | **About twenty thousand steps by 20K, quads taking damage, shorten and quicken** | Checked: 20K at 4:00 pace is ~19,300 steps, at 4:30 pace ~21,100. Eccentric muscle damage is established. The stride change is common late-race advice, kept directional |
+| 30 on | **Fat needs more oxygen for the same pace; caffeine if tested** | Direction checked (below). Caffeine as a performance aid is well established |
+
+**Cut or changed, and why:**
+
+1. **"Burn pure glycogen" and "burn pure fat and amino acids."** Same
+   fix as the first half video: running faster or emptier shifts the
+   mix, it never switches to one fuel. "Further onto sugar" and "leans
+   harder on fat".
+2. **"Digestive blood flow drops by up to 60%."** Your earlier science
+   said 80%. Two sources, two numbers, so no number. "Moves blood away
+   from your stomach" says it.
+3. **The Central Governor.** "The brain reduces signals to your legs
+   to prevent irreversible damage" is **a contested theory**, not
+   settled science, and the line built on it ("the wall is not a lack
+   of mental toughness, it is a safety mechanism") is also the banned
+   construction. Out.
+4. **"Fat needs roughly 12% more oxygen."** The standard energy
+   figures put it nearer **8%** (about 5.05 kcal per litre of oxygen
+   from carbohydrate against 4.69 from fat). The direction is right,
+   the number is too high, so **no number**.
+5. **"Under-fuelled runners lose 60 to 90 seconds per kilometre."**
+   No source. Out.
+6. **"Increase cadence by 3 to 5%, delaying structural breakdown."**
+   The percentage and "structural breakdown" are false precision.
+   "Shorten your stride a touch and quicken your feet" is the usable
+   version.
+7. **Caffeine and adenosine receptors.** The mechanism is real, and
+   the word "adenosine" is jargon (P81). **Caffeine only if tested in
+   training**, or it breaks the one rule every video on the account
+   repeats. It also takes a while to kick in, so "around thirty" is
+   the moment, not the last kilometre.
+8. **"Splanchnic vasoconstriction", "central governor", "eccentric",
+   "fat oxidation".** None spoken.
+
+**Still to match:** the carbs figure. This script says "every twenty
+minutes" with no grams on purpose. The gels video said sixty an hour,
+the goal pace video sixty to eighty. **Pick one range and use it on
+every video from here.**
 
 ## The cover
 
