@@ -2,7 +2,7 @@
 type: video-script
 brand: ERN, collab with personal
 generated_at: 2026-09-25
-slot: Saturday 26 September, the night before the long run. v2
+slot: v3, 27 September. Nothing in the audio is dated, so it posts any day
 replaces: 2026-09-25-script-water-stations.md
 basis: the two biggest videos (P74, P75), P83 template, P85 (~330),
   P87 collision, P91 (share fact early, save prompt at the rules)
@@ -61,87 +61,148 @@ stays a clean query.
 
 ---
 
-## Script (~270 words, v2, value first)
+## Script (~260 words, v3, built on Luke's science)
 
 **[ON SCREEN, held ~10s]**
 "What to eat the night before a marathon"
 
-**[HOOK. Value first, ~15 seconds (HF14 amended)]**
-"If you are running a marathon in the next few weeks, the big bowl of
-pasta the night before does a lot less than you think, because the
-carbs that fill your legs went in over the two or three days before
-⚑. Tonight's meal has one job, which is getting you to the start
-without joining the portaloo queue, and there are four rules for it."
+**[HOOK. Value first, ~15 seconds]**
+"If you are running a marathon in the next few weeks, the big pasta
+party the night before is one of the main reasons people end up in the
+portaloo queue on race morning ⚑. If you have carb loaded, your legs
+are already full ⚑. Tonight's meal is a light top-up, and there are
+three rules for it."
 
-**[ONE. FAMILIAR]**
-"Eat something you have already eaten before a long run. Nothing new,
-nothing spicy, nothing from a restaurant you have never been to."
+**[ONE. WHY THE BIG DINNER BACKFIRES]**
+"Fat, fibre and a big pile of protein all slow down how fast your
+stomach empties ⚑. Eat a huge rich meal at eight o'clock and a lot of
+it is still working its way through you in the morning. And a big late
+dinner can make your sleep worse as well ⚑."
 
-**[TWO. LOW FIBRE. The save moment]**
+**[TWO. THE THREE RULES. The save moment]**
 "This is the bit to save.
 
-Go low fibre. White rice, white pasta, white bread, potatoes without
-the skin ⚑. Leave the big salad, the beans, the lentils and the
-wholegrain for after the race. Fibre is brilliant most days, and it is
-the last thing you want moving through you at thirty K."
+One, low fibre. White rice, white pasta, peeled potatoes ⚑. Leave the
+salad, the veg, the beans and the wholegrain until after the race.
+
+Two, low fat, and go easy on the protein. Plain tomato sauce or a
+light broth, and a small bit of chicken if you want it. Skip the
+cream, the cheese, the butter and anything fried."
 
 **[ON SCREEN ONLY, not spoken]**
 "2 accountants. ⚑[N] failed batches. Still pre-launch."
 
-**[THREE. NORMAL SIZE, AND EARLY]**
-"Normal portion, and early. Stuffing yourself adds nothing to the tank
-and a lot to the stomach. Aim to be finished twelve hours or so before
-your start ⚑, so it has gone through by the morning."
-
 **[REHOOK]**
-"And the last one is where the pasta party goes wrong."
+"And the third one is the one almost nobody does."
 
-**[FOUR. THE DRINK]**
-"Drink normally. You do not need to flood yourself with water tonight
-⚑, pale is the target. And the pint can wait until you have a medal."
+**[THREE. EAT EARLY]**
+"Eat early. Around five or six o'clock ⚑, so it has gone down before
+you sleep. You wake up light, a bit hungry, and ready for breakfast,
+which is exactly where you want to be."
 
 **[THREAD]**
-"How much carb goes in over the days before, and when that actually
-starts, is its own video coming up."
+"How much carb goes in over the days before, and when that starts, is
+its own video coming up."
 
 **[CTA]**
-"Save this and rehearse it before your next long run. First go at the
-bar and the free race week guide are in the bio."
+"Save this and try it before your next long run. First go at the bar
+and the free race week guide are in the bio."
 
 ---
 
-## ⚑ Before filming
+## ⚑ The science, checked
 
-1. **"The carbs that fill your legs go in over the two or three days
-   before"** ⚑. Carb loading is standardly one to three days, so the
-   direction is solid. **No grams per kilo in this video.** That is
-   the carb loading video and the open loop in the thread points to
-   it.
-2. **Low fibre examples** ⚑ are the standard advice for the day or two
-   before a race. Say them as examples, not a menu.
-3. **"Twelve hours or so"** ⚑ is a rule of thumb. **Do not state the
-   Dublin start time** unless he checks it.
-4. **"Do not flood yourself with water"** ⚑ is the drink-to-thirst
-   direction. It is also the setup for the electrolyte video in race
-   week, so keep it short here.
-5. **Never present this as medical advice.** Anyone with a diagnosed
-   gut condition follows their own plan.
-6. **The failed-batch count** ⚑[N].
+Luke supplied it. The three rules are standard pre-race advice and
+sound. **Seven things were changed or cut on the way in.**
 
-## Filming notes
+**1. "Responsible for more race-day bathroom emergencies than almost
+anything else" became "one of the main reasons people end up in the
+portaloo queue."** A superlative nobody can check. The softer version
+is still arguable, which is what drove the comments on the first half
+video (P93).
 
-- **Cover: the portaloo queue at a marathon start.** Changed in v2 on
-  the cover pattern (P93). Food covers sit at 32%, products and other
-  people's wins above 40%, and the viewer's problem, place or moment
-  at 20% to 30%. The queue is the problem, it is the pain line in the
-  hook, and every runner has stood in one.
-- **Line one only on the cover.** Top third. Nothing in the middle of
-  the frame.
-- **Under 1:30** (P85 amended). About 300 words, the shortest script
-  yet.
-- **The first spoken sentence is the share fact.** Say it cleanly and
-  do not rush it.
-- Post as a collab across both accounts, cross-post to TikTok (P76).
+**2. "Your muscle glycogen was already filled 24 to 36 hours ago" now
+starts with "if you have carb loaded".** Plenty of the audience will
+not have, and the claim is only true for the ones who did.
+
+**3. "The night-before meal is purely a liver top-off" became "a light
+top-up".** "Purely" is wrong: the meal still feeds the muscles a
+little if it falls inside the loading window.
+
+**4. "Food spends 6 to 8 hours churning in your stomach" is out.** Fat,
+fibre and protein slowing gastric emptying is solid. The hour figure
+for the stomach is too high to defend. "Still working its way through
+you in the morning" is true of the gut as a whole and needs no number.
+
+**5. "Destroying deep sleep" became "can make your sleep worse."**
+There is evidence that big late meals hurt sleep. "Destroying" is an
+overclaim.
+
+**6. "Under 10g fat and under 20g protein" is out of the audio.** Gram
+caps that precise have no single source behind them and invite a
+correction. "Low fat, go easy on the protein" is the same instruction
+without the exposure.
+
+**7. The Kipchoge dinner is cut.** "He eats ugali or plain rice with
+broth at around 5:30pm the night before a race" is a specific claim
+about a named person's routine that I cannot verify, which is the
+cardiac drift failure. It would also be Kipchoge two videos running
+(P72), and the video is tighter without it. **If he wants the elite
+angle back**, the safe version is general: ugali, plain maize meal, is
+the staple in the Kenyan training camps. No name, no time.
+
+**Flags still open:**
+
+- **"Around five or six o'clock"** ⚑ is a target, not a rule. For a
+  9am start it is about fifteen hours before the gun, which sits with
+  the earlier "twelve hours or so".
+- **Low fibre examples** ⚑ are examples, not a menu.
+- **Never medical advice.** Anyone with a diagnosed gut condition
+  follows their own plan.
+- **The failed-batch count** ⚑[N].
+
+## The cover, and where to get it
+
+**What to show (P93):** the problem, the portaloos at a race start.
+Not food, not a product, not somebody else's win.
+
+**Best option: a photo of your own.** A real queue at a real race
+start, from your camera roll or a running mate's. It is the most
+authentic image available, and it is yours to use.
+
+**Free stock, both checked and both free to use commercially without
+attribution:**
+
+1. **Unsplash, Ronan Furuta: a long row of portable toilets, black and
+   white.** No people. https://unsplash.com/photos/18RYZItV7vI
+2. **Pexels, Caleb Oquendo: a row of portable toilets outdoors under
+   trees.** No people.
+   https://www.pexels.com/photo/row-of-portable-toilets-in-outdoor-setting-34585129/
+
+Neither shows a queue of runners. **No free stock photo of that exists
+on either site**, and the paid ones on Getty and iStock are not worth
+it for a cover.
+
+**Pick documentary, not aesthetic.** The covers that held viewers were
+a course map and runners in trouble, which look like real moments.
+Polished lifestyle stock reads as an advert, and adverts get skipped.
+
+**Avoid identifiable strangers in an embarrassing context.** Both
+licences restrict showing identifiable people in a bad light. Rows of
+toilets with nobody in them, or backs of heads, are safe.
+
+**And stop using press photos of real races.** The last cover used the
+2025 Dublin winners. Beyond the skip rate, that photo belongs to a
+photographer or the race, and the account is commercial.
+
+## How to lay it out
+
+1. **Top third:** the portaloo photo, cropped wide.
+2. **Directly under it:** line one only, "What to eat the night before
+   a marathon", same blue box as every other cover.
+3. **Nothing in the vertical centre** of the frame, where the play
+   button sits (P89).
+4. **Bottom half:** you, talking, as normal.
 
 ## After this
 
