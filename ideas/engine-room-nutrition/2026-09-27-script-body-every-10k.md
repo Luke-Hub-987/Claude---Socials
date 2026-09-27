@@ -112,6 +112,30 @@ guide are in the bio."
 
 ---
 
+## On-screen stage labels
+
+One label per stage, shown as he says the distance, held about five
+seconds. Top third, same blue box as the OST, **nothing in the centre
+of the frame** (P89). Line one is the secret, line two is the action.
+
+| Stage | Line one (the secret) | Line two (the action) |
+|---|---|---|
+| **0-10K** | The danger: it feels easy | Hold back. Carbs at 20 min |
+| **10-20K** | You feel best. Eat now | Every 20 min, with water |
+| **20-30K** | The fix is in your feet | Shorter, quicker steps |
+| **30K-FINISH** | Where the wall shows up | 1K at a time |
+
+- **One-second read** (P62): no line over six words, no numbers
+  beyond the ones already spoken.
+- **"30K-FINISH", not "30-40K".** The last stage is twelve K and the
+  script says so.
+- **Caffeine stays spoken only.** On screen it would read as advice to
+  everyone, and it only applies to people who have tested it.
+- **Hyphens, not dashes**, in the distance labels.
+- **This makes the labels part of the test.** He has never used
+  on-screen cards (P84 correction), so if saves rise, the labels are a
+  candidate cause alongside the timeline and the OST.
+
 ## Final check, 27 September
 
 | Rule | Where it is met |
