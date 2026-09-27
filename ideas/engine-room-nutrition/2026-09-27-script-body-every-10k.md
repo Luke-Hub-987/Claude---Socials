@@ -9,14 +9,40 @@ basis: P92, P93, P91, P87, HF14 amended (value first), P85 (~300
 source: ideas/2026-09-27-creative-test-options.md, option 1
 ---
 
-# What happens to your body at every 10K of a marathon
+# Where the marathon wall actually starts
+
+> **v4, 27 September.** OST changed on Luke's call. The old title,
+> "What happens to your body at every 10K of a marathon", was a query
+> any creator could make. The new one carries the secret.
 
 ## OST
 
-> **What happens to your body at every 10K of a marathon**
+> **Where the marathon wall actually starts**
 
-Ten words, 52 characters, two lines, the same length as the 3 hours
-video. Line one only.
+**Six words, 38 characters.** The shortest OST on the account, so it
+renders biggest (P89).
+
+**It carries the secret as a question** (P94). Every runner thinks
+they know the answer, thirty K, so the gap is tiny, which is the
+condition for maximum curiosity. It is the same move as "How to run
+just 42K in a marathon": a line that looks obvious and turns out not
+to be.
+
+| Test | |
+|---|---|
+| Marathon in line one (P92) | Yes |
+| Race outcome at stake (P92) | Yes, the wall |
+| Reads as a query, answer withheld (P92, P80) | Yes: it asks where, and does not say |
+| A secret (P94) | Yes: it starts somewhere they are not looking |
+| New viewers ("my mother", Galloway) | **Yes. "The wall" is the most famous phrase in the sport** |
+| "Actually" | His marker, doing real work: it signals the answer is not the obvious one |
+
+**The broadening test survives.** It moved from "your body" to "the
+wall", which non-runners know just as well.
+
+**What the test now measures:** a secret carried in the OST as a
+question, plus the four-stage timeline. Read at day three against goal
+pace, tangents and first half.
 
 ## The through-line
 
@@ -28,10 +54,10 @@ gets saved, and it is a sentence people repeat, so it gets shared.
 
 ---
 
-## Script (~295 words, v3, every stage opens on a secret)
+## Script (~300 words, v4, OST carries the secret)
 
 **[ON SCREEN, held ~10s]**
-"What happens to your body at every 10K of a marathon"
+"Where the marathon wall actually starts"
 
 **[HOOK STACK. Compressed, ~16 seconds]**
 
@@ -70,8 +96,9 @@ each landing is lighter on sore legs."
 "And the last twelve is where all of it gets paid out."
 
 **[FOUR. THIRTY TO THE FINISH]**
-"Thirty to the finish, goal pace starts to feel like a sprint, because
-of what you are burning. With less sugar left you lean harder on fat,
+"Thirty to the finish. If it was set up early, this is where the wall
+shows up, and goal pace starts to feel like a sprint because of what
+you are burning. With less sugar left you lean harder on fat,
 and fat needs more oxygen for the same pace ⚑. If you have tried
 caffeine in training, this is where it earns its place ⚑. Then take it
 one K at a time."
@@ -104,19 +131,18 @@ happens. v3 opens every stage on the thing a runner would not expect:
 | **20 to 30** | "The fix is in your feet" | Everyone reaches for fuel or willpower |
 | **30 on** | "Goal pace starts to feel like a sprint, because of what you are burning" | People blame fitness or nerve |
 
-**The OST stays as the query.** "What happens to your body at every
-10K of a marathon" is the upstream-broadening test and the part that
-passes the "my mother" test. The secret goes in the **first spoken
-sentence**, where production cannot drop it (P91 amended).
+**v3 kept the OST as a plain query and v4 changed it, on Luke's call.**
+My reason for holding it back was test purity: changing the OST and the
+format at once makes it harder to say which one moved the numbers.
+Luke's reason for changing it is positioning: a generic title makes a
+generic creator, and the secret is the thing that separates the
+account. **His is the bigger lever.** And "Where the marathon wall
+actually starts" keeps the query form and the broadening, so little is
+lost.
 
-**Alternative, if he wants the secret in line one:**
-
-> **Your marathon wall is set up in the first 10K**
-
-Nine words, marathon in line one, the secret itself as the title.
-**It changes two variables at once**: the OST type and the timeline
-format. If it is used, the test can no longer say which one moved the
-numbers. Keep it for a later video.
+Rejected as the new OST: *Your marathon wall is set up in the first
+10K*. It states the secret as an answer, so there is nothing left to
+find out (P80).
 
 ⚑ **"Set up in the first ten"** is the honest form. Pacing and
 fuelling in the first half shape the late race, and so do training,

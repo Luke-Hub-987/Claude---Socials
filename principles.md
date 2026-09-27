@@ -3903,8 +3903,19 @@ video know that most runners would not agree with?** If there is no
 answer, it is a list, and lists stall.
 
 **Where the secret goes:** the first spoken sentence, always, where
-production cannot drop it. In the OST as well if the OST can carry it
-and still read as a query (tangents did both).
+production cannot drop it. **And in the OST, as a question**, whenever
+one can be found that still reads as a query. "Where the marathon wall
+actually starts" is the pattern: it asks about something the viewer
+thinks they already know, which signals the answer is somewhere they
+are not looking, and withholds it.
+
+**Briar and Thiel do different jobs and both stay.** Briar's hook
+stack is the **structure**: hook, pain twisted, dream outcome, value,
+rehook, CTA. Thiel's secrets are **what fills each slot**. Briar's own
+counter-positioning is the same instinct at the level of the topic;
+the secret is that instinct at the level of every sentence. **It is
+the difference between the account and a generic person giving
+generic advice.**
 
 **And inside the video:** open each beat on the thing the viewer would
 not expect, before explaining it. That is value from an unexpected
