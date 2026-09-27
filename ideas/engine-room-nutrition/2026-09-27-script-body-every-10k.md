@@ -54,7 +54,7 @@ gets saved, and it is a sentence people repeat, so it gets shared.
 
 ---
 
-## Script (~300 words, v4, OST carries the secret)
+## Script (~315 words, FINAL)
 
 **[ON SCREEN, held ~10s]**
 "Where the marathon wall actually starts"
@@ -80,8 +80,8 @@ twenty minutes."
 **[TWO. TEN TO TWENTY]**
 "Ten to twenty, you feel your best, which is exactly when you should be
 eating. Your body is moving blood away from your stomach towards your
-legs and skin ⚑, so it only gets harder from here. Every twenty
-minutes, with plain water."
+legs and skin ⚑, so it only gets harder from here. Take something
+every twenty minutes, with plain water."
 
 **[ON SCREEN ONLY, not spoken]**
 "2 accountants. ⚑[N] failed batches. Still pre-launch."
@@ -96,8 +96,8 @@ each landing is lighter on sore legs."
 "And the last twelve is where all of it gets paid out."
 
 **[FOUR. THIRTY TO THE FINISH]**
-"Thirty to the finish. If it was set up early, this is where the wall
-shows up, and goal pace starts to feel like a sprint because of what
+"Thirty to the finish, and if it was set up early, this is where the
+wall shows up, and goal pace starts to feel like a sprint because of what
 you are burning. With less sugar left you lean harder on fat,
 and fat needs more oxygen for the same pace ⚑. If you have tried
 caffeine in training, this is where it earns its place ⚑. Then take it
@@ -111,6 +111,27 @@ one K at a time."
 guide are in the bio."
 
 ---
+
+## Final check, 27 September
+
+| Rule | Where it is met |
+|---|---|
+| Marathon in line one, race outcome at stake, a query with the answer withheld (P92) | "Where the marathon wall actually starts" |
+| A secret in the OST as a question (P94) | The wall starts somewhere they are not looking |
+| Galloway CCN, the "my mother" test | "The wall" is known by non-runners |
+| Two lines, nothing in the centre of the frame (P89) | Six words |
+| Cover shows the problem (P93) | The finish line carry, or his own late-race photo |
+| Value in the first sentence, stack inside ~16s (HF14 amended) | The first sentence answers where the wall starts |
+| Gate, open loop, pain twisted, dream outcome (Briar, HF13, HF14) | "If you are running a marathon..." / "nothing left" / "passing them" |
+| A collision in sentence one (P87) | The wall is at thirty, the cause is at ten |
+| Every beat opens on something unexpected (Thiel, P94) | Easy is dangerous, eat when you feel best, the fix is in your feet, the wall shows up where it was set up |
+| Save prompt where the sequence starts (P91) | "so save this" before stage one |
+| Rehook where retention sags (HF14) | "the last twelve is where all of it gets paid out" |
+| The loop from the OST is closed | Stage four names where the wall shows up |
+| Under ~330 words, under 1:30 (P85) | About 315 |
+| No dated audio (P82) | None |
+| No "not X, it is Y", no em dashes, no fragments in spoken copy | Scanned. Two fragments fixed in the final pass |
+| Every claim flagged or already checked in a filmed script | Table below, and the science section |
 
 ## v3: Thiel's secrets, applied
 
