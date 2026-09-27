@@ -96,9 +96,9 @@ each landing is lighter on sore legs."
 "And the last twelve is where all of it gets paid out."
 
 **[FOUR. THIRTY TO THE FINISH]**
-"Thirty to the finish, and if it was set up early, this is where the
-wall shows up, and goal pace starts to feel like a sprint because of what
-you are burning. With less sugar left you lean harder on fat,
+"Thirty to the finish is where the wall shows up, if it was set up
+early, and goal pace starts to feel like a sprint because of what you
+are burning. With less sugar left you lean harder on fat,
 and fat needs more oxygen for the same pace ⚑. If you have tried
 caffeine in training, this is where it earns its place ⚑. Then take it
 one K at a time."
