@@ -28,53 +28,53 @@ gets saved, and it is a sentence people repeat, so it gets shared.
 
 ---
 
-## Script (~310 words, v2, full hook stack and Luke's science)
+## Script (~295 words, v3, every stage opens on a secret)
 
 **[ON SCREEN, held ~10s]**
 "What happens to your body at every 10K of a marathon"
 
-**[HOOK STACK. Compressed, ~18 seconds]**
+**[HOOK STACK. Compressed, ~16 seconds]**
 
-*Hook. Gate, open loop, value (HF13):* "If you are running a marathon
-in the next few weeks, your body runs four different races on the way
-round, and each one is decided by the one before it."
+*Hook. Gate, the secret, the open loop (HF13, P94):* "If you are
+running a marathon in the next few weeks, the wall at thirty K is set
+up in the first ten, while you feel brilliant ⚑."
 
-*Super hook, pain twisted, then dream outcome:* "Most people find that
-out at thirty K with nothing left, and the ones who get it right spend
-the last ten passing them."
+*Super hook, pain twisted, then dream outcome:* "Most people only find
+that out at thirty K with nothing left, and the ones who know spend the
+last ten passing them."
 
 **[ONE. NOUGHT TO TEN. The save prompt]**
 "Every ten K, and what to do in it, so save this.
 
-Nought to ten, adrenaline hides the effort. Five seconds a K too fast
-feels like nothing, and it shifts you further onto sugar ⚑, so you are
-spending the tank before the race has started. Hold back, and take
-your first carbs at twenty minutes, while your stomach still works."
+Nought to ten, the danger is how easy it feels. Adrenaline hides the
+effort, so five seconds a K too fast feels like nothing, and it shifts
+you further onto sugar ⚑. Hold back, and take your first carbs at
+twenty minutes."
 
 **[TWO. TEN TO TWENTY]**
-"Ten to twenty, you warm up and your body moves blood away from your
-stomach towards your legs and skin ⚑. You feel great, which is
-exactly when people stop fuelling. Every twenty minutes, with plain
-water, before your stomach gets any worse at it."
+"Ten to twenty, you feel your best, which is exactly when you should be
+eating. Your body is moving blood away from your stomach towards your
+legs and skin ⚑, so it only gets harder from here. Every twenty
+minutes, with plain water."
 
 **[ON SCREEN ONLY, not spoken]**
 "2 accountants. ⚑[N] failed batches. Still pre-launch."
 
 **[THREE. TWENTY TO THIRTY]**
-"Twenty to thirty. By now you have taken about twenty thousand steps
-⚑, your quads are taking real damage, and the sugar you started with
-is running low ⚑. Shorten your stride a touch and quicken your feet
-⚑, so each landing is lighter on sore legs."
+"Twenty to thirty, the fix is in your feet. You have taken about twenty
+thousand steps ⚑, your quads are taking real damage, and your sugar is
+running low ⚑. Shorten your stride a touch and quicken your feet ⚑, so
+each landing is lighter on sore legs."
 
 **[REHOOK]**
 "And the last twelve is where all of it gets paid out."
 
 **[FOUR. THIRTY TO THE FINISH]**
-"Thirty to the finish. With less sugar left, your body leans harder on
-fat, and fat needs more oxygen for the same pace ⚑, which is why goal
-pace starts to feel like a sprint. If you have tried caffeine in
-training, this is where it earns its place ⚑. Then take it one K at a
-time."
+"Thirty to the finish, goal pace starts to feel like a sprint, because
+of what you are burning. With less sugar left you lean harder on fat,
+and fat needs more oxygen for the same pace ⚑. If you have tried
+caffeine in training, this is where it earns its place ⚑. Then take it
+one K at a time."
 
 **[THREAD]**
 "The first half and the fuel videos are both on the profile."
@@ -84,6 +84,43 @@ time."
 guide are in the bio."
 
 ---
+
+## v3: Thiel's secrets, applied
+
+**Luke's idea: value from unexpected places.** The Zero to One version
+is Thiel's **secrets**: important things that are true and that most
+people do not know or do not believe, sitting in plain sight because
+nobody looks there. His interview question is the test: *what
+important truth do very few people agree with you on?*
+
+**v2 had the structure and not the secrets.** Each stage said what
+happens. v3 opens every stage on the thing a runner would not expect:
+
+| Stage | The secret, first words of the beat | Why it is unexpected |
+|---|---|---|
+| **Hook** | "The wall at thirty K is set up in the first ten, while you feel brilliant" | Everyone looks for the cause of the wall at the wall |
+| **0 to 10** | "The danger is how easy it feels" | Easy is supposed to be safe |
+| **10 to 20** | "You feel your best, which is exactly when you should be eating" | People eat when they feel they need it |
+| **20 to 30** | "The fix is in your feet" | Everyone reaches for fuel or willpower |
+| **30 on** | "Goal pace starts to feel like a sprint, because of what you are burning" | People blame fitness or nerve |
+
+**The OST stays as the query.** "What happens to your body at every
+10K of a marathon" is the upstream-broadening test and the part that
+passes the "my mother" test. The secret goes in the **first spoken
+sentence**, where production cannot drop it (P91 amended).
+
+**Alternative, if he wants the secret in line one:**
+
+> **Your marathon wall is set up in the first 10K**
+
+Nine words, marathon in line one, the secret itself as the title.
+**It changes two variables at once**: the OST type and the timeline
+format. If it is used, the test can no longer say which one moved the
+numbers. Keep it for a later video.
+
+⚑ **"Set up in the first ten"** is the honest form. Pacing and
+fuelling in the first half shape the late race, and so do training,
+heat and the course. "Decided" would overclaim.
 
 ## The hook audit, v1 against Briar
 
@@ -180,7 +217,7 @@ blue box, nothing in the vertical centre, you in the bottom half.
 
 - **Count the four stages on your fingers** as they land. It is the
   save moment and it reads without a card.
-- **Under 1:30.** About 310 spoken words.
+- **Under 1:30.** About 295 spoken words.
 - **The first sentence is the share fact.** "Four races, each one
   decided by the one before it" is the line people repeat.
 - **No dated language in the audio** (P82).

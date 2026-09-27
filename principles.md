@@ -3878,6 +3878,41 @@ people want to argue with.
 *Source: Luke, sharing the 14 hour read on the 25 September evening
 post.*
 
+## P94 — Every video needs a secret (Thiel), and our best ones already had one
+
+From Zero to One: **secrets** are important things that are true and
+that most people do not know or do not believe. Thiel's test is the
+contrarian question, *what important truth do very few people agree
+with you on?* Luke's framing: **find value in unexpected places.**
+
+Looking back, it is the clearest single line through the data:
+
+| Video | Its secret | Result |
+|---|---|---|
+| Goal pace | Doubling your half and adding ten assumes durability most people do not have | 19.8K, second biggest |
+| Tangents | The course is measured on the shortest possible line, so your watch reads long | First Higher share rate |
+| Gels alternatives | The problem is concentration, and your stomach was fine | First Higher save rate |
+| First half | The time you bank is a loan, called in at 30K | First Higher comment rate |
+| **Gels count** | **None. A number, handed over in the OST** | **Stalled at 3,784** |
+
+**Consistent with, not proof of.** Topic, packaging and cover all move
+with it. But the video with no secret is the one that stalled.
+
+**The rule:** before writing, answer one question. **What does this
+video know that most runners would not agree with?** If there is no
+answer, it is a list, and lists stall.
+
+**Where the secret goes:** the first spoken sentence, always, where
+production cannot drop it. In the OST as well if the OST can carry it
+and still read as a query (tangents did both).
+
+**And inside the video:** open each beat on the thing the viewer would
+not expect, before explaining it. That is value from an unexpected
+place, delivered every twenty seconds instead of once.
+
+*Source: Luke, bringing Peter Thiel's Zero to One into the script
+rules, 27 September.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
