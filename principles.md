@@ -3965,6 +3965,27 @@ again would teach nothing and risk the format.
 
 *Source: Luke, sharing the 13 hour read on the 27 September post.*
 
+## P96 — ERN is the what, Luke is the who
+
+The advice videos stay collabs on Instagram: one post, two grids, views
+counted once, no duplication, and it is the setup the outlier ran on
+(P76, P95). **What was missing is a reason to follow Luke himself.**
+The personal grid had become an ERN grid.
+
+**The split:** ERN carries the useful thing. Luke's account carries
+what nobody else can post: his own Dublin build, his race, building
+the bar, and his opinions. Two personal-only videos a week, filmed on a
+phone. Each account keeps one fixed promise (P72).
+
+**On TikTok, never post the same file to both accounts**, since there
+is no collab post there and duplicate uploads risk being treated as
+unoriginal.
+
+Full plan: `PLAN-account-split.md`.
+
+*Source: Luke, asking whether the two accounts should split, 28
+September.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
