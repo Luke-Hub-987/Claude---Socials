@@ -41,12 +41,12 @@ fact about this video:
 |---|---|
 | **OST as a secret in the form of a question** (P94): "Where the marathon wall actually starts" | Yes |
 | **Four-stage timeline** | Yes |
-| **On-screen stage labels**, the first cards he has ever used (P84 correction) | **Yes** |
+| **On-screen distance markers** ("0-10K" etc.), the only on-screen text besides the title. The two-line secret and action labels were **not** used | Yes, markers only |
 | **Every beat opening on something unexpected** (Thiel) | Yes |
 | Cover showing the problem, a runner down on the road (P93) | Tested once before |
 | Filmed in the car, in running kit, straight after a run (P70) | Partly |
 | 1:17, under 1:30 (P85) | Yes |
-| **Posted from the personal account, ERN as collaborator** | **To confirm** |
+| Collab across both accounts | **No. Every video has been a collab** (Luke, 28 Sep) |
 
 **The rule this sets (P95): replicate before isolating.** The next
 video keeps every one of these. Once a second video confirms the
@@ -55,10 +55,13 @@ package, change one thing at a time.
 ## Three things to check today
 
 1. **Zero follows on 68K views is not believable as a real result.**
-   The insight says "collaboration with engineroomnutrition", which
-   means it was read from the personal account. Collab posts split
-   follow attribution between accounts. **Check the follower count on
-   both accounts against yesterday.**
+   Every video is a collab, so the posting setup did not change. What
+   changed is **which account the insights were read from**: earlier
+   reads said "collaboration with luke_morrison_er" (read from ERN),
+   this one says "collaboration with engineroomnutrition" (read from
+   the personal account). The follows figure is most likely per
+   account. **Open the same post's insights from the ERN account**, and
+   check both follower counts against yesterday.
 2. **The link in bio.** 68K people and 1.3K saves is the first moment
    the free guide can do its job. **Check it works, check the guide
    is live, and count signups today** (PLAN-commercial, Phase 0).

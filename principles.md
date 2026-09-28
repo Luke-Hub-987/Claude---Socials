@@ -3932,10 +3932,12 @@ with record save (2.4%) and like (2.3%) rates, 43% of a 1:17 cut
 watched on average, and the best TikTok completion ever (9.41%).
 
 **Everything changed at once:** a secret posed as a question in the
-OST, the four-stage timeline, the first on-screen labels he has ever
-used, every beat opening on the unexpected, a problem cover, real
-context in running kit, a sub-1:30 cut, and possibly the posting
-account.
+OST, the four-stage timeline with simple distance markers on screen,
+every beat opening on the unexpected, a problem cover, real context in
+running kit, and a sub-1:30 cut. (Corrected 28 Sep: every video has
+been a collab across both accounts, so the posting setup was not a
+variable, and the only on-screen text besides the title was the
+distance markers.)
 
 **The rule: when an outlier lands on a package, the next video copies
 the package entire.** Galloway's advice on outliers is to double down
@@ -3949,12 +3951,17 @@ again would teach nothing and risk the format.
 1. OST: **"Where / when / what ... actually ..."**, a secret posed as a
    question the viewer thinks they can answer.
 2. A **staged timeline** the viewer cannot hold in their head.
-3. **On-screen labels** per stage: the secret on line one, the action
-   on line two.
+3. **Simple stage markers on screen** ("0-10K"), nothing more. The
+   two-line secret and action labels were written and not used.
 4. **Every beat opens on the unexpected** (P94).
 5. **Problem cover** (P93).
 6. **Real context**: car, kit, just back from a run.
 7. **Under 1:20.**
+
+8. **Ride the outlier's asset.** The most valuable thing the video
+   found is a term: **"the wall"**, the most famous phrase in the
+   sport, with the widest TAM available inside the niche (Briar). The
+   sequel keeps it.
 
 *Source: Luke, sharing the 13 hour read on the 27 September post.*
 
