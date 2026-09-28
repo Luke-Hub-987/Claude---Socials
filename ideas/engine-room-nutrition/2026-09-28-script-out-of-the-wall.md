@@ -56,9 +56,6 @@ get it. Solid food belongs in the first half. Now it is liquid only,
 and never three gels at once, because your stomach has almost no blood
 left to deal with them."
 
-**[ON SCREEN ONLY, not spoken]**
-"2 accountants. ⚑[N] failed batches. Still pre-launch."
-
 **[THREE. THE NEXT TEN]**
 "The next ten minutes, slow down, around fifteen or twenty seconds a K
 ⚑. It feels backwards, and it is the fastest way out, because it gives
@@ -151,7 +148,13 @@ honest line is about **when** solid food works, not whether it does.
 - **"Swish it round your mouth"** is the one moment to show rather than
   say.
 - No dated language in the audio (P82).
-- Collab across both accounts, cross-post to TikTok.
+- **Instagram:** posted from ERN with Luke as collaborator, as every
+  video has been. **TikTok:** ERN account only. The personal TikTok gets
+  its own video today (`ideas/personal/2026-09-28-script-lamppost-rule.md`),
+  never this file (P96).
+- **Removed on the final pass:** the "2 accountants / failed batches"
+  overlay. Luke puts nothing on screen except the title and the stage
+  markers (P84, P95), and the batch count was never filled in.
 
 ## Pre-delivery check
 
