@@ -3924,6 +3924,40 @@ place, delivered every twenty seconds instead of once.
 *Source: Luke, bringing Peter Thiel's Zero to One into the script
 rules, 27 September.*
 
+## P95 — The outlier: replicate the whole package before isolating anything
+
+"Where the marathon wall actually starts" did **68,332 views in about
+thirteen hours**, 3.3 times the biggest video the account had posted,
+with record save (2.4%) and like (2.3%) rates, 43% of a 1:17 cut
+watched on average, and the best TikTok completion ever (9.41%).
+
+**Everything changed at once:** a secret posed as a question in the
+OST, the four-stage timeline, the first on-screen labels he has ever
+used, every beat opening on the unexpected, a problem cover, real
+context in running kit, a sub-1:30 cut, and possibly the posting
+account.
+
+**The rule: when an outlier lands on a package, the next video copies
+the package entire.** Galloway's advice on outliers is to double down
+fast, for the same audience, in the same packaging. Isolating a cause
+comes second, one variable at a time, once a second video has
+confirmed the package works at all. Changing three things at once
+again would teach nothing and risk the format.
+
+**The package, as it stands:**
+
+1. OST: **"Where / when / what ... actually ..."**, a secret posed as a
+   question the viewer thinks they can answer.
+2. A **staged timeline** the viewer cannot hold in their head.
+3. **On-screen labels** per stage: the secret on line one, the action
+   on line two.
+4. **Every beat opens on the unexpected** (P94).
+5. **Problem cover** (P93).
+6. **Real context**: car, kit, just back from a run.
+7. **Under 1:20.**
+
+*Source: Luke, sharing the 13 hour read on the 27 September post.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
