@@ -17,7 +17,7 @@ goes on the personal account.**
 | | ERN account | Luke's account |
 |---|---|---|
 | **The job** | **What**: the useful thing | **Who**: the person and the build |
-| **Content** | Marathon training, fuelling and race day advice. Everything that has worked so far | Luke's own Dublin build, race week, race day, building the bar, opinions |
+| **Content** | Marathon training, fuelling and race day advice. Everything that has worked so far | The mountains, and his own named running ideas. **Not Dublin, which is a surprise** |
 | **How it is posted on Instagram** | Collab, posted from ERN, Luke as collaborator. As now | **Solo, personal only** |
 | **TikTok** | The advice videos | **Personal-only videos. Never the same file** |
 
@@ -49,15 +49,11 @@ goes on the personal account.**
 
 ## What goes on the personal account
 
-All of it real, dated where the date is the point, and filmed on a
-phone with no production.
-
-| Series | What it is | Why it works |
-|---|---|---|
-| **The Dublin build** | His own training, week by week, to 25 October | Real context (P70), a deadline everyone can watch arrive |
-| **Race week and race day** | His own race, including the result, whatever it is | The biggest personal content moment of the year |
-| **Building the bar** | Failed batches, the factory day, the first real bar | The founder story. The pinned post already exists |
-| **Opinions** | One contested claim he believes (P94, the Thiel test) | Comments, and the reason people follow a person |
+**Updated 28 September:** the Dublin series is off, because the race is
+a surprise from a friend. The personal plan is now in
+`ideas/personal/2026-09-28-personal-account-plan.md`: the mountains
+(Benbulben did 148,000) and his own named running ideas (the HEEL LOCK
+format, Briar's own approach).
 
 **The Thiel rule still applies.** Personal does not mean generic. Every
 personal video needs something only Luke knows or believes.

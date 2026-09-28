@@ -3973,8 +3973,9 @@ counted once, no duplication, and it is the setup the outlier ran on
 The personal grid had become an ERN grid.
 
 **The split:** ERN carries the useful thing. Luke's account carries
-what nobody else can post: his own Dublin build, his race, building
-the bar, and his opinions. Two personal-only videos a week, filmed on a
+what nobody else can post: the mountains, where his biggest video ever
+did 148,000, and his own named running ideas. (Updated 28 Sep: no
+Dublin content, the race is a surprise.) Two personal-only videos a week, filmed on a
 phone. Each account keeps one fixed promise (P72).
 
 **On TikTok, never post the same file to both accounts**, since there
