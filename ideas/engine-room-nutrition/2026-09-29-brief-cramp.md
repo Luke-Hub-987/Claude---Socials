@@ -3,7 +3,9 @@ type: video-brief
 brand: ERN, collab with personal on IG, ERN only on TikTok
 generated_at: 2026-09-29
 basis: P97, P95, P94, P93 (contested claim, comments), P91, P92
-status: topic and OST locked, script after Luke's science or on request
+status: SUPERSEDED by 2026-09-29-script-cramp.md. The "faster than
+  they planned" / "set up in the first ten K" claim below is WRONG, see
+  the script file
 ---
 
 # Where marathon cramp actually comes from
