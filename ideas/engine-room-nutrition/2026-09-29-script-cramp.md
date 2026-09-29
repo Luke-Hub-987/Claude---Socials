@@ -72,7 +72,7 @@ in-race fix (Briar, HF14):*
 "Save this, it is four stages. Up to twenty-five K, the runners who cramped looked exactly like everyone else, at the same effort for their fitness. So feeling good early tells you nothing. Hold back, because effort you save here is muscle you have later, and keep your electrolytes going, especially in the heat." ⚑3
 
 **[TWO. THE FIRST TWITCH]**
-"Cramps usually warn you first, with a twitch or a tightening in one muscle, usually a calf or a hamstring. That is the moment to change how it is working. Shorten your stride, quicken your feet, and ease off on the downhills, where your legs take the most damage." ⚑6
+"Cramps usually warn you first, with a twitch or a tightening in one muscle, most often a calf or a hamstring. That is the moment to change how it is working. Shorten your stride, quicken your feet, and ease off on the downhills, where your legs take the most damage." ⚑6
 
 **[REHOOK]**
 "And if it locks, the fastest fix works before it even reaches your stomach."
