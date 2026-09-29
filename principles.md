@@ -4020,6 +4020,22 @@ promises exactly what the stages deliver.
 
 *Source: Luke, on the cramp script, 29 September.*
 
+## P99 — No script ships until it passes the checklist
+
+The cramp script went out twice without being checked against the
+winners. v1 carried a claim from a summary that the full paper
+contradicted (caught before delivery), then lacked in-race actions
+(Luke caught it), then ran 330 words against a proven ~300 ceiling and
+used a cause ("comes from") where every top video uses a moment.
+
+**The rule:** every ERN script is audited line by line against
+`SCRIPT-CHECKLIST.md` before it is delivered, and the audit table ships
+with the script. Every claim is checked against the full paper, never
+the abstract or a summary. When a new review produces a rule, the
+checklist is updated the same day.
+
+*Source: Luke, 29 September.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
