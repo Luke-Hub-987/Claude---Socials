@@ -2,8 +2,8 @@
 type: video-script
 brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-09-29
-version: v3, FINAL. Audited line by line against SCRIPT-CHECKLIST.md
-supersedes: v1 and v2 of this file, and 2026-09-29-brief-cramp.md
+version: v4, FINAL. Audited against SCRIPT-CHECKLIST.md
+supersedes: v1 to v3 of this file, and 2026-09-29-brief-cramp.md
 ---
 
 # Where marathon cramp actually starts
@@ -13,41 +13,43 @@ supersedes: v1 and v2 of this file, and 2026-09-29-brief-cramp.md
 > **Where marathon cramp**
 > **actually starts**
 
-**Markers only**, one per stage, held ~5 seconds:
-**0-25K / THE FIRST TWITCH / WHEN IT LOCKS / THE WAY BACK**
+**Markers, exactly as the outlier:** **0-10K / 10-20K / 20-30K /
+30K-FINISH**
 
-### Why "starts", changed from "comes from"
+Word for word the shape of "Where the marathon wall actually starts"
+(68K), and now the same stages too. The answer has two surprises: it
+starts in the muscle, not your blood, and the runners who cramped
+looked like everyone else until 25K.
 
-| | "comes from" (v1, v2) | **"starts" (v3)** |
-|---|---|---|
-| Same shape as the 68K outlier | Close | **Word for word: "Where the marathon wall actually starts"** |
-| A race moment (the top six are all moments) | No, "comes from" is a cause | **Yes. It points at a place in the race** |
-| The secret, withheld | Yes | **Yes, and it has two answers, both unexpected**: it starts in the muscle (not your blood), and it shows at 25K (the crampers looked like everyone before that) |
-| Plain words, answerable in the hook (Ralston) | Yes | Yes: "starts in the muscle" is the first sentence |
+## v4: Luke's two notes
 
-Rejected: "What to do when you cramp in a marathon" (a plain "how to",
-the exact package that cost the wall sequel 11 points of skip, P97);
-"Why salt won't stop your marathon cramp" (answers itself, P80, and
-overclaims).
+1. **"The stages aren't clear, like the ones where we broke it down."**
+   v3 mixed a distance (0-25K) with events (first twitch, when it
+   locks, the way back). The outlier used the race's own clock, every
+   ten K, one job per stage. **v4 uses exactly those four stages**, and
+   every stage has the same shape: what is happening to the muscle,
+   then what to do.
+2. **"How many people will bring pickle juice on the course? Few, if
+   any."** Right. It was presented as a fix people will not use.
+   **Out of the script, into the pinned comment**, where it does the
+   Thiel job (the strangest proof that cramp is not about salt) and
+   invites comments, without asking anyone to carry it.
 
-## The secret (Thiel)
+Both are now checklist lines (P98 amended).
 
-**Everyone reaches for salt. The blood tests say the runners who cramp
-have the same salt as everyone else, and what they have is more
-damaged muscle.** So every fix goes to the muscle, and the strangest
-one works in your throat before anything reaches your blood.
+## The secret (Thiel), stage by stage
 
-| Stage | Opens on the unexpected | Ends on an in-race action |
+| Stage | Opens on the unexpected | What to do, with nothing extra to carry |
 |---|---|---|
 | Hook | It starts in the muscle, your salt is probably fine | (promise: stop it locking, or get going and finish) |
-| 0-25K | The crampers looked exactly like everyone else | Hold back, keep electrolytes going |
-| THE FIRST TWITCH | The fix goes to the muscle | Shorter stride, quicker feet, ease off downhill |
-| WHEN IT LOCKS | The fastest fix works before it reaches your stomach | The two stretches, pickle juice if tested |
-| THE WAY BACK | Going straight back to pace sets it off again | Walk a minute, easier, one K at a time |
+| **0-10K** | The crampers looked exactly like everyone else, until 25K | Planned pace, keep electrolytes going |
+| **10-20K** | The hills that cramp you are the downhills | Shorter stride, quick feet on the way down |
+| **20-30K** | This is where the crampers started to slow | At the first twitch, ease off and shorten your stride |
+| **30K-FINISH** | If it locks, how you get going again | Two stretches, walk a minute, build back one K at a time |
 
 ---
 
-## Script v3 (291 words, under 1:20)
+## Script v4 (~300 words, about 1:18)
 
 **[ON SCREEN, held ~10s]**
 "Where marathon cramp actually starts"
@@ -56,106 +58,108 @@ one works in your throat before anything reaches your blood.
 "If you are running a marathon in the next few weeks, the cramp that stops you late in the race starts in the muscle, and your salt is probably fine. When researchers tested marathon runners who cramped, their salt was the same as everyone else's, and what they had was more muscle damage." ⚑1
 
 **[PAIN TWISTED, DREAM OUTCOME]**
-"Take every salt tab going and you can still end up holding your calf by the barriers. Look after the muscle and you can stop it locking, or get going again and finish."
+"Take every salt tab going and you can still end up holding your calf by the barriers. Protect the muscle and you can stop it locking, or get going again and finish."
 
-**[ONE. 0-25K. Save prompt]**
-"Save this, it is four stages. Up to twenty-five K, the runners who cramped looked exactly like everyone else. So feeling good early tells you nothing. Hold back, because effort you save here is muscle you have later, and keep your electrolytes going." ⚑3
+**[ONE. 0-10K. The save prompt, the outlier's words]**
+"Every ten K, and what to do in it, so save this. Nought to ten, the runners who cramped looked exactly like everyone else, and they did until twenty-five K. So feeling good tells you nothing. Settle into your planned pace and keep your electrolytes going." ⚑3
 
-**[TWO. THE FIRST TWITCH]**
-"The first twitch in a calf or hamstring is your warning, and the fix goes to the muscle. Shorten your stride and quicken your feet, and ease off on the downhills, where your legs take the most damage." ⚑6
+**[TWO. 10-20K]**
+"Ten to twenty, the hills that cramp you are the downhills, because your muscles brake on every step down, and that does more damage than climbing. Shorten your stride and let your feet turn over quickly." ⚑4
+
+**[THREE. 20-30K]**
+"Twenty to thirty is where the runners who cramped started to slow, and a twitch in a calf or hamstring is your warning. Ease off straight away and shorten your stride, because a slower K costs far less than a calf that locks." ⚑3 ⚑6
 
 **[REHOOK]**
-"And if it locks, the fastest fix works before it even reaches your stomach."
+"And if it does lock, here is how you get going again."
 
-**[THREE. WHEN IT LOCKS]**
-"Stop and stretch it gently. For a calf, keep the leg straight and push your heel down. For a hamstring, keep it straight and hinge forward. In a lab, pickle juice stopped cramps about forty-five percent faster than water, before anything in the blood changed, most likely through a reflex in your throat. Test it in training first." ⚑5 ⚑7
-
-**[FOUR. THE WAY BACK]**
-"Walk for a minute, then come back easier with shorter steps, because going straight back to goal pace tends to set it off again. Build back one K at a time." ⚑8
+**[FOUR. 30K-FINISH]**
+"From thirty to the finish, if it locks, stop and stretch it gently. For a calf, keep the leg straight and push your heel down. For a hamstring, keep it straight and hinge forward. Walk a minute, then run again easier with shorter steps, because going straight back to goal pace tends to set it off again. Build back one K at a time." ⚑7 ⚑8
 
 **[CTA, one sentence]**
 "Save this for race day, and the free race week guide and first go at the bar are in the bio."
 
 ---
 
-## The audit: v2 against the checklist, and what v3 fixed
+## Checklist audit, v4
 
-| Checklist line | v2 | v3 |
-|---|---|---|
-| OST is the outlier's exact shape, a race moment | "comes from", a cause | **"actually starts"** |
-| ~285 to 300 words, under 1:20 | **330 words, ~1:28. Fail.** The wall sequel's audience dropped at 1:10 | **291** |
-| Hook consistent with the data | "stops you at thirty K", while the study splits at 25K | **"late in the race"** |
-| Each stage opens on the unexpected | Stage two opened "Cramps usually warn you first", which everyone knows | **"The fix goes to the muscle"**, which ties back to the secret |
-| Mechanism in each instruction (P81) | Kept | Kept: downhills are where the legs take the most damage |
-| Share fact in sentence one | Two sentences | **One sentence**, the blood test |
-| Stretch shown, not only said | Yes | Yes |
-| One-sentence CTA, no thread line | Yes | Yes |
-| Every claim against the full paper | Done in v1 (the brief's error caught) | Unchanged |
+| Line | Pass |
+|---|---|
+| Marathon in line one, race outcome, a race moment | "Where marathon cramp actually starts" |
+| Secret as a question, answer withheld, the outlier's shape | Yes |
+| Only title and stage markers on screen | 0-10K / 10-20K / 20-30K / 30K-FINISH |
+| Gate first words, secret and share fact in sentence one | "...starts in the muscle, and your salt is probably fine" |
+| Collision | Salt tabs against muscle damage |
+| Pain twisted, dream that matches the stages | Barriers / stop it locking or get going again |
+| Save prompt where the stages start | "Every ten K, and what to do in it, so save this", the outlier's line |
+| **Clear stages on the race's clock, one shape each** (new) | Every ten K, "what is happening, then what to do" |
+| Each stage opens on the unexpected, ends on an in-race action | Table above |
+| **Every action is possible on the course with nothing extra** (new) | Pace, stride, stretch, walk. Pickle juice moved out |
+| A mechanism in each instruction | "Your muscles brake on every step down" / "each step asks less" |
+| Rehook before the last stage | "Here is how you get going again" |
+| Loop from the OST closed | Starts in the muscle; shows from 20 to 30 |
+| Consistent with earlier videos | Stride advice matches both wall videos; "one K at a time" matches the sequel |
+| ~300 words, under 1:20 | ~300. Keep the pace brisk |
+| One-sentence CTA, no thread line, pre-launch | Yes |
+| Claims checked against the full papers | Table below |
+| Voice rules | No em dashes, no "not X, it is Y", no fragments |
 
-**Everything else passed in v2 and is unchanged:** gate first words,
-pain and dream, "save this, it is four stages", four markers, in-race
-action at the end of every stage, rehook, loop closed, pre-launch CTA,
-no dated audio, voice rules.
-
-## ⚑ Science, checked against the full papers
+## ⚑ Science
 
 | # | Claim | Source | Notes |
 |---|---|---|---|
-| 1 | Same salt, more muscle damage | **Martínez-Navarro et al., 2020, J Strength Cond Res.** 88 marathon finishers, 20 cramped (24%). Body mass change, urine, serum sodium and potassium no different. Crampers had higher CK and LDH after, CK about double at 24h | Backed by **Schwellnus et al., 2011, Br J Sports Med** (210 Ironman triathletes, no electrolyte or body weight differences) |
-| 3 | Crampers looked like everyone else to 25K | Martínez-Navarro 2020: relative speed no different until the 25th km; crampers kept slowing after, non-crampers held the last 7K | **"Hold back" is our advice, not their finding.** It follows from Schwellnus (faster racers cramped more). The researchers expected crampers to have gone off harder, and **they had not**, which is why no line says they did |
-| 5 | Pickle juice ~45% faster than water, nothing in the blood changed | **Miller et al., 2010, Med Sci Sports Exerc.** Lab-induced calf cramps, mildly dehydrated men, ~1 oz. Relief ~85s. Blood sodium, potassium, magnesium, calcium unchanged | "In a lab" and "most likely" stay. "Test it in training first", it is acidic |
-| 6 | First twitch as a warning; shorter stride, quicker feet, ease off downhill | Warning twitches are widely described. Downhill running is eccentric work, which does the most muscle damage | Advice. Stride wording matches both wall videos |
-| 7 | Calf: leg straight, heel down. Hamstring: leg straight, hinge | Gentle static stretching is the standard first-line treatment (Schwellnus) | |
-| 8 | Walk a minute, easier, shorter steps; straight back to pace tends to set it off | Practical guidance, consistent with crampers slowing to the finish | "Tends to", not "will". "One K at a time" matches the wall sequel |
-| | *Cut:* strength work (47.6% vs 25%) | p = 0.074, not significant | Comment reply only, as "a hint" |
-| | *Cut:* history of cramp as a predictor | Schwellnus 2011 | Pinned comment |
+| 1 | Same salt, more muscle damage | **Martínez-Navarro et al., 2020, J Strength Cond Res**, 88 finishers, 20 cramped. Body mass, urine, serum sodium and potassium no different; CK and LDH higher, CK about double at 24h. Backed by **Schwellnus et al., 2011, Br J Sports Med**, 210 Ironman triathletes | |
+| 3 | Looked like everyone else until 25K; crampers slowed from the second half on | Martínez-Navarro 2020: relative speed no different until the 25th km; crampers slowed in every 5K split from 21K to the finish | The researchers expected crampers to have gone off harder, and **they had not**. So the script never says "you went off too fast" |
+| 4 | Downhills do more damage than climbing | Downhill running is eccentric work, the best-established cause of exercise muscle damage | **The link to cramp is our inference** (more damage, more cramp, per #1). Stated as the reason for the stride, not as a study finding |
+| 6 | First twitch as a warning; ease off, shorten stride | Widely described; practical advice | Stride wording matches both wall videos |
+| 7 | Calf: leg straight, heel down. Hamstring: leg straight, hinge | Gentle static stretch is the standard first-line treatment (Schwellnus) | |
+| 8 | Walk a minute, easier, shorter steps; straight back to pace tends to set it off | Practical guidance | "Tends to" |
+| | *Moved to pinned comment:* pickle juice | **Miller et al., 2010, Med Sci Sports Exerc**: lab-induced calf cramps, ~45% faster relief than water, no change in blood electrolytes | Framed as proof of the secret, not as advice |
+| | *Cut:* strength work, history of cramp | Not significant (p = 0.074) / Schwellnus 2011 | Comment replies only |
 
-**Not claimed:** salt is useless (electrolytes stay in), any gram or
-milligram figure, anything about the bar, anything about Luke cramping.
+## Pinned comment (the Thiel extra, and the comment lever)
+
+> "The strangest proof it isn't your salt: in a lab, pickle juice
+> stopped cramps faster than water before any of it could reach the
+> blood. Nobody's carrying pickle juice round a marathon, but it tells
+> you where cramp really starts. Free race week guide in the bio."
 
 ## Cover and first frame
 
-**Rule (P93, P97):** the viewer's problem, in race context, one person.
-Never a crowd, a finish, a product. **Same image for the cover and the
-first frame.**
+**The viewer's problem, in race context, one person. Same image for
+the cover and the first frame.** Never a crowd, a finish, a product.
 
-1. **Best, and doubles as your stretch cutaway:** you, in running kit
-   with an old race bib pinned on, by a railing or wall on a road, one
-   hand on the rail, stretching a calf (leg straight, heel down). Face
-   turned away or cropped out, so it reads as "a runner", not "Luke".
-   It is a demonstration, not a claim that you cramped. Shoot it
-   landscape for the top of frame and portrait for the cover.
-2. **Free stock, if you cannot shoot it (Pexels licence, no credit
-   needed):**
-   - Landscape, top of frame: man holding his calf in pain, Kindel
-     Media, https://www.pexels.com/photo/a-person-wearing-rubber-shoes-7298422/
-   - Portrait, cover: same shoot, https://www.pexels.com/photo/man-massaging-his-calf-muscles-7298421/
-   Both are on grass, not a race, which is why option 1 comes first.
+1. **Best:** you in running kit with an old race bib, by a railing on a
+   road, stretching a calf, leg straight, heel down. Face turned away
+   or cropped. Landscape for the top of frame, portrait for the cover.
+   It is a demonstration, not a claim you cramped, and it doubles as
+   the stretch cutaway.
+2. **Free stock (Pexels licence, no credit):** landscape
+   https://www.pexels.com/photo/a-person-wearing-rubber-shoes-7298422/
+   and portrait
+   https://www.pexels.com/photo/man-massaging-his-calf-muscles-7298421/
+   (same shoot, on grass rather than a race).
 
-**Layout (same as the outlier):** photo top third, the two-line OST in
-the blue box directly under it, nothing in the vertical centre, you in
-the bottom half.
+**Layout:** photo top third, OST in the blue box under it, nothing in
+the vertical centre, you in the bottom half.
 
 ## Filming
 
-- **In the car, in running kit, straight after a run.** The outlier
-  package (P95).
-- **Fingers for the four stages** at "four stages".
-- **2 to 3 second cutaway at WHEN IT LOCKS** of the two stretches, shot
-  outside the car.
-- **Stop at the CTA.** No thread line.
-- Under 1:20. No dated language (P82).
+- **In the car, in running kit, straight after a run** (P95).
+- **Markers land as you say each distance**, exactly as the outlier.
+- **2 to 3 second cutaway in 30K-FINISH** of the two stretches.
+- **Stop at the CTA.**
+- Under 1:20, brisk. No dated language.
 
 ## Posting
 
 - **Instagram:** ERN post, Luke as collaborator. **TikTok:** ERN only.
-- **Pinned comment:** "Cramped in a race before? That was one of the two
-  biggest predictors in the Ironman study. Free race week guide in the
-  bio."
+- Pin the comment above.
 
-## What this tests (read rates day one, reach day three)
+## What this tests
 
-- **Skip back toward 25%** → the secret-as-question OST and problem
-  cover were the reach lever (P97).
-- **Save near 3%** → in-race steps hold saves under a secret title.
-- **Comments above 1** → the contested claim works (P93).
+This is now the outlier's package in full: the title shape, the four
+ten-K stages, the save line, a problem cover. Only the topic changes.
+- **Skip near 25%** → the package travels to a new topic.
+- **Save near 3%** → in-race actions inside the outlier's stages hold
+  the sequel's save rate.
+- **Comments above 1** → the pinned comment and the contested claim work.

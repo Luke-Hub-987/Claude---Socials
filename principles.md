@@ -4018,6 +4018,13 @@ Anything the viewer cannot act on before their race is cut, however
 interesting, or moved to a comment. The dream outcome in the hook
 promises exactly what the stages deliver.
 
+**Amended, cramp v3 (Luke):** the stages have to be as clear as the
+outlier's: one axis, ideally every ten K, the same shape each time.
+And every action has to be one most runners will actually do on the
+course. "How many people are going to bring pickle juice out on the
+course? Few, if any." A clever fix nobody will use goes in the pinned
+comment, where it can still carry the surprise.
+
 *Source: Luke, on the cramp script, 29 September.*
 
 ## P99 — No script ships until it passes the checklist

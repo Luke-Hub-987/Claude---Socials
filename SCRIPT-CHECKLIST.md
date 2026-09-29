@@ -65,11 +65,17 @@ twice without being checked against the winners (P99).
 
 ## 5. Body
 
-- [ ] **Four stages**, with a simple marker for each (P95).
+- [ ] **Four clear stages on one axis**, ideally the race's own clock
+      (0-10K / 10-20K / 20-30K / 30K-FINISH, as the outlier), each with
+      the same shape: what is happening, then what to do. **Never mix a
+      distance stage with event stages** (Luke on cramp v3, P98).
 - [ ] **"Save this, it is four ..."** where the stages start (P91). It
       came with every Higher save rate.
 - [ ] **Each stage opens on the unexpected** (Thiel, P94) **and ends on
       something to do in the race** (P98).
+- [ ] **Every action works on the course with nothing extra to carry
+      or buy.** A fix few runners will use (pickle juice) goes in the
+      pinned comment as an extra, never in the steps (P98).
 - [ ] **A mechanism in each instruction**, so old advice becomes news
       (P81).
 - [ ] **Specific numbers and worked examples** where the science
