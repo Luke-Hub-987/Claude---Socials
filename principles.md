@@ -3987,6 +3987,24 @@ Full plan: `PLAN-account-split.md`.
 *Source: Luke, asking whether the two accounts should split, 28
 September.*
 
+## P97 — The secret buys the reach, the steps buy the saves
+
+The wall sequel posted record saves (3.1%), record likes (3.0%) and the
+best share of the video watched (46%), and a third of the outlier's
+reach, because skip rose from 25.5% to 36.2%. What changed at the
+front: the OST went from a secret as a question ("Where the marathon
+wall actually starts") to a plain promise ("How to get out of the
+marathon wall"), and the first frame went from a runner in trouble to
+a crowd at the finish.
+
+**The rule:** the OST and first frame carry the secret and the problem,
+because that decides who stays. The steps go inside the video, because
+that decides who saves. A "how to" title is allowed only when the "how"
+itself is the surprise. Cut the thread line at the end: the cliff sits
+exactly there, and the saves have already happened.
+
+*Source: Luke, sharing the 10 hour read on the 28 September post.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
