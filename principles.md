@@ -4005,6 +4005,21 @@ exactly there, and the saves have already happened.
 
 *Source: Luke, sharing the 10 hour read on the 28 September post.*
 
+## P98 — Every stage ends on something they can do in the race
+
+The cramp script v1 spent a stage on strength training and then told a
+runner with weeks to go to save it for the next block. Luke's read: it
+felt like "if you are cramping, it is too late". Every winner (the
+wall, getting out of the wall, first half, goal pace) handed the viewer
+something to do **in the race they are about to run**.
+
+**The rule:** the secret opens the beat, an in-race action closes it.
+Anything the viewer cannot act on before their race is cut, however
+interesting, or moved to a comment. The dream outcome in the hook
+promises exactly what the stages deliver.
+
+*Source: Luke, on the cramp script, 29 September.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
