@@ -47,14 +47,14 @@ the more people hit it.
 
 | Runner | Opens on the unexpected | In-race action |
 |---|---|---|
-| 1. PB chasers | The share jumps from under a quarter to over a third | Race the pace your long runs proved; back off at 10K if it feels like work |
+| 1. PB chasers | Getting fitter makes it more likely (the hook's number) | Race the pace your long runs proved; back off at 10K if it feels like work |
 | 2. Men | 28% of men against 17% of women | Even effort in the first half, race the second |
 | 3. Fast starters | It rarely feels fast at the time | First 5K five to ten seconds a K slower than goal |
 | 4. 3 to 5 hour runners | The slower the finish, the more likely, the one nobody expects | Carbs at twenty minutes, then every twenty |
 
 ---
 
-## Script (~300 words incl. title, 1:15 to 1:20 when timed)
+## Script, FINAL (285 words, 1:15 to 1:20 when timed)
 
 **[ON SCREEN, held ~10s]**
 "Who actually hits the marathon wall"
@@ -63,10 +63,10 @@ the more people hit it.
 "If you are running a marathon in the next few weeks and you are chasing a PB, you are one of the runners most likely to hit the wall. In four million marathon results, over a third of runners hit it in the years just before a PB." ⚑1
 
 **[PAIN TWISTED, DREAM OUTCOME]**
-"It hits around thirty K, lasts about ten, and costs about half an hour. Know which runner you are and you keep those last ten K." ⚑2
+"It hits around thirty K, lasts about ten, and costs about half an hour. Know which of four runners you are, and you can run those last ten K instead of losing them." ⚑2
 
 **[ONE. PB CHASERS. Save prompt]**
-"There are four runners it hits most, so save this. The first is the PB chasers. In the years before a PB, the share who hit it jumps from under a quarter to over a third, and the researchers think it is chasing the time too hard. Race the pace your long runs proved, and if it feels like work at ten K, back off while it is cheap." ⚑1
+"There are four runners it hits most, so save this. The first is the PB chasers, and the researchers think it is from chasing the time too hard. Race the pace your long runs proved, and if it feels like work at ten K, back off while it is cheap." ⚑1
 
 **[TWO. MEN]**
 "The second is men. Twenty-eight percent hit it, against seventeen percent of women, and the research links that to men overestimating what they can run. Run the first half at an even effort and save the racing for the second." ⚑3
@@ -82,6 +82,15 @@ the more people hit it.
 
 **[CTA, one sentence]**
 "Save this before race day, and the free race week guide and first go at the bar are in the bio."
+
+### Final pass changes
+
+- **Stage one no longer repeats the hook's number.** It said "under a
+  quarter to over a third" straight after the hook said "over a
+  third". Cut, which bought the length back to 285.
+- **Dream line sharpened:** "you can run those last ten K instead of
+  losing them" matches the four actions.
+- **No list fragments:** "The first is..." rather than "One, the..."
 
 ---
 
@@ -121,7 +130,7 @@ grams per hour.
 | Rehook before the last stage | "The last runner is the one nobody expects" |
 | Loop from the OST closed | All four named |
 | Consistent with earlier videos | 5 to 10 s/K (first half), every twenty minutes (wall), long runs prove the pace (goal pace) |
-| ~290 words | Yes. **Time the cut: 1:15 to 1:20** |
+| ~285 words | Yes. **Time the cut: 1:15 to 1:20** |
 | One-sentence CTA, no thread line, pre-launch | Yes |
 | Every claim checked against the full paper | Table above |
 | Voice: no em dashes, no "not X, it is Y", no fragments | Scanned |
