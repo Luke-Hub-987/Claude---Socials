@@ -4043,6 +4043,20 @@ checklist is updated the same day.
 
 *Source: Luke, 29 September.*
 
+## P100 — Time the cut, not the script
+
+The cramp script was ~300 words, the length that ran 1:17 on the wall
+video. The upload ran 1:31, and the share of the video watched fell to
+35%, the lowest of the three wall-package videos. It is the third
+upload over the 1:20 line.
+
+**The rule:** the word count is a forecast. The finished cut is the
+test. Check its length before posting. Over 1:20, trim the pauses or
+re-record, never post it and hope. Keep the package intact too: in the
+car, in running kit, straight after a run, one photo on the cover.
+
+*Source: the cramp video at 10 hours, 30 September.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

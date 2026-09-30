@@ -12,6 +12,7 @@ twice without being checked against the winners (P99).
 | **Where the marathon wall actually starts** | **68,332** (13h) | **25.5%** | 2.4% | 33s / 1:17 | **Secret as a question, race timeline** | Runner in trouble |
 | What to do in the last 3 hours before your marathon | 20.9K (life) | 27.5% | | 38s | Clock moment, in order | Start line crowd |
 | How to know what marathon time you are in shape for | 19.8K (3 days) | 28.6% | 1.6% | 34s / 1:22 | Query, race outcome | Runner down on the road |
+| Where marathon cramp actually starts | 9.5K (10h) | 33.0% | 2.8% | 32s / **1:31** | Secret as a question, race stages | Two-photo collage, problem |
 | How to get out of the marathon wall | 19.4K (10h) | 36.2% | **3.1%** | **37s / 1:20** | Plain "how to", no secret | **Crowd at the finish** |
 | What to do in the last 30 minutes before a marathon | 15.1K (life) | 29.5% | | | Clock moment, in order | Start line crowd |
 | How to run just 42K in a marathon | 10K (1.5 days) | **20.6%** | 1.1% | 34s / 1:40 | **Overturn in line one** | Course map |
@@ -51,6 +52,7 @@ twice without being checked against the winners (P99).
       win.** Those sit at 36% to 43%.
 - [ ] **The cover and the first frame are the same image.**
 - [ ] **In race context where possible** (a bib, a road, barriers).
+- [ ] **One photo, full width.** A two-photo collage halves each image.
 
 ## 4. Hook stack (~15 to 18 seconds)
 
@@ -91,6 +93,8 @@ twice without being checked against the winners (P99).
 - [ ] **One-sentence CTA, no thread line** (P97). The cliff sat exactly
       at the thread line.
 - [ ] **Pre-launch CTA only:** the free guide and first go at the bar.
+- [ ] **Time the finished cut before posting. Over 1:20, trim or
+      re-record** (P100). Cramp: ~300 words ran 1:31.
 - [ ] **~285 to 300 spoken words, under 1:20** (P85, P95). The two wall
       videos: 302 words ran 1:17, 267 words ran 1:20. 1:40 and 1:49
       both cost watch time.
@@ -107,6 +111,9 @@ twice without being checked against the winners (P99).
       mockery.**
 
 ## 8. Posting
+
+- [ ] **Filmed in the car, in running kit, straight after a run**
+      (P95). Cramp was filmed indoors.
 
 - [ ] **Instagram: ERN post, Luke as collaborator.** TikTok: ERN only
       (P96).
