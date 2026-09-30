@@ -4073,6 +4073,22 @@ scored against the ten-point spec in `2026-09-30-full-analysis.md`.
 
 *Source: the full analysis, 30 September.*
 
+## P102 — Broad titles buy views, steps buy follows
+
+Read from the ERN account for the first time (30 Sep), the wall video
+had 109,938 viewers and 78 follows (0.7 per thousand). Its "how to"
+sequel had 30,055 viewers and 80 follows (2.7 per thousand), and goal
+pace 2.8 per thousand. Curiosity gets a video served; a plan someone
+will use on race day gets them to follow.
+
+**The rule:** every video carries both. A broad secret in the title for
+reach, and in-race steps inside for follows and saves. **Always read
+insights from the ERN account.** The personal side shows 0 follows.
+Views roughly double after the first read, so the day-three read is the
+real one (P92).
+
+*Source: Luke, lifetime reads, 30 September.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

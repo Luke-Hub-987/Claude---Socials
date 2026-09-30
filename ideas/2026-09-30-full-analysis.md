@@ -118,6 +118,55 @@ account. The 30 minutes video, read from ERN, showed 12. **Follow
 performance for the last five videos is unknown** until someone opens
 them from the ERN account.
 
+## Update, 30 Sep 08:13: lifetime reads from the ERN account
+
+**These are the first reads opened from the ERN side** ("collaboration
+with luke_morrison_er"), so follows are real for the first time.
+
+| Video | Age | Views | Viewers | Watch | Saves | Save / viewer | Comments | Follows | **Follow / 1,000 viewers** | Growth since last read |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Where the marathon wall actually starts | ~2.5d | **135,403** | 109,938 | 33s | 2.7K | 2.5% | **27** | 78 | **0.7** | 68K at 13h, **2x** |
+| How to get out of the marathon wall | ~1.5d | **37,588** | 30,055 | 36s | 918 | **3.1%** | 4 | **80** | **2.7** | 19.4K at 10h, **1.9x** |
+| How to know what marathon time you are in shape for | ~9d | 23,512 | 18,550 | 35s | 420 | 2.3% | **12** | 52 | **2.8** | 19.8K at 3d, +19%, flattening |
+| How to pace the first half of a marathon | ~4d | 16,540 | 13,357 | 30s | 242 | 1.8% | 8 | 14 | 1.0 | 5.8K at 14h, **2.9x** |
+| Where marathon cramp actually starts | 10h | 9,530 | 7,626 | 32s | 220 | 2.9% | 4 | *(personal side)* | ? | |
+
+### Three new findings
+
+**1. Broad titles buy views, steps buy follows.** The wall video has
+3.6 times the viewers of its sequel and **fewer follows** (78 against
+80). Per thousand viewers, the practical videos convert about **four
+times better**: out of the wall 2.7, goal pace 2.8, against the wall
+0.7. Someone who sees a curiosity video watches; someone who gets a
+plan they will use on race day follows. **The best video does both**:
+a broad secret in the title to get served widely, and steps inside
+that make it worth following. That is exactly the "who hits the wall"
+design.
+
+**2. Everything compounds about 2x after the first read, and search
+titles keep going longest.** Wall 2x, sequel 1.9x, first half 2.9x.
+First half had a 41.9% skip and still nearly tripled: "How to pace the
+first half of a marathon" is a pure search query, so it keeps being
+found. Goal pace is flattening at 9 days. **Expect cramp at roughly
+18K to 25K by day three** if it follows the pattern.
+
+**3. Contested claims are the comment lever, confirmed.** Goal pace
+("doubling a half and adding ten minutes is usually wrong") has the
+highest comment rate on the account, 12 from 18.5K viewers, ahead of
+the wall's 27 from 110K. First half ("banking time") is next. The
+sequel, a plain "how to", got 4 from 30K.
+
+### What this changes for "who hits the wall"
+
+Nothing in the design, it is confirmed on all three: broad secret
+(reach), four in-race actions (follows and saves), men against women
+(comments). Two small things:
+
+- **The search line.** The spoken first sentence and the caption should
+  carry the searchable phrase "hit the wall in a marathon", so it keeps
+  being found after the first push, like first half.
+- **Reply to every comment**, since this one is built to draw them.
+
 ## The spec for the next video
 
 1. **The wall**, the asset (finding 1, 2).

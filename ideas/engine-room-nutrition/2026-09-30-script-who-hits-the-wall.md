@@ -148,6 +148,11 @@ product or winner, and different from both earlier wall covers.**
 
 ## Posting
 
+- **Caption, first line, the search phrase:** "Who actually hits the
+  wall in a marathon? Four million results say it is not who you
+  think." Then the four runners as a list. Search titles keep
+  compounding (first half went 2.9x after its first read).
+
 - **Instagram:** ERN post, Luke as collaborator. **TikTok:** ERN only.
 - **Pinned comment (the comments lever):** "Men 28%, women 17%. Which
   one are you, and did you hit it? Free race week guide in the bio."
