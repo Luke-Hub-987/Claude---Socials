@@ -66,19 +66,19 @@ the more people hit it.
 "It hits around thirty K, lasts about ten, and costs about half an hour. Know which runner you are and you keep those last ten K." ⚑2
 
 **[ONE. PB CHASERS. Save prompt]**
-"There are four runners it hits most, so save this. One, the PB chasers. In the years before a PB, the share who hit it jumps from under a quarter to over a third, and the researchers think it is chasing the time too hard. Race the pace your long runs proved, and if it feels like work at ten K, back off while it is cheap." ⚑1
+"There are four runners it hits most, so save this. The first is the PB chasers. In the years before a PB, the share who hit it jumps from under a quarter to over a third, and the researchers think it is chasing the time too hard. Race the pace your long runs proved, and if it feels like work at ten K, back off while it is cheap." ⚑1
 
 **[TWO. MEN]**
-"Two, men. Twenty-eight percent hit it, against seventeen percent of women, and the research links that to men overestimating what they can run. Run the first half at an even effort and save the racing for the second." ⚑3
+"The second is men. Twenty-eight percent hit it, against seventeen percent of women, and the research links that to men overestimating what they can run. Run the first half at an even effort and save the racing for the second." ⚑3
 
 **[THREE. FAST STARTERS]**
-"Three, the fast starters. A fast start is a strong predictor of the wall, and it rarely feels fast at the time. Run the first five K five to ten seconds a K slower than goal and let the crowd go." ⚑4
+"The third is the fast starters. A fast start is a strong predictor of the wall, and it rarely feels fast at the time. Run the first five K five to ten seconds a K slower than goal and let the crowd go." ⚑4
 
 **[REHOOK]**
 "And the last runner is the one nobody expects."
 
 **[FOUR. 3-5 HOUR RUNNERS]**
-"Four, the three to five hour runners. The slower the finish, up to about five hours, the more people hit it. You are out there longer, so start your carbs at twenty minutes and keep going every twenty, before you feel you need them." ⚑5
+"The fourth is the three to five hour runners. The slower the finish, up to about five hours, the more people hit it. You are out there longer, so start your carbs at twenty minutes and keep going every twenty, before you feel you need them." ⚑5
 
 **[CTA, one sentence]**
 "Save this before race day, and the free race week guide and first go at the bar are in the bio."
