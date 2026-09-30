@@ -31,6 +31,10 @@ twice without being checked against the winners (P99).
       weeks. The top six are all moments (3 hours, 30 minutes, first
       5K, the wall).
 - [ ] **Ride the asset** when there is one. "The wall" did 68K and 19K.
+- [ ] **The race is the title, fuel goes inside** (P101). Every
+      fuel-titled video is in the bottom four.
+- [ ] **The "my mother" test**: would someone who has never run want to
+      watch? The creative test that passed it reached 55K viewers.
 
 ## 2. OST
 

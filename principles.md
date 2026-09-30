@@ -4057,6 +4057,22 @@ car, in running kit, straight after a run, one photo on the cover.
 
 *Source: the cramp video at 10 hours, 30 September.*
 
+## P101 — The race is the title, fuel is the advice inside it
+
+Across fourteen ERN videos, every fuel-titled video sits in the bottom
+four (1.6K to 4.4K), and the wall video, which is mostly fuel advice
+inside, did 68K. The creative test that produced it was chosen for one
+thing: a title that passes the "my mother" test. It reached 55,449
+viewers, three times anything else, and every video since went back to
+a core-only title.
+
+**The rule:** the title names a race experience anyone recognises (the
+wall, the start, the finish time), and the fuel lives inside the steps.
+Keep one creative slot a week for the broadest true question available,
+scored against the ten-point spec in `2026-09-30-full-analysis.md`.
+
+*Source: the full analysis, 30 September.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
