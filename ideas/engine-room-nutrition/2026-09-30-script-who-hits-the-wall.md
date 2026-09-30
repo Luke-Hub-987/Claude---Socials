@@ -54,7 +54,7 @@ the more people hit it.
 
 ---
 
-## Script (~290 words, 1:15 to 1:20 when timed)
+## Script (~300 words incl. title, 1:15 to 1:20 when timed)
 
 **[ON SCREEN, held ~10s]**
 "Who actually hits the marathon wall"
@@ -72,7 +72,7 @@ the more people hit it.
 "The second is men. Twenty-eight percent hit it, against seventeen percent of women, and the research links that to men overestimating what they can run. Run the first half at an even effort and save the racing for the second." ⚑3
 
 **[THREE. FAST STARTERS]**
-"The third is the fast starters. A fast start is a strong predictor of the wall, and it rarely feels fast at the time. Run the first five K five to ten seconds a K slower than goal and let the crowd go." ⚑4
+"The third is the fast starters. A fast start is a strong predictor of the wall, and it rarely feels fast at the time. Run the first five K five to ten seconds a K slower than goal." ⚑4
 
 **[REHOOK]**
 "And the last runner is the one nobody expects."
