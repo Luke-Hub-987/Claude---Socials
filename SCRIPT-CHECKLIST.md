@@ -28,6 +28,9 @@ twice without being checked against the winners (P99).
 - [ ] **"Marathon" in line one** of the OST (P92). Every compounder has it.
 - [ ] **The viewer's race outcome is at stake**: finish, time, blow up
       (P92).
+- [ ] **Race day, or a decision about race-day pace.** Every video above
+      15K is one (goal pace is the training one, and its point is race
+      pace). Other training topics sat at 4.4K to 5.3K.
 - [ ] **A race moment or race problem** the viewer will live through in
       weeks. The top six are all moments (3 hours, 30 minutes, first
       5K, the wall).
@@ -121,8 +124,8 @@ twice without being checked against the winners (P99).
 
 ## 8. Posting
 
-- [ ] **Filmed in the car, in running kit, straight after a run**
-      (P95). Cramp was filmed indoors.
+- [ ] Setting: whatever is easiest. **The topic drives performance,
+      not the setting** (Luke, 1 Oct; first half was indoors, 16.5K).
 
 - [ ] **Instagram: ERN post, Luke as collaborator.** TikTok: ERN only
       (P96).

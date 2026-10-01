@@ -4,7 +4,8 @@ brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-01
 basis: 2026-10-01-who-hits-the-wall-review.md (P103), full analysis,
   SCRIPT-CHECKLIST.md
-status: topic and OST for Luke's call; script after, audited (P99)
+status: BANKED 1 Oct. Replaced by 2026-10-01-script-last-24-hours.md:
+  training-week topics sit at 4.4K to 5.3K, race-day topics above 15K
 ---
 
 # What to do in the last 3 weeks before a marathon

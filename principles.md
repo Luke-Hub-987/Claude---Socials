@@ -4102,8 +4102,12 @@ repeated three recent videos.
 the race clock or the days before it, so the whole video is their plan.
 Never sort the audience into groups. Keep the proven gate unchanged:
 "If you are running a marathon in the next few weeks". Each video
-brings at least one action the account has not given before. Film in
-the car, in kit, after a run.
+brings at least one action the account has not given before.
+
+**Amended (Luke, 1 Oct): the setting does not matter, the topic drives
+performance.** The data agrees: first half was filmed indoors and did
+16.5K; the setting notes in P95, P100 and the cramp review are
+withdrawn as causes.
 
 *Source: the who-hits-the-wall video at 8 hours, 1 October.*
 
