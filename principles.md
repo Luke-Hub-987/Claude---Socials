@@ -4127,6 +4127,22 @@ uploads in four over the 1:20 line.
 
 *Source: the last 24 hours video at 7 hours, 1 October.*
 
+## P105 — Say it like a coach, keep the study in the file
+
+The two biggest videos (135K, 37.6K) never said "study", "research" or
+"researchers". The most research-heavy video ("who hits the wall": four
+million results, three research lines) did 3.4K. Luke: the best ones
+had no research in them, and were still creative in the Zero to One
+sense.
+
+**The rule:** no "in a study", "researchers" or "the research" in the
+audio. State each fact the way a coach would, in Luke's voice, with the
+same hedges ("up to", "about", "can"). Every source stays in the script
+file's science table, checked against the paper (P99). The creativity
+lives in the secret, the title and the cover, never in citations.
+
+*Source: Luke, 1 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

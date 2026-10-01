@@ -64,7 +64,7 @@ days out is normal.**
 "Panic, cut the carbs or squeeze in one more hard run, and you start flat. Get the week right and you start fresh with a full tank."
 
 **[ONE. 7 DAYS OUT. Save prompt]**
-"Every stage of race week, so save this. Seven days out, cut the miles and keep the pace. Run about half your usual week, with one short session at marathon pace. In the research on tapering, that mix of fewer miles and the same intensity worked best." ⚑1
+"Every stage of race week, so save this. Seven days out, cut the miles and keep the pace. Run about half your usual week, with one short session at marathon pace. Fewer miles at the same intensity is the mix that works best." ⚑1
 
 **[TWO. 5 DAYS OUT]**
 "Five days out, expect to feel awful. You get heavy legs, niggles you have never had, and a voice saying you have lost it. Lots of runners feel this in the taper, so do nothing about it. Skip the extra runs and do not test yourself." ⚑2

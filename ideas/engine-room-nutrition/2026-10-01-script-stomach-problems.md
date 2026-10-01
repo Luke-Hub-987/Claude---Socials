@@ -6,7 +6,7 @@ backup: 2026-10-01-script-last-week.md (kept, the safe clock title)
 basis: the wall video's ingredients, P94 (Thiel), P101, P103, P104,
   SCRIPT-CHECKLIST.md, reddit-running research (portaloos 94 mentions,
   GI ~29: the biggest pain point in the set, never covered)
-status: FINAL draft, audited (P99)
+status: v2 FINAL, no study language (Luke, 1 Oct), audited (P99)
 ---
 
 # Where marathon stomach problems actually start
@@ -56,7 +56,23 @@ found the same with decaf, so it is the coffee, not the caffeine.
 
 ---
 
-## Script (258 words)
+## Script v2, no study language (258 words)
+
+**Luke's note (1 Oct): the best videos never said "in a study".** The
+data agrees:
+
+| Video | Research language in the audio | Views |
+|---|---|---|
+| Where the marathon wall actually starts | None. Facts said plainly ("about twenty thousand steps") | **135K** |
+| How to get out of the marathon wall | None | **37.6K** |
+| Last 24 hours | One ("in one study") | 9.1K at 7h |
+| Cramp | "Researchers tested..." | 9.5K at 10h |
+| Who hits the wall | Four million results, three "research" lines | **3.4K at 8h** |
+
+**v2 says every fact the way a coach would**, in Luke's voice, with no
+"study", "researchers" or "research". The facts stay exactly as accurate
+and as hedged ("up to", "about", "can"), and the sources stay in this
+file, not in the audio.
 
 **[ON SCREEN, held ~10s]**
 "Where marathon stomach problems actually start"
@@ -65,16 +81,16 @@ found the same with decaf, so it is the coffee, not the caffeine.
 "If you are running a marathon in the next few weeks, the stomach problems that stop people mid-race often start before the gun, with a coffee and a painkiller." ⚑2 ⚑3
 
 **[PAIN TWISTED, DREAM OUTCOME]**
-"A third to half of endurance athletes get stomach trouble, which on race day means queues, cramps and stops. Fix it where it starts and you never have to think about it." ⚑1
+"Up to half of endurance runners get stomach trouble, and on race day that means queues, cramps and stops. Fix it where it starts and you never have to think about it." ⚑1
 
 **[ONE. LONG RUNS. Save prompt]**
-"There are four places it starts, so save this. The first is your long runs, because your gut can be trained like your legs. In one study, two weeks of practising fuel on runs cut stomach symptoms by more than half, so race with exactly what you train with." ⚑4
+"There are four places it starts, so save this. The first is your long runs, because your gut trains like your legs do. A couple of weeks of practising your race fuel on runs can cut stomach trouble by more than half, so race with exactly what you train with." ⚑4
 
 **[TWO. RACE MORNING]**
 "On race morning, it is the coffee. For about three in ten people, coffee gets the bowel moving within minutes, and decaf does it too. Drink it early enough to use the toilet before the start." ⚑2
 
 **[THREE. THE START LINE]**
-"At the start line, it is the painkiller. Plenty of runners take ibuprofen for a niggle, and in a study it made the damage exercise does to the gut lining worse, so leave it out unless a doctor says otherwise." ⚑3
+"At the start line, it is the painkiller. Plenty of runners take ibuprofen for a niggle, and it adds to the damage hard exercise already does to your gut lining, so leave it out unless a doctor says otherwise." ⚑3
 
 **[REHOOK]**
 "And the last one happens with a gel in your hand."
@@ -121,11 +137,38 @@ knows, and it stays out: naming it risks reading as mockery.
 | One-sentence CTA, pre-launch | Yes |
 | Voice | No em dashes, no "not X, it is Y", no fragments |
 
-## Cover (P104)
+## Cover, exactly (P104)
 
-**One runner, doubled over, hands on stomach, in race kit.** The gels
-alternatives cover ("runner bent double") ran 28.7% skip. No crowd, no
-portaloos, no product.
+**What it shows:** one runner, in running kit, bent forward with one
+hand on the stomach and the other on a knee. The problem, in the body,
+before a word is said. This is the "runner bent double" cover that ran
+**28.7% skip** on gels alternatives, the best of the problem covers
+after the wall.
+
+**Why not something cleverer:** the unexpected causes (a coffee cup, a
+pill, a gel packet) are objects, and every object or food cover we have
+run skipped 32% to 43% (gels packets 42.9%, pizza 32.1%). The secret
+lives in the title and the first sentence; the cover shows the pain.
+
+**Option 1, best: shoot it yourself, five minutes.**
+- You (or a mate) in race kit with an old race bib pinned on, on a
+  road or path, after a run.
+- Bent forward, left hand on your stomach, right hand on your knee.
+- **Face down or turned away**, so it reads as "a runner", not "Luke",
+  and it is a demonstration, not a claim you were ill.
+- Shoot **landscape** (for the photo box above your head) and
+  **portrait** (for the platform cover), from the side, at waist
+  height.
+
+**Option 2, free stock (Pexels licence, free for commercial use, no
+credit needed):** Kindel Media, sportswear, outdoors, hands on stomach,
+face not shown, landscape 5184 x 2920:
+https://www.pexels.com/photo/close-up-photo-of-woman-touching-her-abdomen-7298668/
+Same shoot as the calf photos. Not a race, so it is second choice.
+
+**Layout, same as the outlier:** photo full width in the top third, the
+two-line OST in the blue box directly under it, nothing in the vertical
+centre, you in the bottom half. **One photo, no collage, no crowd.**
 
 ## Posting
 

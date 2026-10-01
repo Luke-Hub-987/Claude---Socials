@@ -123,6 +123,8 @@ twice without being checked against the winners (P99).
 - [ ] **Every claim checked against the paper itself, not the abstract
       or a summary** (P99). Hedges kept: "in a lab", "most likely",
       "a hint".
+- [ ] **No "study", "research" or "researchers" in the audio** (P105).
+      Say it like a coach; the source lives in the file.
 - [ ] **No claims attributed to named people that they did not make.**
 - [ ] **No personal claims** Luke has not made.
 - [ ] **No dated language in the audio** (P82).
