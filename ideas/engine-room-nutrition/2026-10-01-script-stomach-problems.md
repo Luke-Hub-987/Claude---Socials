@@ -48,7 +48,7 @@ found the same with decaf, so it is the coffee, not the caffeine.
 
 | Stage | Opens on the unexpected | What to do |
 |---|---|---|
-| Hook | It starts before the gun, with a coffee and a painkiller | |
+| Hook | It starts before the gun, with the two things you take to feel better | |
 | LONG RUNS | Your gut trains like your legs | Race with exactly what you train with |
 | RACE MORNING | It is the coffee, and decaf too | Drink it early enough to use the toilet before the start |
 | THE START LINE | It is the painkiller | No ibuprofen unless a doctor says otherwise |
@@ -78,7 +78,7 @@ file, not in the audio.
 "Where marathon stomach problems actually start"
 
 **[HOOK. Gate unchanged, the secret, collision]**
-"If you are running a marathon in the next few weeks, the stomach problems that stop people mid-race often start before the gun, with a coffee and a painkiller." ⚑2 ⚑3
+"If you are running a marathon in the next few weeks, the stomach problems that stop people mid-race often start before the gun, with the two things you take to feel better, a coffee and a painkiller." ⚑2 ⚑3
 
 **[PAIN TWISTED, DREAM OUTCOME]**
 "Up to half of endurance runners get stomach trouble, and on race day that means queues, cramps and stops. Fix it where it starts and you never have to think about it." ⚑1
@@ -137,38 +137,35 @@ knows, and it stays out: naming it risks reading as mockery.
 | One-sentence CTA, pre-launch | Yes |
 | Voice | No em dashes, no "not X, it is Y", no fragments |
 
-## Cover, exactly (P104)
+## Cover, exactly (Luke is not shooting one)
 
-**What it shows:** one runner, in running kit, bent forward with one
-hand on the stomach and the other on a knee. The problem, in the body,
-before a word is said. This is the "runner bent double" cover that ran
-**28.7% skip** on gels alternatives, the best of the problem covers
-after the wall.
+**The rule from the data:** one person with the problem (P93, P104).
+**The rule for this topic:** the photo has to say "stomach" in under a
+second. A runner bent over with hands on knees reads as "tired" or "the
+wall", which is a different video we have already made three times.
+Hands on the stomach is the only signal that is unmistakably this
+topic.
 
-**Why not something cleverer:** the unexpected causes (a coffee cup, a
-pill, a gel packet) are objects, and every object or food cover we have
-run skipped 32% to 43% (gels packets 42.9%, pizza 32.1%). The secret
-lives in the title and the first sentence; the cover shows the pain.
-
-**Option 1, best: shoot it yourself, five minutes.**
-- You (or a mate) in race kit with an old race bib pinned on, on a
-  road or path, after a run.
-- Bent forward, left hand on your stomach, right hand on your knee.
-- **Face down or turned away**, so it reads as "a runner", not "Luke",
-  and it is a demonstration, not a claim you were ill.
-- Shoot **landscape** (for the photo box above your head) and
-  **portrait** (for the platform cover), from the side, at waist
-  height.
-
-**Option 2, free stock (Pexels licence, free for commercial use, no
-credit needed):** Kindel Media, sportswear, outdoors, hands on stomach,
-face not shown, landscape 5184 x 2920:
+**Use this:** Pexels, Kindel Media, sportswear, outdoors, hands pressed
+on the stomach, no face, landscape 5184 x 2920, free for commercial use,
+no credit needed:
 https://www.pexels.com/photo/close-up-photo-of-woman-touching-her-abdomen-7298668/
-Same shoot as the calf photos. Not a race, so it is second choice.
 
-**Layout, same as the outlier:** photo full width in the top third, the
-two-line OST in the blue box directly under it, nothing in the vertical
-centre, you in the bottom half. **One photo, no collage, no crowd.**
+- **Crop:** torso and hands filling the photo box, so the hands on the
+  stomach are the first thing the eye lands on.
+- **Same image** on the platform cover and the first frame.
+
+**Backup:** Unsplash, Edagar Antoni Ann, "a person bending over on a
+road", fitness context, free under the Unsplash License:
+https://unsplash.com/photos/a-person-bending-over-on-a-road-y-MzJdB8A9Q
+Use it only if the hands are on the stomach; if they are on the knees it
+reads as tiredness.
+
+**Never:** a coffee cup, a pill, a gel packet (objects and food skipped
+32% to 43%), portaloos, a crowd, a finish line.
+
+**Layout:** one photo, full width in the top third, the two-line OST in
+the blue box under it, you in the bottom half.
 
 ## Posting
 
