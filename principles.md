@@ -4089,6 +4089,24 @@ real one (P92).
 
 *Source: Luke, lifetime reads, 30 September.*
 
+## P103 — Every viewer must be the subject of every stage
+
+"Who actually hits the marathon wall" sorted viewers into four groups
+(PB chasers, men, fast starters, 3 to 5 hour runners). Each viewer was
+in one or two. Saves fell from 2.8% to 0.7% and every Instagram rate
+but comments came back Lower, while skip and watch time held. The
+gate was also narrowed ("and you are chasing a PB"), and the advice
+repeated three recent videos.
+
+**The rule:** stages are a sequence every viewer will live through,
+the race clock or the days before it, so the whole video is their plan.
+Never sort the audience into groups. Keep the proven gate unchanged:
+"If you are running a marathon in the next few weeks". Each video
+brings at least one action the account has not given before. Film in
+the car, in kit, after a run.
+
+*Source: the who-hits-the-wall video at 8 hours, 1 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

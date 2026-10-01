@@ -12,6 +12,7 @@ twice without being checked against the winners (P99).
 | **Where the marathon wall actually starts** | **68,332** (13h) | **25.5%** | 2.4% | 33s / 1:17 | **Secret as a question, race timeline** | Runner in trouble |
 | What to do in the last 3 hours before your marathon | 20.9K (life) | 27.5% | | 38s | Clock moment, in order | Start line crowd |
 | How to know what marathon time you are in shape for | 19.8K (3 days) | 28.6% | 1.6% | 34s / 1:22 | Query, race outcome | Runner down on the road |
+| Who actually hits the marathon wall | 3.4K (8h) | 32.1% | **0.7%** | 31s / 1:23 | Groups of people | Runner helped at finish |
 | Where marathon cramp actually starts | 9.5K (10h) | 33.0% | 2.8% | 32s / **1:31** | Secret as a question, race stages | Two-photo collage, problem |
 | How to get out of the marathon wall | 19.4K (10h) | 36.2% | **3.1%** | **37s / 1:20** | Plain "how to", no secret | **Crowd at the finish** |
 | What to do in the last 30 minutes before a marathon | 15.1K (life) | 29.5% | | | Clock moment, in order | Start line crowd |
@@ -60,8 +61,8 @@ twice without being checked against the winners (P99).
 
 ## 4. Hook stack (~15 to 18 seconds)
 
-- [ ] **Gate first words:** "If you are running a marathon in the next
-      few weeks". Most TikTok viewers leave at 0:02.
+- [ ] **Gate first words, unchanged:** "If you are running a marathon in
+      the next few weeks". Never narrow it (P103). Most TikTok viewers leave at 0:02.
 - [ ] **The secret in the first sentence**, which is also **the share
       fact** (HF14 amended, P91, P94).
 - [ ] **A collision** in it, two things that should not go together
@@ -71,6 +72,10 @@ twice without being checked against the winners (P99).
 
 ## 5. Body
 
+- [ ] **Is every viewer the subject of every stage?** A sequence they
+      all live through (the race clock, the days before). Never groups
+      of people (P103: "who hits the wall", save 2.8% to 0.7%).
+- [ ] **At least one action the account has not given before.**
 - [ ] **Four clear stages on one axis**, ideally the race's own clock
       (0-10K / 10-20K / 20-30K / 30K-FINISH, as the outlier), each with
       the same shape: what is happening, then what to do. **Never mix a
