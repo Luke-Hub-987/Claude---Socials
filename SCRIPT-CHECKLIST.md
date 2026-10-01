@@ -43,6 +43,10 @@ twice without being checked against the winners (P99).
 
 ## 2. OST
 
+- [ ] **The Thiel test: is the cause somewhere the viewer thinks is
+      harmless or irrelevant?** The 135K video put the wall's cause in
+      the first 10K. A clock title with a secret in sentence one earns
+      saves; a famous fear with an unexpected cause earns reach.
 - [ ] **The secret, as a question, answer withheld** (P94, P97, P80).
       Secret-as-question did 68K at 25.5% skip. The same topic as a
       plain "how to" did 19K at 36.2%.

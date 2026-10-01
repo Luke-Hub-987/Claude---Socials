@@ -4,7 +4,7 @@ brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-01
 basis: 2026-10-01-last-24-hours-review.md (P104), P103, P101, P92,
   SCRIPT-CHECKLIST.md
-status: FINAL draft, audited (P99)
+status: BACKUP (Luke, 1 Oct). Lead is 2026-10-01-script-stomach-problems.md
 ---
 
 # What to do in the last week before a marathon
