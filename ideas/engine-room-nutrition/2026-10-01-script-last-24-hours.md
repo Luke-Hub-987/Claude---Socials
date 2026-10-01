@@ -155,15 +155,15 @@ the race, anything about Luke, anything named.
 | **Every viewer the subject of every stage** | One day, four clock points, everyone |
 | **Action the account has never given** | All four |
 | Gate unchanged | "If you are running a marathon in the next few weeks" |
-| Secret and collision in sentence one | Pasta dinner against the portaloo, lunch against dinner |
-| Pain twisted, dream matching the steps | Heavy, tired, queuing / light, a bit hungry, ready |
+| Secret and collision in sentence one | Resting carefully against waking up heavy |
+| Pain twisted, dream matching the steps | Wooden and bloated / light, a bit hungry, ready |
 | Save prompt where the stages start | "Every part of the last day, so save this" |
 | Each stage opens unexpected, ends on an action | Table above |
 | Nothing extra to carry or buy | Yes |
-| Mechanism in an instruction | Stomach emptying; lunch has the afternoon to go down |
+| Mechanism in an instruction | Stomach emptying; extra water is sent straight back out |
 | Rehook before the last stage | "The one that panics everybody" |
 | Fuel inside, race in the title | Yes |
-| ~290 words, 1:15 to 1:20 | Time the cut |
+| ~300 words, 1:15 to 1:20 | Time the cut |
 | One-sentence CTA, pre-launch | Yes |
 | Voice | No em dashes, no "not X, it is Y", no fragments |
 
