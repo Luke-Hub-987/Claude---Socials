@@ -12,6 +12,7 @@ twice without being checked against the winners (P99).
 | **Where the marathon wall actually starts** | **68,332** (13h) | **25.5%** | 2.4% | 33s / 1:17 | **Secret as a question, race timeline** | Runner in trouble |
 | What to do in the last 3 hours before your marathon | 20.9K (life) | 27.5% | | 38s | Clock moment, in order | Start line crowd |
 | How to know what marathon time you are in shape for | 19.8K (3 days) | 28.6% | 1.6% | 34s / 1:22 | Query, race outcome | Runner down on the road |
+| What to do in the last 24 hours before a marathon | 9.1K (7h) | 38.1% | **4.4%** | 33s / 1:35 | Clock moment, every viewer | Start-line crowd |
 | Who actually hits the marathon wall | 3.4K (8h) | 32.1% | **0.7%** | 31s / 1:23 | Groups of people | Runner helped at finish |
 | Where marathon cramp actually starts | 9.5K (10h) | 33.0% | 2.8% | 32s / **1:31** | Secret as a question, race stages | Two-photo collage, problem |
 | How to get out of the marathon wall | 19.4K (10h) | 36.2% | **3.1%** | **37s / 1:20** | Plain "how to", no secret | **Crowd at the finish** |
@@ -56,8 +57,9 @@ twice without being checked against the winners (P99).
 
 - [ ] **The viewer's problem, place or moment** (P93). Those covers sit
       at 20% to 30% skip.
-- [ ] **Never a product, food, a crowd at the finish, or someone else's
-      win.** Those sit at 36% to 43%.
+- [ ] **One person with the problem. Never a crowd, start or finish**
+      (P104: crowds 36.2%, 38.1%), **a product, food, or someone
+      else's win.** Those sit at 36% to 43%.
 - [ ] **The cover and the first frame are the same image.**
 - [ ] **In race context where possible** (a bib, a road, barriers).
 - [ ] **One photo, full width.** A two-photo collage halves each image.
@@ -107,7 +109,8 @@ twice without being checked against the winners (P99).
 - [ ] **Pre-launch CTA only:** the free guide and first go at the bar.
 - [ ] **Time the finished cut before posting. Over 1:20, trim or
       re-record** (P100). Cramp: ~300 words ran 1:31.
-- [ ] **~285 to 300 spoken words, under 1:20** (P85, P95). The two wall
+- [ ] **~250 spoken words** (P104). At Luke's delivery, ~190 words a
+      minute, 300 words ran 1:35. The two wall
       videos: 302 words ran 1:17, 267 words ran 1:20. 1:40 and 1:49
       both cost watch time.
 

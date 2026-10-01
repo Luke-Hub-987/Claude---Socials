@@ -4111,6 +4111,22 @@ withdrawn as causes.
 
 *Source: the who-hits-the-wall video at 8 hours, 1 October.*
 
+## P104 — A person with the problem, and 250 words
+
+"What to do in the last 24 hours before a marathon" posted a record
+4.4% save rate, likes and comments Higher, 15 follows in seven hours,
+and twice the typical reel, confirming P103. Skip was 38.1%, the worst
+of the wall era, on a start-line crowd cover. The finish-line crowd on
+the wall sequel ran 36.2%. Problem covers with one person ran 25.5% to
+33.0%.
+
+**The rule:** the cover is one person with the viewer's problem, even
+on a clock topic. No crowds. And script to **~250 spoken words**: at
+Luke's current delivery (~190 words a minute) 300 words ran 1:35, three
+uploads in four over the 1:20 line.
+
+*Source: the last 24 hours video at 7 hours, 1 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
