@@ -5,7 +5,7 @@ generated_at: 2026-10-01
 replaces: 2026-10-01-brief-last-3-weeks.md (banked), and absorbs the
   unposted 2026-09-25-script-night-before.md
 basis: every review to date, P92, P101, P103, SCRIPT-CHECKLIST.md
-status: v2 FINAL, rebuilt on Luke's input (1 Oct), audited (P99)
+status: v3 FINAL, Luke's input plus a full audit against every learning (1 Oct)
 ---
 
 # What to do in the last 24 hours before a marathon
@@ -42,49 +42,71 @@ range at **10K to 25K**. A 135K outlier cannot be planned.
 **Markers, a clock everyone lives through:** **MORNING / THROUGH THE
 DAY / DINNER / BEDTIME**
 
-## The secret (Thiel), v2 on Luke's input
+## The Zero to One element, v3
 
-**The day before, most runners treat their body like glass: couch,
-panic stretching, a huge dinner. That is how you wake up heavy.** A
-short jog, grazing instead of feasting, and a light early dinner is
-how you wake up light. It is contested (rest against shakeout), which
-is the comment lever.
+**Thiel's question: what does this video know that most runners would
+not agree with?** Three things, and v3 puts each one where the data
+says it works:
 
-| Stage | Opens on the unexpected | What to do |
+| Secret | Who disagrees | Where it is |
 |---|---|---|
-| Hook | Resting completely is how you get heavy legs | |
-| MORNING | Run the day before | 15 to 20 min easy, 3 or 4 x 15s strides at marathon pace; no new deep stretching |
-| THROUGH THE DAY | Graze, do not feast; do not flood yourself with water | Small low-fibre carbs every few hours, biggest at lunch; water with a pinch of salt |
-| DINNER | Light and early beats the pasta party | Half five or six, white rice or pasta, plain sauce |
-| BEDTIME | Sleeping badly is normal | Lay it all out; bank sleep beforehand; rest if awake |
+| **Race-morning legs are set up the day before, and resting carefully can leave them heavy** | Most runners: the day before is for total rest | **Sentence one.** The same move as the 135K video: the cause sits somewhere earlier than people look ("the wall at 30K is set up in the first 10") |
+| **The pasta party is the mistake** | The whole race-eve tradition | Opens DINNER |
+| **Sleeping badly the night before is normal** | Everyone who panics at 2am | Opens BEDTIME, with the 64% fact |
+
+**Honest limit:** experienced marathoners already know about shakeout
+runs, so the secret is strongest for first and second timers, who are
+most of this audience. It is a weaker secret than the wall's, and the
+strongest available for this race moment.
+
+### Why the OST stays a clock title, not a secret question
+
+The secret-question gain in P97 was measured against a plain "how to"
+(25.5% against 36.2% skip). The clock titles ran 27.5% to 29.5% and
+keep compounding through search, which a question title does not. So
+the clock title carries the search and the first spoken sentence
+carries the secret, the split the two biggest non-wall videos used.
+
+## v3: what the audit changed from v2
+
+| Learning | v2 | v3 |
+|---|---|---|
+| Secret in sentence one, in the outlier's shape (P94, P95) | "The way to wake up with heavy legs is to treat your body like glass" | **"How your legs feel on race morning is set up the day before"**, the wall video's "set up" move |
+| Every stage opens on the unexpected (P94) | MORNING opened on the jog; BEDTIME opened on the kit list | **"In the morning, run."** / **"At dinner, the pasta party is the mistake."** / **"At bedtime, expect to sleep badly."** |
+| A mechanism in every instruction (P81) | Grazing had none | **"so the carbs keep coming without a heavy gut"** |
+| Share fact placed where it lands (P91) | Sleep stat after the kit list | Sleep stat first in BEDTIME, as the rehook's payoff |
+| Under ~300 words (P100) | ~301 | **~299** |
+| Claims no stronger than the evidence (P99) | "is what makes them heavy" | **"can leave them feeling heavy"** |
+
+**Markers:** MORNING / THROUGH THE DAY / DINNER / BEDTIME
 
 ---
 
-## Script v2 (~300 words, time the cut to 1:15 to 1:20)
+## Script v3 (~299 words, time the cut to 1:15 to 1:20)
 
 **[ON SCREEN, held ~10s]**
 "What to do in the last 24 hours before a marathon"
 
-**[HOOK. Gate unchanged, secret, collision]**
-"If you are running a marathon in the next few weeks, the way to wake up on race morning with heavy legs is to treat your body like glass the day before." ⚑5
+**[HOOK. Gate unchanged, the secret, collision]**
+"If you are running a marathon in the next few weeks, how your legs feel on race morning is set up the day before, and resting like your body is made of glass can leave them feeling heavy." ⚑5
 
 **[PAIN TWISTED, DREAM OUTCOME]**
-"Sit on the couch all day, panic-stretch and stuff yourself, and you start wooden and bloated. Do this instead and you wake up light, a bit hungry and ready to race."
+"Sit on the couch, panic-stretch and stuff yourself, and you start wooden and bloated. Do this instead and you wake up light and ready to race."
 
 **[ONE. MORNING. Save prompt]**
-"Every part of the last day, so save this. In the morning, go for a fifteen to twenty minute easy jog, with three or four fifteen-second strides at marathon pace at the end. It barely touches your fuel and wakes your legs up. Skip the deep stretching too. If it is not in your training, race eve is not the day to start." ⚑5 ⚑6
+"Every part of the last day, so save this. In the morning, run. Keep it to fifteen to twenty minutes easy, with three or four fifteen-second strides at marathon pace at the end. It barely touches your fuel and wakes your legs up. And if deep stretching is not in your training, race eve is not the day to start." ⚑5 ⚑6
 
 **[TWO. THROUGH THE DAY]**
-"Through the day, graze. Have small, plain, low fibre carbs every few hours, like white rice, plain toast or pretzels, with your biggest meal at lunch. Sip water with a pinch of salt, and do not force down litres, because your body just sends it back out and you are up in the night for the toilet." ⚑2 ⚑7
+"Through the day, graze instead of feasting. Have small, plain, low fibre carbs every few hours, like white rice, plain toast or pretzels, so the carbs keep coming without a heavy gut. Sip water with a pinch of salt rather than forcing down litres, which your body just sends back out in the night." ⚑2 ⚑7
 
 **[THREE. DINNER]**
-"At dinner, keep it light and early, around half five or six. Fat, fibre and a lot of protein slow your stomach down, so have white rice or pasta with a plain sauce." ⚑1
+"At dinner, the pasta party is the mistake. Eat light and early, around half five or six, with white rice or pasta and a plain sauce, because fat, fibre and a lot of protein slow your stomach down." ⚑1
 
 **[REHOOK]**
 "And the last one is the one that panics everybody."
 
 **[FOUR. BEDTIME]**
-"At bedtime, lay it all out, bib pinned on, gels, anti-chafe, so you make no decisions in the morning. Then expect to sleep badly. In one study almost two thirds of elite athletes slept worse before a big competition, so bank sleep in the nights before, and if you lie awake, rest anyway." ⚑4
+"At bedtime, expect to sleep badly. In one study almost two thirds of elite athletes slept worse before a big competition, so bank sleep in the nights before, and if you lie awake, rest anyway. Lay out your bib, gels and kit first, so you make no decisions in the morning." ⚑4
 
 **[CTA, one sentence]**
 "Save this for the day before, and the free race week guide and first go at the bar are in the bio."
