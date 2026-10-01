@@ -179,6 +179,5 @@ not food, not a winner.
 - **Instagram:** ERN post, Luke as collaborator. **TikTok:** ERN only.
 - **Caption, first line:** "What to do the day before a marathon, hour
   by hour." The search phrase.
-- **Pinned comment (comments lever):** "Pasta party or light dinner?
-  What did you eat the night before your last one? Free race week guide
-  in the bio."
+- **Pinned comment (comments lever):** "Couch all day or a shakeout
+  jog? What do you do the day before? Free race week guide in the bio."
