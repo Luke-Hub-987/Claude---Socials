@@ -67,6 +67,10 @@ twice without being checked against the winners (P99).
 - [ ] **The cover and the first frame are the same image.**
 - [ ] **In race context where possible** (a bib, a road, barriers).
 - [ ] **One photo, full width.** A two-photo collage halves each image.
+- [ ] **Free licence, credited, nobody in a bad light.** Search Wikimedia
+      Commons, Flickr CC and Openverse first; a real race beats stock.
+      A few people at the problem's place, cropped close with backs to
+      camera, is a problem image, not a crowd (stomach video, 2 Oct).
 
 ## 4. Hook stack (~15 to 18 seconds)
 

@@ -119,7 +119,7 @@ short.**
 | "You know the feeling, the sloshing, the cramp" | Fragments, no picture of where | "**your stomach sloshing, a cramp in your side, and minutes ... lost in a portaloo queue on the course**" |
 | "you run past every queue on the course" | Reads as if the queues are the problem, or the portaloos are on the course for everyone | "**you can run the whole race without having to stop**" |
 | "Your gut trains like your legs, so if your stomach turns on a long run, it has not practised enough" | "Practised" what? | "**it has not had enough practice taking in fuel while you run**", then "**the same gels and drink at the same times**" |
-| "so it does its job at home and not in the start pen" | A euphemism; some will not get it | "**Coffee gets your bowels moving** ... have it as soon as you get up. **That way you have been to the toilet at home, not in a queue at the start**" |
+| "so it does its job at home and not in the start pen" | A euphemism; some will not get it | "**Coffee gets your bowels moving** ... have it as soon as you get up. **That way you have been to the toilet at home before you leave for the start**" |
 | "Hold an effort you could talk at" | "Effort" is coach-speak | "**a pace where you could still hold a conversation**" |
 | "while your gut can still handle it" | Vague | "**before you feel you need it**" |
 | "it is the sports drink" | Sounds like "do not drink sports drink" | "**washing your gel down with sports drink**" ... "**have your sports drink in between gels**" |
@@ -151,7 +151,7 @@ work; deliver it briskly.
 "There are four places it starts, so save this. The first is your long runs. Your stomach needs training like your legs, so if it gets upset on long runs, it has not had enough practice taking in fuel while you run. On every long run you have left, have exactly what you will have on race day, the same gels and drink at the same times." ⚑4
 
 **[TWO. RACE MORNING]**
-"The second is race morning, and it is when you have your coffee. Coffee gets your bowels moving, so if you have one every morning, keep it, and have it as soon as you get up. That way you have been to the toilet at home, not in a queue at the start." ⚑2
+"The second is race morning, and it is when you have your coffee. Coffee gets your bowels moving, so if you have one every morning, keep it, and have it as soon as you get up. That way you have been to the toilet at home before you leave for the start." ⚑2
 
 **[THREE. THE FIRST 10K]**
 "The third is the first ten K, and it is your pace. The harder you run, the more blood leaves your stomach for your legs, and the less it can digest. So run the first ten K at a pace where you could still hold a conversation, and take your first gel at twenty minutes, before you feel you need it." ⚑6
@@ -289,44 +289,59 @@ knows, and it stays out: naming it risks reading as mockery.
 | One-sentence CTA, pre-launch | Yes |
 | Voice | No em dashes, no "not X, it is Y", no fragments |
 
-## Cover, exactly: a real marathon portaloo queue (2 Oct)
+## Cover, FINAL: runners queueing at the portaloos, 2011 Eugene Marathon start line
 
-Luke asked for a specific photo, not a generic stock one. Searched
-Wikimedia Commons, Flickr (Creative Commons) and Openverse; viewed the
-candidates.
+Searched Wikimedia Commons, Flickr (Creative Commons) and Openverse;
+downloaded and looked at about 40 real race photos plus the stock
+options. **No free-licensed photo exists of a single runner in a race
+holding their stomach.** The best image of this exact problem in a
+real race is this one, cropped.
 
-**USE: the portaloo queue at the 2011 Liverpool Marathon.** Runners in
-kit queueing along a long row of turquoise portaloos in Birkenhead
-Park. Real race, in colour, and it says "marathon stomach trouble" in
-under a second without anyone looking unwell.
+**The photo:** "Everybody Has To Go - Starting Line - 2011 Eugene
+Marathon" by ex_magician.
+- Page: https://commons.wikimedia.org/w/index.php?curid=151402939
+  (also https://www.flickr.com/photos/37882873@N00/5685879978)
+- Full resolution (3368 x 2144):
+  https://upload.wikimedia.org/wikipedia/commons/6/6e/Everybody_Has_To_Go_-_Starting_Line_-_2011_Eugene_Marathon.jpg
+- **Licence: CC BY 2.0. Credit required.** Last line of the caption:
+  "Cover photo: ex_magician, CC BY 2.0"
 
-- **Page:** https://commons.wikimedia.org/w/index.php?curid=18330978
-- **File:** https://upload.wikimedia.org/wikipedia/commons/1/1d/Portaloos_at_Birkenhead_Park%2C_2011_Liverpool_Marathon.jpg
-- **Licence:** CC BY 3.0, creator "Reptonix free Creative Commons
-  licensed photos". **Credit is required**: put "Cover photo:
-  Reptonix, CC BY 3.0, via Wikimedia Commons" at the bottom of the
-  caption.
-- **Size:** 800 x 600, enough for the photo box above your head, not
-  for a full-screen background.
-- **Crop:** the right two-thirds, where the queue meets the toilets, so
-  the portaloos fill the box.
+**The crop (this is what makes it work):** the right-hand third only,
+where seven or eight runners in shorts and caps stand **with their
+backs to the camera**, waiting in front of a row of turquoise
+portaloos. Cut the crowd, the crane and the building site on the left
+out completely. On the 1024 px Flickr version that is roughly x 690 to
+1024, y 290 to 520; on the full-resolution file, the same area scaled
+up (about 1,100 x 770 px, sharp). Same image for the platform cover and
+the first frame.
 
-**Why this over the "one person with the problem" rule (P104):** the
-two crowd covers that failed (start line, finish line) showed no
-problem. This shows the exact pain the hook names ("minutes ... lost in
-a portaloo queue"). It is a problem picture that happens to have people
-in it, and nobody in it is shown in a bad light.
+### Checked against every cover rule
 
-**Alternative: the toilet queue at the 2015 Cardiff Half Marathon**,
-Jeremy Segrott ("Dai Lygad"), CC BY 2.0, credit required. Closer crop,
-fewer people, real race, but black and white and a half marathon.
-https://commons.wikimedia.org/wiki/File:Queues_and_anticipation-_Cardiff_Half_Marathon_(21972738235).jpg
+| Rule (source) | Pass |
+|---|---|
+| The viewer's problem, place or moment (P93): 20% to 30% skip | **Yes.** The race-morning portaloo queue every marathoner has stood in. The course map, a *place*, is our best cover ever (20.6%) |
+| Never a product, food, object or someone else's win (P93) | **Yes.** No gels, coffee or medals |
+| One photo, full width, no collage (P100, P104) | **Yes** |
+| A person with the problem, never a crowd (P104) | **Yes, because of the crop.** A handful of runners at the toilet doors, close up. The crowd covers that failed (36.2%, 38.1%) were start and finish crowds with no problem in them |
+| Race context (checklist) | **Yes.** A real marathon start line, runners in kit |
+| Reads as the topic in under a second, literally (P108) | **Yes.** Portaloos say "stomach" instantly. A runner bent over would read as "tired", a fourth wall video |
+| Specific, not generic (Luke) | **Yes.** A real race and a real queue |
+| Matches the script | **Yes.** The pain line ("a portaloo queue") and the coffee stage ("been to the toilet at home before you leave for the start") |
+| Thiel | **Yes.** The cover shows where everyone thinks the problem is; the video shows it started earlier |
+| Nobody shown in a bad light; licence clean (standing rule) | **Yes.** Backs to camera, no faces, people simply waiting; CC BY with credit; no named or press photo |
 
-**Not used:** the Pexels hands-on-stomach photo (generic, Luke's call),
-press photos of named runners (licence, and mockery risk).
+**Untested:** we have never run a queue cover. The skip rate is the
+test, and the closest data point, a place cover, is our best ever.
 
-**What it tests:** the first cover that shows the problem's place
-rather than a person. The skip rate answers it.
+**Backup if the crop looks soft:** "Portaloos at Birkenhead Park,
+2011 Liverpool Marathon", Reptonix, CC BY 3.0, credit required:
+https://commons.wikimedia.org/w/index.php?curid=18330978 . Cleaner
+background, but only 800 x 600, so it cannot be cropped tight and the
+runners stay small (more crowd than people).
+
+**Rejected:** Pexels hands-on-stomach (generic, no race), Cardiff Half
+queue (black and white, a half marathon), "Boston Marathon Cramp"
+(reads as a leg cramp), every bent-over runner (reads as tired).
 
 ## Posting
 
@@ -335,5 +350,6 @@ rather than a person. The skip rate answers it.
   marathon, and where it really starts." Then the four stages, plus one
   extra line: "Bonus: pick a fuel with two sugars, glucose and fructose.
   They use different doors into your gut, so more gets through."
+  **Last line: "Cover photo: ex_magician, CC BY 2.0".**
 - **Pinned comment (comments lever):** "When do you have your coffee on
   race morning? Free race week guide in the bio."
