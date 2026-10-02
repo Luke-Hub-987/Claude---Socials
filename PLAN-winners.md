@@ -34,8 +34,19 @@ weeks as the subject (4.4K to 5.3K).
 5. **It names something a non-runner has heard of or every marathoner
    will live through** (the wall, cramp, the last 24 hours, pace).
 
-If a topic fails one line, it is not made. No exceptions for "creative"
-until the queue below is posted.
+If a topic fails one line, it is not made. **Cadence (Luke, 2 Oct): one
+safe video from the queue below, then one creative video. The creative
+one must still pass the gate**; it is creative in the title, the frame
+or the format, never in the subject.
+
+**Creative bank (each passes the gate):**
+
+| OST | Creative move | Parent |
+|---|---|---|
+| **How pros actually race a marathon** | Identity title, named-rule markers (papanca teardown) | Wall clock + pacing family. **Next creative, brief written** |
+| How to run your first marathon without hitting the wall | Same, aimed at first-timers in the hook only, gate unchanged | Wall |
+| What a sub-4 marathon actually feels like at every 10K | Time-goal title (one of the biggest searches in the sport) on the race clock | Wall clock + goal pace |
+| The 5K blocks rule for the last 10K of a marathon | Luke's own named idea (the lamppost rule) on ERN | Wall's last stage |
 
 ## The queue, in order
 

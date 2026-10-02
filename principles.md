@@ -4228,6 +4228,23 @@ once the queue is posted.
 
 *Source: Luke, 2 October.*
 
+## P111 — Steal the moves, never the post: identity titles and named rules
+
+Luke saved papanca.io's "How to race like a pro (and avoid blowing up)"
+(2,430 likes). What stopped him: identity plus pain in the title, every
+rule a two or three word command ("Start too easy", "Chop distance"),
+feelings instead of statistics ("almost embarrassed"), race strategy
+and the head rather than physiology.
+
+**The rule:** the moves are fair game, the words are not. Titles can
+sell who the viewer wants to be as well as what they fear. Markers can
+be distance plus a named rule ("0-10K: HOLD BACK"), which makes every
+stage a screenshot. **Cadence from 2 October: one safe winner-formula
+video and one creative video, every creative one still passing the
+P110 gate.**
+
+*Source: Luke, 2 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
