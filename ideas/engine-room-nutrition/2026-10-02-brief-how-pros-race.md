@@ -2,7 +2,7 @@
 type: video-brief
 slot: CREATIVE (the safe slot is "What to do in the last week before a marathon", scripted)
 basis: papanca teardown, PLAN-winners gate, P94, P97, P103, P105 to P110
-status: for Luke's go; script after, audited
+status: RETIRED 2 Oct, merged into "How to actually enjoy your marathon" (same clock and rules, broader title, no claims about pros)
 ---
 
 # How pros actually race a marathon

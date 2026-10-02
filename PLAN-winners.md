@@ -43,7 +43,8 @@ or the format, never in the subject.
 
 | OST | Creative move | Parent |
 |---|---|---|
-| **How pros actually race a marathon** | Identity title, named-rule markers (papanca teardown) | Wall clock + pacing family. **Next creative, brief written** |
+| **How to actually enjoy your marathon** (Luke) | Feeling title, named-rule markers; absorbs the "how pros race" brief | Wall clock. **Next creative**, see `2026-10-02-four-topics-scored.md` |
+| What to do when you want to quit a marathon | Luke's lamppost rule as an in-race technique | Out of the wall's sequence |
 | What a marathon actually feels like at every 10K | The broadest "my mother" title, the wall's original creative brief ("your body at every 10K") | Wall clock |
 | What a sub-4 marathon actually feels like at every 10K | Time-goal title (one of the biggest searches in the sport) on the race clock | Wall clock + goal pace |
 | The 5K blocks rule for the last 10K of a marathon | Luke's own named idea (the lamppost rule) on ERN | Wall's last stage |
