@@ -4162,6 +4162,22 @@ Two catches from Luke on the stomach script, 2 October.
 
 *Source: Luke, 2 October.*
 
+## P107 — No statistics in the audio; speak to what they have felt
+
+Luke, on the stomach script: the 138K video was not statistic-heavy.
+"Three in ten people", "more than half", "a third to half" are
+numbing; people do not care how many others it happens to. They have
+felt it, so name the feeling ("you know the feeling, the sloshing, the
+cramp") and let their own experience be the proof.
+
+**The rule:** no percentages, proportions or "how many people" in the
+audio. The only numbers allowed are instructions (twenty minutes, the
+first ten K) or a concrete picture (twenty thousand steps). And check
+every line for what it seems to tell people to stop doing: the coffee
+line read as "do not drink coffee" when the advice was timing.
+
+*Source: Luke, 2 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

@@ -6,7 +6,7 @@ backup: 2026-10-01-script-last-week.md (kept, the safe clock title)
 basis: the wall video's ingredients, P94 (Thiel), P101, P103, P104,
   SCRIPT-CHECKLIST.md, reddit-running research (portaloos 94 mentions,
   GI ~29: the biggest pain point in the set, never covered)
-status: v4 FINAL, Luke's gut science added (2 Oct)
+status: v5 FINAL, no statistics, coffee as timing (Luke, 2 Oct)
 ---
 
 # Where marathon stomach problems actually start
@@ -101,11 +101,29 @@ the more blood leaves the gut for the legs. That keeps the Thiel twist
 |---|---|---|
 | Hook | It starts before the gun, with something you drink every morning | |
 | LONG RUNS | Your gut trains like your legs | Race with exactly what you train with |
-| RACE MORNING | It is the coffee, and decaf too | Early enough to use the toilet before the start |
+| RACE MORNING | It is when you have your coffee | Keep it, a good while before you leave |
 | THE FIRST 10K | It is your pace | An effort you could talk at; first fuel at twenty minutes |
 | ON THE COURSE | It is the sports drink you wash the gel down with | Every gel with plain water instead |
 
-## v4: Luke's gut science added (2 Oct)
+## v5: no statistics, coffee is about timing (Luke, 2 Oct)
+
+**Luke's notes:** the 138K video was not statistic-heavy. Numbers like
+"three in ten" are numbing; people do not care, they have felt it, so
+speak to the feeling instead of proving it. And the coffee line read as
+"do not drink coffee", when the point (and what Luke does) is to have
+it earlier.
+
+| v4 | v5 |
+|---|---|
+| "with something most of us drink every morning" | "with **the timing of** something most of us drink every morning": the loop now points at when, never whether |
+| "you lose minutes of the race you trained months for in a portaloo" | "**You know the feeling,** the sloshing, the cramp, and minutes of the race you trained months for lost in a portaloo": speaks to what they have lived |
+| "A couple of weeks of practising your race fuel can cut stomach trouble by more than half" | "**Your gut trains like your legs, so if your stomach turns on a long run, it has not practised enough**": the viewer's own experience is the proof |
+| "For about three in ten people, coffee gets the bowel moving within minutes, and decaf does it too" | "**it is when you have your coffee. Keep it,** and have it a good while before you leave, so it does its job at home and not in the start pen" |
+
+**The only numbers left are instructions** (ten K, twenty minutes),
+never how many people something happens to.
+
+### Luke's gut science (v4), still applies
 
 **Kept, and where it went:**
 
@@ -143,31 +161,31 @@ the more blood leaves the gut for the legs. That keeps the Thiel twist
 
 **Markers:** **LONG RUNS / RACE MORNING / THE FIRST 10K / ON THE COURSE**
 
-### Script v4 (260 words)
+### Script v5 (260 words)
 
 **[ON SCREEN, held ~10s]**
 "Where marathon stomach problems actually start"
 
 **[HOOK. Gate, the secret, open loop]**
-"If you are running a marathon in the next few weeks, the stomach trouble that stops you mid-race often starts before the gun, with something most of us drink every morning." ⚑2
+"If you are running a marathon in the next few weeks, the stomach trouble that stops you mid-race often starts before the gun, with the timing of something most of us drink every morning."
 
-**[PAIN TWISTED, DREAM OUTCOME]**
-"Get it wrong and you lose minutes of the race you trained months for in a portaloo. Get it right and you run past every queue on the course."
+**[PAIN TWISTED (their own experience), DREAM OUTCOME]**
+"You know the feeling, the sloshing, the cramp, and minutes of the race you trained months for lost in a portaloo. Get this right and you run past every queue on the course."
 
 **[ONE. LONG RUNS. Save prompt]**
-"There are four places it starts, so save this. The first is your long runs, because your gut trains like your legs do. A couple of weeks of practising your race fuel can cut stomach trouble by more than half." ⚑4
+"There are four places it starts, so save this. The first is your long runs. Your gut trains like your legs, so if your stomach turns on a long run, it has not practised enough. Practise with exactly what you will race with." ⚑4
 
 **[TWO. RACE MORNING. Closes the hook's loop]**
-"On race morning, it is the coffee. For about three in ten people, coffee gets the bowel moving within minutes, and decaf does it too. Drink it early enough to use the toilet before the start." ⚑2
+"On race morning, it is when you have your coffee. Keep it, and have it a good while before you leave, so it does its job at home and not in the start pen." ⚑2
 
 **[THREE. THE FIRST 10K]**
-"In the first ten K, it is your pace. The harder you run, the more blood leaves your gut for your legs. Hold an effort you could talk at, and take your first fuel at twenty minutes, while your gut still has the blood to deal with it." ⚑6
+"In the first ten K, it is your pace. The harder you run, the more blood leaves your gut for your legs. Hold an effort you could talk at, and take your first fuel at twenty minutes, while your gut can still handle it." ⚑6
 
 **[REHOOK]**
 "And the last one is what you wash your gel down with."
 
 **[FOUR. ON THE COURSE]**
-"On the course, it is the sports drink. A gel is already concentrated, sports drink on top makes it worse, and your gut pulls in water to dilute it, which is the sloshing and the cramping. Take every gel with plain water instead." ⚑5
+"On the course, it is the sports drink. A gel is already concentrated, sports drink on top makes it worse, and your gut pulls in water to cope, which is the sloshing. Take every gel with plain water instead." ⚑5
 
 **[CTA, one sentence]**
 "Save this before race day, and the free race week guide and first go at the bar are in the bio."
@@ -246,5 +264,5 @@ the blue box under it, you in the bottom half.
   marathon, and where it really starts." Then the four stages, plus one
   extra line: "Bonus: pick a fuel with two sugars, glucose and fructose.
   They use different doors into your gut, so more gets through."
-- **Pinned comment (comments lever):** "Coffee before a marathon: yes or
-  no? Free race week guide in the bio."
+- **Pinned comment (comments lever):** "When do you have your coffee on
+  race morning? Free race week guide in the bio."
