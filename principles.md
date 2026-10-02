@@ -4212,6 +4212,22 @@ tired.
 
 *Source: the stomach video at 6.5 hours and the lifetime grid, 2 October.*
 
+## P110 — Do more of exactly what works; gate every topic
+
+Luke, 2 October: we know what works, so do more of it, very
+specifically, and stop learning lessons we could have predicted. The
+stomach miss broke P101, which already existed.
+
+**The rule:** before any script, the topic passes the five-line gate in
+`PLAN-winners.md`: a sibling of a top-8 video (same formula, title
+shape and structure); a race moment or a legs-or-clock race problem,
+never the gut, fuel or training weeks; every viewer in every stage; one
+clock; something everyone has heard of or will live through. A topic
+that fails one line is not made. Winners first; creative tests only
+once the queue is posted.
+
+*Source: Luke, 2 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

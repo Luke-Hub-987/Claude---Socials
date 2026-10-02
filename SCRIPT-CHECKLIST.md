@@ -26,6 +26,9 @@ twice without being checked against the winners (P99).
 
 ## 1. Topic
 
+- [ ] **Passes the five-line gate in `PLAN-winners.md` (P110).** If not,
+      it is not scripted.
+
 - [ ] **"Marathon" in line one** of the OST (P92). Every compounder has it.
 - [ ] **The viewer's race outcome is at stake**: finish, time, blow up
       (P92).

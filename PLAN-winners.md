@@ -1,0 +1,59 @@
+# Do more of what works: the winners plan (2 Oct)
+
+Luke: we know exactly what works, so do more of it, very specifically.
+The stomach video broke a rule we already had (P101); a gate before
+scripting would have stopped it. This file is that gate, and the queue
+it produces.
+
+## The winners, lifetime, and the exact formula each one proves
+
+| # | Video | Views | Formula |
+|---|---|---|---|
+| 1 | Where the marathon wall actually starts | **142K** | **A. "Where [famous race problem] actually starts"**, race-clock stages (0-10K / 10-20K / 20-30K / 30K-FINISH), the cause sits earlier than the symptom |
+| 2 | How to get out of the marathon wall | **40.8K** | **C. "How to [fix/beat] the marathon wall"**, in-race steps on the wall |
+| 3 | What to do in the last 24 hours before a marathon | **26.9K** | **B. "What to do in the last [time] before a marathon"**, one clock every viewer lives through |
+| 4 | Where marathon cramp actually starts | **25K** | **A** on a problem felt in the legs |
+| 5 | How to know what marathon time you are in shape for | **24.8K** | **D. A race-pace decision**, phrased as the question people type |
+| 6 | What to do in the last 3 hours before your marathon | 20.9K | **B** |
+| 7 | How to pace the first half of a marathon | 17.5K | **D** |
+| 8 | What to do in the last 30 minutes before a marathon | 15.1K | **B** |
+
+**What never worked:** the gut or fuel as the subject (1.6K to 4.4K,
+stomach 4.1K), sorting viewers into groups (who hits, ~7.5K), training
+weeks as the subject (4.4K to 5.3K).
+
+## The gate: a topic is only scripted if it passes all five
+
+1. **It is a sibling of a top-8 video**: same formula letter, same
+   title shape, same structure.
+2. **The subject is a race moment or a race problem felt in the legs
+   or on the clock** (P109). Never the gut, never fuel, never training
+   weeks.
+3. **Every viewer is the subject of every stage** (P103).
+4. **One clock** (P109): race day, or race week.
+5. **It names something a non-runner has heard of or every marathoner
+   will live through** (the wall, cramp, the last 24 hours, pace).
+
+If a topic fails one line, it is not made. No exceptions for "creative"
+until the queue below is posted.
+
+## The queue, in order
+
+| # | OST | Formula, parent | Markers | Status |
+|---|---|---|---|---|
+| 1 | **What to do in the last week before a marathon** | B, the 24 hours (26.9K) | 7 DAYS OUT / 5 DAYS OUT / 3 DAYS OUT / 2 DAYS OUT | **Scripted, v2** |
+| 2 | **How to run a marathon without hitting the wall** | A + C, the wall (142K) and its sequel (40.8K). The exact phrase people type | 0-10K / 10-20K / 20-30K / 30K-FINISH | To script |
+| 3 | **What to do in the last 10K of a marathon** | B on race day, the wall's 30K-FINISH stage | 32K / 35K / 38K / THE LAST 2K | To script |
+| 4 | **How to pace the second half of a marathon** | D, first half (17.5K) and goal pace (24.8K); same query family, which compounds (P75) | HALFWAY / 25K / 30K / 35K TO THE LINE | To script |
+| 5 | **What to do on the morning of a marathon** | B, between the 24 hours and the 3 hours | WAKE UP / BREAKFAST / LEAVING HOME / THE START PEN | To script; check overlap with the 3 hours first |
+
+**Repeating the wall is safe.** The sequel (40.8K) beat everything but
+the original, and P75 already showed same-family videos stack while
+the audience is mostly non-followers.
+
+## Every script in the queue also passes
+
+The full `SCRIPT-CHECKLIST.md`, including the five-line hook stack
+(P106), no statistics or study language (P105, P107), clarity first
+(P108), and one checked cover: one photo, the problem, never a crowd
+with no problem in it, never a collage.
