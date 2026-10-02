@@ -6,7 +6,7 @@ backup: 2026-10-01-script-last-week.md (kept, the safe clock title)
 basis: the wall video's ingredients, P94 (Thiel), P101, P103, P104,
   SCRIPT-CHECKLIST.md, reddit-running research (portaloos 94 mentions,
   GI ~29: the biggest pain point in the set, never covered)
-status: v3 FINAL, hook stack rebuilt to HF13/HF14, painkiller stage dropped (2 Oct)
+status: v4 FINAL, Luke's gut science added (2 Oct)
 ---
 
 # Where marathon stomach problems actually start
@@ -52,7 +52,7 @@ found the same with decaf, so it is the coffee, not the caffeine.
 | LONG RUNS | Your gut trains like your legs | Race with exactly what you train with |
 | RACE MORNING | It is the coffee, and decaf too | Drink it early enough to use the toilet before the start |
 | THE START LINE | It is the painkiller | No ibuprofen unless a doctor says otherwise |
-| ON THE COURSE | It is the gel without water | Every gel with a few mouthfuls of water |
+| ON THE COURSE | It is the sports drink you wash the gel down with | Every gel with plain water instead |
 
 ---
 
@@ -102,10 +102,48 @@ the more blood leaves the gut for the legs. That keeps the Thiel twist
 | Hook | It starts before the gun, with something you drink every morning | |
 | LONG RUNS | Your gut trains like your legs | Race with exactly what you train with |
 | RACE MORNING | It is the coffee, and decaf too | Early enough to use the toilet before the start |
-| THE FIRST 10K | It is your pace | An effort you could still talk at |
-| ON THE COURSE | It is the gel without water | Every gel with a few mouthfuls of water |
+| THE FIRST 10K | It is your pace | An effort you could talk at; first fuel at twenty minutes |
+| ON THE COURSE | It is the sports drink you wash the gel down with | Every gel with plain water instead |
 
-### Script v3 (266 words)
+## v4: Luke's gut science added (2 Oct)
+
+**Kept, and where it went:**
+
+| Luke's point | In v4 |
+|---|---|
+| The harder you run, the more blood leaves the gut (up to ~80% at hard efforts) | THE FIRST 10K: "The harder you run, the more blood leaves your gut for your legs" |
+| Front-load the fuel while the gut still has blood | THE FIRST 10K: "take your first fuel at twenty minutes, while your gut still has the blood to deal with it". Matches the wall video's twenty minutes |
+| Concentrated gel pulls water into the gut; sports drink on top makes it worse | ON THE COURSE, rebuilt: **"it is the sports drink"**, a sharper counter-position than "a gel without water". Most runners wash gels down with whatever the station hands them |
+| Two sugars, glucose and fructose, use different doors into the gut | **Caption**, not audio: one more technical idea would take the cut past 250 words (P104), and the two-doors idea has been on the account before |
+
+**Changed or cut, and why:**
+
+1. **Kipchoge and the Maurten hydrogel: cut entirely.** Three problems:
+   "before 2016 elites routinely suffered stomach meltdowns" is a
+   generalisation nobody can check; the claims that hydrogel "glides
+   through the stomach undetected" and allows 90 g an hour "without a
+   single GI issue" are the manufacturer's marketing, and independent
+   trials have not found it empties faster or causes fewer symptoms
+   than an ordinary carb drink; and it would promote another fuel
+   brand from ERN's account.
+2. **"Your digestive tract stops moving": softened.** Hard running
+   slows the gut down; "stops" overclaims.
+3. **"Up to 80% at marathon pace": not in the audio.** Up to about 80%
+   is for hard efforts; at marathon pace it is less. The script says
+   the direction ("the harder you run, the more"), which is solid.
+4. **"Never dairy" is not used as the myth.** Dairy is a real trigger
+   for anyone lactose intolerant, so dismissing it would be wrong.
+5. **"150 ml of water per 25 to 30 g", "1:0.8", SGLT1/GLUT5, "zero
+   backup": out of the audio.** Exact millilitres and ratios are
+   precision nobody can hold mid-race (Ralston), and "zero" overclaims.
+   The action is "take every gel with plain water instead".
+6. **"Explosive runner's trots at kilometre 25": out.** Vivid, and it
+   tips into the crude. "The sloshing and the cramping" carries it.
+7. **No study language** (P105), no medication (P106).
+
+**Markers:** **LONG RUNS / RACE MORNING / THE FIRST 10K / ON THE COURSE**
+
+### Script v4 (260 words)
 
 **[ON SCREEN, held ~10s]**
 "Where marathon stomach problems actually start"
@@ -117,19 +155,19 @@ the more blood leaves the gut for the legs. That keeps the Thiel twist
 "Get it wrong and you lose minutes of the race you trained months for in a portaloo. Get it right and you run past every queue on the course."
 
 **[ONE. LONG RUNS. Save prompt]**
-"There are four places it starts, so save this. The first is your long runs, because your gut trains like your legs do. A couple of weeks of practising your race fuel on runs can cut stomach trouble by more than half, so race with exactly what you train with." ⚑4
+"There are four places it starts, so save this. The first is your long runs, because your gut trains like your legs do. A couple of weeks of practising your race fuel can cut stomach trouble by more than half." ⚑4
 
 **[TWO. RACE MORNING. Closes the hook's loop]**
 "On race morning, it is the coffee. For about three in ten people, coffee gets the bowel moving within minutes, and decaf does it too. Drink it early enough to use the toilet before the start." ⚑2
 
 **[THREE. THE FIRST 10K]**
-"In the first ten K, it is your pace. The harder you run, the more blood leaves your gut for your legs, so a fast start can be a fast way to an upset stomach. Run the first ten K at an effort you could still talk at." ⚑6
+"In the first ten K, it is your pace. The harder you run, the more blood leaves your gut for your legs. Hold an effort you could talk at, and take your first fuel at twenty minutes, while your gut still has the blood to deal with it." ⚑6
 
 **[REHOOK]**
-"And the last one happens with a gel in your hand."
+"And the last one is what you wash your gel down with."
 
 **[FOUR. ON THE COURSE]**
-"On the course, it is the gel without water. A gel on its own is too concentrated, so your gut pulls water in to dilute it, and that is the cramping. Take every gel with a few mouthfuls of water." ⚑5
+"On the course, it is the sports drink. A gel is already concentrated, sports drink on top makes it worse, and your gut pulls in water to dilute it, which is the sloshing and the cramping. Take every gel with plain water instead." ⚑5
 
 **[CTA, one sentence]**
 "Save this before race day, and the free race week guide and first go at the bar are in the bio."
@@ -205,6 +243,8 @@ the blue box under it, you in the bottom half.
 
 - **Instagram:** ERN post, Luke as collaborator. **TikTok:** ERN only.
 - **Caption, first line:** "Why runners get stomach problems in a
-  marathon, and where it really starts."
+  marathon, and where it really starts." Then the four stages, plus one
+  extra line: "Bonus: pick a fuel with two sugars, glucose and fructose.
+  They use different doors into your gut, so more gets through."
 - **Pinned comment (comments lever):** "Coffee before a marathon: yes or
   no? Free race week guide in the bio."
