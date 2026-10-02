@@ -289,35 +289,44 @@ knows, and it stays out: naming it risks reading as mockery.
 | One-sentence CTA, pre-launch | Yes |
 | Voice | No em dashes, no "not X, it is Y", no fragments |
 
-## Cover, exactly (Luke is not shooting one)
+## Cover, exactly: a real marathon portaloo queue (2 Oct)
 
-**The rule from the data:** one person with the problem (P93, P104).
-**The rule for this topic:** the photo has to say "stomach" in under a
-second. A runner bent over with hands on knees reads as "tired" or "the
-wall", which is a different video we have already made three times.
-Hands on the stomach is the only signal that is unmistakably this
-topic.
+Luke asked for a specific photo, not a generic stock one. Searched
+Wikimedia Commons, Flickr (Creative Commons) and Openverse; viewed the
+candidates.
 
-**Use this:** Pexels, Kindel Media, sportswear, outdoors, hands pressed
-on the stomach, no face, landscape 5184 x 2920, free for commercial use,
-no credit needed:
-https://www.pexels.com/photo/close-up-photo-of-woman-touching-her-abdomen-7298668/
+**USE: the portaloo queue at the 2011 Liverpool Marathon.** Runners in
+kit queueing along a long row of turquoise portaloos in Birkenhead
+Park. Real race, in colour, and it says "marathon stomach trouble" in
+under a second without anyone looking unwell.
 
-- **Crop:** torso and hands filling the photo box, so the hands on the
-  stomach are the first thing the eye lands on.
-- **Same image** on the platform cover and the first frame.
+- **Page:** https://commons.wikimedia.org/w/index.php?curid=18330978
+- **File:** https://upload.wikimedia.org/wikipedia/commons/1/1d/Portaloos_at_Birkenhead_Park%2C_2011_Liverpool_Marathon.jpg
+- **Licence:** CC BY 3.0, creator "Reptonix free Creative Commons
+  licensed photos". **Credit is required**: put "Cover photo:
+  Reptonix, CC BY 3.0, via Wikimedia Commons" at the bottom of the
+  caption.
+- **Size:** 800 x 600, enough for the photo box above your head, not
+  for a full-screen background.
+- **Crop:** the right two-thirds, where the queue meets the toilets, so
+  the portaloos fill the box.
 
-**Backup:** Unsplash, Edagar Antoni Ann, "a person bending over on a
-road", fitness context, free under the Unsplash License:
-https://unsplash.com/photos/a-person-bending-over-on-a-road-y-MzJdB8A9Q
-Use it only if the hands are on the stomach; if they are on the knees it
-reads as tiredness.
+**Why this over the "one person with the problem" rule (P104):** the
+two crowd covers that failed (start line, finish line) showed no
+problem. This shows the exact pain the hook names ("minutes ... lost in
+a portaloo queue"). It is a problem picture that happens to have people
+in it, and nobody in it is shown in a bad light.
 
-**Never:** a coffee cup, a pill, a gel packet (objects and food skipped
-32% to 43%), portaloos, a crowd, a finish line.
+**Alternative: the toilet queue at the 2015 Cardiff Half Marathon**,
+Jeremy Segrott ("Dai Lygad"), CC BY 2.0, credit required. Closer crop,
+fewer people, real race, but black and white and a half marathon.
+https://commons.wikimedia.org/wiki/File:Queues_and_anticipation-_Cardiff_Half_Marathon_(21972738235).jpg
 
-**Layout:** one photo, full width in the top third, the two-line OST in
-the blue box under it, you in the bottom half.
+**Not used:** the Pexels hands-on-stomach photo (generic, Luke's call),
+press photos of named runners (licence, and mockery risk).
+
+**What it tests:** the first cover that shows the problem's place
+rather than a person. The skip rate answers it.
 
 ## Posting
 
