@@ -70,6 +70,10 @@ twice without being checked against the winners (P99).
 
 ## 4. Hook stack (~15 to 18 seconds)
 
+- [ ] **Five separate pass/fail lines (P106):** gate / open loop (would
+      they think "I wonder what he means"?) / spoken to "you" / pain
+      twisted to the race outcome / dream as a picture they can see.
+
 - [ ] **Gate first words, unchanged:** "If you are running a marathon in
       the next few weeks". Never narrow it (P103). Most TikTok viewers leave at 0:02.
 - [ ] **The secret in the first sentence**, which is also **the share
@@ -125,6 +129,8 @@ twice without being checked against the winners (P99).
       "a hint".
 - [ ] **No "study", "research" or "researchers" in the audio** (P105).
       Say it like a coach; the source lives in the file.
+- [ ] **No medication advice of any kind** (P106). Food, fuel, pace,
+      kit and timing only.
 - [ ] **No claims attributed to named people that they did not make.**
 - [ ] **No personal claims** Luke has not made.
 - [ ] **No dated language in the audio** (P82).

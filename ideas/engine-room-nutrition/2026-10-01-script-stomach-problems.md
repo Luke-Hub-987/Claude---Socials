@@ -6,7 +6,7 @@ backup: 2026-10-01-script-last-week.md (kept, the safe clock title)
 basis: the wall video's ingredients, P94 (Thiel), P101, P103, P104,
   SCRIPT-CHECKLIST.md, reddit-running research (portaloos 94 mentions,
   GI ~29: the biggest pain point in the set, never covered)
-status: v2 FINAL, no study language (Luke, 1 Oct), audited (P99)
+status: v3 FINAL, hook stack rebuilt to HF13/HF14, painkiller stage dropped (2 Oct)
 ---
 
 # Where marathon stomach problems actually start
@@ -56,41 +56,74 @@ found the same with decaf, so it is the coffee, not the caffeine.
 
 ---
 
-## Script v2, no study language (258 words)
+## Script v3: hook stack rebuilt, painkiller out (2 Oct)
 
-**Luke's note (1 Oct): the best videos never said "in a study".** The
-data agrees:
+### The hook stack, audited against Briar (HF13, HF14)
 
-| Video | Research language in the audio | Views |
+| Ingredient | v2 | Verdict | v3 |
+|---|---|---|---|
+| **Gate** | "If you are running a marathon in the next few weeks" | Pass | Same |
+| **Open loop** ("I wonder what he means") | Named the coffee and the painkiller in sentence one, so the loop was spent | **Weak** | "...with **something most of us drink every morning**." The viewer has to stay to find out what |
+| **Speaks to "you"** | "stop **people** mid-race" | **Weak** | "stops **you** mid-race" |
+| **Pain twisted** (what it costs, at the top of what is plausible) | "queues, cramps and stops", generic | **Weak** | "**you lose minutes of the race you trained months for in a portaloo**": the race outcome at stake (P92) |
+| **Dream outcome** (the specific state they end up in) | "you never have to think about it", a non-state | **Weak** | "**you run past every queue on the course**": a picture |
+| Stack length ~15s / 40 to 55 words (HF14) | 64 words with a statistic | Long | ~55 words, the statistic cut (Ralston: one idea at a time) |
+| **The wall's twist** (the danger hides in what feels good) | "the two things you take to feel better" | Good, but gave away the loop | The loop now carries it |
+
+**The wall's stack for comparison:** gate, then "the wall at thirty K is
+set up in the first ten, while you feel brilliant" (a place you would
+not look), then "most people only find that out at thirty K with
+nothing left" (pain), then "the ones who know spend the last ten
+passing them" (dream). v3 has the same four moves.
+
+### The painkiller stage is out
+
+**Luke asked whether it put us in dangerous territory. It did, for
+three reasons**, even though the advice itself is mainstream (many race
+medical teams tell runners to avoid ibuprofen on race day):
+
+1. **It is medication advice from a food brand.** ERN is pre-launch;
+   telling people what not to take is outside its lane and the
+   brand's credibility, whatever the evidence.
+2. **It is the one line someone could screenshot and use against us**
+   if a runner with a doctor's instruction misread it.
+3. **Medical content is where platforms are strictest**, and a reach
+   penalty on a video built for reach is the wrong trade.
+
+**Replaced with THE FIRST 10K: it is your pace.** The harder you run,
+the more blood leaves the gut for the legs. That keeps the Thiel twist
+(the cause of a stomach problem is in your legs), stays in our lane
+(racing and fuelling), and every viewer passes through it.
+
+**Markers:** **LONG RUNS / RACE MORNING / THE FIRST 10K / ON THE COURSE**
+
+| Stage | Opens on the unexpected | What to do |
 |---|---|---|
-| Where the marathon wall actually starts | None. Facts said plainly ("about twenty thousand steps") | **135K** |
-| How to get out of the marathon wall | None | **37.6K** |
-| Last 24 hours | One ("in one study") | 9.1K at 7h |
-| Cramp | "Researchers tested..." | 9.5K at 10h |
-| Who hits the wall | Four million results, three "research" lines | **3.4K at 8h** |
+| Hook | It starts before the gun, with something you drink every morning | |
+| LONG RUNS | Your gut trains like your legs | Race with exactly what you train with |
+| RACE MORNING | It is the coffee, and decaf too | Early enough to use the toilet before the start |
+| THE FIRST 10K | It is your pace | An effort you could still talk at |
+| ON THE COURSE | It is the gel without water | Every gel with a few mouthfuls of water |
 
-**v2 says every fact the way a coach would**, in Luke's voice, with no
-"study", "researchers" or "research". The facts stay exactly as accurate
-and as hedged ("up to", "about", "can"), and the sources stay in this
-file, not in the audio.
+### Script v3 (266 words)
 
 **[ON SCREEN, held ~10s]**
 "Where marathon stomach problems actually start"
 
-**[HOOK. Gate unchanged, the secret, collision]**
-"If you are running a marathon in the next few weeks, the stomach problems that stop people mid-race often start before the gun, with the two things you take to feel better, a coffee and a painkiller." ⚑2 ⚑3
+**[HOOK. Gate, the secret, open loop]**
+"If you are running a marathon in the next few weeks, the stomach trouble that stops you mid-race often starts before the gun, with something most of us drink every morning." ⚑2
 
 **[PAIN TWISTED, DREAM OUTCOME]**
-"Up to half of endurance runners get stomach trouble, and on race day that means queues, cramps and stops. Fix it where it starts and you never have to think about it." ⚑1
+"Get it wrong and you lose minutes of the race you trained months for in a portaloo. Get it right and you run past every queue on the course."
 
 **[ONE. LONG RUNS. Save prompt]**
 "There are four places it starts, so save this. The first is your long runs, because your gut trains like your legs do. A couple of weeks of practising your race fuel on runs can cut stomach trouble by more than half, so race with exactly what you train with." ⚑4
 
-**[TWO. RACE MORNING]**
+**[TWO. RACE MORNING. Closes the hook's loop]**
 "On race morning, it is the coffee. For about three in ten people, coffee gets the bowel moving within minutes, and decaf does it too. Drink it early enough to use the toilet before the start." ⚑2
 
-**[THREE. THE START LINE]**
-"At the start line, it is the painkiller. Plenty of runners take ibuprofen for a niggle, and it adds to the damage hard exercise already does to your gut lining, so leave it out unless a doctor says otherwise." ⚑3
+**[THREE. THE FIRST 10K]**
+"In the first ten K, it is your pace. The harder you run, the more blood leaves your gut for your legs, so a fast start can be a fast way to an upset stomach. Run the first ten K at an effort you could still talk at." ⚑6
 
 **[REHOOK]**
 "And the last one happens with a gel in your hand."
@@ -109,7 +142,8 @@ file, not in the audio.
 |---|---|---|
 | 1 | A third to half of endurance athletes get stomach trouble | **de Oliveira, Burini and Jeukendrup, 2014, Sports Medicine**: "30 to 50%" of athletes |
 | 2 | About three in ten, within minutes, decaf too | **Brown, Cann and Read, 1990, Gut**: 29% said coffee brought on the urge; in responders colon activity rose within 4 minutes with regular **and decaffeinated** coffee, lasting at least 30 minutes |
-| 3 | Ibuprofen made exercise damage to the gut lining worse | **van Wijck et al., 2012, Med Sci Sports Exerc**: 9 trained men, 400 mg twice before cycling; increased small-bowel injury and permeability, reversible about an hour after. Authors: NSAID use by athletes "should be discouraged". "Unless a doctor says otherwise" stays |
+| 6 | The harder you run, the more blood leaves the gut | Gut blood flow falls as exercise intensity rises, by up to about 80% at high intensity (van Wijck et al., 2012, review in Am J Physiol Gastrointest Liver Physiol; de Oliveira et al., 2014 list intensity as a cause). "Can be a fast way to an upset stomach" is our wording, hedged |
+| 3 | *(dropped 2 Oct, medication advice)* Ibuprofen made exercise damage to the gut lining worse | **van Wijck et al., 2012, Med Sci Sports Exerc**: 9 trained men, 400 mg twice before cycling; increased small-bowel injury and permeability, reversible about an hour after. Authors: NSAID use by athletes "should be discouraged". "Unless a doctor says otherwise" stays |
 | 4 | Two weeks of practising fuel cut symptoms by more than half | **Costa et al., 2017** (Monash): two weeks of repetitive gut challenge reduced symptoms by about 60% |
 | 5 | A gel on its own is too concentrated; the gut pulls water in | Concentrated (hypertonic) carbohydrate draws water into the gut; consistent with the gels alternatives video. Isotonic gels exist, so "a gel on its own" is the typical case |
 

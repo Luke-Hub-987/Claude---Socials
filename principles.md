@@ -4143,6 +4143,25 @@ lives in the secret, the title and the cover, never in citations.
 
 *Source: Luke, 1 October.*
 
+## P106 — No medication advice, and audit the hook stack line by line
+
+Two catches from Luke on the stomach script, 2 October.
+
+1. **The painkiller stage went.** The advice (no ibuprofen on race day)
+   is mainstream, but ERN is a pre-launch food brand: medication
+   advice is outside its lane, is the line most likely to be
+   screenshotted against it, and is where platforms police hardest.
+   **ERN never tells people what medicine to take or avoid.** Food,
+   fuel, pace, kit and timing only.
+2. **The hook stack had drifted from Briar.** Sentence one gave the
+   answer away (no open loop), spoke about "people" instead of "you",
+   and the pain and dream were generic ("queues, cramps and stops",
+   "never think about it"). **Every stack is audited as five separate
+   pass/fail lines: gate, open loop, "you", pain twisted to the race
+   outcome, dream as a picture.** The wall's stack passes all five.
+
+*Source: Luke, 2 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
