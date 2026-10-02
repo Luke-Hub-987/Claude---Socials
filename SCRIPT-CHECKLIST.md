@@ -117,7 +117,8 @@ twice without being checked against the winners (P99).
 - [ ] **Pre-launch CTA only:** the free guide and first go at the bar.
 - [ ] **Time the finished cut before posting. Over 1:20, trim or
       re-record** (P100). Cramp: ~300 words ran 1:31.
-- [ ] **~250 spoken words** (P104). At Luke's delivery, ~190 words a
+- [ ] **~250 spoken words is the target, never at the cost of clarity**
+      (P104, P108). At Luke's delivery, ~190 words a
       minute, 300 words ran 1:35. The two wall
       videos: 302 words ran 1:17, 267 words ran 1:20. 1:40 and 1:49
       both cost watch time.
@@ -127,6 +128,9 @@ twice without being checked against the winners (P99).
 - [ ] **Every claim checked against the paper itself, not the abstract
       or a summary** (P99). Hedges kept: "in a lab", "most likely",
       "a hint".
+- [ ] **Clear beats short (P108).** Read every line as a stranger would:
+      understood literally, first time? No riddles, euphemisms,
+      coach-speak or images with two readings. Say each stage aloud.
 - [ ] **No statistics in the audio** (P107): no percentages or "how many
       people". Name the feeling they have had instead. Numbers only as
       instructions or a concrete picture.

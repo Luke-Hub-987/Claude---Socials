@@ -4178,6 +4178,23 @@ line read as "do not drink coffee" when the advice was timing.
 
 *Source: Luke, 2 October.*
 
+## P108 — Clear beats short
+
+Luke, on stomach v5: "Get this right and you run past every queue on
+the course" could be read three ways, "does its job" was a euphemism,
+and "effort you could talk at" was coach-speak. Most viewers will not
+ask what a line means; they decide the video is unclear and leave
+without engaging.
+
+**The rule:** every line has to be understood literally, first time,
+by someone who has never heard the idea. No riddles in the hook, no
+euphemisms, no coach-speak, no image that can be read two ways. Say the
+stage out loud ("The second is race morning"). **Clarity wins over the
+word count** (P104 is a target, not a reason to be vague); cut only
+words that add nothing to clarity.
+
+*Source: Luke, 2 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

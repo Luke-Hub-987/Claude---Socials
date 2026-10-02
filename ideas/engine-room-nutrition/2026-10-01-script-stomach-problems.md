@@ -6,7 +6,7 @@ backup: 2026-10-01-script-last-week.md (kept, the safe clock title)
 basis: the wall video's ingredients, P94 (Thiel), P101, P103, P104,
   SCRIPT-CHECKLIST.md, reddit-running research (portaloos 94 mentions,
   GI ~29: the biggest pain point in the set, never covered)
-status: v5 FINAL, no statistics, coffee as timing (Luke, 2 Oct)
+status: v6 FINAL, clarity first (Luke, 2 Oct)
 ---
 
 # Where marathon stomach problems actually start
@@ -105,7 +105,69 @@ the more blood leaves the gut for the legs. That keeps the Thiel twist
 | THE FIRST 10K | It is your pace | An effort you could talk at; first fuel at twenty minutes |
 | ON THE COURSE | It is the sports drink you wash the gel down with | Every gel with plain water instead |
 
-## v5: no statistics, coffee is about timing (Luke, 2 Oct)
+## v6: clarity first (Luke, 2 Oct)
+
+**Luke: be a lot clearer. Most people will not ask what a vague line
+means; they will just find it unclear and not engage. Clear beats
+short.**
+
+**Every vague line in v5, and its fix:**
+
+| v5 (vague) | Why it was unclear | v6 (clear) |
+|---|---|---|
+| "with the timing of something most of us drink every morning" | A riddle; they have to work it out | "and one of them is **when you have your morning coffee**" |
+| "You know the feeling, the sloshing, the cramp" | Fragments, no picture of where | "**your stomach sloshing, a cramp in your side, and minutes ... lost in a portaloo queue on the course**" |
+| "you run past every queue on the course" | Reads as if the queues are the problem, or the portaloos are on the course for everyone | "**you can run the whole race without having to stop**" |
+| "Your gut trains like your legs, so if your stomach turns on a long run, it has not practised enough" | "Practised" what? | "**it has not had enough practice taking in fuel while you run**", then "**the same gels and drink at the same times**" |
+| "so it does its job at home and not in the start pen" | A euphemism; some will not get it | "**Coffee gets your bowels moving** ... have it as soon as you get up. **That way you have been to the toilet at home, not in a queue at the start**" |
+| "Hold an effort you could talk at" | "Effort" is coach-speak | "**a pace where you could still hold a conversation**" |
+| "while your gut can still handle it" | Vague | "**before you feel you need it**" |
+| "it is the sports drink" | Sounds like "do not drink sports drink" | "**washing your gel down with sports drink**" ... "**have your sports drink in between gels**" |
+| Rehook: "what you wash your gel down with" | Fine | "**the one lots of runners get wrong at every water station**", which says where |
+
+**Stage labels are said out loud** ("The second is race morning"), so
+nobody loses their place.
+
+**The length cost, stated plainly:** 366 words, about 1:50 at Luke's
+pace. Past videos over 1:27 were watched 27% to 35% of the way, against
+41% to 46% under 1:22. Luke's call is that clear beats short, and an
+unclear video loses people anyway. Every word left is doing clarity
+work; deliver it briskly.
+
+**Markers:** **LONG RUNS / RACE MORNING / THE FIRST 10K / ON THE COURSE**
+
+### Script v6 (366 words)
+
+**[ON SCREEN, held ~10s]**
+"Where marathon stomach problems actually start"
+
+**[HOOK]**
+"If you are running a marathon in the next few weeks, the stomach problems that stop you in the middle of a race often start before you reach the start line, and one of them is when you have your morning coffee."
+
+**[PAIN TWISTED, DREAM OUTCOME]**
+"You know the feeling: your stomach sloshing, a cramp in your side, and minutes of the race you trained months for lost in a portaloo queue on the course. Get these four things right and you can run the whole race without having to stop."
+
+**[ONE. LONG RUNS. Save prompt]**
+"There are four places it starts, so save this. The first is your long runs. Your stomach needs training like your legs, so if it gets upset on long runs, it has not had enough practice taking in fuel while you run. On every long run you have left, have exactly what you will have on race day, the same gels and drink at the same times." ⚑4
+
+**[TWO. RACE MORNING]**
+"The second is race morning, and it is when you have your coffee. Coffee gets your bowels moving, so if you have one every morning, keep it, and have it as soon as you get up. That way you have been to the toilet at home, not in a queue at the start." ⚑2
+
+**[THREE. THE FIRST 10K]**
+"The third is the first ten K, and it is your pace. The harder you run, the more blood leaves your stomach for your legs, and the less it can digest. So run the first ten K at a pace where you could still hold a conversation, and take your first gel at twenty minutes, before you feel you need it." ⚑6
+
+**[REHOOK]**
+"And the fourth is the one lots of runners get wrong at every water station."
+
+**[FOUR. ON THE COURSE]**
+"On the course, it is washing your gel down with sports drink. A gel is already very concentrated sugar, and sports drink adds more, so your stomach pulls in water from the rest of your body to dilute it, and that is the sloshing. Take every gel with a few mouthfuls of plain water, and have your sports drink in between gels." ⚑5
+
+**[CTA, one sentence]**
+"Save this before race day, and the free race week guide and first go at the bar are in the bio."
+
+---
+
+## v5 (superseded by v6): no statistics, coffee is about timing
 
 **Luke's notes:** the 138K video was not statistic-heavy. Numbers like
 "three in ten" are numbing; people do not care, they have felt it, so
