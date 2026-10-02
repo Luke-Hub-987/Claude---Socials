@@ -4,7 +4,7 @@ brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-01
 basis: 2026-10-01-last-24-hours-review.md (P104), P103, P101, P92,
   SCRIPT-CHECKLIST.md
-status: BACKUP (Luke, 1 Oct). Lead is 2026-10-01-script-stomach-problems.md
+status: v2 LEAD (2 Oct), after the stomach review. Rewritten to P106, P107, P108, P109
 ---
 
 # What to do in the last week before a marathon
@@ -52,34 +52,68 @@ days out is normal.**
 
 ---
 
-## Script (~264 words, time the cut to 1:20 or under)
+## v2: rewritten to every rule since (2 Oct)
+
+**Why it leads now:** the 24 hours video grew to 26.9K and this is its
+exact shape one step earlier: one clock (race week), every viewer in
+every stage, the subject a race moment with fuel inside (P109).
+
+### Hook stack, five lines (P106)
+
+| Line | v1 | v2 |
+|---|---|---|
+| Gate | Pass | Same |
+| Open loop | "you should weigh more on race morning ... the week going right" | Same. They have to stay to find out why |
+| "You" | Pass | Pass |
+| Pain twisted to the race outcome | "you start flat" (vague) | "**you stand on the start line with heavy legs and half a tank after months of training**" |
+| Dream as a picture | "you start fresh with a full tank" | "**you start fresh, fully fuelled and ready to race**" |
+
+### Clarity pass (P108), no statistics (P107)
+
+| v1 | v2 |
+|---|---|
+| "Run about half your usual week" | "Run about **half your usual weekly distance**" |
+| "one short session at marathon pace" | "**one short run at your marathon pace so your legs remember it**" |
+| "Fewer miles at the same intensity is the mix that works best" (coach-speak) | "**Less running at the same speed is what leaves you fresh without going flat**" |
+| "do nothing about it. Skip the extra runs and do not test yourself" | "**Do not add extra runs, and do not go out to test yourself**" |
+| "everything you race in should already have done a long run with you" (poetic) | "**check that everything you will race in, your shoes, your kit and your gels, is something you have already used on a long run**" |
+| "Every gram of carb your muscles store holds about three grams of water" (a ratio) | "**Your muscles store carbs with water**, so a kilo or two more on the scales is your fuel going in, **and none of it is fat**" |
+| "Most of your plate becomes plain carbs" | "**Make most of every meal plain carbs** ... spread across the whole day with less fibre than usual" |
+
+**Markers:** **7 DAYS OUT / 5 DAYS OUT / 3 DAYS OUT / 2 DAYS OUT**,
+each said aloud.
+
+### Script v2 (311 words)
 
 **[ON SCREEN, held ~10s]**
 "What to do in the last week before a marathon"
 
-**[HOOK. Gate unchanged, the secret, collision]**
+**[HOOK]**
 "If you are running a marathon in the next few weeks, you should weigh more on race morning than you do a week before, and that is the week going right." ⚑3
 
 **[PAIN TWISTED, DREAM OUTCOME]**
-"Panic, cut the carbs or squeeze in one more hard run, and you start flat. Get the week right and you start fresh with a full tank."
+"Get race week wrong, by cutting your carbs, panicking about the scales or squeezing in one more hard run, and you stand on the start line with heavy legs and half a tank after months of training. Get it right and you start fresh, fully fuelled and ready to race."
 
 **[ONE. 7 DAYS OUT. Save prompt]**
-"Every stage of race week, so save this. Seven days out, cut the miles and keep the pace. Run about half your usual week, with one short session at marathon pace. Fewer miles at the same intensity is the mix that works best." ⚑1
+"Here is every stage of race week, so save this. Seven days out, cut the miles and keep the speed. Run about half your usual weekly distance, and keep one short run at your marathon pace so your legs remember it. Less running at the same speed is what leaves you fresh without going flat." ⚑1
 
 **[TWO. 5 DAYS OUT]**
-"Five days out, expect to feel awful. You get heavy legs, niggles you have never had, and a voice saying you have lost it. Lots of runners feel this in the taper, so do nothing about it. Skip the extra runs and do not test yourself." ⚑2
+"Five days out, expect to feel awful. Heavy legs, niggles you have never had before, and a voice telling you that you have lost your fitness are all normal in race week. The fix is to do nothing about it. Do not add extra runs, and do not go out to test yourself." ⚑2
 
 **[THREE. 3 DAYS OUT]**
-"Three days out, everything you race in should already have done a long run with you. That means the same shoes, kit and gels, and nothing new from here."
+"Three days out, check that everything you will race in, your shoes, your kit and your gels, is something you have already used on a long run. From here, use nothing new."
 
 **[REHOOK]**
 "And the last one is the one that scares people off the scales."
 
 **[FOUR. 2 DAYS OUT]**
-"Two days out, carb loading starts. Most of your plate becomes plain carbs, rice, pasta, bread, potatoes, spread through the day with less fibre. Every gram of carb your muscles store holds about three grams of water, so a kilo or two on the scales is your fuel going in." ⚑3 ⚑4
+"Two days out, the carb loading starts. Make most of every meal plain carbs, like rice, pasta, bread and potatoes, spread across the whole day with less fibre than usual. Your muscles store carbs with water, so a kilo or two more on the scales is your fuel going in, and none of it is fat." ⚑3 ⚑4
 
 **[CTA, one sentence]**
 "Save this for race week, and the free race week guide and first go at the bar are in the bio."
+
+**Length:** about 1:38 at Luke's pace. Clear beats short (P108), and
+every line is doing a job. Deliver it briskly.
 
 ---
 
@@ -115,14 +149,19 @@ everyone, anything about Luke.
 | One-sentence CTA, pre-launch | Yes; "race week guide" matches the topic exactly |
 | Voice | No em dashes, no "not X, it is Y", no fragments |
 
-## Cover (P104)
+## Cover (P93, P104, P109)
 
-**One person with the problem, full width. No crowd.** The problem this
-week is the panic: a runner stood on bathroom scales, shot from above,
-feet and trainers on the scales. It shows the hook's secret before a
-word is said. Your own photo is best (your feet, your trainers, your
-scales). Second choice: a runner sat on a sofa, head in hands, in
-running kit.
+**One person with the problem: feet on bathroom scales, seen from
+above.** It is the hook's secret (the weight going up) before a word is
+said, one person, the problem, not food, a product or a crowd. **One
+photo, no collage.**
+
+- **Use:** Pexels, Annushka Ahuja, "Top view of feet in socks standing
+  on a bathroom scale", free for commercial use, no credit needed:
+  https://www.pexels.com/photo/legs-in-socks-on-weight-7991911/
+- Check before using: if the scale shows a readable number, crop or
+  blur it so nobody reads a weight.
+- Same image for the cover and the first frame.
 
 ## Posting
 

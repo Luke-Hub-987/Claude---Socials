@@ -4195,6 +4195,23 @@ words that add nothing to clarity.
 
 *Source: Luke, 2 October.*
 
+## P109 — The gut is never the subject, however it is framed
+
+"Where marathon stomach problems actually start" took the wall's title
+shape, a Zero to One twist and four in-race actions, and still ran
+below the typical reel: save 2.3%, 0 comments, the lowest TikTok watch
+time on record. Every gut or fuel-subject video sits at 1.6K to 4.4K.
+Meanwhile the 24 hours video grew to 26.9K and cramp to 25K.
+
+**The rule:** the subject is always a race moment or a race problem the
+viewer feels in their legs or on the clock (the wall, cramp, the last
+24 hours, pace). Gut and fuel advice lives inside those videos. One
+clock per video: do not mix training-weeks stages with race-day stages.
+Use the cover that was checked; a collage of bent-over runners reads as
+tired.
+
+*Source: the stomach video at 6.5 hours and the lifetime grid, 2 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
