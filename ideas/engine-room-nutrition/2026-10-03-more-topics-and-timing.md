@@ -97,3 +97,11 @@ format and the mistakes framing.
   Dublin.
 - **Today:** "What to do in the last week before a marathon" and "What
   to do in the first 10 minutes of a marathon".
+
+## Update: last week video result (Luke)
+
+"What to do in the last week before a marathon" performed really well:
+lower skip rate and good watch time (screenshots to follow for the
+numbers). **Next to post: "What to do in the first 10 minutes of a
+marathon"** (`2026-10-03-script-first-10-minutes.md`, audited, cover
+checked). Then: How to run a marathon without hitting the wall.
