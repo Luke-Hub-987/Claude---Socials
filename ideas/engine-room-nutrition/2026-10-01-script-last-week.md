@@ -4,7 +4,7 @@ brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-01
 basis: 2026-10-01-last-24-hours-review.md (P104), P103, P101, P92,
   SCRIPT-CHECKLIST.md
-status: v2 FINAL, POST TODAY (3 Oct). Rewritten to P106-P111
+status: v3 FINAL, POST TODAY (3 Oct). Luke's race-week science added and checked
 ---
 
 # What to do in the last week before a marathon
@@ -52,7 +52,87 @@ days out is normal.**
 
 ---
 
-## v2: rewritten to every rule since (2 Oct)
+## v3: Luke's race-week science added (3 Oct)
+
+### Luke's science, checked
+
+**Kept, and where it went:**
+
+| Luke's point | In v3 |
+|---|---|
+| The fitness is built; this week cannot add any | 7 DAYS: "Nothing you run this week will make you fitter by race day, so its only job is to get you there fresh" |
+| Cut volume by about half, keep frequency, keep race pace | 7 DAYS: half the distance, the same number of runs (Bosquet 2007: frequency and intensity kept) |
+| A 25-minute run with 3 x 1K at marathon pace | 7 DAYS, word for word as the example: specific numbers people can copy (the goal pace lesson) |
+| Panic peaks; no long walks, no deep-tissue massage | 5 DAYS |
+| Nothing new: shoes, socks, kit, meals | 3 DAYS |
+| Go low fibre from about three days out | 3 DAYS: salads, raw veg, beans, wholegrains |
+| The pasta party the night before is too late; load over the last two days | 2 DAYS, the new Thiel line: "**the pasta party the night before is a day late**". Plus the clarity line: "If your race is on a Sunday, that means Friday and Saturday" |
+| Graze on plain carbs; electrolytes with them | 2 DAYS: white rice, pasta, bagels, pretzels, a pinch of salt (matches the 24 hours video) |
+| Glycogen holds about three times its weight in water | 2 DAYS, without the ratio (P107) |
+
+**Changed or cut:**
+
+1. **"Expands blood plasma by up to 8%", "1,000 calories churning",
+   grams per kilo in the audio: out of the audio (P107).** The grams go
+   in the **caption** (below), where people can read them at their own
+   pace.
+2. **"Sitting on the couch turns off your central nervous system":
+   cut**, same as in the 24 hours video. The script says it plainly:
+   the race-pace run "keeps your legs sharp".
+3. **"Tightness is stored elastic energy; massage destroys spring
+   tension": cut.** Tightness is not stored energy. The honest reason
+   to cancel the massage: deep tissue work "can leave your legs sore
+   for a day or two".
+4. **"Flush out cellular waste": cut**, a myth.
+5. **"Glycogen synthase transports glucose" and "guarantees your tank
+   is capped at 100%": cut**, jargon and an overclaim.
+6. **8 to 10 g per kg**: the sports nutrition guidance for the
+   loading days is around 10 to 12 g per kg, and 8 to 10 is a common
+   practical target. The caption gives the range honestly.
+
+**Caption, after the first line:** "Carb loading target: about 8 to 10 g
+of carbs per kg of body weight a day for the two days (560 to 700 g for
+a 70 kg runner); the sports guidelines go up to 12."
+
+### Script v3 (367 words, about 1:55; clarity first, P108)
+
+Markers unchanged: **7 DAYS OUT: CUT THE MILES / 5 DAYS OUT: DO NOTHING
+/ 3 DAYS OUT: NOTHING NEW / 2 DAYS OUT: CARB UP**
+
+**[ON SCREEN, held ~10s]**
+"What to do in the last week before a marathon"
+
+**[HOOK]**
+"If you are running a marathon in the next few weeks, you should weigh more on race morning than you do a week before, and that is the week going right."
+
+**[PAIN TWISTED, DREAM OUTCOME]**
+"Get race week wrong and you stand on the start line with heavy legs and half a tank after months of training. Get it right and you start fresh, fully fuelled and ready to race."
+
+**[ONE. 7 DAYS OUT. Save prompt]**
+"Here is every stage of race week, so save this. Seven days out, cut the miles and keep the speed. Nothing you run this week will make you fitter by race day, so its only job is to get you there fresh. Run about half your usual weekly distance, keep the same number of runs, and make one of them a twenty-five minute run with three one-kilometre stretches at your marathon pace. That keeps your legs sharp and barely touches your fuel."
+
+**[TWO. 5 DAYS OUT]**
+"Five days out, expect to feel awful, and do nothing about it. Heavy legs, new niggles and a voice saying you have lost your fitness are all normal this close to the race. Do not add extra runs, skip the long walks, and cancel any deep tissue massage, because it can leave your legs sore for a day or two."
+
+**[THREE. 3 DAYS OUT]**
+"Three days out, use nothing new, and start cutting the fibre. Race in the shoes, socks and kit you wore on your longest run, and eat only meals you know. Leave salads, raw veg, beans and wholegrains until after the race, so you need fewer toilet stops."
+
+**[REHOOK]**
+"And the last one is the one that scares people off the scales."
+
+**[FOUR. 2 DAYS OUT]**
+"Two days out, the carb loading starts, which makes the pasta party the night before a day late. If your race is on a Sunday, that means Friday and Saturday. Graze on plain carbs all day, like white rice, pasta, bagels and pretzels, with a pinch of salt in your water. Your muscles store carbs with water, so a kilo or two more on the scales is your fuel going in, and none of it is fat."
+
+**[CTA, one sentence]**
+"Save this for race week, and the free race week guide and first go at the bar are in the bio."
+
+**Length, honestly:** ~1:55 at Luke's pace, past the point where watch
+time drops. It is the price of the specific examples. If the cut runs
+over 2:00, the first line to drop is "keep the same number of runs".
+
+---
+
+## v2 (superseded by v3)
 
 **Why it leads now:** the 24 hours video grew to 26.9K and this is its
 exact shape one step earlier: one clock (race week), every viewer in
