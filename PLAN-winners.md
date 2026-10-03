@@ -69,3 +69,14 @@ The full `SCRIPT-CHECKLIST.md`, including the five-line hook stack
 (P106), no statistics or study language (P105, P107), clarity first
 (P108), and one checked cover: one photo, the problem, never a crowd
 with no problem in it, never a collage.
+
+
+## Update, 3 Oct: Briar's standards in the gate, and the full queue
+
+See `ideas/engine-room-nutrition/2026-10-03-more-topics-and-timing.md`.
+Every topic also passes Briar's P1 (TAM, unique valuable angle, money
+connection) and P38 (gate, loop, pain then benefit), with external
+signal from the Reddit research counts. **No video is held for a race
+date**: the audience's races run from 11 Oct to 1 Nov, nothing in the
+audio is dated, and videos compound for days, so post in queue order
+as soon as each is ready.
