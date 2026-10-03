@@ -140,3 +140,9 @@ competitor fuel brand.
 3. **Safe:** How to run a marathon without hitting the wall (queue).
 4. **Creative:** What to do when you want to quit a marathon.
 5. **Safe:** How to run the second half of a marathon faster than the first.
+
+
+## Update, 4 Oct
+
+Quit is scripted (`2026-10-04-script-quit.md`) and takes the "Getting
+Tougher" Mile 19 photo. **Enjoy needs a new cover** before 24 October.
