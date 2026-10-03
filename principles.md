@@ -4245,6 +4245,26 @@ P110 gate.**
 
 *Source: Luke, 2 October.*
 
+## P112 — The opening order: the unexpected line first, then the stack
+
+Luke, 4 October, on the quit script and the race week video before it:
+the line that makes people stop and think opens the video and is the
+curiosity loop; the hook stack follows it.
+
+**The order, every script:**
+1. **Gate plus the unexpected line, one sentence.** A paradox the
+   viewer has to resolve: "you should weigh more on race morning, and
+   that is the week going right"; "you are going to want to quit, and
+   that is your race going normally."
+2. **Pain twisted to the race outcome**, then **the dream as a
+   picture**.
+3. **A named concept if there is a true one** ("the pain cave"), then
+   the save prompt.
+4. **The stages.** The loop from line one is closed by them, never by
+   the next sentence.
+
+*Source: Luke, 4 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

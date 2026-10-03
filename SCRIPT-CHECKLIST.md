@@ -80,6 +80,10 @@ twice without being checked against the winners (P99).
 
 ## 4. Hook stack (~15 to 18 seconds)
 
+- [ ] **The order (P112):** gate plus an unexpected line the viewer has
+      to resolve, then pain, then dream, then a named concept if true,
+      then the save prompt. The stages close the loop.
+
 - [ ] **Five separate pass/fail lines (P106):** gate / open loop (would
       they think "I wonder what he means"?) / spoken to "you" / pain
       twisted to the race outcome / dream as a picture they can see.

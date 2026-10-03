@@ -4,7 +4,7 @@ brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-04
 slot: CREATIVE, Luke's pick
 basis: last week video (the hook stack Luke liked), out of the wall (40.8K), PLAN-winners gate, SCRIPT-CHECKLIST.md, P1-P111
-status: FINAL, audited line by line
+status: FINAL, LOCKED 4 Oct (Luke: unexpected opening as the curiosity loop, then the hook stack)
 ---
 
 # What to do when you want to quit a marathon
@@ -32,7 +32,7 @@ right**." The same move here:
 | Open loop, the reflection | Normal? Then what do I do? |
 | "You" | Throughout |
 | Pain, the race outcome | "walking the last ten K of the race you trained months for" |
-| Dream, a picture | "you run through it and all the way across the line" |
+| Dream, a picture | "you run through it and across the line" |
 
 ## The Zero to One secret
 
@@ -51,7 +51,7 @@ to**.
 "If you are running a marathon in the next few weeks, at some point you are going to want to quit, and that is your race going normally."
 
 **[PAIN TWISTED, DREAM OUTCOME]**
-"Treat it as a sign you are not tough enough and you end up walking the last ten K of the race you trained months for. Know it is coming, have a plan for it, and you run through it and all the way across the line."
+"Treat it as a sign you are not tough enough and you end up walking the last ten K of the race you trained months for. Know it is coming, have a plan for it, and you run through it and across the line."
 
 **[THE NAMED CONCEPT, then the save prompt]**
 "Ultrarunner Courtney Dauwalter calls it the pain cave, and she says it is the place she wants to get to, because that is where the work actually happens. There are four ways through it, so save this." ⚑1
