@@ -4,7 +4,7 @@ brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-01
 basis: 2026-10-01-last-24-hours-review.md (P104), P103, P101, P92,
   SCRIPT-CHECKLIST.md
-status: v2 LEAD (2 Oct), after the stomach review. Rewritten to P106, P107, P108, P109
+status: v2 FINAL, POST TODAY (3 Oct). Rewritten to P106-P111
 ---
 
 # What to do in the last week before a marathon
@@ -80,8 +80,14 @@ every stage, the subject a race moment with fuel inside (P109).
 | "Every gram of carb your muscles store holds about three grams of water" (a ratio) | "**Your muscles store carbs with water**, so a kilo or two more on the scales is your fuel going in, **and none of it is fat**" |
 | "Most of your plate becomes plain carbs" | "**Make most of every meal plain carbs** ... spread across the whole day with less fibre than usual" |
 
-**Markers:** **7 DAYS OUT / 5 DAYS OUT / 3 DAYS OUT / 2 DAYS OUT**,
-each said aloud.
+**Markers, distance plus a rule (P111, added 3 Oct):** **7 DAYS OUT:
+CUT THE MILES / 5 DAYS OUT: DO NOTHING / 3 DAYS OUT: NOTHING NEW / 2
+DAYS OUT: CARB UP**, each stage said aloud.
+
+**Briar P1 (added 3 Oct):** TAM, every marathoner in race week / unique
+angle, "you should weigh more" / money, carb loading leads to the bar
+and the free race week guide, the CTA's exact words. **External signal:**
+taper, 31 mentions in the Reddit research.
 
 ### Script v2 (311 words)
 
@@ -159,8 +165,9 @@ photo, no collage.**
 - **Use:** Pexels, Annushka Ahuja, "Top view of feet in socks standing
   on a bathroom scale", free for commercial use, no credit needed:
   https://www.pexels.com/photo/legs-in-socks-on-weight-7991911/
-- Check before using: if the scale shows a readable number, crop or
-  blur it so nobody reads a weight.
+- **Checked 3 Oct:** grey socks on an analogue bathroom scale, top-down,
+  dark floor. The dial is small and unreadable at cover size; crop to
+  the feet and the scale.
 - Same image for the cover and the first frame.
 
 ## Posting

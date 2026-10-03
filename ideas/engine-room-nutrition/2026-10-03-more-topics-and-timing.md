@@ -86,3 +86,14 @@ format and the mistakes framing.
 | 6 | Creative | 4 marathon morning mistakes that cost you minutes | format test |
 | 7 | Safe | What to do in the first 10 minutes of a marathon | 17 + 66 |
 | 8 | Safe | How to use your watch in a marathon | 66 |
+
+
+## Update, 3 Oct (Luke)
+
+- **"4 marathon morning mistakes"**: dropped, the 3 hours video already
+  covers race morning.
+- **"How to actually enjoy your marathon"**: held for the day before a
+  race, Luke's call. Suggested date: Friday 24 October, the day before
+  Dublin.
+- **Today:** "What to do in the last week before a marathon" and "What
+  to do in the first 10 minutes of a marathon".
