@@ -4,7 +4,7 @@ brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-04
 slot: CREATIVE, Luke's pick
 basis: last week video (31.4K at 14h, the opener Luke liked), out of the wall (40.8K), PLAN-winners gate, SCRIPT-CHECKLIST.md, P1-P113
-status: v2, FINAL 4 Oct. Nobody named (P113); opens on a surprising fact
+status: v3, FINAL 4 Oct. Nobody named (P113); opener rebuilt, no line with a second reading (P114)
 ---
 
 # What to do when you want to quit a marathon
@@ -22,10 +22,11 @@ LAMPPOST ONLY / 4. LOOK OUT
 - **The named ultrarunner is gone** (P113: a named person is a study
   by another name). "The pain cave" stays as what runners call it,
   attributed to nobody.
-- **Line one now carries a surprising fact with value in it:** the
-  fastest way through starts on your tongue, before you swallow. The
-  viewer cannot guess what that means, so they stay to find out, and
-  step two pays it off.
+- **v3, Luke: the v2 tongue/swallow opener read as sexual. Rebuilt**
+  (P114). Line one now carries unexpected value with one reading only:
+  **the fix is already in your pocket.** The viewer has to stay to find
+  out what, and step two pays it off. "Swallow" is out of the script
+  entirely.
 - **The paradox Luke liked moves to line two**, where it twists the
   pain: wanting to quit is the race going normally.
 
@@ -34,7 +35,7 @@ LAMPPOST ONLY / 4. LOOK OUT
 | Line | Job | Pass |
 |---|---|---|
 | "If you are running a marathon in the next few weeks," | **Gate** (P110) | Every marathoner racing soon |
-| "...one of the quickest ways through it starts on your tongue, before you even swallow." | **Surprising fact, open loop** | How can my tongue get me through? Closed at step two, about 35 seconds in |
+| "...and one of the best ways through it is already in your pocket." | **Unexpected value, open loop** | What is in my pocket? Closed at step two, about 35 seconds in |
 | "Wanting to quit is your race going normally." | **Unexpected reframe** | The same move as "that is the week going right" |
 | "...walking the last ten K of the race you trained months for." | **Pain, as the race outcome** | |
 | "Plan for it and you run through it and across the line." | **Dream, a picture** | |
@@ -45,9 +46,9 @@ LAMPPOST ONLY / 4. LOOK OUT
 
 Everyone treats the urge to quit as a test of character, so they grit
 their teeth or give in. The secret is that it is a normal, predictable
-part of the race, and one of the best answers is a few seconds of
-sugar on your tongue. Value in an unexpected place: the fix for a
-"mental" moment sits in your mouth and the gel already in your pocket.
+part of the race, and one of the best answers is something they are
+already carrying. Value in an unexpected place: the fix for a "mental"
+moment is the gel in their pocket.
 
 ## Script (about 300 words spoken, about 1:35; clarity first)
 
@@ -55,7 +56,7 @@ sugar on your tongue. Value in an unexpected place: the fix for a
 "What to do when you want to quit a marathon"
 
 **[HOOK, the surprising fact]**
-"If you are running a marathon in the next few weeks, at some point you are going to want to quit, and one of the quickest ways through it starts on your tongue, before you even swallow." ⚑1
+"If you are running a marathon in the next few weeks, at some point you are going to want to quit, and one of the best ways through it is already in your pocket." ⚑1
 
 **[THE REFRAME, PAIN, DREAM]**
 "Wanting to quit is your race going normally. Treat it as a sign you are not tough enough and you end up walking the last ten K of the race you trained months for. Plan for it and you run through it and across the line."
@@ -67,7 +68,7 @@ sugar on your tongue. Value in an unexpected place: the fix for a
 "The first is to ease off. Slow down by about fifteen seconds a K for a few minutes, which brings your breathing down and gives the feeling time to pass." ⚑2
 
 **[TWO. SWISH A GEL, the loop closes]**
-"The second is the one that starts on your tongue. The urge to stop often arrives as your fuel runs low, so take a gel with water and swish it round your mouth for a few seconds before you swallow. Your mouth can sense the sugar before your legs ever get it, and that alone can take the edge off." ⚑1
+"The second is the one in your pocket, your gel. The urge to stop often arrives as your fuel runs low, so take a gel with water and swish it round your mouth for a few seconds first. Your mouth can sense the sugar before your legs ever get it, and that alone can take the edge off." ⚑1
 
 **[THREE. NEXT LAMPPOST ONLY]**
 "The third is to make the finish line smaller. Forget the kilometres left and run to the next lamppost, sign or water station, and then pick the next one. Ten K to go is too big to say yes to, and one lamppost is easy." ⚑3
@@ -133,10 +134,11 @@ a coaching judgement, with no number attached.
 | P103: every viewer | Every marathoner meets it |
 | **P112 order** | Gate + surprising fact, then reframe, pain, dream, named concept, save, stages |
 | **P113: nobody named** | None |
-| Briar P1: TAM / unique angle / money | Every marathoner / the fix starts on your tongue / the gel, the guide |
+| Briar P1: TAM / unique angle / money | Every marathoner / the fix is already in your pocket / the gel, the guide |
 | Briar P6 funnel: external signal | Quit or DNF: 64 mentions in the Reddit research, second only to portaloos |
 | Briar: gate, loop, pain-benefit hooks | Gate line one; loop opened line one, closed step two; pain and dream line two |
-| P94, P87: secret and collision in sentence one | Quitting / your tongue |
+| P94, P87: secret and collision in sentence one | Quitting / your pocket |
+| **P114: every line read aloud for a second meaning** | Done; nothing about mouths, tongues or swallowing in the hook |
 | P111: named concept, named-rule markers | "The pain cave"; four rules |
 | P98: in-race action per stage, nothing to carry | The gel they already carry |
 | Consistency | 15 s/K, gel with water, swish match out of the wall |
@@ -159,6 +161,8 @@ ex_magician, **CC BY 2.0, credit required** ("Cover photo: ex_magician,
 CC BY 2.0"). One runner, back to camera, **walking** up a footbridge past
 the **MILE 19** banner: the exact moment the video is about.
 https://commons.wikimedia.org/wiki/File:Getting_Tougher_-_Along_The_Course_-_2011_Eugene_Marathon.jpg
+Full size (2412 x 2270), download: https://upload.wikimedia.org/wikipedia/commons/3/30/Getting_Tougher_-_Along_The_Course_-_2011_Eugene_Marathon.jpg
+Crop to 9:16 around the runner and the MILE 19 banner; title text in the top third.
 
 **Note:** this photo was earmarked for the enjoy video. It fits quit
 even better, and quit posts first, so it moves here. Enjoy gets a new

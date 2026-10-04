@@ -4279,9 +4279,28 @@ research-heavy videos (P105), and the best performers named nobody.
   it the pain cave" is fine; "X calls it the pain cave" is not.
 - **The surprise comes from the fact, never from who said it.** Open on
   a surprising fact or unexpected value the viewer must resolve ("one of
-  the quickest ways through it starts on your tongue, before you even
-  swallow"), then the stack (P112).
+  the best ways through it is already in your pocket"), then the stack
+  (P112).
 - Sources, where needed, live in the file, as with studies.
+
+*Source: Luke, 4 October.*
+
+## P114 — Read every line aloud for a second meaning
+
+Luke, 4 October, on quit v2: "it starts on your tongue, before you
+even swallow" sounds sexual. A hook is heard once, out of context, by
+a stranger scrolling; if a line can be heard two ways, some of them
+hear the wrong one, and it can't be unheard.
+
+**The rule:**
+- **Read every line aloud as a stranger before it ships**, the hook
+  above all. Any second reading, sexual or otherwise, and the line is
+  rewritten, never defended.
+- **Body words in the hook need care**: tongue, mouth, swallow, lick,
+  wet, hard, finish, ride, and their neighbours. In the steps, tied to
+  a gel or a drink, they can be fine; in a hook on their own, avoid.
+- **Unexpected value beats an odd image.** "The fix is already in your
+  pocket" makes them stay without making them wince.
 
 *Source: Luke, 4 October.*
 

@@ -159,6 +159,9 @@ twice without being checked against the winners (P99).
       only if it belongs to nobody ("runners call it the pain cave").
 - [ ] **Line one opens on a surprising fact or unexpected value**, never
       a statistic, a study or a person (P105, P107, P112, P113).
+- [ ] **Every line read aloud as a stranger for a second meaning**
+      (P114). Any double reading, sexual or otherwise, gets rewritten.
+      Hooks: no tongue, mouth, swallow or similar body words.
 - [ ] **No personal claims** Luke has not made.
 - [ ] **No dated language in the audio** (P82).
 - [ ] **No em dashes, no "not X, it is Y", no staccato fragments, no
