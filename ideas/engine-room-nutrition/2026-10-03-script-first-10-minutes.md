@@ -2,9 +2,9 @@
 type: video-script
 brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-03
-slot: post today, with "What to do in the last week before a marathon"
-basis: 2026-10-03-more-topics-and-timing.md, PLAN-winners gate, SCRIPT-CHECKLIST.md, P1-P111
-status: FINAL, audited line by line
+slot: SAFE, next after quit (5 Oct)
+basis: 2026-10-03-more-topics-and-timing.md, quit review (4 Oct), PLAN-winners gate, SCRIPT-CHECKLIST.md, P1-P114
+status: v2, FINAL 4 Oct. Trimmed to about 305 words; re-audited for P112-P114
 ---
 
 # What to do in the first 10 minutes of a marathon
@@ -24,7 +24,7 @@ and chasing it back can cost you your race.** Every runner's instinct
 is to make up the slow first K; the right move is to let it go. Second
 secret: your watch is least accurate exactly when you look at it most.
 
-## Script (332 words, about 1:45 at Luke's pace; clarity first, P108)
+## Script (about 305 words, about 1:35; clarity first, P108)
 
 **[ON SCREEN, held ~10s]**
 "What to do in the first 10 minutes of a marathon"
@@ -33,16 +33,16 @@ secret: your watch is least accurate exactly when you look at it most.
 "If you are running a marathon in the next few weeks, the time you lose in the crowd at the start costs you almost nothing, and chasing it back can cost you your race."
 
 **[PAIN TWISTED, DREAM OUTCOME]**
-"Weave through people and race your watch, and by thirty K you are paying for it, on legs that went too hard before the race had even settled. Get the first ten minutes right and you settle into your pace while the people around you burn theirs."
+"Weave through people and race your watch, and by thirty K you are paying for it. Get the first ten minutes right and you settle into your pace while the people around you burn theirs."
 
 **[ONE. THE MAT. Save prompt]**
 "Here are the four parts, so save this. The first is the start mat. Your time only starts when you cross it, even if the gun went minutes before, so start your watch as you step on the mat, with a reminder already set for your first gel at twenty minutes."
 
 **[TWO. FIRST K]**
-"The second is the first K, and the trick is to ignore your watch. Tall buildings throw the GPS off, so for the first few minutes the pace on your screen jumps around and can say you are miles too slow when you are bang on. Run at an effort where you could still hold a conversation, and let the watch settle." ⚑1
+"The second is the first K, and the trick is to ignore your watch. Tall buildings throw the GPS off, so for the first few minutes the pace on your screen jumps around and can be way off. Run at an effort where you could still hold a conversation, and let the watch settle." ⚑1
 
 **[THREE. THE CROWD]**
-"The third is the crowd. Your first K will be slower than your plan, and that is fine. Do not weave past people to win the time back, because every zigzag adds distance and burns energy you will need at thirty K. Tuck in behind someone running your pace and let the crowd thin out." ⚑2
+"The third is the crowd. Your first K will be slower than your plan, and that is fine. Do not weave past people to win the time back, because every zigzag adds distance and burns energy you need later. Tuck in behind someone running your pace and let the crowd thin out." ⚑2
 
 **[REHOOK]**
 "And the last one sets up the rest of your race."
@@ -82,11 +82,14 @@ secret: your watch is least accurate exactly when you look at it most.
 | Consistency | 5-10 s/K and twenty minutes match past videos |
 | P105, P107: no studies, no statistics | None |
 | P106: no medication | None |
-| P108: clarity | Each stage named aloud; "bang on", "zigzag", "tuck in" are plain speech |
+| P108: clarity | Each stage named aloud; "zigzag", "tuck in" are plain speech |
 | P101: fuel inside | The gel reminder, stages one and four |
 | Voice: no em dashes, no "not X, it is Y", no fragments | Scanned |
 | CTA: one sentence, pre-launch | Yes |
-| Length (P104 vs P108) | 332 words, ~1:45. Every line is doing clarity work; deliver briskly |
+| Length (P100, P104, P108) | About 305 words, ~1:35. Cut from v1's 332: quit and 7 days both lost two thirds of viewers by the end at 1:36 to 1:44 |
+| **P112 opening order** | Gate + the surprising fact in one sentence; pain, dream; save prompt where the stages start |
+| **P113 nobody named** | None |
+| **P114 second readings** | Every line read aloud; none |
 
 ## Cover (checked, P93, P104)
 
