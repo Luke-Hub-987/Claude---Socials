@@ -9,14 +9,15 @@ it produces.
 
 | # | Video | Views | Formula |
 |---|---|---|---|
-| 1 | Where the marathon wall actually starts | **142K** | **A. "Where [famous race problem] actually starts"**, race-clock stages (0-10K / 10-20K / 20-30K / 30K-FINISH), the cause sits earlier than the symptom |
+| 1 | Where the marathon wall actually starts | **147K** | **A. "Where [famous race problem] actually starts"**, race-clock stages (0-10K / 10-20K / 20-30K / 30K-FINISH), the cause sits earlier than the symptom |
 | 2 | How to get out of the marathon wall | **40.8K** | **C. "How to [fix/beat] the marathon wall"**, in-race steps on the wall |
-| 3 | What to do in the last 24 hours before a marathon | **26.9K** | **B. "What to do in the last [time] before a marathon"**, one clock every viewer lives through |
-| 4 | Where marathon cramp actually starts | **25K** | **A** on a problem felt in the legs |
-| 5 | How to know what marathon time you are in shape for | **24.8K** | **D. A race-pace decision**, phrased as the question people type |
-| 6 | What to do in the last 3 hours before your marathon | 20.9K | **B** |
-| 7 | How to pace the first half of a marathon | 17.5K | **D** |
-| 8 | What to do in the last 30 minutes before a marathon | 15.1K | **B** |
+| 3 | What to do 7 days before a marathon | **31.4K at 14h** | **B**, the paradox opener ("weigh more on race morning, and that is the week going right"); 802 saves, 43 follows |
+| 4 | What to do in the last 24 hours before a marathon | **30K** | **B. "What to do in the last [time] before a marathon"**, one clock every viewer lives through |
+| 5 | How to know what marathon time you are in shape for | **25.3K** | **D. A race-pace decision**, phrased as the question people type |
+| 6 | Where marathon cramp actually starts | **25K** | **A** on a problem felt in the legs |
+| 7 | What to do in the last 3 hours before your marathon | 20.9K | **B** |
+| 8 | How to pace the first half of a marathon | 17.5K | **D** |
+| 9 | What to do in the last 30 minutes before a marathon | 15.1K | **B** |
 
 **What never worked:** the gut or fuel as the subject (1.6K to 4.4K,
 stomach 4.1K), sorting viewers into groups (who hits, ~7.5K), training

@@ -3,8 +3,8 @@ type: video-script
 brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-04
 slot: CREATIVE, Luke's pick
-basis: last week video (the hook stack Luke liked), out of the wall (40.8K), PLAN-winners gate, SCRIPT-CHECKLIST.md, P1-P111
-status: FINAL, LOCKED 4 Oct (Luke: unexpected opening as the curiosity loop, then the hook stack)
+basis: last week video (31.4K at 14h, the opener Luke liked), out of the wall (40.8K), PLAN-winners gate, SCRIPT-CHECKLIST.md, P1-P113
+status: v2, FINAL 4 Oct. Nobody named (P113); opens on a surprising fact
 ---
 
 # What to do when you want to quit a marathon
@@ -17,59 +17,66 @@ status: FINAL, LOCKED 4 Oct (Luke: unexpected opening as the curiosity loop, the
 **Markers, named rules (P111):** 1. EASE OFF / 2. SWISH A GEL / 3. NEXT
 LAMPPOST ONLY / 4. LOOK OUT
 
-## The hook stack, built on the one Luke liked
+## What changed from v1 (Luke, 4 Oct)
 
-The last week video opened on a line that made people stop and think:
-"you should weigh more on race morning ... **and that is the week going
-right**." The same move here:
+- **The named ultrarunner is gone** (P113: a named person is a study
+  by another name). "The pain cave" stays as what runners call it,
+  attributed to nobody.
+- **Line one now carries a surprising fact with value in it:** the
+  fastest way through starts on your tongue, before you swallow. The
+  viewer cannot guess what that means, so they stay to find out, and
+  step two pays it off.
+- **The paradox Luke liked moves to line two**, where it twists the
+  pain: wanting to quit is the race going normally.
 
-> "you are going to want to quit, **and that is your race going
-> normally**."
+## The hook stack, line by line (P106, P112)
 
-| Line (P106) | Pass |
-|---|---|
-| Gate | "If you are running a marathon in the next few weeks," |
-| Open loop, the reflection | Normal? Then what do I do? |
-| "You" | Throughout |
-| Pain, the race outcome | "walking the last ten K of the race you trained months for" |
-| Dream, a picture | "you run through it and across the line" |
+| Line | Job | Pass |
+|---|---|---|
+| "If you are running a marathon in the next few weeks," | **Gate** (P110) | Every marathoner racing soon |
+| "...one of the quickest ways through it starts on your tongue, before you even swallow." | **Surprising fact, open loop** | How can my tongue get me through? Closed at step two, about 35 seconds in |
+| "Wanting to quit is your race going normally." | **Unexpected reframe** | The same move as "that is the week going right" |
+| "...walking the last ten K of the race you trained months for." | **Pain, as the race outcome** | |
+| "Plan for it and you run through it and across the line." | **Dream, a picture** | |
+| "Runners call this part the pain cave ... so save this." | **Named concept, save prompt** | Nobody attributed |
+| "You" | Throughout | |
 
 ## The Zero to One secret
 
-Everyone treats the urge to quit as a test of character. It is a
-predictable moment that arrives for almost every marathoner, so it gets
-planned for like a water station. And the best in the world go further:
-Courtney Dauwalter treats the pain cave as **the place she wants to get
-to**.
+Everyone treats the urge to quit as a test of character, so they grit
+their teeth or give in. The secret is that it is a normal, predictable
+part of the race, and one of the best answers is a few seconds of
+sugar on your tongue. Value in an unexpected place: the fix for a
+"mental" moment sits in your mouth and the gel already in your pocket.
 
-## Script (323 words, about 1:40; clarity first)
+## Script (about 300 words spoken, about 1:35; clarity first)
 
 **[ON SCREEN, held ~10s]**
 "What to do when you want to quit a marathon"
 
-**[HOOK]**
-"If you are running a marathon in the next few weeks, at some point you are going to want to quit, and that is your race going normally."
+**[HOOK, the surprising fact]**
+"If you are running a marathon in the next few weeks, at some point you are going to want to quit, and one of the quickest ways through it starts on your tongue, before you even swallow." ⚑1
 
-**[PAIN TWISTED, DREAM OUTCOME]**
-"Treat it as a sign you are not tough enough and you end up walking the last ten K of the race you trained months for. Know it is coming, have a plan for it, and you run through it and across the line."
+**[THE REFRAME, PAIN, DREAM]**
+"Wanting to quit is your race going normally. Treat it as a sign you are not tough enough and you end up walking the last ten K of the race you trained months for. Plan for it and you run through it and across the line."
 
-**[THE NAMED CONCEPT, then the save prompt]**
-"Ultrarunner Courtney Dauwalter calls it the pain cave, and she says it is the place she wants to get to, because that is where the work actually happens. There are four ways through it, so save this." ⚑1
+**[NAMED CONCEPT, SAVE PROMPT]**
+"Runners call this part the pain cave, and there are four ways through it, so save this."
 
 **[ONE. EASE OFF]**
-"The first is to ease off. Slow down by about fifteen seconds a K for a few minutes. Fighting the feeling head on tends to make it louder, and easing off brings your breathing down and gives the panic time to pass." ⚑2
+"The first is to ease off. Slow down by about fifteen seconds a K for a few minutes, which brings your breathing down and gives the feeling time to pass." ⚑2
 
-**[TWO. SWISH A GEL]**
-"The second is a gel, because the urge to stop often arrives as your fuel runs low. Take it with water and swish it round your mouth for a few seconds before you swallow, because your mouth can sense the sugar before your legs ever get it." ⚑3
+**[TWO. SWISH A GEL, the loop closes]**
+"The second is the one that starts on your tongue. The urge to stop often arrives as your fuel runs low, so take a gel with water and swish it round your mouth for a few seconds before you swallow. Your mouth can sense the sugar before your legs ever get it, and that alone can take the edge off." ⚑1
 
 **[THREE. NEXT LAMPPOST ONLY]**
-"The third is to make the finish line smaller. Forget the kilometres left and run to the next lamppost, sign or water station, and then pick the next one. Ten K to go is too big to say yes to, and one lamppost is easy." ⚑4
+"The third is to make the finish line smaller. Forget the kilometres left and run to the next lamppost, sign or water station, and then pick the next one. Ten K to go is too big to say yes to, and one lamppost is easy." ⚑3
 
 **[REHOOK]**
 "And the last one is what gets you to the line."
 
 **[FOUR. LOOK OUT]**
-"The fourth is to stop checking how bad you feel. The more you scan your legs, the worse they feel, so lock your eyes on a runner a few metres ahead and match their steps, or read the signs in the crowd." ⚑5
+"The fourth is to stop checking how bad you feel. The more you scan your legs, the worse they feel, so lock your eyes on a runner a few metres ahead and match their steps." ⚑4
 
 **[CTA, one sentence]**
 "Save this for the hard part of your race, and the free race week guide and first go at the bar are in the bio."
@@ -78,7 +85,7 @@ to**.
 
 **Kept:** slowing down briefly, the gel with a swish, shrinking the
 goal to the next landmark, looking outward instead of scanning the
-body, and the Dauwalter "pain cave".
+body, and "the pain cave" as what runners call it.
 
 **Changed or cut:**
 
@@ -90,10 +97,9 @@ body, and the Dauwalter "pain cave".
 2. **"Wanting to quit is not a character flaw, it is ..."**: the banned
    "not X, it is Y" construction. The hook carries the same idea as a
    positive: "that is your race going normally".
-3. **Dauwalter**: checked. She calls it the pain cave and has said it
-   became "the place I want to get to ... that's where the work
-   actually happens". The script paraphrases that and nothing more.
-   **"Elite athletes execute a physical reset protocol" is cut**: a
+3. **Dauwalter: removed in v2** (P113). The phrase "the pain cave" is
+   common runner slang and stays, attributed to nobody. **"Elite
+   athletes execute a physical reset protocol" is cut**: a
    generalisation nobody said.
 4. **"10 to 15 seconds a K for 2 to 3 minutes" became "about fifteen
    seconds a K for a few minutes"**, consistent with the out of the
@@ -110,34 +116,43 @@ body, and the Dauwalter "pain cave".
 
 | # | Claim | Basis |
 |---|---|---|
-| 1 | Dauwalter's pain cave | Her own public interviews (Run247, Daily Stoic) |
+| 1 | The mouth senses carbohydrate; a swish can take the edge off | Mouth-rinse research, already said this way in out of the wall; "can" |
 | 2 | Easing off briefly settles breathing | Practical; consistent with out of the wall |
-| 3 | Mouth senses carbohydrate | Mouth-rinse research, as in out of the wall; "can" |
-| 4 | Shrinking the goal | Luke's lamppost rule, as a technique (P96) |
-| 5 | Looking outward makes the effort feel smaller | Attention-focus research is mixed in detail; said as "the more you scan, the worse they feel", plain and hedged by experience |
+| 3 | Shrinking the goal | Luke's lamppost rule, as a technique (P96) |
+| 4 | Looking outward makes the effort feel smaller | Plain and hedged by experience: "the more you scan, the worse they feel" |
+
+"Quickest ways through" in line one is said of one of four ways and is
+a coaching judgement, with no number attached.
 
 ## Audit
 
 | Rule | Pass |
 |---|---|
 | **P110 gate**: sibling of a top-8 | Out of the wall's in-race sequence (40.8K) |
-| P109: race problem, not gut/fuel/training; one clock | The moment you want to quit, in order |
-| P103: every viewer | Almost every marathoner meets it |
-| Briar P1: TAM / unique angle / money | Every marathoner / "it is normal, plan it" / the gel, the guide |
+| P109: race problem, one clock | The moment you want to quit, in order |
+| P103: every viewer | Every marathoner meets it |
+| **P112 order** | Gate + surprising fact, then reframe, pain, dream, named concept, save, stages |
+| **P113: nobody named** | None |
+| Briar P1: TAM / unique angle / money | Every marathoner / the fix starts on your tongue / the gel, the guide |
 | Briar P6 funnel: external signal | Quit or DNF: 64 mentions in the Reddit research, second only to portaloos |
-| P92: marathon in line one; race outcome; search | Yes / finishing / "want to quit marathon" |
-| P94, P87: secret and collision in sentence one | Wanting to quit / the race going normally |
-| P111: named concept and named-rule markers | "The pain cave"; four rules |
-| P93: something to argue about | "Where did you want to quit?" |
-| P98: in-race action per stage, nothing to carry | Yes, the gel they already carry |
-| P103: new advice | Easing off to quiet the panic, looking outward: never posted |
-| Consistency | Pace drop, swish, gel with water match out of the wall |
+| Briar: gate, loop, pain-benefit hooks | Gate line one; loop opened line one, closed step two; pain and dream line two |
+| P94, P87: secret and collision in sentence one | Quitting / your tongue |
+| P111: named concept, named-rule markers | "The pain cave"; four rules |
+| P98: in-race action per stage, nothing to carry | The gel they already carry |
+| Consistency | 15 s/K, gel with water, swish match out of the wall |
 | P105, P107: no studies, no statistics | None |
 | P106: no medication | None |
 | P108: clarity | Each step named aloud ("The first is ...") |
+| P100: time the cut | About 300 words; time it, trim if over 1:40 |
 | Voice: no em dashes, no "not X, it is Y", no fragments | Scanned |
 
-## Cover (P93, P104, checked)
+## Cover (P93, P104, chosen on the data)
+
+**What the data says:** a person with the problem gives the lowest
+skip (wall, runner in trouble, 25.5%; that band ran 20.6% to 29.5%). A
+problem collage is the fallback (33.0%, and 34.3% on 7 days). A crowd
+alone is the worst (36.2% and 38.1%). So: one runner, mid-race,
+visibly in the moment the title names.
 
 **"Getting Tougher - Along The Course - 2011 Eugene Marathon"**,
 ex_magician, **CC BY 2.0, credit required** ("Cover photo: ex_magician,

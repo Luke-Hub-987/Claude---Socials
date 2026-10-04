@@ -154,7 +154,11 @@ twice without being checked against the winners (P99).
       Say it like a coach; the source lives in the file.
 - [ ] **No medication advice of any kind** (P106). Food, fuel, pace,
       kit and timing only.
-- [ ] **No claims attributed to named people that they did not make.**
+- [ ] **Nobody named in the audio or on screen** (P113): no athletes,
+      coaches, scientists, brands or creators. A named concept stays
+      only if it belongs to nobody ("runners call it the pain cave").
+- [ ] **Line one opens on a surprising fact or unexpected value**, never
+      a statistic, a study or a person (P105, P107, P112, P113).
 - [ ] **No personal claims** Luke has not made.
 - [ ] **No dated language in the audio** (P82).
 - [ ] **No em dashes, no "not X, it is Y", no staccato fragments, no

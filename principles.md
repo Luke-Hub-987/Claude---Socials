@@ -4265,6 +4265,26 @@ curiosity loop; the hook stack follows it.
 
 *Source: Luke, 4 October.*
 
+## P113 — Nobody named in the audio; a named person is a study by another name
+
+Luke, 4 October, on the quit script (v1 quoted an ultrarunner on "the
+pain cave"): naming people is the same as citing a study, so leave it
+out. It reads as borrowed authority, the same thing that hurt the
+research-heavy videos (P105), and the best performers named nobody.
+
+**The rule:**
+- **No named athletes, coaches, scientists, brands or creators in the
+  audio or on screen.** The advice stands on its own, said like a coach.
+- **A named concept can stay if it belongs to nobody**: "runners call
+  it the pain cave" is fine; "X calls it the pain cave" is not.
+- **The surprise comes from the fact, never from who said it.** Open on
+  a surprising fact or unexpected value the viewer must resolve ("one of
+  the quickest ways through it starts on your tongue, before you even
+  swallow"), then the stack (P112).
+- Sources, where needed, live in the file, as with studies.
+
+*Source: Luke, 4 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
