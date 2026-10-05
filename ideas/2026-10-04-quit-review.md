@@ -37,3 +37,17 @@ repost 0.1%, comment 0.1%.
 
 Safe slot, formula B on race day: **What to do in the first 10 minutes
 of a marathon** (scripted 3 Oct, trimmed to v2 for P112-P114 and length).
+
+## Update, ~14 hours (5 Oct, 7:58am, ERN side)
+
+13,956 views (13,565 IG + 391 FB), 10,801 viewers, **33s average** on
+1:36, 388 likes, 9 comments, 5 reposts, **280 saves**, **22 follows**
+(about 2.0 per 1,000 viewers, above 7 days' 1.6). Skip 34.4% (Lower),
+share 0.6% (Lower), **like 3.4% (Higher)**, save 2.5% (Lower), comment
+0.1% (Higher). Running well above the typical reel line.
+
+**Read:** the creative slot works. About 44% of 7 days' reach at the same
+age (31.5K at 14h), with the best follow rate per viewer we have. The
+clock formula still buys the most reach and saves; the feeling topic
+buys likes, comments and follows. Keep the one safe, one creative
+cadence (P111).
