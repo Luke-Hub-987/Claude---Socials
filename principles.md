@@ -4263,6 +4263,14 @@ curiosity loop; the hook stack follows it.
 4. **The stages.** The loop from line one is closed by them, never by
    the next sentence.
 
+**Amended 5 October (Luke, taper v2):** the hook must not contain the
+answer, and neither may the named concept line. "The trick is to run
+less at the same pace" in line one, then the whole rule in line three,
+gave the video away in fifteen seconds. Open the loop on a question the
+viewer can't answer yet ("it all comes down to what you cut"), close it
+a piece at a time in the stages, and hold the last piece for the final
+stage, reopened by the rehook.
+
 *Source: Luke, 4 October.*
 
 ## P113 — Nobody named in the audio; a named person is a study by another name

@@ -159,6 +159,12 @@ twice without being checked against the winners (P99).
       only if it belongs to nobody ("runners call it the pain cave").
 - [ ] **Line one opens on a surprising fact or unexpected value**, never
       a statistic, a study or a person (P105, P107, P112, P113).
+- [ ] **The hook never contains the answer** (P112). Read the first
+      three lines and ask: could a viewer leave now with the advice? If
+      yes, the loop is closed too early. Hold the answer for the
+      stages, and keep one piece back for the last stage, reopened by
+      the rehook. (Taper v2 said "the trick is to run less at the same
+      pace" in line one.)
 - [ ] **Every line read aloud as a stranger for a second meaning**
       (P114). Any double reading, sexual or otherwise, gets rewritten.
       Hooks: no tongue, mouth, swallow or similar body words.

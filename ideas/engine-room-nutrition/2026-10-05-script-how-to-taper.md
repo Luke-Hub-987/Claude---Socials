@@ -4,7 +4,7 @@ brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-05
 slot: SAFE, video 1 of 2 on the taper (video 2: what it feels like, 3 to 5 days later)
 basis: Luke's taper science (5 Oct), 7 days (31.4K), goal pace (25.3K), quit review, 2026-10-05-taper-ost-options.md, SCRIPT-CHECKLIST.md, P1-P114
-status: v2 FINAL 5 Oct (real numbers, worked example)
+status: v3 FINAL 5 Oct (hook stack rebuilt: the loop stays open until the stages close it)
 supersedes: 2026-10-05-script-3-weeks.md
 ---
 
@@ -16,7 +16,7 @@ supersedes: 2026-10-05-script-3-weeks.md
 > **for a marathon**
 
 **Markers, step plus the number plus a named rule (P111):**
-3 WEEKS OUT: 48K, DRESS REHEARSAL / 2 WEEKS OUT: 40K, SHORTER RUNS /
+3 WEEKS OUT: 48K, DRESS REHEARSAL / 2 WEEKS OUT: 40K, SAME PACE /
 RACE WEEK: 30K, STAY SHARP / ALL 3 WEEKS: KEEP EATING
 
 **v2, Luke 5 Oct:** real numbers and weekly distances, one worked
@@ -32,19 +32,24 @@ plus the rule for any other week size.
    the miles drop; these are the weeks the body repairs months of
    training.
 
-## Hook stack (P106, P112), and where people fall off
+## Hook stack (P106, P112), v3
 
-Half of viewers go in the first few seconds on every video (quit, 7
-days), so line one carries the gate, the surprise and the loop at once.
+**v2 broke P112** (Luke, 5 Oct): line one said "the trick is to run less
+at the same pace" and line three stated the whole rule, so the answer
+was given away in the first fifteen seconds and nothing was left to
+stay for. v3 opens the loop and lets the stages close it, a piece at a
+time, with the last piece held until the final stage.
 
-| Line | Job |
-|---|---|
-| "If you are running a marathon in the next few weeks," | **Gate** (P110) |
-| "...the next three weeks can still make you faster, and the trick is to run less at the same pace." | **Surprising fact + unexpected value + open loop** (how?) |
-| "Stop running and your legs can feel heavy and flat on race morning. Keep training hard and you carry months of tiredness to the start line." | **Pain, both ways the taper goes wrong** |
-| "Get it right and you start on legs that feel lighter than they have in months." | **Dream, a picture** |
-| "This is the taper, and the rule is simple ... so save this." | **Named concept + the rule + save prompt** |
-| "And the last one is the mistake that is easiest to make." | **Rehook** before the last stage, where the slide happens |
+| Line | Job | Loop |
+|---|---|---|
+| "If you are running a marathon in the next few weeks," | **Gate** | |
+| "...you can still get faster in the next three weeks, and it all comes down to what you cut." | **Surprising fact + unexpected value** | **Opened:** cut what? Miles, speed, runs, food? |
+| "Cut the wrong thing and you stand on the start line with heavy, flat legs after months of training." | **Pain, the race outcome** | Raised: what is the wrong thing? |
+| "Cut the right thing and you start on legs that feel lighter than they have in months." | **Dream, a picture** | Raised |
+| "This is the taper. Say your biggest week is sixty K ... Here is exactly what to cut, week by week, so save this." | **Named concept + the example + save prompt** | Still open |
+| Stages 1 to 3 | Cut the miles; same pace ("shorter, never slower"); same runs; then the rule in one line | **Closed piece by piece** |
+| "And the last one is the thing runners cut that they should not." | **Rehook** | **Reopened** for the final stage |
+| Stage 4 | Food | **Closed** |
 
 ## Script (about 330 words, about 1:45; clarity and numbers first, P108)
 
@@ -52,25 +57,25 @@ days), so line one carries the gate, the surprise and the loop at once.
 "How to taper for a marathon"
 
 **[HOOK]**
-"If you are running a marathon in the next few weeks, the next three weeks can still make you faster, and the trick is to run less at the same pace." ⚑1
+"If you are running a marathon in the next few weeks, you can still get faster in the next three weeks, and it all comes down to what you cut." ⚑1
 
 **[PAIN, DREAM]**
-"Stop running and your legs can feel heavy and flat on race morning. Keep training hard and you carry months of tiredness to the start line. Get it right and you start on legs that feel lighter than they have in months."
+"Cut the wrong thing and you stand on the start line with heavy, flat legs after months of training. Cut the right thing and you start on legs that feel lighter than they have in months."
 
-**[NAMED CONCEPT, THE RULE, THE EXAMPLE, SAVE PROMPT]**
-"This is the taper, and the rule is simple: cut the miles, keep the pace, and keep the same number of runs. Say your biggest week is sixty K over four runs. Here it is week by week, so save this." ⚑1
+**[NAMED CONCEPT, THE EXAMPLE, SAVE PROMPT: the loop stays open]**
+"This is the taper. Say your biggest week is sixty K over four runs. Here is exactly what to cut, week by week, so save this."
 
 **[1. 3 WEEKS OUT: 48K, DRESS REHEARSAL]**
 "Three weeks out, run about forty-eight K. Twenty-two of that is your last long run, as a dress rehearsal: five K easy, fifteen K at marathon pace and two K easy, in your race kit, after your race breakfast, with gels at your race day times. The rest is three easy runs of eight or nine K." ⚑2
 
-**[2. 2 WEEKS OUT: 40K, SHORTER RUNS]**
-"Two weeks out, about forty K. A sixteen K long run, two easy eights, and a thirty-five minute run with three one K stretches at marathon pace." ⚑3
+**[2. 2 WEEKS OUT: 40K, SAME PACE]**
+"Two weeks out, about forty K. A sixteen K long run, two easy eights, and a thirty-five minute run with three one K stretches at marathon pace. Your runs get shorter, and they never get slower." ⚑3
 
 **[3. RACE WEEK: 30K, STAY SHARP]**
-"Race week, about thirty K, still four runs. Two easy runs of ten K, a twenty-five minute run with three one K stretches at marathon pace, and two days out, twenty minutes easy with four fifteen-second pick-ups. If your biggest week is bigger or smaller, cut by the same amounts: a fifth, then a third, then half." ⚑4
+"Race week, about thirty K, still four runs. Two easy runs of ten K, a twenty-five minute run with three one K stretches at marathon pace, and two days out, twenty minutes easy with four fifteen-second pick-ups. That is the rule: cut the miles, keep the pace and keep the same number of runs. If your biggest week is bigger or smaller, cut by the same amounts: a fifth, then a third, then half." ⚑4 ⚑1
 
 **[REHOOK]**
-"And the last one is the mistake that is easiest to make."
+"And the last one is the thing runners cut that they should not."
 
 **[4. ALL 3 WEEKS: KEEP EATING]**
 "The fourth is food. When the miles drop, it feels natural to eat less, but your body is repairing months of training. Keep a carb like rice, pasta or potatoes and a protein like chicken, eggs or yoghurt in every meal, and save any diet for after the race." ⚑5
