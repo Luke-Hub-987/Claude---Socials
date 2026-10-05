@@ -4,7 +4,7 @@ brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-05
 slot: SAFE, Luke's pick (runners starting their taper are asking him about it)
 basis: 7 days video (31.4K at 14h), banked last 3 weeks brief (1 Oct), quit review, PLAN-winners gate, SCRIPT-CHECKLIST.md, P1-P114
-status: FINAL 5 Oct
+status: SUPERSEDED 5 Oct by 2026-10-05-script-how-to-taper.md (Luke: "taper" in the OST, split into two videos)
 ---
 
 # What to do 3 weeks before a marathon
