@@ -36,3 +36,17 @@ Clock stages beat everything else (the wall, 7 days), and steps
 named as rules come second (out of the wall, quit). Luke's four
 questions fit a clock:
 3 WEEKS OUT / 2 WEEKS OUT / 10 DAYS OUT / HOW IT FEELS
+
+## Decision, 5 Oct: split into two videos
+
+| | Video 1 (safe, today) | Video 2 (creative, 3 to 5 days later) |
+|---|---|---|
+| OST | How to taper / for a marathon | What a marathon taper / actually feels like (to confirm) |
+| Job | What to do: miles, intensity, long run, last session | What you feel and what to do about each: heavy legs, phantom niggles, restlessness, sleep, mood |
+| Buys | Saves (steps on a clock) | Likes, comments, follows (feeling topic, as quit) |
+| Timing | As runners start the taper | When the audience is feeling it |
+
+Why: one topic per video (P109) at about 300 words (P104, P108); both
+together would run past 2 minutes. Same-family videos stack (wall then
+out of the wall, P75). Safe then creative (P111). Video 2 must go past
+the 7 days video's "five days out, expect to feel awful" line (P103).
