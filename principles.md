@@ -4312,6 +4312,28 @@ hear the wrong one, and it can't be unheard.
 
 *Source: Luke, 4 October.*
 
+## P115 — Copyable: a universal number, one worked example, every term defined
+
+Luke, 5 October, on taper v2 and v3: still convoluted. Not everyone runs
+60K a week, so give the rule everyone can apply (a percentage of their
+own biggest week) and then one worked example with real paces ("three
+times one K at five thirty, two minutes easy jogging between"). He did
+not know what a "pick-up" was, so nobody else will. And "a carb like
+rice and a protein like chicken in every meal" read as a menu.
+
+**The rule:**
+- **Universal first, then one example.** The instruction works for any
+  viewer (a percentage of their own number, their own pace); the
+  example shows it once with real numbers they can copy today.
+- **Every session spelled out:** distance or time, pace, recoveries.
+- **Define every term, or drop it.** If Luke would have to ask what it
+  means, it goes ("pick-ups", "strides", "tempo", "threshold").
+- **Read food lines literally** (as P107, P108): say what you mean
+  ("the same meals and the same portions"), never a list that reads as
+  a prescription.
+
+*Source: Luke, 5 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

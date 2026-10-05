@@ -165,6 +165,11 @@ twice without being checked against the winners (P99).
       stages, and keep one piece back for the last stage, reopened by
       the rehook. (Taper v2 said "the trick is to run less at the same
       pace" in line one.)
+- [ ] **Copyable (P115):** a universal instruction (a percentage of
+      their own number, their own pace), then one worked example with
+      real numbers. Every session has distance or time, pace and
+      recoveries. No undefined terms ("pick-ups", "strides", "tempo").
+      Food lines read literally, never as a menu.
 - [ ] **Every line read aloud as a stranger for a second meaning**
       (P114). Any double reading, sexual or otherwise, gets rewritten.
       Hooks: no tongue, mouth, swallow or similar body words.
