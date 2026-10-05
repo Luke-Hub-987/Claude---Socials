@@ -4,7 +4,7 @@ brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-05
 slot: SAFE, video 1 of 2 on the taper (video 2: what it feels like, 3 to 5 days later)
 basis: Luke's taper science (5 Oct), 7 days (31.4K), goal pace (25.3K), quit review, 2026-10-05-taper-ost-options.md, SCRIPT-CHECKLIST.md, P1-P114
-status: FINAL 5 Oct
+status: v2 FINAL 5 Oct (real numbers, worked example)
 supersedes: 2026-10-05-script-3-weeks.md
 ---
 
@@ -15,9 +15,13 @@ supersedes: 2026-10-05-script-3-weeks.md
 > **How to taper**
 > **for a marathon**
 
-**Markers, step plus a named rule (P111):**
-3 WEEKS OUT: DRESS REHEARSAL / 2 WEEKS OUT: SHORTER, SAME PACE /
-RACE WEEK: HALF THE MILES / ALL 3 WEEKS: KEEP EATING
+**Markers, step plus the number plus a named rule (P111):**
+3 WEEKS OUT: 48K, DRESS REHEARSAL / 2 WEEKS OUT: 40K, SHORTER RUNS /
+RACE WEEK: 30K, STAY SHARP / ALL 3 WEEKS: KEEP EATING
+
+**v2, Luke 5 Oct:** real numbers and weekly distances, one worked
+example the viewer can copy today (a 60K biggest week over four runs),
+plus the rule for any other week size.
 
 ## The Zero to One secrets (unexpected value, usable today)
 
@@ -42,7 +46,7 @@ days), so line one carries the gate, the surprise and the loop at once.
 | "This is the taper, and the rule is simple ... so save this." | **Named concept + the rule + save prompt** |
 | "And the last one is the mistake that is easiest to make." | **Rehook** before the last stage, where the slide happens |
 
-## Script (about 300 words, about 1:35)
+## Script (about 330 words, about 1:45; clarity and numbers first, P108)
 
 **[ON SCREEN, held ~10s]**
 "How to taper for a marathon"
@@ -53,26 +57,40 @@ days), so line one carries the gate, the surprise and the loop at once.
 **[PAIN, DREAM]**
 "Stop running and your legs can feel heavy and flat on race morning. Keep training hard and you carry months of tiredness to the start line. Get it right and you start on legs that feel lighter than they have in months."
 
-**[NAMED CONCEPT, THE RULE, SAVE PROMPT]**
-"This is the taper, and the rule is simple: cut the miles, keep the pace, and keep the same number of runs. Here it is week by week, so save this." ⚑1
+**[NAMED CONCEPT, THE RULE, THE EXAMPLE, SAVE PROMPT]**
+"This is the taper, and the rule is simple: cut the miles, keep the pace, and keep the same number of runs. Say your biggest week is sixty K over four runs. Here it is week by week, so save this." ⚑1
 
-**[1. 3 WEEKS OUT: DRESS REHEARSAL]**
-"Three weeks out, cut about a fifth of your weekly distance, and make your last long run a dress rehearsal. Something like five K easy, fifteen at your marathon pace and two easy, in your race shoes and kit, after your race breakfast, with gels at your race day times." ⚑2
+**[1. 3 WEEKS OUT: 48K, DRESS REHEARSAL]**
+"Three weeks out, run about forty-eight K. Twenty-two of that is your last long run, as a dress rehearsal: five K easy, fifteen K at marathon pace and two K easy, in your race kit, after your race breakfast, with gels at your race day times. The rest is three easy runs of eight or nine K." ⚑2
 
-**[2. 2 WEEKS OUT: SHORTER, SAME PACE]**
-"Two weeks out, cut about a third. Run on the same days, make every run shorter, and keep one marathon pace session, like a thirty-five minute run with three one K stretches at marathon pace. That keeps your legs sharp while the tiredness drains away." ⚑3
+**[2. 2 WEEKS OUT: 40K, SHORTER RUNS]**
+"Two weeks out, about forty K. A sixteen K long run, two easy eights, and a thirty-five minute run with three one K stretches at marathon pace." ⚑3
 
-**[3. RACE WEEK: HALF THE MILES]**
-"Race week, run about half your usual distance, still on the same days, with a few short stretches at marathon pace to keep your legs used to it." ⚑4
+**[3. RACE WEEK: 30K, STAY SHARP]**
+"Race week, about thirty K, still four runs. Two easy runs of ten K, a twenty-five minute run with three one K stretches at marathon pace, and two days out, twenty minutes easy with four fifteen-second pick-ups. If your biggest week is bigger or smaller, cut by the same amounts: a fifth, then a third, then half." ⚑4
 
 **[REHOOK]**
 "And the last one is the mistake that is easiest to make."
 
 **[4. ALL 3 WEEKS: KEEP EATING]**
-"The fourth is food. When the miles drop, it feels natural to eat less, but your body is repairing months of training, and it needs carbs and protein to do it. Keep eating your normal meals the whole way through, and save any diet for after the race." ⚑5
+"The fourth is food. When the miles drop, it feels natural to eat less, but your body is repairing months of training. Keep a carb like rice, pasta or potatoes and a protein like chicken, eggs or yoghurt in every meal, and save any diet for after the race." ⚑5
 
 **[CTA, one sentence]**
 "Save this for the next three weeks, and the free race week guide and first go at the bar are in the bio."
+
+## The worked example (for the caption and the file)
+
+| Week | Distance | Runs (four a week) |
+|---|---|---|
+| Biggest week | 60K | Your plan |
+| 3 weeks out | ~48K (a fifth off) | 22K rehearsal (5 easy, 15 at marathon pace, 2 easy) + 3 easy runs of 8 to 9K |
+| 2 weeks out | ~40K (a third off) | 16K long run + 2 x 8K easy + 35 min with 3 x 1K at marathon pace |
+| Race week | ~30K (half), not counting the race | 2 x 10K easy + 25 min with 3 x 1K at marathon pace + 20 min easy with 4 x 15 s pick-ups (2 days out) |
+
+Race week matches the 7 days video (half the distance, the 25 minute
+run with three 1K stretches). The 15K at marathon pace is Luke's
+session; it is a big run three weeks out, and it is the one the
+rehearsal exists for.
 
 ## Luke's science, checked
 
@@ -140,7 +158,7 @@ completely can leave legs feeling flat.
 | P105, P107: no studies, no statistics | None; fractions are instructions |
 | P106: no medication | None |
 | P108: clarity | Each stage opens on its week |
-| P100: length | About 300 words; time the cut, trim over 1:40 |
+| P100 vs P108: length | About 330 words, ~1:45. Luke asked for real numbers; clarity wins (P108). Deliver briskly; if it runs past 1:50, cut the pain line's middle sentence first |
 | Voice | No em dashes, no "not X, it is Y", no fragments |
 
 ## Cover (checked)
@@ -154,6 +172,12 @@ https://live.staticflickr.com/5172/5499552620_fd18c7ab4e_b.jpg
 
 - **Instagram:** ERN post, Luke as collaborator. **TikTok:** ERN only.
 - **Caption, first line:** "How to taper for a marathon, week by week."
+  Then the worked example, one line per week:
+  "Biggest week 60K
+  3 weeks out: 48K. 22K rehearsal (5 easy, 15 at marathon pace, 2 easy) + 3 x 8-9K easy
+  2 weeks out: 40K. 16K long run + 2 x 8K easy + 35 min with 3 x 1K at marathon pace
+  Race week: 30K. 2 x 10K easy + 25 min with 3 x 1K at marathon pace + 20 min with 4 x 15 s pick-ups
+  Different week? Cut a fifth, then a third, then half."
   Last line: "Cover photo: Phil Roeder, CC BY 2.0".
 - **Pinned comment:** "Do you find it harder to run less or to eat the
   same? Free race week guide in the bio."
