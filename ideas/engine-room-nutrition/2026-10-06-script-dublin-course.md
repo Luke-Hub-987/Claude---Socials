@@ -57,7 +57,7 @@ place: the course itself tells you when to slow down and when to go.
 | "And the last two are where you take the time back." | **Rehook** | Reopened |
 | Stages 4 and 5 | Terenure, Roebuck then go | **Closed** |
 
-## Script (about 330 words, about 1:45)
+## Script (about 345 words, about 1:50; five sections, clarity first, P108)
 
 **[ON SCREEN, held ~10s]**
 "How to pace the Dublin Marathon, K by K"
@@ -84,7 +84,7 @@ place: the course itself tells you when to slow down and when to go.
 "And the last two are where you take the time back."
 
 **[4. 24-32K: TERENURE, TAKE IT BACK]**
-"From Walkinstown through Terenure to Milltown, the road runs mostly downhill. Run a few seconds a K under goal pace, about five twenty-seven, lean slightly forward from your ankles and let the road do the work." ⚑2
+"From Walkinstown through Terenure to Milltown, the road runs mostly downhill. Run a few seconds a K under goal pace, about five twenty-seven, and let the road do the work." ⚑2
 
 **[5. 35K TO THE LINE: ROEBUCK, THEN GO]**
 "At about thirty-five K comes Roebuck Hill. It is short, but it hits when your legs are most tired, so shorten your steps, pump your arms and let your pace drop to about five forty until the top. From there it is flat or downhill to the finish, so pick it up to about five twenty-five and start passing people." ⚑4
@@ -108,7 +108,7 @@ place: the course itself tells you when to slow down and when to go.
 **Kept:** equal effort pacing, the sections and landmarks, the pace
 offsets (rounded to one number per section), tucking in out of the
 wind, short quick steps downhill, gels on time on the Crumlin drag,
-leaning forward on the Terenure downhill, shortening steps and using
+shortening steps and using
 the arms on Roebuck, picking it up after the crest.
 
 **Changed or cut:**
