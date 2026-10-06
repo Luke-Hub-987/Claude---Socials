@@ -4334,6 +4334,29 @@ rice and a protein like chicken in every meal" read as a menu.
 
 *Source: Luke, 5 October.*
 
+## P116 — Line one needs something to picture; the cover is the viewer's race now
+
+Taper video, 6 October: skip 43.1%, the worst on record, while its save
+rate (3.2%) was our second best. The body worked; the first three
+seconds did not. Line one, "it all comes down to what you cut", opened
+a loop with nothing to see. The openers that held people gave a
+picture: "you should weigh more on race morning" (34.3%), "you are
+going to want to quit" (34.4%). The cover was a collage with a vintage
+black and white track photo, which reads as history, not your race.
+Luke, 6 Oct: capture this for every video.
+
+**The rule:**
+- **Line one carries a picture the viewer can see in their head** (a
+  scale, a watch screen, a K marker, a hill), plus the paradox. An
+  abstract loop ("what you cut", "the one thing") is not enough.
+- **Cover: one real photo of the viewer's race or moment, in colour,
+  in the present.** No vintage or black and white photos. A collage
+  only if both halves are the viewer's moment.
+- **Keep jargon out of the title** ("taper"); put the term in the
+  audio as the named concept.
+
+*Source: taper data and Luke, 6 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

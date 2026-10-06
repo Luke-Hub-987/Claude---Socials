@@ -159,6 +159,13 @@ twice without being checked against the winners (P99).
       only if it belongs to nobody ("runners call it the pain cave").
 - [ ] **Line one opens on a surprising fact or unexpected value**, never
       a statistic, a study or a person (P105, P107, P112, P113).
+- [ ] **Line one has something to picture** (P116): a scale, a watch
+      screen, a K marker, a hill. An abstract loop ("what you cut")
+      cost the taper video a 43.1% skip.
+- [ ] **Cover in colour, present day, the viewer's race** (P116). No
+      vintage or black and white; a collage only if both halves are the
+      viewer's moment.
+- [ ] **No jargon in the title** (P116); the term goes in the audio.
 - [ ] **The hook never contains the answer** (P112). Read the first
       three lines and ask: could a viewer leave now with the advice? If
       yes, the loop is closed too early. Hold the answer for the
