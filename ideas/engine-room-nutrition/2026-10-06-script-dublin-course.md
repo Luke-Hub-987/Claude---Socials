@@ -2,92 +2,86 @@
 type: video-script
 brand: ERN ONLY this time (no collab with Luke's personal account; Dublin stays off personal)
 generated_at: 2026-10-06
-slot: SAFE-ish (race-pace decision, formula D, on one course)
-basis: Luke's Dublin course notes (6 Oct), taper review (skip 43.1%), 7 days, quit, goal pace, first half, SCRIPT-CHECKLIST.md, P1-P116
-status: FINAL 6 Oct, pending one check: this year's official course map (see Before posting)
+slot: SAFE: formula A on Dublin (the 147K wall video's exact shape)
+basis: Luke's Dublin course notes (6 Oct), the wall video (147K), taper review (skip 43.1%), 7 days, quit, goal pace, first half, SCRIPT-CHECKLIST.md line by line, P1-P116
+status: v2 FINAL 6 Oct, pending one check: this year's official course map
 ---
 
-# How to pace the Dublin Marathon, K by K
+# Where your Dublin Marathon actually goes wrong
+
+## Why v1 was rebuilt (full checklist audit, Luke 6 Oct)
+
+| Checklist item | v1 | v2 |
+|---|---|---|
+| OST: the secret as a question, answer withheld (P94, P97, P80); Thiel test | **Failed.** "How to pace the Dublin Marathon, K by K" is a plain how-to: 36.2% to 43.1% skip on our data, against 25.5% for secret-as-question | "Where your Dublin Marathon actually goes wrong": the wall's formula (147K) |
+| Hook: secret and collision in sentence one, the share fact (P87, P94) | Half. The watch picture was there; the collision was not | "Roebuck Hill at thirty-five K is decided in the first eleven K" |
+| Four clear stages on one axis | **Failed.** Five sections | Four, on the race clock |
+| A rehook before the second half | Placed before the last two of five | Before the second half, exactly |
+| Length: ~250 target, over 1:40 cost watch time | **Failed.** ~345 words, ~1:50 | ~300 words, ~1:35 |
+| Picture in line one (P116) | Yes | Yes: Roebuck Hill, Phoenix Park |
+| Cover: one person or the course map (lowest skips: course map 20.6%, runner in trouble 25.5%) | Runners head-on, faces visible | Course map with the elevation profile first; the Roebuck photo as backup |
 
 ## OST
 
-> **How to pace the Dublin**
-> **Marathon, K by K**
+> **Where your Dublin Marathon**
+> **actually goes wrong**
 
-**Why:** "How to pace" is formula D, the race-pace decision (goal pace
-25.3K, first half 17.5K), and "Dublin Marathon" is the exact thing
-people search in the month before it. "K by K" promises steps with
-numbers, which is what gets saved (taper save rate 3.2%, P115). Plain
-words; no jargon in the title (taper review).
+Secret as a question, answer withheld (the first 11K, where it feels
+easy). "Marathon" in line one. Seven words, plain. "Your" makes it the
+viewer's race. The search phrase goes in the caption's first line
+("How to pace the Dublin Marathon, K by K").
 
-**Markers, distance plus a named rule (P111):**
-0-11K: PHOENIX PARK, 5 SEC SLOWER / 11-20K: KNOCKMAROON, SHORT QUICK
-STEPS / 21-24K: CRUMLIN, LET IT SLIP / 24-32K: TERENURE, TAKE IT BACK /
-35K TO THE LINE: ROEBUCK, THEN GO
-
-## Lessons applied from the last videos
-
-| Lesson | Source | Applied |
-|---|---|---|
-| **Line one needs a picture** | Taper: "it all comes down to what you cut" had nothing to see; skip 43.1%, worst on record | "Your watch should say you are behind at eleven K": a screen they can see |
-| A paradox they must resolve | 7 days (weigh more = going right), quit (going normally): skip 34% | "...and that is your race going to plan" |
-| Hook never contains the answer (P112) | Taper v2 | Where the time comes back is held until the rehook and the last two stages |
-| Plain title, no jargon | Taper title | "How to pace the Dublin Marathon" |
-| Universal rule + one worked example, real paces (P115) | Taper v4 saves 3.2% | Seconds per K for any goal, then 5:30 a K worked through |
-| Cover: one real race, the viewer's moment, no vintage, no collage | Taper collage with a black and white track photo | A real Dublin Marathon photo at Roebuck, 2014 |
-| No named people, studies, statistics, medication (P105-P107, P113) | | None |
+**Markers, distance plus a named rule (P111), four on the race clock:**
+0-11K: PHOENIX PARK, 5 SEC SLOWER / 11-21K: KNOCKMAROON, SHORT QUICK
+STEPS / 21-32K: SLIP, THEN TAKE IT BACK / 32K-FINISH: ROEBUCK, THEN GO
 
 ## The Zero to One secret
 
-Every runner tries to hold the same pace on every K. On Dublin that is
-the mistake: being behind at eleven K is the plan, and the time comes
-back on the downhill runners cruise through. Value in an unexpected
-place: the course itself tells you when to slow down and when to go.
+Every Dublin runner fears Roebuck Hill. The race is decided 24K
+earlier, in Phoenix Park, where it feels easiest: a gentle climb into
+the wind costs more than it feels like, and being up to a minute behind
+at 11K is the plan. The cause sits earlier than the symptom, as with
+the wall.
 
-## Hook stack
+## Hook stack: the five-line audit (P106), Briar, the picture
 
-| Line | Job | Loop |
+| Line | Job | Pass |
 |---|---|---|
-| "If you are running the Dublin Marathon," | **Gate** | |
-| "...your watch should say you are behind your goal pace at eleven K, and that is your race going to plan." | **Picture + paradox** | **Opened:** why behind? Where does it come back? |
-| "Try to run the same pace on every K and ... by Roebuck Hill at thirty-five K you have nothing left." | **Pain, a picture, the race outcome** | Raised |
-| "Run it by the course and you finish passing people all the way in." | **Dream, a picture** | Raised |
-| "Runners call it equal effort pacing, and Dublin is built for it ... so save this." | **Named concept + the example + save** | Still open |
-| Stages 1 to 3 | Slower, then the downhill, then slower again | Partly closed |
-| "And the last two are where you take the time back." | **Rehook** | Reopened |
-| Stages 4 and 5 | Terenure, Roebuck then go | **Closed** |
+| "If you are running the Dublin Marathon," | **Gate** | Narrowed on purpose: the topic is Dublin (the one exception to "gate unchanged", P103) |
+| "...Roebuck Hill at thirty-five K is decided in the first eleven K through Phoenix Park, while you feel brilliant." | **Secret + collision + picture + open loop** | The wall's line, on Dublin: 35K decided at 0-11K. Places every Dublin runner can see. Loop: how do I run the park? |
+| "Run the park at goal pace, uphill and into the wind, and you reach Roebuck with nothing left." | **Pain, twisted to the race outcome, with a picture** | Pass |
+| "Get the park right and you spend the last six K passing people." | **Dream, a picture** | Pass; it is what stage 4 delivers (P98) |
+| "Runners call it equal effort pacing ... so save this." | **Named concept + the example + save prompt** | Named, never explained in the hook: the loop stays open (P112) |
+| "And the second half is where you take the time back." | **Rehook**, a new loop before the second half | Pass |
 
-## Script (about 345 words, about 1:50; five sections, clarity first, P108)
+## Script (about 300 words, about 1:35)
 
 **[ON SCREEN, held ~10s]**
-"How to pace the Dublin Marathon, K by K"
+"Where your Dublin Marathon actually goes wrong"
 
 **[HOOK]**
-"If you are running the Dublin Marathon, your watch should say you are behind your goal pace at eleven K, and that is your race going to plan."
+"If you are running the Dublin Marathon, Roebuck Hill at thirty-five K is decided in the first eleven K through Phoenix Park, while you feel brilliant."
 
 **[PAIN, DREAM]**
-"Try to run the same pace on every K and the hills take it out of your legs, so by Roebuck Hill at thirty-five K you have nothing left. Run it by the course and you finish passing people all the way in."
+"Run the park at goal pace, uphill and into the wind, and you reach Roebuck with nothing left. Get the park right and you spend the last six K passing people."
 
 **[NAMED CONCEPT, THE EXAMPLE, SAVE PROMPT]**
-"Runners call it equal effort pacing, and Dublin is built for it. I will use a goal pace of five thirty a K. Here is the course, section by section, so save this." ⚑1
+"Runners call it equal effort pacing. With a goal pace of five thirty a K, here is every section and what to do in it, so save this." ⚑1
 
 **[1. 0-11K: PHOENIX PARK, 5 SEC SLOWER]**
-"From the start to Castleknock, you climb gently up through Phoenix Park, often into the wind. Run about five seconds a K slower than goal pace, so five thirty-five, and tuck in behind a group to get out of the wind. Up to a minute behind at eleven K is fine." ⚑2
+"From the start to Castleknock you climb gently, often into the wind, and it feels easy because you are fresh. Run five seconds a K slower, so five thirty-five, tucked in behind a group. Being up to a minute behind at eleven K is the plan." ⚑2
 
-**[2. 11-20K: KNOCKMAROON, SHORT QUICK STEPS]**
-"Then you drop down Knockmaroon Hill into Chapelizod. Use short, quick steps and let the hill carry you, because long strides down it hammer your thighs for later. Through Chapelizod and Inchicore, settle back on five thirty." ⚑3
-
-**[3. 21-24K: CRUMLIN, LET IT SLIP]**
-"Around halfway comes the drag up through Dolphin's Barn and Crumlin, uphill and exposed. Let your pace slip to about five thirty-eight, and keep taking your gels on time." ⚑2
+**[2. 11-21K: KNOCKMAROON, SHORT QUICK STEPS]**
+"Then you drop down Knockmaroon Hill. Use short, quick steps, because long strides downhill leave your thighs sore for Roebuck, then settle on five thirty through Chapelizod and Inchicore." ⚑3
 
 **[REHOOK]**
-"And the last two are where you take the time back."
+"And the second half is where you take the time back."
 
-**[4. 24-32K: TERENURE, TAKE IT BACK]**
-"From Walkinstown through Terenure to Milltown, the road runs mostly downhill. Run a few seconds a K under goal pace, about five twenty-seven, and let the road do the work." ⚑2
+**[3. 21-32K: SLIP, THEN TAKE IT BACK]**
+"Around halfway, the road drags uphill through Crumlin. Let your pace slip to about five thirty-eight and keep taking your gels on time. From Walkinstown through Terenure to Milltown it runs mostly downhill, so run about five twenty-seven and let it carry you." ⚑2
 
-**[5. 35K TO THE LINE: ROEBUCK, THEN GO]**
-"At about thirty-five K comes Roebuck Hill. It is short, but it hits when your legs are most tired, so shorten your steps, pump your arms and let your pace drop to about five forty until the top. From there it is flat or downhill to the finish, so pick it up to about five twenty-five and start passing people." ⚑4
+**[4. 32K-FINISH: ROEBUCK, THEN GO]**
+"At thirty-five K comes Roebuck Hill. It is short, but it comes when your legs are most tired, so shorten your steps, drive your arms and let your pace drop to about five forty until the top. From there it is flat or downhill to the finish, so pick it up to about five twenty-five and start passing people." ⚑4
 
 **[CTA, one sentence]**
 "Save this for Dublin, and the free race week guide and first go at the bar are in the bio."
@@ -97,8 +91,8 @@ place: the course itself tells you when to slow down and when to go.
 | Section | Rule | For 5:30 a K goal pace |
 |---|---|---|
 | 0-11K, Phoenix Park | goal + 5 s/K | 5:35 |
-| 11-20K, Knockmaroon, Chapelizod, Inchicore | goal pace; short quick steps downhill | 5:30 |
-| 21-24K, Dolphin's Barn, Crumlin | goal + about 8 s/K | 5:38 |
+| 11-21K, Knockmaroon, Chapelizod, Inchicore | goal pace; short quick steps downhill | 5:30 |
+| 21-24K, Crumlin | goal + about 8 s/K | 5:38 |
 | 24-32K, Walkinstown, Terenure, Milltown | goal - 3 s/K | 5:27 |
 | ~35K, Roebuck Hill | goal + 10 s/K to the top | 5:40 |
 | Roebuck to the finish | goal - 5 s/K | 5:25 |
@@ -142,48 +136,79 @@ the arms on Roebuck, picking it up after the crest.
 | 3 | Downhill: short quick steps protect the thighs | Downhill running loads the thighs heavily; consistent with past "shorter steps" advice |
 | 4 | Roebuck at about 35K | Luke's notes; Flickr photo tagged Roebuck, Dublin Marathon 2014 |
 
-## Audit
+## Full checklist audit (SCRIPT-CHECKLIST.md, every line)
 
-| Rule | Pass |
-|---|---|
-| **P110 gate** | Goal pace (25.3K) and first half (17.5K): the race-pace decision |
-| P103: every viewer | **Honest risk: Dublin runners only**, a narrower audience than any video so far. Offset: the search, an Irish-heavy following, and a race three weeks away |
-| P112 order, loop open | Yes; the time-back answer held for the last two stages |
-| P113, P114 | Nobody named (places only); read aloud, no second readings |
-| P115 copyable | Seconds per K rule, 5:30 worked through, every term plain |
-| **P116 picture in line one** | The watch showing behind at 11K |
-| Briar P1 | Dublin runners / behind at 11K is the plan / gels on the Crumlin drag, the guide |
-| Briar P6 | Search for the course in October; Luke's own race (not mentioned anywhere) |
-| P98 action every stage | Yes |
-| Consistency | 5 s/K slower early matches first half and first 10 minutes; gels on time; shorter steps on climbs (quit) |
-| P105, P107, P106 | No studies, no statistics, no medication |
-| P82 no dated audio | No "this month" or year |
-| Voice | No em dashes, no "not X, it is Y", no fragments |
+| Section | Item | Pass |
+|---|---|---|
+| 1 Topic | P110 gate: sibling of a top-8 | The wall (147K): same formula, same cause-before-symptom on the race clock |
+| | "Marathon" in OST line one | Yes |
+| | Race outcome at stake | Reaching Roebuck with nothing left / passing people |
+| | Race day | Yes |
+| | A race moment the viewer will live through | Roebuck, the park, the downhill |
+| | Ride the asset | The wall's formula; Roebuck is Dublin's own famous fear |
+| | Race is the title, fuel inside, gut never the subject | Gels on time, stage 3 |
+| | One clock | The race, 0K to the finish |
+| | "My mother" test | Passes for Dublin; **honest risk: Dublin runners only** (TAM), offset by the October search and an Irish-heavy following |
+| 2 OST | Thiel test: cause somewhere harmless | The easy-feeling first 11K |
+| | Secret as a question, answer withheld | Yes |
+| | Reads as the thing someone would type | Partly; the search phrase leads the caption |
+| | Never answers itself | Yes |
+| | Two lines, six to nine words | Seven |
+| | Only title and markers on screen | Yes |
+| 3 Cover | Viewer's problem or place; one person or the course map; same as first frame; one photo; licensed and credited | Course map + elevation profile (best skip on record for a map, 20.6%); Roebuck race photo as backup, see Cover |
+| 4 Hook | P112 order | Gate + secret, pain, dream, named concept, save |
+| | Five lines (P106) | All pass, table above |
+| | Gate first words unchanged | **Exception**: "If you are running the Dublin Marathon". Unavoidable on a course video |
+| | Secret in sentence one = share fact; collision | "Roebuck at 35K is decided in the first 11K" |
+| | Pain then dream; dream = what the stages deliver | Yes |
+| | P116 picture in line one | Roebuck Hill, Phoenix Park |
+| | Hook never contains the answer (P112) | The what-to-do is held for the stages; time-back held for the second half |
+| 5 Body | Every viewer, every stage | Every Dublin runner runs every section |
+| | New action | Course-specific pacing: never posted |
+| | Four stages, one axis, what is happening then what to do | Yes |
+| | "Save this" where the stages start | Yes |
+| | Each stage opens on the unexpected, ends on an action | Feels easy / charging down / slip then take back / Roebuck then go |
+| | Nothing extra to carry or buy | Yes |
+| | A mechanism in each instruction (P81) | Climb and wind cost more than they feel; long strides sore thighs; uphill vs downhill; most tired legs |
+| | Specific numbers, worked example (P115) | Seconds per K, 5:30 worked through |
+| | Rehook before the second half | Yes |
+| | OST answered | Where it goes wrong: the park |
+| | Consistent with earlier videos | 5 s/K slower early (first half, first 10 minutes); gels on time; shorter steps on climbs (quit) |
+| 6 Ending | One-sentence CTA, pre-launch | Yes |
+| | Length | ~300 words, ~1:35. Over the 1:20 line the checklist sets; clarity first (P108). Time the cut; trim over 1:40 |
+| 7 Truth and voice | Claims checked; clear beats short; no statistics; no study language; no medication; nobody named; no personal claims; no dated audio; no em dashes, "not X, it is Y", fragments, mockery | Yes. "While you feel brilliant" is the feeling, no number. Places only, no people |
+| | P114 second readings | Read aloud; none |
+| 8 Posting | ERN, collab | **ERN only, no collab** (Dublin stays off personal) |
 
-## Cover (checked)
+## Cover (by the data)
 
-**"IMG_4503", bgormley, CC BY 2.0, credit required.** Dublin Marathon,
-27 October 2014, tagged Roebuck: runners mid-race on the 35K stretch,
-a long road ahead, real Dublin streets. Crop to the middle of the road
-and the runners heading away up it; crop out the runner on the right
-edge (face visible).
-https://www.flickr.com/photos/27789490@N00/15620841456
-Download: https://live.staticflickr.com/3936/15620841456_c9d5ec61a8_b.jpg
+**First choice: the Dublin course map with its elevation profile.** A
+course map holds our lowest skip ever (20.6%, the 42K tangents video),
+and the elevation line shows Roebuck and the Phoenix Park climb: the
+picture of the whole video. Build it yourself so it is free to use:
+draw the route on plotaroute.com or the Strava route builder, then
+screenshot the map with the elevation profile under it. Keep the map
+attribution visible ("© OpenStreetMap contributors") and add it to the
+caption. Do not screenshot the official race map (copyright).
 
-Rejected: Knockmaroon Hill (briantf, CC BY 2.0), the right hill but too
-dark and no runner; every other CC Dublin Marathon photo shows faces
-and name bibs head on.
+**Backup: "IMG_4503", bgormley, CC BY 2.0.** Dublin Marathon, 27 October
+2014, tagged Roebuck: runners on the road at the 35K stretch. Crop
+close on two or three runners mid-road; crop out the runner on the
+right edge (face visible). Credit: "Cover photo: bgormley, CC BY 2.0".
+https://live.staticflickr.com/3936/15620841456_c9d5ec61a8_b.jpg
+
+One image, full width, no collage, colour (P116).
 
 ## Before posting
 
 - **Check every landmark and K against this year's official course map
-  and elevation profile.** The script follows Luke's notes; if a
-  section has moved, change the K, never the rule.
+  and elevation profile.** If a section has moved, change the K, never
+  the rule.
 - **Post on ERN only, without the collab.** Standing rule: no Dublin
-  content on the personal account. A collab puts it on Luke's grid.
+  content on the personal account.
 - **Caption, first line:** "How to pace the Dublin Marathon, K by K."
-  Then the table above, one line per section. Last line: "Cover photo:
-  bgormley, CC BY 2.0".
+  Then the table above, one line per section. Last line: the map or
+  photo credit.
 - **Pinned comment:** "Which part of the Dublin course worries you
   most? Free race week guide in the bio."
 - **TikTok:** ERN only.
