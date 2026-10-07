@@ -4,16 +4,16 @@ brand: ERN ONLY this time (no collab with Luke's personal account; Dublin stays 
 generated_at: 2026-10-06
 slot: SAFE: formula A on Dublin (the 147K wall video's exact shape)
 basis: Luke's Dublin course notes (6 Oct), the wall video (147K), taper review (skip 43.1%), 7 days, quit, goal pace, first half, SCRIPT-CHECKLIST.md line by line, P1-P116
-status: v2 FINAL 6 Oct, pending one check: this year's official course map
+status: v3 FINAL 7 Oct (OST rides the wall asset), pending one check: this year's official course map
 ---
 
-# Where your Dublin Marathon actually goes wrong
+# Where the Dublin Marathon wall actually starts
 
 ## Why v1 was rebuilt (full checklist audit, Luke 6 Oct)
 
 | Checklist item | v1 | v2 |
 |---|---|---|
-| OST: the secret as a question, answer withheld (P94, P97, P80); Thiel test | **Failed.** "How to pace the Dublin Marathon, K by K" is a plain how-to: 36.2% to 43.1% skip on our data, against 25.5% for secret-as-question | "Where your Dublin Marathon actually goes wrong": the wall's formula (147K) |
+| OST: the secret as a question, answer withheld (P94, P97, P80); Thiel test | **Failed.** "How to pace the Dublin Marathon, K by K" is a plain how-to: 36.2% to 43.1% skip on our data, against 25.5% for secret-as-question | v3: "Where the Dublin Marathon wall actually starts": the 147K title on Dublin |
 | Hook: secret and collision in sentence one, the share fact (P87, P94) | Half. The watch picture was there; the collision was not | "Roebuck Hill at thirty-five K is decided in the first eleven K" |
 | Four clear stages on one axis | **Failed.** Five sections | Four, on the race clock |
 | A rehook before the second half | Placed before the last two of five | Before the second half, exactly |
@@ -23,12 +23,17 @@ status: v2 FINAL 6 Oct, pending one check: this year's official course map
 
 ## OST
 
-> **Where your Dublin Marathon**
-> **actually goes wrong**
+> **Where the Dublin Marathon**
+> **wall actually starts**
 
+**v3, 7 Oct.** v2's "Where the Dublin Marathon wall actually starts"
+had the right shape but no asset and nothing to picture: "goes wrong"
+is abstract (P116). This is the 147K title word for word with Dublin
+in it: the wall is the most famous fear in the sport and our proven
+asset, it is a picture, and it has one reading (a "Roebuck Hill
+actually starts" title would read literally: the bottom of the road).
 Secret as a question, answer withheld (the first 11K, where it feels
-easy). "Marathon" in line one. Seven words, plain. "Your" makes it the
-viewer's race. The search phrase goes in the caption's first line
+easy). "Marathon" in line one. Seven words, plain. The search phrase goes in the caption's first line
 ("How to pace the Dublin Marathon, K by K").
 
 **Markers, distance plus a named rule (P111), four on the race clock:**
@@ -48,7 +53,7 @@ the wall.
 | Line | Job | Pass |
 |---|---|---|
 | "If you are running the Dublin Marathon," | **Gate** | Narrowed on purpose: the topic is Dublin (the one exception to "gate unchanged", P103) |
-| "...Roebuck Hill at thirty-five K is decided in the first eleven K through Phoenix Park, while you feel brilliant." | **Secret + collision + picture + open loop** | The wall's line, on Dublin: 35K decided at 0-11K. Places every Dublin runner can see. Loop: how do I run the park? |
+| "...the wall tends to hit around Roebuck Hill at thirty-five K, and it starts in the first eleven K through Phoenix Park, while you feel brilliant." | **Secret + collision + picture + open loop** | The wall video's opener, on Dublin: the wall at 35K starts at 0-11K. The wall, Roebuck and the park are all things to picture. Loop: how do I run the park? |
 | "Run the park at goal pace, uphill and into the wind, and you reach Roebuck with nothing left." | **Pain, twisted to the race outcome, with a picture** | Pass |
 | "Get the park right and you spend the last six K passing people." | **Dream, a picture** | Pass; it is what stage 4 delivers (P98) |
 | "Runners call it equal effort pacing ... so save this." | **Named concept + the example + save prompt** | Named, never explained in the hook: the loop stays open (P112) |
@@ -57,10 +62,10 @@ the wall.
 ## Script (about 300 words, about 1:35)
 
 **[ON SCREEN, held ~10s]**
-"Where your Dublin Marathon actually goes wrong"
+"Where the Dublin Marathon wall actually starts"
 
 **[HOOK]**
-"If you are running the Dublin Marathon, Roebuck Hill at thirty-five K is decided in the first eleven K through Phoenix Park, while you feel brilliant."
+"If you are running the Dublin Marathon, the wall tends to hit around Roebuck Hill at thirty-five K, and it starts in the first eleven K through Phoenix Park, while you feel brilliant."
 
 **[PAIN, DREAM]**
 "Run the park at goal pace, uphill and into the wind, and you reach Roebuck with nothing left. Get the park right and you spend the last six K passing people."
@@ -145,7 +150,7 @@ the arms on Roebuck, picking it up after the crest.
 | | Race outcome at stake | Reaching Roebuck with nothing left / passing people |
 | | Race day | Yes |
 | | A race moment the viewer will live through | Roebuck, the park, the downhill |
-| | Ride the asset | The wall's formula; Roebuck is Dublin's own famous fear |
+| | Ride the asset | **The wall** itself, in the title, plus Roebuck, Dublin's own famous fear |
 | | Race is the title, fuel inside, gut never the subject | Gels on time, stage 3 |
 | | One clock | The race, 0K to the finish |
 | | "My mother" test | Passes for Dublin; **honest risk: Dublin runners only** (TAM), offset by the October search and an Irish-heavy following |
@@ -159,9 +164,9 @@ the arms on Roebuck, picking it up after the crest.
 | 4 Hook | P112 order | Gate + secret, pain, dream, named concept, save |
 | | Five lines (P106) | All pass, table above |
 | | Gate first words unchanged | **Exception**: "If you are running the Dublin Marathon". Unavoidable on a course video |
-| | Secret in sentence one = share fact; collision | "Roebuck at 35K is decided in the first 11K" |
+| | Secret in sentence one = share fact; collision | "The wall at Roebuck, 35K, starts in the first 11K" |
 | | Pain then dream; dream = what the stages deliver | Yes |
-| | P116 picture in line one | Roebuck Hill, Phoenix Park |
+| | P116 picture in line one (and in the OST) | The wall, Roebuck Hill, Phoenix Park |
 | | Hook never contains the answer (P112) | The what-to-do is held for the stages; time-back held for the second half |
 | 5 Body | Every viewer, every stage | Every Dublin runner runs every section |
 | | New action | Course-specific pacing: never posted |
