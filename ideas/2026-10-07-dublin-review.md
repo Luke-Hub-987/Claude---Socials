@@ -38,3 +38,10 @@ recommended", and any notice on the reel (music, or the satellite map
 image). Don't delete or repost: a duplicate gets less reach.
 
 Re-read tomorrow morning and at day three (P90).
+
+## Update, 9:18pm: account status clear
+
+ERN account status: meets all guidelines, recommendation eligibility
+green, no removals or limits. So the flat first 1.5 hours and the
+impossible numbers are an insights lag, not a restriction. Wait for
+the morning read.
