@@ -177,7 +177,7 @@ the arms on Roebuck, picking it up after the crest.
 | | A mechanism in each instruction (P81) | Climb and wind cost more than they feel; long strides sore thighs; uphill vs downhill; most tired legs |
 | | Specific numbers, worked example (P115) | Seconds per K, 5:30 worked through |
 | | Rehook before the second half | Yes |
-| | OST answered | Where it goes wrong: the park |
+| | OST answered | Where the wall starts: the park, the first 11K |
 | | Consistent with earlier videos | 5 s/K slower early (first half, first 10 minutes); gels on time; shorter steps on climbs (quit) |
 | 6 Ending | One-sentence CTA, pre-launch | Yes |
 | | Length | ~300 words, ~1:35. Over the 1:20 line the checklist sets; clarity first (P108). Time the cut; trim over 1:40 |
