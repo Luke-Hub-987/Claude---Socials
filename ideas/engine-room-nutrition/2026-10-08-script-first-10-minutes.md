@@ -161,6 +161,13 @@ No studies, no statistics, nobody named, no medication.
 list where the first K is the slowest.** It is now line one as a
 picture, word for word: the first K the slowest of the race. His own
 data, free to use, no faces. Only a real one, never a mock-up.
+How (Luke asked, 8 Oct): crop to the first five or six splits only,
+so K1 is visibly the slowest at thumbnail size (a full list is
+unreadable small); leave out the route map (it can show where he lives)
+and the name. His own run only: someone else's screenshot is their
+data, and a faked one breaks the truth rules. **Not Pinterest:** its
+images are re-uploads with no licence, fine for ideas, never for an ERN
+cover.
 
 **Otherwise: "Early In The Race Along The Course - 2011 Eugene
 Marathon"**, ex_magician, CC BY 2.0, checked on 3 Oct: the view from
