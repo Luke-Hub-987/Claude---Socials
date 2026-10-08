@@ -4,7 +4,7 @@ brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-08
 slot: SAFE: formula B on race day, for every marathoner (Chicago this Sunday; most of the audience within 1 to 3 weeks)
 basis: v1 (3 Oct), the Dublin review (84 saves and 6.6 follows per 1,000 views), taper review (skip 43.1%), 7 days, quit, wall, SCRIPT-CHECKLIST.md line by line, P1-P116
-status: v3 FINAL 8 Oct
+status: v4 FINAL 8 Oct (hook rebuilt to pass the photograph test, Luke)
 supersedes: 2026-10-03-script-first-10-minutes.md
 ---
 
@@ -14,7 +14,7 @@ supersedes: 2026-10-03-script-first-10-minutes.md
 
 | What Dublin did | Here |
 |---|---|
-| A picture and a collision in line one | The minute lost in the crowd at the start / chasing it back costs the race |
+| A picture and a collision in line one | v4: the first K the slowest of the race / your race going to plan |
 | A named concept, never explained in the hook | **The ten minute rule** (ours, P111), unexplained until stage 4 |
 | A rule anyone can use, then one worked example with real paces (P115) | 5:30 a K goal, worked through every stage |
 | Four stages on the race clock, each opening on the unexpected with a reason and an action | The mat / the first K / the crowd / ten minutes |
@@ -39,22 +39,36 @@ THE CROWD: DON'T CHASE / 10 MINUTES: NOW CHECK
 
 ## The Zero to One secret (unexpected value, usable on race day)
 
-The minute you lose in the crowd at the start costs you almost
-nothing, and chasing it back can cost you your race. Every runner's
-instinct is to win it back; the right move is to let it go. Second
+Your first K should be the slowest of your whole race. Every runner's
+instinct is to win back the time the crowd costs them; the right move
+is to let it go, and pass those runners at thirty K. Second
 secret: your watch is least accurate exactly when you look at it most.
 Both are things a runner can do this Sunday with nothing to buy.
 
 ## Hook stack: five-line audit (P106), Briar, the picture (P116)
 
-| Line | Job | Loop |
-|---|---|---|
-| "If you are running a marathon in the next few weeks," | **Gate**, unchanged (P103) | |
-| "...the minute or so you lose in the crowd at the start costs you almost nothing, and chasing it back can cost you your race." | **Surprising fact + collision + picture** (the crowd, the lost minute) | **Opened:** why does it cost nothing? What do I do instead? |
-| "Weave past people and race your watch, and by thirty K your legs are paying for it." | **Pain, the race outcome, a picture** | Raised |
-| "Let it go, and you settle into your pace while the people who sprinted off come back to you." | **Dream, a picture** | Raised; it is what stage 4 delivers (P98) |
-| "This is the ten minute rule. With a goal pace of five thirty a K, here is exactly how it works, so save this." | **Named concept, the example, save prompt** | Named, not explained: still open |
-| "And the last one is where the ten minute rule pays off." | **Rehook** | Reopened for stage 4 |
+**v4, Luke 8 Oct: v3's hook "isn't great" and could not be pictured.**
+"The minute or so you lose in the crowd costs you almost nothing, and
+chasing it back can cost you your race" is all abstraction: "costs
+you", "your race". It fails the photograph test (P116 amended): you
+can't take a photo of it. v4 is built like the two openers that held
+best, 7 days ("you should weigh more on race morning ... and that is
+the week going right") and quit ("...your race going normally"): one
+concrete thing they can see, turned upside down.
+
+| Line | Job | Picture | Loop |
+|---|---|---|---|
+| "If you are running a marathon in the next few weeks," | **Gate**, unchanged | | |
+| "...your first K should be the slowest K of your whole race, and that is your race going to plan." | **Surprising fact + paradox** (the 7 days / quit shape) | Your watch's split list, with K1 the slowest | **Opened:** slowest on purpose? How? |
+| "Chase the people flying past you at the start, and you pay for it at thirty K, on legs that went too hard before the race had even settled." | **Pain, the race outcome** | People flying past you at the gun | Raised |
+| "Let them go, and at thirty K you are the one passing them." | **Dream** | You passing those same people at 30K | Raised; stage 4 sets it up (P98) |
+| "This is the ten minute rule. With a goal pace of five thirty a K, here is exactly how it works, so save this." | **Named concept + example + save** | | Named, not explained: still open |
+| "And the last one is where the ten minute rule pays off." | **Rehook** | | Reopened for stage 4 |
+
+**Briar:** gate, loop and pain then benefit all inside fifteen seconds;
+a named concept of our own; every marathoner (TAM); unique angle (slow
+on purpose); money (the gel alert, the guide). **Zero to One:** every
+runner treats a slow first K as a loss to win back; it is the plan.
 
 ## Script (about 315 words, about 1:40)
 
@@ -62,10 +76,10 @@ Both are things a runner can do this Sunday with nothing to buy.
 "What to do in the first 10 minutes of a marathon"
 
 **[HOOK]**
-"If you are running a marathon in the next few weeks, the minute or so you lose in the crowd at the start costs you almost nothing, and chasing it back can cost you your race."
+"If you are running a marathon in the next few weeks, your first K should be the slowest K of your whole race, and that is your race going to plan."
 
 **[PAIN, DREAM]**
-"Weave past people and race your watch, and by thirty K your legs are paying for it. Let it go, and you settle into your pace while the people who sprinted off come back to you."
+"Chase the people flying past you at the start, and you pay for it at thirty K, on legs that went too hard before the race had even settled. Let them go, and at thirty K you are the one passing them."
 
 **[NAMED CONCEPT, THE EXAMPLE, SAVE PROMPT]**
 "This is the ten minute rule. With a goal pace of five thirty a K, here is exactly how it works, so save this."
@@ -124,8 +138,8 @@ No studies, no statistics, nobody named, no medication.
 | | Reads as typed; never answers itself; two lines, 6-9 words; title and markers only | Yes / yes / 9 words / yes |
 | 3 Cover | One person or the problem; colour; one photo; licensed | See Cover |
 | 4 Hook | P112 order; five lines; gate unchanged; secret and collision in sentence one; pain then dream = stages | All pass (table above) |
-| | P116 picture in line one | The crowd, the lost minute |
-| | Hook never contains the answer | "Let it go" is the instinct to drop; what to do (mat, watch, crowd, the check) is held for the stages |
+| | P116 picture in line one, photograph test | The split list with K1 slowest; people flying past; you passing them at 30K |
+| | Hook never contains the answer | The secret (slow first K) is in line one, as 7 days put "weigh more" there; how (mat, watch, crowd, the check) is held for the stages |
 | 5 Body | Every viewer, every stage | Yes |
 | | A new action | The 10-minute check, the mat, GPS error: never posted |
 | | Four stages, one axis, what is happening then what to do | Yes |
@@ -138,15 +152,15 @@ No studies, no statistics, nobody named, no medication.
 | | OST answered; consistent with earlier videos | Yes; 5-10 s/K and 20 minutes match |
 | 6 Ending | One-sentence pre-launch CTA | Yes |
 | | Length | ~315 words, ~1:40. Clarity first (P108); time the cut, trim over 1:40 |
-| 7 Truth and voice | No statistics, studies, medication, named people, dated audio; no em dashes, "not X, it is Y", fragments, mockery; P114 read aloud | Pass. "The people who sprinted off come back to you" describes, does not mock |
+| 7 Truth and voice | No statistics, studies, medication, named people, dated audio; no em dashes, "not X, it is Y", fragments, mockery; P114 read aloud | Pass. "At thirty K you are the one passing them" describes, does not mock |
 | 8 Posting | ERN with Luke as collaborator; TikTok ERN only; pinned comment | Yes |
 
 ## Cover (by the data)
 
 **First choice, if Luke has one: a screenshot of his own real split
-list where the first K is the slowest.** It is the hook as a picture
-(the lost minute), his own data so free to use, no faces. Only a real
-one, never a mock-up.
+list where the first K is the slowest.** It is now line one as a
+picture, word for word: the first K the slowest of the race. His own
+data, free to use, no faces. Only a real one, never a mock-up.
 
 **Otherwise: "Early In The Race Along The Course - 2011 Eugene
 Marathon"**, ex_magician, CC BY 2.0, checked on 3 Oct: the view from
@@ -165,7 +179,7 @@ photo with faces and name bibs head on.
 
 - **Instagram:** ERN post, Luke as collaborator. **TikTok:** ERN only.
 - **Caption, first line:** "What to do in the first 10 minutes of a
-  marathon: the ten minute rule." Then the worked example above. Last
+  marathon: why your first K should be your slowest." Then the worked example above. Last
   line: the cover credit, if the photo is used.
 - **Pinned comment:** "How far behind were you at the end of your
   first K last time? Free race week guide in the bio."

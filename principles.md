@@ -4355,6 +4355,16 @@ Luke, 6 Oct: capture this for every video.
 - **Keep jargon out of the title** ("taper"); put the term in the
   audio as the named concept.
 
+**Amended 8 October (Luke, first 10 minutes v3):** the photograph test.
+"The minute you lose in the crowd costs you almost nothing, and chasing
+it back can cost you your race" still failed: "costs you" and "your
+race" are abstractions. Could you take a photo of line one? A scale, a
+watch's split list, people flying past you at the gun: yes. A cost, a
+race, a mistake: no. The openers that held best are one concrete thing
+turned upside down: "you should weigh more on race morning ... and that
+is the week going right"; "your first K should be the slowest K of your
+whole race, and that is your race going to plan."
+
 *Source: taper data and Luke, 6 October.*
 
 ## Open questions for Luke
