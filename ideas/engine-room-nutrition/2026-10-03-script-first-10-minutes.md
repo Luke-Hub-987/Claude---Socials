@@ -4,7 +4,7 @@ brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-03
 slot: SAFE, next after quit (5 Oct)
 basis: 2026-10-03-more-topics-and-timing.md, quit review (4 Oct), PLAN-winners gate, SCRIPT-CHECKLIST.md, P1-P114
-status: v2, FINAL 4 Oct. Trimmed to about 305 words; re-audited for P112-P114
+status: SUPERSEDED 8 Oct by 2026-10-08-script-first-10-minutes.md
 ---
 
 # What to do in the first 10 minutes of a marathon
