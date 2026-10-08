@@ -45,3 +45,31 @@ ERN account status: meets all guidelines, recommendation eligibility
 green, no removals or limits. So the flat first 1.5 hours and the
 impossible numbers are an insights lag, not a restriction. Wait for
 the morning read.
+
+## Update, ~12 hours (8 Oct, 7:37am)
+
+4,230 views (3,095 IG + 1,135 FB), 7,949 viewers (still more than
+views: the glitch persists), **33s average on 1:27**, 272 likes, 3
+comments, 4 reposts, **356 saves**, **28 follows**. Skip still shows
+100%, share 7.5%, like 10.4%, save 14.2%: rates still on a broken
+denominator. Views line well under the typical reel.
+
+**Read, from the counts that can be trusted:**
+
+| Per 1,000 views | Dublin (12h) | 7 days (14h) | Quit (14h) | Taper (10h) |
+|---|---|---|---|---|
+| Saves | **84** | 25 | 20 | 25 |
+| Follows | **6.6** | 1.4 | 1.6 | 0.3 |
+| Watch share | **38%** (33s / 1:27) | 29% | 34% | 29% |
+
+Even if the views count is low (viewers say up to ~8K), this is the
+deepest engagement we have had: three times the saves and four times
+the follows of anything else. **Reach is small, as expected for a
+Dublin-only video (the TAM risk flagged in the audit)**; the people it
+reached kept it, followed and watched to the end. The flattest
+retention tail yet.
+
+**What it proves:** the wall formula title, a picture in line one
+(P116), a rule plus a worked example with real paces (P115) and four
+course stages make a video people keep. The open question is reach,
+which the topic capped.
