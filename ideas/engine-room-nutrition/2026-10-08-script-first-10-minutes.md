@@ -52,11 +52,11 @@ Both are things a runner can do this Sunday with nothing to buy.
 | "If you are running a marathon in the next few weeks," | **Gate**, unchanged (P103) | |
 | "...the minute or so you lose in the crowd at the start costs you almost nothing, and chasing it back can cost you your race." | **Surprising fact + collision + picture** (the crowd, the lost minute) | **Opened:** why does it cost nothing? What do I do instead? |
 | "Weave past people and race your watch, and by thirty K your legs are paying for it." | **Pain, the race outcome, a picture** | Raised |
-| "Let it go, and you settle into your pace while the people who sprinted off start coming back to you." | **Dream, a picture** | Raised; it is what stage 4 delivers (P98) |
+| "Let it go, and you settle into your pace while the people who sprinted off come back to you." | **Dream, a picture** | Raised; it is what stage 4 delivers (P98) |
 | "This is the ten minute rule. With a goal pace of five thirty a K, here is exactly how it works, so save this." | **Named concept, the example, save prompt** | Named, not explained: still open |
 | "And the last one is where the ten minute rule pays off." | **Rehook** | Reopened for stage 4 |
 
-## Script (about 300 words, about 1:35)
+## Script (about 315 words, about 1:40)
 
 **[ON SCREEN, held ~10s]**
 "What to do in the first 10 minutes of a marathon"
@@ -65,16 +65,16 @@ Both are things a runner can do this Sunday with nothing to buy.
 "If you are running a marathon in the next few weeks, the minute or so you lose in the crowd at the start costs you almost nothing, and chasing it back can cost you your race."
 
 **[PAIN, DREAM]**
-"Weave past people and race your watch, and by thirty K your legs are paying for it. Let it go, and you settle into your pace while the people who sprinted off start coming back to you."
+"Weave past people and race your watch, and by thirty K your legs are paying for it. Let it go, and you settle into your pace while the people who sprinted off come back to you."
 
 **[NAMED CONCEPT, THE EXAMPLE, SAVE PROMPT]**
 "This is the ten minute rule. With a goal pace of five thirty a K, here is exactly how it works, so save this."
 
 **[1. THE MAT: START YOUR WATCH]**
-"First, the start mat. Your time only starts when you cross it, even if the gun went five minutes earlier, so start your watch as you step on the mat, with an alert already set for your first gel at twenty minutes." ⚑1
+"First, the start mat. Your time only starts when you cross it, even if the gun went five minutes earlier, so start your watch as you step on the mat, with an alert set for your first gel at twenty minutes." ⚑1
 
 **[2. FIRST K: IGNORE YOUR WATCH]**
-"Second, the first K, and the trick is to ignore your watch. Tall buildings bounce the GPS around, so your pace can say five ten when you are really running five thirty. Run at an effort where you could still talk in full sentences." ⚑2
+"Second, the first K: ignore your watch. Tall buildings bounce the GPS around, so your pace can say five ten when you are really running five thirty. Run at an effort where you could still talk in full sentences." ⚑2
 
 **[3. THE CROWD: DON'T CHASE]**
 "Third, the crowd. Your first K might come in at five fifty, twenty seconds down, and that is fine. Weaving past people adds distance and burns energy you need at thirty K, so tuck in behind someone running your pace and let the crowd thin out." ⚑3
@@ -137,8 +137,8 @@ No studies, no statistics, nobody named, no medication.
 | | Rehook before the second half | Before stage 4, reopening the named rule |
 | | OST answered; consistent with earlier videos | Yes; 5-10 s/K and 20 minutes match |
 | 6 Ending | One-sentence pre-launch CTA | Yes |
-| | Length | ~300 words, ~1:35. Clarity first (P108); time the cut, trim over 1:40 |
-| 7 Truth and voice | No statistics, studies, medication, named people, dated audio; no em dashes, "not X, it is Y", fragments, mockery; P114 read aloud | Pass. "The people who sprinted off start coming back to you" describes, does not mock |
+| | Length | ~315 words, ~1:40. Clarity first (P108); time the cut, trim over 1:40 |
+| 7 Truth and voice | No statistics, studies, medication, named people, dated audio; no em dashes, "not X, it is Y", fragments, mockery; P114 read aloud | Pass. "The people who sprinted off come back to you" describes, does not mock |
 | 8 Posting | ERN with Luke as collaborator; TikTok ERN only; pinned comment | Yes |
 
 ## Cover (by the data)
