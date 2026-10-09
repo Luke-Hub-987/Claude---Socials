@@ -37,12 +37,12 @@ before the race that everyone dreads tends to matter least.
 |---|---|---|---|
 | "If you are running a marathon in the next few weeks," | **Gate**, unchanged | | |
 | "...your legs might feel heavier walking up the stairs this week than they did after your longest run, and that is often a sign the taper is working." | **Surprising fact + paradox** (the 7 days, quit and first 10 minutes shape) | Your legs dragging up the stairs | **Opened:** heavier means working? Why? What do I do? |
-| "Panic and go out for a hard run to test them, and you take tired legs to the start line after months of training." | **Pain, race outcome** | Lacing up to test your legs | Raised |
+| "Panic and go out for a hard run to test them, and you take tired legs to the start line." | **Pain, race outcome** | Lacing up to test your legs | Raised |
 | "Trust it, and on race morning your legs feel lighter than they have in weeks." | **Dream** | Springing off the start line | Raised |
 | "Runners call it taper madness, and it shows up in four ways ... so save this." | **Named concept + save** | | Named, not explained: open |
 | "And the last one is the night everyone worries about." | **Rehook** | Lying awake | Reopened for stage 4 |
 
-## Script (about 310 words, about 1:35)
+## Script (about 320 words, about 1:40)
 
 **[ON SCREEN, held ~10s]**
 "What to do when your legs feel heavy before a marathon"
@@ -51,16 +51,16 @@ before the race that everyone dreads tends to matter least.
 "If you are running a marathon in the next few weeks, your legs might feel heavier walking up the stairs this week than they did after your longest run, and that is often a sign the taper is working." ⚑1
 
 **[PAIN, DREAM]**
-"Panic and go out for a hard run to test them, and you take tired legs to the start line after months of training. Trust it, and on race morning your legs feel lighter than they have in weeks."
+"Panic and go out for a hard run to test them, and you take tired legs to the start line. Trust it, and on race morning your legs feel lighter than they have in weeks."
 
 **[NAMED CONCEPT, SAVE PROMPT]**
-"Runners call it taper madness, and it shows up in four ways. Here is what each one means and exactly what to do, so save this."
+"Runners call it taper madness, and it shows up in four ways. Here is what to do about each, so save this."
 
 **[1. HEAVY LEGS: DON'T TEST THEM]**
 "First, heavy legs. Your muscles are refilling their fuel, and they store it with water, so they can feel full and flat. Keep your short runs, like twenty-five minutes easy with three one K stretches at marathon pace, and never add a hard run to see if you still have it." ⚑1
 
 **[2. NEW NIGGLES: THE 10 MINUTE CHECK]**
-"Second, aches you have never had, in a knee, a calf or a foot. Running less gives you time to notice every small feeling. So run ten minutes easy. If the ache fades as you warm up, it is a taper niggle and you can keep going. If it gets worse, or it changes how you run, stop and get it looked at by a physio." ⚑2
+"Second, aches you have never had, in a knee, a calf or a foot. Running less gives you time to notice every small feeling. So run ten minutes easy. If it fades as you warm up, keep going. If it gets worse or changes how you run, stop and see a physio." ⚑2
 
 **[3. RESTLESS: SAVE IT]**
 "Third, the energy. You will want to run more, and that energy is what you race with. Put it into the plan instead: lay out your race kit, and write down your gel times, every twenty minutes from the start." ⚑3
@@ -69,7 +69,7 @@ before the race that everyone dreads tends to matter least.
 "And the last one is the night everyone worries about."
 
 **[4. BAD SLEEP: SAME BEDTIME]**
-"Fourth, sleep. Sleeping badly the night before a marathon is normal, and one bad night tends not to hurt your race, because the nights before it count more. So keep your normal bedtime all week. If you usually go to bed at eleven, go at eleven, because getting into bed at nine just means lying awake." ⚑4
+"Fourth, sleep. Sleeping badly the night before a marathon is normal, and one bad night tends not to hurt your race, because the nights before it count more. So if you usually go to bed at eleven, go at eleven all week, because getting into bed at nine just means lying awake." ⚑4
 
 **[CTA, one sentence]**
 "Save this for the next few weeks, and the free race week guide and first go at the bar are in the bio."
@@ -112,7 +112,7 @@ No statistics, no studies named, nobody named, no medication.
 | | New advice | The niggle check, the restless plan, the bedtime rule: never posted. Goes past 7 days' "expect to feel awful" |
 | | Consistent | 7 days session, gel timing, nothing new |
 | | Rehook before the last stage | Yes |
-| 6 Ending | One-sentence pre-launch CTA; length | Yes; ~310 words, ~1:35. Time the cut |
+| 6 Ending | One-sentence pre-launch CTA; length | Yes; ~320 words, ~1:40. Time the cut; trim over 1:40 |
 | 7 Truth and voice | No statistics, studies, medication, named people, dated audio; no em dashes, "not X, it is Y", fragments, mockery; P114 read aloud | Pass |
 
 ## Cover (checked)
