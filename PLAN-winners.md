@@ -12,6 +12,7 @@ it produces.
 | 1 | Where the marathon wall actually starts | **147K** | **A. "Where [famous race problem] actually starts"**, race-clock stages (0-10K / 10-20K / 20-30K / 30K-FINISH), the cause sits earlier than the symptom |
 | 2 | How to get out of the marathon wall | **40.8K** | **C. "How to [fix/beat] the marathon wall"**, in-race steps on the wall |
 | 3 | What to do 7 days before a marathon | **31.4K at 14h** | **B**, the paradox opener ("weigh more on race morning, and that is the week going right"); 802 saves, 43 follows |
+| 3b | What to do in the first 10 minutes of a marathon | **27.1K at 12h** | **B on race day** + the photograph-test paradox ("your first K should be the slowest K of your whole race"); share 1.4%, a record |
 | 4 | What to do in the last 24 hours before a marathon | **30K** | **B. "What to do in the last [time] before a marathon"**, one clock every viewer lives through |
 | 5 | How to know what marathon time you are in shape for | **25.3K** | **D. A race-pace decision**, phrased as the question people type |
 | 6 | Where marathon cramp actually starts | **25K** | **A** on a problem felt in the legs |
