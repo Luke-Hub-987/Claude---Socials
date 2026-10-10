@@ -41,6 +41,9 @@ twice without being checked against the winners (P99).
 - [ ] **Ride the asset** when there is one. "The wall" did 68K and 19K.
 - [ ] **The race is the title, fuel goes inside** (P101). **The gut is never
       the subject either** (P109: stomach 4.1K early, below typical).
+- [ ] **The weeks before the race only as a countdown** (P117): taper
+      43.1% skip, heavy legs 0.5% saves. No symptom or feeling lists
+      before race day. Stages in time order on a clock, or it is a list.
 - [ ] **One clock per video** (P109): race day, or race week, never
       training weeks mixed with race morning. Every
       fuel-titled video is in the bottom four.

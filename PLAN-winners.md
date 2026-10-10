@@ -20,7 +20,7 @@ it produces.
 | 8 | How to pace the first half of a marathon | 17.5K | **D** |
 | 9 | What to do in the last 30 minutes before a marathon | 15.1K | **B** |
 
-**What never worked:** the gut or fuel as the subject (1.6K to 4.4K,
+**What never worked:** the weeks before the race as anything but a countdown (taper 43.1% skip; heavy legs 0.5% saves, P117); the gut or fuel as the subject (1.6K to 4.4K,
 stomach 4.1K), sorting viewers into groups (who hits, ~7.5K), training
 weeks as the subject (4.4K to 5.3K).
 

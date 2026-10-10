@@ -4367,6 +4367,29 @@ whole race, and that is your race going to plan."
 
 *Source: taper data and Luke, 6 October.*
 
+## P117 — The weeks before the race only work as a countdown
+
+Heavy legs video, 10 October: skip 34.4% (the hook held) but 20s of
+1:23 watched and a 0.5% save rate, the lowest on record. With the
+taper video (skip 43.1%), that is two misses in a row for the weeks
+before the race, each failing differently. The pattern was already in
+the checklist: every video above 15K is race day or a race-pace
+decision. 7 days (31.4K) is the exception that proves it: a countdown
+to race day with one action per day.
+
+**The rule:**
+- **Race day, a race-pace decision, or a countdown to race day** with
+  an action per stage. Nothing else for the weeks before the race.
+- **No lists of symptoms or feelings before the race.** "This is
+  normal" is reassurance: watched briefly, never saved. Feelings work
+  only in the race itself (quit).
+- **Four stages means one axis.** If the stages are not in time order
+  on a clock, they are a list; rebuild or drop the topic.
+- When Luke asks for a topic outside this, say so plainly with this
+  evidence before scripting, and offer the countdown version.
+
+*Source: taper and heavy legs data, 6 and 10 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
