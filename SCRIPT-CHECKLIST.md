@@ -105,7 +105,9 @@ twice without being checked against the winners (P99).
 - [ ] **Is every viewer the subject of every stage?** A sequence they
       all live through (the race clock, the days before). Never groups
       of people (P103: "who hits the wall", save 2.8% to 0.7%).
-- [ ] **At least one action the account has not given before.**
+- [ ] **At least one action the account has not given before, and
+      nothing that contradicts an earlier video** (Luke, 10 Oct). Overlap
+      is fine if every stage adds something new.
 - [ ] **Four clear stages on one axis**, ideally the race's own clock
       (0-10K / 10-20K / 20-30K / 30K-FINISH, as the outlier), each with
       the same shape: what is happening, then what to do. **Never mix a

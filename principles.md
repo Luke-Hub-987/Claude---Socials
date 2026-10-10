@@ -4367,6 +4367,13 @@ whole race, and that is your race going to plan."
 
 *Source: taper data and Luke, 6 October.*
 
+**Clarified 10 October (Luke): new advice, in keeping with what we have
+said before.** A topic we have touched can be covered again as long as
+each stage adds advice the account has not given, and nothing
+contradicts an earlier video (pace offsets, gel timing, step length,
+"one lamppost at a time"). Overlap with past videos is a reason to find
+the new angle, never on its own a reason to drop the topic.
+
 ## P117 — The weeks before the race only work as a countdown
 
 Heavy legs video, 10 October: skip 34.4% (the hook held) but 20s of
