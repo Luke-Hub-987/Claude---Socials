@@ -167,6 +167,11 @@ twice without being checked against the winners (P99).
 - [ ] **Line one has something to picture** (P116): a scale, a watch
       screen, a K marker, a hill. An abstract loop ("what you cut")
       cost the taper video a 43.1% skip.
+- [ ] **End line one on the reframe when it is true** ("and that is
+      your race going to plan"): every opener under 35% skip had it (7
+      days, quit, first 10 minutes); second half left it out, 38.1%.
+- [ ] **A new cover picture every video.** Second half reused the first
+      10 minutes splits graphic: returning viewers read it as a repeat.
 - [ ] **The photograph test** (P116, 8 Oct): could you take a photo of
       line one, and of the pain and dream lines? "Costs you", "your
       race", "a mistake" fail. Best shape: one concrete thing turned
