@@ -62,7 +62,7 @@ loop stays open to the last stage, and the rehook reopens it.
 | "Runners call it the talk test ... so save this." | **Named concept, defined, save** | | Open |
 | "And the last one is where a nine out of ten is the plan." | **Rehook**, back to line one | | Reopened for stage 4 |
 
-## Script (about 300 words, about 1:35)
+## Script (about 320 words, about 1:40)
 
 **[ON SCREEN, held ~10s]**
 "How hard a marathon should feel at every 10K"
@@ -74,13 +74,13 @@ loop stays open to the last stage, and the rehook reopens it.
 "Run the first ten K at a pace that already feels like work, and you are walking by thirty-two K. Get the effort right, and you are still on your pace at forty."
 
 **[NAMED CONCEPT, SAVE PROMPT]**
-"Runners call it the talk test, and here is the sentence to use: I am running a marathon today and I feel good. That is ten words. Score the effort out of ten, where one is walking and ten is a sprint, and here is every 10K, so save this."
+"Runners call it the talk test. Use this sentence: I am running a marathon today and I feel good. That is ten words, and here is how many you should get out at every 10K, so save this."
 
 **[1. 0-10K: 4/10, FULL SENTENCES]**
-"The first ten K should feel like a four. You can say all ten words in one breath, in your normal voice, like chatting at a bus stop. If you cannot, you are going too fast. With a heart rate monitor, stay under about eighty percent of your max, so under one fifty-two if your max is one ninety." ⚑2
+"The first ten K should feel like a four. You can say all ten words in one breath, in your normal voice, like chatting at a bus stop. If you cannot, you are going too fast. On a heart rate monitor, that is under about eighty percent of your max, one fifty-two if your max is one ninety." ⚑2
 
 **[2. 10-20K: 5/10, STILL TALKING]**
-"Ten to twenty, a five. You still get all ten words out in one breath, but it sounds a bit breathy and you would rather not. On a hill or into the wind, let your pace slip and keep the effort the same, and take a gel every twenty minutes." ⚑3
+"Ten to twenty, a five. All ten words still come out in one breath, just a bit breathy. On hills or into wind, keep the effort and let the pace slip, and take a gel every twenty minutes." ⚑3
 
 **[3. 20-30K: 6/10, SHORT SENTENCES]**
 "Twenty to thirty, a six. You get about five words, I am running a marathon, and then you need a breath. Your heart rate will creep up at the same pace, and that is normal. Shorten your step and quicken your feet." ⚑4
@@ -178,7 +178,7 @@ heart rate drift as normal, holding the sprint for the last 800m.
 | Four stages on one axis; each opens on the unexpected, ends on an action; a reason each | Yes |
 | P115: universal rule plus examples; every term defined and measurable (Luke, 13 Oct: "how long is a sentence?") | One ten-word test sentence; words per breath per 10K (10, 10 breathy, 5, 2-3); how it sounds; the 1-10 scale defined; one heart rate number with an example; gel every 20 minutes; last 800m |
 | New and consistent | Table below |
-| One-sentence pre-launch CTA; ~300 words, ~1:35 | Yes; time the cut |
+| One-sentence pre-launch CTA; ~320 words, ~1:40 | Yes; time the cut, trim over 1:45 |
 | No statistics, studies, medication, named people, dated audio; voice rules; P114 | Pass |
 
 ## Cover
