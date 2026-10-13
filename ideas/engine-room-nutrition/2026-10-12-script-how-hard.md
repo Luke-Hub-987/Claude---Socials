@@ -4,7 +4,7 @@ brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-12
 slot: SAFE: race day + race-pace decision, on the wall's race clock (every 10K)
 basis: Luke's ask (12 Oct: effort and heart rate, not just paces), the wall (147K), first 10 minutes, second half, first half, Reddit research (watch/GPS 66, the top signal), SCRIPT-CHECKLIST.md, P1-P117
-status: v2 FINAL 13 Oct (hook ends on the reframe; the early-number answer held for stage 1; trimmed), after the second half review
+status: v3 FINAL 13 Oct (heart rate zones added per 10K, Luke); was v2 (hook ends on the reframe; the early-number answer held for stage 1; trimmed), after the second half review
 ---
 
 # How hard a marathon should feel at every 10K
@@ -24,9 +24,8 @@ the title, P116, and heart rate zones differ by watch and person);
 5.3K the last time).
 
 **Markers, the stage, the number and the talk test (P111):**
-0-10K: 4 OUT OF 10, FULL SENTENCES / 10-20K: 5 OUT OF 10, STILL
-TALKING / 20-30K: 6 OUT OF 10, SHORT SENTENCES / 30K TO THE LINE: 8
-OUT OF 10, A FEW WORDS
+0-10K: 4/10, TOP OF ZONE 3 / 10-20K: 5/10, STILL ZONE 3 /
+20-30K: 6/10, DRIFTING TO ZONE 4 / 30K TO THE LINE: 8/10, IGNORE THE NUMBER
 
 ## The Zero to One secret
 
@@ -61,36 +60,37 @@ matters, the late one doesn't); the top Reddit signal (watch/GPS, 66).
 "If you are running a marathon in the next few weeks, your heart rate at thirty-five K should be higher than at five K, at exactly the same pace, and that is your race going to plan." ⚑1
 
 **[PAIN, DREAM]**
-"Go by pace alone on a warm or windy day, and you can be breathing hard by ten K on a pace that looks fine, with thirty-two K still to go. Go by feel, and you are still talking at halfway, with something left for the end."
+"Go by pace alone on a warm or windy day, and you can be breathing hard by ten K on a pace that looks fine, with thirty-two K still to go. Go by feel and heart rate, and you are still talking at halfway."
 
 **[NAMED CONCEPT, SAVE PROMPT]**
-"Runners call it the talk test. Score it out of ten, where one is walking and ten is a sprint, and here is how hard every 10K should feel, so save this."
+"Runners call it the talk test. Score it out of ten, where one is walking and ten is a sprint, and here is how hard every 10K should feel, with the heart rate zone for each, so save this."
 
 **[1. 0-10K: 4 OUT OF 10, FULL SENTENCES]**
-"The first ten K should feel like a four, full sentences without catching your breath, and this is the heart rate that matters. If it is higher than in the marathon pace parts of your long runs, slow down until it drops, whatever your pace says." ⚑2
+"The first ten K should feel like a four, full sentences, and this is the heart rate that matters. For most runners it is the top of zone three, about seventy-five to eighty percent of your max, so one forty-three to one fifty-two if your max is one ninety. Above that, slow down, whatever your pace says." ⚑2
 
 **[2. 10-20K: 5 OUT OF 10, STILL TALKING]**
-"Ten to twenty, a five. Still full sentences, just more focus. If your watch says goal pace but you are breathing hard, trust your breathing and ease off five seconds a K." ⚑3
+"Ten to twenty, a five, still full sentences and still zone three. If your watch says goal pace but you are breathing hard, trust your breathing and ease off five seconds a K." ⚑3
 
 **[3. 20-30K: 6 OUT OF 10, SHORT SENTENCES]**
-"Twenty to thirty, a six. Short sentences now. Your heart rate creeping up at the same pace is normal here, so hold your pace and do not chase the number down." ⚑1
+"Twenty to thirty, a six, short sentences. Your heart rate drifting into zone four at the same pace is normal here, so hold your pace and do not chase the number down." ⚑1
 
 **[REHOOK]**
 "And the last one is where you stop looking at your heart rate."
 
 **[4. 30K TO THE LINE: 8 OUT OF 10, A FEW WORDS]**
-"Thirty to the finish climbs to an eight, a few words at a time. Your heart rate will be high, and that is fine. Go by your breathing and your legs, one K at a time, and if you can still say a full sentence at thirty-five, that is your signal to push." ⚑4
+"Thirty to the finish climbs to an eight, a few words at a time. Your heart rate can sit in zone four or higher, and that is fine. Go by your breathing and your legs, one K at a time, and if you can still say a full sentence at thirty-five, that is your signal to push." ⚑4
 
 **[CTA, one sentence]**
 "Save this for race day, and the free race week guide and first go at the bar are in the bio."
 
 ## The worked example (caption)
 
-How hard a marathon should feel (1 = walking, 10 = sprinting):
-- 0-10K: 4/10. Full sentences. Heart rate above your long-run marathon-pace number? Slow down.
-- 10-20K: 5/10. Still full sentences. Breathing hard at goal pace? Ease off 5 s/K.
-- 20-30K: 6/10. Short sentences. Heart rate creeping up is normal. Hold pace.
-- 30K to the line: 8/10. A few words. Ignore heart rate, go by breathing and legs. Full sentence at 35K? Push.
+How hard a marathon should feel (1 = walking, 10 = sprinting), with heart rate zones (standard zones, % of max heart rate):
+- 0-10K: 4/10, full sentences. Top of zone 3, about 75-80% of max (max 190 = 143-152). Higher? Slow down.
+- 10-20K: 5/10, still full sentences, still zone 3. Breathing hard at goal pace? Ease off 5 s/K.
+- 20-30K: 6/10, short sentences. Drifting into zone 4 (80-90%) at the same pace is normal. Hold pace.
+- 30K to the line: 8/10, a few words. Zone 4 or higher is fine. Go by breathing and legs. Full sentence at 35K? Push.
+Your watch uses different zones? Go by the percentages. Not sure of your max? Use your heart rate from the marathon pace parts of your long runs as your first-10K ceiling.
 Dizzy, chest pain or confused at any point: stop and go to the medical team.
 
 ## Consistency with earlier videos (Luke, 10 Oct)
@@ -113,7 +113,7 @@ the watch, ignoring heart rate after 30K.
 | # | Claim | Basis |
 |---|---|---|
 | 1 | Heart rate drifts up over a long race at a steady pace | Cardiovascular drift, well established; said plainly, no numbers |
-| 2 | Use your heart rate from marathon-pace training as the early ceiling | Personal, practical; avoids zone numbers that differ by watch and person |
+| 2 | First 10K at the top of zone 3 (about 75-80% of max), drifting into zone 4 (80-90%) later | Standard %-of-max zones (as most watch defaults); typical recreational marathon heart rate sits around the zone 3/4 line and drifts up. Said "for most runners", "about"; the long-run ceiling is the fallback in the caption for anyone whose zones or max differ |
 | 3 | Heat and wind change the effort a pace costs | Well known; "can" |
 | 4 | Effort scale 4, 5, 6, 8 | A coaching guide on a 1-10 scale, not a measurement; consistent with the talk test |
 
