@@ -4,7 +4,7 @@ brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-12
 slot: SAFE: race day + race-pace decision, on the wall's race clock (every 10K)
 basis: Luke's ask (12 Oct: effort and heart rate, not just paces), the wall (147K), first 10 minutes, second half, first half, Reddit research (watch/GPS 66, the top signal), SCRIPT-CHECKLIST.md, P1-P117
-status: FINAL 12 Oct, pending Luke's science if he has any
+status: v2 FINAL 13 Oct (hook ends on the reframe; the early-number answer held for stage 1; trimmed), after the second half review
 ---
 
 # How hard a marathon should feel at every 10K
@@ -31,8 +31,9 @@ OUT OF 10, A FEW WORDS
 ## The Zero to One secret
 
 Your heart rate climbs all race even when your pace never changes, so
-the high number at thirty-five K is normal and the number at five K is
-the one that tells you if you are in trouble. Pace is the plan; how it
+the high number at thirty-five K is your race going to plan, and the
+number in the first ten K is the one that tells you if you are in
+trouble. Pace is the plan; how it
 feels is the truth on the day, and heat or wind can make the same pace
 a different race.
 
@@ -41,7 +42,7 @@ a different race.
 | Line | Job | Picture | Loop |
 |---|---|---|---|
 | "If you are running a marathon in the next few weeks," | **Gate**, unchanged | | |
-| "...your heart rate will climb all race even at the same pace, so the number on your watch at five K matters more than the one at thirty-five." | **Surprising fact + collision** | Your watch at 5K vs at 35K | **Opened:** why the early number? How hard should it feel? |
+| "...your heart rate at thirty-five K should be higher than at five K, at exactly the same pace, and that is your race going to plan." | **Surprising fact + paradox + the reframe** (second half review: every opener under 35% skip ended on it) | Your watch at 5K vs at 35K | **Opened:** if high is fine, which number matters? How hard should it feel? Closed in stage 1 ("this is the heart rate that matters") |
 | "Go by pace alone on a warm or windy day, and you can be breathing hard by ten K on a pace that looks fine, with thirty-two K still to go." | **Pain, race outcome** | You gasping at 10K, watch saying all is well | Raised |
 | "Go by feel, and you are still talking at halfway, with something left for the end." | **Dream** | Chatting at the halfway mat | Raised |
 | "Runners call it the talk test ... so save this." | **Named concept, defined (P115), save** | | Open |
@@ -51,13 +52,13 @@ a different race.
 concept (the talk test); every marathoner; the angle (the early number
 matters, the late one doesn't); the top Reddit signal (watch/GPS, 66).
 
-## Script (about 310 words, about 1:37)
+## Script (about 300 words, about 1:35)
 
 **[ON SCREEN, held ~10s]**
 "How hard a marathon should feel at every 10K"
 
 **[HOOK]**
-"If you are running a marathon in the next few weeks, your heart rate will climb all race even at the same pace, so the number on your watch at five K matters more than the one at thirty-five." ⚑1
+"If you are running a marathon in the next few weeks, your heart rate at thirty-five K should be higher than at five K, at exactly the same pace, and that is your race going to plan." ⚑1
 
 **[PAIN, DREAM]**
 "Go by pace alone on a warm or windy day, and you can be breathing hard by ten K on a pace that looks fine, with thirty-two K still to go. Go by feel, and you are still talking at halfway, with something left for the end."
@@ -66,7 +67,7 @@ matters, the late one doesn't); the top Reddit signal (watch/GPS, 66).
 "Runners call it the talk test. Score it out of ten, where one is walking and ten is a sprint, and here is how hard every 10K should feel, so save this."
 
 **[1. 0-10K: 4 OUT OF 10, FULL SENTENCES]**
-"The first ten K should feel like a four. You can say full sentences without catching your breath. Check your heart rate against the marathon pace parts of your long runs: if it is higher than it was there, slow down until it drops, whatever your pace says." ⚑2
+"The first ten K should feel like a four, full sentences without catching your breath, and this is the heart rate that matters. If it is higher than in the marathon pace parts of your long runs, slow down until it drops, whatever your pace says." ⚑2
 
 **[2. 10-20K: 5 OUT OF 10, STILL TALKING]**
 "Ten to twenty, a five. Still full sentences, just more focus. If your watch says goal pace but you are breathing hard, trust your breathing and ease off five seconds a K." ⚑3
@@ -131,19 +132,19 @@ No statistics, studies, named people or medication. The safety line
 | Four stages on one axis; each opens on the unexpected, ends on an action; a reason each | Yes |
 | P115: universal rule plus examples; every term defined | The 1-10 scale defined; talk test per stage; 5 s/K |
 | New and consistent | Tables above |
-| One-sentence pre-launch CTA; ~310 words, ~1:37 | Yes; time the cut |
+| One-sentence pre-launch CTA; ~300 words, ~1:35 | Yes; time the cut |
 | No statistics, studies, medication, named people, dated audio; voice rules; P114 | Pass |
 
 ## Cover
 
 **First choice, if real: a screenshot of Luke's own heart rate graph
 from a long run or race where the pace line is flat and the heart rate
-line climbs.** Line one as a picture. Crop to the graph only; no map,
-no name. Real only.
+line climbs.** Line one as a picture, and a new picture: **not the
+splits graphic again** (second half reused it; skip rose to 38.1%).
+Crop to the graph only; no map, no name. Real only.
 
-Otherwise: the first 10 minutes approach (his own splits) won't show
-this; use the Eugene "Early In The Race" pack shot as the fallback,
-credited "Cover photo: ex_magician, CC BY 2.0".
+Fallback: the Eugene "Early In The Race" pack shot, credited "Cover
+photo: ex_magician, CC BY 2.0".
 
 ## Posting
 
