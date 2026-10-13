@@ -181,19 +181,24 @@ heart rate drift as normal, holding the sprint for the last 800m.
 | One-sentence pre-launch CTA; ~320 words, ~1:40 | Yes; time the cut, trim over 1:45 |
 | No statistics, studies, medication, named people, dated audio; voice rules; P114 | Pass |
 
-## Cover
+## Cover (decided 13 Oct)
 
-**First choice, if real: a screenshot of Luke's own heart rate graph
-from a long run or race where the pace line is flat and the heart rate
-line climbs.** Line one as a picture, and a new picture: **not the
-splits graphic again** (second half reused it; skip rose to 38.1%).
-Crop to the graph only; no map, no name. Real only.
-
-Fallback: "Getting Tougher - Along The Course - 2011 Eugene Marathon",
-ex_magician, CC BY 2.0 (checked 4 Oct, never posted): one runner late
-in the race at the Mile 19 banner, the nine-out-of-ten moment. Credit
-"Cover photo: ex_magician, CC BY 2.0".
+**"Getting Tougher - Along The Course - 2011 Eugene Marathon"**,
+ex_magician, **CC BY 2.0**, checked 4 Oct, never posted. One runner,
+back to camera, walking past the MILE 19 banner (about 30K): the pain
+line ("walking by thirty-two K") and the title ("how hard") in one
+picture.
 https://upload.wikimedia.org/wikipedia/commons/3/30/Getting_Tougher_-_Along_The_Course_-_2011_Eugene_Marathon.jpg
+Credit, caption's last line: "Cover photo: ex_magician, CC BY 2.0".
+Crop to 9:16 around the runner and the banner.
+
+**Why this over Luke's heart rate graph:** the last two covers were
+data screenshots (splits), and the second one, a repeat, ran 38.1%
+skip. A third data graphic in a row reads as the same video. A person
+with the problem is our second-best cover type (runner in trouble,
+25.5%, behind only the course map). The heart rate graph is a good
+on-screen insert at stage 3 ("your heart rate will creep up") if Luke
+wants it, never the cover.
 
 ## Posting
 
