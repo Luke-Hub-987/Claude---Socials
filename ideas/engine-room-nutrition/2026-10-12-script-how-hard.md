@@ -4,7 +4,7 @@ brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-12
 slot: SAFE: race day + race-pace decision, on the wall's race clock (every 10K)
 basis: Luke's ask (12 Oct: effort and heart rate, not just paces), the wall (147K), first 10 minutes, second half, first half, Reddit research (watch/GPS 66, the top signal), SCRIPT-CHECKLIST.md, P1-P117
-status: v4 FINAL 13 Oct (Luke's science, kept simple; no zones on screen; hook rebuilt on the latest skip data) (hook ends on the reframe; the early-number answer held for stage 1; trimmed), after the second half review
+status: v5 FINAL 13 Oct (talk test made measurable: one ten-word sentence, words per breath, how it sounds; Luke) (hook ends on the reframe; the early-number answer held for stage 1; trimmed), after the second half review
 ---
 
 # How hard a marathon should feel at every 10K
@@ -34,8 +34,8 @@ zones disagree); "How your marathon should feel..." ("a marathon"
 matches every winner).
 
 **Markers, the stage, the score and the talk test (P111):**
-0-10K: 4/10, FULL SENTENCES / 10-20K: 5/10, STILL TALKING /
-20-30K: 6/10, SHORT SENTENCES / 30K TO THE LINE: 9/10, A FEW WORDS
+0-10K: 4/10, 10 WORDS, ONE BREATH / 10-20K: 5/10, 10 WORDS, BREATHY /
+20-30K: 6/10, 5 WORDS A BREATH / 30K TO THE LINE: 9/10, 2 OR 3 WORDS
 
 ## The Zero to One secret (Luke's, 13 Oct)
 
@@ -71,36 +71,38 @@ loop stays open to the last stage, and the rehook reopens it.
 "If you are running a marathon in the next few weeks, the pace that feels easy at five K should feel like a nine out of ten by thirty-five, and that is your race going to plan." ⚑1
 
 **[PAIN, DREAM]**
-"Run the first ten K at a pace that already feels like work, and you are walking by thirty-two K. Get the effort right at every 10K, and you are still running your pace at forty."
+"Run the first ten K at a pace that already feels like work, and you are walking by thirty-two K. Get the effort right, and you are still on your pace at forty."
 
 **[NAMED CONCEPT, SAVE PROMPT]**
-"Runners call it the talk test. Score it out of ten, where one is walking and ten is a sprint, and here is how hard every 10K should feel, so save this."
+"Runners call it the talk test, and here is the sentence to use: I am running a marathon today and I feel good. That is ten words. Score the effort out of ten, where one is walking and ten is a sprint, and here is every 10K, so save this."
 
 **[1. 0-10K: 4/10, FULL SENTENCES]**
-"The first ten K should feel almost too slow, a four, full sentences. If it already feels like work, you are going too fast. With a heart rate monitor, stay under about eighty percent of your max, so under one fifty-two if your max is one ninety." ⚑2
+"The first ten K should feel like a four. You can say all ten words in one breath, in your normal voice, like chatting at a bus stop. If you cannot, you are going too fast. With a heart rate monitor, stay under about eighty percent of your max, so under one fifty-two if your max is one ninety." ⚑2
 
 **[2. 10-20K: 5/10, STILL TALKING]**
-"Ten to twenty, a five. You can still say a full sentence, you just would rather not. On a hill or into the wind, let your pace slip and keep the effort the same, and take a gel every twenty minutes." ⚑3
+"Ten to twenty, a five. You still get all ten words out in one breath, but it sounds a bit breathy and you would rather not. On a hill or into the wind, let your pace slip and keep the effort the same, and take a gel every twenty minutes." ⚑3
 
 **[3. 20-30K: 6/10, SHORT SENTENCES]**
-"Twenty to thirty, a six, short sentences. Your heart rate will creep up at the same pace, and that is normal. Shorten your step and quicken your feet, so each landing is lighter." ⚑4
+"Twenty to thirty, a six. You get about five words, I am running a marathon, and then you need a breath. Your heart rate will creep up at the same pace, and that is normal. Shorten your step and quicken your feet." ⚑4
 
 **[REHOOK]**
 "And the last one is where a nine out of ten is the plan."
 
 **[4. 30K TO THE LINE: 9/10, A FEW WORDS]**
-"From thirty, the same pace climbs to an eight, then a nine, a few words at a time, and that is the race going right. Run lamppost to lamppost, and save your sprint for the last eight hundred metres, driving your elbows back." ⚑5
+"From thirty, the same pace climbs to an eight, then a nine, and you only get two or three words between breaths. That is the race going right. Run lamppost to lamppost, and save your sprint for the last eight hundred metres, driving your elbows back." ⚑5
 
 **[CTA, one sentence]**
 "Save this for race day, and the free race week guide and first go at the bar are in the bio."
 
 ## The worked example (caption)
 
-How hard a marathon should feel (1 = walking, 10 = sprinting):
-- 0-10K: 4/10. Full sentences, almost too slow. Feels like work? Too fast. Heart rate under about 80% of max (max 190 = under 152).
-- 10-20K: 5/10. A full sentence if you have to. Hill or wind? Let pace slip, keep effort the same. Gel every 20 min.
-- 20-30K: 6/10. Short sentences. Heart rate creeping up at the same pace is normal. Shorter, quicker steps.
-- 30K to the line: 8, then 9/10. A few words. That's the plan. Lamppost to lamppost; sprint only in the last 800m, elbows back.
+How hard a marathon should feel (1 = walking, 10 = sprinting).
+The talk test sentence: "I am running a marathon today and I feel good" (10 words).
+- 0-10K: 4/10. All 10 words in one breath, normal voice, like chatting at a bus stop. Can't? Too fast. Heart rate under about 80% of max (max 190 = under 152).
+- 10-20K: 5/10. All 10 words in one breath, a bit breathy. Hill or wind? Let pace slip, keep effort the same. Gel every 20 min. Heart rate around 80%.
+- 20-30K: 6/10. About 5 words ("I am running a marathon"), then a breath. Heart rate creeping into the low-to-mid 80s at the same pace is normal. Shorter, quicker steps.
+- 30K to the line: 8, then 9/10. 2 or 3 words between breaths. That's the plan. Heart rate high 80s to low 90s is normal; stop checking it. Lamppost to lamppost; sprint only in the last 800m, elbows back.
+Can still say all 10 words at 35K? That's your signal to push.
 Dizzy, chest pain or confused at any point: stop and go to the medical team.
 
 ## Luke's science (13 Oct), checked: kept simple
@@ -154,7 +156,7 @@ running (as the lamppost rule in quit); hold the sprint until the last
 | Point | Earlier | Here |
 |---|---|---|
 | Easy early; feels too slow | First 10 minutes ("first K the slowest"), first half, the wall | 0-10K "almost too slow" |
-| Full sentence at halfway | First half, second half | 10-20K |
+| Full sentence at halfway; full sentence at 35K = push | First half, second half | Now defined: all ten words of the test sentence in one breath (10-20K; caption at 35K) |
 | Gel every 20 minutes | The wall, first 10 minutes, second half | 10-20K |
 | Effort over pace on hills and wind | Dublin | 10-20K |
 | Shorter, quicker steps | The wall, second half, quit | 20-30K |
@@ -174,7 +176,7 @@ heart rate drift as normal, holding the sprint for the last 800m.
 | P116 photograph test, line one; ends on the reframe (13 Oct) | You cruising at 5K, grinding at 35K, same pace; "and that is your race going to plan" |
 | P112 order; five lines; gate unchanged; never contains the answer | Yes; the scale per 10K is held for the stages |
 | Four stages on one axis; each opens on the unexpected, ends on an action; a reason each | Yes |
-| P115: universal rule plus examples; every term defined; kept simple (Luke) | The 1-10 scale defined; talk test per stage; one heart rate number with an example (under 80%, 152 for a max of 190); gel every 20 minutes; last 800m |
+| P115: universal rule plus examples; every term defined and measurable (Luke, 13 Oct: "how long is a sentence?") | One ten-word test sentence; words per breath per 10K (10, 10 breathy, 5, 2-3); how it sounds; the 1-10 scale defined; one heart rate number with an example; gel every 20 minutes; last 800m |
 | New and consistent | Table below |
 | One-sentence pre-launch CTA; ~300 words, ~1:35 | Yes; time the cut |
 | No statistics, studies, medication, named people, dated audio; voice rules; P114 | Pass |

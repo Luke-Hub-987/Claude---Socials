@@ -4326,6 +4326,11 @@ rice and a protein like chicken in every meal" read as a menu.
   viewer (a percentage of their own number, their own pace); the
   example shows it once with real numbers they can copy today.
 - **Every session spelled out:** distance or time, pace, recoveries.
+- **Make every cue measurable** (Luke, 13 Oct, on "full sentences": how
+  long is a sentence?). A feel cue needs a number like a heart rate
+  does: one test sentence they can say ("I am running a marathon today
+  and I feel good", ten words), words per breath at each stage, and how
+  it should sound.
 - **Define every term, or drop it.** If Luke would have to ask what it
   means, it goes ("pick-ups", "strides", "tempo", "threshold").
 - **Read food lines literally** (as P107, P108): say what you mean

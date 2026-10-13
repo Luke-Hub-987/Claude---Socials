@@ -187,6 +187,9 @@ twice without being checked against the winners (P99).
       stages, and keep one piece back for the last stage, reopened by
       the rehook. (Taper v2 said "the trick is to run less at the same
       pace" in line one.)
+- [ ] **Every cue measurable (P115, 13 Oct):** "full sentences" or "easy"
+      becomes a count (ten words in one breath, five, two or three) and
+      how it sounds.
 - [ ] **Copyable (P115):** a universal instruction (a percentage of
       their own number, their own pace), then one worked example with
       real numbers. Every session has distance or time, pace and
