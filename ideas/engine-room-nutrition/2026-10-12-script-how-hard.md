@@ -4,7 +4,7 @@ brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-12
 slot: SAFE: race day + race-pace decision, on the wall's race clock (every 10K)
 basis: Luke's ask (12 Oct: effort and heart rate, not just paces), the wall (147K), first 10 minutes, second half, first half, Reddit research (watch/GPS 66, the top signal), SCRIPT-CHECKLIST.md, P1-P117
-status: v5 FINAL 13 Oct (talk test made measurable: one ten-word sentence, words per breath, how it sounds; Luke) (hook ends on the reframe; the early-number answer held for stage 1; trimmed), after the second half review
+status: v6 FINAL 13 Oct (a heart rate band for every stage, alongside words per breath; Luke) (hook ends on the reframe; the early-number answer held for stage 1; trimmed), after the second half review
 ---
 
 # How hard a marathon should feel at every 10K
@@ -33,9 +33,9 @@ promises a number); "What heart rate to run a marathon at" (jargon,
 zones disagree); "How your marathon should feel..." ("a marathon"
 matches every winner).
 
-**Markers, the stage, the score and the talk test (P111):**
-0-10K: 4/10, 10 WORDS, ONE BREATH / 10-20K: 5/10, 10 WORDS, BREATHY /
-20-30K: 6/10, 5 WORDS A BREATH / 30K TO THE LINE: 9/10, 2 OR 3 WORDS
+**Markers, the stage, words per breath and heart rate (P111; Luke 13 Oct: a heart rate for every stage):**
+0-10K: 10 WORDS, UNDER 80% HR / 10-20K: 10 WORDS, AROUND 80% HR /
+20-30K: 5 WORDS, 80-85% HR / 30K TO THE LINE: 2-3 WORDS, 85-92% HR
 
 ## The Zero to One secret (Luke's, 13 Oct)
 
@@ -62,7 +62,7 @@ loop stays open to the last stage, and the rehook reopens it.
 | "Runners call it the talk test ... so save this." | **Named concept, defined, save** | | Open |
 | "And the last one is where a nine out of ten is the plan." | **Rehook**, back to line one | | Reopened for stage 4 |
 
-## Script (about 320 words, about 1:40)
+## Script (about 330 words, about 1:45)
 
 **[ON SCREEN, held ~10s]**
 "How hard a marathon should feel at every 10K"
@@ -74,35 +74,36 @@ loop stays open to the last stage, and the rehook reopens it.
 "Run the first ten K at a pace that already feels like work, and you are walking by thirty-two K. Get the effort right, and you are still on your pace at forty."
 
 **[NAMED CONCEPT, SAVE PROMPT]**
-"Runners call it the talk test. Use this sentence: I am running a marathon today and I feel good. That is ten words, and here is how many you should get out at every 10K, so save this."
+"Runners call it the talk test, and you use it with your heart rate. Say this sentence: I am running a marathon today and I feel good. Here is how many of those ten words you should get out, and your heart rate, at every 10K, so save this."
 
-**[1. 0-10K: 4/10, FULL SENTENCES]**
-"The first ten K should feel like a four. You can say all ten words in one breath, in your normal voice, like chatting at a bus stop. If you cannot, you are going too fast. On a heart rate monitor, that is under about eighty percent of your max, one fifty-two if your max is one ninety." ⚑2
+**[1. 0-10K: 10 WORDS, UNDER 80% HR]**
+"The first ten K should feel easy. You can say all ten words in one breath, in your normal voice, and your heart rate stays under eighty percent of your max, under one fifty-two if your max is one ninety. If either one is off, slow down." ⚑2
 
-**[2. 10-20K: 5/10, STILL TALKING]**
-"Ten to twenty, a five. All ten words still come out in one breath, just a bit breathy. On hills or into wind, keep the effort and let the pace slip, and take a gel every twenty minutes." ⚑3
+**[2. 10-20K: 10 WORDS, AROUND 80% HR]**
+"Ten to twenty, all ten words still come out in one breath, just a bit breathy, at around eighty percent, about one fifty-two. On hills or into wind, keep the effort and let the pace slip, and take a gel every twenty minutes." ⚑3
 
-**[3. 20-30K: 6/10, SHORT SENTENCES]**
-"Twenty to thirty, a six. You get about five words, I am running a marathon, and then you need a breath. Your heart rate will creep up at the same pace, and that is normal. Shorten your step and quicken your feet." ⚑4
+**[3. 20-30K: 5 WORDS, 80-85% HR]**
+"Twenty to thirty, you get about five words, I am running a marathon, then a breath, and your heart rate creeps up to eighty to eighty-five percent, up to one sixty-two. That is normal at the same pace, so hold it and shorten your step." ⚑4
 
 **[REHOOK]**
 "And the last one is where a nine out of ten is the plan."
 
-**[4. 30K TO THE LINE: 9/10, A FEW WORDS]**
-"From thirty, the same pace climbs to an eight, then a nine, and you only get two or three words between breaths. That is the race going right. Run lamppost to lamppost, and save your sprint for the last eight hundred metres, driving your elbows back." ⚑5
+**[4. 30K TO THE LINE: 2-3 WORDS, 85-92% HR]**
+"From thirty, the same pace feels like an eight, then a nine, with two or three words between breaths and your heart rate at eighty-five to ninety-two percent, up to about one seventy-five. That is the race going right. Run lamppost to lamppost, and save your sprint for the last eight hundred metres." ⚑5
 
 **[CTA, one sentence]**
 "Save this for race day, and the free race week guide and first go at the bar are in the bio."
 
 ## The worked example (caption)
 
-How hard a marathon should feel (1 = walking, 10 = sprinting).
-The talk test sentence: "I am running a marathon today and I feel good" (10 words).
-- 0-10K: 4/10. All 10 words in one breath, normal voice, like chatting at a bus stop. Can't? Too fast. Heart rate under about 80% of max (max 190 = under 152).
-- 10-20K: 5/10. All 10 words in one breath, a bit breathy. Hill or wind? Let pace slip, keep effort the same. Gel every 20 min. Heart rate around 80%.
-- 20-30K: 6/10. About 5 words ("I am running a marathon"), then a breath. Heart rate creeping into the low-to-mid 80s at the same pace is normal. Shorter, quicker steps.
-- 30K to the line: 8, then 9/10. 2 or 3 words between breaths. That's the plan. Heart rate high 80s to low 90s is normal; stop checking it. Lamppost to lamppost; sprint only in the last 800m, elbows back.
-Can still say all 10 words at 35K? That's your signal to push.
+How hard a marathon should feel at every 10K: the talk test and your heart rate, together.
+Test sentence: "I am running a marathon today and I feel good" (10 words). Heart rate as % of your max (example: max 190).
+- 0-10K: all 10 words in one breath, normal voice. Heart rate under 80% (under 152). Either one off? Too fast.
+- 10-20K: all 10 words, a bit breathy. Around 80% (about 152). Hills or wind: keep the effort, let pace slip. Gel every 20 min.
+- 20-30K: about 5 words, then a breath. 80-85% (152-162) at the same pace is normal. Hold pace, shorter steps.
+- 30K to the line: 2 or 3 words between breaths. 85-92% (162-175). That's the plan. Lamppost to lamppost; sprint only in the last 800m.
+Still saying all 10 words at 35K? That's your signal to push.
+Wrist heart rate can jump around early on; if it disagrees with your breathing, trust your breathing.
 Dizzy, chest pain or confused at any point: stop and go to the medical team.
 
 ## Luke's science (13 Oct), checked: kept simple
@@ -146,7 +147,7 @@ running (as the lamppost rule in quit); hold the sprint until the last
 | # | Claim | Basis |
 |---|---|---|
 | 1 | The same pace feels progressively harder; heart rate drifts up | Cardiovascular drift and fatigue, well established; no numbers |
-| 2 | Early effort should feel easy; under about 80% of max as a ceiling | Coaching guide; "about"; consistent with 5-10 s/K slower early |
+| 2 | Heart rate bands by stage: under 80%, around 80%, 80-85%, 85-92% of max | Luke's notes for 20K onward (80-85%, 86-92%); the first 10K raised from his 68-75% to "under 80%" to match 5-10 s/K slower than goal in earlier videos. Typical recreational marathon heart rate sits around 80-88% of max and drifts up. "For most runners"; the caption adds: trust breathing if the wrist reading disagrees |
 | 3 | Hold effort, not pace, on hills and wind; gel every 20 minutes | As Dublin and the wall |
 | 4 | Shorter, quicker steps lighten landings | As the wall and second half |
 | 5 | Late sprints on empty legs risk cramp and collapsing form; hold until 800m | Practical; said as an instruction, no mechanism |
