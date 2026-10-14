@@ -133,7 +133,11 @@ twice without being checked against the winners (P99).
 
 - [ ] **One-sentence CTA, no thread line** (P97). The cliff sat exactly
       at the thread line.
-- [ ] **Pre-launch CTA only:** the free guide and first go at the bar.
+- [ ] **Pre-launch CTA (updated 14 Oct):** the free personalised plan
+      (email your race and goal time via the link in bio). It drew 4
+      emails on its first use. Also in the caption and pinned comment,
+      since fewer than one in ten viewers reach the end. Track emails
+      per video. Ask for consent before adding anyone to a launch list.
 - [ ] **Time the finished cut before posting. Over 1:20, trim or
       re-record** (P100). Cramp: ~300 words ran 1:31.
 - [ ] **~250 spoken words is the target, never at the cost of clarity**
