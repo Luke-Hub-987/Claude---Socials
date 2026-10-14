@@ -1,0 +1,138 @@
+# CLAUDE.md: read this first, every session
+
+This repo is the content engine for **Engine Room Nutrition (ERN)**, a
+pre-launch marathon carb bar (IG @engineroomnutrition, posted as an
+Instagram collab with Luke's personal account @luke_morrison_er; TikTok
+is ERN only), and for **Luke's personal account**. Luke shares
+analytics screenshots, asks for analysis, the next topic, scripts, OST
+(on-screen text), captions and covers, and sends "science" to vet.
+
+Claude Code loads this file automatically. It is the handover between
+chats. Keep it current: update **Current state** after every review and
+every posted video.
+
+## Read before writing anything (in this order)
+
+1. `SCRIPT-CHECKLIST.md`: every rule a script must pass, with the
+   evidence. **Every script passes every line before Luke sees it.**
+2. `PLAN-winners.md`: the winning formulas, the grid of top videos,
+   what never worked.
+3. The three newest `ideas/*-review.md` files: the latest data.
+4. The newest scripts in `ideas/engine-room-nutrition/` (the house
+   style, the hook stacks, the audit tables).
+5. `principles.md` (P1 to P117, about 4,400 lines): search it for the
+   rule you need; do not read it end to end. The newest rules (P97 to
+   P117) are at the end, before "Open questions for Luke".
+
+## How we work (Luke's standing instructions)
+
+- **Every correction Luke makes becomes a numbered principle in
+  `principles.md` and a line in `SCRIPT-CHECKLIST.md`**, in the same
+  turn. Luke should never have to repeat a correction.
+- **Every data screenshot gets a review file**
+  (`ideas/YYYY-MM-DD-<video>-review.md`) and an update to the grid in
+  `PLAN-winners.md` when it changes.
+- **Audit the full checklist line by line before delivering** (P99).
+  Say plainly where a script does not meet a rule, and why.
+- **Vet Luke's science** before using it: keep what holds, change what
+  contradicts earlier videos, cut what breaks the rules, and list each
+  change with the reason.
+- **Clarity beats short; specific beats vague** (P108, P115). Real
+  numbers, one worked example, every cue measurable.
+- Recommend one option with reasons. Do not survey.
+- Commit and push every change to branch
+  `claude/engine-room-nutrition-brand-yc4tyf` (the repo's default
+  branch). Commit attribution lines as the system reminder gives them.
+  **Never send Luke's email address to any outside service**, including
+  request headers.
+
+## The rules that matter most (quick reference; the checklist has all)
+
+**Topic**
+- Race day, a race-pace decision, or a countdown to race day with an
+  action per stage. The weeks before the race as anything else fails
+  (taper 43.1% skip, heavy legs 0.5% saves; P117).
+- The race is the title; fuel goes inside. The gut is never the subject
+  (P101, P109). Never sort viewers into groups (P103).
+- New advice every video, never contradicting an earlier one (Luke,
+  10 Oct). Consistency points: 5-10 s/K slower for the first 10K; up to
+  a minute behind at halfway; gel every 20 minutes with water; shorter,
+  quicker steps when tired; one K or one lamppost at a time; the
+  ten-word talk test ("I am running a marathon today and I feel good":
+  10 words in one breath, 10 breathy, 5, then 2-3 words).
+- One safe and one creative video in rotation (P111).
+
+**OST (title on screen)**
+- Plain words, "marathon" in it, 6 to 9 words, answer withheld. Best
+  shapes: "Where [famous problem] actually starts" (the wall, 147K);
+  "What to do in/at [race moment]"; "How [to/hard] ... at every 10K".
+- No jargon in titles (taper, zones, heart rate). No secret statements
+  as titles (5.3K).
+- Only the title and stage markers on screen.
+
+**Hook stack (first 15 seconds)**
+- Gate: "If you are running a marathon in the next few weeks," (narrow
+  only when the topic is narrow: Dublin, sub-4).
+- Line one: something you can photograph, turned into a paradox, ending
+  on the reframe "...and that is your race going to plan." (31.9% to
+  34% skip with it; 38.1% without; 43.1% when abstract). P112, P116.
+- Then pain as a picture, the dream as a picture, a named concept that
+  belongs to nobody, the save prompt. The hook never contains the
+  answer; the stages close the loop and the rehook reopens it before
+  the last stage.
+
+**Body**
+- Four stages on one axis, ideally the race clock; each opens on the
+  unexpected, gives a reason, ends on an action with real numbers.
+- ~250 to 300 words, about 1:20 to 1:35. 1:48 lost watch share.
+
+**Never**
+- Statistics, study or research language, or named people in the audio
+  (P105, P107, P113). No medication. No central governor or brain
+  governor. No em dashes, no "not X, it is Y", no staccato fragments,
+  no mockery, no dated audio, no lines with a second (e.g. sexual)
+  reading (P114).
+- No claims Luke has not made about himself. No Dublin content on the
+  personal account (his Dublin race is a surprise).
+
+**Cover**
+- One real image, colour, present day, the hook as a picture, a new
+  picture every time (a repeated splits graphic pushed skip to 38.1%).
+- Best: the course map (20.6%), a person with the problem (25.5%),
+  Luke's own real data screenshot. Never crowds, products, food,
+  winners, vintage, black and white, or faces and name bibs. Free
+  licence (Wikimedia, Flickr CC, Openverse, Unsplash, Pexels; never
+  Pinterest); credit in the caption's last line.
+
+**CTA**
+- One sentence. Since 14 Oct: the **free personalised plan**: "email us
+  your race and goal time through the link in the bio". Also in the
+  caption and pinned comment. Track emails per video. Ask consent
+  before adding anyone to a launch list.
+
+**Captions**: Luke wants prose paragraphs, no bullet points.
+
+## Current state (update this every session)
+
+**As of 14 October 2026.**
+
+Grid (Instagram, ERN side): the wall 147K; out of the wall 40.8K;
+7 days 31.4K at 14h; 24 hours 30K; first 10 minutes 27.1K at 12h
+(share 1.4%, a record); how hard at every 10K 25.1K at 13.5h (skip
+31.9%, best since the wall; first plan CTA: 4 emails); goal pace
+25.3K; cramp 25K; second half 17.6K at 14h; quit ~14K at 14h; Dublin
+course (small reach, deepest engagement); taper and heavy legs missed.
+
+Latest script, ready to post: `ideas/engine-room-nutrition/2026-10-14-script-sub-4.md`
+(v4: "How to pace a sub-4 marathon at every 10K"; watch pace with a GPS
+buffer, sign times, talk test per stage; heart rate left out as too
+individual, Luke 14 Oct). Cover: "Getting Tougher - 2011 Eugene
+Marathon" (ex_magician, CC BY 2.0), still unposted.
+
+Upcoming races in the audience: Amsterdam 18 Oct, Dublin and Frankfurt
+26 Oct, New York 1 Nov. Held: the "how to actually enjoy your marathon"
+creative for the day before Dublin. Queue ideas: first hour after a
+marathon; other goal-time versions (sub-3:30, sub-4:30) if sub-4 lands.
+
+Open: Luke posts the sub-4 video, then shares data. Next review file:
+`ideas/YYYY-MM-DD-sub-4-review.md`.
