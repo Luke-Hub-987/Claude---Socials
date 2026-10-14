@@ -174,6 +174,9 @@ twice without being checked against the winners (P99).
 - [ ] **End line one on the reframe when it is true** ("and that is
       your race going to plan"): every opener under 35% skip had it (7
       days, quit, first 10 minutes); second half left it out, 38.1%.
+- [ ] **Covers: give Luke search terms, not old CC photos** (Luke, 14 Oct:
+      the Eugene set and similar are poor). Terms ranked by what the
+      picture must show; he picks; he checks the licence.
 - [ ] **A new cover picture every video.** Second half reused the first
       10 minutes splits graphic: returning viewers read it as a repeat.
 - [ ] **The photograph test** (P116, 8 Oct): could you take a photo of

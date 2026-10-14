@@ -104,6 +104,13 @@ every posted video.
   licence (Wikimedia, Flickr CC, Openverse, Unsplash, Pexels; never
   Pinterest); credit in the caption's last line.
 
+- **Luke, 14 Oct: stop recommending the old Creative Commons race photos
+  (the 2011 Eugene set and similar); he finds them poor.** Give him
+  specific search terms for Google Images and Pinterest, ranked by what
+  the picture must show, and he picks. Remind him in one line to check
+  the licence (Google's "Creative Commons licences" filter, or the same
+  image on Unsplash or Pexels).
+
 **CTA**
 - One sentence. Since 14 Oct: the **free personalised plan**: "email us
   your race and goal time through the link in the bio". Also in the
@@ -126,8 +133,7 @@ course (small reach, deepest engagement); taper and heavy legs missed.
 Latest script, ready to post: `ideas/engine-room-nutrition/2026-10-14-script-sub-4.md`
 (v4: "How to pace a sub-4 marathon at every 10K"; watch pace with a GPS
 buffer, sign times, talk test per stage; heart rate left out as too
-individual, Luke 14 Oct). Cover: "Getting Tougher - 2011 Eugene
-Marathon" (ex_magician, CC BY 2.0), still unposted.
+individual, Luke 14 Oct). Cover: Luke finds his own from search terms (14 Oct): a runner checking their watch mid-race; a 4:00 pacer flag from behind; a finish clock showing 3:59.
 
 Upcoming races in the audience: Amsterdam 18 Oct, Dublin and Frankfurt
 26 Oct, New York 1 Nov. Held: the "how to actually enjoy your marathon"
