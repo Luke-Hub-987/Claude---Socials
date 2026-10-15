@@ -155,8 +155,8 @@ terms (Google Images, Pinterest), with a licence check.
 
 The plan CTA keeps bringing in emails (Luke, 15 Oct): keep it on every video.
 
-Campaign email to the whole list (15 Oct, v2 redesign):
+Campaign email to the whole list (15 Oct, v3: subject "Your free marathon plan"; value first, no turnaround promise):
 `ideas/engine-room-nutrition/emails/2026-10-15-campaign-whats-your-race.md`
 and `.html`. One ask: reply with race, goal time, a recent time and current
-fuel. Sample plan uses the sub-4 video's numbers. Send to engaged segment
-first. Measure reply rate, not opens. Replace `REPLY_ADDRESS` before sending.
+fuel. Four race-day rules plus the sub-4 sample plan, all from the videos.
+Measure reply rate, not opens. Replace `REPLY_ADDRESS` before sending.

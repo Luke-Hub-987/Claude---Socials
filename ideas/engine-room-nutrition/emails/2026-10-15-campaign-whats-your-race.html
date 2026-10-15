@@ -6,7 +6,7 @@
 <meta name="x-apple-disable-message-reformatting">
 <meta name="color-scheme" content="light">
 <meta name="supported-color-schemes" content="light">
-<title>What's your race?</title>
+<title>Your free marathon plan</title>
 <!-- Loads in Apple Mail and iOS Mail; Gmail and Outlook fall back to Impact / Arial. -->
 <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,800;0,900;1,900&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style type="text/css">
@@ -25,6 +25,10 @@ a { text-decoration:none; }
 @keyframes ern47 { 0% { width:0%; } 100% { width:47%; } }
 @keyframes ern71 { 0% { width:0%; } 100% { width:71%; } }
 @keyframes ern95 { 0% { width:0%; } 100% { width:95%; } }
+@keyframes ernUp { 0% { opacity:0; transform:translateY(14px); } 100% { opacity:1; transform:translateY(0); } }
+@keyframes ernPop { 0% { opacity:0; transform:scale(0.6); } 70% { transform:scale(1.12); } 100% { opacity:1; transform:scale(1); } }
+@keyframes ernGlow { 0% { box-shadow:0 0 0 0 rgba(59,130,246,0.55); } 70% { box-shadow:0 0 0 12px rgba(59,130,246,0); } 100% { box-shadow:0 0 0 0 rgba(59,130,246,0); } }
+@keyframes ernRunner { 0% { left:0%; } 100% { left:97%; } }
 
 .hero-track { animation: ernTrack 2.2s cubic-bezier(0.22,0.61,0.36,1) 0.3s backwards; }
 .hm1 { animation: ernRise 0.4s ease-out 0.7s backwards; }
@@ -38,13 +42,25 @@ a { text-decoration:none; }
 .b71 { animation: ern71 1.3s cubic-bezier(0.22,0.61,0.36,1) 0.8s backwards; }
 .b95 { animation: ern95 1.5s cubic-bezier(0.22,0.61,0.36,1) 1.1s backwards; }
 .b100 { animation: ernTrack 1.7s cubic-bezier(0.22,0.61,0.36,1) 1.4s backwards; }
+.up1 { animation: ernUp 0.7s ease-out 0.1s backwards; }
+.up2 { animation: ernUp 0.7s ease-out 0.35s backwards; }
+.up3 { animation: ernUp 0.7s ease-out 0.6s backwards; }
+.r1 { animation: ernUp 0.6s ease-out 0.3s backwards; }
+.r2 { animation: ernUp 0.6s ease-out 0.7s backwards; }
+.r3 { animation: ernUp 0.6s ease-out 1.1s backwards; }
+.r4 { animation: ernUp 0.6s ease-out 1.5s backwards; }
+.pop1 { display:inline-block; animation: ernPop 0.5s ease-out 0.4s backwards; }
+.pop2 { display:inline-block; animation: ernPop 0.5s ease-out 0.8s backwards; }
+.pop3 { display:inline-block; animation: ernPop 0.5s ease-out 1.2s backwards; }
+.pop4 { display:inline-block; animation: ernPop 0.5s ease-out 1.6s backwards; }
+.btn-glow { animation: ernGlow 2.2s ease-out 1s infinite; }
+.runner { animation: ernRunner 2.2s cubic-bezier(0.22,0.61,0.36,1) 0.3s backwards; }
 
 @media only screen and (max-width:620px) {
   .email-container { width:100% !important; max-width:100% !important; }
   .pad { padding-left:20px !important; padding-right:20px !important; }
   .hero-headline { font-size:48px !important; line-height:0.98 !important; }
   .hero-sub { font-size:21px !important; }
-  .step-cell { display:block !important; width:100% !important; padding:0 0 10px 0 !important; }
   .plan-feel { font-size:11px !important; }
   .plan-num { font-size:15px !important; }
 }
@@ -54,7 +70,7 @@ a { text-decoration:none; }
 
 <!-- PREHEADER: the grey line after the subject in the inbox -->
 <div style="display:none; max-height:0; overflow:hidden; mso-hide:all; font-size:1px; line-height:1px; color:#eef1f6;">
-Reply with your race and goal time and we will build your plan, free.
+Reply with your race and goal time, and I will send back your pace and fuel for every 10K.
 &#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;
 </div>
 
@@ -79,17 +95,17 @@ Reply with your race and goal time and we will build your plan, free.
   <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-top:30px;">
     <tr>
       <td class="hero-headline" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:60px; font-weight:900; line-height:0.96; color:#ffffff; text-transform:uppercase; letter-spacing:0.5px;">
-        What's your<br>race?
+        <div class="up1">A free plan for<br>your marathon</div>
       </td>
     </tr>
     <tr>
       <td class="hero-sub" style="padding-top:10px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:25px; font-weight:900; font-style:italic; line-height:1.1; color:#3b82f6; text-transform:uppercase;">
-        Hit reply and we build your plan around it
+        <div class="up2">Reply with your race and goal time</div>
       </td>
     </tr>
     <tr>
       <td style="padding-top:14px; font-family:'DM Sans',Arial,sans-serif; font-size:14px; line-height:1.55; color:#bbbbbb;">
-        Your pace for every 10K, when to fuel, and how each stage should feel. Free, and back to you within 48 hours.
+        <div class="up3">I will send back the pace, the fuel and the effort for every 10K of it. Below are four rules you can use on race day either way.</div>
       </td>
     </tr>
   </table>
@@ -98,7 +114,10 @@ Reply with your race and goal time and we will build your plan, free.
   <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-top:28px; background-color:#1a3060; border-radius:4px;">
     <tr>
       <td style="padding:0; font-size:0; line-height:0;">
-        <div class="hero-track" style="width:100%; height:6px; background-color:#3b82f6; border-radius:4px; font-size:0; line-height:0;">&nbsp;</div>
+        <div style="position:relative; height:6px;">
+          <div class="hero-track" style="width:100%; height:6px; background-color:#3b82f6; border-radius:4px; font-size:0; line-height:0;">&nbsp;</div>
+          <div class="runner" style="position:absolute; left:97%; top:-4px; width:14px; height:14px; background-color:#ffffff; border-radius:7px; font-size:0; line-height:0;">&nbsp;</div>
+        </div>
       </td>
     </tr>
   </table>
@@ -126,7 +145,7 @@ Reply with your race and goal time and we will build your plan, free.
       </td>
       <td valign="middle" style="padding-left:10px;">
         <div style="font-family:'DM Sans',Arial,sans-serif; font-size:13px; font-weight:600; color:#0a0f1e;">Luke at The Engine Room</div>
-        <div style="font-family:'DM Sans',Arial,sans-serif; font-size:11px; color:#999999; padding-top:2px;">[DATE]&nbsp;&nbsp;·&nbsp;&nbsp;1 min read</div>
+        <div style="font-family:'DM Sans',Arial,sans-serif; font-size:11px; color:#999999; padding-top:2px;">[DATE]&nbsp;&nbsp;·&nbsp;&nbsp;3 min read</div>
       </td>
     </tr>
   </table>
@@ -139,59 +158,78 @@ Reply with your race and goal time and we will build your plan, free.
   <p style="margin:0 0 14px 0; font-family:'DM Sans',Arial,sans-serif; font-size:16px; font-weight:600; color:#0a0f1e;">Hi {{ first_name|default:'there' }},</p>
 
   <p style="margin:0 0 14px 0; font-family:'DM Sans',Arial,sans-serif; font-size:15px; line-height:1.72; color:#333333;">
-    A lot of you have found us through our marathon videos over the last few weeks. So for every one of you with a race booked, we are building a free plan around your race and your goal time.
+    A lot of you found us through our marathon videos over the last few weeks. Most of what we cover comes down to two questions: how fast to go, and when to eat.
   </p>
 
   <p style="margin:0 0 20px 0; font-family:'DM Sans',Arial,sans-serif; font-size:15px; line-height:1.72; color:#333333;">
-    All you have to do is reply to this email. It comes straight to me, and I read every one.
+    Below are the four rules from those videos that hold for almost every runner, whatever your goal time. Under them is what they look like as a full plan for someone aiming to finish under four hours. If you want the same plan worked out for your race, reply to this email. It comes straight to me, and I read every one.
   </p>
 
   <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
     <tr>
       <td style="border-left:3px solid #3b82f6; padding:2px 0 2px 14px; font-family:'DM Sans',Arial,sans-serif; font-size:17px; font-weight:700; line-height:1.5; color:#0a0f1e;">
-        You send me your race. I send back the pace, the fuel and the feel for every 10K of it.
+        You send me your race and goal time. I send back the pace, the fuel and the effort for every 10K of it, free.
       </td>
     </tr>
   </table>
 </td>
 </tr>
 
-<!-- ============ HOW IT WORKS ============ -->
+<!-- ============ FOUR RULES (the value) ============ -->
 <tr>
-<td class="pad" style="background-color:#ffffff; padding:28px 28px 0 28px;">
-  <div style="font-family:'DM Sans',Arial,sans-serif; font-size:10px; font-weight:600; letter-spacing:1.5px; color:#3b82f6; text-transform:uppercase;">How it works</div>
-  <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:26px; font-weight:800; color:#0a0f1e; text-transform:uppercase; padding:6px 0 14px 0; letter-spacing:0.5px;">Three steps, one reply</div>
+<td class="pad" style="background-color:#ffffff; padding:30px 28px 0 28px;">
+  <div style="font-family:'DM Sans',Arial,sans-serif; font-size:10px; font-weight:600; letter-spacing:1.5px; color:#3b82f6; text-transform:uppercase;">Use these on race day, whatever your goal</div>
+  <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:28px; font-weight:800; color:#0a0f1e; text-transform:uppercase; padding:6px 0 18px 0; letter-spacing:0.5px;">Four rules for your marathon</div>
 
   <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-    <tr>
-      <td class="step-cell" width="33%" valign="top" style="padding-right:8px;">
-        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#f0f5ff; border-radius:10px;">
-          <tr><td style="padding:16px 16px 18px 16px;">
-            <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:30px; font-weight:900; color:#3b82f6; line-height:1;">01</div>
-            <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:17px; font-weight:800; color:#0a0f1e; text-transform:uppercase; padding-top:8px; letter-spacing:0.5px;">Hit reply</div>
-            <div style="font-family:'DM Sans',Arial,sans-serif; font-size:13px; line-height:1.55; color:#555555; padding-top:4px;">Right here, to this email.</div>
-          </td></tr>
-        </table>
+    <tr class="r1">
+      <td width="44" valign="top" style="padding-bottom:18px;">
+        <span class="pop1"><table role="presentation" cellpadding="0" cellspacing="0" border="0" width="32" style="width:32px; height:32px; background-color:#0a0f1e; border-radius:16px;">
+          <tr><td align="center" valign="middle" style="height:32px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:17px; font-weight:900; color:#3b82f6;">1</td></tr>
+        </table></span>
       </td>
-      <td class="step-cell" width="33%" valign="top" style="padding:0 4px;">
-        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#f0f5ff; border-radius:10px;">
-          <tr><td style="padding:16px 16px 18px 16px;">
-            <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:30px; font-weight:900; color:#3b82f6; line-height:1;">02</div>
-            <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:17px; font-weight:800; color:#0a0f1e; text-transform:uppercase; padding-top:8px; letter-spacing:0.5px;">Send four things</div>
-            <div style="font-family:'DM Sans',Arial,sans-serif; font-size:13px; line-height:1.55; color:#555555; padding-top:4px;">Listed below. Short answers are perfect.</div>
-          </td></tr>
-        </table>
-      </td>
-      <td class="step-cell" width="33%" valign="top" style="padding-left:8px;">
-        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#0a0f1e; border-radius:10px;">
-          <tr><td style="padding:16px 16px 18px 16px;">
-            <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:30px; font-weight:900; color:#3b82f6; line-height:1;">03</div>
-            <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:17px; font-weight:800; color:#ffffff; text-transform:uppercase; padding-top:8px; letter-spacing:0.5px;">Get your plan</div>
-            <div style="font-family:'DM Sans',Arial,sans-serif; font-size:13px; line-height:1.55; color:#bbbbbb; padding-top:4px;">Back to you within 48 hours.</div>
-          </td></tr>
-        </table>
+      <td valign="top" style="padding-bottom:18px; border-bottom:1px solid #eef1f6;">
+        <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:20px; font-weight:800; color:#0a0f1e; text-transform:uppercase; letter-spacing:0.5px; padding-top:4px;">Start slower than your goal pace</div>
+        <div style="font-family:'DM Sans',Arial,sans-serif; font-size:14px; line-height:1.7; color:#444444; padding-top:4px;">Run the first 10K 5 to 10 seconds per K slower than the pace your goal time needs. You will be up to a minute behind at halfway, and that is your race going to plan.</div>
       </td>
     </tr>
+    <tr><td colspan="2" style="height:14px; font-size:0; line-height:0;">&nbsp;</td></tr>
+    <tr class="r2">
+      <td width="44" valign="top" style="padding-bottom:18px;">
+        <span class="pop2"><table role="presentation" cellpadding="0" cellspacing="0" border="0" width="32" style="width:32px; height:32px; background-color:#0a0f1e; border-radius:16px;">
+          <tr><td align="center" valign="middle" style="height:32px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:17px; font-weight:900; color:#3b82f6;">2</td></tr>
+        </table></span>
+      </td>
+      <td valign="top" style="padding-bottom:18px; border-bottom:1px solid #eef1f6;">
+        <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:20px; font-weight:800; color:#0a0f1e; text-transform:uppercase; letter-spacing:0.5px; padding-top:4px;">Take a gel every 20 minutes</div>
+        <div style="font-family:'DM Sans',Arial,sans-serif; font-size:14px; line-height:1.7; color:#444444; padding-top:4px;">Take your first at minute 20, before you feel you need it, and every 20 minutes after that. Take each one with water.</div>
+      </td>
+    </tr>
+    <tr><td colspan="2" style="height:14px; font-size:0; line-height:0;">&nbsp;</td></tr>
+    <tr class="r3">
+      <td width="44" valign="top" style="padding-bottom:18px;">
+        <span class="pop3"><table role="presentation" cellpadding="0" cellspacing="0" border="0" width="32" style="width:32px; height:32px; background-color:#0a0f1e; border-radius:16px;">
+          <tr><td align="center" valign="middle" style="height:32px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:17px; font-weight:900; color:#3b82f6;">3</td></tr>
+        </table></span>
+      </td>
+      <td valign="top" style="padding-bottom:18px; border-bottom:1px solid #eef1f6;">
+        <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:20px; font-weight:800; color:#0a0f1e; text-transform:uppercase; letter-spacing:0.5px; padding-top:4px;">Check your effort with ten words</div>
+        <div style="font-family:'DM Sans',Arial,sans-serif; font-size:14px; line-height:1.7; color:#444444; padding-top:4px;">Say &ldquo;I am running a marathon today and I feel good&rdquo;. At 10K you should get all ten words out in one breath. By 20K, ten words but breathy. By 30K, about five. By 40K, two or three.</div>
+      </td>
+    </tr>
+    <tr><td colspan="2" style="height:14px; font-size:0; line-height:0;">&nbsp;</td></tr>
+    <tr class="r4">
+      <td width="44" valign="top" style="padding-bottom:18px;">
+        <span class="pop4"><table role="presentation" cellpadding="0" cellspacing="0" border="0" width="32" style="width:32px; height:32px; background-color:#0a0f1e; border-radius:16px;">
+          <tr><td align="center" valign="middle" style="height:32px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:17px; font-weight:900; color:#3b82f6;">4</td></tr>
+        </table></span>
+      </td>
+      <td valign="top" style="padding-bottom:18px; border-bottom:1px solid #eef1f6;">
+        <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:20px; font-weight:800; color:#0a0f1e; text-transform:uppercase; letter-spacing:0.5px; padding-top:4px;">When it hurts, shorten your steps</div>
+        <div style="font-family:'DM Sans',Arial,sans-serif; font-size:14px; line-height:1.7; color:#444444; padding-top:4px;">Take shorter, quicker steps. Then run one K at a time, or one lamppost at a time.</div>
+      </td>
+    </tr>
+    <tr><td colspan="2" style="height:14px; font-size:0; line-height:0;">&nbsp;</td></tr>
   </table>
 </td>
 </tr>
@@ -204,14 +242,14 @@ Reply with your race and goal time and we will build your plan, free.
       <td style="padding:22px 20px 20px 20px;">
         <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
           <tr>
-            <td style="font-family:'DM Sans',Arial,sans-serif; font-size:10px; font-weight:600; letter-spacing:1.5px; color:#3b82f6; text-transform:uppercase;">What a plan looks like</td>
+            <td style="font-family:'DM Sans',Arial,sans-serif; font-size:10px; font-weight:600; letter-spacing:1.5px; color:#3b82f6; text-transform:uppercase;">The four rules as one plan</td>
             <td align="right">
               <span style="display:inline-block; border:1px solid #3b82f6; border-radius:3px; padding:3px 7px; font-family:'DM Sans',Arial,sans-serif; font-size:9px; font-weight:700; letter-spacing:1.5px; color:#3b82f6; text-transform:uppercase;">Sample</span>
             </td>
           </tr>
         </table>
         <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:26px; font-weight:900; color:#ffffff; text-transform:uppercase; padding:8px 0 4px 0; letter-spacing:0.5px;">Goal: under four hours</div>
-        <div style="font-family:'DM Sans',Arial,sans-serif; font-size:13px; line-height:1.55; color:#8899bb; padding-bottom:16px;">Three numbers at every sign: the pace on your watch, the time when you pass it, and how many words you can say in one breath.</div>
+        <div style="font-family:'DM Sans',Arial,sans-serif; font-size:13px; line-height:1.55; color:#8899bb; padding-bottom:16px;">For a runner aiming to finish under four hours. Three numbers at every 10K sign: the pace on your watch, the time on your watch as you pass the sign, and how many words you can say in one breath.</div>
 
         <!-- column heads -->
         <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
@@ -224,7 +262,7 @@ Reply with your race and goal time and we will build your plan, free.
         </table>
 
         <!-- 10K -->
-        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top:1px solid #1a3060;">
+        <table class="r1" role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top:1px solid #1a3060;">
           <tr>
             <td width="22%" class="plan-num" style="padding-top:10px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:17px; font-weight:900; color:#ffffff;">10K</td>
             <td width="22%" class="plan-num" style="padding-top:10px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:17px; font-weight:900; color:#3b82f6;">5:42</td>
@@ -237,7 +275,7 @@ Reply with your race and goal time and we will build your plan, free.
         </table>
 
         <!-- 20K -->
-        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top:1px solid #1a3060;">
+        <table class="r2" role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top:1px solid #1a3060;">
           <tr>
             <td width="22%" class="plan-num" style="padding-top:10px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:17px; font-weight:900; color:#ffffff;">20K</td>
             <td width="22%" class="plan-num" style="padding-top:10px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:17px; font-weight:900; color:#3b82f6;">5:35</td>
@@ -250,7 +288,7 @@ Reply with your race and goal time and we will build your plan, free.
         </table>
 
         <!-- 30K -->
-        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top:1px solid #1a3060;">
+        <table class="r3" role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top:1px solid #1a3060;">
           <tr>
             <td width="22%" class="plan-num" style="padding-top:10px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:17px; font-weight:900; color:#ffffff;">30K</td>
             <td width="22%" class="plan-num" style="padding-top:10px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:17px; font-weight:900; color:#3b82f6;">5:35</td>
@@ -263,7 +301,7 @@ Reply with your race and goal time and we will build your plan, free.
         </table>
 
         <!-- 40K -->
-        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top:1px solid #1a3060;">
+        <table class="r4" role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top:1px solid #1a3060;">
           <tr>
             <td width="22%" class="plan-num" style="padding-top:10px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:17px; font-weight:900; color:#ffffff;">40K</td>
             <td width="22%" class="plan-num" style="padding-top:10px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:17px; font-weight:900; color:#3b82f6;">5:35</td>
@@ -276,7 +314,7 @@ Reply with your race and goal time and we will build your plan, free.
         </table>
 
         <!-- Finish -->
-        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top:1px solid #1a3060;">
+        <table class="r4" role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top:1px solid #1a3060;">
           <tr>
             <td width="22%" class="plan-num" style="padding-top:10px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:17px; font-weight:900; color:#ffffff; text-transform:uppercase;">Finish</td>
             <td width="22%" class="plan-num" style="padding-top:10px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:17px; font-weight:900; color:#3b82f6;">5:25</td>
@@ -292,13 +330,13 @@ Reply with your race and goal time and we will build your plan, free.
         <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-top:16px; background-color:#0a0f1e; border-radius:8px;">
           <tr>
             <td style="padding:12px 14px; font-family:'DM Sans',Arial,sans-serif; font-size:13px; line-height:1.55; color:#ffffff;">
-              <span style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:14px; font-weight:900; color:#3b82f6; letter-spacing:1px; text-transform:uppercase;">Fuel&nbsp;&nbsp;</span>A gel every 20 minutes from minute 20, each one with water.
+              <span class="dot-pulse" style="display:inline-block; width:8px; height:8px; background-color:#3b82f6; border-radius:4px; margin-right:8px; vertical-align:middle;">&nbsp;</span><span style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:14px; font-weight:900; color:#3b82f6; letter-spacing:1px; text-transform:uppercase;">Fuel&nbsp;&nbsp;</span>A gel every 20 minutes from minute 20, each one with water.
             </td>
           </tr>
         </table>
 
         <div style="padding-top:14px; font-family:'DM Sans',Arial,sans-serif; font-size:13px; line-height:1.6; color:#8899bb;">
-          You are behind four-hour pace at 10K, and that is your race going to plan. Yours is built on your race, your goal and how you fuel now.
+          You pass 10K behind four-hour pace, and that is your race going to plan. Your own plan works out these numbers for your race, your goal time and how you fuel now.
         </div>
       </td>
     </tr>
@@ -309,15 +347,16 @@ Reply with your race and goal time and we will build your plan, free.
 <!-- ============ THE ASK ============ -->
 <tr>
 <td class="pad" style="background-color:#ffffff; padding:28px 28px 0 28px;">
-  <div style="font-family:'DM Sans',Arial,sans-serif; font-size:10px; font-weight:600; letter-spacing:1.5px; color:#3b82f6; text-transform:uppercase;">Hit reply</div>
-  <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:26px; font-weight:800; color:#0a0f1e; text-transform:uppercase; padding:6px 0 16px 0; letter-spacing:0.5px;">Send me these four</div>
+  <div style="font-family:'DM Sans',Arial,sans-serif; font-size:10px; font-weight:600; letter-spacing:1.5px; color:#3b82f6; text-transform:uppercase;">Your own plan, free</div>
+  <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:28px; font-weight:800; color:#0a0f1e; text-transform:uppercase; padding:6px 0 8px 0; letter-spacing:0.5px;">Reply with these four things</div>
+  <p style="margin:0 0 18px 0; font-family:'DM Sans',Arial,sans-serif; font-size:14px; line-height:1.7; color:#444444;">Short answers are perfect. Skip any you are not sure of.</p>
 
   <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
     <tr>
       <td width="38" valign="top">
-        <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="26" style="width:26px; height:26px; background-color:#0a0f1e; border-radius:13px;">
-          <tr><td align="center" valign="middle" style="height:26px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:14px; font-weight:900; color:#3b82f6;">1</td></tr>
-        </table>
+        <span class="pop1"><table role="presentation" cellpadding="0" cellspacing="0" border="0" width="26" style="width:26px; height:26px; background-color:#3b82f6; border-radius:13px;">
+          <tr><td align="center" valign="middle" style="height:26px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:14px; font-weight:900; color:#ffffff;">1</td></tr>
+        </table></span>
       </td>
       <td valign="top" style="padding-bottom:14px;">
         <div style="font-family:'DM Sans',Arial,sans-serif; font-size:15px; font-weight:600; color:#0a0f1e; padding-top:3px;">Your race and the date</div>
@@ -325,9 +364,9 @@ Reply with your race and goal time and we will build your plan, free.
     </tr>
     <tr>
       <td width="38" valign="top">
-        <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="26" style="width:26px; height:26px; background-color:#0a0f1e; border-radius:13px;">
-          <tr><td align="center" valign="middle" style="height:26px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:14px; font-weight:900; color:#3b82f6;">2</td></tr>
-        </table>
+        <span class="pop2"><table role="presentation" cellpadding="0" cellspacing="0" border="0" width="26" style="width:26px; height:26px; background-color:#3b82f6; border-radius:13px;">
+          <tr><td align="center" valign="middle" style="height:26px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:14px; font-weight:900; color:#ffffff;">2</td></tr>
+        </table></span>
       </td>
       <td valign="top" style="padding-bottom:14px;">
         <div style="font-family:'DM Sans',Arial,sans-serif; font-size:15px; font-weight:600; color:#0a0f1e; padding-top:3px;">Your goal time</div>
@@ -335,9 +374,9 @@ Reply with your race and goal time and we will build your plan, free.
     </tr>
     <tr>
       <td width="38" valign="top">
-        <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="26" style="width:26px; height:26px; background-color:#0a0f1e; border-radius:13px;">
-          <tr><td align="center" valign="middle" style="height:26px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:14px; font-weight:900; color:#3b82f6;">3</td></tr>
-        </table>
+        <span class="pop3"><table role="presentation" cellpadding="0" cellspacing="0" border="0" width="26" style="width:26px; height:26px; background-color:#3b82f6; border-radius:13px;">
+          <tr><td align="center" valign="middle" style="height:26px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:14px; font-weight:900; color:#ffffff;">3</td></tr>
+        </table></span>
       </td>
       <td valign="top" style="padding-bottom:14px;">
         <div style="font-family:'DM Sans',Arial,sans-serif; font-size:15px; font-weight:600; color:#0a0f1e; padding-top:3px;">One recent time</div>
@@ -346,9 +385,9 @@ Reply with your race and goal time and we will build your plan, free.
     </tr>
     <tr>
       <td width="38" valign="top">
-        <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="26" style="width:26px; height:26px; background-color:#0a0f1e; border-radius:13px;">
-          <tr><td align="center" valign="middle" style="height:26px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:14px; font-weight:900; color:#3b82f6;">4</td></tr>
-        </table>
+        <span class="pop4"><table role="presentation" cellpadding="0" cellspacing="0" border="0" width="26" style="width:26px; height:26px; background-color:#3b82f6; border-radius:13px;">
+          <tr><td align="center" valign="middle" style="height:26px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:14px; font-weight:900; color:#ffffff;">4</td></tr>
+        </table></span>
       </td>
       <td valign="top" style="padding-bottom:4px;">
         <div style="font-family:'DM Sans',Arial,sans-serif; font-size:15px; font-weight:600; color:#0a0f1e; padding-top:3px;">What you eat or drink on long runs now</div>
@@ -367,12 +406,12 @@ Reply with your race and goal time and we will build your plan, free.
       <td style="padding:24px 22px;">
         <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:24px; font-weight:900; color:#ffffff; text-transform:uppercase; line-height:1.1; letter-spacing:0.5px;">Race in the next seven days?</div>
         <p style="margin:8px 0 18px 0; font-family:'DM Sans',Arial,sans-serif; font-size:14px; line-height:1.7; color:rgba(255,255,255,0.78);">
-          Put <strong style="color:#ffffff;">RACE WEEK</strong> at the top of your reply and yours goes first.
+          Put <strong style="color:#ffffff;">RACE WEEK</strong> at the top of your reply and I will do yours first.
         </p>
 
         <table role="presentation" cellpadding="0" cellspacing="0" border="0">
           <tr>
-            <td style="background-color:#3b82f6; border-radius:6px;">
+            <td class="btn-glow" style="background-color:#3b82f6; border-radius:6px;">
               <a href="mailto:REPLY_ADDRESS?subject=My%20marathon%20plan&amp;body=Race%20and%20date%3A%20%0D%0AGoal%20time%3A%20%0D%0AA%20recent%20time%3A%20%0D%0AWhat%20I%20eat%20or%20drink%20on%20long%20runs%3A%20%0D%0A" style="display:inline-block; padding:14px 26px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:16px; font-weight:800; letter-spacing:1px; color:#ffffff; text-transform:uppercase;">Reply with my race</a>
             </td>
           </tr>
@@ -390,7 +429,7 @@ Reply with your race and goal time and we will build your plan, free.
 <tr>
 <td class="pad" style="background-color:#ffffff; padding:26px 28px 6px 28px;">
   <p style="margin:0 0 14px 0; font-family:'DM Sans',Arial,sans-serif; font-size:14px; font-style:italic; line-height:1.6; color:#555555;">
-    I am looking forward to seeing which races you are all running.
+    Good luck with the training. I am looking forward to seeing which races you are all running.
   </p>
   <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:22px; font-weight:900; color:#0a0f1e; text-transform:uppercase;">Luke</div>
   <div style="font-family:'DM Sans',Arial,sans-serif; font-size:11px; color:#999999; padding-top:2px;">Engine Room Nutrition</div>
