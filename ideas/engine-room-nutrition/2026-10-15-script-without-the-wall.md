@@ -44,13 +44,13 @@ until stage 4, and pulls the viewer forward at every stage.
 | "If you are running a marathon in the next few weeks," | Gate, broad | | |
 | "...you can take every gel on time and still hit the wall at thirty-two K, and when that happens, the gels were never the problem." | **Photograph + counter-position + open loop** | Every gel taken; the wall at 32K | **Opened:** then what was? |
 | "Get it wrong and you are walking the last ten K of a race you trained months for, with gels still in your belt." | **Pain, stakes** | Walking at 32K, full gel belt | Raised |
-| "Get it right and thirty-two K is just another K marker, and you are the one passing people." | **Dream** | Running past the 32K sign | Raised |
-| "There are two walls in a marathon. Runners call the second one the hidden wall, and you need a plan for both, so save this." | **Named concept that names nothing + save** | | **Deepened:** what is the hidden wall? |
-| Stage 2 ends: "That is the first wall handled." | Forward pull | | The second is still open |
+| "Get it right and you are the one passing them." | **Dream** | You passing the walkers | Raised |
+| "There are two walls in a marathon. Runners call the second one the hidden wall, so save this." | **Named concept that names nothing + save** | | **Deepened:** what is the hidden wall? |
+| Stage 2 ends: "...and the first wall is handled." | Forward pull | | The second is still open |
 | "And the last one is the hidden wall, the one that gets runners who did everything else right." | **Rehook with stakes** | | Reopened for stage 4 |
 | Stage 4 opens: "It is in your legs." | **The payoff** | | Closed |
 
-## Script (about 300 words, about 1:35)
+## Script (about 320 words, about 1:40)
 
 **[ON SCREEN, held ~10s]**
 "How to run a marathon without hitting the wall"
@@ -59,25 +59,25 @@ until stage 4, and pulls the viewer forward at every stage.
 "If you are running a marathon in the next few weeks, you can take every gel on time and still hit the wall at thirty-two K, and when that happens, the gels were never the problem."
 
 **[PAIN, DREAM]**
-"Get it wrong and you are walking the last ten K of a race you trained months for, with gels still in your belt. Get it right and thirty-two K is just another K marker, and you are the one passing people."
+"Get it wrong and you are walking the last ten K of a race you trained months for, with gels still in your belt. Get it right and you are the one passing them."
 
 **[NAMED CONCEPT, SAVE PROMPT]**
-"There are two walls in a marathon. Runners call the second one the hidden wall, and you need a plan for both, so save this."
+"There are two walls in a marathon. Runners call the second one the hidden wall, so save this."
 
 **[1. 0-10K: PAY THE SPEED TAX]**
 "First ten K, pay the speed tax: five to ten seconds a K slower than your goal, so five thirty-five to five forty for a five thirty goal. Even a little too fast this early burns your fuel far quicker than it feels. All ten words of the talk test in one breath, and your first gel at twenty minutes."
 
 **[2. 10-25K: THE GEL CLOCK]**
-"Ten to twenty-five, run the gel clock: one every twenty minutes by your watch, never by feel, because by the time you feel it, it is too late. Take each one with half a cup of water. For a four-hour marathon that is eleven gels, and that is the first wall handled."
+"Ten to twenty-five, run the gel clock: one every twenty minutes by your watch with half a cup of water, never by feel, because by the time you feel it, it is too late. For a four-hour marathon that is eleven gels, and the first wall is handled."
 
 **[3. 25K: THE WALL CHECK]**
-"At twenty-five K, run the wall check. Are your gels on schedule, and can you still get five words out in one breath? If either is off, ease off ten seconds a K for two K, while it still costs you nothing."
+"At twenty-five K, run the wall check. Are your gels on schedule, and can you still get five words out? If either is off, ease off ten seconds a K for two K, while it still costs you nothing."
 
 **[REHOOK]**
 "And the last one is the hidden wall, the one that gets runners who did everything else right."
 
 **[4. 25K TO THE LINE: THE HIDDEN WALL]**
-"It is in your legs. Long strides on tired legs, especially downhill, turn them to concrete however much fuel is in you. From twenty-five K, shorten your step, quicken your feet, take hills shorter and slower, and let the downhills roll you from your ankles. If your thighs ache going downhill, shorten your step again, then take it one K at a time."
+"It is in your legs. Long strides on tired legs, especially downhill, turn them to concrete however much fuel is in you. From twenty-five K, shorten your step, quicken your feet, take hills shorter and slower, and let the downhills roll you from your ankles. Then take it one K at a time."
 
 **[CTA, one sentence]**
 "Email us your race and goal time through the link in the bio, and we will send you your own plan to beat both walls, for free."
