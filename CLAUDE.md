@@ -154,3 +154,7 @@ creative for the day before Dublin. Covers: Luke picks from search
 terms (Google Images, Pinterest), with a licence check.
 
 The plan CTA keeps bringing in emails (Luke, 15 Oct): keep it on every video.
+
+Welcome email (15 Oct): `ideas/engine-room-nutrition/emails/2026-10-15-welcome-plan-reply.md`
+and `.html`. One ask: reply with race, goal time, a recent time and current
+fuel. Measure reply rate, not opens. Replace `REPLY_ADDRESS` before it goes live.
