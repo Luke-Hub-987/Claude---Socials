@@ -137,12 +137,13 @@ Latest review: `ideas/2026-10-15-sub-4-review.md`. Lessons: keep the
 Instagram gate broad; goal-time videos are a TikTok strength; a number
 on the cover must match the title.
 
-Next recommended: Instagram, "What to do in the first hour after a
-marathon": race day, every finisher, never covered (the 21 Sep "Monday
-after a long run" was training). The last 10K was dropped: already
-covered across six videos (the wall's last stage, out of the wall,
-quit, second half, how hard, sub-4). TikTok-only: goal-time versions
-(sub-3:30, sub-4:30) using the sub-4 template.
+Next recommended: Instagram, "How to run a marathon without hitting the
+wall": the exact phrase people search, built on our biggest asset (the
+wall 147K, out of the wall 40.8K), race day, every runner; new advice
+consistent with earlier videos. Rejected: the last 10K (covered across
+six videos); the first hour after a marathon (Luke, 15 Oct: nothing
+after the finish line). TikTok-only: goal-time versions (sub-3:30,
+sub-4:30) using the sub-4 template.
 
 Upcoming races in the audience: Amsterdam 18 Oct, Dublin and Frankfurt
 26 Oct, New York 1 Nov. Held: the "how to actually enjoy your marathon"

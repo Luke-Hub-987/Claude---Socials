@@ -4399,6 +4399,9 @@ to race day with one action per day.
   on a clock, they are a list; rebuild or drop the topic.
 - When Luke asks for a topic outside this, say so plainly with this
   evidence before scripting, and offer the countdown version.
+- **After the finish line is out too** (Luke, 15 Oct: "no one cares, they
+  will just be celebrating"). The race outcome must still be at stake:
+  before the gun or between the start and the finish.
 
 *Source: taper and heavy legs data, 6 and 10 October.*
 
