@@ -137,7 +137,8 @@ Latest review: `ideas/2026-10-15-sub-4-review.md`. Lessons: keep the
 Instagram gate broad; goal-time videos are a TikTok strength; a number
 on the cover must match the title.
 
-Next recommended: Instagram, "How to run a marathon without hitting the
+Scripted 15 Oct, ready to post: `ideas/engine-room-nutrition/2026-10-15-script-without-the-wall.md`.
+Previous recommendation for reference: Instagram, "How to run a marathon without hitting the
 wall": the exact phrase people search, built on our biggest asset (the
 wall 147K, out of the wall 40.8K), race day, every runner; new advice
 consistent with earlier videos. Rejected: the last 10K (covered across
