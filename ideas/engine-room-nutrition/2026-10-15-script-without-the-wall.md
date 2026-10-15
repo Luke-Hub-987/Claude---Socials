@@ -82,17 +82,17 @@ until stage 4, and pulls the viewer forward at every stage.
 **[CTA, one sentence]**
 "Email us your race and goal time through the link in the bio, and we will send you your own plan to beat both walls, for free."
 
-## Caption
+## Caption (v2: the first line keeps the hidden wall hidden)
 
-How to run a marathon without hitting the wall. There are two walls: the fuel wall everyone plans for, and the leg wall nobody does.
+How to run a marathon without hitting the wall. You can take every gel on time and still hit it at 32K, because there are two walls, and most runners only plan for one.
 
-0 to 10K: pay the speed tax. Run 5 to 10 seconds per K slower than your goal pace (5:35 to 5:40 for a 5:30 goal). You should be able to say "I am running a marathon today and I feel good" in one breath. First gel at 20 minutes.
+0 to 10K: pay the speed tax. Run 5 to 10 seconds per K slower than your goal pace, so 5:35 to 5:40 for a 5:30 goal. Even a little too fast this early burns your fuel far quicker than it feels. You should be able to say "I am running a marathon today and I feel good" in one breath. First gel at 20 minutes.
 
-10 to 25K: one gel every 20 minutes by your watch, never by feel, with about half a cup of water. That is roughly 60 to 75g of carbs an hour, or about 11 gels for a four-hour marathon, with about half gone by halfway.
+10 to 25K: run the gel clock. One gel every 20 minutes by your watch, never by feel, with about half a cup of water. That is roughly 60 to 75g of carbs an hour, or about 11 gels for a four-hour marathon. That handles the first wall, the fuel wall.
 
-At 25K, the wall check: gels on schedule, five words still coming out, thighs not aching on the downhills. If any one is off, ease off 10 seconds per K for 2K now.
+At 25K, the wall check. Are your gels on schedule, and can you still get five words out in one breath? If either is off, ease off 10 seconds per K for 2K, while it still costs you nothing.
 
-25K to the line: beat the leg wall. Shorter, quicker steps. Take hills shorter and slower. Let the downhills roll you forward from your ankles, no long strides. Then one K at a time.
+25K to the line: the hidden wall is in your legs. Long strides on tired legs, especially downhill, turn them to concrete however much fuel is in you. Shorten your step, quicken your feet, take hills shorter and slower, and let the downhills roll you forward from your ankles. Then take it one K at a time.
 
 Want a plan built around your race and goal time? Email us your race and goal time through the link in the bio and we will send you a free personalised plan.
 
