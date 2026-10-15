@@ -137,14 +137,16 @@ Latest review: `ideas/2026-10-15-sub-4-review.md`. Lessons: keep the
 Instagram gate broad; goal-time videos are a TikTok strength; a number
 on the cover must match the title.
 
-Scripted 15 Oct, ready to post: `ideas/engine-room-nutrition/2026-10-15-script-without-the-wall.md`.
-Previous recommendation for reference: Instagram, "How to run a marathon without hitting the
-wall": the exact phrase people search, built on our biggest asset (the
-wall 147K, out of the wall 40.8K), race day, every runner; new advice
-consistent with earlier videos. Rejected: the last 10K (covered across
-six videos); the first hour after a marathon (Luke, 15 Oct: nothing
-after the finish line). TikTok-only: goal-time versions (sub-3:30,
-sub-4:30) using the sub-4 template.
+Ready to post (15 Oct): `ideas/engine-room-nutrition/2026-10-15-script-without-the-wall.md`
+(v2: "How to run a marathon without hitting the wall"; the hidden wall
+held to the last stage, Luke 15 Oct; caption v2 in the file). Cover:
+Luke generates it in Gemini from `ideas/engine-room-nutrition/2026-10-15-cover-prompt-wall.md`
+(one runner bent over, head down, gels on belt; no legs grabbed, no
+logos or text). Next review file: `ideas/YYYY-MM-DD-without-the-wall-review.md`.
+
+Rejected topics: the last 10K (covered across six videos); anything
+after the finish line (Luke, 15 Oct). TikTok-only idea: goal-time
+versions (sub-3:30, sub-4:30) using the sub-4 template.
 
 Upcoming races in the audience: Amsterdam 18 Oct, Dublin and Frankfurt
 26 Oct, New York 1 Nov. Held: the "how to actually enjoy your marathon"
