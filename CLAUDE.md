@@ -137,9 +137,11 @@ Latest review: `ideas/2026-10-15-sub-4-review.md`. Lessons: keep the
 Instagram gate broad; goal-time videos are a TikTok strength; a number
 on the cover must match the title.
 
-Next recommended: Instagram, a broad race-day video, "What to do in the
-last 10K of a marathon" (new advice, consistent with the wall, out of
-the wall, quit and second half). TikTok-only: goal-time versions
+Next recommended: Instagram, "What to do in the first hour after a
+marathon": race day, every finisher, never covered (the 21 Sep "Monday
+after a long run" was training). The last 10K was dropped: already
+covered across six videos (the wall's last stage, out of the wall,
+quit, second half, how hard, sub-4). TikTok-only: goal-time versions
 (sub-3:30, sub-4:30) using the sub-4 template.
 
 Upcoming races in the audience: Amsterdam 18 Oct, Dublin and Frankfurt
@@ -147,4 +149,4 @@ Upcoming races in the audience: Amsterdam 18 Oct, Dublin and Frankfurt
 creative for the day before Dublin. Covers: Luke picks from search
 terms (Google Images, Pinterest), with a licence check.
 
-Open: confirm how many plan emails the sub-4 CTA drew.
+The plan CTA keeps bringing in emails (Luke, 15 Oct): keep it on every video.
