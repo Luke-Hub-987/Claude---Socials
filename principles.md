@@ -4271,6 +4271,14 @@ viewer can't answer yet ("it all comes down to what you cut"), close it
 a piece at a time in the stages, and hold the last piece for the final
 stage, reopened by the rehook.
 
+**Amended 15 October (Luke, wall v1):** the named concept must not give
+the answer away either. "The fuel wall and the leg wall" told viewers
+the second wall was their legs in the first fifteen seconds. Name it
+without revealing it ("the hidden wall"), hold the payoff for the last
+stage, and give every stage a forward pull ("that is the first wall
+handled") so curiosity and stakes run the whole video, not just the
+hook.
+
 *Source: Luke, 4 October.*
 
 ## P113 — Nobody named in the audio; a named person is a study by another name

@@ -195,6 +195,10 @@ twice without being checked against the winners (P99).
       vintage or black and white; a collage only if both halves are the
       viewer's moment.
 - [ ] **No jargon in the title** (P116); the term goes in the audio.
+- [ ] **The named concept never names the answer** (P112, 15 Oct): "the
+      fuel wall and the leg wall" gave the video away. "The hidden
+      wall" names it and reveals nothing. Every stage ends with a
+      forward pull; the biggest reveal is the last stage.
 - [ ] **The hook never contains the answer** (P112). Read the first
       three lines and ask: could a viewer leave now with the advice? If
       yes, the loop is closed too early. Hold the answer for the
