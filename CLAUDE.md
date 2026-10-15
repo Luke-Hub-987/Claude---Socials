@@ -121,24 +121,30 @@ every posted video.
 
 ## Current state (update this every session)
 
-**As of 14 October 2026.**
+**As of 15 October 2026.**
 
 Grid (Instagram, ERN side): the wall 147K; out of the wall 40.8K;
 7 days 31.4K at 14h; 24 hours 30K; first 10 minutes 27.1K at 12h
 (share 1.4%, a record); how hard at every 10K 25.1K at 13.5h (skip
 31.9%, best since the wall; first plan CTA: 4 emails); goal pace
-25.3K; cramp 25K; second half 17.6K at 14h; quit ~14K at 14h; Dublin
-course (small reach, deepest engagement); taper and heavy legs missed.
+25.3K; cramp 25K; second half 17.6K at 14h; sub-4 at every 10K 14.5K
+at 18h (skip 40.8%: narrow gate plus a crowd cover with a 3:45 flag;
+saves 2.5% Higher) but **9.5K on TikTok, the best TikTok yet**; quit
+~14K at 14h; Dublin course (small reach, deepest engagement); taper and
+heavy legs missed.
 
-Latest script, ready to post: `ideas/engine-room-nutrition/2026-10-14-script-sub-4.md`
-(v4: "How to pace a sub-4 marathon at every 10K"; watch pace with a GPS
-buffer, sign times, talk test per stage; heart rate left out as too
-individual, Luke 14 Oct). Cover: Luke finds his own from search terms (14 Oct): a runner checking their watch mid-race; a 4:00 pacer flag from behind; a finish clock showing 3:59.
+Latest review: `ideas/2026-10-15-sub-4-review.md`. Lessons: keep the
+Instagram gate broad; goal-time videos are a TikTok strength; a number
+on the cover must match the title.
+
+Next recommended: Instagram, a broad race-day video, "What to do in the
+last 10K of a marathon" (new advice, consistent with the wall, out of
+the wall, quit and second half). TikTok-only: goal-time versions
+(sub-3:30, sub-4:30) using the sub-4 template.
 
 Upcoming races in the audience: Amsterdam 18 Oct, Dublin and Frankfurt
 26 Oct, New York 1 Nov. Held: the "how to actually enjoy your marathon"
-creative for the day before Dublin. Queue ideas: first hour after a
-marathon; other goal-time versions (sub-3:30, sub-4:30) if sub-4 lands.
+creative for the day before Dublin. Covers: Luke picks from search
+terms (Google Images, Pinterest), with a licence check.
 
-Open: Luke posts the sub-4 video, then shares data. Next review file:
-`ideas/YYYY-MM-DD-sub-4-review.md`.
+Open: confirm how many plan emails the sub-4 CTA drew.

@@ -177,6 +177,11 @@ twice without being checked against the winners (P99).
 - [ ] **Covers: give Luke search terms, not old CC photos** (Luke, 14 Oct:
       the Eugene set and similar are poor). Terms ranked by what the
       picture must show; he picks; he checks the licence.
+- [ ] **A number on the cover matches the title** (sub-4 video used a
+      "SUB 3:45" pacer flag; skip 40.8%).
+- [ ] **Instagram gate stays broad** (sub-4 and Dublin narrowed it and
+      capped reach). Goal-time videos are a TikTok strength (sub-4:
+      9.5K, our best TikTok).
 - [ ] **A new cover picture every video.** Second half reused the first
       10 minutes splits graphic: returning viewers read it as a repeat.
 - [ ] **The photograph test** (P116, 8 Oct): could you take a photo of
