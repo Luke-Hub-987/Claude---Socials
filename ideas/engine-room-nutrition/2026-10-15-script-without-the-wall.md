@@ -102,17 +102,26 @@ Practise your gels in training first. Dizzy, chest pain or confused at any point
 
 "Which wall got you last time, fuel or legs? Email us your race and goal time through the link in the bio for a free plan."
 
-## Cover: search terms for Luke (ranked)
+## Cover: search terms for Luke (ranked, v2)
 
-1. **The leg wall (the hook):** "marathon runner hands on knees 30k",
-   "marathon runner legs cramping", "runner walking marathon wall"
-2. **The gel belt (the counter-position):** "running gel belt marathon",
-   "marathon gels in waistband"
-3. **The 32K sign:** "marathon 32 km sign", "20 mile marker marathon"
+The cover is the hook as a picture (P116) and must not give the hidden
+wall away (P112, 15 Oct): **no legs cramping or hands on thighs**, which
+would reveal the answer before the video starts. Same type as the wall
+video's cover, the best wall result we have: a runner in trouble (25.5%).
 
-One runner, colour, no crowd, no readable bib. Check the licence (Google
-Images: Tools, Usage rights, Creative Commons licences; or the same
-terms on Unsplash or Pexels).
+1. **A runner hitting the wall, bent over or hands on knees, head down:**
+   "marathon runner hands on knees", "exhausted marathon runner bent
+   over", "runner hitting the wall marathon"
+2. **The same, with gels visible (line one: every gel taken, still hit
+   the wall):** "exhausted runner gel belt", "marathon runner holding gel
+   tired"
+3. **The 32K moment:** "marathon runner walking 20 mile marker",
+   "marathon 32km sign runner"
+
+One runner, colour, present day, head down or back to camera (no
+readable face or bib), no crowd. Licence check: Google Images, Tools,
+Usage rights, Creative Commons licences; or the same terms on Unsplash
+or Pexels.
 
 ## Luke's science (15 Oct), checked
 
