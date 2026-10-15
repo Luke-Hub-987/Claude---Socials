@@ -1,7 +1,24 @@
-# Welcome email: reply with your race (15 Oct 2026)
+# Campaign email: what's your race? (15 Oct 2026)
 
-HTML: `2026-10-15-welcome-plan-reply.html`. Sent by the welcome flow the
-moment someone signs up through the link in bio, with no delay.
+HTML: `2026-10-15-campaign-whats-your-race.html` (v2, redesigned; Luke
+15 Oct: v1 looked bland, and this goes to the **whole existing list as a
+campaign**, not as a welcome email).
+
+v2 design: dark hero with the race line (start to finish), sender row,
+pull quote, three-step "how it works" cards, a **sample sub-4 plan** (the
+exact numbers from the sub-4 video, so nothing contradicts it), the four
+questions, a dark reply card with the RACE WEEK line, and two P.S. lines.
+Animations play in Apple Mail only; every other client shows the finished
+state. About 31 KB, well under Gmail's 102 KB clipping limit.
+
+## Who to send it to
+
+The list mixes old newsletter subscribers (sleep and office topics) and
+new marathon signups. Send first to people who signed up or engaged in the
+last 90 days. Hold the older, quiet part of the list, or send to it a week
+later once the first send has built up replies. A cold segment that
+marks it as spam drags the whole domain into spam. Exclude anyone who has
+already emailed their race (the email also tells them not to resend).
 
 ## The one job of this email
 
@@ -9,6 +26,15 @@ Get a reply. A reply gives Luke the race and goal time for the plan,
 and it is the strongest signal Gmail and Outlook get that this sender
 belongs in the inbox. Every other email we send later benefits from it.
 So the email has one ask, and everything else was cut.
+
+## How replying works
+
+Everyone can simply press reply. It goes to the campaign's Reply-To
+address (set in Klaviyo's campaign settings, under the From address).
+The button is a shortcut: it opens a new email to the same address with
+the four questions already typed. Both land in the same inbox. If the
+button does nothing (a desktop with no mail app set up), the "or just hit
+reply" line covers it.
 
 ## Settings
 
@@ -21,28 +47,33 @@ So the email has one ask, and everything else was cut.
 | From address | a real inbox Luke reads (luke@ domain) | Never noreply. Replies must land somewhere. |
 | Reply-to | the same address | |
 | Button `mailto:` | replace `REPLY_ADDRESS` with that address | Placeholder so the address is not stored in the repo. **The button is broken until this is done.** |
+| Klaviyo template | Templates, create, HTML (code) editor; paste the whole file | A text block would show the code as text. |
 | Plain-text version | paste the one below; do not use the auto version | The auto version mangles the numbered list. |
-| Flow delay | none (send immediately) | Interest is highest in the first minutes. |
+| Send time | Tuesday to Thursday morning; before Dublin and Frankfurt (26 Oct) | Plans must land before the races. |
 
 ## Plain-text version
 
 ```
 Hi {{ first_name|default:'there' }},
 
-Thanks for signing up for your free marathon plan. Here is how it works: you reply to this email, and I build the plan around your race.
+A lot of you have found us through our marathon videos over the last few weeks. So for every one of you with a race booked, we are building a free plan around your race and your goal time.
 
-Send me these four things. Short answers are perfect, and skip any you are not sure of.
+All you have to do is reply to this email. It comes straight to me, and I read every one.
+
+Send me these four things. Short answers are perfect.
 
 1. Your race and the date
 2. Your goal time
 3. One recent time (any race result, or your longest run and how long it took)
 4. What you eat or drink on long runs now (gels, sweets, water only, nothing at all: all useful)
 
-I read every reply myself and send your plan back within 48 hours. It gives you your pace for each 10K, when to fuel and how much, and what to do when the race starts to hurt.
+Your plan comes back within 48 hours: your pace for every 10K, when to fuel, and how each stage should feel.
 
-If your race is in the next seven days, put RACE WEEK at the start of your reply and I will do yours first.
+Race in the next seven days? Put RACE WEEK at the top of your reply and yours goes first.
 
-Just hit reply. It comes straight to me.
+Already sent us your race? Your plan is on its way, no need to send it again.
+
+I am looking forward to seeing which races you are all running.
 
 Talk soon,
 Luke
@@ -50,7 +81,7 @@ Engine Room Nutrition
 
 P.S. There are two of us building a carb bar for marathon runners. It is not out yet, so what you tell me about how you fuel now helps shape it.
 
-P.P.S. If you remember which video sent you here, tell me. It helps us make more of the ones you want.
+P.P.S. No marathon on the calendar? Forward this to a friend who has one. Their plan is free too.
 
 {{ organization.name }}, {{ organization.full_address }}
 Unsubscribe: {% unsubscribe_link %}

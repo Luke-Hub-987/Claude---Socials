@@ -155,6 +155,8 @@ terms (Google Images, Pinterest), with a licence check.
 
 The plan CTA keeps bringing in emails (Luke, 15 Oct): keep it on every video.
 
-Welcome email (15 Oct): `ideas/engine-room-nutrition/emails/2026-10-15-welcome-plan-reply.md`
+Campaign email to the whole list (15 Oct, v2 redesign):
+`ideas/engine-room-nutrition/emails/2026-10-15-campaign-whats-your-race.md`
 and `.html`. One ask: reply with race, goal time, a recent time and current
-fuel. Measure reply rate, not opens. Replace `REPLY_ADDRESS` before it goes live.
+fuel. Sample plan uses the sub-4 video's numbers. Send to engaged segment
+first. Measure reply rate, not opens. Replace `REPLY_ADDRESS` before sending.
