@@ -61,19 +61,19 @@ counter-position and the open "two walls" loop do that job here.
 "Runners call them the fuel wall and the leg wall. With a goal pace of five thirty a K, here is how to beat both, so save this."
 
 **[1. 0-10K: PAY THE SPEED TAX]**
-"First ten K, pay the speed tax: five to ten seconds a K slower than goal, so five thirty-five to five forty. Even a little too fast this early burns your fuel far quicker than it feels. You should get all ten words of the talk test out in one breath, and your first gel goes in at twenty minutes."
+"First ten K, pay the speed tax: five to ten seconds a K slower than goal, so five thirty-five to five forty. Even a little too fast this early burns your fuel far quicker than it feels. All ten words of the talk test in one breath, and your first gel at twenty minutes."
 
 **[2. 10-25K: A GEL EVERY 20 MINUTES]**
-"Ten to twenty-five, keep the gel clock running: one every twenty minutes by your watch, never by feel, with about half a cup of water. For a four-hour marathon that is eleven gels, and about half of them gone by halfway."
+"Ten to twenty-five, keep the gel clock running: one every twenty minutes by your watch, never by feel, with half a cup of water. For a four-hour marathon that is eleven gels."
 
 **[3. 25K: THE WALL CHECK]**
-"At twenty-five K, run the wall check. Are your gels on schedule, can you still get five words out, and do your thighs ache on the downhills? If any one is off, ease off ten seconds a K for the next two K, while it still costs you almost nothing."
+"At twenty-five K, run the wall check. Are your gels on schedule, can you still get five words out, and do your thighs ache on the downhills? If one is off, ease off ten seconds a K for two K, while it still costs you nothing."
 
 **[REHOOK]**
 "And the last one is the wall people never see coming."
 
 **[4. 25K TO THE LINE: THE LEG WALL]**
-"The leg wall. Long strides on tired legs, especially downhill, do the damage that turns them to concrete. From twenty-five K, shorten your step and quicken your feet, take every hill shorter and slower, and let the downhills roll you forward from your ankles. Then it is one K at a time."
+"The leg wall. Long strides on tired legs, especially downhill, turn them to concrete. From twenty-five K, shorten your step, quicken your feet, take hills shorter and slower, and let the downhills roll you from your ankles. Then take it one K at a time."
 
 **[CTA, one sentence]**
 "Email us your race and goal time through the link in the bio, and we will send you your own plan to beat both walls, for free."
