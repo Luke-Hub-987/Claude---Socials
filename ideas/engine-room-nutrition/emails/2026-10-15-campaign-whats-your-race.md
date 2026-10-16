@@ -57,13 +57,10 @@ marathon runners too).
   turns the text dark but leaves a background image dark, which made
   the header unreadable. Solid colours now, so text and background flip
   together.
-- Motion: Gmail strips all CSS animation, which is why nothing moved.
-  The race line is now an animated GIF (`assets/race-line.gif`, 176 KB),
-  which moves in Gmail, Apple Mail and most phones. The runner travels
-  start to finish and the split times appear at each sign. Its first
-  frame is the finished picture, so Outlook (which shows only the first
-  frame) still shows the whole plan. **Upload it to Klaviyo's image
-  library and paste its link where the HTML says `PASTE_GIF_LINK_HERE`.**
+- Motion: Gmail strips all CSS animation. A GIF would move in Gmail but
+  needs uploading to Klaviyo for every email; Luke chose no upload step,
+  so the race line is coded again. It moves in Apple Mail and on iPhone
+  Mail, and shows still everywhere else.
 - Reply wording: pressing reply is now named as the main route; the
   buttons stay as a shortcut.
 
