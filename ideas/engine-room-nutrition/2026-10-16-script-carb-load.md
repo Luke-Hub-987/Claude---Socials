@@ -253,23 +253,23 @@ anything about Luke or medication.
 room (new reason); drink part of it; the second tank and how much to eat
 on race morning.
 
-## Caption (v7: matches the v7 script; prose, P118 grams first, every weight)
+## Caption (v7 concise, Luke 16 Oct: shorter, every detail kept)
 
-How to actually carb load for a marathon. Stop eating at 5pm the night before, and load over the two days before that instead.
+How to actually carb load for a marathon. Load over the two days before (Friday and Saturday for a Sunday race), then stop eating at 5pm the night before.
 
-Your target is 8 to 10g of carbs per kg of body weight, every day for the two days before your race (about 3.5 to 4.5g per pound). At 60kg that is 480 to 600g a day. At 70kg, 560 to 700g. At 80kg, 640 to 800g. At 90kg, 720 to 900g. For a Sunday race, that means Friday and Saturday.
+Daily target: 8 to 10g of carbs per kg. 60kg: 480 to 600g. 70kg: 560 to 700g. 80kg: 640 to 800g. 90kg: 720 to 900g.
 
-Hit it by swapping, not stuffing. For these two days everything goes white and low in fat: white bagels, white rice, white pasta with a plain tomato sauce, white bread, crumpets and pretzels. Cut the cheese, butter, bacon, burgers, peanut butter and creamy sauces, and keep protein light, because fibre and fat fill you up and leave no room for the carbs.
+Swap, don't stuff. Keep plates normal size, go white and low fat: white bagels, rice, pasta, bread, crumpets, pretzels, juice. Cut cheese, butter, bacon, peanut butter and creamy sauces, and skip brown bread, salad and beans for these two days.
 
-Here is Friday for a 70kg runner, about 600g. Breakfast at 8am, two white bagels with jam and a big glass of apple juice (about 160g). Snack at 11am, a banana and a 500ml sports drink (about 60g). Lunch at 1pm, a big bowl of white rice with a little chicken, teriyaki sauce and a can of fizzy drink (about 115g). Snack at 4pm, two crumpets with honey and a handful of pretzels (about 90g). Dinner at 7pm, white pasta with tomato sauce, two slices of white bread and a glass of juice (about 165g). At 60kg, make each portion a little smaller; at 80 or 90kg, add a bagel, a bigger bowl of rice or another glass of juice.
+Friday at 70kg (about 600g). 8am: two white bagels with jam, big glass of apple juice. 11am: banana and 500ml sports drink. 1pm: big bowl of white rice, a little chicken, teriyaki sauce, can of fizzy drink. 4pm: two crumpets with honey, handful of pretzels. 7pm: white pasta with tomato sauce, two slices of white bread, glass of juice. Lighter runners eat a little less; heavier runners add a bagel or a glass of juice.
 
-Saturday is the same up to the 4pm snack, plus an extra glass of apple juice. Dinner at 5pm is your last meal, normal size: white rice with a little chicken and soy sauce, and a glass of juice. By then the first tank is full, and anything big later just sits in your stomach all night, so only water until bed. Expect to weigh a kilo or two more by Saturday evening: your muscles store carbs with water, and none of it is fat.
+Saturday: the same until 4pm, plus an extra glass of apple juice. 5pm: last meal, normal size (white rice, a little chicken, soy sauce, glass of juice). Then only water. A kilo or two heavier by evening is stored carbs and water, not fat.
 
-Race morning, refill the second tank. Your liver keeps your blood sugar steady and uses a lot of its store overnight, so eat breakfast three hours before the start (6am for a 9am gun): about 2g of carbs per kg. That is about 120g at 60kg, 140g at 70kg, 160g at 80kg and 180g at 90kg. Two white bagels with jam and a glass of juice is about 150g. Then only sips of water, and from the gun about 60 to 75g of carbs an hour, starting at 20 minutes.
+Race morning, three hours before the start: about 2g of carbs per kg to refill your liver (120g at 60kg, 140g at 70kg, 160g at 80kg, 180g at 90kg). Two white bagels with jam and a glass of juice is about 150g. Then sips of water, and 60 to 75g of carbs an hour from 20 minutes in.
 
-Want it worked out for your weight and race? Email us your race and goal time through the link in the bio and we will send you a free personalised plan, carb load included.
+Want yours worked out? Email us your race and goal time through the link in the bio for a free personalised plan.
 
-Practise your race breakfast before a long run first. If you have diabetes or any medical condition, check with your doctor before changing how you eat.
+Practise your race breakfast on a long run first. Diabetes or a medical condition? Check with your doctor first.
 
 ## Pinned comment (the numbers, then the two-option question)
 
