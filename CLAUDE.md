@@ -152,9 +152,9 @@ every posted video.
 
 ## Current state (update this every session)
 
-**As of 16 October 2026.**
+**As of 16 October 2026 (evening).**
 
-Grid (Instagram, ERN side): the wall 147K; **without the wall 41.5K at
+Grid (Instagram, ERN side): the wall 147K; carb load 14.1K at ~5h (save 5.2%, record; skip 44.1%); **without the wall 41.5K at
 18h** (record 39s watched on 1:37, save 3.2%, 25 comments; skip 39.3%
 with no reframe in line one and the first AI cover); out of the wall
 40.8K; 7 days 31.4K at 14h; 24 hours 30K; first 10 minutes 27.1K at
@@ -165,33 +165,18 @@ half 17.6K at 14h; sub-4 at every 10K 14.5K at 18h (skip 40.8%) but
 best); quit ~14K at 14h; Dublin course (small reach, deepest
 engagement); taper and heavy legs missed.
 
-Latest review: `ideas/2026-10-16-without-the-wall-review.md`. Lessons:
-name one answer in the hook and hold it to the last stage (best watch
-on record); the reframe in line one is two for two (put it back); AI
-covers on trial (next video: reframe in, AI cover, to separate the
-two); up to ~1:40 is fine when the last stage holds the payoff; a
-two-option question in the pinned comment drew 25 comments.
+Latest review: `ideas/2026-10-16-carb-load-review.md` (carb load at ~5h:
+14.1K, **save 5.2% record**, share 1.3%, **skip 44.1% worst**, 34s on
+1:50; TikTok 5.1K, 124 saves). Lessons: the full schedule (P121) earns
+record saves; fuel title plus AI cover cost the front; **AI covers
+paused**: next video uses a real image and a race-moment title to
+separate the two. Check the burned-in caption "eight to seven grams".
 
-Comments (16 Oct): almost all about "eleven gels" (too many, break it
-down by carbs, "you must be sponsored", sick on a gel every 20 min):
-P118.
+Previous: `ideas/2026-10-16-without-the-wall-review.md` (41.5K at 18h,
+record watch; comments on "eleven gels", P118).
 
-Ready (16 Oct, v4 for Luke; v1's hook rejected, P120; v4 is a full meal schedule with times, amounts and the 5pm stop, P121; v6: line one now "swap every slice of brown bread for white" (the no-extra-plate line was untrue of a five-meal plan) and every meal said with its clock time (P123), ~1,830 characters; teleprompter text in `2026-10-16-teleprompter-carb-load.txt`): `ideas/engine-room-nutrition/2026-10-16-script-carb-load.md`,
-"How to actually carb load for a marathon". Luke's pick, the creative
-slot, and a deliberate test of P101 (fuel title) with the full package:
-markers FRIDAY: ALL WHITE / SATURDAY: REPEAT TO 4PM / 5PM: LAST MEAL /
-RACE MORNING: THE SECOND TANK;
-line one (v7) "you should stop eating at five o'clock the night before,
-and that is your race going to plan"; its why held to the 5PM stage; the
-rehook "stop at five, and the second tank empties while you sleep"; two fuel tanks, the second (the
-liver, drained overnight) held for the last stage. Luke's science
-vetted in the file (drink "some", not half; overclaims cut). AI cover
-(Gemini prompt in the file), so the reframe-plus-AI-cover test runs,
-confounded by the fuel title. My hidden wall sequel idea was withdrawn
-(P119: it was the video just posted, renamed).
-
-Waiting on Luke: emails from without the wall and sub-4; whether "next
-two weeks" in the gate was deliberate.
+Waiting on Luke: ERN-side follows and emails (carb load, without the
+wall, sub-4); the day-three read of carb load.
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
 
 Rejected topics: the last 10K (covered across six videos); anything

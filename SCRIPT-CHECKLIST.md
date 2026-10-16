@@ -97,9 +97,9 @@ twice without being checked against the winners (P99).
       Commons, Flickr CC and Openverse first; a real race beats stock.
       A few people at the problem's place, cropped close with backs to
       camera, is a problem image, not a crowd (stomach video, 2 Oct).
-      **AI covers (Gemini) are on trial** (16 Oct): first use, skip
-      39.3%, confounded with no reframe. Next video tests the AI cover
-      with the reframe back in; decide after that.
+      **AI covers: paused** (16 Oct). Two of two ran the worst skips of
+      their run (39.3%, then 44.1% with the reframe back in). Next video
+      uses a real image to separate the cover from the fuel title.
 
 ## 4. Hook stack (~15 to 18 seconds)
 
@@ -144,7 +144,7 @@ twice without being checked against the winners (P99).
 - [ ] **Fuel in grams an hour first, then the gel size, then any count**
       (P118). "Eleven gels" alone drew most of the 25 comments on
       without the wall, nearly all against it ("you must be sponsored").
-- [ ] **A food plan is a full schedule** (P121, Luke 16 Oct): one
+- [ ] **A food plan is a full schedule** (P121, Luke 16 Oct; carb load: save 5.2%, a record): one
       person, every meal with its clock time, foods, portions and grams,
       and when to stop eating; the day totals checked against the target.
 - [ ] **Every schedule time said with its meal and a.m./p.m.** ("Breakfast
