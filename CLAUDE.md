@@ -20,9 +20,9 @@ every posted video.
 3. The three newest `ideas/*-review.md` files: the latest data.
 4. The newest scripts in `ideas/engine-room-nutrition/` (the house
    style, the hook stacks, the audit tables).
-5. `principles.md` (P1 to P118, about 4,400 lines): search it for the
+5. `principles.md` (P1 to P119, about 4,400 lines): search it for the
    rule you need; do not read it end to end. The newest rules (P97 to
-   P118) are at the end, before "Open questions for Luke".
+   P119) are at the end, before "Open questions for Luke".
 
 ## How we work (Luke's standing instructions)
 
@@ -145,14 +145,20 @@ two-option question in the pinned comment drew 25 comments.
 
 Comments (16 Oct): almost all about "eleven gels" (too many, break it
 down by carbs, "you must be sponsored", sick on a gel every 20 min):
-P118. Nobody asked about the carb-load timing; one first-timer plans to
-"bolt down" the hills (the hidden wall's cause). Luke floated carb
-loading next: recommended against as the next video (fuel title, P101;
-covered in 7 days, 24 hours and the night before). Recommended next:
-"Where the hidden wall in a marathon actually starts".
+P118.
 
-Waiting on Luke: emails from this video and sub-4; whether "next two
-weeks" in the gate was deliberate; go-ahead on the next topic.
+Ready (16 Oct, v1 for Luke): `ideas/engine-room-nutrition/2026-10-16-script-carb-load.md`,
+"How to actually carb load for a marathon". Luke's pick, the creative
+slot, and a deliberate test of P101 (fuel title) with the full package:
+countdown markers 48 HOURS / 36 HOURS / 24 HOURS / RACE MORNING; line
+one "as many carbs as a dozen bagels a day, and that is your race going
+to plan"; the overnight liver top-up held for the last stage. AI cover
+(Gemini prompt in the file), so the reframe-plus-AI-cover test runs,
+confounded by the fuel title. My hidden wall sequel idea was withdrawn
+(P119: it was the video just posted, renamed).
+
+Waiting on Luke: emails from without the wall and sub-4; whether "next
+two weeks" in the gate was deliberate.
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
 
 Rejected topics: the last 10K (covered across six videos); anything

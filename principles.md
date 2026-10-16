@@ -4437,6 +4437,26 @@ fuel brand it reads as a sales pitch.
 
 *Source: without the wall comments, 16 October.*
 
+## P119 — The next topic is never the video just posted, renamed
+
+Luke, 16 October: I recommended "Where the hidden wall in a marathon
+actually starts" the morning after "How to run a marathon without
+hitting the wall" posted, whose whole payoff was the hidden wall. To
+Luke and to returning viewers that is the same video again. He also
+picked the next topic himself (carb loading) after hearing the case
+against it.
+
+**The rule:**
+- Before recommending a topic, check it against the last three posted
+  videos: same concept, same payoff or same named idea means it is a
+  repeat, whatever the title.
+- When Luke picks a topic after hearing the evidence, build the best
+  version of it, state the risk once in the script file, and frame the
+  video as a test that will confirm or narrow the rule it breaks. Do
+  not argue it again.
+
+*Source: Luke, 16 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

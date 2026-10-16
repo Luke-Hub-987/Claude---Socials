@@ -116,8 +116,12 @@ advice in every stage. The only version that would pass is "What to do
 2 days before a marathon" (sibling of 7 days), and it would sit on top
 of two of our best videos.
 
-**Recommended next: "Where the hidden wall in a marathon actually
-starts"**, formula A (the 147K shape) on the concept this video
+**Withdrawn (Luke, 16 Oct, P119): this was the video just posted,
+renamed.** Luke's pick stands: carb loading, scripted as the countdown
+version in `engine-room-nutrition/2026-10-16-script-carb-load.md`.
+
+~~Recommended next: "Where the hidden wall in a marathon actually
+starts"~~, formula A (the 147K shape) on the concept this video
 planted. The Thiel cause is somewhere viewers think is harmless (fresh
 long strides and fast downhills in the first half), and a commenter is
 planning exactly that for Sunday. The grams-first fuel line (P118) goes

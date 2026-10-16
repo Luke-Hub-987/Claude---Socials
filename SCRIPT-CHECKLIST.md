@@ -50,6 +50,10 @@ twice without being checked against the winners (P99).
 - [ ] **One clock per video** (P109): race day, or race week, never
       training weeks mixed with race morning. Every
       fuel-titled video is in the bottom four.
+- [ ] **Not the video just posted, renamed** (P119, Luke 16 Oct): check
+      the last three posts for the same concept, payoff or named idea.
+      When Luke picks a topic against a rule, build the best version,
+      state the risk once, and frame it as a test of that rule.
 - [ ] **The "my mother" test**: would someone who has never run want to
       watch? The creative test that passed it reached 55K viewers.
 
