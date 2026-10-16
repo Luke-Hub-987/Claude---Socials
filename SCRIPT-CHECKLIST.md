@@ -54,6 +54,10 @@ twice without being checked against the winners (P99).
       the last three posts for the same concept, payoff or named idea.
       When Luke picks a topic against a rule, build the best version,
       state the risk once, and frame it as a test of that rule.
+- [ ] **Line one is a counter-position, not a big number** (P120, Luke
+      16 Oct): "a dozen bagels a day" was a fact with no curiosity. Line
+      one says something runners would argue with, leaves a question,
+      and a named unknown carries them to the last stage.
 - [ ] **The "my mother" test**: would someone who has never run want to
       watch? The creative test that passed it reached 55K viewers.
 

@@ -20,9 +20,9 @@ every posted video.
 3. The three newest `ideas/*-review.md` files: the latest data.
 4. The newest scripts in `ideas/engine-room-nutrition/` (the house
    style, the hook stacks, the audit tables).
-5. `principles.md` (P1 to P119, about 4,400 lines): search it for the
+5. `principles.md` (P1 to P120, about 4,400 lines): search it for the
    rule you need; do not read it end to end. The newest rules (P97 to
-   P119) are at the end, before "Open questions for Luke".
+   P120) are at the end, before "Open questions for Luke".
 
 ## How we work (Luke's standing instructions)
 
@@ -147,12 +147,14 @@ Comments (16 Oct): almost all about "eleven gels" (too many, break it
 down by carbs, "you must be sponsored", sick on a gel every 20 min):
 P118.
 
-Ready (16 Oct, v1 for Luke): `ideas/engine-room-nutrition/2026-10-16-script-carb-load.md`,
+Ready (16 Oct, v2 for Luke; v1's hook rejected, P120): `ideas/engine-room-nutrition/2026-10-16-script-carb-load.md`,
 "How to actually carb load for a marathon". Luke's pick, the creative
 slot, and a deliberate test of P101 (fuel title) with the full package:
-countdown markers 48 HOURS / 36 HOURS / 24 HOURS / RACE MORNING; line
-one "as many carbs as a dozen bagels a day, and that is your race going
-to plan"; the overnight liver top-up held for the last stage. AI cover
+markers FRIDAY BREAKFAST / FRIDAY DINNER / SATURDAY / RACE MORNING;
+line one "carb load without eating a single extra plate of food, and
+that is your race going to plan"; two fuel tanks, the second (the
+liver, drained overnight) held for the last stage. Luke's science
+vetted in the file (drink "some", not half; overclaims cut). AI cover
 (Gemini prompt in the file), so the reframe-plus-AI-cover test runs,
 confounded by the fuel title. My hidden wall sequel idea was withdrawn
 (P119: it was the video just posted, renamed).

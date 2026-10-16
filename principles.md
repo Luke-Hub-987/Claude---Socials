@@ -4457,6 +4457,31 @@ against it.
 
 *Source: Luke, 16 October.*
 
+## P120 — Line one is a counter-position, not a big number
+
+Luke, 16 October, on carb load v1: "as many carbs as a dozen bagels a
+day" had no curiosity and no Zero to One element. A surprising amount is
+a fact: the viewer learns it and can leave. The openers that held were
+all things the viewer would argue with (weigh more on race morning; the
+first K the slowest; the wall starts in the first 10K), and without the
+wall's record watch time came from a named unknown held to the last
+stage.
+
+**The rule:**
+- **Line one states something most runners would disagree with** (P94),
+  with a picture (P116) and the reframe, and leaves a question they
+  cannot answer ("how is that loading?"). A number, however big, is not
+  a counter-position.
+- **Stakes and pull run the whole video:** pain and dream on the race
+  outcome; a named unknown that names nothing, held to the last stage;
+  a forward pull at the end of stages; a rehook that adds a new twist,
+  not just "and the last one".
+- **Test before delivery:** after line one, what question is the viewer
+  left with? After the hook, what are they still waiting to find out?
+  If either answer is "nothing", rebuild.
+
+*Source: Luke, 16 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
