@@ -138,6 +138,9 @@ twice without being checked against the winners (P99).
 - [ ] **Fuel in grams an hour first, then the gel size, then any count**
       (P118). "Eleven gels" alone drew most of the 25 comments on
       without the wall, nearly all against it ("you must be sponsored").
+- [ ] **A food plan is a full schedule** (P121, Luke 16 Oct): one
+      person, every meal with its clock time, foods, portions and grams,
+      and when to stop eating; the day totals checked against the target.
 - [ ] **Specific numbers and worked examples** where the science
       supports them (goal pace: "five forty one becomes five fifty
       five").

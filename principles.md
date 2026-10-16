@@ -4482,6 +4482,27 @@ stage.
 
 *Source: Luke, 16 October.*
 
+## P121 — A food plan is a schedule: the time, the food, the amount, and when to stop
+
+Luke, 16 October, on carb load v3: a g/kg rule, one weight's range and
+one priced meal was "not specific enough at all". The viewer still did
+not know what to eat at breakfast on Friday, how much, or when to stop
+eating on Saturday. He also set the length at 1:45 to 1:50 for it.
+
+**The rule:**
+- **When the video tells people what to eat, the worked example is the
+  whole schedule for one person** (70 kg, a Sunday 9am race): every
+  meal or snack with its clock time, the foods and portions, and the
+  carbs it adds, plus the moment to stop eating.
+- **The universal rule still comes first** (g/kg), and every other
+  weight goes in the caption and pinned comment.
+- **Check the arithmetic per day** against the target in the file, and
+  fix the plan, not the label, when it falls short.
+- Length follows the plan: Luke sets the window (here 1:45 to 1:50).
+  Flag the watch-time risk once, then build it.
+
+*Source: Luke, 16 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

@@ -20,9 +20,9 @@ every posted video.
 3. The three newest `ideas/*-review.md` files: the latest data.
 4. The newest scripts in `ideas/engine-room-nutrition/` (the house
    style, the hook stacks, the audit tables).
-5. `principles.md` (P1 to P120, about 4,400 lines): search it for the
+5. `principles.md` (P1 to P121, about 4,400 lines): search it for the
    rule you need; do not read it end to end. The newest rules (P97 to
-   P120) are at the end, before "Open questions for Luke".
+   P121) are at the end, before "Open questions for Luke".
 
 ## How we work (Luke's standing instructions)
 
@@ -147,10 +147,11 @@ Comments (16 Oct): almost all about "eleven gels" (too many, break it
 down by carbs, "you must be sponsored", sick on a gel every 20 min):
 P118.
 
-Ready (16 Oct, v3 for Luke; v1's hook rejected, P120; v3 adds Luke's g/kg numbers, ~338 words, 1:35 to 1:40): `ideas/engine-room-nutrition/2026-10-16-script-carb-load.md`,
+Ready (16 Oct, v4 for Luke; v1's hook rejected, P120; v4 is a full meal schedule with times, amounts and the 5pm stop, P121; ~379 words, about 1:50 at Luke's request; teleprompter text in `2026-10-16-teleprompter-carb-load.txt`): `ideas/engine-room-nutrition/2026-10-16-script-carb-load.md`,
 "How to actually carb load for a marathon". Luke's pick, the creative
 slot, and a deliberate test of P101 (fuel title) with the full package:
-markers FRIDAY BREAKFAST / FRIDAY DINNER / SATURDAY / RACE MORNING;
+markers FRIDAY: ALL WHITE / SATURDAY: REPEAT TO 4PM / 5PM: LAST MEAL /
+RACE MORNING: THE SECOND TANK;
 line one "carb load without eating a single extra plate of food, and
 that is your race going to plan"; two fuel tanks, the second (the
 liver, drained overnight) held for the last stage. Luke's science
