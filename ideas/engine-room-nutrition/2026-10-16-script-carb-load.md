@@ -263,7 +263,7 @@ Swap, don't stuff. Keep plates normal size, go white and low fat: white bagels, 
 
 Friday at 70kg (about 600g). 8am: two white bagels with jam, big glass of apple juice. 11am: banana and 500ml sports drink. 1pm: big bowl of white rice, a little chicken, teriyaki sauce, can of fizzy drink. 4pm: two crumpets with honey, handful of pretzels. 7pm: white pasta with tomato sauce, two slices of white bread, glass of juice. Lighter runners eat a little less; heavier runners add a bagel or a glass of juice.
 
-Saturday: the same until 4pm, plus an extra glass of apple juice. 5pm: last meal, normal size (white rice, a little chicken, soy sauce, glass of juice). Then only water. A kilo or two heavier by evening is stored carbs and water, not fat.
+Saturday: the same until 4pm, plus an extra glass of apple juice. 5pm: last meal, normal size (white rice, a little chicken, soy sauce, glass of juice). Then only water. A kilo or two heavier by evening is normal: that is the carbs going in, stored with water.
 
 Race morning, three hours before the start: about 2g of carbs per kg to refill your liver (120g at 60kg, 140g at 70kg, 160g at 80kg, 180g at 90kg). Two white bagels with jam and a glass of juice is about 150g. Then sips of water, and 60 to 75g of carbs an hour from 20 minutes in.
 
