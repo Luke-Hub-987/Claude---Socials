@@ -4,7 +4,7 @@ brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-16
 slot: CREATIVE (Luke's pick, 16 Oct): a deliberate test of the fuel-title rule (P101) with the full current package
 basis: Luke's carb-load science (16 Oct), without the wall (record watch: a named unknown held to the last stage), 7 days, 24 hours, 3 hours, first 10 minutes, every review, SCRIPT-CHECKLIST.md line by line, P1, P38, P71, P94, P112, P115 to P120
-status: v4 for Luke (v2 hook kept; exact meal schedule with times, amounts and the stop point, P121; 1:45-1:50, Luke 16 Oct)
+status: v6 for Luke (new line one, clock times on every meal, P123); earlier: v4 for Luke (v2 hook kept; exact meal schedule with times, amounts and the stop point, P121; 1:45-1:50, Luke 16 Oct)
 ---
 
 # How to actually carb load for a marathon
@@ -83,40 +83,36 @@ second tank comes last.
 the device without the wall used yesterday. It is here because it gave
 the best watch time we have. Do not use it a third time in a row.
 
-## Script (v5: ~345 words, ~1,770 characters; about 1:40. Luke: recent scripts ran to ~1,800 characters)
+## Script v6 (~360 words, ~1835 characters, about 1:45)
 
-**Markers:** FRIDAY: ALL WHITE / SATURDAY: REPEAT TO 4PM / 5PM: LAST MEAL /
-RACE MORNING: THE SECOND TANK
+**What v6 changed (Luke, 16 Oct, P123):** every meal now says its name
+and its clock time with a.m. or p.m. ("Breakfast at eight a.m."), and
+line one changed: "without a single extra plate of food" was not true
+of a five-meal plan (P98: the hook promises exactly what the stages
+deliver). The new line one is the plan's own counter-position: swap
+every slice of brown bread for white.
 
-**[ON SCREEN, held ~10s]**
-"How to actually carb load for a marathon"
+"If you are running a marathon in the next few weeks, two days before it you should swap every slice of brown bread for white, and that is your race going to plan."
 
-**[HOOK]**
-"If you are running a marathon in the next few weeks, you should carb load without eating a single extra plate of food, and that is your race going to plan."
+"Eat clean, finish with a mountain of pasta the night before, and you can still hit the wall at thirty K. Do it right, and at thirty K your watch still shows goal pace."
 
-**[PAIN, DREAM]**
-"Do it the usual way, a mountain of pasta the night before, and you can start bloated and still hit the wall at thirty K. Do it right, and at thirty K your watch still shows goal pace."
+"There are two fuel tanks to fill before a marathon, and runners forget the second one. Here is the exact plan for seventy kilos and a Sunday race, so save this."
 
-**[NAMED UNKNOWN, THE EXAMPLE, SAVE PROMPT]**
-"There are two fuel tanks to fill before a marathon, and runners forget the second one. Here is the exact plan for a seventy kilo runner with a Sunday race, so save this."
+**[FRIDAY: ALL WHITE]**
+"Friday, everything goes white and low in fat, because fibre and fat leave no room for carbs. Your target is eight to ten grams of carbs per kilo, about six hundred today. Breakfast at eight a.m.: two white bagels with jam and a big glass of apple juice. Snack at eleven a.m.: a banana and a bottle of sports drink. Lunch at one p.m.: a big bowl of white rice with chicken, teriyaki sauce and a can of fizzy drink. Snack at four p.m.: two crumpets with honey and a handful of pretzels. Dinner at seven p.m.: white pasta with tomato sauce, two slices of white bread and a glass of juice. The first tank is filling."
 
-**[1. FRIDAY: ALL WHITE]**
-"Friday, the load starts: your normal meals, all white and low in fat. Aim for eight to ten grams of carbs per kilo you weigh, so about six hundred today. Eight, two white bagels with jam and a big glass of apple juice. Eleven, a banana and a bottle of sports drink. One, a big bowl of white rice with a little chicken, teriyaki sauce and a can of fizzy drink. Four, two crumpets with honey and a handful of pretzels. Seven, white pasta with tomato sauce, two slices of white bread and a glass of juice. The first tank is filling."
+**[SATURDAY: REPEAT TO 4PM]**
+"Saturday, the same up to the four p.m. snack, plus an extra glass of apple juice."
 
-**[2. SATURDAY: REPEAT TO 4PM]**
-"Saturday, repeat Friday until four, plus an extra big glass of apple juice."
+**[5PM: LAST MEAL]**
+"Dinner at five p.m. is your last proper meal, normal size: white rice with a little chicken and soy sauce, and a glass of juice. Then nothing but water until bed. The first tank is full."
 
-**[3. 5PM: LAST MEAL]**
-"Five o'clock is your last proper meal, normal size: a bowl of white rice with a little chicken and soy sauce, and a glass of juice. Then stop eating, just water until bed. The first tank is full."
-
-**[REHOOK]**
 "And the last one is the second tank, and it empties while you sleep."
 
-**[4. RACE MORNING: THE SECOND TANK]**
-"The second tank is your liver. It keeps your blood sugar steady, and a lot of it drains overnight. So three hours out, six for a nine o'clock start, refill it: two white bagels with jam and a glass of juice, about a hundred and fifty grams. Then sips of water, and your first gel at twenty minutes."
+**[RACE MORNING: THE SECOND TANK]**
+"The second tank is your liver. It keeps your blood sugar steady, and a lot of it drains overnight. So breakfast three hours out, six a.m. for a nine a.m. start: two white bagels with jam and a glass of juice, about a hundred and fifty grams. Then only sips of water, and your first gel at twenty minutes."
 
-**[CTA, one sentence]**
-"Email us your race and goal time through the link in the bio, and we will work out your carb load for free."
+"Email us your race and goal time through the link in the bio for your own carb load plan, free."
 
 **What v4 changed (Luke, 16 Oct, P121: exact meals, times, amounts and
 when to stop; 1:45 to 1:50):** the whole Friday as a schedule (five
@@ -246,7 +242,7 @@ on race morning.
 
 ## Caption (prose, P118: grams first; Luke wants prose, no bullets)
 
-How to actually carb load for a marathon. Most runners eat a mountain of pasta the night before and call it loading. A proper load takes two days, and your plates stay the same size.
+How to actually carb load for a marathon. Two days out, swap every slice of brown bread for white. Most runners eat clean and then a mountain of pasta the night before; a proper load takes two days, all white and low in fat.
 
 Start at Friday breakfast for a Sunday race and aim for 8 to 10g of carbs per kg of body weight every day (about 3.5 to 4.5g per pound; the sports guidelines go up to 12). At 60kg that is 480 to 600g a day. At 70kg, 560 to 700g. At 80kg, 640 to 800g. At 90kg, 720 to 900g.
 

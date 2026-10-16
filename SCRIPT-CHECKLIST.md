@@ -141,6 +141,9 @@ twice without being checked against the winners (P99).
 - [ ] **A food plan is a full schedule** (P121, Luke 16 Oct): one
       person, every meal with its clock time, foods, portions and grams,
       and when to stop eating; the day totals checked against the target.
+- [ ] **Every schedule time said with its meal and a.m./p.m.** ("Breakfast
+      at eight a.m."), and **line one re-read against the final stages**:
+      still true for someone following the plan? (P123)
 - [ ] **Specific numbers and worked examples** where the science
       supports them (goal pace: "five forty one becomes five fifty
       five").

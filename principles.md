@@ -4520,6 +4520,26 @@ turn, so the next chat inherits it.
 
 *Source: Luke, 16 October.*
 
+## P123 — Say every meal's name and clock time, and keep line one true to the plan
+
+Luke, 16 October, on carb load v5: "Eight, ... Eleven, ... One, ...
+Four" did not say morning or afternoon, or which meal it was; and line
+one ("carb load without eating a single extra plate of food") was not
+believable next to a five-meal plan. He had to correct the script again.
+
+**The rule:**
+- **Every time in a schedule is said in full with its meal:** "Breakfast
+  at eight a.m.", "Snack at four p.m.", "Dinner at five p.m.". Never a
+  bare number.
+- **Line one must be true of the stages as delivered** (P98). After any
+  rewrite of the stages, re-read line one against the final plan and
+  ask: would a viewer who follows this plan feel line one was a lie?
+- **Before delivering, read the script as Luke will: top to bottom, out
+  loud, as a viewer copying it.** Every instruction must be followable
+  without guessing.
+
+*Source: Luke, 16 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
