@@ -67,7 +67,7 @@ Sunday race, as 7 days did.
 | "...you should carb load without eating a single extra plate of food, and that is your race going to plan." | **Counter-position + picture + reframe** | An extra plate of food | **Opened:** how is that loading? |
 | "Do it the usual way, a mountain of pasta the night before, and you can start bloated and still hit the wall at thirty K." | **Pain twisted to the race outcome** | The pasta mountain; the wall at 30K | Raised: what is wrong with the usual way? |
 | "Do it right, and at thirty K your watch still shows goal pace." | **Dream as a picture** | Your watch on goal pace at 30K | Raised |
-| "There are two fuel tanks to fill before a marathon, and runners forget the second one. Here is the exact plan for a seventy kilo runner racing on a Sunday, so save this." | **Named unknown + save** (the without the wall device) | | **Deepened:** what is the second tank? |
+| "There are two fuel tanks to fill before a marathon, and runners forget the second one. Here is the exact plan for a seventy kilo runner with a Sunday race, so save this." | **Named unknown + save** (the without the wall device) | | **Deepened:** what is the second tank? |
 | Stage 1 ends: "The first tank is filling." | Forward pull | | Second tank still open |
 | 5PM stage ends: "The first tank is full." | Forward pull | | Second tank still open |
 | Rehook: "And the last one is the second tank, and it empties while you sleep." | **Reopens with a new twist** | | Reopened, sharper |
@@ -83,7 +83,7 @@ second tank comes last.
 the device without the wall used yesterday. It is here because it gave
 the best watch time we have. Do not use it a third time in a row.
 
-## Script (v4: ~379 words; at Luke's ~205 a minute, about 1:50)
+## Script (v5: ~345 words, ~1,770 characters; about 1:40. Luke: recent scripts ran to ~1,800 characters)
 
 **Markers:** FRIDAY: ALL WHITE / SATURDAY: REPEAT TO 4PM / 5PM: LAST MEAL /
 RACE MORNING: THE SECOND TANK
@@ -98,25 +98,25 @@ RACE MORNING: THE SECOND TANK
 "Do it the usual way, a mountain of pasta the night before, and you can start bloated and still hit the wall at thirty K. Do it right, and at thirty K your watch still shows goal pace."
 
 **[NAMED UNKNOWN, THE EXAMPLE, SAVE PROMPT]**
-"There are two fuel tanks to fill before a marathon, and runners forget the second one. Here is the exact plan for a seventy kilo runner racing on a Sunday, so save this."
+"There are two fuel tanks to fill before a marathon, and runners forget the second one. Here is the exact plan for a seventy kilo runner with a Sunday race, so save this."
 
 **[1. FRIDAY: ALL WHITE]**
-"Friday, the load starts with your normal meals, all white and low in fat, because brown rice, salad and cheese leave no room for carbs. Aim for eight to ten grams of carbs per kilo you weigh, so about six hundred today. Eight, two white bagels with jam and a big glass of apple juice. Eleven, a banana and a bottle of sports drink. One, a big bowl of white rice with a little chicken, teriyaki sauce and a can of fizzy drink. Four, two crumpets with honey and a handful of pretzels. Seven, white pasta with tomato sauce, two slices of white bread and a glass of juice. The first tank is filling."
+"Friday, the load starts: your normal meals, all white and low in fat. Aim for eight to ten grams of carbs per kilo you weigh, so about six hundred today. Eight, two white bagels with jam and a big glass of apple juice. Eleven, a banana and a bottle of sports drink. One, a big bowl of white rice with a little chicken, teriyaki sauce and a can of fizzy drink. Four, two crumpets with honey and a handful of pretzels. Seven, white pasta with tomato sauce, two slices of white bread and a glass of juice. The first tank is filling."
 
 **[2. SATURDAY: REPEAT TO 4PM]**
-"Saturday, repeat Friday until four, and if you are fed up with eating, drink some of it: an extra big glass of apple juice."
+"Saturday, repeat Friday until four, plus an extra big glass of apple juice."
 
 **[3. 5PM: LAST MEAL]**
-"Five o'clock is your last proper meal, normal size: a bowl of white rice with a little chicken and soy sauce, and a glass of juice. Then stop eating, and just sip water until bed. The first tank is full."
+"Five o'clock is your last proper meal, normal size: a bowl of white rice with a little chicken and soy sauce, and a glass of juice. Then stop eating, just water until bed. The first tank is full."
 
 **[REHOOK]**
 "And the last one is the second tank, and it empties while you sleep."
 
 **[4. RACE MORNING: THE SECOND TANK]**
-"The second tank is your liver. It keeps your blood sugar steady while you run, and a lot of it drains overnight. So three hours before the start, six for a nine o'clock gun, refill it: two white bagels with jam and a glass of juice, about a hundred and fifty grams. Then just sips of water, and your first gel at twenty minutes."
+"The second tank is your liver. It keeps your blood sugar steady, and a lot of it drains overnight. So three hours out, six for a nine o'clock start, refill it: two white bagels with jam and a glass of juice, about a hundred and fifty grams. Then sips of water, and your first gel at twenty minutes."
 
 **[CTA, one sentence]**
-"Email us your race and goal time through the link in the bio for a free personalised plan, with your carb load worked out."
+"Email us your race and goal time through the link in the bio, and we will work out your carb load for free."
 
 **What v4 changed (Luke, 16 Oct, P121: exact meals, times, amounts and
 when to stop; 1:45 to 1:50):** the whole Friday as a schedule (five

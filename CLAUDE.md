@@ -58,6 +58,9 @@ every posted video.
   and why; a table of how the curiosity runs (moment, line, what it
   does); the OST in bold capitals on two lines; the markers as a
   numbered list in capitals; the script with its length; short notes.
+- **Script length (Luke, 16 Oct):** the recent scripts ran 1,550 to
+  1,670 characters of spoken text (about 310 to 330 words); the ceiling
+  is about 1,800 characters, with all the detail kept.
 - **OST always in capitals** (HOW TO RUN A MARATHON / WITHOUT HITTING
   THE WALL).
 - **Captions:** prose paragraphs, no bullets, ready to paste.
@@ -172,7 +175,7 @@ Comments (16 Oct): almost all about "eleven gels" (too many, break it
 down by carbs, "you must be sponsored", sick on a gel every 20 min):
 P118.
 
-Ready (16 Oct, v4 for Luke; v1's hook rejected, P120; v4 is a full meal schedule with times, amounts and the 5pm stop, P121; ~379 words, about 1:50 at Luke's request; teleprompter text in `2026-10-16-teleprompter-carb-load.txt`): `ideas/engine-room-nutrition/2026-10-16-script-carb-load.md`,
+Ready (16 Oct, v4 for Luke; v1's hook rejected, P120; v4 is a full meal schedule with times, amounts and the 5pm stop, P121; v5 cut to ~1,770 characters (~345 words, about 1:40) to match the recent scripts; teleprompter text in `2026-10-16-teleprompter-carb-load.txt`): `ideas/engine-room-nutrition/2026-10-16-script-carb-load.md`,
 "How to actually carb load for a marathon". Luke's pick, the creative
 slot, and a deliberate test of P101 (fuel title) with the full package:
 markers FRIDAY: ALL WHITE / SATURDAY: REPEAT TO 4PM / 5PM: LAST MEAL /
