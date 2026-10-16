@@ -242,6 +242,13 @@ twice without being checked against the winners (P99).
 - [ ] **No em dashes, no "not X, it is Y", no staccato fragments, no
       mockery.**
 
+## 8. Delivery (P122)
+
+- [ ] **Delivered in the CLAUDE.md format:** quoted paragraphs, bold
+      bracketed markers, OST in capitals; never a code box or block quote.
+- [ ] **Gemini cover prompt** as photojournalism with camera settings and
+      an "Avoid" line; no national symbols or branding.
+
 ## 8. Posting
 
 - [ ] Setting: whatever is easiest. **The topic drives performance,

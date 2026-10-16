@@ -4503,6 +4503,23 @@ eating on Saturday. He also set the length at 1:45 to 1:50 for it.
 
 *Source: Luke, 16 October.*
 
+## P122 — Deliver in the format of the old chat, every time
+
+Luke, 16 October: scripts sent in a code box or a block quote lost their
+paragraph breaks in the teleprompter, and the handover had not carried
+the old chat's delivery format across. Read from that chat's transcript:
+quoted spoken paragraphs on their own lines, bold bracketed stage
+markers, the OST in capitals, markers as a numbered list, a table of how
+the curiosity runs, and Gemini prompts written as real photojournalism
+with camera settings and an "Avoid" line.
+
+**The rule:** the "How to deliver in chat" section of CLAUDE.md is the
+format for every script, OST, caption and cover prompt. Anything Luke
+asks for in one chat that is about format goes into CLAUDE.md the same
+turn, so the next chat inherits it.
+
+*Source: Luke, 16 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

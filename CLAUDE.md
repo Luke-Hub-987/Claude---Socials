@@ -20,9 +20,9 @@ every posted video.
 3. The three newest `ideas/*-review.md` files: the latest data.
 4. The newest scripts in `ideas/engine-room-nutrition/` (the house
    style, the hook stacks, the audit tables).
-5. `principles.md` (P1 to P121, about 4,400 lines): search it for the
+5. `principles.md` (P1 to P122, about 4,400 lines): search it for the
    rule you need; do not read it end to end. The newest rules (P97 to
-   P121) are at the end, before "Open questions for Luke".
+   P122) are at the end, before "Open questions for Luke".
 
 ## How we work (Luke's standing instructions)
 
@@ -45,6 +45,31 @@ every posted video.
   branch). Commit attribution lines as the system reminder gives them.
   **Never send Luke's email address to any outside service**, including
   request headers.
+
+## How to deliver in chat (Luke, 16 Oct: copy the old chat exactly, P122)
+
+- **Scripts:** never in a code box or a block quote (both break when
+  pasted into the teleprompter). Each spoken paragraph in straight
+  double quotes on its own line, a blank line between paragraphs, and
+  each stage marker in bold square brackets on its own line above its
+  paragraph, e.g. **[0-10K: PAY THE SPEED TAX]**. The hook, pain/dream,
+  named concept, rehook and CTA are quoted paragraphs with no label.
+- **Order when delivering a script:** one or two lines on what changed
+  and why; a table of how the curiosity runs (moment, line, what it
+  does); the OST in bold capitals on two lines; the markers as a
+  numbered list in capitals; the script with its length; short notes.
+- **OST always in capitals** (HOW TO RUN A MARATHON / WITHOUT HITTING
+  THE WALL).
+- **Captions:** prose paragraphs, no bullets, ready to paste.
+- **Gemini cover prompts:** "Paste this into Gemini as one block", then
+  the prompt written as real photojournalism (scene, one person, face
+  hidden, real details, camera body, lens, aperture, shutter, distance,
+  natural muted colour, subtle grain, no retouching, aspect ratio),
+  then an "Avoid:" line (no logos, brand names, readable text or
+  numbers, flags or national symbols, no visible face, no cinematic
+  light, HDR, oversaturation, plastic or airbrushed look, extra
+  fingers). Never Irish or race branding (Luke, 15 Oct). Then why each
+  part is there, and what to zoom in on before using it.
 
 ## The rules that matter most (quick reference; the checklist has all)
 

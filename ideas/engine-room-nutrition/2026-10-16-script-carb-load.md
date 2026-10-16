@@ -274,15 +274,11 @@ bread.** Everyone recognises the pasta party, and the hook says it is
 the wrong way. Food is in shot, which the cover rules ban when food is
 the subject; here the subject is the runner and the mistake. Flagged.
 
-**Gemini prompt (continues the AI cover trial):**
-Candid, natural-light photo in a home kitchen in the evening, warm
-overhead light. One amateur runner in a plain grey running t-shirt sits
-at a wooden table, seen from behind and slightly to the side so the face
-is not visible, leaning back with one hand on their stomach, looking
-down at an enormous overflowing bowl of spaghetti and a plate of garlic
-bread. Colour, present day, realistic photojournalism, an ordinary
-slightly messy kitchen. No logos, no text, no brand names, no race bib,
-no visible face.
+**Gemini prompt (continues the AI cover trial; P122 format):**
+
+Candid documentary photo in a real home kitchen on a Saturday evening, warm overhead light mixed with blue dusk from the window. One amateur male runner in his thirties sits at a wooden kitchen table, seen from behind and slightly to the side so his face is not visible, in a plain grey running t-shirt and plain black running shorts. He leans back in his chair with one hand on his stomach, looking down at an enormous overflowing bowl of spaghetti in tomato sauce and a plate piled with garlic bread, far more food than one person should eat. A fork resting in the pasta, a half-empty glass of water, a crumpled paper napkin, and an ordinary, slightly messy kitchen behind him with a kettle and a tea towel. Shot on a full-frame DSLR with a 35mm lens at f/2, 1/125s, from about two metres away at seated eye height, slightly off-centre framing like a documentary photographer. Natural, muted colours, realistic skin texture and fabric creases, true-to-life exposure, subtle grain, no retouching. Landscape 3:2.
+
+Avoid: no logos, no brand names, no readable text or numbers anywhere, no flags or national symbols, no face visible, no race bib, no dramatic or cinematic lighting, no HDR, no oversaturated colours, no food-advert or restaurant styling, no plastic or airbrushed look, no perfect symmetry, no extra fingers.
 
 **Fallback search terms (Google Images, Pinterest), ranked:**
 1. "man huge bowl of pasta table", "overeating pasta night before race"
