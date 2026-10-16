@@ -79,3 +79,46 @@ Plan CTA emails: to confirm with Luke.
 2. What do the 25 comments say? Are people asking about the hidden wall?
 3. Was "next two weeks" a deliberate change?
 4. Follows on your own account from this collab?
+
+## Addendum, 16 Oct 7:45am: the comments
+
+**Almost every comment is about "eleven gels".** "11 gel is too much"
+(ran sub-4:30 on 6), "11 gels? Can we break it down by carbs" (3 likes,
+4 replies), "11 gels, you must be sponsored" (6 likes), "I physically
+cannot take gels every 20 mins, I just feel sick", "doesn't this depend
+on the carb content of the gels?". The audio gave a count with no gel
+size, so it read as "eat eleven packets", and from a fuel brand it read
+as selling. This is P118: grams an hour first, then gel size, then any
+count. It also drove the comment count, but by doubt, not by curiosity.
+
+**ERN's own reply needs two fixes:** "the target is always 60g"
+contradicts our caption (60 to 75g) and goal pace (60 to 80g); and it
+names four other fuel brands, which advertises them. Describe gels by
+grams.
+
+**Other signals:**
+- A first-timer racing Sunday plans to "walk up a hill and bolt down
+  the other side": the hidden wall's cause, in a real viewer's plan.
+- A 3:29 runner asks for a hydration plan: a plan-CTA lead.
+- A salt comment ("never hit the wall, just ran out of salt"): not
+  ours to endorse (sweat sodium varies widely); no reply needed.
+- Nobody asked about carb loading.
+
+## Next topic: Luke's carb-load idea, scored
+
+**Not next.** It fails the gate's line 2 as a title (fuel as the
+subject, P101: every fuel title sat in the bottom four), and it is
+already covered three times: the 7 days hook ("weigh more on race
+morning") and its 2 DAYS OUT stage, the 24 hours video (graze, biggest
+meal at lunch, light early dinner) and the night before. Only one stage
+of new advice is left (the grams as food), and Luke's rule needs new
+advice in every stage. The only version that would pass is "What to do
+2 days before a marathon" (sibling of 7 days), and it would sit on top
+of two of our best videos.
+
+**Recommended next: "Where the hidden wall in a marathon actually
+starts"**, formula A (the 147K shape) on the concept this video
+planted. The Thiel cause is somewhere viewers think is harmless (fresh
+long strides and fast downhills in the first half), and a commenter is
+planning exactly that for Sunday. The grams-first fuel line (P118) goes
+inside as one sentence, which also answers the comments on camera.

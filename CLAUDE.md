@@ -20,9 +20,9 @@ every posted video.
 3. The three newest `ideas/*-review.md` files: the latest data.
 4. The newest scripts in `ideas/engine-room-nutrition/` (the house
    style, the hook stacks, the audit tables).
-5. `principles.md` (P1 to P117, about 4,400 lines): search it for the
+5. `principles.md` (P1 to P118, about 4,400 lines): search it for the
    rule you need; do not read it end to end. The newest rules (P97 to
-   P117) are at the end, before "Open questions for Luke".
+   P118) are at the end, before "Open questions for Luke".
 
 ## How we work (Luke's standing instructions)
 
@@ -56,7 +56,9 @@ every posted video.
   (P101, P109). Never sort viewers into groups (P103).
 - New advice every video, never contradicting an earlier one (Luke,
   10 Oct). Consistency points: 5-10 s/K slower for the first 10K; up to
-  a minute behind at halfway; gel every 20 minutes with water; shorter,
+  a minute behind at halfway; about 60 to 75g of carbs an hour, said
+  as grams first (a 20-25g gel every 20 minutes with water; a 40g gel
+  every 30 to 40 minutes), never a bare gel count (P118); shorter,
   quicker steps when tired; one K or one lamppost at a time; the
   ten-word talk test ("I am running a marathon today and I feel good":
   10 words in one breath, 10 breathy, 5, then 2-3 words).
@@ -141,8 +143,16 @@ covers on trial (next video: reframe in, AI cover, to separate the
 two); up to ~1:40 is fine when the last stage holds the payoff; a
 two-option question in the pinned comment drew 25 comments.
 
-Waiting on Luke: emails from this video and sub-4; what the 25
-comments say; whether "next two weeks" in the gate was deliberate.
+Comments (16 Oct): almost all about "eleven gels" (too many, break it
+down by carbs, "you must be sponsored", sick on a gel every 20 min):
+P118. Nobody asked about the carb-load timing; one first-timer plans to
+"bolt down" the hills (the hidden wall's cause). Luke floated carb
+loading next: recommended against as the next video (fuel title, P101;
+covered in 7 days, 24 hours and the night before). Recommended next:
+"Where the hidden wall in a marathon actually starts".
+
+Waiting on Luke: emails from this video and sub-4; whether "next two
+weeks" in the gate was deliberate; go-ahead on the next topic.
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
 
 Rejected topics: the last 10K (covered across six videos); anything

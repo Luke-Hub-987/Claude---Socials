@@ -127,6 +127,9 @@ twice without being checked against the winners (P99).
       pinned comment as an extra, never in the steps (P98).
 - [ ] **A mechanism in each instruction**, so old advice becomes news
       (P81).
+- [ ] **Fuel in grams an hour first, then the gel size, then any count**
+      (P118). "Eleven gels" alone drew most of the 25 comments on
+      without the wall, nearly all against it ("you must be sponsored").
 - [ ] **Specific numbers and worked examples** where the science
       supports them (goal pace: "five forty one becomes five fifty
       five").

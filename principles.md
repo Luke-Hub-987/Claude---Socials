@@ -4413,6 +4413,30 @@ to race day with one action per day.
 
 *Source: taper and heavy legs data, 6 and 10 October.*
 
+## P118 — Fuel is said in grams an hour first, never as a bare count of gels
+
+Without the wall, 16 October: the audio said "for a four-hour marathon
+that is eleven gels". It drove most of the 25 comments, nearly all
+against it: "11 gels is too much", "can we break it down by carbs" (3
+likes, 4 replies), "11 gels, you must be sponsored" (6 likes), "I
+physically cannot take gels every 20 minutes". Gels run from about 20g
+to 40g of carbs, so a count is only true for one gel size, and from a
+fuel brand it reads as a sales pitch.
+
+**The rule:**
+- Say the universal number first: about 60 to 75g of carbs an hour
+  (goal pace said 60 to 80g; never "always 60g").
+- Then the worked example with the gel size stated: "with a 20 to 25g
+  gel that is one every 20 minutes; with a 40g gel, one every 30 to 40
+  minutes". The count, if used at all, follows the gel size.
+- "A gel every 20 minutes" stays the house cue, always with its size.
+- Replies describe gels by grams, not by brand: naming other fuel
+  brands from the ERN account advertises them.
+- A deliberately contested number earns comments; an unexplained one
+  costs trust. Contest the idea (the hidden wall), not the arithmetic.
+
+*Source: without the wall comments, 16 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
