@@ -4482,6 +4482,19 @@ stage.
 
 *Source: Luke, 16 October.*
 
+**Amended 16 October (Luke, carb load v6, the sixth draft): a tip is
+not a counter-position.** "Swap every slice of brown bread for white"
+failed because its reason is easy to guess, so no question is left.
+**Pre-flight, every line one, before Luke sees it:**
+1. Would most runners disagree with it, or do it the other way?
+2. Can the viewer NOT guess why? If they can, it is a tip.
+3. Is it a picture, with the reframe when true?
+4. Does its "why" arrive no earlier than stage 3, and does the rehook
+   turn it into a new problem that the last stage pays off?
+Benchmarks: "weigh more on race morning" (34.3%), "your first K should
+be the slowest" (32.4%), "every gel on time and still hit the wall"
+(record watch). If line one is weaker than all three, rebuild it.
+
 ## P121 — A food plan is a schedule: the time, the food, the amount, and when to stop
 
 Luke, 16 October, on carb load v3: a g/kg rule, one weight's range and

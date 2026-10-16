@@ -83,18 +83,31 @@ second tank comes last.
 the device without the wall used yesterday. It is here because it gave
 the best watch time we have. Do not use it a third time in a row.
 
-## Script v6 (~360 words, ~1835 characters, about 1:45)
+## Script v7 (~364 words, ~1861 characters, about 1:45)
 
-**What v6 changed (Luke, 16 Oct, P123):** every meal now says its name
-and its clock time with a.m. or p.m. ("Breakfast at eight a.m."), and
-line one changed: "without a single extra plate of food" was not true
-of a five-meal plan (P98: the hook promises exactly what the stages
-deliver). The new line one is the plan's own counter-position: swap
-every slice of brown bread for white.
+**Why v6's hook failed (Luke, 16 Oct, P120 amended):** "swap every
+slice of brown bread for white" is a tip, and its reason (fibre) is
+easy to guess, so it left no question. v7's line one is a paradox the
+viewer cannot resolve: **stop eating at five o'clock the night before**,
+against the pasta-party tradition, with the reframe. Its "why" is held
+to the 5PM stage, and the rehook turns the same advice into a new
+problem ("stop at five, and the second tank empties while you sleep"),
+paid off in the last stage.
 
-"If you are running a marathon in the next few weeks, two days before it you should swap every slice of brown bread for white, and that is your race going to plan."
+| Moment | Line | What it does |
+|---|---|---|
+| Line one | "...stop eating at five o'clock the night before, and that is your race going to plan." | Paradox against the pasta party; a picture (the clock, the plate pushed away); the reframe. **Opens:** why, and won't I run out? |
+| Pain | "Eat the usual mountain of pasta at eight..." | Stakes as a picture: bloated, the wall at 30K |
+| Dream | "...at thirty K your watch still shows goal pace." | Picture |
+| Named unknown | "Two fuel tanks... runners forget the second one." | **Deepens:** what is the second tank? |
+| Friday | "The first tank is filling." | Forward pull |
+| 5PM | "By now the first tank is full..." | **Closes line one's why** |
+| Rehook | "But stop at five, and the second tank empties while you sleep." | **Turns line one into a new problem** |
+| Race morning | "The second tank is your liver." | **Payoff** |
 
-"Eat clean, finish with a mountain of pasta the night before, and you can still hit the wall at thirty K. Do it right, and at thirty K your watch still shows goal pace."
+"If you are running a marathon in the next few weeks, you should stop eating at five o'clock the night before, and that is your race going to plan."
+
+"Eat the usual mountain of pasta at eight, and you can start bloated and still hit the wall at thirty K. Do it right, and at thirty K your watch still shows goal pace."
 
 "There are two fuel tanks to fill before a marathon, and runners forget the second one. Here is the exact plan for seventy kilos and a Sunday race, so save this."
 
@@ -105,9 +118,9 @@ every slice of brown bread for white.
 "Saturday, the same up to the four p.m. snack, plus an extra glass of apple juice."
 
 **[5PM: LAST MEAL]**
-"Dinner at five p.m. is your last proper meal, normal size: white rice with a little chicken and soy sauce, and a glass of juice. Then nothing but water until bed. The first tank is full."
+"Dinner at five p.m. is your last meal, normal size: white rice, a little chicken and soy sauce, and a glass of juice. By now the first tank is full, and anything big later just sits in your stomach all night. Then only water until bed."
 
-"And the last one is the second tank, and it empties while you sleep."
+"But stop at five, and the second tank empties while you sleep."
 
 **[RACE MORNING: THE SECOND TANK]**
 "The second tank is your liver. It keeps your blood sugar steady, and a lot of it drains overnight. So breakfast three hours out, six a.m. for a nine a.m. start: two white bagels with jam and a glass of juice, about a hundred and fifty grams. Then only sips of water, and your first gel at twenty minutes."

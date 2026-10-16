@@ -54,6 +54,12 @@ twice without being checked against the winners (P99).
       the last three posts for the same concept, payoff or named idea.
       When Luke picks a topic against a rule, build the best version,
       state the risk once, and frame it as a test of that rule.
+- [ ] **Line one pre-flight (P120 amended, Luke 16 Oct):** most runners
+      would disagree; they cannot guess why (a tip fails); a picture and
+      the reframe; the why held to stage 3 or later and the rehook turns
+      it into a new problem. Weaker than "weigh more on race morning",
+      "first K the slowest" and "every gel on time and still hit the
+      wall"? Rebuild before delivering.
 - [ ] **Line one is a counter-position, not a big number** (P120, Luke
       16 Oct): "a dozen bagels a day" was a fact with no curiosity. Line
       one says something runners would argue with, leaves a question,

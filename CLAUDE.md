@@ -103,7 +103,8 @@ every posted video.
 **Hook stack (first 15 seconds)**
 - Gate: "If you are running a marathon in the next few weeks," (narrow
   only when the topic is narrow: Dublin, sub-4).
-- Line one: something you can photograph, turned into a paradox, ending
+- Line one: run the P120 pre-flight (a tip is not a counter-position).
+  Something you can photograph, turned into a paradox, ending
   on the reframe "...and that is your race going to plan." (31.9% to
   34% skip with it; 38.1% without; 43.1% when abstract). P112, P116.
 - Then pain as a picture, the dream as a picture, a named concept that
@@ -180,8 +181,9 @@ Ready (16 Oct, v4 for Luke; v1's hook rejected, P120; v4 is a full meal schedule
 slot, and a deliberate test of P101 (fuel title) with the full package:
 markers FRIDAY: ALL WHITE / SATURDAY: REPEAT TO 4PM / 5PM: LAST MEAL /
 RACE MORNING: THE SECOND TANK;
-line one "two days before it you should swap every slice of brown bread
-for white, and that is your race going to plan"; two fuel tanks, the second (the
+line one (v7) "you should stop eating at five o'clock the night before,
+and that is your race going to plan"; its why held to the 5PM stage; the
+rehook "stop at five, and the second tank empties while you sleep"; two fuel tanks, the second (the
 liver, drained overnight) held for the last stage. Luke's science
 vetted in the file (drink "some", not half; overclaims cut). AI cover
 (Gemini prompt in the file), so the reframe-plus-AI-cover test runs,
