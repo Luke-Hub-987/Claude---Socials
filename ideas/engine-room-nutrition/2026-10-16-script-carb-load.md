@@ -253,21 +253,21 @@ anything about Luke or medication.
 room (new reason); drink part of it; the second tank and how much to eat
 on race morning.
 
-## Caption (prose, P118: grams first; Luke wants prose, no bullets)
+## Caption (v7: matches the v7 script; prose, P118 grams first, every weight)
 
-How to actually carb load for a marathon. Two days out, swap every slice of brown bread for white. Most runners eat clean and then a mountain of pasta the night before; a proper load takes two days, all white and low in fat.
+How to actually carb load for a marathon. Stop eating at 5pm the night before, and load over the two days before that instead.
 
-Start at Friday breakfast for a Sunday race and aim for 8 to 10g of carbs per kg of body weight every day (about 3.5 to 4.5g per pound; the sports guidelines go up to 12). At 60kg that is 480 to 600g a day. At 70kg, 560 to 700g. At 80kg, 640 to 800g. At 90kg, 720 to 900g.
+Your target is 8 to 10g of carbs per kg of body weight, every day for the two days before your race (about 3.5 to 4.5g per pound). At 60kg that is 480 to 600g a day. At 70kg, 560 to 700g. At 80kg, 640 to 800g. At 90kg, 720 to 900g. For a Sunday race, that means Friday and Saturday.
 
-Those numbers look impossible if you try to hit them with normal meals, so swap instead of adding. Cut the cheese, butter, bacon, burgers, peanut butter and creamy sauces for these two days, keep protein light, and go white: brown rice, salad, beans and broccoli fill your gut with fibre and leave less room for the carbs.
+Hit it by swapping, not stuffing. For these two days everything goes white and low in fat: white bagels, white rice, white pasta with a plain tomato sauce, white bread, crumpets and pretzels. Cut the cheese, butter, bacon, burgers, peanut butter and creamy sauces, and keep protein light, because fibre and fat fill you up and leave no room for the carbs.
 
-Here is what about 600g looks like on Friday for a 70kg runner. 8am, two large white bagels with jam and a big glass of apple juice (about 160g). 11am, a banana and 500ml of sports drink (about 60g). 1pm, a big bowl of white rice with a little chicken, teriyaki sauce and a can of fizzy drink (about 115g). 4pm, two crumpets with honey and a handful of pretzels (about 90g). 7pm, white pasta with tomato sauce, two slices of white bread and a glass of juice (about 165g).
+Here is Friday for a 70kg runner, about 600g. Breakfast at 8am, two white bagels with jam and a big glass of apple juice (about 160g). Snack at 11am, a banana and a 500ml sports drink (about 60g). Lunch at 1pm, a big bowl of white rice with a little chicken, teriyaki sauce and a can of fizzy drink (about 115g). Snack at 4pm, two crumpets with honey and a handful of pretzels (about 90g). Dinner at 7pm, white pasta with tomato sauce, two slices of white bread and a glass of juice (about 165g). At 60kg, make each portion a little smaller; at 80 or 90kg, add a bagel, a bigger bowl of rice or another glass of juice.
 
-Saturday, repeat Friday until 4pm, and if you are fed up with eating, drink some of it with an extra big glass of apple or pineapple juice. At 5pm, eat your last proper meal at a normal size: a bowl of white rice with a little chicken, soy sauce and a glass of juice. Then stop eating and just sip water until bed. That makes about 565g. Expect to weigh a kilo or two more by Saturday evening: your muscles store carbs with water, and none of it is fat.
+Saturday is the same up to the 4pm snack, plus an extra glass of apple juice. Dinner at 5pm is your last meal, normal size: white rice with a little chicken and soy sauce, and a glass of juice. By then the first tank is full, and anything big later just sits in your stomach all night, so only water until bed. Expect to weigh a kilo or two more by Saturday evening: your muscles store carbs with water, and none of it is fat.
 
-Race morning, refill the second tank. Your liver keeps your blood sugar steady and uses a lot of its store overnight, so three hours before the start (6am for a 9am gun) eat about 2g of carbs per kg (about 150g at 70kg: two white bagels with jam and a glass of juice). Then just sips of water. From the gun, about 60 to 75g of carbs an hour, starting at 20 minutes.
+Race morning, refill the second tank. Your liver keeps your blood sugar steady and uses a lot of its store overnight, so eat breakfast three hours before the start (6am for a 9am gun): about 2g of carbs per kg. That is about 120g at 60kg, 140g at 70kg, 160g at 80kg and 180g at 90kg. Two white bagels with jam and a glass of juice is about 150g. Then only sips of water, and from the gun about 60 to 75g of carbs an hour, starting at 20 minutes.
 
-Want it worked out for you? Email us your race and goal time through the link in the bio and we will send you a free personalised plan, carb load included.
+Want it worked out for your weight and race? Email us your race and goal time through the link in the bio and we will send you a free personalised plan, carb load included.
 
 Practise your race breakfast before a long run first. If you have diabetes or any medical condition, check with your doctor before changing how you eat.
 
@@ -283,11 +283,11 @@ bread.** Everyone recognises the pasta party, and the hook says it is
 the wrong way. Food is in shot, which the cover rules ban when food is
 the subject; here the subject is the runner and the mistake. Flagged.
 
-**Gemini prompt (continues the AI cover trial; P122 format):**
+**Gemini prompt (v7: line one as a picture, the plate finished at five, kit laid out for tomorrow):**
 
-Candid documentary photo in a real home kitchen on a Saturday evening, warm overhead light mixed with blue dusk from the window. One amateur male runner in his thirties sits at a wooden kitchen table, seen from behind and slightly to the side so his face is not visible, in a plain grey running t-shirt and plain black running shorts. He leans back in his chair with one hand on his stomach, looking down at an enormous overflowing bowl of spaghetti in tomato sauce and a plate piled with garlic bread, far more food than one person should eat. A fork resting in the pasta, a half-empty glass of water, a crumpled paper napkin, and an ordinary, slightly messy kitchen behind him with a kettle and a tea towel. Shot on a full-frame DSLR with a 35mm lens at f/2, 1/125s, from about two metres away at seated eye height, slightly off-centre framing like a documentary photographer. Natural, muted colours, realistic skin texture and fabric creases, true-to-life exposure, subtle grain, no retouching. Landscape 3:2.
+Candid documentary photo in a real home kitchen at about five o'clock on an autumn evening, the last daylight coming through the window and a warm ceiling light on. One amateur male runner in his thirties sits at a small wooden kitchen table, seen from behind and slightly to the side so his face is not visible, in a plain grey hoodie. He is pushing away a finished, normal-sized bowl that held white rice, with a fork resting in it and a half-drunk glass of orange juice beside it. On the chair next to him his race kit is laid out for tomorrow: plain running shoes, plain black shorts, a plain t-shirt with a race bib pinned to it but folded over so no number or text shows, and a few energy gels in plain unbranded foil. On the wall above the table, a plain round analogue clock with no numerals, its hands at five o'clock. An ordinary, slightly messy kitchen: a kettle, a tea towel, a glass of water by the sink. Shot on a full-frame DSLR with a 35mm lens at f/2, 1/125s, from about two metres away at seated eye height, slightly off-centre framing like a documentary photographer. Natural, muted colours, realistic skin texture and fabric creases, true-to-life exposure, subtle grain, no retouching. Landscape 3:2.
 
-Avoid: no logos, no brand names, no readable text or numbers anywhere, no flags or national symbols, no face visible, no race bib, no dramatic or cinematic lighting, no HDR, no oversaturated colours, no food-advert or restaurant styling, no plastic or airbrushed look, no perfect symmetry, no extra fingers.
+Avoid: no logos, no brand names, no readable text or numbers anywhere (including on the clock, the bib and the gels), no flags or national symbols, no face visible, no dramatic or cinematic lighting, no HDR, no oversaturated colours, no food-advert or restaurant styling, no plastic or airbrushed look, no perfect symmetry, no extra fingers.
 
 **Fallback search terms (Google Images, Pinterest), ranked:**
 1. "man huge bowl of pasta table", "overeating pasta night before race"
