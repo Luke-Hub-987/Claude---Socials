@@ -159,4 +159,4 @@ Campaign email to the whole list (15 Oct, v3: subject "Your free marathon plan";
 `ideas/engine-room-nutrition/emails/2026-10-15-campaign-whats-your-race.md`
 and `.html`. One ask: reply with race, goal time, a recent time and current
 fuel. Four race-day rules plus the sub-4 sample plan, all from the videos.
-v4 (16 Oct) fixes the Klaviyo review: real reply address, no font link, splits that add up. Measure reply rate, not opens.
+v5 (16 Oct): no address, dark-mode fix, animated GIF race line (upload and paste link). Spam cause: no SPF, no DKIM, no Klaviyo sending domain (fix in the .md). Measure reply rate, not opens.

@@ -1,4 +1,4 @@
-# Campaign email: your free marathon plan (v4, 16 Oct 2026)
+# Campaign email: your free marathon plan (v5, 16 Oct 2026)
 
 HTML: `2026-10-15-campaign-whats-your-race.html`. Sent as a campaign to
 the whole list (Luke, 15 Oct: the office-era subscribers are likely
@@ -38,8 +38,6 @@ marathon runners too).
   Same button added straight under the intro.
 - Race and goal time required; recent time and current fuel optional.
 - `[DATE]` removed from the sender row.
-- Address tag on its own line. **It renders empty unless the address is
-  filled in under Klaviyo Settings, Account, Organization.**
 - Body text 16px, labels at least 11-12px, buttons #2563eb.
 - Sample plan recalculated so every number adds up (pace is real pace
   for the 10K before each sign; time is total race time):
@@ -49,6 +47,56 @@ marathon runners too).
   with the sub-4 video's watch paces (5:42, 5:35).
 - Rules framed as a starting point; the gel rule now says to use the
   gels you train with and keep a routine that works.
+
+## v5 changes (Luke's test, 16 Oct)
+
+- Company address removed from the footer (Luke). Note: US law (CAN-SPAM)
+  expects a postal address in marketing email to US subscribers; a PO
+  box or registered office is enough if we ever add one back.
+- Dark mode: removed the header's gradient image. Gmail's dark mode
+  turns the text dark but leaves a background image dark, which made
+  the header unreadable. Solid colours now, so text and background flip
+  together.
+- Motion: Gmail strips all CSS animation, which is why nothing moved.
+  The race line is now an animated GIF (`assets/race-line.gif`, 176 KB),
+  which moves in Gmail, Apple Mail and most phones. The runner travels
+  start to finish and the split times appear at each sign. Its first
+  frame is the finished picture, so Outlook (which shows only the first
+  frame) still shows the whole plan. **Upload it to Klaviyo's image
+  library and paste its link where the HTML says `PASTE_GIF_LINK_HERE`.**
+- Reply wording: pressing reply is now named as the main route; the
+  buttons stay as a shortcut.
+
+## Spam: the cause and the fix (checked 16 Oct)
+
+Public DNS for engineroomnutrition.com shows:
+
+| Record | Found | Needed |
+|---|---|---|
+| SPF (TXT at the root) | **none** | `v=spf1 include:_spf.google.com ~all` |
+| DKIM for Google Workspace | none at the default selector | turn on in Google Admin |
+| Klaviyo sending domain | none found | set up in Klaviyo |
+| DMARC | `v=DMARC1; p=none` | fine for now |
+
+Gmail cannot confirm the email really comes from engineroomnutrition.com,
+so it goes to spam. Fix, in this order:
+
+1. **Klaviyo:** Settings, Domains, set up a sending domain (for example
+   send.engineroomnutrition.com). Add the records it shows at your domain
+   host and press verify.
+2. **SPF:** add the TXT record above at the root of the domain.
+3. **Google DKIM:** Google Admin, Apps, Google Workspace, Gmail,
+   Authenticate email. Generate the key, add it as a TXT record, then
+   press Start authentication.
+4. Wait for the records to go live (minutes to a few hours), then send a
+   fresh test. In Gmail open it, the three dots, Show original: SPF, DKIM
+   and DMARC should all say PASS.
+5. Mark the test "Not spam" and add the sender to your contacts.
+
+Links in a message Gmail treats as suspicious can stop working, so test
+the buttons again once the email lands in the inbox. If a button still
+does nothing, long-press it and see the link: if it starts with a Klaviyo
+tracking address instead of `mailto:`, click tracking has wrapped it.
 
 ## How replying works
 
@@ -121,6 +169,5 @@ P.S. There are two of us building a carb bar for marathon runners. It is not out
 P.P.S. No marathon on the calendar? Forward this to a friend who has one. Their plan is free too.
 
 {{ organization.name }}
-{{ organization.full_address }}
 Unsubscribe: {% unsubscribe_link %}
 ```
