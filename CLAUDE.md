@@ -147,7 +147,7 @@ Comments (16 Oct): almost all about "eleven gels" (too many, break it
 down by carbs, "you must be sponsored", sick on a gel every 20 min):
 P118.
 
-Ready (16 Oct, v2 for Luke; v1's hook rejected, P120): `ideas/engine-room-nutrition/2026-10-16-script-carb-load.md`,
+Ready (16 Oct, v3 for Luke; v1's hook rejected, P120; v3 adds Luke's g/kg numbers, ~338 words, 1:35 to 1:40): `ideas/engine-room-nutrition/2026-10-16-script-carb-load.md`,
 "How to actually carb load for a marathon". Luke's pick, the creative
 slot, and a deliberate test of P101 (fuel title) with the full package:
 markers FRIDAY BREAKFAST / FRIDAY DINNER / SATURDAY / RACE MORNING;

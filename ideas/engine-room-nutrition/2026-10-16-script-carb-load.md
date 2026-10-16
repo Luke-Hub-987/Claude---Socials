@@ -4,7 +4,7 @@ brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-16
 slot: CREATIVE (Luke's pick, 16 Oct): a deliberate test of the fuel-title rule (P101) with the full current package
 basis: Luke's carb-load science (16 Oct), without the wall (record watch: a named unknown held to the last stage), 7 days, 24 hours, 3 hours, first 10 minutes, every review, SCRIPT-CHECKLIST.md line by line, P1, P38, P71, P94, P112, P115 to P120
-status: v2 for Luke (hook stack rebuilt for curiosity and stakes, Luke 16 Oct; his science vetted and added)
+status: v3 for Luke (v2 hook kept; carb amounts made specific from Luke's numbers; cut to 1:30-1:40, Luke 16 Oct)
 ---
 
 # How to actually carb load for a marathon
@@ -66,9 +66,9 @@ Sunday race, as 7 days did.
 | "If you are running a marathon in the next few weeks," | Gate, broad | | |
 | "...you should carb load without eating a single extra plate of food, and that is your race going to plan." | **Counter-position + picture + reframe** | An extra plate of food | **Opened:** how is that loading? |
 | "Do it the usual way, a mountain of pasta the night before, and you can start bloated and still hit the wall at thirty K." | **Pain twisted to the race outcome** | The pasta mountain; the wall at 30K | Raised: what is wrong with the usual way? |
-| "Do it right, and at thirty K your watch still shows goal pace while people around you walk." | **Dream as a picture** | Your watch; walkers around you | Raised |
-| "There are two fuel tanks to fill before a marathon, and the second one is the one runners forget, so save this." | **Named unknown + save** (the without the wall device) | | **Deepened:** what is the second tank? |
-| Stage 1 ends: "...and the first tank is filling." | Forward pull | | Second tank still open |
+| "Do it right, and at thirty K your watch still shows goal pace." | **Dream as a picture** | Your watch on goal pace at 30K | Raised |
+| "There are two fuel tanks to fill before a marathon, and runners forget the second one, so save this." | **Named unknown + save** (the without the wall device) | | **Deepened:** what is the second tank? |
+| Stage 1 ends: "The first tank is filling." | Forward pull | | Second tank still open |
 | Stage 3 ends: "...and the first tank is full." | Forward pull | | Second tank still open |
 | Rehook: "And the last one is the second tank, and it empties while you sleep." | **Reopens with a new twist** | | Reopened, sharper |
 | Stage 4 opens: "The second tank is your liver." | **Payoff** | | Closed |
@@ -83,7 +83,7 @@ second tank comes last.
 the device without the wall used yesterday. It is here because it gave
 the best watch time we have. Do not use it a third time in a row.
 
-## Script (~340 words; at Luke's ~205 a minute, about 1:40)
+## Script (v3: ~338 words; at Luke's ~205 a minute, about 1:35 to 1:40)
 
 **[ON SCREEN, held ~10s]**
 "How to actually carb load for a marathon"
@@ -92,16 +92,16 @@ the best watch time we have. Do not use it a third time in a row.
 "If you are running a marathon in the next few weeks, you should carb load without eating a single extra plate of food, and that is your race going to plan."
 
 **[PAIN, DREAM]**
-"Do it the usual way, a mountain of pasta the night before, and you can start bloated and still hit the wall at thirty K. Do it right, and at thirty K your watch still shows goal pace while people around you walk."
+"Do it the usual way, a mountain of pasta the night before, and you can start bloated and still hit the wall at thirty K. Do it right, and at thirty K your watch still shows goal pace."
 
 **[NAMED UNKNOWN, SAVE PROMPT]**
-"There are two fuel tanks to fill before a marathon, and the second one is the one runners forget, so save this."
+"There are two fuel tanks to fill before a marathon, and runners forget the second one, so save this."
 
 **[1. FRIDAY BREAKFAST: SAME PLATES]**
-"For a Sunday race, the load starts at Friday breakfast, and your plates stay the same size. Make three quarters of every plate plain carbs, and cut the cheese, butter and creamy sauces that take up the room the carbs need. At seventy kilos that is about six hundred grams of carbs a day, and the first tank is filling." ⚑1 ⚑2 ⚑3
+"For a Sunday race, the load starts at Friday breakfast. Eat eight to ten grams of carbs for every kilo you weigh, each day: at seventy kilos, five hundred and sixty to seven hundred grams. Every weight is in the caption. Keep your plates the same size, and swap the cheese, butter and creamy sauces for plain carbs. The first tank is filling." ⚑1 ⚑2 ⚑3
 
 **[2. FRIDAY DINNER: GO WHITE]**
-"Friday dinner is where clean eaters go wrong. Brown rice, salad and broccoli fill you with fibre and leave less room for carbs. So go white for two days: white rice, white pasta, white bread. It feels backwards, and it is right." ⚑4
+"Friday dinner is where clean eaters go wrong. Brown rice, salad and broccoli fill you with fibre and leave less room for carbs. So go white for two days: a big bowl of white rice with teriyaki sauce and a can of fizzy drink is about a hundred and fifteen grams." ⚑4 ⚑8
 
 **[3. SATURDAY: DRINK IT]**
 "By Saturday you will be fed up with eating, so drink some of it: two big glasses of apple juice add about seventy grams. Eat your last proper meal early and plain, around five, and the first tank is full." ⚑5 ⚑6
@@ -110,13 +110,36 @@ the best watch time we have. Do not use it a third time in a row.
 "And the last one is the second tank, and it empties while you sleep."
 
 **[4. RACE MORNING: THE SECOND TANK]**
-"The second tank is your liver. It keeps your blood sugar steady while you run, and a lot of it drains overnight while your legs stay loaded. So three hours before the start, refill it with about two grams of carbs for every kilo you weigh: at seventy kilos, two plain bagels with jam and a glass of juice. Then you start with both tanks full." ⚑7
+"The second tank is your liver. It keeps your blood sugar steady while you run, and a lot of it drains overnight. So three hours before the start, refill it with about two grams of carbs per kilo: at seventy kilos, two plain bagels with jam and a glass of juice. Then you start with both tanks full." ⚑7
 
 **[CTA, one sentence]**
 "Email us your race and goal time through the link in the bio for a free personalised plan, with your carb load worked out."
 
-**If the cut runs over 1:40, trim in this order:** "It feels backwards,
-and it is right"; then "while people around you walk".
+**What v3 changed (Luke: more specific on the amount, 1:30 to 1:40):**
+the full range for one weight in the audio (560 to 700 g at 70 kg) and
+every other weight in the caption, pointed to from the audio; one real
+meal with its grams (rice, teriyaki, fizzy drink: ~115 g); cut "three
+quarters of every plate", "while people around you walk", "it feels
+backwards" and "while your legs stay loaded" to hold the length.
+**If the cut still runs over 1:40, trim:** "Every weight is in the
+caption" (the pinned comment carries it too).
+
+## Luke's numbers (16 Oct, second note), vetted
+
+| Luke's point | Verdict |
+|---|---|
+| 8 to 10 g/kg (3.5 to 4.5 g/lb) per 24 hours, 36 to 48 h | **Kept.** Matches the 7 days caption; the IOC guidance goes to 12. Conversions correct (8 g/kg = 3.6 g/lb, 10 = 4.5) |
+| 60 kg 480-600 g; 70 kg 560-700 g; 80 kg 640-800 g; 90 kg 720-900 g | **Kept**, arithmetic checked. Caption and pinned comment |
+| Runners panic at 600 g because they try to hit it with regular meals; use refined white grains and liquid carbs | **Kept**: it is the same plates / go white / drink it structure |
+| "Your stomach will explode" | **Cut**: hyperbole, and the voice rules ban mockery-adjacent lines |
+| Breakfast ~120 g (two large bagels, 2 tbsp jam or honey, 350 ml apple juice) | **Corrected to ~160 g.** Two large plain bagels ~100 g, jam ~26 g, 350 ml apple juice ~37 g |
+| Mid-morning ~70 g (banana, 500 ml sports drink or squash) | **~60 g.** Kept |
+| Lunch ~115 g (250 g cooked white basmati, small chicken breast, sweet chilli or teriyaki, can of soda) | **Kept, ~115 g** (rice ~70 g, sauce ~12 g, 330 ml soda ~35 g). **Used in the audio** |
+| Afternoon ~85 g (two crumpets, maple syrup, pretzels) | **~90 g.** Kept |
+| Dinner at 5pm ~130 g (large plate of white pasta, marinara, two thick slices of white bread, juice) | **Corrected to ~170 g**, and **Friday only.** On Saturday a large plate of pasta is the night-before mistake our own pain line and the 24 hours video warn against: Saturday's 5pm meal is a normal plate, plain |
+| Pre-bed ~60 g (cereal, milk, banana) | **~70 g.** Kept for Friday. "Corn Flakes" and "Rice Krispies" are brand names (P113): said as cornflakes or puffed rice cereal |
+| The day totals ~600 g | **It comes to about 650 to 670 g**: inside the 560 to 700 g range for 70 kg, so the plan works; the meal labels were low |
+| Same plate volume because the fat is gone | **Kept**: line one's secret |
 
 ## Luke's science (16 Oct), vetted
 
@@ -168,12 +191,13 @@ and it is right"; then "while people around you walk".
 | # | Claim in the audio | Basis |
 |---|---|---|
 | 1 | Loading over the two days before; Friday and Saturday for a Sunday race | Carb loading guidance: 36 to 48 h at 10 to 12 g/kg/day for events over 90 minutes (Burke et al., 2011, J Sports Sci, IOC consensus). Matches 7 days and 24 hours |
-| 2 | Same plate sizes; three quarters plain carbs; cut fat | Standard sports-dietitian loading practice (Australian Institute of Sport: reduce fat and fibre to make room for compact carbs). At 8 to 10 g/kg, a 70 kg runner on ~2,800 to 3,000 kcal gets roughly 75 to 90% of energy from carbs, so "three quarters" is honest |
-| 3 | 70 kg: about 600 g a day | 70 x 8.5 = 595 g (7 days caption: 8 to 10 g/kg) |
+| 2 | Same plate sizes; swap fat for plain carbs | Standard sports-dietitian loading practice (Australian Institute of Sport: reduce fat and fibre to make room for compact carbs). At 8 to 10 g/kg, a 70 kg runner on ~2,800 to 3,000 kcal gets roughly 75 to 90% of energy from carbs, so "three quarters" is honest |
+| 3 | 8 to 10 g/kg each day; 70 kg: 560 to 700 g | IOC consensus (Burke et al., 2011) gives 10 to 12; 8 to 10 is the practical target already in the 7 days caption. 70 x 8 = 560, 70 x 10 = 700 |
+| 8 | White rice, teriyaki sauce and a can of fizzy drink: about 115 g | 250 g cooked white basmati ~70 g; 2 tbsp teriyaki or sweet chilli ~10 to 15 g; 330 ml regular soft drink ~35 g |
 | 4 | Fibre fills you and leaves less room for carbs | Fibre adds bulk and slows emptying; low-fibre loading is standard (AIS). 7 days gave the toilet reason; this is the room-for-carbs reason, new (P81) |
 | 5 | Two big glasses of apple juice add about 70 g | Apple juice ~10 to 11 g per 100 ml; two 330 ml glasses ≈ 66 to 73 g. Liquid carbs to reach the target: AIS |
 | 6 | Last proper meal early and plain, around five | 24 hours: "light and early, around half five or six" |
-| 7 | The liver keeps blood sugar steady; a lot of it drains overnight while muscle stays loaded; ~2 g/kg about 3 h before | Liver glycogen falls substantially after an overnight fast while resting muscle glycogen is largely unchanged (Nilsson and Hultman, 1973; Taylor et al., 1996). Pre-event meal 1 to 4 g/kg, 1 to 4 h before (Thomas, Erdman and Burke, 2016, ACSM/AND/DC). Three hours matches the 3 hours video |
+| 7 | The liver keeps blood sugar steady; a lot of it drains overnight (resting muscle stays loaded); ~2 g/kg about 3 h before | Liver glycogen falls substantially after an overnight fast while resting muscle glycogen is largely unchanged (Nilsson and Hultman, 1973; Taylor et al., 1996). Pre-event meal 1 to 4 g/kg, 1 to 4 h before (Thomas, Erdman and Burke, 2016, ACSM/AND/DC). Three hours matches the 3 hours video |
 
 **Not claimed:** how much faster loading makes you, how many runners do
 it wrong, how long the load lasts, hydration from glycogen water,
@@ -197,25 +221,27 @@ anything about Luke or medication.
 room (new reason); drink part of it; the second tank and how much to eat
 on race morning.
 
-## Caption (prose, P118: grams first)
+## Caption (prose, P118: grams first; Luke wants prose, no bullets)
 
 How to actually carb load for a marathon. Most runners eat a mountain of pasta the night before and call it loading. A proper load takes two days, and your plates stay the same size.
 
-Start at Friday breakfast for a Sunday race. Aim for 8 to 10g of carbs per kg of body weight a day (the sports guidelines go up to 12): for a 70kg runner, about 560 to 700g a day. Make about three quarters of every plate plain carbs, and cut the cheese, butter, bacon, burgers, peanut butter and creamy sauces for these two days. Keep protein light, like a small piece of chicken or a couple of eggs.
+Start at Friday breakfast for a Sunday race and aim for 8 to 10g of carbs per kg of body weight every day (about 3.5 to 4.5g per pound; the sports guidelines go up to 12). At 60kg that is 480 to 600g a day. At 70kg, 560 to 700g. At 80kg, 640 to 800g. At 90kg, 720 to 900g.
 
-Go white for two days. Brown rice, salad, beans and broccoli fill your gut with fibre and leave less room for the carbs. White rice, white pasta with a plain tomato sauce, white bread, bagels, crumpets and pretzels go down easier and load faster.
+Those numbers look impossible if you try to hit them with normal meals, so swap instead of adding. Cut the cheese, butter, bacon, burgers, peanut butter and creamy sauces for these two days, keep protein light, and go white: brown rice, salad, beans and broccoli fill your gut with fibre and leave less room for the carbs.
 
-By Saturday you will be fed up with eating, so drink some of it: two big glasses of apple or pineapple juice between meals add about 70g. Have your last proper meal early and plain, around 5pm, such as white rice with a little chicken and soy sauce, or plain pasta with a light tomato sauce. Expect to weigh a kilo or two more by Saturday evening: your muscles store carbs with water, and none of it is fat.
+Here is what about 650g looks like on Friday for a 70kg runner. Breakfast, two large white bagels with jam or honey and a big glass of apple juice (about 160g). Mid-morning, a banana and 500ml of sports drink or squash (about 60g). Lunch, a big bowl of white rice with a little chicken, teriyaki or sweet chilli sauce and a can of fizzy drink (about 115g). Afternoon, two crumpets with maple syrup and a handful of pretzels (about 90g). Dinner around 5pm, white pasta with a plain tomato sauce, two slices of white bread and a glass of juice (about 170g). Before bed, a bowl of cornflakes or puffed rice cereal with milk and a banana (about 70g).
 
-Race morning, refill the second tank. Your liver keeps your blood sugar steady and uses a lot of its store overnight, so three hours before the start eat about 2g of carbs per kg (about 140g at 70kg: two plain bagels with jam and a glass of juice). From the gun, about 60 to 75g of carbs an hour, starting at 20 minutes.
+Saturday is the same, with one change: by the evening the load is mostly in, so make your last proper meal a normal-sized plain plate around 5pm, such as white rice with a little chicken and soy sauce. You will be fed up with eating by then, so drink some of it: two big glasses of apple or pineapple juice add about 70g. Expect to weigh a kilo or two more by Saturday evening: your muscles store carbs with water, and none of it is fat.
+
+Race morning, refill the second tank. Your liver keeps your blood sugar steady and uses a lot of its store overnight, so three hours before the start eat about 2g of carbs per kg (about 140 to 150g at 70kg: two plain bagels with jam and a glass of juice). From the gun, about 60 to 75g of carbs an hour, starting at 20 minutes.
 
 Want it worked out for you? Email us your race and goal time through the link in the bio and we will send you a free personalised plan, carb load included.
 
 Practise your race breakfast before a long run first. If you have diabetes or any medical condition, check with your doctor before changing how you eat.
 
-## Pinned comment (two-option question)
+## Pinned comment (the numbers, then the two-option question)
 
-"Be honest: last marathon, did you load for two days or was it one big pasta dinner? Email us your race and goal time through the link in the bio and we will work out your carb load for free."
+"Your carb target for each of the two days: 60kg 480-600g, 70kg 560-700g, 80kg 640-800g, 90kg 720-900g. Be honest: last marathon, did you load for two days or was it one big pasta dinner? Email us your race and goal time through the link in the bio and we will work out yours for free."
 
 ## Cover
 
@@ -266,12 +292,12 @@ separate the cover from the fuel title.
 | 5 Body | Four stages, one axis, each opens on the unexpected, gives a reason, ends on an action with numbers | Same plates / clean eaters go wrong / fed up with eating / the second tank |
 | | "Save this" where the stages start | Yes |
 | | Nothing extra to carry or buy | Supermarket food |
-| | Universal then one example (P115); grams first (P118) | Three quarters of the plate, 600 g at 70 kg; 70 g of juice; 2 g/kg, two bagels and jam |
+| | Universal then one example (P115); grams first (P118) | 8 to 10 g/kg, then 560 to 700 g at 70 kg; one meal with its grams (~115 g); 70 g of juice; 2 g/kg, two bagels and jam. Every weight in the caption and pinned comment |
 | | OST answered | Yes |
 | 6 Ending | One-sentence CTA, plan offer; caption and pinned comment | Yes |
-| | Length | **~340 words, about 1:40: at the limit.** Without the wall ran ~330 to 1:37 at 40% watched. Time the cut; trim order above |
+| | Length | **~338 words, about 1:35 to 1:40**, Luke's window. Without the wall ran ~330 to 1:37 at 40% watched. Time the cut; trim order above |
 | 7 Truth and voice | Claims checked, hedges kept ("can", "about", "a lot") | Tables above |
-| | No statistics, study language, named people, medication | Pass ("three quarters of every plate" is an instruction) |
+| | No statistics, study language, named people, medication | Pass: every number is an instruction or an example. No brand names in audio or caption (cereals said generically) |
 | | What it seems to tell them to stop (P107) | The cut list is for two days, said in stage 2 and the caption |
 | | Second meanings (P114) | "Load", "fill", "refill", "drains", "empties while you sleep": clean in context |
 | | No em dashes, no "not X, it is Y", no fragments, no mockery | Pass |
