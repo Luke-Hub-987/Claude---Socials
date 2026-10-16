@@ -175,6 +175,12 @@ separate the two. Check the burned-in caption "eight to seven grams".
 Previous: `ideas/2026-10-16-without-the-wall-review.md` (41.5K at 18h,
 record watch; comments on "eleven gels", P118).
 
+Next topic recommended (16 Oct): "What to wear to run a marathon in the
+cold" (safe slot, real cover, race-moment title: the clean test of the
+AI cover vs the fuel title). Scored in
+`ideas/engine-room-nutrition/2026-10-16-next-topic-scored.md`, with the
+runway to Dublin. Waiting on Luke's go.
+
 Waiting on Luke: ERN-side follows and emails (carb load, without the
 wall, sub-4); the day-three read of carb load.
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
