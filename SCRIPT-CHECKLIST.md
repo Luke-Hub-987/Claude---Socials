@@ -9,7 +9,8 @@ twice without being checked against the winners (P99).
 
 | Video | Views | Skip | Save | Watch / length | OST type | Cover |
 |---|---|---|---|---|---|---|
-| **Where the marathon wall actually starts** | **68,332** (13h) | **25.5%** | 2.4% | 33s / 1:17 | **Secret as a question, race timeline** | Runner in trouble |
+| **Where the marathon wall actually starts** | **147K** (life; 68K at 13h) | **25.5%** | 2.4% | 33s / 1:17 | **Secret as a question, race timeline** | Runner in trouble |
+| **How to run a marathon without hitting the wall** | **41.5K** (18h) | 39.3% | **3.2%** | **39s / 1:37** | Search phrase, answer held to the last stage | Runner bent over (AI) |
 | What to do in the last 3 hours before your marathon | 20.9K (life) | 27.5% | | 38s | Clock moment, in order | Start line crowd |
 | How to know what marathon time you are in shape for | 19.8K (3 days) | 28.6% | 1.6% | 34s / 1:22 | Query, race outcome | Runner down on the road |
 | What to do in the last 24 hours before a marathon | 9.1K (7h) | 38.1% | **4.4%** | 33s / 1:35 | Clock moment, every viewer | Start-line crowd |
@@ -82,6 +83,9 @@ twice without being checked against the winners (P99).
       Commons, Flickr CC and Openverse first; a real race beats stock.
       A few people at the problem's place, cropped close with backs to
       camera, is a problem image, not a crowd (stomach video, 2 Oct).
+      **AI covers (Gemini) are on trial** (16 Oct): first use, skip
+      39.3%, confounded with no reframe. Next video tests the AI cover
+      with the reframe back in; decide after that.
 
 ## 4. Hook stack (~15 to 18 seconds)
 
@@ -140,11 +144,13 @@ twice without being checked against the winners (P99).
       emails on its first use. Also in the caption and pinned comment,
       since fewer than one in ten viewers reach the end. Track emails
       per video. Ask for consent before adding anyone to a launch list.
-- [ ] **Time the finished cut before posting. Over 1:20, trim or
-      re-record** (P100). Cramp: ~300 words ran 1:31.
+- [ ] **Time the finished cut before posting. Over 1:40, trim or
+      re-record** (P100). Up to ~1:40 holds only when the last stage
+      carries the held-back answer: without the wall ran 1:37 at 40%
+      watched; how hard ran 1:48 with nothing held back at 27%.
 - [ ] **~250 spoken words is the target, never at the cost of clarity**
-      (P104, P108). At Luke's delivery, ~190 words a
-      minute, 300 words ran 1:35. The two wall
+      (P104, P108). At Luke's delivery, ~190 to 205 words a
+      minute: 300 words ran 1:35; ~330 ran 1:37 (without the wall). The two wall
       videos: 302 words ran 1:17, 267 words ran 1:20. 1:40 and 1:49
       both cost watch time.
 
@@ -175,7 +181,8 @@ twice without being checked against the winners (P99).
       cost the taper video a 43.1% skip.
 - [ ] **End line one on the reframe when it is true** ("and that is
       your race going to plan"): every opener under 35% skip had it (7
-      days, quit, first 10 minutes); second half left it out, 38.1%.
+      days, quit, first 10 minutes); second half left it out, 38.1%;
+      without the wall left it out, 39.3% (16 Oct). Two for two.
 - [ ] **Covers: give Luke search terms, not old CC photos** (Luke, 14 Oct:
       the Eugene set and similar are poor). Terms ranked by what the
       picture must show; he picks; he checks the licence.
@@ -228,5 +235,7 @@ twice without being checked against the winners (P99).
 
 - [ ] **Instagram: ERN post, Luke as collaborator.** TikTok: ERN only
       (P96).
-- [ ] **A pinned comment** carrying the guide.
+- [ ] **A pinned comment** carrying the plan offer, opened by a
+      two-option question ("which wall got you last time, fuel or
+      legs?": 25 comments against 3 to 5 before).
 - [ ] **Read the rates on day one and reach at day three** (P90, P92).

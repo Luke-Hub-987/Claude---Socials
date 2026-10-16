@@ -121,28 +121,29 @@ every posted video.
 
 ## Current state (update this every session)
 
-**As of 15 October 2026.**
+**As of 16 October 2026.**
 
-Grid (Instagram, ERN side): the wall 147K; out of the wall 40.8K;
-7 days 31.4K at 14h; 24 hours 30K; first 10 minutes 27.1K at 12h
-(share 1.4%, a record); how hard at every 10K 25.1K at 13.5h (skip
-31.9%, best since the wall; first plan CTA: 4 emails); goal pace
-25.3K; cramp 25K; second half 17.6K at 14h; sub-4 at every 10K 14.5K
-at 18h (skip 40.8%: narrow gate plus a crowd cover with a 3:45 flag;
-saves 2.5% Higher) but **9.5K on TikTok, the best TikTok yet**; quit
-~14K at 14h; Dublin course (small reach, deepest engagement); taper and
-heavy legs missed.
+Grid (Instagram, ERN side): the wall 147K; **without the wall 41.5K at
+18h** (record 39s watched on 1:37, save 3.2%, 25 comments; skip 39.3%
+with no reframe in line one and the first AI cover); out of the wall
+40.8K; 7 days 31.4K at 14h; 24 hours 30K; first 10 minutes 27.1K at
+12h (share 1.4%, a record); how hard at every 10K 25.1K at 13.5h (skip
+31.9%; first plan CTA: 4 emails); goal pace 25.3K; cramp 25K; second
+half 17.6K at 14h; sub-4 at every 10K 14.5K at 18h (skip 40.8%) but
+**9.5K on TikTok, the best TikTok yet** (without the wall: 6.3K, second
+best); quit ~14K at 14h; Dublin course (small reach, deepest
+engagement); taper and heavy legs missed.
 
-Latest review: `ideas/2026-10-15-sub-4-review.md`. Lessons: keep the
-Instagram gate broad; goal-time videos are a TikTok strength; a number
-on the cover must match the title.
+Latest review: `ideas/2026-10-16-without-the-wall-review.md`. Lessons:
+name one answer in the hook and hold it to the last stage (best watch
+on record); the reframe in line one is two for two (put it back); AI
+covers on trial (next video: reframe in, AI cover, to separate the
+two); up to ~1:40 is fine when the last stage holds the payoff; a
+two-option question in the pinned comment drew 25 comments.
 
-Ready to post (15 Oct): `ideas/engine-room-nutrition/2026-10-15-script-without-the-wall.md`
-(v2: "How to run a marathon without hitting the wall"; the hidden wall
-held to the last stage, Luke 15 Oct; caption v2 in the file). Cover:
-Luke generates it in Gemini from `ideas/engine-room-nutrition/2026-10-15-cover-prompt-wall.md`
-(one runner bent over, head down, gels on belt; no legs grabbed, no
-logos or text). Next review file: `ideas/YYYY-MM-DD-without-the-wall-review.md`.
+Waiting on Luke: emails from this video and sub-4; what the 25
+comments say; whether "next two weeks" in the gate was deliberate.
+Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
 
 Rejected topics: the last 10K (covered across six videos); anything
 after the finish line (Luke, 15 Oct). TikTok-only idea: goal-time

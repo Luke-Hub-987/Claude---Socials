@@ -11,6 +11,7 @@ it produces.
 |---|---|---|---|
 | 1 | Where the marathon wall actually starts | **147K** | **A. "Where [famous race problem] actually starts"**, race-clock stages (0-10K / 10-20K / 20-30K / 30K-FINISH), the cause sits earlier than the symptom |
 | 2 | How to get out of the marathon wall | **40.8K** | **C. "How to [fix/beat] the marathon wall"**, in-race steps on the wall |
+| 2b | How to run a marathon without hitting the wall | **41.5K at 18h** | **A + C**, the search phrase; the hidden wall named in the hook, held to the last stage: 39s watched on 1:37 (record), save 3.2%, skip 39.3% (no reframe) |
 | 3 | What to do 7 days before a marathon | **31.4K at 14h** | **B**, the paradox opener ("weigh more on race morning, and that is the week going right"); 802 saves, 43 follows |
 | 3b | What to do in the first 10 minutes of a marathon | **27.1K at 12h** | **B on race day** + the photograph-test paradox ("your first K should be the slowest K of your whole race"); share 1.4%, a record |
 | 3c | How to pace a sub-4 marathon at every 10K | 14.5K at 18h (IG); **9.5K TikTok, best ever** | Narrow gate: skip 40.8% on IG, saves 2.5% Higher; goal-time titles suit TikTok |
@@ -56,10 +57,10 @@ or the format, never in the subject.
 
 | # | OST | Formula, parent | Markers | Status |
 |---|---|---|---|---|
-| 1 | **What to do in the last week before a marathon** | B, the 24 hours (26.9K) | 7 DAYS OUT / 5 DAYS OUT / 3 DAYS OUT / 2 DAYS OUT | **Scripted, v2** |
-| 2 | **How to run a marathon without hitting the wall** | A + C, the wall (142K) and its sequel (40.8K). The exact phrase people type | 0-10K / 10-20K / 20-30K / 30K-FINISH | To script |
-| 3 | **What to do in the last 10K of a marathon** | B on race day, the wall's 30K-FINISH stage | 32K / 35K / 38K / THE LAST 2K | To script |
-| 4 | **How to pace the second half of a marathon** | D, first half (17.5K) and goal pace (24.8K); same query family, which compounds (P75) | HALFWAY / 25K / 30K / 35K TO THE LINE | To script |
+| 1 | **What to do in the last week before a marathon** | B, the 24 hours (26.9K) | 7 DAYS OUT / 5 DAYS OUT / 3 DAYS OUT / 2 DAYS OUT | **Posted: 31.4K** |
+| 2 | **How to run a marathon without hitting the wall** | A + C, the wall (142K) and its sequel (40.8K). The exact phrase people type | 0-10K / 10-25K / 25K / 25K TO THE LINE | **Posted 15 Oct: 41.5K at 18h** |
+| 3 | **What to do in the last 10K of a marathon** | B on race day, the wall's 30K-FINISH stage | 32K / 35K / 38K / THE LAST 2K | **Rejected** (covered across six videos, Luke 15 Oct) |
+| 4 | **How to pace the second half of a marathon** | D, first half (17.5K) and goal pace (24.8K); same query family, which compounds (P75) | HALFWAY / 25K / 30K / 35K TO THE LINE | **Posted: 17.6K at 14h** |
 | 5 | **What to do on the morning of a marathon** | B, between the 24 hours and the 3 hours | WAKE UP / BREAKFAST / LEAVING HOME / THE START PEN | To script; check overlap with the 3 hours first |
 
 **Repeating the wall is safe.** The sequel (40.8K) beat everything but
