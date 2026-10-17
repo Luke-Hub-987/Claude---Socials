@@ -4560,6 +4560,21 @@ believable next to a five-meal plan. He had to correct the script again.
 
 *Source: Luke, 16 October.*
 
+## P124 — Never reopen a number the audience is already arguing with
+
+Luke, 17 October, rejecting "How to actually fuel a marathon": without
+the wall said "eleven gels" and the comments pushed back; a fuel video
+now with "seven or eight" would read as the account contradicting
+itself, whatever the gel size explains.
+
+**The rule:** when the comments have contested a number, no new video
+re-states that number in a different form. Answer it in replies and the
+pinned comment, and pick a topic on a different axis. Before recommending
+a topic, check the last three reviews' comment sections for contested
+numbers (P119 checks the topics; this checks the numbers).
+
+*Source: Luke, 17 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

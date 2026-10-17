@@ -1,46 +1,38 @@
 ---
 type: topic-scoring
-generated_at: 2026-10-17 (re-scored after the carb load's 20-hour read)
+generated_at: 2026-10-17 (third pass)
 ---
 
-# Next topic, re-scored: how to actually fuel a marathon
+# Next topic: what to wear for a cold marathon
 
-**OST:** HOW TO ACTUALLY FUEL / A MARATHON (6 words, the carb load's title shape)
+**Rejected by Luke, 17 Oct (P124):** "How to actually fuel a marathon",
+because restating gel numbers reopens the "eleven gels" argument.
+**Ruled out by P119:** a pacing table video, because sub-4 at every 10K
+is one of the last three posts.
 
-## Why it replaces the cold-weather idea
-1. **It is the closest sibling of our new #2 video** (carb load, 52.8K at
-   20h, 1.3K saves, 60 follows). P110 line 1, P75: sequels stack. The carb
-   load gets them to the start line full; this is what to take from the
-   gun to the finish. Same series, a different clock (P119 passes).
-2. **The audience asked for it, twice.** Without the wall's comments: "11
-   gels? Can we break it down by carbs" (3 likes, 4 replies), "I can't take
-   a gel every 20 minutes", "can you help with my hydration plan" (3:29).
-3. **The format that just won:** a full schedule on the race clock
-   (P121), every number in grams first (P118), worked by gel size and
-   finish time.
-4. **Timing:** Dublin and Frankfurt (25/26 Oct) and New York (1 Nov) are
-   all still ahead.
-5. The cold-weather idea is untested, depends on the forecast, and sits
-   furthest from what just worked. Kept in the bank.
+**OST:** WHAT TO WEAR FOR / A COLD MARATHON (7 words, the phrase people type)
 
-## Draft markers (race clock)
-THE GUN TO 20 MIN / 20 MIN TO HALFWAY / HALFWAY TO 30K / 30K TO THE LINE
+## Why this one
+1. **It copies the mechanics of our #2 video without repeating its subject.**
+   The carb load won on a table everyone could find themselves in (60 to
+   90kg). This one has the same device: what to wear by start temperature
+   (below 5°C, 5 to 10, 10 to 15, above 15) in the caption and pinned
+   comment, and one worked example in the audio.
+2. **A full schedule on one clock (P121):** leaving home / the start pen /
+   the gun / 10K, with exact items and when each comes off.
+3. **Every viewer in the next few weeks:** Amsterdam, Dublin, Frankfurt
+   and New York are all cold starts; New York has a long wait in the cold.
+4. **New advice, no numbers anyone has argued with (P124),** no contradiction
+   of earlier videos (the 3 hours video only said "an old top").
+5. **It runs the clean cover test:** a real photo (Luke's own kit laid out
+   with a bin bag, or one runner in a start pen in a throwaway top).
+6. **It links to the carb load without repeating it:** shivering in the pen
+   burns the carbs you spent two days loading.
 
-## What must be new (P116 clarified, P119)
-Gel size schedules (20 to 25g every 20 minutes; 40g every 30 to 40), what to
-do when gels turn your stomach, water with every gel and how much, and when
-the last gel goes in. Without the wall gave only the 20-minute gel clock.
+## Line one (passes the P120 pre-flight)
+"If you are running a marathon in the next few weeks, the warmest runner
+on the start line is often the first one walking at thirty K, and being a
+little cold at the gun is your race going to plan."
 
-## Line one: P120 pre-flight when scripting
-A counter-position on the race clock with the reframe, its why held to stage
-3, and the rehook turning it into a new problem.
-
-## Cover
-A real image this time if one fits (one runner taking a gel, back to camera),
-so the AI cover question can be read.
-
-## Runway to Dublin
-- 18 or 19 Oct: how to actually fuel a marathon (sibling of #2).
-- 21 or 22 Oct: one more, picked from this one's data.
-- 24 or 25 Oct: "How to actually enjoy your marathon" (the held creative).
-- TikTok only, any day: sub-3:30 or sub-4:30 at every 10K.
+## Risk, once
+No kit topic has run on the account. Check the forecasts before filming.

@@ -65,6 +65,8 @@ twice without being checked against the winners (P99).
       16 Oct): "a dozen bagels a day" was a fact with no curiosity. Line
       one says something runners would argue with, leaves a question,
       and a named unknown carries them to the last stage.
+- [ ] **No contested number reopened** (P124, Luke 17 Oct): if the last
+      comments argued with a number (eleven gels), no new video restates it.
 - [ ] **The "my mother" test**: would someone who has never run want to
       watch? The creative test that passed it reached 55K viewers.
 

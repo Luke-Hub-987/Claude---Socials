@@ -20,9 +20,9 @@ every posted video.
 3. The three newest `ideas/*-review.md` files: the latest data.
 4. The newest scripts in `ideas/engine-room-nutrition/` (the house
    style, the hook stacks, the audit tables).
-5. `principles.md` (P1 to P123, about 4,400 lines): search it for the
+5. `principles.md` (P1 to P124, about 4,400 lines): search it for the
    rule you need; do not read it end to end. The newest rules (P97 to
-   P123) are at the end, before "Open questions for Luke".
+   P124) are at the end, before "Open questions for Luke".
 
 ## How we work (Luke's standing instructions)
 
@@ -170,17 +170,19 @@ addendum). Lessons: a fuel title with a full schedule (P121) is now our
 #2 video, so P101 is narrowed; skip (46.7%, worst) did not decide reach;
 AI covers unresolved (two high skips, but our #2 and #3 by reach).
 
-Next topic (re-scored 17 Oct): **"How to actually fuel a marathon"**, the
-in-race sibling of the carb load, race-clock schedule by gel size and
-finish time. Replaces the cold-weather idea (banked). See
+Next topic (17 Oct, third pass): **"What to wear for a cold marathon"**:
+the carb load's table device (by start temperature) on a race-morning
+schedule, real cover. Luke rejected the fuel video (P124: it reopens the
+"eleven gels" argument); a pacing table fails P119 (sub-4 is recent). See
 `ideas/engine-room-nutrition/2026-10-16-next-topic-scored.md`.
 
 Waiting on Luke: emails (carb load, without the wall, sub-4); the
-day-three read of carb load; go on the fuel video.
+day-three read of carb load; go on the cold marathon video.
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
 
 Rejected topics: the last 10K (covered across six videos); anything
-after the finish line (Luke, 15 Oct). TikTok-only idea: goal-time
+after the finish line (Luke, 15 Oct); in-race fuel amounts while the
+"eleven gels" argument is live (Luke, 17 Oct, P124). TikTok-only idea: goal-time
 versions (sub-3:30, sub-4:30) using the sub-4 template.
 
 Upcoming races in the audience: Amsterdam 18 Oct, Dublin and Frankfurt
