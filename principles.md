@@ -4629,6 +4629,15 @@ hit on the day** (the hour after bag drop, the toilet queue, numb fingers
 on a gel, when to drop layers), never stating what they'd do anyway. Test:
 would a runner who has done a marathon learn something from this line?
 
+**Amended again 17 October (Luke, cold marathon v3):** bin bags, socks
+over hands and "leave the long sleeves at home" are not what runners at
+his races do. Written advice (including Irish club pages) still lists
+bin liners, arm warmers and gloves, so **written sources are not proof
+of what people do on the start line**. For kit and race-morning habits,
+Luke's first-hand view of the start line overrides any written source;
+when a topic depends on what people physically do, ask Luke before
+scripting.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
