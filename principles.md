@@ -4638,6 +4638,10 @@ Luke's first-hand view of the start line overrides any written source;
 when a topic depends on what people physically do, ask Luke before
 scripting.
 
+Also from Luke: runners care how they look at the start (photos and
+videos) and don't like binning good clothes. Advice that makes them look
+odd or waste kit won't be followed.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
