@@ -4413,6 +4413,22 @@ to race day with one action per day.
 
 *Source: taper and heavy legs data, 6 and 10 October.*
 
+## P118 — Emails pass the same writing rules as scripts
+
+Luke, 17 Oct: email copy must not carry signs of AI writing either
+(P35, Wikipedia:Signs of AI writing). The welcome email draft had five:
+a slogan triad repeated twice ("the pace, the fuel and the effort"),
+stacked hedges ("a starting point: they suit most runners, and your own
+plan adjusts them"), a cliche aphorism ("race day is no day to try
+something new"), staccato fragments ("By 30K, about five. By 40K, two
+or three."), and the same phrase three times ("straight to me"). Every
+email gets the P35 audit line by line before Luke sees it, plus the
+voice rules: no em dashes, no "not X, it is Y", full sentences, straight
+quotes, one idea said once, "free" used once or twice, never in every
+heading.
+
+*Source: Luke, 17 Oct, reviewing the welcome flow email.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

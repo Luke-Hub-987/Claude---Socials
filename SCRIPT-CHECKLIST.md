@@ -150,6 +150,10 @@ twice without being checked against the winners (P99).
 
 ## 7. Truth and voice
 
+- [ ] **Emails too (P118):** run the P35 AI-writing audit on every email
+      line: no repeated triads or slogans, no stacked hedges, no
+      cliches, no fragments, no phrase said twice, straight quotes.
+
 - [ ] **Every claim checked against the paper itself, not the abstract
       or a summary** (P99). Hedges kept: "in a lab", "most likely",
       "a hint".

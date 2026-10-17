@@ -47,3 +47,35 @@ variation after 100+ sends each.
 The sign-up form or landing page behind the link in bio should promise
 the same thing: "Get your free marathon plan". Promise and delivery must
 match, or people do not reply.
+
+## Copy audit (P118, Luke 17 Oct)
+
+Rewritten to remove AI-writing tells: the repeated "the pace, the fuel
+and the effort" triad, the stacked hedges, "race day is no day to try
+something new", the talk-test fragments, "straight to me" said three
+times, curly quotes, and "free" in every heading. Two reply buttons stay:
+one under the intro, one in the dark card near the end.
+
+## Why the 16 Oct campaign opened at 18.7% (was about 60%)
+
+Most likely causes, biggest first:
+
+1. **A brand-new sending domain.** luke.engineroomnutrition.com had no
+   history when the campaign went out. Gmail and Outlook treat a new
+   domain with caution, so more of the send lands in spam or Promotions.
+   Long term this domain is the right move; it needs a few weeks of
+   sends to well-engaged people to build trust.
+2. **Two months of silence.** It lowers engagement and makes providers
+   re-check you, but alone it rarely cuts opens by two thirds.
+3. **The old 60% was flattered.** Early lists are friends and family,
+   and Apple Mail counts every delivered email as opened.
+
+Check, in the campaign's Deliverability tab: bounces, spam complaints and
+opens by email provider. Gmail near zero while iCloud is high means
+Gmail put it in spam. Then compare the welcome flow's open rate before
+and after the domain was activated: if it held up, the domain is fine and
+the gap is the cause.
+
+Next: resend once to people who did not open, 3 days after the first
+send, with subject A from the welcome test. Skip the resend if spam
+complaints are above 0.3%. Send something every week or two from now on.
