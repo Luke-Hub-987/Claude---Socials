@@ -4,7 +4,7 @@ brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-17
 slot: SAFE, race morning to 30K; real cover (the clean test of the AI cover vs the fuel title)
 basis: Luke's cold-weather science (17 Oct), carb load review (52.8K, table device, P121), P110 to P125, Wikipedia: Signs of AI writing (P35, P125)
-status: v2 for Luke (realistic kit, P126)
+status: v3 for Luke (real race-morning problems, P126 amended)
 ---
 
 # What to wear for a cold marathon
@@ -13,8 +13,8 @@ status: v2 for Luke (realistic kit, P126)
 **WHAT TO WEAR FOR**
 **A COLD MARATHON**
 
-**Markers:** LEAVING HOME: DRESS 10 DEGREES WARMER / THE START PEN: THROW IT AWAY /
-THE FIRST 10K: THE SWEAT TEST / 30K: THE COLDEST PART
+**Markers (v3):** LEAVING HOME: PACK FOR THE WAIT / BAG DROP: THE COLD HOUR /
+THE START PEN: OPEN YOUR GELS NOW / 30K: THE COLDEST PART
 
 ## How the curiosity runs
 | Moment | Line | What it does |
@@ -27,12 +27,14 @@ THE FIRST 10K: THE SWEAT TEST / 30K: THE COLDEST PART
 | Rehook | "Now, here's the coldest part of the day." | Reopens the loop |
 | 30K | "...anything wet against your skin goes cold fast. That's when the runner who started in a jacket and tights starts to suffer." | **Pays off line one and the loop together** |
 
-## Script v2 (~344 words, ~1767 characters, about 1:40)
+## Script v3 (~359 words, ~1801 characters, about 1:40)
 
-**v2 (Luke, 17 Oct, P126):** arm sleeves, gloves and hats came out. Nobody
-Luke knows races in arm sleeves, and in Ireland or mainland Europe 16°C is
-a nice day: the honest kit for a 5 to 12°C start is shorts and a T-shirt,
-what they already wear on long runs. The worked example now says that.
+**v3 (Luke, 17 Oct, P126 amended):** "shorts and a T-shirt" is what everyone
+races in anyway, so it told nobody anything. v3 is about the real problems of a
+cold race morning: the hour after bag drop stood still in race kit, the toilet
+queue, numb fingers that can't open a gel, and when to drop the throwaway
+layers. The only kit decision left in it is the real one people argue about:
+long sleeves or a jacket (leave them at home above 5°C, even in rain).
 
 "If you're running a marathon in the next few weeks, the warmest-looking runner on the start line is often the first one walking at thirty K. So if you're a bit cold when the gun goes, that's your race going to plan."
 
@@ -40,14 +42,14 @@ what they already wear on long runs. The worked example now says that.
 
 "And the coldest part of your whole race isn't at the start. I'll get to it at the end, so save this."
 
-**[LEAVING HOME: DRESS 10 DEGREES WARMER]**
-"Before you leave, check the temperature at the start and dress like it's ten degrees warmer. So if it's six degrees, dress like it's a mild sixteen-degree day: shorts and a T-shirt, the same as your long runs. That feels wrong on a cold morning, and it's right. Colder mornings are in the caption."
+**[LEAVING HOME: PACK FOR THE WAIT]**
+"Bag drop can close up to an hour before you start, so the real problem is that hour stood still in your race kit. If it's above five degrees, leave the long sleeves and the jacket at home, even if it's raining. Pack a bin bag with holes cut for your head and arms, and a pair of old socks to pull over your hands."
 
-**[THE START PEN: THROW IT AWAY]**
-"The start pen is where most people get it wrong. You can be stood there an hour, and shivering burns the fuel you spent two days loading. So bring something you'll throw away, like an old fleece from a charity shop or a bin bag with holes for your head and arms. Keep it on until a minute before you start, then chuck it to the side. Most big races give them to charity."
+**[BAG DROP: THE COLD HOUR]**
+"The moment your bag's gone, put the bin bag on and go straight to the toilet queue. Cold makes you need to go more, and the queue only grows. Shivering for an hour burns the fuel you spent two days loading, so keep moving on the spot."
 
-**[THE FIRST 10K: THE SWEAT TEST]**
-"Once you're moving, you'll warm up within a few K, and by then the people in jackets are already too hot. If you're sweating by five K, you've got too much on."
+**[THE START PEN: OPEN YOUR GELS NOW]**
+"In the pen, start the tear on your first two gels while your fingers still work, because with numb hands you'll be fighting them at ten K. Chuck the bin bag a minute before you start, keep the socks on until your hands warm up, then drop them at a water station. If you're sweating by five K, you had too much on."
 
 "Now, here's the coldest part of the day."
 
@@ -98,15 +100,15 @@ headbands and hats. Not what this audience wears.
 8. The closing question in the pasted text ("What specific race are
    you running...") was the source chatbot's; not used.
 
-## Caption (v2: realistic kit, P126)
+## Caption (v3)
 
-What to wear for a cold marathon. Dress for the temperature at the start plus 10°C (about 20°F), and keep a throwaway layer for the pen. In practice, that means racing in what you'd wear on a long run at that temperature, minus a layer.
+What to wear for a cold marathon, and the hour nobody plans for. Bag drop can close up to an hour before your start, and that hour stood still in race kit is where cold races go wrong.
 
-Above 5°C (41°F): shorts and a T-shirt or vest, the same as your long runs. 0 to 5°C (32 to 41°F): shorts and a long-sleeve top, or a T-shirt if you run warm. Below 0°C (32°F): a long-sleeve top, shorts or the tights you train in, and an old pair of gloves you don't mind throwing away.
+If it's above 5°C (41°F), leave the long sleeves and the jacket at home, even in rain: you warm up within a few K, and a soaked top gets cold fast when you slow down late on. Below 5°C, a long-sleeve top is fine. Below freezing, add an old pair of gloves you don't mind throwing away.
 
-In the pen, wear something you'll throw away: an old fleece or jumper from a charity shop, or a bin bag with holes for your head and arms. Take it off a minute before you start. Most big races give them to charity.
+Pack a bin bag with holes cut for your head and arms, and a pair of old socks for your hands. In heavy rain, a plastic bag over each shoe keeps your feet dry until the start. Put the bin bag on as soon as your bag is dropped, and go straight to the toilet queue: cold makes you need to go more.
 
-If you're sweating by 5K, you're wearing too much. Leave the jacket at home unless it's pouring: it traps sweat, and wet kit gets cold fast when you slow down late in the race. Put Vaseline or anti-chafe on anywhere that rubs, because wet kit chafes more.
+In the pen, start the tear on your first gels while your fingers still work. Chuck the bin bag a minute before the start, and drop the socks at a water station once your hands warm up. Most big races give discarded clothes to charity. If you're sweating by 5K, you had too much on. Put Vaseline anywhere that rubs, because wet kit chafes more.
 
 Want a plan for your race? Email us your race and goal time through the link in the bio and we'll build you one, free.
 

@@ -4622,6 +4622,13 @@ lifted from a source written for another audience.
 
 *Source: Luke, 17 October.*
 
+**Amended 17 October (Luke, cold marathon v2):** realistic is not
+enough; "shorts and a T-shirt" is what everyone races in, so it told
+nobody anything. **Practical means solving the problem they'll actually
+hit on the day** (the hour after bag drop, the toilet queue, numb fingers
+on a gel, when to drop layers), never stating what they'd do anyway. Test:
+would a runner who has done a marathon learn something from this line?
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

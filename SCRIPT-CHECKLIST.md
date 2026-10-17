@@ -143,7 +143,9 @@ twice without being checked against the winners (P99).
       or buy.**
 - [ ] **Realistic for this audience (P126, Luke 17 Oct):** kit, food and
       gear they already own; numbers said the way they feel them; would
-      Luke's running club actually do it? (No arm sleeves.) A fix few runners will use (pickle juice) goes in the
+      Luke's running club actually do it? (No arm sleeves.) **And useful:**
+      solves a problem they'll hit on the day; never states what they'd do
+      anyway ("shorts and a T-shirt"). A fix few runners will use (pickle juice) goes in the
       pinned comment as an extra, never in the steps (P98).
 - [ ] **A mechanism in each instruction**, so old advice becomes news
       (P81).

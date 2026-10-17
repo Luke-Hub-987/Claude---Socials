@@ -180,7 +180,7 @@ schedule, real cover. Luke rejected the fuel video (P124: it reopens the
 "eleven gels" argument); a pacing table fails P119 (sub-4 is recent). See
 `ideas/engine-room-nutrition/2026-10-16-next-topic-scored.md`.
 
-Ready (17 Oct, v2 for Luke: realistic kit, shorts and a T-shirt, no arm sleeves, gloves or hats, P126): `ideas/engine-room-nutrition/2026-10-17-script-cold-marathon.md`
+Ready (17 Oct, v3 for Luke: the real race-morning problems, bag drop hour, toilet queue, numb fingers on gels, when to drop layers; P126 amended): `ideas/engine-room-nutrition/2026-10-17-script-cold-marathon.md`
 ("What to wear for a cold marathon"; Luke's science vetted; AI-writing
 check in the file, P125; real cover: Luke's own bin-bag photo or search
 terms). Teleprompter text alongside.
