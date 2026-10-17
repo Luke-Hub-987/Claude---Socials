@@ -183,6 +183,11 @@ Ready (17 Oct, v1 for Luke): `ideas/engine-room-nutrition/2026-10-17-script-cold
 check in the file, P125; real cover: Luke's own bin-bag photo or search
 terms). Teleprompter text alongside.
 
+Considered 17 Oct: "How to warm up for a marathon" (Luke). Held: it
+would be a second start-pen video straight after the cold one, and its
+real secret (the slow first K is the warm-up) was the first 10 minutes
+video's. Next after the cold video is picked from its 24-hour data.
+
 Waiting on Luke: emails (carb load, without the wall, sub-4); the
 day-three read of carb load.
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
