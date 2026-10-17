@@ -160,3 +160,11 @@ Campaign email to the whole list (15 Oct, v3: subject "Your free marathon plan";
 and `.html`. One ask: reply with race, goal time, a recent time and current
 fuel. Four race-day rules plus the sub-4 sample plan, all from the videos.
 v5 (16 Oct): no address, dark-mode fix, coded race line (no GIF upload, Luke). Spam cause: no SPF, no DKIM, no Klaviyo sending domain (fix in the .md). Measure reply rate, not opens.
+
+Welcome flow Email 1 (17 Oct): `ideas/engine-room-nutrition/emails/2026-10-17-welcome-flow-email.html`
+and `.md`. Lead magnet is now the free plan (reply with race and goal
+time); the endurance guide stays as a P.P.S. link. A/B subjects: "Your free
+marathon plan is one reply away" vs "What pace should your first 10K be?".
+Campaign of 16 Oct: 257 delivered (A 125, B 132, 100% test size, so it is
+finished), 18.7% opens, 0% clicks (mailto buttons are not counted as
+clicks). Judge it on replies.
