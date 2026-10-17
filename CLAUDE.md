@@ -20,9 +20,9 @@ every posted video.
 3. The three newest `ideas/*-review.md` files: the latest data.
 4. The newest scripts in `ideas/engine-room-nutrition/` (the house
    style, the hook stacks, the audit tables).
-5. `principles.md` (P1 to P125, about 4,400 lines): search it for the
+5. `principles.md` (P1 to P126, about 4,400 lines): search it for the
    rule you need; do not read it end to end. The newest rules (P97 to
-   P125) are at the end, before "Open questions for Luke".
+   P126) are at the end, before "Open questions for Luke".
 
 ## How we work (Luke's standing instructions)
 
@@ -39,6 +39,8 @@ every posted video.
   change with the reason.
 - **Clarity beats short; specific beats vague** (P108, P115). Real
   numbers, one worked example, every cue measurable.
+- **Advise only what this audience actually does (P126):** amateur
+  runners in Ireland, the UK and Europe; no niche kit (arm sleeves).
 - Recommend one option with reasons. Do not survey.
 - Commit and push every change to branch
   `claude/engine-room-nutrition-brand-yc4tyf` (the repo's default
@@ -178,7 +180,7 @@ schedule, real cover. Luke rejected the fuel video (P124: it reopens the
 "eleven gels" argument); a pacing table fails P119 (sub-4 is recent). See
 `ideas/engine-room-nutrition/2026-10-16-next-topic-scored.md`.
 
-Ready (17 Oct, v1 for Luke): `ideas/engine-room-nutrition/2026-10-17-script-cold-marathon.md`
+Ready (17 Oct, v2 for Luke: realistic kit, shorts and a T-shirt, no arm sleeves, gloves or hats, P126): `ideas/engine-room-nutrition/2026-10-17-script-cold-marathon.md`
 ("What to wear for a cold marathon"; Luke's science vetted; AI-writing
 check in the file, P125; real cover: Luke's own bin-bag photo or search
 terms). Teleprompter text alongside.

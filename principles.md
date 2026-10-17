@@ -4600,6 +4600,28 @@ filling"), and **colon lists read aloud** ("Breakfast at eight a.m.:").
 
 *Source: Luke, 17 October, with the Wikipedia link again.*
 
+## P126 — Advise what the audience actually wears and does
+
+Luke, 17 October, on the cold marathon v1: "nobody wears arm sleeves",
+and telling Irish and European runners to dress for 16°C with gloves
+and hats is not realistic: 16°C is a nice day here, which means shorts
+and a T-shirt. The science (dress 10°C warmer) held; the kit list was
+lifted from a source written for another audience.
+
+**The rule:**
+- Every piece of kit, food or gear in a script is something most of
+  this audience (amateur marathoners in Ireland, the UK and mainland
+  Europe) already owns or can get at a supermarket or charity shop.
+  Niche kit (arm sleeves, specialist gels, gadgets) stays out.
+- Say a number the way they feel it: "dress like it's a mild
+  sixteen-degree day: shorts and a T-shirt", never a bare conversion.
+- Test every instruction: would Luke's running club actually do this?
+  If not, cut it.
+- When Luke's pasted science is written for a US audience (trash bags,
+  thrift stores, °F first, specialist kit), translate it before using it.
+
+*Source: Luke, 17 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

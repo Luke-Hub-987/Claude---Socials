@@ -140,7 +140,10 @@ twice without being checked against the winners (P99).
 - [ ] **Each stage opens on the unexpected** (Thiel, P94) **and ends on
       something to do in the race** (P98).
 - [ ] **Every action works on the course with nothing extra to carry
-      or buy.** A fix few runners will use (pickle juice) goes in the
+      or buy.**
+- [ ] **Realistic for this audience (P126, Luke 17 Oct):** kit, food and
+      gear they already own; numbers said the way they feel them; would
+      Luke's running club actually do it? (No arm sleeves.) A fix few runners will use (pickle juice) goes in the
       pinned comment as an extra, never in the steps (P98).
 - [ ] **A mechanism in each instruction**, so old advice becomes news
       (P81).
