@@ -20,9 +20,9 @@ every posted video.
 3. The three newest `ideas/*-review.md` files: the latest data.
 4. The newest scripts in `ideas/engine-room-nutrition/` (the house
    style, the hook stacks, the audit tables).
-5. `principles.md` (P1 to P124, about 4,400 lines): search it for the
+5. `principles.md` (P1 to P125, about 4,400 lines): search it for the
    rule you need; do not read it end to end. The newest rules (P97 to
-   P124) are at the end, before "Open questions for Luke".
+   P125) are at the end, before "Open questions for Luke".
 
 ## How we work (Luke's standing instructions)
 
@@ -48,6 +48,8 @@ every posted video.
 
 ## How to deliver in chat (Luke, 16 Oct: copy the old chat exactly, P122)
 
+- **No AI-writing signs (P125):** contractions, no repeated template
+  lines, no triads by habit, the Wikipedia catalog checked in the file.
 - **Scripts:** never in a code box or a block quote (both break when
   pasted into the teleprompter). Each spoken paragraph in straight
   double quotes on its own line, a blank line between paragraphs, and
@@ -176,8 +178,13 @@ schedule, real cover. Luke rejected the fuel video (P124: it reopens the
 "eleven gels" argument); a pacing table fails P119 (sub-4 is recent). See
 `ideas/engine-room-nutrition/2026-10-16-next-topic-scored.md`.
 
+Ready (17 Oct, v1 for Luke): `ideas/engine-room-nutrition/2026-10-17-script-cold-marathon.md`
+("What to wear for a cold marathon"; Luke's science vetted; AI-writing
+check in the file, P125; real cover: Luke's own bin-bag photo or search
+terms). Teleprompter text alongside.
+
 Waiting on Luke: emails (carb load, without the wall, sub-4); the
-day-three read of carb load; go on the cold marathon video.
+day-three read of carb load.
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
 
 Rejected topics: the last 10K (covered across six videos); anything

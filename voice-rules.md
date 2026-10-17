@@ -38,6 +38,12 @@ content (or merge it in) so `/ideate-*` is enforcing the real rules.
   text does all the work a headline does. Don't waste effort polishing
   a caption; put it into the on-screen text instead.
 
+## Scripts (P125)
+
+- Contractions always (you're, it's, don't). "You are" and "it is" read
+  as written text, and viewers called it AI.
+- No template line repeated two videos running.
+
 ## Per-brand overrides
 
 A brand's own `voice.md` can add vocabulary, banned words, or stylistic

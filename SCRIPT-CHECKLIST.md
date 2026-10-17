@@ -253,6 +253,11 @@ twice without being checked against the winners (P99).
 - [ ] **No dated language in the audio** (P82).
 - [ ] **No em dashes, no "not X, it is Y", no staccato fragments, no
       mockery.**
+- [ ] **AI-writing check in the file (P35, P125, Luke 17 Oct: a viewer
+      called the last script AI):** the Wikipedia catalog line by line;
+      contractions; no template line two videos running (the reframe
+      excepted); no three-item lists by habit; no "label: item" lists read
+      aloud.
 
 ## 8. Delivery (P122)
 

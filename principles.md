@@ -4575,6 +4575,31 @@ numbers (P119 checks the topics; this checks the numbers).
 
 *Source: Luke, 17 October.*
 
+## P125 — No sign of AI writing in the audio, including our own templates
+
+Luke, 17 October: a viewer commented that our last video was "so
+obviously written by AI". P35 already holds the Wikipedia catalog
+(Signs of AI writing), but the scripts kept three tells it does not
+name: **no contractions** ("you are", "it is": written, not spoken),
+**our own repeated template lines** ("Get it wrong... Get it right",
+"and the last one is", "here is the exact plan", "the first tank is
+filling"), and **colon lists read aloud** ("Breakfast at eight a.m.:").
+
+**The rule, every script, before Luke sees it:**
+- Run the P35 catalog line by line (negative parallelism including "Y
+  rather than X", rule of three, AI vocabulary, "serves as", trailing
+  "-ing" phrases, vague attributions, generic upbeat endings, em dashes,
+  synonym cycling) and put the check in the file.
+- Write it as Luke talks: contractions, plain words, sentences of
+  different lengths, a short aside where it is natural ("I'll get to it
+  at the end").
+- No template line two videos running. The reframe ("that's your race
+  going to plan") is the one proven exception; vary everything around it.
+- Lists of two or four when that is the real count; never three by habit.
+- Times and items go in sentences, not "label: item" lists.
+
+*Source: Luke, 17 October, with the Wikipedia link again.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
