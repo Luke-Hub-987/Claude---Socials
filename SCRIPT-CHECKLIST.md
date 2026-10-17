@@ -40,7 +40,8 @@ twice without being checked against the winners (P99).
       weeks. The top six are all moments (3 hours, 30 minutes, first
       5K, the wall).
 - [ ] **Ride the asset** when there is one. "The wall" did 68K and 19K.
-- [ ] **The race is the title, fuel goes inside** (P101). **The gut is never
+- [ ] **The race is the title, fuel goes inside** (P101; narrowed 17 Oct:
+      a fuel title with a full race-week schedule did 52.8K at 20h, our #2). **The gut is never
       the subject either** (P109: stomach 4.1K early, below typical).
 - [ ] **Nothing after the finish line** (Luke, 15 Oct: people are
       celebrating, not watching). The outcome must still be at stake.
@@ -97,9 +98,9 @@ twice without being checked against the winners (P99).
       Commons, Flickr CC and Openverse first; a real race beats stock.
       A few people at the problem's place, cropped close with backs to
       camera, is a problem image, not a crowd (stomach video, 2 Oct).
-      **AI covers: paused** (16 Oct). Two of two ran the worst skips of
-      their run (39.3%, then 44.1% with the reframe back in). Next video
-      uses a real image to separate the cover from the fuel title.
+      **AI covers: unresolved** (17 Oct). Two of two ran the worst skips
+      (39.3%, 46.7%), yet both videos are now our #2 and #3 by reach. Use
+      a real image when one fits; skip alone does not decide reach.
 
 ## 4. Hook stack (~15 to 18 seconds)
 

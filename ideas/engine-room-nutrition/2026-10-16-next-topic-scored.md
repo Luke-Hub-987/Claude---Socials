@@ -1,55 +1,46 @@
 ---
 type: topic-scoring
-generated_at: 2026-10-16
-basis: carb load review (save 5.2% record, skip 44.1% worst), without the wall review, PLAN-winners gate, P110, P111, P117, P119, P120, P121
+generated_at: 2026-10-17 (re-scored after the carb load's 20-hour read)
 ---
 
-# Next topic: what to wear for a cold marathon
+# Next topic, re-scored: how to actually fuel a marathon
 
-**OST:** WHAT TO WEAR TO RUN A MARATHON / IN THE COLD (9 words)
+**OST:** HOW TO ACTUALLY FUEL / A MARATHON (6 words, the carb load's title shape)
 
-## Why this one
-1. **Rotation (P111):** carb load was the creative slot; this is the safe one.
-2. **It runs the clean cover test.** A race-moment title (no fuel) plus a
-   real image (Luke's own photo, e.g. a bin bag and kit laid out, or a real
-   start-pen shot of one runner). If skip drops back to ~32%, the AI cover
-   and fuel title were the problem.
-3. **Every viewer, right now.** Amsterdam (18 Oct), Dublin and Frankfurt
-   (25/26 Oct) and New York (1 Nov) are all cold mornings, and New York has
-   a long wait before the start. Gate stays broad.
-4. **New advice.** The account has never covered race-day clothing; the
-   3 hours video only mentioned an old top. Nothing contradicts.
-5. **The schedule format (P121), which just set the save record:** one clock,
-   race morning to the finish, with exact items and temperatures.
-6. **It ties back to the carb load:** shivering in the pen burns the fuel
-   you spent two days loading (a forward link, not a repeat).
-7. **TikTok search:** "what to wear marathon cold" is what people type in
-   October.
+## Why it replaces the cold-weather idea
+1. **It is the closest sibling of our new #2 video** (carb load, 52.8K at
+   20h, 1.3K saves, 60 follows). P110 line 1, P75: sequels stack. The carb
+   load gets them to the start line full; this is what to take from the
+   gun to the finish. Same series, a different clock (P119 passes).
+2. **The audience asked for it, twice.** Without the wall's comments: "11
+   gels? Can we break it down by carbs" (3 likes, 4 replies), "I can't take
+   a gel every 20 minutes", "can you help with my hydration plan" (3:29).
+3. **The format that just won:** a full schedule on the race clock
+   (P121), every number in grams first (P118), worked by gel size and
+   finish time.
+4. **Timing:** Dublin and Frankfurt (25/26 Oct) and New York (1 Nov) are
+   all still ahead.
+5. The cold-weather idea is untested, depends on the forecast, and sits
+   furthest from what just worked. Kept in the bank.
 
-## Gate (P110)
-Sibling of a top-8 video: the clock family (3 hours, 30 minutes) on race
-morning. Race problem felt on the clock and in the legs: overheating or
-shivering. Every viewer in every stage. One clock: race morning to finish.
-Everyone has stood in the cold at a start.
+## Draft markers (race clock)
+THE GUN TO 20 MIN / 20 MIN TO HALFWAY / HALFWAY TO 30K / 30K TO THE LINE
 
-## Line one candidates (P120 pre-flight; final pick when scripting)
-- "...the warmest runner on the start line is often the first one walking at
-  thirty K, and being a little cold at the gun is your race going to plan."
-  Most disagree; the why (overheating, sweat, and fuel burned) is not obvious;
-  a picture; the reframe. Why held to stage 3; the rehook turns it into
-  "but shiver in the pen and you burn the carbs you loaded".
+## What must be new (P116 clarified, P119)
+Gel size schedules (20 to 25g every 20 minutes; 40g every 30 to 40), what to
+do when gels turn your stomach, water with every gel and how much, and when
+the last gel goes in. Without the wall gave only the 20-minute gel clock.
 
-## Draft markers (one clock)
-LEAVING HOME / THE START PEN / THE GUN / 30K
+## Line one: P120 pre-flight when scripting
+A counter-position on the race clock with the reframe, its why held to stage
+3, and the rehook turning it into a new problem.
 
-## Risks, stated once
-- A kit topic is new to the account: no data on it yet.
-- If forecasts turn mild for Dublin and Frankfurt, it lands less hard.
-  Check the forecasts before filming.
+## Cover
+A real image this time if one fits (one runner taking a gel, back to camera),
+so the AI cover question can be read.
 
 ## Runway to Dublin
-- Next (17 or 18 Oct): cold marathon (safe, real cover).
-- Then one more safe, scored after this one's data.
-- 24 or 25 Oct (the day before Dublin): "How to actually enjoy your marathon"
-  (the held creative).
-- TikTok only, any day: a sub-3:30 or sub-4:30 version of the sub-4 video.
+- 18 or 19 Oct: how to actually fuel a marathon (sibling of #2).
+- 21 or 22 Oct: one more, picked from this one's data.
+- 24 or 25 Oct: "How to actually enjoy your marathon" (the held creative).
+- TikTok only, any day: sub-3:30 or sub-4:30 at every 10K.

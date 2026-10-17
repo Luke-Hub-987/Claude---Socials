@@ -59,3 +59,34 @@ the wall's rate), 8 follows.
 1. Follows and emails from the ERN side.
 2. Does the audio say "eight to seven"?
 3. The 24-hour or day-three read when you have it.
+
+## Addendum, 17 Oct 9:19am (~20 hours, ERN side)
+
+**Instagram**: **52,760 views** (36,858 IG + 15,902 FB), 29,544 viewers,
+32s average on 1:50, 795 likes, 9 comments, 8 reposts, **1.3K saves**,
+**60 follows** (the most we have recorded; 7 days had 43). Skip 46.7%
+(Higher), share 1.2%, like 2.3%, **save 4.4%**: all Higher. Sources:
+Reels tab 67.2%, Feed 21.8%. About twice the typical reel line.
+
+**What changed from the 5-hour read: it is our second-biggest video**,
+ahead of without the wall (41.5K at 18h) and behind only the wall.
+
+1. **My 5-hour read overweighted skip.** The skip is the worst we have
+   had (46.7%), and the video still more than doubled the typical reel.
+   The people who stayed saved, shared and followed at rates that
+   outweighed it. Skip is the first gate; saves, shares and follows
+   decide how far it travels.
+2. **P101 is narrowed by data, not just by argument:** a fuel title
+   with a full, copyable schedule (P121) is now our #2 video. The fuel
+   videos that failed (gels count, gel alternatives, not hungry) had no
+   schedule and no race clock.
+3. **Follows: 60, about 2.0 per 1,000 viewers.** A plan people will use
+   buys follows (P102).
+4. **The AI cover question is still open.** Two AI covers, two high
+   skips, and both videos are now our #2 and #3. Skip costs us, but it
+   is not the deciding number when the body is this strong.
+
+## Lesson
+**The winning package now: a race-week or race-day title + a full
+schedule with times and grams (P121) + the hook stack (P120).** Next
+video should be the closest sibling of this one.

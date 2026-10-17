@@ -4073,6 +4073,13 @@ scored against the ten-point spec in `2026-09-30-full-analysis.md`.
 
 *Source: the full analysis, 30 September.*
 
+**Narrowed 17 October (data):** "How to actually carb load for a
+marathon" did 52.8K at about 20 hours, 1.3K saves and 60 follows, our
+#2 video, despite the worst skip on record (46.7%). The fuel titles that
+failed had no schedule and no race clock. **A fuel title works when the
+body is a full, copyable race-week or race-day schedule (P121).** A
+fuel title without one still fails.
+
 ## P102 — Broad titles buy views, steps buy follows
 
 Read from the ERN account for the first time (30 Sep), the wall video
