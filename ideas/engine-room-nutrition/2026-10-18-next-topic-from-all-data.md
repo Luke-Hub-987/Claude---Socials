@@ -93,3 +93,31 @@ and no number that clashes with the title.
 **Result:** the pick stands (how to pace a marathon at every 10K), upgraded:
 the method is a pace band, the CTA offers it for their goal time, and the
 series order comes from the email goal times.
+
+## Update, 18 Oct: the plan emails decide it (Luke)
+Most plan emails ask for **3:45 to 4:00**. Sub-4 is done, so the pick
+becomes **"How to pace a 3:45 marathon at every 10K"**: the exact goal the
+audience is asking for, new numbers (not a repeat of sub-4), sub-4's
+proven method, and the pace band as the new tool. A broad pacing video
+would mostly repeat sub-4's method on Instagram. Keep the Instagram gate
+broad; the title carries the goal. TikTok is where this format wins.
+
+### 3:45 pace band (same method and GPS buffer as sub-4)
+Real 3:45 pace is 5:20 a K. Watch paces: 5:20 for 0 to 10K, 5:13 for 10
+to 40K, 5:03 for the last 2K.
+
+| Sign | Watch pace | Time at the sign (watch 1% long, typical) | If the watch is spot on |
+|---|---|---|---|
+| 10K | 5:20 | about 53:50 | 53:20 |
+| 20K | 5:13 | about 1:46:30 | 1:45:30 |
+| 30K | 5:13 | about 2:39:15 | 2:37:40 |
+| 40K | 5:13 | about 3:32 | 3:29:50 |
+| Finish | 5:03 last 2K | about 3:43 (3:44 if 1.5% long) | 3:41 |
+
+Talk test as sub-4: ten words easily to 10K, ten a bit breathy to 20K,
+about five by 30K, two or three at the end.
+
+### Cover
+Luke's own watch or Strava screenshot showing a 5:13 or 5:20 pace, or a
+route map with the 10K points. The number on the cover must match 3:45
+(the sub-4 cover's "SUB 3:45" flag clashed with its title).

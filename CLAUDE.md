@@ -187,10 +187,12 @@ sub-4:30, sub-3) follows TikTok-first. See
 Every video now needs a method they use today (P127). Upgraded 18 Oct
 (deeper-version prompt): the method is a **pace band** (10K split times
 for each goal), the CTA offers one for their goal time, and the series
-order comes from the goal times in the plan emails (ask Luke).
+order comes from the goal times in the plan emails. **Luke, 18 Oct: most
+emails ask 3:45 to 4:00**, so the pick is "How to pace a 3:45 marathon at
+every 10K" (pace band numbers in the topic file, same method and GPS
+buffer as sub-4).
 
-Waiting on Luke: emails (carb load, without the wall, sub-4); the
-day-three read of carb load.
+Waiting on Luke: emails per video; go on the 3:45 script.
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
 
 Rejected topics: the last 10K (covered across six videos); anything
