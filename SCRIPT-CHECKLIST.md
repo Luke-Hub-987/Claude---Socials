@@ -100,9 +100,9 @@ twice without being checked against the winners (P99).
       Commons, Flickr CC and Openverse first; a real race beats stock.
       A few people at the problem's place, cropped close with backs to
       camera, is a problem image, not a crowd (stomach video, 2 Oct).
-      **AI covers: unresolved** (17 Oct). Two of two ran the worst skips
-      (39.3%, 46.7%), yet both videos are now our #2 and #3 by reach. Use
-      a real image when one fits; skip alone does not decide reach.
+      **AI covers: retired** (18 Oct). The first real cover after them ran
+      35.1% skip, against 39.3% and 46.7%. Real images only, ideally one
+      person.
 
 ## 4. Hook stack (~15 to 18 seconds)
 
