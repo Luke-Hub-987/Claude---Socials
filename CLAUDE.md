@@ -184,7 +184,10 @@ device). Cover: Luke's own Strava or Garmin route map with the 10K points
 (the course map is our best cover, 20.6%). The goal-time series (sub-3:30,
 sub-4:30, sub-3) follows TikTok-first. See
 `ideas/engine-room-nutrition/2026-10-18-next-topic-from-all-data.md`.
-Every video now needs a method they use today (P127).
+Every video now needs a method they use today (P127). Upgraded 18 Oct
+(deeper-version prompt): the method is a **pace band** (10K split times
+for each goal), the CTA offers one for their goal time, and the series
+order comes from the goal times in the plan emails (ask Luke).
 
 Waiting on Luke: emails (carb load, without the wall, sub-4); the
 day-three read of carb load.

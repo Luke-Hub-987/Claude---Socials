@@ -68,3 +68,28 @@ If he has none: search "marathon course map kilometre markers", "city
 marathon route map". Use a real map image with a free licence (Google's
 Creative Commons filter, or OpenStreetMap-based maps), no race logo,
 and no number that clashes with the title.
+
+## Pressure-tested with the "deeper version" prompt (Luke, 18 Oct)
+
+1. **What a top coach or creator would do that we are not asking for:**
+   hand over a physical tool, not only advice. For pacing that is a **pace
+   band**: the 10K split times for your goal, on your wrist or phone lock
+   screen. It is the most usable "method they use today" (P127), and it
+   ties the CTA to the video: "email us your goal time and we'll send your
+   pace band".
+2. **The rawest material, instead of what has been digested for us:** the
+   plan emails (race and goal time, from real viewers), the comments and
+   DMs, Luke's own race splits, and the per-second retention curves. We
+   have been choosing topics from our own summaries and pasted science.
+   The goal times in the emails should decide the series order.
+3. **Methods and tools:** a pace band table per goal time (3:00 to 5:00);
+   the drop point on each retention curve, read to the second, compared
+   with the script line at that second; Instagram trial reels to test two
+   hooks on non-followers before committing.
+4. **What, other than us, shows it is right:** emails per video (the
+   business result), follows per 1,000 viewers, and saves. Views alone
+   are not the test.
+
+**Result:** the pick stands (how to pace a marathon at every 10K), upgraded:
+the method is a pace band, the CTA offers it for their goal time, and the
+series order comes from the email goal times.
