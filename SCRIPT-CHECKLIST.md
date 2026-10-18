@@ -152,6 +152,10 @@ twice without being checked against the winners (P99).
 - [ ] **Fuel in grams an hour first, then the gel size, then any count**
       (P118). "Eleven gels" alone drew most of the 25 comments on
       without the wall, nearly all against it ("you must be sponsored").
+- [ ] **A method they use today (P127, Luke 18 Oct):** the method in one
+      line with numbers before scripting; universal rule plus worked example
+      in the audio, the full table in the caption and pinned comment. Cold
+      video (no method) 0.9% saves; carb load (table) 4.4% to 5.2%.
 - [ ] **A food plan is a full schedule** (P121, Luke 16 Oct; carb load: save 5.2%, a record): one
       person, every meal with its clock time, foods, portions and grams,
       and when to stop eating; the day totals checked against the target.

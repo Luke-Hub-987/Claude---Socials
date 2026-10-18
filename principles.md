@@ -4642,6 +4642,27 @@ Also from Luke: runners care how they look at the start (photos and
 videos) and don't like binning good clothes. Advice that makes them look
 odd or waste kit won't be followed.
 
+## P127 — Every video hands over a method they can use today
+
+Luke, 18 October: the carb load gave a framework and a schedule and got
+record saves; the cold video said "throw your old stuff off beforehand"
+and got 0.9%. Every video needs very specific takeaways: a framework, a
+method, numbers, something the viewer can apply today.
+
+**The rule:**
+- Before scripting, write the method in one line: what does the viewer
+  do, with which numbers, starting today? If there is no answer, the
+  topic is not ready.
+- The method has a universal rule plus one worked example in the audio,
+  and the full table (every weight, goal time or temperature) in the
+  caption and pinned comment (P115, P121).
+- General advice ("dress light", "don't overdress") is never a stage on
+  its own; it becomes a number or a test ("sweating by 5K means too
+  much on").
+
+*Source: Luke, 18 October, with the cold marathon (0.9% saves) against
+the carb load (4.4% to 5.2%).*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

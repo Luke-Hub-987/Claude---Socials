@@ -20,9 +20,9 @@ every posted video.
 3. The three newest `ideas/*-review.md` files: the latest data.
 4. The newest scripts in `ideas/engine-room-nutrition/` (the house
    style, the hook stacks, the audit tables).
-5. `principles.md` (P1 to P126, about 4,400 lines): search it for the
+5. `principles.md` (P1 to P127, about 4,400 lines): search it for the
    rule you need; do not read it end to end. The newest rules (P97 to
-   P126) are at the end, before "Open questions for Luke".
+   P127) are at the end, before "Open questions for Luke".
 
 ## How we work (Luke's standing instructions)
 
@@ -39,6 +39,8 @@ every posted video.
   change with the reason.
 - **Clarity beats short; specific beats vague** (P108, P115). Real
   numbers, one worked example, every cue measurable.
+- **Every video hands over a method they use today (P127):** numbers,
+  a framework, a table in the caption.
 - **Advise only what this audience actually does (P126):** amateur
   runners in Ireland, the UK and Europe; no niche kit (arm sleeves).
 - Recommend one option with reasons. Do not survey.
@@ -175,13 +177,14 @@ on AI covers, so **AI covers retired**; save 0.9%, reach stalled at ~11K
 IG: kit advice without a plan is watch-once).
 Previous: `ideas/2026-10-16-carb-load-review.md` (52.8K at 20h, our #2).
 
-Next (Luke, 18 Oct): **a goal-time pacing series** on the sub-4 template
-(sub-4: 14.5K IG, 9.5K TikTok, our best TikTok). Recommended order
-sub-3:30, then sub-4:30 (the largest group), then sub-3; 3:45 if the
-plan emails show demand. Each needs its own twist, a broad gate, a real
-cover whose number matches the title, and the same GPS-buffer logic as
-sub-4 so no numbers clash. Not three in a row on Instagram: the enjoy
-creative goes the day before Dublin.
+Next (18 Oct, from all the data): **"How to pace a marathon at every
+10K"**: broad title on the race clock, the sub-4 method, and every goal
+time as a table in the caption and pinned comment (the carb load's
+device). Cover: Luke's own Strava or Garmin route map with the 10K points
+(the course map is our best cover, 20.6%). The goal-time series (sub-3:30,
+sub-4:30, sub-3) follows TikTok-first. See
+`ideas/engine-room-nutrition/2026-10-18-next-topic-from-all-data.md`.
+Every video now needs a method they use today (P127).
 
 Waiting on Luke: emails (carb load, without the wall, sub-4); the
 day-three read of carb load.
