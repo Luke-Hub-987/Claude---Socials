@@ -192,7 +192,12 @@ emails ask 3:45 to 4:00**, so the pick is "How to pace a 3:45 marathon at
 every 10K" (pace band numbers in the topic file, same method and GPS
 buffer as sub-4).
 
-Waiting on Luke: emails per video; go on the 3:45 script.
+Ready (18 Oct, v1 for Luke): `ideas/engine-room-nutrition/2026-10-18-script-345.md`
+("How to pace a 3:45 marathon at every 10K"; line one: let the 3:45 pacer
+get away at the start; the mat gap held to the end; four numbers on the
+hand: 54:00, 1:46, 2:39, 3:32). Teleprompter text alongside.
+
+Waiting on Luke: emails per video.
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
 
 Rejected topics: the last 10K (covered across six videos); anything
