@@ -156,7 +156,7 @@ every posted video.
 
 ## Current state (update this every session)
 
-**As of 16 October 2026 (evening).**
+**As of 18 October 2026.**
 
 Grid (Instagram, ERN side): the wall 147K; **carb load 52.8K at ~20h (our #2: 1.3K saves, 60 follows, a record; skip 46.7%)**; **without the wall 41.5K at
 18h** (record 39s watched on 1:37, save 3.2%, 25 comments; skip 39.3%
@@ -169,26 +169,19 @@ half 17.6K at 14h; sub-4 at every 10K 14.5K at 18h (skip 40.8%) but
 best); quit ~14K at 14h; Dublin course (small reach, deepest
 engagement); taper and heavy legs missed.
 
-Latest review: `ideas/2026-10-16-carb-load-review.md` (with the 20-hour
-addendum). Lessons: a fuel title with a full schedule (P121) is now our
-#2 video, so P101 is narrowed; skip (46.7%, worst) did not decide reach;
-AI covers unresolved (two high skips, but our #2 and #3 by reach).
+Latest review: `ideas/2026-10-18-cold-marathon-review.md` (cold marathon
+at ~15h: 15.4K, **skip 35.1% with a real cover** against 39.3% and 46.7%
+on AI covers, so **AI covers retired**; save 0.9%, reach stalled at ~11K
+IG: kit advice without a plan is watch-once).
+Previous: `ideas/2026-10-16-carb-load-review.md` (52.8K at 20h, our #2).
 
-Next topic (17 Oct, third pass): **"What to wear for a cold marathon"**:
-the carb load's table device (by start temperature) on a race-morning
-schedule, real cover. Luke rejected the fuel video (P124: it reopens the
-"eleven gels" argument); a pacing table fails P119 (sub-4 is recent). See
-`ideas/engine-room-nutrition/2026-10-16-next-topic-scored.md`.
-
-Ready (17 Oct, v4 for Luke: the real start-line dilemma, a supporter takes your hoodie or an old one you'd give away, go in the pen early; no bin bags; P126 amended): `ideas/engine-room-nutrition/2026-10-17-script-cold-marathon.md`
-("What to wear for a cold marathon"; Luke's science vetted; AI-writing
-check in the file, P125; real cover: Luke's own bin-bag photo or search
-terms). Teleprompter text alongside.
-
-Considered 17 Oct: "How to warm up for a marathon" (Luke). Held: it
-would be a second start-pen video straight after the cold one, and its
-real secret (the slow first K is the warm-up) was the first 10 minutes
-video's. Next after the cold video is picked from its 24-hour data.
+Next (Luke, 18 Oct): **a goal-time pacing series** on the sub-4 template
+(sub-4: 14.5K IG, 9.5K TikTok, our best TikTok). Recommended order
+sub-3:30, then sub-4:30 (the largest group), then sub-3; 3:45 if the
+plan emails show demand. Each needs its own twist, a broad gate, a real
+cover whose number matches the title, and the same GPS-buffer logic as
+sub-4 so no numbers clash. Not three in a row on Instagram: the enjoy
+creative goes the day before Dublin.
 
 Waiting on Luke: emails (carb load, without the wall, sub-4); the
 day-three read of carb load.
