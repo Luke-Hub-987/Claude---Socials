@@ -4738,6 +4738,25 @@ the teleprompter and easy to misread mid-sentence.
 
 *Source: Luke, 20 October.*
 
+## P132 — Give paces the way the viewer's watch shows them
+
+Luke, 20 October, on the 3:30 script: his Garmin's live pace moves in
+5-second steps, so "4:52" or "4:59" never appears on screen. Garmin forum
+reports agree for the live pace field (lap and average pace show to the
+second on some models; Coros unconfirmed).
+
+**The rule:**
+- In the audio, give watch paces as a 5-second band whose middle is the
+  planned pace ("between 4:50 and 4:55" for 4:52), with the cue "if it
+  flicks between the two, you're spot on".
+- The times at the K signs stay exact (to the minute in the audio) and are
+  the real check. Caption and pinned comment: the bands in km and miles
+  (P129), also in 5-second steps.
+- Applies to every goal-time video from now on (4:30, sub-3 and the
+  personalised pace bands by email).
+
+*Source: Luke, 20 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

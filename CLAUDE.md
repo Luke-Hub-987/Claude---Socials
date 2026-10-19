@@ -20,9 +20,9 @@ every posted video.
 3. The three newest `ideas/*-review.md` files: the latest data.
 4. The newest scripts in `ideas/engine-room-nutrition/` (the house
    style, the hook stacks, the audit tables).
-5. `principles.md` (P1 to P131, about 4,400 lines): search it for the
+5. `principles.md` (P1 to P132, about 4,400 lines): search it for the
    rule you need; do not read it end to end. The newest rules (P97 to
-   P131) are at the end, before "Open questions for Luke".
+   P132) are at the end, before "Open questions for Luke".
 
 ## How we work (Luke's standing instructions)
 
@@ -64,7 +64,8 @@ every posted video.
   and why; a table of how the curiosity runs (moment, line, what it
   does); the OST in bold capitals on two lines; the markers as a
   numbered list in capitals; the script with its length; short notes.
-- **Numbers as numerals in scripts (P131):** 3:30, 4:52, 20K.
+- **Numbers as numerals in scripts (P131):** 3:30, 20K. **Paces as 5-second watch bands (P132):** "between 4:50 and 4:55".
+
 - **Script length (Luke, 16 Oct):** the recent scripts ran 1,550 to
   1,670 characters of spoken text (about 310 to 330 words); the ceiling
   is about 1,800 characters, with all the detail kept.
