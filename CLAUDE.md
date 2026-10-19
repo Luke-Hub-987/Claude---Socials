@@ -181,7 +181,9 @@ retired), carb load (52.8K, our #2).
 
 **Week plan (19 Oct):** `ideas/engine-room-nutrition/2026-10-19-week-plan.md`.
 Tue 20: 3:30 at every 10K (twist: 5:00 a K on the watch finishes about
-3:33). Wed 21 (views): what hitting the wall actually feels like. Thu 22: 4:30
+3:33). Wed 21 (views, provisional): how much to drink in a marathon (the wall
+feelings idea dropped: nobody is asking for it; demand-first, see the
+week plan). Thu 22: 4:30
 at every 10K. Fri 23 (views): how to pace your first marathon. Luke's
 goal: 1M lifetime views (840K on 19 Oct); Wed and Fri copy the view
 leaders (wall 172K, 7 days 141K). Sat 24: "How to actually enjoy your
