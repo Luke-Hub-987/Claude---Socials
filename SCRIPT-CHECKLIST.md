@@ -61,6 +61,11 @@ twice without being checked against the winners (P99).
       it into a new problem. Weaker than "weigh more on race morning",
       "first K the slowest" and "every gel on time and still hit the
       wall"? Rebuild before delivering.
+- [ ] **Line one passes the real-life test (P130, Luke 20 Oct):** would a
+      runner of that goal, in the start pen, say "obviously"? Then it's the
+      plan's maths, not curiosity ("run quicker than goal pace" failed).
+      Build it from something that happens on the day and the wrong thing
+      they then do. A line one I'd flag as weak gets rebuilt, not shipped.
 - [ ] **Line one is a counter-position, not a big number** (P120, Luke
       16 Oct): "a dozen bagels a day" was a fact with no curiosity. Line
       one says something runners would argue with, leaves a question,

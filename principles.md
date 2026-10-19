@@ -4696,6 +4696,30 @@ every pace and split in the caption and pinned comment is given in both
 
 *Source: Luke's inbox, 19 October.*
 
+## P130 — Line one comes from the race they'll actually run, not from the plan's maths
+
+Luke, 20 October, on the 3:30 v1 hook ("your watch should say you're
+quicker than three thirty pace"): "it seems kind of obvious that you would
+run a quicker pace to get to the finish on time... you need to apply
+practical logic and thinking in the script and real life." A line one built
+from the plan's arithmetic is a sum the viewer has already done. I flagged
+it as the weakest point and delivered it anyway.
+
+**The rule:**
+- **Real-life test, every line one:** picture a runner of that goal standing
+  in the start pen. If they'd say "obviously", it's arithmetic, not
+  curiosity. Build line one from something that happens to them on the day
+  (a portaloo stop, a drink-station scrum, a slow first K in the crowd) and
+  the wrong thing they then do.
+- **The payoff is an action that goes against their instinct** ("leave
+  it"), backed by the method's numbers.
+- **If I flag line one as the weak point, I rebuild it before Luke sees
+  it.** A flagged weakness is not a delivery note.
+- Check the archive before using a reveal: the tangents video already told
+  "the course is measured on the shortest line".
+
+*Source: Luke, 20 October, 3:30 v1.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
