@@ -152,6 +152,8 @@ twice without being checked against the winners (P99).
 - [ ] **Fuel in grams an hour first, then the gel size, then any count**
       (P118). "Eleven gels" alone drew most of the 25 comments on
       without the wall, nearly all against it ("you must be sponsored").
+- [ ] **Paces in km and miles in the caption and pinned comment** (P129,
+      Luke's inbox 19 Oct).
 - [ ] **A method they use today (P127, Luke 18 Oct):** the method in one
       line with numbers before scripting; universal rule plus worked example
       in the audio, the full table in the caption and pinned comment. Cold

@@ -20,9 +20,9 @@ every posted video.
 3. The three newest `ideas/*-review.md` files: the latest data.
 4. The newest scripts in `ideas/engine-room-nutrition/` (the house
    style, the hook stacks, the audit tables).
-5. `principles.md` (P1 to P128, about 4,400 lines): search it for the
+5. `principles.md` (P1 to P129, about 4,400 lines): search it for the
    rule you need; do not read it end to end. The newest rules (P97 to
-   P128) are at the end, before "Open questions for Luke".
+   P129) are at the end, before "Open questions for Luke".
 
 ## How we work (Luke's standing instructions)
 
@@ -179,16 +179,13 @@ awful lot" of emails, P128).
 Earlier: cold marathon (real cover 35.1% skip, 0.9% saves; AI covers
 retired), carb load (52.8K, our #2).
 
-**Week plan (19 Oct):** `ideas/engine-room-nutrition/2026-10-19-week-plan.md`.
-Tue 20: 3:30 at every 10K (twist: 5:00 a K on the watch finishes about
-3:33). Wed 21 (views, provisional): how much to drink in a marathon (the wall
-feelings idea dropped: nobody is asking for it; demand-first, see the
-week plan). Thu 22: 4:30
-at every 10K. Fri 23 (views): how to pace your first marathon. Luke's
-goal: 1M lifetime views (840K on 19 Oct); Wed and Fri copy the view
-leaders (wall 172K, 7 days 141K). Sat 24: "How to actually enjoy your
-marathon" (the held creative, day before Dublin). Mon 26: sub-3 or New
-York, from the data. CTA a third of the way in on every video.
+**Week plan (demand-led, 19 Oct):** `ideas/engine-room-nutrition/2026-10-19-demand-led-week.md`
+(from Luke's inbox themes and TikTok search). Tue 20: 3:30 pacing. Wed 21
+(views): what to do when you can't face another gel. Thu 22: how to turn
+your half marathon time into a marathon goal (incl. after illness). Fri 23
+(views): how to run the New York marathon. Sat 24: how to actually enjoy
+your marathon. 4:30 goes TikTok-only. Luke's goal: 1M lifetime IG views
+(840K on 19 Oct). Every pace in km and miles in captions (P129).
 
 Waiting on Luke: go on the 3:30 script; emails per video.
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.

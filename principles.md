@@ -4684,6 +4684,18 @@ there; a third of the way in, about a third are.
 
 *Source: Luke, 19 October.*
 
+## P129 — Every pace in kilometres and miles
+
+Luke's inbox, 19 October: "can you send the pace in miles please sorry get
+confused with the km". UK runners (and many Irish ones) think in minutes
+per mile, and the audio and captions have been in kilometres only.
+
+**The rule:** the audio stays in one unit (K, as every video so far), but
+every pace and split in the caption and pinned comment is given in both
+(5:20 a K, 8:35 a mile), and the pace band offered by email comes in both.
+
+*Source: Luke's inbox, 19 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
