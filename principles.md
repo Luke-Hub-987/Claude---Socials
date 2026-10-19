@@ -4720,6 +4720,24 @@ it as the weakest point and delivered it anyway.
 
 *Source: Luke, 20 October, 3:30 v1.*
 
+## P131 — Every number in a script is written as a numeral
+
+Luke, 20 October, on the 3:30 script: "for all the numbers in this script,
+put the actual number in, don't write it out in like text." Written-out
+times ("three thirty", "four fifty-two", "twenty K") are slow to read off
+the teleprompter and easy to misread mid-sentence.
+
+**The rule:**
+- Scripts and teleprompter files use numerals for every number: times
+  (3:30, 4:52, 1:39), distances (10K, 2K), counts (4 times, 10 words, 5
+  seconds). Words stay only where there's no number ("a few seconds", "a
+  K", "that minute").
+- **Length is still judged by the spoken script:** numerals shorten the
+  character count, so use the word count (about 310 to 330 words, ceiling
+  about 345) or the written-out equivalent of 1,550 to 1,800 characters.
+
+*Source: Luke, 20 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

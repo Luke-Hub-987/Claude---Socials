@@ -268,6 +268,9 @@ twice without being checked against the winners (P99).
 - [ ] **Every line read aloud as a stranger for a second meaning**
       (P114). Any double reading, sexual or otherwise, gets rewritten.
       Hooks: no tongue, mouth, swallow or similar body words.
+- [ ] **Numerals for every number in the script and teleprompter file**
+      (P131, Luke 20 Oct): 3:30, 4:52, 20K, 10 words. Judge length by
+      words (about 310 to 330) once numerals shorten the character count.
 - [ ] **No personal claims** Luke has not made.
 - [ ] **No dated language in the audio** (P82).
 - [ ] **No em dashes, no "not X, it is Y", no staccato fragments, no
