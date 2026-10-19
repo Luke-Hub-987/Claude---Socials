@@ -172,6 +172,9 @@ twice without being checked against the winners (P99).
 
 ## 6. Ending and length
 
+- [ ] **CTA a third of the way in (P128, Luke 19 Oct: "an awful lot" of
+      emails on 3:45):** after stage one's payoff, then straight back in
+      with a forward pull; the end closes on the payoff.
 - [ ] **One-sentence CTA, no thread line** (P97). The cliff sat exactly
       at the thread line.
 - [ ] **Pre-launch CTA (updated 14 Oct):** the free personalised plan

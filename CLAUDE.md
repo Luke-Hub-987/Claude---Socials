@@ -20,9 +20,9 @@ every posted video.
 3. The three newest `ideas/*-review.md` files: the latest data.
 4. The newest scripts in `ideas/engine-room-nutrition/` (the house
    style, the hook stacks, the audit tables).
-5. `principles.md` (P1 to P127, about 4,400 lines): search it for the
+5. `principles.md` (P1 to P128, about 4,400 lines): search it for the
    rule you need; do not read it end to end. The newest rules (P97 to
-   P127) are at the end, before "Open questions for Luke".
+   P128) are at the end, before "Open questions for Luke".
 
 ## How we work (Luke's standing instructions)
 
@@ -149,6 +149,7 @@ every posted video.
   image on Unsplash or Pexels).
 
 **CTA**
+- **A third of the way in, then back to the video (P128).**
 - One sentence. Since 14 Oct: the **free personalised plan**: "email us
   your race and goal time through the link in the bio". Also in the
   caption and pinned comment. Track emails per video. Ask consent
@@ -158,9 +159,9 @@ every posted video.
 
 ## Current state (update this every session)
 
-**As of 18 October 2026.**
+**As of 19 October 2026.**
 
-Grid (Instagram, ERN side): the wall 147K; **carb load 52.8K at ~20h (our #2: 1.3K saves, 60 follows, a record; skip 46.7%)**; **without the wall 41.5K at
+Grid (Instagram, ERN side): the wall 147K; **3:45 pacing 29.1K at ~17h, TikTok 10.9K (record), emails up with the CTA a third of the way in (P128)**; **carb load 52.8K at ~20h (our #2: 1.3K saves, 60 follows, a record; skip 46.7%)**; **without the wall 41.5K at
 18h** (record 39s watched on 1:37, save 3.2%, 25 comments; skip 39.3%
 with no reframe in line one and the first AI cover); out of the wall
 40.8K; 7 days 31.4K at 14h; 24 hours 30K; first 10 minutes 27.1K at
@@ -171,33 +172,20 @@ half 17.6K at 14h; sub-4 at every 10K 14.5K at 18h (skip 40.8%) but
 best); quit ~14K at 14h; Dublin course (small reach, deepest
 engagement); taper and heavy legs missed.
 
-Latest review: `ideas/2026-10-18-cold-marathon-review.md` (cold marathon
-at ~15h: 15.4K, **skip 35.1% with a real cover** against 39.3% and 46.7%
-on AI covers, so **AI covers retired**; save 0.9%, reach stalled at ~11K
-IG: kit advice without a plan is watch-once).
-Previous: `ideas/2026-10-16-carb-load-review.md` (52.8K at 20h, our #2).
+Latest review: `ideas/2026-10-19-345-review.md` (3:45 at ~17h: 29.1K IG,
+TikTok 10.9K record, 320 saves, 26 follows, skip 44.1%: goal-time titles
+run high skip but reach the right people; the mid-video CTA brought "an
+awful lot" of emails, P128).
+Earlier: cold marathon (real cover 35.1% skip, 0.9% saves; AI covers
+retired), carb load (52.8K, our #2).
 
-Next (18 Oct, from all the data): **"How to pace a marathon at every
-10K"**: broad title on the race clock, the sub-4 method, and every goal
-time as a table in the caption and pinned comment (the carb load's
-device). Cover: Luke's own Strava or Garmin route map with the 10K points
-(the course map is our best cover, 20.6%). The goal-time series (sub-3:30,
-sub-4:30, sub-3) follows TikTok-first. See
-`ideas/engine-room-nutrition/2026-10-18-next-topic-from-all-data.md`.
-Every video now needs a method they use today (P127). Upgraded 18 Oct
-(deeper-version prompt): the method is a **pace band** (10K split times
-for each goal), the CTA offers one for their goal time, and the series
-order comes from the goal times in the plan emails. **Luke, 18 Oct: most
-emails ask 3:45 to 4:00**, so the pick is "How to pace a 3:45 marathon at
-every 10K" (pace band numbers in the topic file, same method and GPS
-buffer as sub-4).
+**Week plan (19 Oct):** `ideas/engine-room-nutrition/2026-10-19-week-plan.md`.
+Tue 20: 3:30 at every 10K (twist: 5:00 a K on the watch finishes about
+3:33). Thu 22: 4:30 at every 10K. Sat 24: "How to actually enjoy your
+marathon" (the held creative, day before Dublin). Mon 26: sub-3 or New
+York, from the data. CTA a third of the way in on every video.
 
-Ready (18 Oct, v1 for Luke): `ideas/engine-room-nutrition/2026-10-18-script-345.md`
-("How to pace a 3:45 marathon at every 10K"; line one: let the 3:45 pacer
-get away at the start; the mat gap held to the end; four numbers on the
-hand: 54:00, 1:46, 2:39, 3:32). Teleprompter text alongside.
-
-Waiting on Luke: emails per video.
+Waiting on Luke: go on the 3:30 script; emails per video.
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
 
 Rejected topics: the last 10K (covered across six videos); anything

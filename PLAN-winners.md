@@ -13,6 +13,7 @@ it produces.
 | 2 | How to get out of the marathon wall | **40.8K** | **C. "How to [fix/beat] the marathon wall"**, in-race steps on the wall |
 | 2b | How to run a marathon without hitting the wall | **41.5K at 18h** | **A + C**, the search phrase; the hidden wall named in the hook, held to the last stage: 39s watched on 1:37 (record), save 3.2%, skip 39.3% (no reframe) |
 | 2a | How to actually carb load for a marathon | **52.8K at ~20h** | Luke's fuel-title test with a full meal schedule (P121): **1.3K saves (4.4%), 60 follows (record)**, share 1.2%; skip 46.7% (worst) with the second AI cover. **Our #2 video** |
+| 2d | How to pace a 3:45 marathon at every 10K | **29.1K at ~17h; TikTok 10.9K (record)** | The goal the plan emails asked for; four numbers on the hand; **CTA a third of the way in: "an awful lot" of emails**; 320 saves, 26 follows; skip 44.1% (goal-time titles) |
 | 3x | What to wear for a cold marathon | 15.4K at ~15h | Real cover: **skip 35.1%** (AI covers 39.3%, 46.7%); save 0.9%, reach stalled at ~11K IG: kit advice without a plan is watch-once |
 | 3 | What to do 7 days before a marathon | **31.4K at 14h** | **B**, the paradox opener ("weigh more on race morning, and that is the week going right"); 802 saves, 43 follows |
 | 3b | What to do in the first 10 minutes of a marathon | **27.1K at 12h** | **B on race day** + the photograph-test paradox ("your first K should be the slowest K of your whole race"); share 1.4%, a record |

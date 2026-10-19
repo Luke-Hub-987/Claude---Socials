@@ -4663,6 +4663,27 @@ method, numbers, something the viewer can apply today.
 *Source: Luke, 18 October, with the cold marathon (0.9% saves) against
 the carb load (4.4% to 5.2%).*
 
+## P128 — The CTA goes a third of the way in, then back to the video
+
+Luke, 19 October: on the 3:45 video he moved the plan CTA from the end
+to about a third of the way in (an approach he took from Alex Formosa),
+then carried on with the video. It brought "an awful lot" of emails and
+list sign-ups. At the end, fewer than one in ten viewers are still
+there; a third of the way in, about a third are.
+
+**The rule:**
+- One sentence, straight after the first stage's payoff (around 30 to
+  40 seconds), then straight back into the next stage with a forward
+  pull, so it doesn't feel like an ending.
+- It offers the thing the video is about ("your pace band for your goal
+  time"), and it stays in the caption and pinned comment.
+- The end of the video closes on the payoff, with a short repeat of the
+  CTA at most.
+- Track emails per video: it is the real scoreboard (P127, the
+  deeper-version prompt).
+
+*Source: Luke, 19 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
