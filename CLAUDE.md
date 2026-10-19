@@ -181,7 +181,9 @@ retired), carb load (52.8K, our #2).
 
 **Week plan (19 Oct):** `ideas/engine-room-nutrition/2026-10-19-week-plan.md`.
 Tue 20: 3:30 at every 10K (twist: 5:00 a K on the watch finishes about
-3:33). Thu 22: 4:30 at every 10K. Sat 24: "How to actually enjoy your
+3:33). Wed 21 (test): what to eat on the morning of a marathon (does the
+carb load formula repeat?). Thu 22: 4:30 at every 10K. Fri 23 (test):
+what to do when your pace plan goes wrong, as a reply to a real comment. Sat 24: "How to actually enjoy your
 marathon" (the held creative, day before Dublin). Mon 26: sub-3 or New
 York, from the data. CTA a third of the way in on every video.
 
