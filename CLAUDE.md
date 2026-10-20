@@ -161,7 +161,7 @@ every posted video.
 
 ## Current state (update this every session)
 
-**As of 19 October 2026.**
+**As of 20 October 2026.**
 
 Grid (Instagram, ERN side): the wall 147K; **3:45 pacing 29.1K at ~17h, TikTok 10.9K (record), emails up with the CTA a third of the way in (P128)**; **carb load 52.8K at ~20h (our #2: 1.3K saves, 60 follows, a record; skip 46.7%)**; **without the wall 41.5K at
 18h** (record 39s watched on 1:37, save 3.2%, 25 comments; skip 39.3%
@@ -174,10 +174,11 @@ half 17.6K at 14h; sub-4 at every 10K 14.5K at 18h (skip 40.8%) but
 best); quit ~14K at 14h; Dublin course (small reach, deepest
 engagement); taper and heavy legs missed.
 
-Latest review: `ideas/2026-10-19-345-review.md` (3:45 at ~17h: 29.1K IG,
-TikTok 10.9K record, 320 saves, 26 follows, skip 44.1%: goal-time titles
-run high skip but reach the right people; the mid-video CTA brought "an
-awful lot" of emails, P128).
+Latest review: `ideas/2026-10-20-330-review.md` (3:30 at ~12.5h, posted
+6pm: 8.9K IG, TikTok 4.9K, **skip 48.9%, worst**: goal-time skip rises as
+the goal gets faster; crowd in the opening frame; body held. Comments and
+DMs ask for 4:30, the biggest group). Before it: 3:45 (29.1K, TikTok
+10.9K, emails up with the mid-video CTA, P128).
 Earlier: cold marathon (real cover 35.1% skip, 0.9% saves; AI covers
 retired), carb load (52.8K, our #2).
 
@@ -189,7 +190,7 @@ your half marathon time into a marathon goal (incl. after illness). Fri 23
 your marathon. 4:30 goes TikTok-only. Luke's goal: 1M lifetime IG views
 (840K on 19 Oct). Every pace in km and miles in captions (P129).
 
-Waiting on Luke: feedback on the 3:30 script v2 (portaloo hook after v1 was rejected as obvious, P130; `ideas/engine-room-nutrition/2026-10-20-script-330.md`); emails per video.
+Waiting on Luke: go on 4:30 today (recommended, demand from comments and DMs); was 3:30 v2 posted as written; emails from 3:30.
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
 
 Rejected topics: the last 10K (covered across six videos); anything
