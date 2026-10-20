@@ -109,3 +109,26 @@ Findings and fixes:
 For anyone who messages to say it never arrived: confirm the address on
 their profile, ask them to search Gmail for "in:anywhere Engine Room",
 and send the plan directly.
+
+## Flow data review (20 Oct, Luke's screenshots)
+
+- Flow: trigger "added to Email List", no re-entry, no filters, Email 1
+  at Day 0 with **Smart Sending on** and the A/B test live.
+- Email 1, week to date: **53.45% open rate (31 people), 3.45% click
+  rate (2 people)**, about 58 delivered. Healthy; the welcome email lands
+  for most people. Compare the 16 Oct campaign at 18.7%.
+- Recipient activity, 17 Oct: sends at 10:52 am, 11:00, 11:15, 2:13 pm,
+  then nothing until a burst from 9:51 pm to about 10:23 pm (10+ sends in
+  30 minutes). The example profile subscribed at 5:27 pm and was sent at
+  9:51 pm. A burst after a long gap means sends were held and released at
+  once: most likely Email 1 was out of Live (Manual or Draft) while the
+  new A/B version was being set up, then switched back to Live around
+  9:50 pm. **Never take Email 1 out of Live to edit it.**
+- The example profile: delivered, 0 opens. Delivered means Gmail
+  accepted it. Zero opens with "checked every folder" points to spam
+  (images are blocked there, so even opening it there records no open)
+  or a Gmail tab or account he did not check.
+
+Actions: turn Smart Sending off on Email 1; check the Skipped filter in
+Recipient activity for reasons; add the guide link and the reply address
+to the form's success screen; add SPF and Google DKIM on the root domain.
