@@ -79,3 +79,33 @@ the gap is the cause.
 Next: resend once to people who did not open, 3 days after the first
 send, with subject A from the welcome test. Skip the resend if spam
 complaints are above 0.3%. Send something every week or two from now on.
+
+## "I signed up but never got the email" (20 Oct)
+
+Example profile: subscribed 17 Oct 5:27 pm, Klaviyo "Received email"
+9:51 pm. "Received" means the recipient's mail server accepted it, so the
+email reached their provider and was then filed (spam, Promotions, All
+Mail) or went to a mistyped address.
+
+Findings and fixes:
+
+1. **4.5-hour gap between sign-up and send.** The welcome email should go
+   within a minute. Check the flow for a time delay, a "send only between"
+   window, or a queue on the new sending domain.
+2. **Signing up again does nothing.** A profile enters the welcome flow
+   once; repeat sign-ups with the same address never resend.
+3. **Skipped profiles:** the flow email's Recipient activity, Skipped
+   tab, gives a reason per person (Smart Sending, already in flow,
+   suppressed, no consent, filter not met). Turn Smart Sending off on the
+   welcome email.
+4. **Do not depend on the email arriving:** put the guide download link
+   and "Reply to luke@engineroomnutrition.com with your race and goal
+   time" on the sign-up form's success screen, and add "check spam and
+   Promotions, and add us to your contacts".
+5. Root domain still has no SPF and no Google DKIM (checked 20 Oct), so
+   Luke's own replies with plans can land in spam. Klaviyo's sending
+   domain luke.engineroomnutrition.com is set up correctly.
+
+For anyone who messages to say it never arrived: confirm the address on
+their profile, ask them to search Gmail for "in:anywhere Engine Room",
+and send the plan directly.
