@@ -174,11 +174,11 @@ half 17.6K at 14h; sub-4 at every 10K 14.5K at 18h (skip 40.8%) but
 best); quit ~14K at 14h; Dublin course (small reach, deepest
 engagement); taper and heavy legs missed.
 
-Latest review: `ideas/2026-10-20-330-review.md` (3:30 at ~12.5h, posted
-6pm: 8.9K IG, TikTok 4.9K, **skip 48.9%, worst**: goal-time skip rises as
-the goal gets faster; crowd in the opening frame; body held. Comments and
-DMs ask for 4:30, the biggest group). Before it: 3:45 (29.1K, TikTok
-10.9K, emails up with the mid-video CTA, P128).
+Latest review: `ideas/2026-10-20-430-review.md` (4:30 at ~10.5h, lunchtime
+post: 14.6K IG, TikTok 8.5K, **skip 37.0%, best of the goal-time series**:
+slower goal = bigger group; cover of one runner at a drink station, no
+crowd; CTA step at ~0:40; "lots of emails this week"). Before it: 3:30
+(8.9K at 12.5h, skip 48.9%, crowd frame, 6pm post); 3:45 (29.1K).
 Earlier: cold marathon (real cover 35.1% skip, 0.9% saves; AI covers
 retired), carb load (52.8K, our #2).
 
@@ -190,7 +190,7 @@ your half marathon time into a marathon goal (incl. after illness). Fri 23
 your marathon. 4:30 goes TikTok-only. Luke's goal: 1M lifetime IG views
 (840K on 19 Oct). Every pace in km and miles in captions (P129).
 
-Waiting on Luke: feedback on the 4:30 script (`ideas/engine-room-nutrition/2026-10-20-script-430.md`, pacer-at-the-drink-stations hook); was 3:30 v2 posted as written; emails from 3:30.
+Waiting on Luke: go on Wed 21 (the gel video built on the winners' pattern, see the 4:30 review chat); emails per video (3:30, 4:30).
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
 
 Rejected topics: the last 10K (covered across six videos); anything
