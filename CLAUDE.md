@@ -190,7 +190,7 @@ your half marathon time into a marathon goal (incl. after illness). Fri 23
 your marathon. 4:30 goes TikTok-only. Luke's goal: 1M lifetime IG views
 (840K on 19 Oct). Every pace in km and miles in captions (P129).
 
-Waiting on Luke: go on Wed 21 (the gel video built on the winners' pattern, see the 4:30 review chat); emails per video (3:30, 4:30).
+Waiting on Luke: feedback on the gel script (`ideas/engine-room-nutrition/2026-10-21-script-gel.md`, least-favourite flavour first); emails per video (3:30, 4:30).
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
 
 Rejected topics: the last 10K (covered across six videos); anything
