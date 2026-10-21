@@ -1,0 +1,422 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Free Marathon Pace Plan | Engine Room Nutrition</title>
+<meta name="description" content="Tell us your race and goal time and we'll send you a free marathon pace plan: your time at every 10K sign, your watch pace in km and miles, and your gel times.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,700;0,800;1,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+/* ERN site v2 (21 Oct 2026). Everything is scoped to .ern so it can sit
+   inside the Shopify theme as a custom Liquid section without clashing. */
+.ern{--navy:#07102A;--card:#0D1838;--card2:#122150;--blue:#1E8FE8;--bluedk:#1268C0;--gold:#C9A452;--white:#F2F4F7;--muted:rgba(242,244,247,.66);--line:rgba(255,255,255,.09);--fd:'Barlow Condensed',system-ui,sans-serif;--fb:'Inter',system-ui,sans-serif;background:var(--navy);color:var(--white);font:16px/1.6 var(--fb);-webkit-font-smoothing:antialiased}
+.ern *{box-sizing:border-box}
+.ern a{color:inherit}
+.ern .wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+.ern h1,.ern h2,.ern h3{font-family:var(--fd);font-weight:800;text-transform:uppercase;letter-spacing:.01em;line-height:1.02;margin:0}
+.ern h1{font-size:clamp(40px,7vw,68px)}
+.ern h2{font-size:clamp(32px,5vw,48px)}
+.ern h3{font-size:24px}
+.ern p{margin:0 0 14px}
+.ern .eyebrow{font:600 13px/1 var(--fb);letter-spacing:.14em;text-transform:uppercase;color:var(--gold);margin-bottom:14px}
+.ern .muted{color:var(--muted)}
+.ern section{padding:72px 0;border-top:1px solid var(--line)}
+/* header */
+.ern .top{position:sticky;top:0;z-index:20;background:rgba(7,16,42,.94);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.ern .top .wrap{display:flex;align-items:center;justify-content:space-between;height:60px;gap:16px}
+.ern .logo{font:italic 800 26px/1 var(--fd);letter-spacing:.02em;text-decoration:none}
+.ern .logo span{font:500 11px/1 var(--fb);letter-spacing:.12em;margin-left:8px;color:var(--muted);font-style:normal}
+.ern nav{display:flex;align-items:center;gap:22px;font-size:14px}
+.ern nav a{text-decoration:none;color:var(--muted)}
+.ern nav a:hover{color:var(--white)}
+.ern .btn{display:inline-block;border:0;cursor:pointer;background:var(--blue);color:#fff;font:700 18px/1 var(--fd);letter-spacing:.06em;text-transform:uppercase;padding:16px 22px;border-radius:8px;text-decoration:none;text-align:center}
+.ern .btn:hover{background:var(--bluedk)}
+.ern .btn.sm{font-size:15px;padding:10px 14px}
+.ern .btn.ghost{background:transparent;border:1px solid var(--line)}
+@media (max-width:640px){.ern nav .hide-m,.ern .logo span{display:none}}
+.ern nav a{white-space:nowrap}
+.ern [id]{scroll-margin-top:76px}
+/* hero */
+.ern .hero{padding:48px 0 64px;border-top:0}
+.ern .hero .grid{display:grid;grid-template-columns:1.05fr .95fr;grid-template-areas:"copy form" "more form";column-gap:48px;align-items:start}
+.ern .hero .copy{grid-area:copy}.ern .hero .more{grid-area:more}.ern .hero .card{grid-area:form}
+@media (max-width:860px){.ern .hero .grid{grid-template-columns:1fr;grid-template-areas:"copy" "form" "more"}.ern .hero .more{margin-top:28px}}
+.ern .hero .sub{font-size:19px;color:var(--muted);margin:18px 0 22px;max-width:34em}
+.ern .ticks{list-style:none;padding:0;margin:0 0 22px}
+.ern .ticks li{padding:7px 0 7px 30px;position:relative}
+.ern .ticks li:before{content:"";position:absolute;left:0;top:13px;width:16px;height:9px;border-left:2.5px solid var(--blue);border-bottom:2.5px solid var(--blue);transform:rotate(-45deg)}
+.ern .proof{display:flex;flex-wrap:wrap;gap:8px 22px;font-size:14px;color:var(--muted)}
+.ern .proof b{color:var(--white);font-weight:600}
+/* form card */
+.ern .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:26px}
+.ern .formcard{box-shadow:0 20px 60px rgba(0,0,0,.35)}
+.ern .formcard h3{margin-bottom:6px}
+.ern label{display:block;font-size:13px;font-weight:600;color:var(--muted);margin:14px 0 6px}
+.ern input,.ern select{width:100%;font:16px var(--fb);color:var(--white);background:var(--navy);border:1px solid rgba(255,255,255,.16);border-radius:8px;padding:13px 14px;appearance:none}
+.ern select{background-image:linear-gradient(45deg,transparent 50%,var(--muted) 50%),linear-gradient(135deg,var(--muted) 50%,transparent 50%);background-position:calc(100% - 20px) 55%,calc(100% - 14px) 55%;background-size:6px 6px;background-repeat:no-repeat}
+.ern input:focus,.ern select:focus{outline:2px solid var(--blue);outline-offset:1px;border-color:transparent}
+.ern .row2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.ern .formcard .btn{width:100%;margin-top:20px}
+.ern .fine{font-size:13px;color:var(--muted);margin:12px 0 0;text-align:center}
+.ern .err{color:#ff8a8a;font-size:14px;margin-top:10px;display:none}
+.ern [hidden]{display:none!important}
+/* thank-you state */
+.ern .done h3{color:var(--white)}
+.ern .done .step{border-top:1px solid var(--line);padding-top:16px;margin-top:16px}
+.ern .done ol{padding-left:20px;margin:8px 0 0}
+.ern .done li{margin-bottom:8px}
+.ern .waitlist-ask{background:var(--card2);border-radius:10px;padding:18px;margin-top:18px}
+.ern .waitlist-ask .btn{width:auto;margin:10px 10px 0 0}
+.ern .linkbtn{background:none;border:0;color:var(--muted);text-decoration:underline;cursor:pointer;font:14px var(--fb);padding:0}
+/* sample plans */
+.ern .tabs{display:flex;gap:8px;flex-wrap:wrap;margin:26px 0 18px}
+.ern .tab{font:700 20px/1 var(--fd);letter-spacing:.04em;background:transparent;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:10px 20px;cursor:pointer}
+.ern .tab[aria-selected=true]{background:var(--white);color:var(--navy);border-color:var(--white)}
+.ern .signs{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:18px}
+@media (max-width:560px){.ern .signs{grid-template-columns:repeat(2,1fr)}}
+.ern .sign{background:var(--navy);border:1px solid var(--line);border-radius:10px;padding:14px 16px}
+.ern .sign small{display:block;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.ern .sign strong{font:800 38px/1.1 var(--fd)}
+.ern .plan-meta{display:grid;grid-template-columns:1fr 1fr;gap:10px 24px;font-size:15px}
+@media (max-width:640px){.ern .plan-meta{grid-template-columns:1fr}}
+.ern .plan-meta b{display:block;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:2px}
+.ern .why{margin-top:22px;padding-top:18px;border-top:1px solid var(--line)}
+/* steps, videos, faq */
+.ern .three{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:28px}
+@media (max-width:760px){.ern .three{grid-template-columns:1fr}}
+.ern .num{font:800 44px/1 var(--fd);color:var(--blue)}
+.ern .vid{display:block;text-decoration:none}
+.ern .vid .views{font:800 34px/1 var(--fd);color:var(--gold)}
+.ern .quote{font-size:17px}
+.ern .placeholder{border:1px dashed rgba(201,164,82,.6);color:var(--gold);background:transparent}
+.ern .bar{display:grid;grid-template-columns:.8fr 1.2fr;gap:36px;align-items:center}
+@media (max-width:760px){.ern .bar{grid-template-columns:1fr}}
+.ern .bar img{width:100%;border-radius:14px;display:block;max-height:440px;object-fit:cover}
+.ern .chips{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0 22px}
+.ern .chip{border:1px solid var(--line);border-radius:999px;padding:6px 12px;font-size:14px}
+.ern .founders{display:grid;grid-template-columns:1fr 1.1fr;gap:36px;align-items:center}
+@media (max-width:760px){.ern .founders{grid-template-columns:1fr}}
+.ern .founders img{width:100%;border-radius:14px;display:block}
+.ern details{border-bottom:1px solid var(--line);padding:18px 0}
+.ern summary{cursor:pointer;font-weight:600;font-size:17px;list-style:none;display:flex;justify-content:space-between;gap:16px}
+.ern summary::-webkit-details-marker{display:none}
+.ern summary:after{content:"+";color:var(--blue);font-size:22px;line-height:1}
+.ern details[open] summary:after{content:"–"}
+.ern details p{margin:10px 0 0;color:var(--muted)}
+.ern .final{text-align:center}
+.ern .final .btn{margin-top:22px}
+.ern footer{border-top:1px solid var(--line);padding:32px 0 90px;font-size:14px;color:var(--muted)}
+.ern footer .wrap{display:flex;flex-wrap:wrap;gap:12px 24px;justify-content:space-between}
+.ern footer a{text-decoration:none}
+/* sticky mobile CTA, shown once the hero form is off screen */
+.ern .stick{position:fixed;left:0;right:0;bottom:0;padding:10px 16px calc(10px + env(safe-area-inset-bottom));background:rgba(7,16,42,.96);border-top:1px solid var(--line);display:none;z-index:30}
+.ern .stick .btn{width:100%}
+@media (max-width:860px){.ern .stick.on{display:block}}
+</style>
+</head>
+<body style="margin:0;background:#07102A">
+<div class="ern">
+
+<header class="top">
+  <div class="wrap">
+    <a class="logo" href="/">ERN<span>ENGINE ROOM NUTRITION</span></a>
+    <nav>
+      <a class="hide-m" href="#plans">Sample plans</a>
+      <a href="/pages/the-bar">The bar</a>
+      <a class="btn sm" href="#get-plan">Get my plan</a>
+    </nav>
+  </div>
+</header>
+
+<!-- HERO: the offer from the video, word for word -->
+<section class="hero">
+  <div class="wrap grid">
+    <div class="copy">
+      <div class="eyebrow">Free marathon pace plan</div>
+      <h1>Your marathon pace plan, worked out for your goal time</h1>
+      <p class="sub">Tell us your race and the time you're going for. Luke will email you the 4 times to hit at the 10K signs, in km and miles.</p>
+    </div>
+    <div class="more">
+      <ul class="ticks">
+        <li>Your time at the 10K, 20K, 30K and 40K signs</li>
+        <li>Your watch pace for each stage, with room for a portaloo stop</li>
+        <li>When to take each gel, and how many to carry</li>
+        <li>What to do if you're behind at halfway</li>
+      </ul>
+      <div class="proof"><span><b>840,000+</b> views on our marathon videos</span><span><b>480+</b> runners on the list</span></div>
+    </div>
+
+    <div class="card formcard" id="get-plan">
+      <form id="planForm" novalidate>
+        <h3>Get your free plan</h3>
+        <p class="muted" style="margin:0">Takes 20 seconds.</p>
+        <label for="pf-race">Your race</label>
+        <select id="pf-race" required>
+          <option value="">Pick your race</option>
+          <option>Dublin</option><option>Frankfurt</option><option>New York</option>
+          <option>Valencia</option><option>Seville</option><option>Barcelona</option>
+          <option>Paris</option><option>London</option><option>Manchester</option>
+          <option>Belfast</option><option>Cork</option><option>Other</option>
+        </select>
+        <div id="pf-other-wrap" hidden>
+          <label for="pf-other">Which race?</label>
+          <input id="pf-other" type="text" placeholder="e.g. Berlin, spring 2027">
+        </div>
+        <label for="pf-goal">Your goal time</label>
+        <select id="pf-goal" required></select>
+        <div class="row2">
+          <div><label for="pf-name">First name</label><input id="pf-name" type="text" autocomplete="given-name" required></div>
+          <div><label for="pf-email">Email</label><input id="pf-email" type="email" autocomplete="email" inputmode="email" required></div>
+        </div>
+        <button class="btn" type="submit">Send me my plan</button>
+        <div class="err" id="pf-err"></div>
+        <p class="fine">Free, no card. You'll get your plan, then our race emails. Unsubscribe in one click.</p>
+      </form>
+
+      <!-- shown after sign-up: deliver value now, then the one extra ask -->
+      <div class="done" id="planDone" hidden>
+        <div class="eyebrow">You're in</div>
+        <h3 id="doneTitle">Your plan is on its way</h3>
+        <p class="muted" style="margin-top:8px">It comes from Luke at Engine Room. If it isn't in your inbox within a day, check Promotions and spam, and add us to your contacts so race week emails land.</p>
+        <div class="step">
+          <b>While you wait, 3 things to do on race day:</b>
+          <ol>
+            <li>Run the first 10K 5 to 10 seconds a K slower than goal pace.</li>
+            <li>First gel at 20 minutes, then a 30g gel every 30 minutes, each with 3 or 4 sips of water.</li>
+            <li>Trust the clock at each 10K sign over the pace on your watch.</li>
+          </ol>
+        </div>
+        <div class="waitlist-ask" id="wlAsk">
+          <b>One more thing.</b> We're making a rice crisp carb bar for race morning, and the first batch is small. Want first go at it?
+          <div><button class="btn sm" id="wlYes" type="button">Yes, add me to the waitlist</button><button class="linkbtn" id="wlNo" type="button">No thanks</button></div>
+        </div>
+        <p id="wlThanks" hidden style="margin-top:14px">Done. You'll hear about the bar before anyone else.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- VALUE BEFORE THE ASK: the times from the videos, free -->
+<section id="plans">
+  <div class="wrap">
+    <div class="eyebrow">Free, no email needed</div>
+    <h2>At 10K you should be behind your goal time. Here's by how much.</h2>
+    <p class="muted" style="max-width:44em;margin-top:14px">These are the 4 times from our pacing videos. Pick yours. Your own plan is worked out for your exact goal and your course.</p>
+    <div class="tabs" role="tablist" id="tabs"></div>
+    <div class="card">
+      <div class="signs" id="signs"></div>
+      <div class="plan-meta" id="meta"></div>
+      <div class="why muted">Why behind at 10K? Going out 5 to 10 seconds a K slow costs you about a minute and saves the last 10K. Your watch also reads about 1% long in a race, so the time on the clock at each sign is the real check.</div>
+      <a class="btn" style="margin-top:20px" href="#get-plan" id="tabCta">Get my plan</a>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="eyebrow">How it works</div>
+    <h2>3 steps, about 20 seconds of your time</h2>
+    <div class="three">
+      <div class="card"><div class="num">1</div><h3>Tell us your race</h3><p class="muted">Your race and your goal time. If you don't have a goal yet, pick "Not sure" and we'll work one out from your last half.</p></div>
+      <div class="card"><div class="num">2</div><h3>Get your plan by email</h3><p class="muted">Luke works it out with the method from the videos and emails it to you. Reply with questions. A real person reads every one.</p></div>
+      <div class="card"><div class="num">3</div><h3>Write it on your arm</h3><p class="muted">4 times, one at each 10K sign. Check them as you pass. That's the whole race plan.</p></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="eyebrow">Where you found us</div>
+    <h2>The videos behind the plan</h2>
+    <div class="three">
+      <a class="card vid" href="https://www.instagram.com/engineroomnutrition/" target="_blank" rel="noopener"><div class="views">147K views</div><h3 style="margin-top:10px">Where the wall actually starts</h3><p class="muted">Hint: it isn't at 30K.</p></a>
+      <a class="card vid" href="https://www.instagram.com/engineroomnutrition/" target="_blank" rel="noopener"><div class="views">52.8K views</div><h3 style="margin-top:10px">How to carb load for a marathon</h3><p class="muted">Grams a day for your body weight.</p></a>
+      <a class="card vid" href="https://www.instagram.com/engineroomnutrition/" target="_blank" rel="noopener"><div class="views">29.1K views</div><h3 style="margin-top:10px">How to pace a 3:45 marathon</h3><p class="muted">Why the pacer is a minute ahead of you.</p></a>
+    </div>
+  </div>
+</section>
+
+<!-- PROOF: real replies only. Placeholders until Luke picks them (with permission). -->
+<section>
+  <div class="wrap">
+    <div class="eyebrow">From the inbox</div>
+    <h2>What runners said about their plan</h2>
+    <div class="three">
+      <div class="card placeholder quote">[Real reply 1, first name and race only, with permission]</div>
+      <div class="card placeholder quote">[Real reply 2]</div>
+      <div class="card placeholder quote">[Real reply 3]</div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap bar">
+    <img src="https://cdn.shopify.com/s/files/1/0935/2636/0394/files/bar-closeup.jpg" alt="The ERN rice crisp carb bar, close up" loading="lazy">
+    <div>
+      <div class="eyebrow">What we're making</div>
+      <h2>A rice crisp square, built for race morning</h2>
+      <p class="muted" style="margin-top:14px">Race morning is the hardest meal of the year. You're nervous, you're not hungry, and the start is hours after breakfast. So we're making the thing we wanted in the pen: a rice crisp square with the carbs counted.</p>
+      <div class="chips"><span class="chip">30g carbs</span><span class="chip">Rice, honey, sea salt</span><span class="chip">Eat it before the gun</span></div>
+      <a class="btn" href="/pages/the-bar">Join the bar waitlist</a>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap founders">
+    <img src="https://cdn.shopify.com/s/files/1/0935/2636/0394/files/founders.png" alt="Luke and Jamie at the finish of a race" loading="lazy">
+    <div>
+      <div class="eyebrow">Who's behind it</div>
+      <h2>2 accountants who made a carb bar</h2>
+      <p class="muted" style="margin-top:14px">We're Luke and Jamie. Between us we've done marathons, ultras and Hyrox, and we've hit the wall more than once. Most marathons go wrong in the first 10K, and almost always from going out too fast and fuelling too little.</p>
+      <p class="muted">So we started making short videos with the numbers we wished someone had given us. You asked for your own, and that's what the plan is.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap" style="max-width:760px">
+    <div class="eyebrow">Questions</div>
+    <h2>Before you ask</h2>
+    <div style="margin-top:18px">
+      <details><summary>Is it really free?</summary><p>Yes. No card, nothing to buy. You get your plan, then our race emails every week or two. Unsubscribe in one click.</p></details>
+      <details><summary>Who writes it?</summary><p>Luke does, using the same method as the videos: a slower first 10K, a few seconds a K in hand for your watch, and gel times on the clock.</p></details>
+      <details><summary>How fast will I get it?</summary><p>Usually within a day. Race week is busy, so ask early.</p></details>
+      <details><summary>I don't have a goal time.</summary><p>Pick "Not sure yet" and reply to our email with your last half marathon time. We'll work out a marathon goal from it.</p></details>
+      <details><summary>My race isn't listed.</summary><p>Pick "Other" and type it in. Any marathon works.</p></details>
+      <details><summary>Km or miles?</summary><p>Both. Every pace in your plan is in both.</p></details>
+      <details><summary>Are you selling something?</summary><p>Not yet. We're making a rice crisp carb bar for race morning. If you want first go at it, you can join the waitlist after you sign up. It's a separate tick, and it's up to you.</p></details>
+    </div>
+  </div>
+</section>
+
+<section class="final">
+  <div class="wrap">
+    <h2>Got a marathon coming up?</h2>
+    <p class="muted" style="margin-top:12px">Your race and your goal time is all we need.</p>
+    <a class="btn" href="#get-plan">Get my free plan</a>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <span>© 2026 Engine Room Nutrition</span>
+    <span><a href="https://www.instagram.com/engineroomnutrition/">Instagram</a> · <a href="https://www.tiktok.com/@engineroomnutrition">TikTok</a> · <a href="/blogs/newsletter">Newsletter archive</a> · <a href="/policies/privacy-policy">Privacy</a> · <a href="/policies/contact-information">Contact</a></span>
+  </div>
+</footer>
+
+<div class="stick" id="stick"><a class="btn" href="#get-plan">Get my free pace plan</a></div>
+</div>
+
+<script>
+(function(){
+  // Klaviyo set-up: company ID is the public site ID already on the live site.
+  // Paste the two list IDs from Klaviyo (Lists & segments > list > Settings).
+  // Until they're filled in the page runs in preview mode and sends nothing.
+  var KLAVIYO = { company: 'RhFsS3', planList: '', waitlistList: '' };
+
+  // The 4 sample plans, exactly as published in the videos and captions.
+  var PLANS = {
+    '3:30': { signs:['50:00','1:39','2:29','3:18'], first:'4:55 to 5:00 a K (7:55 to 8:05 a mile)', then:'4:50 to 4:55 a K (7:45 to 7:55 a mile) to 40K', last:'4:40 to 4:45 a K', carry:7 },
+    '3:45': { signs:['54:00','1:46','2:39','3:32'], first:'5:20 a K (8:35 a mile)', then:'5:13 a K (8:24 a mile) to 40K', last:'5:03 a K', carry:8 },
+    'Sub-4': { signs:['57:30','1:54','2:50','3:47'], first:'5:42 a K (9:10 a mile)', then:'5:35 a K (8:59 a mile) to 40K', last:'5:25 a K', carry:8 },
+    '4:30': { signs:['1:05','2:08','3:11','4:14'], first:'6:20 to 6:25 a K (10:10 to 10:20 a mile)', then:'6:10 to 6:15 a K (9:55 to 10:05 a mile) to 40K', last:'6:00 to 6:05 a K', carry:9, note:'Includes walking every drink station, about 20 seconds each.' }
+  };
+  var GOAL_FOR_TAB = { '3:30':'3:30', '3:45':'3:45', 'Sub-4':'3:59', '4:30':'4:30' };
+
+  var $ = function(id){ return document.getElementById(id); };
+
+  // goal time options: 3:00 to 5:30 in 5-minute steps
+  var goal = $('pf-goal');
+  goal.innerHTML = '<option value="">Pick your goal</option>';
+  for (var m = 180; m <= 330; m += 5) {
+    var t = Math.floor(m/60) + ':' + ('0' + m%60).slice(-2);
+    goal.innerHTML += '<option>' + t + '</option>';
+    if (m === 180) goal.innerHTML += '<option>2:59 (sub-3)</option>';
+    if (m === 240) goal.innerHTML += '<option>3:59 (sub-4)</option>';
+  }
+  goal.innerHTML += '<option>Over 5:30</option><option>Not sure yet</option>';
+
+  $('pf-race').addEventListener('change', function(){ $('pf-other-wrap').hidden = this.value !== 'Other'; });
+
+  // sample plan tabs
+  var tabs = $('tabs');
+  Object.keys(PLANS).forEach(function(k, i){
+    var b = document.createElement('button');
+    b.className = 'tab'; b.type = 'button'; b.setAttribute('role','tab'); b.textContent = k;
+    b.addEventListener('click', function(){ show(k); });
+    tabs.appendChild(b);
+  });
+  function show(k){
+    var p = PLANS[k];
+    [].forEach.call(tabs.children, function(b){ b.setAttribute('aria-selected', b.textContent === k); });
+    $('signs').innerHTML = ['10K','20K','30K','40K'].map(function(s, i){
+      return '<div class="sign"><small>' + s + ' sign</small><strong>' + p.signs[i] + '</strong></div>';
+    }).join('');
+    $('meta').innerHTML =
+      '<div><b>First 10K on your watch</b>' + p.first + '</div>' +
+      '<div><b>Then</b>' + p.then + ', last 2K ' + p.last + '</div>' +
+      '<div><b>Gels</b>30g at 20 minutes, then every 30 minutes. Carry ' + p.carry + '.</div>' +
+      '<div><b>Effort</b>"I am running a marathon today and I feel good": all 10 words in one breath to 10K.' + (p.note ? ' ' + p.note : '') + '</div>';
+    var cta = $('tabCta');
+    cta.textContent = 'Get my plan for ' + k + ' (or any goal)';
+    cta.onclick = function(){ goal.value = GOAL_FOR_TAB[k]; };
+  }
+  show('3:45');
+
+  function subscribe(listId, profile, source){
+    if (!listId) return new Promise(function(r){ setTimeout(r, 400); }); // preview mode
+    return fetch('https://a.klaviyo.com/client/subscriptions/?company_id=' + KLAVIYO.company, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/vnd.api+json', 'revision': '2024-10-15' },
+      body: JSON.stringify({ data: { type: 'subscription', attributes: {
+        custom_source: source,
+        profile: { data: { type: 'profile', attributes: profile } }
+      }, relationships: { list: { data: { type: 'list', id: listId } } } } })
+    }).then(function(r){ if (!r.ok) throw new Error('Klaviyo ' + r.status); });
+  }
+
+  var saved = null;
+  $('planForm').addEventListener('submit', function(e){
+    e.preventDefault();
+    var race = $('pf-race').value === 'Other' ? ($('pf-other').value.trim() || 'Other') : $('pf-race').value;
+    var name = $('pf-name').value.trim(), email = $('pf-email').value.trim(), g = goal.value;
+    var err = $('pf-err');
+    if (!race || !g || !name || !/^\S+@\S+\.\S+$/.test(email)) {
+      err.textContent = 'Fill in all 4 so we can work out your plan.'; err.style.display = 'block'; return;
+    }
+    err.style.display = 'none';
+    var btn = this.querySelector('button'); btn.disabled = true; btn.textContent = 'Sending…';
+    saved = { email: email, first_name: name, properties: { race: race, goal_time: g, plan_requested_at: new Date().toISOString() } };
+    subscribe(KLAVIYO.planList, saved, 'Pace plan page').then(function(){
+      $('planForm').hidden = true;
+      $('doneTitle').textContent = 'Thanks ' + name + ', your ' + (g === 'Not sure yet' ? '' : g + ' ') + 'plan for ' + race + ' is on its way';
+      $('planDone').hidden = false;
+      $('get-plan').scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }).catch(function(){
+      btn.disabled = false; btn.textContent = 'Send me my plan';
+      err.textContent = "That didn't go through. Try again, or DM us your race and goal time on Instagram.";
+      err.style.display = 'block';
+    });
+  });
+
+  // the second ask: explicit, separate consent for the bar waitlist
+  $('wlYes').addEventListener('click', function(){
+    this.disabled = true;
+    subscribe(KLAVIYO.waitlistList, { email: saved.email, first_name: saved.first_name, properties: { bar_waitlist: true } }, 'Pace plan thank-you')
+      .then(function(){ $('wlAsk').hidden = true; $('wlThanks').hidden = false; });
+  });
+  $('wlNo').addEventListener('click', function(){ $('wlAsk').hidden = true; });
+
+  // sticky mobile button once the hero form scrolls away
+  var stick = $('stick');
+  if ('IntersectionObserver' in window) {
+    new IntersectionObserver(function(es){ stick.classList.toggle('on', !es[0].isIntersecting && $('planDone').hidden); })
+      .observe($('get-plan'));
+  }
+})();
+</script>
+</body>
+</html>

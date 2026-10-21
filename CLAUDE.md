@@ -203,6 +203,7 @@ your marathon. 4:30 goes TikTok-only. Luke's goal: 1M lifetime IG views
 (840K on 19 Oct). Every pace in km and miles in captions (P129).
 
 Waiting on Luke: gel script FINAL v11 delivered (hook invites, P141; pain at 20K into a long run, P142; jellies and flavours in the caption) (`ideas/engine-room-nutrition/2026-10-21-script-gel.md`: drink your gel, squeezed into the 250ml station bottle; P140 one aha); emails per video (3:30, 4:30).
+Website v2 (21 Oct): `website/` (home = free pace plan page, /pages/the-bar = waitlist; README has install, Klaviyo and open questions). Waiting on Luke: plan turnaround, 3 real replies, bar pack image and price, FSAI check.
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
 
 Rejected topics: the last 10K (covered across six videos); anything

@@ -1,0 +1,300 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The ERN Bar | Engine Room Nutrition</title>
+<meta name="description" content="A rice crisp carb bar for race morning: 30g of carbs from rice, honey and sea salt. Join the waitlist for the first batch.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,700;0,800;1,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+/* ERN site v2 (21 Oct 2026). Everything is scoped to .ern so it can sit
+   inside the Shopify theme as a custom Liquid section without clashing. */
+.ern{--navy:#07102A;--card:#0D1838;--card2:#122150;--blue:#1E8FE8;--bluedk:#1268C0;--gold:#C9A452;--white:#F2F4F7;--muted:rgba(242,244,247,.66);--line:rgba(255,255,255,.09);--fd:'Barlow Condensed',system-ui,sans-serif;--fb:'Inter',system-ui,sans-serif;background:var(--navy);color:var(--white);font:16px/1.6 var(--fb);-webkit-font-smoothing:antialiased}
+.ern *{box-sizing:border-box}
+.ern a{color:inherit}
+.ern .wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+.ern h1,.ern h2,.ern h3{font-family:var(--fd);font-weight:800;text-transform:uppercase;letter-spacing:.01em;line-height:1.02;margin:0}
+.ern h1{font-size:clamp(40px,7vw,68px)}
+.ern h2{font-size:clamp(32px,5vw,48px)}
+.ern h3{font-size:24px}
+.ern p{margin:0 0 14px}
+.ern .eyebrow{font:600 13px/1 var(--fb);letter-spacing:.14em;text-transform:uppercase;color:var(--gold);margin-bottom:14px}
+.ern .muted{color:var(--muted)}
+.ern section{padding:72px 0;border-top:1px solid var(--line)}
+/* header */
+.ern .top{position:sticky;top:0;z-index:20;background:rgba(7,16,42,.94);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.ern .top .wrap{display:flex;align-items:center;justify-content:space-between;height:60px;gap:16px}
+.ern .logo{font:italic 800 26px/1 var(--fd);letter-spacing:.02em;text-decoration:none}
+.ern .logo span{font:500 11px/1 var(--fb);letter-spacing:.12em;margin-left:8px;color:var(--muted);font-style:normal}
+.ern nav{display:flex;align-items:center;gap:22px;font-size:14px}
+.ern nav a{text-decoration:none;color:var(--muted)}
+.ern nav a:hover{color:var(--white)}
+.ern .btn{display:inline-block;border:0;cursor:pointer;background:var(--blue);color:#fff;font:700 18px/1 var(--fd);letter-spacing:.06em;text-transform:uppercase;padding:16px 22px;border-radius:8px;text-decoration:none;text-align:center}
+.ern .btn:hover{background:var(--bluedk)}
+.ern .btn.sm{font-size:15px;padding:10px 14px}
+.ern .btn.ghost{background:transparent;border:1px solid var(--line)}
+@media (max-width:640px){.ern nav .hide-m,.ern .logo span{display:none}}
+.ern nav a{white-space:nowrap}
+.ern [id]{scroll-margin-top:76px}
+/* hero */
+.ern .hero{padding:48px 0 64px;border-top:0}
+.ern .hero .grid{display:grid;grid-template-columns:1.05fr .95fr;grid-template-areas:"copy form" "more form";column-gap:48px;align-items:start}
+.ern .hero .copy{grid-area:copy}.ern .hero .more{grid-area:more}.ern .hero .card{grid-area:form}
+@media (max-width:860px){.ern .hero .grid{grid-template-columns:1fr;grid-template-areas:"copy" "form" "more"}.ern .hero .more{margin-top:28px}}
+.ern .hero .sub{font-size:19px;color:var(--muted);margin:18px 0 22px;max-width:34em}
+.ern .ticks{list-style:none;padding:0;margin:0 0 22px}
+.ern .ticks li{padding:7px 0 7px 30px;position:relative}
+.ern .ticks li:before{content:"";position:absolute;left:0;top:13px;width:16px;height:9px;border-left:2.5px solid var(--blue);border-bottom:2.5px solid var(--blue);transform:rotate(-45deg)}
+.ern .proof{display:flex;flex-wrap:wrap;gap:8px 22px;font-size:14px;color:var(--muted)}
+.ern .proof b{color:var(--white);font-weight:600}
+/* form card */
+.ern .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:26px}
+.ern .formcard{box-shadow:0 20px 60px rgba(0,0,0,.35)}
+.ern .formcard h3{margin-bottom:6px}
+.ern label{display:block;font-size:13px;font-weight:600;color:var(--muted);margin:14px 0 6px}
+.ern input,.ern select{width:100%;font:16px var(--fb);color:var(--white);background:var(--navy);border:1px solid rgba(255,255,255,.16);border-radius:8px;padding:13px 14px;appearance:none}
+.ern select{background-image:linear-gradient(45deg,transparent 50%,var(--muted) 50%),linear-gradient(135deg,var(--muted) 50%,transparent 50%);background-position:calc(100% - 20px) 55%,calc(100% - 14px) 55%;background-size:6px 6px;background-repeat:no-repeat}
+.ern input:focus,.ern select:focus{outline:2px solid var(--blue);outline-offset:1px;border-color:transparent}
+.ern .row2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.ern .formcard .btn{width:100%;margin-top:20px}
+.ern .fine{font-size:13px;color:var(--muted);margin:12px 0 0;text-align:center}
+.ern .err{color:#ff8a8a;font-size:14px;margin-top:10px;display:none}
+.ern [hidden]{display:none!important}
+/* thank-you state */
+.ern .done h3{color:var(--white)}
+.ern .done .step{border-top:1px solid var(--line);padding-top:16px;margin-top:16px}
+.ern .done ol{padding-left:20px;margin:8px 0 0}
+.ern .done li{margin-bottom:8px}
+.ern .waitlist-ask{background:var(--card2);border-radius:10px;padding:18px;margin-top:18px}
+.ern .waitlist-ask .btn{width:auto;margin:10px 10px 0 0}
+.ern .linkbtn{background:none;border:0;color:var(--muted);text-decoration:underline;cursor:pointer;font:14px var(--fb);padding:0}
+/* sample plans */
+.ern .tabs{display:flex;gap:8px;flex-wrap:wrap;margin:26px 0 18px}
+.ern .tab{font:700 20px/1 var(--fd);letter-spacing:.04em;background:transparent;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:10px 20px;cursor:pointer}
+.ern .tab[aria-selected=true]{background:var(--white);color:var(--navy);border-color:var(--white)}
+.ern .signs{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:18px}
+@media (max-width:560px){.ern .signs{grid-template-columns:repeat(2,1fr)}}
+.ern .sign{background:var(--navy);border:1px solid var(--line);border-radius:10px;padding:14px 16px}
+.ern .sign small{display:block;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.ern .sign strong{font:800 38px/1.1 var(--fd)}
+.ern .plan-meta{display:grid;grid-template-columns:1fr 1fr;gap:10px 24px;font-size:15px}
+@media (max-width:640px){.ern .plan-meta{grid-template-columns:1fr}}
+.ern .plan-meta b{display:block;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:2px}
+.ern .why{margin-top:22px;padding-top:18px;border-top:1px solid var(--line)}
+/* steps, videos, faq */
+.ern .three{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:28px}
+@media (max-width:760px){.ern .three{grid-template-columns:1fr}}
+.ern .num{font:800 44px/1 var(--fd);color:var(--blue)}
+.ern .vid{display:block;text-decoration:none}
+.ern .vid .views{font:800 34px/1 var(--fd);color:var(--gold)}
+.ern .quote{font-size:17px}
+.ern .placeholder{border:1px dashed rgba(201,164,82,.6);color:var(--gold);background:transparent}
+.ern .bar{display:grid;grid-template-columns:.8fr 1.2fr;gap:36px;align-items:center}
+@media (max-width:760px){.ern .bar{grid-template-columns:1fr}}
+.ern .bar img{width:100%;border-radius:14px;display:block;max-height:440px;object-fit:cover}
+.ern .chips{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0 22px}
+.ern .chip{border:1px solid var(--line);border-radius:999px;padding:6px 12px;font-size:14px}
+.ern .founders{display:grid;grid-template-columns:1fr 1.1fr;gap:36px;align-items:center}
+@media (max-width:760px){.ern .founders{grid-template-columns:1fr}}
+.ern .founders img{width:100%;border-radius:14px;display:block}
+.ern details{border-bottom:1px solid var(--line);padding:18px 0}
+.ern summary{cursor:pointer;font-weight:600;font-size:17px;list-style:none;display:flex;justify-content:space-between;gap:16px}
+.ern summary::-webkit-details-marker{display:none}
+.ern summary:after{content:"+";color:var(--blue);font-size:22px;line-height:1}
+.ern details[open] summary:after{content:"–"}
+.ern details p{margin:10px 0 0;color:var(--muted)}
+.ern .final{text-align:center}
+.ern .final .btn{margin-top:22px}
+.ern footer{border-top:1px solid var(--line);padding:32px 0 90px;font-size:14px;color:var(--muted)}
+.ern footer .wrap{display:flex;flex-wrap:wrap;gap:12px 24px;justify-content:space-between}
+.ern footer a{text-decoration:none}
+/* sticky mobile CTA, shown once the hero form is off screen */
+.ern .stick{position:fixed;left:0;right:0;bottom:0;padding:10px 16px calc(10px + env(safe-area-inset-bottom));background:rgba(7,16,42,.96);border-top:1px solid var(--line);display:none;z-index:30}
+.ern .stick .btn{width:100%}
+@media (max-width:860px){.ern .stick.on{display:block}}
+</style>
+</head>
+<body style="margin:0;background:#07102A">
+<div class="ern">
+
+<header class="top">
+  <div class="wrap">
+    <a class="logo" href="/">ERN<span>ENGINE ROOM NUTRITION</span></a>
+    <nav>
+      <a href="/">Free pace plan</a>
+      <a class="btn sm" href="#join">Join the waitlist</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap grid">
+    <div class="copy">
+      <div class="eyebrow">The ERN bar · first batch</div>
+      <h1>A rice crisp square, built for race morning</h1>
+      <p class="sub">30g of carbs from rice, honey and sea salt. Eat it before the gun and keep your gels for the race.</p>
+    </div>
+    <div class="more">
+      <ul class="ticks">
+        <li>Tastes like the rice crisp square you had as a kid</li>
+        <li>30g of carbs, counted, in a bar about 40g</li>
+        <li>A short ingredient list you can read in one breath</li>
+        <li>Made in Ireland, in small batches</li>
+      </ul>
+    </div>
+    <div class="card formcard" id="join">
+      <form id="wlForm" novalidate>
+        <h3>Get first go at the first batch</h3>
+        <p class="muted" style="margin:0">The first batch is small. The waitlist hears first, with the founding price.</p>
+        <div class="row2">
+          <div><label for="wl-name">First name</label><input id="wl-name" type="text" autocomplete="given-name" required></div>
+          <div><label for="wl-email">Email</label><input id="wl-email" type="email" autocomplete="email" inputmode="email" required></div>
+        </div>
+        <button class="btn" type="submit">Put me on the waitlist</button>
+        <div class="err" id="wl-err"></div>
+        <p class="fine">Free to join, no card. Unsubscribe in one click.</p>
+      </form>
+      <div class="done" id="wlDone" hidden>
+        <div class="eyebrow">You're on the list</div>
+        <h3>You'll hear about the bar before anyone else</h3>
+        <div class="step">
+          <b>Got a marathon coming up?</b>
+          <p class="muted" style="margin-top:6px">Get your free pace plan: your time at every 10K sign, worked out for your goal.</p>
+          <a class="btn sm" href="/#get-plan">Get my free pace plan</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap bar">
+    <img src="https://cdn.shopify.com/s/files/1/0935/2636/0394/files/bar-closeup.jpg" alt="The ERN rice crisp carb bar, close up" loading="lazy">
+    <div>
+      <div class="eyebrow">Why we made it</div>
+      <h2>Race morning is the hardest meal of the year</h2>
+      <p class="muted" style="margin-top:14px">You're up at 6, you're nervous and you're not hungry. Breakfast was hours before the gun, and the start pen is no place for a bowl of porridge.</p>
+      <p class="muted">We wanted something you'd actually want to eat standing in the pen, that sits easy, with the carbs already counted. Nothing like it was on the shelf, so we started making it ourselves.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="eyebrow">When you eat it</div>
+    <h2>Before the run, never during it</h2>
+    <div class="three">
+      <div class="card"><h3>Race morning</h3><p class="muted">After breakfast, on the way to the start. 30g of carbs topped up before the gun.</p></div>
+      <div class="card"><h3>Before a long run</h3><p class="muted">Practise race morning on your Sunday long run, so nothing on the day is new.</p></div>
+      <div class="card"><h3>Gels for the race</h3><p class="muted">Once you're running, stick to your gels: 30g every 30 minutes with water. The bar does its job before the start.</p></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap" style="max-width:760px">
+    <div class="eyebrow">What's in it</div>
+    <h2>Short enough to read in the pen</h2>
+    <div class="chips" style="margin-top:20px">
+      <span class="chip">Crisped rice</span><span class="chip">Honey</span><span class="chip">Maple syrup</span><span class="chip">Sugar</span><span class="chip">Coconut oil</span><span class="chip">Beef gelatine</span><span class="chip">Sea salt</span><span class="chip">Vanilla</span>
+    </div>
+    <p class="muted">Rice gives you glucose and honey gives you fructose. Your gut takes the two in by different routes, so more carbs get in without sitting heavy. We're still testing the final recipe, and the waitlist gets the full label first.</p>
+    <p class="muted">The gelatine is beef, so the bar isn't vegetarian. We'd rather tell you now.</p>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="eyebrow">The Rice Crisp Graveyard</div>
+    <h2>We've binned a lot of batches</h2>
+    <p class="muted" style="max-width:44em;margin-top:14px">Keeping the inside crisp for weeks without adding anything you can't pronounce is the hard bit. Every failed batch goes on Instagram. Come and watch us get it right.</p>
+    <a class="btn ghost" href="https://www.instagram.com/engineroomnutrition/" target="_blank" rel="noopener">Watch on Instagram</a>
+  </div>
+</section>
+
+<section>
+  <div class="wrap founders">
+    <img src="https://cdn.shopify.com/s/files/1/0935/2636/0394/files/founders.png" alt="Luke and Jamie at the finish of a race" loading="lazy">
+    <div>
+      <div class="eyebrow">Who's making it</div>
+      <h2>2 accountants who made a carb bar</h2>
+      <p class="muted" style="margin-top:14px">We're Luke and Jamie. Between us we've done marathons, ultras and Hyrox. We make the marathon videos you may have seen, and we're making this bar because we wanted it ourselves.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap" style="max-width:760px">
+    <div class="eyebrow">Questions</div>
+    <h2>Before you ask</h2>
+    <div style="margin-top:18px">
+      <details><summary>When can I buy it?</summary><p>When the first batch is ready. The waitlist gets the date first, before we post it anywhere.</p></details>
+      <details><summary>How much will it cost?</summary><p>We'll tell the waitlist first. Everyone on it gets the founding price.</p></details>
+      <details><summary>Where do you ship?</summary><p>[Ireland first. Confirm before publishing.]</p></details>
+      <details><summary>Can I eat it during the race?</summary><p>We don't recommend it. Chewing at race pace is hard work. Eat the bar before the start and use gels once you're running.</p></details>
+      <details><summary>Allergens?</summary><p>Contains beef gelatine. The full allergen label goes to the waitlist with the final recipe.</p></details>
+    </div>
+  </div>
+</section>
+
+<section class="final">
+  <div class="wrap">
+    <h2>The first batch is small</h2>
+    <p class="muted" style="margin-top:12px">Get on the list and you'll hear first.</p>
+    <a class="btn" href="#join">Join the waitlist</a>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <span>© 2026 Engine Room Nutrition</span>
+    <span><a href="https://www.instagram.com/engineroomnutrition/">Instagram</a> · <a href="https://www.tiktok.com/@engineroomnutrition">TikTok</a> · <a href="/blogs/newsletter">Newsletter archive</a> · <a href="/policies/privacy-policy">Privacy</a> · <a href="/policies/contact-information">Contact</a></span>
+  </div>
+</footer>
+
+<div class="stick" id="stick"><a class="btn" href="#join">Join the bar waitlist</a></div>
+</div>
+
+<script>
+(function(){
+  // Same Klaviyo set-up as the home page. Paste the waitlist list ID;
+  // until then the page runs in preview mode and sends nothing.
+  var KLAVIYO = { company: 'RhFsS3', waitlistList: '' };
+  var $ = function(id){ return document.getElementById(id); };
+
+  function subscribe(listId, profile, source){
+    if (!listId) return new Promise(function(r){ setTimeout(r, 400); });
+    return fetch('https://a.klaviyo.com/client/subscriptions/?company_id=' + KLAVIYO.company, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/vnd.api+json', 'revision': '2024-10-15' },
+      body: JSON.stringify({ data: { type: 'subscription', attributes: {
+        custom_source: source,
+        profile: { data: { type: 'profile', attributes: profile } }
+      }, relationships: { list: { data: { type: 'list', id: listId } } } } })
+    }).then(function(r){ if (!r.ok) throw new Error('Klaviyo ' + r.status); });
+  }
+
+  $('wlForm').addEventListener('submit', function(e){
+    e.preventDefault();
+    var name = $('wl-name').value.trim(), email = $('wl-email').value.trim(), err = $('wl-err');
+    if (!name || !/^\S+@\S+\.\S+$/.test(email)) { err.textContent = 'Add your first name and email.'; err.style.display = 'block'; return; }
+    err.style.display = 'none';
+    var btn = this.querySelector('button'); btn.disabled = true; btn.textContent = 'Adding you…';
+    subscribe(KLAVIYO.waitlistList, { email: email, first_name: name, properties: { bar_waitlist: true } }, 'Bar page').then(function(){
+      $('wlForm').hidden = true; $('wlDone').hidden = false;
+    }).catch(function(){
+      btn.disabled = false; btn.textContent = 'Put me on the waitlist';
+      err.textContent = "That didn't go through. Try again in a minute."; err.style.display = 'block';
+    });
+  });
+
+  var stick = $('stick');
+  if ('IntersectionObserver' in window) {
+    new IntersectionObserver(function(es){ stick.classList.toggle('on', !es[0].isIntersecting && $('wlDone').hidden); }).observe($('join'));
+  }
+})();
+</script>
+</body>
+</html>
