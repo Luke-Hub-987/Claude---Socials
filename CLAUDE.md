@@ -201,7 +201,7 @@ your half marathon time into a marathon goal (incl. after illness). Fri 23
 your marathon. 4:30 goes TikTok-only. Luke's goal: 1M lifetime IG views
 (840K on 19 Oct). Every pace in km and miles in captions (P129).
 
-Waiting on Luke: go on the 1M plan (`ideas/2026-10-21-1M-analysis.md`: the 30-day window peaks around 25-26 Oct, then the wall drops out; Thu goal gone at 25K, Fri wall remake, Sat night before, Sat 8pm race morning); emails per video come from the list's sign-up dates.
+Waiting on Luke: go on the race weekend plan (`ideas/engine-room-nutrition/2026-10-22-race-weekend-plan.md`: Thu goal gone at 25K, Fri start pen, Sat enjoy + Sat 8pm sleep, Mon walk); brief for Thu below in chat; spring pivot from 27 Oct.
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
 
 Rejected topics: the last 10K (covered across six videos); anything
