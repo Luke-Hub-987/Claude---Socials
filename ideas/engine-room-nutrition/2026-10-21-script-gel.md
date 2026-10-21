@@ -4,7 +4,7 @@ brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-21
 slot: VIEWS (Wed 21), demand-led: inbox theme 1, "gel for marathon" 351K TikTok searches
 basis: brief 2026-10-21-brief-gel-v2.md (Luke: yes; stations hand out 250ml bottles), FACTS.md, P120, P124, P126, P130 to P140
-status: FINAL v9 (drink your gel). Earlier versions (flavour order, bar, watch beeps, clock tolerance) replaced: no aha (Luke, P140)
+status: FINAL v10 (drink your gel; hook reworded to invite, not push, P141). v9 Earlier versions (flavour order, bar, watch beeps, clock tolerance) replaced: no aha (Luke, P140)
 teleprompter: 2026-10-21-teleprompter-gel.txt
 ---
 
@@ -20,19 +20,18 @@ teleprompter: 2026-10-21-teleprompter-gel.txt
 3. THE NEXT 2K: SIP IT ALL
 4. 30K TO THE LINE: WHY IT WORKS
 
-## How the curiosity runs
+## How the curiosity runs (v10 hook, Luke 21 Oct: helpful not pushy, say who it's for, respect the sceptic, P141)
 | Moment | Line | What it does |
 |---|---|---|
-| Line one | "...you should never eat another gel, you should drink it, and that's how the late ones stop being a fight." | The aha up front as a counter-position; the "how" is withheld |
-| Pain | "...hacking it down between breaths, thick and sickly sweet... sloshing with every step... watching your time go." | The emails' own words (P135) |
-| Dream | "...sipping something that tastes like a sports drink, legs still turning over, picking people off one lamppost at a time." | Three pictures |
-| Named unknown | "...a reason it sits better in your stomach as well." | Held to the last stage |
-| Stage 1 | Schedule, landed on a station | Aligned with FACTS.md (P137) |
-| CTA (P128) | "Want your whole race planned like this?" | A third of the way in; "Back to the station" |
-| Stage 2 | 3 sips first, squeeze it in, shake | The practical step that makes it work (a full bottle has no room) |
-| Stage 3 | Sip it over 2K, finish before the next gel | The amount: if the bottle's not gone, the carbs aren't either |
-| Rehook | "So why does the same gel sit so much better in a bottle?" | Reopens the named unknown |
-| Payoff | "...arrives already mixed, a mouthful at a time." | Why it works |
+| Gate + line one | "...and gels are a struggle by 30K, try drinking your next one instead of eating it. It's the same gel, in the water you were going to drink anyway." | Narrow gate (the topic is narrow); an invitation, not a ban; value in the first 10 seconds; the reframe answers the sceptic (same gel) |
+| Pain | "You know the moment. 30K... hacking it down between breaths... sloshing with every step... watching your time go." | The emails' words, as one scene |
+| Dream | "Now picture 38K... sipping something that tastes like a sports drink... picking people off one lamppost at a time." | The opposite scene |
+| Sceptic + named unknown | "It sounds odd, but there's a simple reason it sits better." | Says what they're thinking; holds the reason to the last stage |
+| Save prompt for everyone else | "And if gels go down fine for you now, save this for the day they don't." | Keeps the people it isn't for yet: a plan B for race day |
+| CTA (P128) | "Want your whole race planned like this?" | A third of the way in |
+| Stage 2 | 3 sips first, then squeeze it in | The practical step |
+| Rehook | "So why does the same gel sit so much better in a bottle?" | Reopens the reason |
+| Payoff | "...arrives already mixed, a mouthful at a time." | The reason |
 
 **P120 pre-flight:** disagree (everyone eats gels); can't guess how (squeezing
 it into the bottle); picture (a gel squeezed into a water bottle); why held
@@ -40,12 +39,14 @@ to the last stage. **P130/P133/P134/P135:** gels and the station bottles
 they'll be handed; no food; every detail real. **P140:** the aha solves the
 texture complaint in the emails.
 
-## Script (330 words, about 1:40)
-If you're running a marathon in the next few weeks, you should never eat another gel, you should drink it, and that's how the late ones stop being a fight.
+## Script (about 345 words, about 1:43)
+If you're running a marathon in the next few weeks and gels are a struggle by 30K, try drinking your next one instead of eating it. It's the same gel, in the water you were going to drink anyway.
 
-You're at 30K, the next gel's due, and you're hacking it down between breaths, thick and sickly sweet. 10 minutes later it's sloshing with every step and you're walking through a drink station, watching your time go. Drink it instead, and at 38K you're sipping something that tastes like a sports drink, legs still turning over, picking people off one lamppost at a time.
+You know the moment. 30K, the next gel's due, it's thick and sickly sweet, and you're hacking it down between breaths. 10 minutes later it's sloshing with every step and you're walking through a drink station, watching your time go.
 
-And there's a reason it sits better in your stomach as well. Save this.
+Now picture 38K. You're sipping something that tastes like a sports drink, your legs are still turning over, and you're picking people off one lamppost at a time.
+
+It sounds odd, but there's a simple reason it sits better. And if gels go down fine for you now, save this for the day they don't.
 
 Your first 30g gel goes in at 20 minutes, then one every 30 minutes, which is 60g of carbs an hour. Land each one on a water station, give or take 5 minutes. When it's due, you take it. No "I'll wait till I feel like it".
 
@@ -80,7 +81,7 @@ Your stomach was always going to get the gel and the water together. Eat it, and
 | One lamppost at a time | Consistency line |
 
 ## Caption (final)
-Can't face another gel in a marathon? Stop eating them. Drink them.
+Can't face another gel by 30K? Try drinking your next one instead of eating it. It's the same gel, in the water you were going to drink anyway. If gels go down fine for you, keep doing what works and save this for the day they don't.
 
 Your first 30g gel goes in at 20 minutes, then one every 30 minutes, which is 60g of carbs an hour: 0:20, 0:50, 1:20, 1:50, 2:20, 2:50, 3:20 and 3:50. Land each one on a water station, give or take 5 minutes. Using 40g gels? One every 40 minutes.
 

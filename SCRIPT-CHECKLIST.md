@@ -93,6 +93,9 @@ twice without being checked against the winners (P99).
 - [ ] **One aha that solves their actual problem (P140, Luke 21 Oct):**
       their complaint in their words, the thing they don't know that removes
       it. "Would they think: that's my problem solved?" Coping tips fail.
+- [ ] **Invite, don't decree (P141, Luke 21 Oct):** for a narrow problem,
+      the gate names who it's for; line one invites ("try..."); say the
+      sceptic's thought; "save this for the day it isn't fine" keeps the rest.
 - [ ] **Line one is a counter-position, not a big number** (P120, Luke
       16 Oct): "a dozen bagels a day" was a fact with no curiosity. Line
       one says something runners would argue with, leaves a question,

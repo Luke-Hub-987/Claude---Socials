@@ -4913,6 +4913,29 @@ already knew.
 
 *Source: Luke, 21 October.*
 
+## P141 — Invite, don't decree; say who it's for; answer the sceptic
+
+Luke, 21 October, on the drink-your-gel hook ("you should never eat another
+gel, you should drink it"): too much of a push. Someone who's fine with gels
+reads it and disagrees; someone who struggles is sceptical of a method few
+people know. Be helpful: name the pain, make them see it, give the dream,
+give value fast.
+
+**The rule:**
+- When the method is for a group (people who struggle with gels), the gate
+  says so ("...and gels are a struggle by 30K"). This is a narrow gate for a
+  narrow topic, not sorting viewers (P103).
+- Line one invites ("try drinking your next one") instead of banning ("never
+  eat another gel"). Big claims about unfamiliar methods lose the sceptic.
+- Say the sceptic's thought out loud ("It sounds odd, but...") and give the
+  reason later.
+- Keep everyone else: "if it's fine for you now, save this for the day it
+  isn't."
+- The reframe can do the trust job ("It's the same gel, in the water you
+  were going to drink anyway").
+
+*Source: Luke, 21 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
