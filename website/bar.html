@@ -3,297 +3,336 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>The ERN Bar | Engine Room Nutrition</title>
-<meta name="description" content="A rice crisp carb bar for race morning: 30g of carbs from rice, honey and sea salt. Join the waitlist for the first batch.">
+<title>The ERN Carb Bar | Engine Room Nutrition</title>
+<meta name="description" content="The ERN Carb Bar: 30g of carbs in a rice crisp square, made in Ireland for race morning. Join the waitlist for the first batch.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,700;0,800;1,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,700;0,800;1,800&family=DM+Serif+Display:ital@0;1&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="ern.css">
 <style>
-/* ERN site v2 (21 Oct 2026). Everything is scoped to .ern so it can sit
-   inside the Shopify theme as a custom Liquid section without clashing. */
-.ern{--navy:#07102A;--card:#0D1838;--card2:#122150;--blue:#1E8FE8;--bluedk:#1268C0;--gold:#C9A452;--white:#F2F4F7;--muted:rgba(242,244,247,.66);--line:rgba(255,255,255,.09);--fd:'Barlow Condensed',system-ui,sans-serif;--fb:'Inter',system-ui,sans-serif;background:var(--navy);color:var(--white);font:16px/1.6 var(--fb);-webkit-font-smoothing:antialiased}
-.ern *{box-sizing:border-box}
-.ern a{color:inherit}
-.ern .wrap{max-width:1080px;margin:0 auto;padding:0 20px}
-.ern h1,.ern h2,.ern h3{font-family:var(--fd);font-weight:800;text-transform:uppercase;letter-spacing:.01em;line-height:1.02;margin:0}
-.ern h1{font-size:clamp(40px,7vw,68px)}
-.ern h2{font-size:clamp(32px,5vw,48px)}
-.ern h3{font-size:24px}
-.ern p{margin:0 0 14px}
-.ern .eyebrow{font:600 13px/1 var(--fb);letter-spacing:.14em;text-transform:uppercase;color:var(--gold);margin-bottom:14px}
-.ern .muted{color:var(--muted)}
-.ern section{padding:72px 0;border-top:1px solid var(--line)}
-/* header */
-.ern .top{position:sticky;top:0;z-index:20;background:rgba(7,16,42,.94);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
-.ern .top .wrap{display:flex;align-items:center;justify-content:space-between;height:60px;gap:16px}
-.ern .logo{font:italic 800 26px/1 var(--fd);letter-spacing:.02em;text-decoration:none}
-.ern .logo span{font:500 11px/1 var(--fb);letter-spacing:.12em;margin-left:8px;color:var(--muted);font-style:normal}
-.ern nav{display:flex;align-items:center;gap:22px;font-size:14px}
-.ern nav a{text-decoration:none;color:var(--muted)}
-.ern nav a:hover{color:var(--white)}
-.ern .btn{display:inline-block;border:0;cursor:pointer;background:var(--blue);color:#fff;font:700 18px/1 var(--fd);letter-spacing:.06em;text-transform:uppercase;padding:16px 22px;border-radius:8px;text-decoration:none;text-align:center}
-.ern .btn:hover{background:var(--bluedk)}
-.ern .btn.sm{font-size:15px;padding:10px 14px}
-.ern .btn.ghost{background:transparent;border:1px solid var(--line)}
-@media (max-width:640px){.ern nav .hide-m,.ern .logo span{display:none}}
-.ern nav a{white-space:nowrap}
-.ern [id]{scroll-margin-top:76px}
-/* hero */
-.ern .hero{padding:48px 0 64px;border-top:0}
-.ern .hero .grid{display:grid;grid-template-columns:1.05fr .95fr;grid-template-areas:"copy form" "more form";column-gap:48px;align-items:start}
-.ern .hero .copy{grid-area:copy}.ern .hero .more{grid-area:more}.ern .hero .card{grid-area:form}
-@media (max-width:860px){.ern .hero .grid{grid-template-columns:1fr;grid-template-areas:"copy" "form" "more"}.ern .hero .more{margin-top:28px}}
-.ern .hero .sub{font-size:19px;color:var(--muted);margin:18px 0 22px;max-width:34em}
-.ern .ticks{list-style:none;padding:0;margin:0 0 22px}
-.ern .ticks li{padding:7px 0 7px 30px;position:relative}
-.ern .ticks li:before{content:"";position:absolute;left:0;top:13px;width:16px;height:9px;border-left:2.5px solid var(--blue);border-bottom:2.5px solid var(--blue);transform:rotate(-45deg)}
-.ern .proof{display:flex;flex-wrap:wrap;gap:8px 22px;font-size:14px;color:var(--muted)}
-.ern .proof b{color:var(--white);font-weight:600}
-/* form card */
-.ern .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:26px}
-.ern .formcard{box-shadow:0 20px 60px rgba(0,0,0,.35)}
-.ern .formcard h3{margin-bottom:6px}
-.ern label{display:block;font-size:13px;font-weight:600;color:var(--muted);margin:14px 0 6px}
-.ern input,.ern select{width:100%;font:16px var(--fb);color:var(--white);background:var(--navy);border:1px solid rgba(255,255,255,.16);border-radius:8px;padding:13px 14px;appearance:none}
-.ern select{background-image:linear-gradient(45deg,transparent 50%,var(--muted) 50%),linear-gradient(135deg,var(--muted) 50%,transparent 50%);background-position:calc(100% - 20px) 55%,calc(100% - 14px) 55%;background-size:6px 6px;background-repeat:no-repeat}
-.ern input:focus,.ern select:focus{outline:2px solid var(--blue);outline-offset:1px;border-color:transparent}
-.ern .row2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
-.ern .formcard .btn{width:100%;margin-top:20px}
-.ern .fine{font-size:13px;color:var(--muted);margin:12px 0 0;text-align:center}
-.ern .err{color:#ff8a8a;font-size:14px;margin-top:10px;display:none}
-.ern [hidden]{display:none!important}
-/* thank-you state */
-.ern .done h3{color:var(--white)}
-.ern .done .step{border-top:1px solid var(--line);padding-top:16px;margin-top:16px}
-.ern .done ol{padding-left:20px;margin:8px 0 0}
-.ern .done li{margin-bottom:8px}
-.ern .waitlist-ask{background:var(--card2);border-radius:10px;padding:18px;margin-top:18px}
-.ern .waitlist-ask .btn{width:auto;margin:10px 10px 0 0}
-.ern .linkbtn{background:none;border:0;color:var(--muted);text-decoration:underline;cursor:pointer;font:14px var(--fb);padding:0}
-/* sample plans */
-.ern .tabs{display:flex;gap:8px;flex-wrap:wrap;margin:26px 0 18px}
-.ern .tab{font:700 20px/1 var(--fd);letter-spacing:.04em;background:transparent;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:10px 20px;cursor:pointer}
-.ern .tab[aria-selected=true]{background:var(--white);color:var(--navy);border-color:var(--white)}
-.ern .signs{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:18px}
-@media (max-width:560px){.ern .signs{grid-template-columns:repeat(2,1fr)}}
-.ern .sign{background:var(--navy);border:1px solid var(--line);border-radius:10px;padding:14px 16px}
-.ern .sign small{display:block;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
-.ern .sign strong{font:800 38px/1.1 var(--fd)}
-.ern .plan-meta{display:grid;grid-template-columns:1fr 1fr;gap:10px 24px;font-size:15px}
-@media (max-width:640px){.ern .plan-meta{grid-template-columns:1fr}}
-.ern .plan-meta b{display:block;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:2px}
-.ern .why{margin-top:22px;padding-top:18px;border-top:1px solid var(--line)}
-/* steps, videos, faq */
-.ern .three{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:28px}
-@media (max-width:760px){.ern .three{grid-template-columns:1fr}}
-.ern .num{font:800 44px/1 var(--fd);color:var(--blue)}
-.ern .vid{display:block;text-decoration:none}
-.ern .vid .views{font:800 34px/1 var(--fd);color:var(--gold)}
-.ern .quote{font-size:17px}
-.ern .placeholder{border:1px dashed rgba(201,164,82,.6);color:var(--gold);background:transparent}
-.ern .bar{display:grid;grid-template-columns:.8fr 1.2fr;gap:36px;align-items:center}
-@media (max-width:760px){.ern .bar{grid-template-columns:1fr}}
-.ern .bar img{width:100%;border-radius:14px;display:block;max-height:440px;object-fit:cover}
-.ern .chips{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0 22px}
-.ern .chip{border:1px solid var(--line);border-radius:999px;padding:6px 12px;font-size:14px}
-.ern .founders{display:grid;grid-template-columns:1fr 1.1fr;gap:36px;align-items:center}
-@media (max-width:760px){.ern .founders{grid-template-columns:1fr}}
-.ern .founders img{width:100%;border-radius:14px;display:block}
-.ern details{border-bottom:1px solid var(--line);padding:18px 0}
-.ern summary{cursor:pointer;font-weight:600;font-size:17px;list-style:none;display:flex;justify-content:space-between;gap:16px}
-.ern summary::-webkit-details-marker{display:none}
-.ern summary:after{content:"+";color:var(--blue);font-size:22px;line-height:1}
-.ern details[open] summary:after{content:"–"}
-.ern details p{margin:10px 0 0;color:var(--muted)}
-.ern .final{text-align:center}
+/* ---------- bar page only ---------- */
+.ern .bhero{background:var(--blue);color:#fff;padding:64px 0 120px;overflow:hidden}
+.ern .bhero:after{content:"";position:absolute;left:0;right:0;bottom:0;height:60px;background:var(--cream);clip-path:polygon(0 100%,100% 0,100% 100%)}
+.ern .bhero .grid{display:grid;grid-template-columns:1fr 1.05fr;gap:40px;align-items:center}
+@media (max-width:960px){.ern .bhero .grid{grid-template-columns:1fr}.ern .bhero .art{order:-1}}
+.ern .bhero .kicker{color:#fff}
+.ern .bhero h1 em{color:#fff;opacity:.9}
+.ern .bhero .lede{color:rgba(255,255,255,.9);margin:20px 0 28px}
+.ern .bhero .label{color:var(--ink);max-width:520px}
+.ern .bhero .label .band{background:var(--ink)}
+.ern .bhero .label .band:after{background:var(--ink)}
+.ern .perks{list-style:none;padding:0;margin:22px 0 0;display:grid;gap:8px;font-weight:500}
+.ern .perks li{padding-left:30px;position:relative}
+.ern .perks li:before{content:"✓";position:absolute;left:0;top:0;width:20px;height:20px;border-radius:50%;background:#fff;color:var(--blue);display:grid;place-items:center;font:800 13px var(--fb);margin-top:3px}
+.ern .art{position:relative;min-height:420px;display:grid;place-items:center}
+@media (max-width:960px){.ern .art{min-height:300px}}
+.ern .art .plate{position:absolute;width:min(560px,92%);aspect-ratio:1;border-radius:50%;background:url(assets/rice-texture.jpg) center/cover;box-shadow:inset 0 0 0 14px rgba(255,255,255,.18),0 40px 80px -20px rgba(0,0,0,.35)}
+.ern .art .pack{position:relative;width:min(600px,100%);--r:-8deg;transform:rotate(-8deg);filter:drop-shadow(0 40px 40px rgba(10,23,41,.45))}
+.ern .art .s1{left:2%;top:4%}
+.ern .art .s2{right:2%;bottom:2%;transform:rotate(10deg);width:118px;height:118px;font-size:16px}
+@media (max-width:600px){.ern .art .sticker{transform:scale(.72) rotate(-12deg)}.ern .art .s1{left:-10px;top:-10px}.ern .art .s2{right:-10px;bottom:-14px}}
+
+/* nutrition strip, like the bottom band of the pack */
+.ern .nut{background:var(--cream);padding:36px 0 30px}
+.ern .nutband{background:var(--blue);color:#fff;border-radius:20px;display:grid;grid-template-columns:1.4fr repeat(4,1fr);align-items:center;padding:22px 10px;position:relative}
+.ern .nutband:before{content:"";position:absolute;left:0;right:0;top:-10px;height:4px;background:var(--blue);border-radius:4px}
+.ern .nutband div{text-align:center;font:800 18px/1 var(--fd);letter-spacing:.08em;text-transform:uppercase;border-left:3px solid rgba(255,255,255,.45);padding:6px}
+.ern .nutband div:first-child{border:0;font-size:22px}
+.ern .nutband b{display:block;font:800 40px/1 var(--fd);letter-spacing:0;margin-bottom:4px}
+.ern .nutband div:first-child b{font-size:76px;display:inline;margin-right:8px}
+@media (max-width:760px){.ern .nutband{grid-template-columns:repeat(4,1fr)}.ern .nutband div:first-child{grid-column:1/-1;border:0;padding-bottom:16px}.ern .nutband div:nth-child(2){border-left:0}.ern .nutband b{font-size:30px}.ern .nutband div{font-size:14px}}
+.ern .nut .small{font-size:13px;color:var(--muted);text-align:center;margin:14px 0 0}
+
+/* race morning timeline */
+.ern .tl{display:grid;grid-template-columns:repeat(4,1fr);gap:0;margin-top:56px;position:relative}
+.ern .tl:before{content:"";position:absolute;left:12%;right:12%;top:38px;height:4px;background:repeating-linear-gradient(90deg,var(--ink) 0 14px,transparent 14px 24px)}
+.ern .tl .st{text-align:center;padding:0 14px;position:relative}
+.ern .tl .dot{width:80px;height:80px;border-radius:50%;margin:0 auto 18px;display:grid;place-items:center;background:#fff;border:4px solid var(--ink);font:800 21px/1 var(--fd);position:relative;z-index:1}
+.ern .tl .st.on .dot{background:var(--blue);border-color:var(--blue);color:#fff;width:96px;height:96px;margin-top:-8px;box-shadow:0 0 0 10px rgba(36,133,230,.18)}
+.ern .tl h3{margin-bottom:8px}
+.ern .tl p{color:var(--ink-2);font-size:16px;margin:0}
+.ern .tl .st.on h3{color:var(--blue)}
+@media (max-width:860px){
+  .ern .tl{grid-template-columns:1fr;gap:26px}
+  .ern .tl:before{left:38px;right:auto;top:20px;bottom:20px;width:4px;height:auto;background:repeating-linear-gradient(180deg,var(--ink) 0 14px,transparent 14px 24px)}
+  .ern .tl .st{text-align:left;display:grid;grid-template-columns:80px 1fr;gap:18px;align-items:center;padding:0}
+  .ern .tl .dot,.ern .tl .st.on .dot{margin:0}
+  .ern .tl .st.on .dot{width:80px;height:80px}
+}
+
+/* ingredients */
+.ern .ing{display:grid;grid-template-columns:1fr 1fr;gap:64px;align-items:center}
+@media (max-width:960px){.ern .ing{grid-template-columns:1fr;gap:40px}}
+.ern .ing .photo{position:relative}
+.ern .ing .photo img{border-radius:28px;transform:rotate(-2deg);box-shadow:0 40px 70px -30px rgba(10,23,41,.5)}
+.ern .ing .photo .sticker{right:-14px;top:-24px}
+.ern .list{list-style:none;padding:0;margin:28px 0 0;columns:2;column-gap:28px}
+@media (max-width:520px){.ern .list{columns:1}}
+.ern .list li{break-inside:avoid;padding:12px 0;border-top:1px solid var(--line)}
+.ern .list b{display:block;font:800 20px/1.1 var(--fd);text-transform:uppercase;letter-spacing:.03em}
+.ern .list span{font-size:15px;color:var(--muted)}
+
+/* before vs during */
+.ern .split{display:grid;grid-template-columns:1fr 1fr;gap:0;border-radius:28px;overflow:hidden;margin-top:48px;box-shadow:0 30px 70px -30px rgba(10,23,41,.3)}
+@media (max-width:760px){.ern .split{grid-template-columns:1fr}}
+.ern .split > div{padding:40px}
+.ern .split .a{background:var(--blue);color:#fff}
+.ern .split .b{background:#fff}
+.ern .split h3{font:400 38px/1.05 var(--fs);text-transform:none;letter-spacing:0;margin:8px 0 14px}
+.ern .split .tag{font:800 15px var(--fd);letter-spacing:.14em;text-transform:uppercase;opacity:.8}
+.ern .split p{margin:0}
+.ern .split .a p{color:rgba(255,255,255,.9)}
+
+/* graveyard */
+.ern .yard{display:grid;grid-template-columns:repeat(4,1fr);gap:22px;margin:52px 0 40px}
+@media (max-width:860px){.ern .yard{grid-template-columns:1fr 1fr}}
+.ern .yard figure{background:#fff;padding:10px 10px 44px;border-radius:4px;box-shadow:0 20px 40px -20px rgba(10,23,41,.4);position:relative;margin:0}
+.ern .yard figure:nth-child(1){transform:rotate(-3deg)}.ern .yard figure:nth-child(2){transform:rotate(2deg) translateY(10px)}
+.ern .yard figure:nth-child(3){transform:rotate(-1.5deg)}.ern .yard figure:nth-child(4){transform:rotate(3deg) translateY(6px)}
+.ern .yard .slot{aspect-ratio:1;border-radius:2px;font-size:13px}
+.ern .yard figcaption{position:absolute;bottom:12px;left:0;right:0;text-align:center;font:800 italic 18px var(--fd);color:var(--ink-2)}
+.ern .rip{font:400 italic 22px var(--fs);color:var(--rice)}
+
+/* founders */
+.ern .fnd{display:grid;grid-template-columns:.9fr 1.1fr;gap:64px;align-items:center}
+@media (max-width:960px){.ern .fnd{grid-template-columns:1fr;gap:40px}}
+.ern .fnd .polaroid{background:#fff;padding:14px 14px 56px;border-radius:6px;box-shadow:0 30px 60px -24px rgba(10,23,41,.4);transform:rotate(-2.5deg);position:relative;margin:0}
+.ern .fnd .polaroid .slot{aspect-ratio:1;border-radius:2px}
+.ern .fnd .polaroid figcaption{position:absolute;left:0;right:0;bottom:16px;text-align:center;font:800 italic 22px var(--fd);color:var(--ink-2)}
+.ern .fnd .tape{top:-12px;left:40%;transform:rotate(3deg)}
+.ern .sig{font:400 italic 30px var(--fs);color:var(--blue);margin-top:8px}
+
+/* final */
+.ern .final{background:url(assets/rice-texture.jpg) center/cover;padding:120px 0}
+.ern .final .label{max-width:720px;margin:0 auto;text-align:center}
+.ern .final .label .band{justify-content:center}
+.ern .final .label .body{padding:48px 32px}
 .ern .final .btn{margin-top:22px}
-.ern footer{border-top:1px solid var(--line);padding:32px 0 90px;font-size:14px;color:var(--muted)}
-.ern footer .wrap{display:flex;flex-wrap:wrap;gap:12px 24px;justify-content:space-between}
-.ern footer a{text-decoration:none}
-/* sticky mobile CTA, shown once the hero form is off screen */
-.ern .stick{position:fixed;left:0;right:0;bottom:0;padding:10px 16px calc(10px + env(safe-area-inset-bottom));background:rgba(7,16,42,.96);border-top:1px solid var(--line);display:none;z-index:30}
-.ern .stick .btn{width:100%}
-@media (max-width:860px){.ern .stick.on{display:block}}
 </style>
 </head>
-<body style="margin:0;background:#07102A">
+<body style="margin:0">
 <div class="ern">
 
 <header class="top">
   <div class="wrap">
-    <a class="logo" href="/">ERN<span>ENGINE ROOM NUTRITION</span></a>
+    <a class="logo" href="index.html" aria-label="Engine Room Nutrition home"><img src="assets/ern-logo.png" alt="ERN Engine Room Nutrition"></a>
     <nav>
-      <a href="/">Free pace plan</a>
-      <a class="btn sm" href="#join">Join the waitlist</a>
+      <a class="hide-m" href="#inside">What's in it</a>
+      <a href="index.html">Free pace plan</a>
+      <a class="btn sm hide-m" href="#join">Join the waitlist</a>
     </nav>
   </div>
 </header>
 
-<section class="hero">
+<!-- 1. HERO -->
+<section class="bhero">
   <div class="wrap grid">
-    <div class="copy">
-      <div class="eyebrow">The ERN bar · first batch</div>
-      <h1>A rice crisp square, built for race morning</h1>
-      <p class="sub">30g of carbs from rice, honey and sea salt. Eat it before the gun and keep your gels for the race.</p>
-    </div>
-    <div class="more">
-      <ul class="ticks">
-        <li>Tastes like the rice crisp square you had as a kid</li>
-        <li>30g of carbs, counted, in a bar about 40g</li>
-        <li>A short ingredient list you can read in one breath</li>
-        <li>Made in Ireland, in small batches</li>
+    <div>
+      <div class="kicker">Coming soon · first batch</div>
+      <h1>The Carb Bar. <em>Race morning, sorted.</em></h1>
+      <p class="lede">30g of carbs in a rice crisp square, made in Ireland. Eat it before the gun, so the first hour of your race isn't running on a breakfast you had at six.</p>
+      <div class="label" id="join">
+        <div class="band">Waitlist · first go at the first batch</div>
+        <div class="body">
+          <form id="wlForm" novalidate>
+            <div class="row2">
+              <div class="field"><label class="f" for="wl-name">First name</label><input id="wl-name" type="text" autocomplete="given-name" required></div>
+              <div class="field"><label class="f" for="wl-email">Email</label><input id="wl-email" type="email" autocomplete="email" inputmode="email" required></div>
+            </div>
+            <button class="btn" type="submit">Put me on the waitlist <span class="arr">→</span></button>
+            <div class="err" id="wl-err"></div>
+            <p class="fine">Free to join, no card. Unsubscribe in one click.</p>
+          </form>
+          <div class="done" id="wlDone" hidden>
+            <div style="width:54px;height:54px;border-radius:50%;background:#2DBE6C;color:#fff;display:grid;place-items:center;font-size:28px;margin-bottom:14px">✓</div>
+            <h3 style="font:400 30px/1.1 var(--fs);text-transform:none;letter-spacing:0">You're on the list.</h3>
+            <p class="muted" style="margin-top:10px">You'll hear about the bar before anyone else.</p>
+            <p style="margin:0"><b>Got a marathon coming up?</b> Get your free pace plan: your time at every 10K sign, worked out for your goal.</p>
+            <a class="btn sm" style="margin-top:14px" href="index.html#get-plan">Get my free pace plan</a>
+          </div>
+        </div>
+      </div>
+      <ul class="perks">
+        <li>First go at the first batch, before it's posted anywhere</li>
+        <li>The founding price, for everyone on the list</li>
+        <li>The full label and launch date first</li>
       </ul>
     </div>
-    <div class="card formcard" id="join">
-      <form id="wlForm" novalidate>
-        <h3>Get first go at the first batch</h3>
-        <p class="muted" style="margin:0">The first batch is small. The waitlist hears first, with the founding price.</p>
-        <div class="row2">
-          <div><label for="wl-name">First name</label><input id="wl-name" type="text" autocomplete="given-name" required></div>
-          <div><label for="wl-email">Email</label><input id="wl-email" type="email" autocomplete="email" inputmode="email" required></div>
-        </div>
-        <button class="btn" type="submit">Put me on the waitlist</button>
-        <div class="err" id="wl-err"></div>
-        <p class="fine">Free to join, no card. Unsubscribe in one click.</p>
-      </form>
-      <div class="done" id="wlDone" hidden>
-        <div class="eyebrow">You're on the list</div>
-        <h3>You'll hear about the bar before anyone else</h3>
-        <div class="step">
-          <b>Got a marathon coming up?</b>
-          <p class="muted" style="margin-top:6px">Get your free pace plan: your time at every 10K sign, worked out for your goal.</p>
-          <a class="btn sm" href="/#get-plan">Get my free pace plan</a>
-        </div>
+    <div class="art">
+      <div class="plate"></div>
+      <img class="pack float" src="assets/ern-carb-bar-pack.webp" alt="The ERN Carb Bar pack: 30g carbs, made in Ireland">
+      <div class="sticker s1"><div><b>30g</b>carbs</div></div>
+      <div class="sticker blue s2" style="background:#fff;color:var(--ink)"><div>Made in<br><b style="font-size:30px">Ireland</b></div></div>
+    </div>
+  </div>
+</section>
+
+<!-- 2. THE NUMBERS, straight off the pack -->
+<div class="nut">
+  <div class="wrap">
+    <div class="nutband rv">
+      <div><b>30g</b>carbs</div>
+      <div><b>&lt;1g</b>fat</div>
+      <div><b>&lt;1g</b>protein</div>
+      <div><b>&lt;1g</b>fibre</div>
+      <div><b>~40g</b>bar</div>
+    </div>
+    <p class="small">Per bar. Final figures confirmed by lab testing before launch.</p>
+  </div>
+</div>
+
+<!-- 3. WHEN: the race morning timeline -->
+<section style="background:var(--cream);padding-top:72px">
+  <div class="wrap">
+    <div class="center rv">
+      <div class="kicker">When you eat it</div>
+      <h2>Race morning is the hardest <em>meal of the year.</em></h2>
+      <p class="lede" style="margin-top:18px">You're nervous, you're not hungry, and the gun is hours after breakfast. The bar fills the gap.</p>
+    </div>
+    <div class="tl rv">
+      <div class="st"><div class="dot">−3:00</div><div><h3>Breakfast</h3><p>Your usual, the one you've tested on long runs.</p></div></div>
+      <div class="st on"><div class="dot">−0:45</div><div><h3>The Carb Bar</h3><p>In the start pen or on the way. 30g of carbs, easy on a nervous stomach.</p></div></div>
+      <div class="st"><div class="dot">0:00</div><div><h3>The gun</h3><p>First 10K 5 to 10 seconds a K slower than goal.</p></div></div>
+      <div class="st"><div class="dot">+0:20</div><div><h3>First gel</h3><p>Then 30g every 30 minutes, with water.</p></div></div>
+    </div>
+  </div>
+</section>
+
+<!-- 4. WHAT'S IN IT -->
+<section id="inside" style="background:var(--paper)">
+  <div class="wrap ing">
+    <div class="photo rv">
+      <img src="assets/bar-closeup.jpg" alt="Close-up of the ERN Carb Bar">
+      <div class="sticker"><div>8<br>ingredients</div></div>
+    </div>
+    <div class="rv">
+      <div class="kicker">What's in it</div>
+      <h2>Short enough to read <em>in the start pen.</em></h2>
+      <ul class="list">
+        <li><b>Crisped rice</b><span>The crunch, and most of the carbs</span></li>
+        <li><b>Honey</b><span>Glucose and fructose, which your gut takes in by different routes</span></li>
+        <li><b>Maple syrup</b><span>Flavour, and more fast carbs</span></li>
+        <li><b>Sugar</b><span>Binds it, and it's quick fuel</span></li>
+        <li><b>Coconut oil</b><span>Coats the rice so it stays crisp</span></li>
+        <li><b>Beef gelatine</b><span>Holds it together. Not vegetarian, sorry</span></li>
+        <li><b>Sea salt</b><span>Taste, and a little sodium</span></li>
+        <li><b>Vanilla</b><span>Because it's a rice crisp square</span></li>
+      </ul>
+      <p class="muted" style="margin-top:18px;font-size:15px">Final recipe in testing. The waitlist gets the full label first.</p>
+    </div>
+  </div>
+</section>
+
+<!-- 5. BAR BEFORE, GELS DURING -->
+<section style="background:var(--cream)">
+  <div class="wrap">
+    <div class="center rv">
+      <div class="kicker">How it fits</div>
+      <h2>The bar before the gun. <em>Gels after it.</em></h2>
+    </div>
+    <div class="split rv">
+      <div class="a"><div class="tag">In the start pen</div><h3>Something you can actually eat</h3><p>Nerves kill your appetite, and porridge doesn't sit well an hour out. A rice crisp square does. 30g of carbs, counted, so your first hour runs on a full tank.</p></div>
+      <div class="b"><div class="tag">Once you're running</div><h3>Stick to your gels</h3><p>Chewing at race pace is hard work. From 20 minutes in, it's 30g of gel every 30 minutes with water, like in our videos. The bar has done its job by then.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- 6. THE RICE CRISP GRAVEYARD -->
+<section style="background:var(--paper)">
+  <div class="wrap center">
+    <div class="rv">
+      <div class="kicker">The Rice Crisp Graveyard</div>
+      <h2>We've binned <em>a lot</em> of batches.</h2>
+      <p class="lede" style="margin-top:18px">Keeping the inside crisp for weeks without adding anything you can't pronounce is the hard bit. Every failed batch goes on Instagram.</p>
+    </div>
+    <div class="yard rv">
+      <figure><div class="slot"><img src="" alt=""><span class="brief">Failed batch photo</span></div><figcaption>Ep. 1</figcaption></figure>
+      <figure><div class="slot"><img src="" alt=""><span class="brief">Failed batch photo</span></div><figcaption>Ep. 2</figcaption></figure>
+      <figure><div class="slot"><img src="" alt=""><span class="brief">Failed batch photo</span></div><figcaption>Ep. 3</figcaption></figure>
+      <figure><div class="slot"><img src="" alt=""><span class="brief">Failed batch photo</span></div><figcaption>Ep. 4</figcaption></figure>
+    </div>
+    <p class="rip rv">Rest in pieces.</p>
+    <a class="btn ink" href="https://www.instagram.com/engineroomnutrition/" target="_blank" rel="noopener">Watch on Instagram <span class="arr">→</span></a>
+  </div>
+</section>
+
+<!-- 7. WHO'S MAKING IT -->
+<section style="background:var(--cream)">
+  <div class="wrap fnd">
+    <figure class="polaroid rv"><span class="tape"></span>
+      <div class="slot"><img src="assets/founders.jpg" alt="Luke and Jamie"><span class="brief">Photo: Luke and Jamie, ideally in the kitchen with a tray of bars</span></div>
+      <figcaption>Luke &amp; Jamie</figcaption>
+    </figure>
+    <div class="rv">
+      <div class="kicker">Who's making it</div>
+      <h2>2 accountants who <em>made a carb bar.</em></h2>
+      <p class="lede" style="margin-top:20px">We're Luke and Jamie. We've done marathons, ultras and Hyrox, and we've stood in a lot of start pens with nothing we wanted to eat.</p>
+      <p class="muted">We make the marathon videos you may have seen, and we're making this bar because we wanted it ourselves. Ask us anything about it. We read every reply.</p>
+      <div class="sig">Luke &amp; Jamie</div>
+    </div>
+  </div>
+</section>
+
+<!-- 8. FAQ -->
+<section style="background:var(--paper)">
+  <div class="wrap faq">
+    <div class="rv">
+      <div class="kicker">Questions</div>
+      <h2>Before <em>you ask.</em></h2>
+    </div>
+    <div class="rv">
+      <details open><summary>When can I buy it?</summary><p>When the first batch is ready. The waitlist gets the date first, before we post it anywhere.</p></details>
+      <details><summary>How much will it cost?</summary><p>We'll tell the waitlist first. Everyone on it gets the founding price.</p></details>
+      <details><summary>Where do you ship?</summary><p>[Confirm before publishing: Ireland first?]</p></details>
+      <details><summary>Can I eat it during the race?</summary><p>We wouldn't. Chewing at race pace is hard work. Eat the bar before the start and use gels once you're running.</p></details>
+      <details><summary>Is it vegetarian?</summary><p>No. The gelatine is beef. The full allergen label goes to the waitlist with the final recipe.</p></details>
+    </div>
+  </div>
+</section>
+
+<!-- 9. FINAL CTA -->
+<section class="final">
+  <div class="wrap">
+    <div class="label rv">
+      <div class="band">Simple fuel for serious performance · Made in Ireland</div>
+      <div class="body">
+        <h2>The first batch <em>is small.</em></h2>
+        <p class="lede" style="margin:12px auto 0">Get on the list and you'll hear first, with the founding price.</p>
+        <a class="btn" href="#join">Join the waitlist <span class="arr">→</span></a>
       </div>
     </div>
   </div>
 </section>
 
-<section>
-  <div class="wrap bar">
-    <img src="https://cdn.shopify.com/s/files/1/0935/2636/0394/files/bar-closeup.jpg" alt="The ERN rice crisp carb bar, close up" loading="lazy">
-    <div>
-      <div class="eyebrow">Why we made it</div>
-      <h2>Race morning is the hardest meal of the year</h2>
-      <p class="muted" style="margin-top:14px">You're up at 6, you're nervous and you're not hungry. Breakfast was hours before the gun, and the start pen is no place for a bowl of porridge.</p>
-      <p class="muted">We wanted something you'd actually want to eat standing in the pen, that sits easy, with the carbs already counted. Nothing like it was on the shelf, so we started making it ourselves.</p>
-    </div>
-  </div>
-</section>
-
-<section>
-  <div class="wrap">
-    <div class="eyebrow">When you eat it</div>
-    <h2>Before the run, never during it</h2>
-    <div class="three">
-      <div class="card"><h3>Race morning</h3><p class="muted">After breakfast, on the way to the start. 30g of carbs topped up before the gun.</p></div>
-      <div class="card"><h3>Before a long run</h3><p class="muted">Practise race morning on your Sunday long run, so nothing on the day is new.</p></div>
-      <div class="card"><h3>Gels for the race</h3><p class="muted">Once you're running, stick to your gels: 30g every 30 minutes with water. The bar does its job before the start.</p></div>
-    </div>
-  </div>
-</section>
-
-<section>
-  <div class="wrap" style="max-width:760px">
-    <div class="eyebrow">What's in it</div>
-    <h2>Short enough to read in the pen</h2>
-    <div class="chips" style="margin-top:20px">
-      <span class="chip">Crisped rice</span><span class="chip">Honey</span><span class="chip">Maple syrup</span><span class="chip">Sugar</span><span class="chip">Coconut oil</span><span class="chip">Beef gelatine</span><span class="chip">Sea salt</span><span class="chip">Vanilla</span>
-    </div>
-    <p class="muted">Rice gives you glucose and honey gives you fructose. Your gut takes the two in by different routes, so more carbs get in without sitting heavy. We're still testing the final recipe, and the waitlist gets the full label first.</p>
-    <p class="muted">The gelatine is beef, so the bar isn't vegetarian. We'd rather tell you now.</p>
-  </div>
-</section>
-
-<section>
-  <div class="wrap">
-    <div class="eyebrow">The Rice Crisp Graveyard</div>
-    <h2>We've binned a lot of batches</h2>
-    <p class="muted" style="max-width:44em;margin-top:14px">Keeping the inside crisp for weeks without adding anything you can't pronounce is the hard bit. Every failed batch goes on Instagram. Come and watch us get it right.</p>
-    <a class="btn ghost" href="https://www.instagram.com/engineroomnutrition/" target="_blank" rel="noopener">Watch on Instagram</a>
-  </div>
-</section>
-
-<section>
-  <div class="wrap founders">
-    <img src="https://cdn.shopify.com/s/files/1/0935/2636/0394/files/founders.png" alt="Luke and Jamie at the finish of a race" loading="lazy">
-    <div>
-      <div class="eyebrow">Who's making it</div>
-      <h2>2 accountants who made a carb bar</h2>
-      <p class="muted" style="margin-top:14px">We're Luke and Jamie. Between us we've done marathons, ultras and Hyrox. We make the marathon videos you may have seen, and we're making this bar because we wanted it ourselves.</p>
-    </div>
-  </div>
-</section>
-
-<section>
-  <div class="wrap" style="max-width:760px">
-    <div class="eyebrow">Questions</div>
-    <h2>Before you ask</h2>
-    <div style="margin-top:18px">
-      <details><summary>When can I buy it?</summary><p>When the first batch is ready. The waitlist gets the date first, before we post it anywhere.</p></details>
-      <details><summary>How much will it cost?</summary><p>We'll tell the waitlist first. Everyone on it gets the founding price.</p></details>
-      <details><summary>Where do you ship?</summary><p>[Ireland first. Confirm before publishing.]</p></details>
-      <details><summary>Can I eat it during the race?</summary><p>We don't recommend it. Chewing at race pace is hard work. Eat the bar before the start and use gels once you're running.</p></details>
-      <details><summary>Allergens?</summary><p>Contains beef gelatine. The full allergen label goes to the waitlist with the final recipe.</p></details>
-    </div>
-  </div>
-</section>
-
-<section class="final">
-  <div class="wrap">
-    <h2>The first batch is small</h2>
-    <p class="muted" style="margin-top:12px">Get on the list and you'll hear first.</p>
-    <a class="btn" href="#join">Join the waitlist</a>
-  </div>
-</section>
-
 <footer>
   <div class="wrap">
-    <span>© 2026 Engine Room Nutrition</span>
-    <span><a href="https://www.instagram.com/engineroomnutrition/">Instagram</a> · <a href="https://www.tiktok.com/@engineroomnutrition">TikTok</a> · <a href="/blogs/newsletter">Newsletter archive</a> · <a href="/policies/privacy-policy">Privacy</a> · <a href="/policies/contact-information">Contact</a></span>
+    <img src="assets/ern-logo.png" alt="ERN Engine Room Nutrition">
+    <nav><a href="https://www.instagram.com/engineroomnutrition/">Instagram</a><a href="https://www.tiktok.com/@engineroomnutrition">TikTok</a><a href="index.html">Free pace plan</a><a href="/blogs/newsletter">Newsletter archive</a><a href="/policies/privacy-policy">Privacy</a><a href="/policies/contact-information">Contact</a></nav>
+    <span>© 2026 Engine Room Nutrition · Made in Ireland</span>
   </div>
 </footer>
 
-<div class="stick" id="stick"><a class="btn" href="#join">Join the bar waitlist</a></div>
+<div class="stick"><a class="btn" href="#join">Join the waitlist <span class="arr">→</span></a></div>
 </div>
 
+<script src="ern.js"></script>
 <script>
 (function(){
-  // Same Klaviyo set-up as the home page. Paste the waitlist list ID;
-  // until then the page runs in preview mode and sends nothing.
-  var KLAVIYO = { company: 'RhFsS3', waitlistList: '' };
   var $ = function(id){ return document.getElementById(id); };
-
-  function subscribe(listId, profile, source){
-    if (!listId) return new Promise(function(r){ setTimeout(r, 400); });
-    return fetch('https://a.klaviyo.com/client/subscriptions/?company_id=' + KLAVIYO.company, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/vnd.api+json', 'revision': '2024-10-15' },
-      body: JSON.stringify({ data: { type: 'subscription', attributes: {
-        custom_source: source,
-        profile: { data: { type: 'profile', attributes: profile } }
-      }, relationships: { list: { data: { type: 'list', id: listId } } } } })
-    }).then(function(r){ if (!r.ok) throw new Error('Klaviyo ' + r.status); });
-  }
-
   $('wlForm').addEventListener('submit', function(e){
     e.preventDefault();
     var name = $('wl-name').value.trim(), email = $('wl-email').value.trim(), err = $('wl-err');
-    if (!name || !/^\S+@\S+\.\S+$/.test(email)) { err.textContent = 'Add your first name and email.'; err.style.display = 'block'; return; }
+    if (!name || !ERN.validEmail(email)) { err.textContent = 'Add your first name and email.'; err.style.display = 'block'; return; }
     err.style.display = 'none';
     var btn = this.querySelector('button'); btn.disabled = true; btn.textContent = 'Adding you…';
-    subscribe(KLAVIYO.waitlistList, { email: email, first_name: name, properties: { bar_waitlist: true } }, 'Bar page').then(function(){
+    ERN.subscribe('waitlistList', { email: email, first_name: name, properties: { bar_waitlist: true } }, 'Bar page').then(function(){
       $('wlForm').hidden = true; $('wlDone').hidden = false;
     }).catch(function(){
-      btn.disabled = false; btn.textContent = 'Put me on the waitlist';
+      btn.disabled = false; btn.innerHTML = 'Put me on the waitlist <span class="arr">→</span>';
       err.textContent = "That didn't go through. Try again in a minute."; err.style.display = 'block';
     });
   });
-
-  var stick = $('stick');
-  if ('IntersectionObserver' in window) {
-    new IntersectionObserver(function(es){ stick.classList.toggle('on', !es[0].isIntersecting && $('wlDone').hidden); }).observe($('join'));
-  }
+  ERN.sticky('join', 'wlDone');
 })();
 </script>
 </body>
