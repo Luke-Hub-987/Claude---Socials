@@ -83,6 +83,16 @@
 .ern .split p{margin:0}
 .ern .split .a p{color:rgba(255,255,255,.9)}
 
+.ern .vsbag{width:100%;border-collapse:collapse;font-size:16px;margin-top:40px;background:#fff;border-radius:20px;overflow:hidden;box-shadow:0 30px 70px -30px rgba(10,23,41,.3)}
+.ern .vsbag th{font:800 17px var(--fd);letter-spacing:.06em;text-transform:uppercase;color:var(--ink-2);padding:18px 10px;text-align:center}
+.ern .vsbag th:first-child{text-align:left;padding-left:24px}
+.ern .vsbag td{border-top:1px solid var(--line);padding:16px 10px;text-align:center}
+.ern .vsbag td:first-child{text-align:left;font-weight:600;padding-left:24px}
+.ern .vsbag .us{background:var(--blue);color:#fff;font-weight:700}
+.ern .vsbag th.us{color:#fff}
+.ern .y{color:#2DBE6C;font-weight:800;font-size:20px}.ern .n{color:#C9BFAE;font-weight:800;font-size:20px}
+.ern .vsbag .us.y{color:#fff}
+@media (max-width:640px){.ern .vsbag{font-size:13px}.ern .vsbag th{font-size:13px;padding:12px 4px}.ern .vsbag td{padding:12px 4px}.ern .vsbag td:first-child,.ern .vsbag th:first-child{padding-left:12px}}
 /* graveyard */
 .ern .yard{display:grid;grid-template-columns:repeat(4,1fr);gap:22px;margin:52px 0 40px}
 @media (max-width:860px){.ern .yard{grid-template-columns:1fr 1fr}}
@@ -223,16 +233,29 @@
   </div>
 </section>
 
-<!-- 5. BAR BEFORE, GELS DURING -->
+<!-- 5. WHY IT'S DIFFERENT: against what's actually in the kit bag -->
 <section style="background:var(--cream)">
   <div class="wrap">
     <div class="center rv">
-      <div class="kicker">How it fits</div>
-      <h2>The bar before the gun. <em>Gels after it.</em></h2>
+      <div class="kicker">Why it's different</div>
+      <h2>What's in your kit bag <em>at 7am?</em></h2>
+      <p class="lede" style="margin-top:16px">Most race mornings run on whatever survived the hotel breakfast. Here's how the options stack up an hour before the gun.</p>
+    </div>
+    <div class="rv" style="overflow-x:auto">
+      <table class="vsbag">
+        <thead><tr><th></th><th class="us">ERN Carb Bar</th><th>Banana</th><th>Porridge</th><th>Gel in the pen</th></tr></thead>
+        <tbody>
+          <tr><td>Carbs, counted</td><td class="us">30g</td><td>about 25g, depends on the banana</td><td>needs a kettle and a bowl</td><td>20 to 40g</td></tr>
+          <tr><td>Eats like food when you're nervous</td><td class="us y">✓</td><td class="y">✓</td><td class="y">✓</td><td class="n">✕</td></tr>
+          <tr><td>Survives a squashed kit bag</td><td class="us y">✓</td><td class="n">✕</td><td class="n">✕</td><td class="y">✓</td></tr>
+          <tr><td>Tastes like a treat</td><td class="us y">✓</td><td class="n">✕</td><td class="n">✕</td><td class="n">✕</td></tr>
+          <tr><td>Short ingredient list</td><td class="us">8 ingredients</td><td class="y">✓</td><td class="y">✓</td><td>varies</td></tr>
+        </tbody>
+      </table>
     </div>
     <div class="split rv">
-      <div class="a"><div class="tag">In the start pen</div><h3>Something you can actually eat</h3><p>Nerves kill your appetite, and porridge doesn't sit well an hour out. A rice crisp square does. 30g of carbs, counted, so your first hour runs on a full tank.</p></div>
-      <div class="b"><div class="tag">Once you're running</div><h3>Stick to your gels</h3><p>Chewing at race pace is hard work. From 20 minutes in, it's 30g of gel every 30 minutes with water, like in our videos. The bar has done its job by then.</p></div>
+      <div class="a"><div class="tag">Before the gun</div><h3>The bar</h3><p>Nerves kill your appetite, and porridge doesn't sit well an hour out. A rice crisp square does. 30g of carbs, counted, so your first hour runs on a full tank.</p></div>
+      <div class="b"><div class="tag">After the gun</div><h3>Your gels</h3><p>Chewing at race pace is hard work. From 20 minutes in, it's 30g of gel every 30 minutes with water, like in our videos. The bar has done its job by then.</p></div>
     </div>
   </div>
 </section>

@@ -1,98 +1,138 @@
-# ERN website v3 (21 Oct 2026)
+# ERN website v4 (21 Oct 2026)
 
-Light, bright redesign built on the Carb Bar pack: ERN blue bands with the
-double rule, the serif "Carb Bar" face (DM Serif Display), Barlow Condensed
-for labels and numbers, and the rice crisp texture.
+Light and bright, built on the Carb Bar pack. v4 goes deeper, not bigger:
+the plan shows **on screen the moment someone gives their email**, the
+proof is real results, and we're upfront about spam.
 
 | File | What it is |
 |---|---|
-| `index.html` | **Home page** = the free marathon pace plan. All Instagram and TikTok traffic lands here |
+| `index.html` | **Home** = the free marathon pace plan. All Instagram and TikTok traffic lands here |
 | `bar.html` | **/pages/the-bar** = the Carb Bar waitlist |
-| `ern.css`, `ern.js` | Shared styles and behaviour (Klaviyo, scroll reveals, sticky mobile button) |
+| `plan.js` | The pace plan engine: the video method as code (table below) |
+| `ern.css`, `ern.js` | Shared styles; Klaviyo, scroll reveals, sticky mobile button |
 | `assets/` | Logo, pack cut-out, rice texture, bar close-up, founders photo |
+| `BRIEF-v4.md` | The deeper brief: raw material, methods, what proves it right |
 
-Brief and diagnosis of the old site: `ideas/engine-room-nutrition/2026-10-21-landing-page-pace-plan.md`.
+## The flow (home page)
 
-## The funnel
+1. **Race countdown bar** (dynamic): "Dublin and Frankfurt are in 4 days".
+   Rolls to New York, then hides. Add races to `RACES` in `index.html`.
+2. **Hero:** proof first (900K+ views, 100+ plans, 18,700 saves), the offer,
+   the form (race, goal, email, first name optional) and a spam warning
+   before they submit. Next to it, a **live preview**: the course map follows
+   the goal they pick, the 10K time is free, the other 3 are blurred.
+3. **After the email:** the full plan builds on the page: 4 sign times, watch
+   pace per stage in km and miles, effort, a gel timeline, what to do if you
+   lose time. Then **Save to lock screen** (a phone-sized image) and **Print a
+   pace band** (4 strips to cut out). Then the "probably in the wrong folder"
+   box with Gmail, Outlook and iPhone steps. Then the bar waitlist, one tap.
+   If Klaviyo fails, they still get the plan.
+4. **Proof:** 3 results as message cards, names left out (P143). Tally below.
+5. **Why it works:** one even pace vs your plan.
+6. **The Carb Bar:** what's in your kit bag at 7am (bar vs banana vs porridge
+   vs gel), with an email field to join the waitlist right there.
+7. **Who we are**, **FAQ** (incl. "I never got the email"), **final CTA**.
 
-```
-Video CTA -> Home: race + goal + name + email           (yes 1: the list)
-          -> thank-you: 3 race-day rules, then one tap
-             "want first go at the bar?"                (yes 2: the waitlist, its own consent)
-          -> welcome email -> Luke's plan -> reply
-Bar page: waitlist form -> "got a marathon? get your plan"
-```
+## The plan engine: check this table (Luke)
 
-## Home page, top to bottom (and why)
+The 4 goals from videos return the published numbers. Every other goal uses
+the same method: 0-10K in the 5-second band containing goal pace (behind on
+real distance, since the watch reads about 1% long); 10-40K the band that
+finishes with time in hand even if the watch reads 1.5% long, with the
+smallest pick-up that allows; last 2K 10 s/K quicker again. 4:30 and slower
+walk every drink station (inside the times). Gels: 30g at 20 min, then every
+30, none in the last 20 min, one spare.
 
-1. **Hero:** the video's promise word for word, the form above the fold on a
-   phone, and a live sample plan: pick 3:30, 3:45, sub-4 or 4:30 and the 4
-   times appear on a course map, with watch pace and gels to carry (no email).
-   Unexpected value before the ask; every number is from a published video.
-2. **"A pace calculator gives you one number. Your plan gives you four."**
-   Counter-position: the slow first 10K (53:20 vs 54:00), the 1% watch error,
-   30g on the clock, room for a portaloo.
-3. **"Here's what lands in your inbox":** 3 steps and a mock of the plan
-   email (3:45 for Dublin) with a sticky note. Showing the product sells it.
-4. **Who's behind it:** two polaroid photo slots of Luke and Jamie.
-5. **Proof:** 3 reel tiles with view counts, 3 real replies.
-6. **The Carb Bar:** the pack on the rice texture, link to the waitlist.
-7. **FAQ**, then a final call to action styled as the pack label.
-
-## Bar page, top to bottom
-
-Blue hero with the pack on a "plate" of rice crisp and two stickers; the
-waitlist form; the nutrition band off the pack; a race morning timeline
-(breakfast at −3:00, the bar at −0:45, the gun, first gel at +0:20); the 8
-ingredients and what each does; "the bar before the gun, gels after it";
-the Rice Crisp Graveyard (4 photo slots); founders; FAQ.
-
-## Photo slots (swap `src` for a Shopify file URL)
-
-An empty `src` shows a striped placeholder with a brief. Upload in Shopify
-under Content > Files and paste the URL.
-
-| Page | Slot | Brief | Shape |
-|---|---|---|---|
-| Home | Polaroid 1 | Luke and Jamie together, faces visible, at a race or on a run (currently the old founders image) | 4:3.4 |
-| Home | Polaroid 2 | The two of you testing the bar, or a finish line | square |
-| Home | 3 reel tiles | The covers of the wall, carb load and 3:45 videos | 9:14 |
-| Bar | Polaroid | Luke and Jamie, ideally in the kitchen with a tray of bars | square |
-| Bar | Graveyard x4 | Failed batches from the series | square |
-| Both | Pack | `assets/ern-carb-bar-pack.webp`: swap for a real photo of the packed bar when you have one | wide |
-
-## Install on Shopify
-
-1. Theme code > Assets: upload `ern.css`, `ern.js` and the files in `assets/`.
-   Change `assets/...` paths and the `ern.css` / `ern.js` links to
-   `{{ 'ern.css' | asset_url }}` etc.
-2. Add the Google Fonts `<link>` to `theme.liquid`.
-3. Home page: remove the old sections, add a Custom Liquid section with the
-   body of `index.html` and its `<style>` block. Pages > Add page "The bar"
-   (handle `the-bar`) with the body of `bar.html`. Change the `bar.html` and
-   `index.html` links to `/pages/the-bar` and `/`.
-4. Redirect `/pages/fuel-1` and `/pages/marathon-nutrition-test-pack` to `/`.
-5. Point the Instagram and TikTok bio links at the home page.
+| Goal | 10K | 20K | 30K | 40K | Finish | 0-10K /K | 10-40K /K | Last 2K /K | 10-40K /mi | Carry |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 3:00 | 43:30 | 1:25 | 2:07 | 2:48 | 2:57 | 4:15 to 4:20 | 4:05 to 4:10 | 3:55 to 4:00 | 6:35 to 6:40 | 6 |
+| 3:05 | 44:00 | 1:28 | 2:11 | 2:54 | 3:03 | 4:20 to 4:25 | 4:15 to 4:20 | 4:05 to 4:10 | 6:50 to 7:00 | 6 |
+| 3:10 | 46:00 | 1:30 | 2:14 | 2:58 | 3:08 | 4:30 to 4:35 | 4:20 to 4:25 | 4:10 to 4:15 | 7:00 to 7:05 | 6 |
+| 3:15 | 46:30 | 1:32 | 2:17 | 3:02 | 3:11 | 4:35 to 4:40 | 4:25 to 4:30 | 4:15 to 4:20 | 7:05 to 7:15 | 7 |
+| 3:20 | 47:30 | 1:34 | 2:21 | 3:08 | 3:18 | 4:40 to 4:45 | 4:35 to 4:40 | 4:25 to 4:30 | 7:25 to 7:30 | 7 |
+| 3:25 | 49:00 | 1:37 | 2:24 | 3:12 | 3:22 | 4:50 to 4:55 | 4:40 to 4:45 | 4:30 to 4:35 | 7:30 to 7:40 | 7 |
+| 3:30 (video) | 50:00 | 1:39 | 2:29 | 3:18 | 3:28 | 4:55 to 5:00 | 4:50 to 4:55 | 4:40 to 4:45 | 7:45 to 7:55 | 7 |
+| 3:35 | 52:00 | 1:42 | 2:32 | 3:22 | 3:33 | 5:05 to 5:10 | 4:55 to 5:00 | 4:45 to 4:50 | 7:55 to 8:05 | 7 |
+| 3:40 | 52:30 | 1:44 | 2:34 | 3:25 | 3:36 | 5:10 to 5:15 | 5:00 to 5:05 | 4:50 to 4:55 | 8:05 to 8:10 | 7 |
+| 3:45 (video) | 54:00 | 1:46 | 2:39 | 3:32 | 3:43 | 5:20 | 5:13 | 5:03 | 8:25 | 8 |
+| 3:50 | 55:00 | 1:49 | 2:42 | 3:35 | 3:47 | 5:25 to 5:30 | 5:15 to 5:20 | 5:05 to 5:10 | 8:25 to 8:35 | 8 |
+| 3:55 | 56:00 | 1:51 | 2:46 | 3:41 | 3:53 | 5:30 to 5:35 | 5:25 to 5:30 | 5:15 to 5:20 | 8:45 to 8:50 | 8 |
+| Sub-4 (video) | 57:30 | 1:54 | 2:50 | 3:47 | 3:59 | 5:42 | 5:35 | 5:25 | 9:00 | 8 |
+| 4:05 | 58:30 | 1:55 | 2:52 | 3:49 | 4:01 | 5:45 to 5:50 | 5:35 to 5:40 | 5:25 to 5:30 | 9:00 to 9:05 | 8 |
+| 4:10 | 1:00 | 1:59 | 2:57 | 3:56 | 4:08 | 5:55 to 6:00 | 5:45 to 5:50 | 5:35 to 5:40 | 9:15 to 9:25 | 8 |
+| 4:15 | 1:01 | 2:00 | 3:00 | 3:59 | 4:12 | 6:00 to 6:05 | 5:50 to 5:55 | 5:40 to 5:45 | 9:25 to 9:30 | 9 |
+| 4:20 | 1:02 | 2:03 | 3:04 | 4:05 | 4:18 | 6:05 to 6:10 | 6:00 to 6:05 | 5:50 to 5:55 | 9:40 to 9:45 | 9 |
+| 4:25 | 1:04 | 2:05 | 3:07 | 4:09 | 4:22 | 6:15 to 6:20 | 6:05 to 6:10 | 5:55 to 6:00 | 9:45 to 9:55 | 9 |
+| 4:30 (video) | 1:05 | 2:08 | 3:11 | 4:14 | 4:28 | 6:20 to 6:25 | 6:10 to 6:15 | 6:00 to 6:05 | 9:55 to 10:05 | 9 |
+| 4:35 | 1:07 | 2:11 | 3:15 | 4:19 | 4:32 | 6:30 to 6:35 | 6:15 to 6:20 | 6:05 to 6:10 | 10:05 to 10:10 | 9 |
+| 4:40 | 1:07 | 2:12 | 3:17 | 4:22 | 4:36 | 6:35 to 6:40 | 6:20 to 6:25 | 6:10 to 6:15 | 10:10 to 10:20 | 9 |
+| 4:45 | 1:09 | 2:16 | 3:22 | 4:29 | 4:43 | 6:45 to 6:50 | 6:30 to 6:35 | 6:20 to 6:25 | 10:30 to 10:35 | 10 |
+| 4:50 | 1:10 | 2:17 | 3:25 | 4:32 | 4:46 | 6:50 to 6:55 | 6:35 to 6:40 | 6:25 to 6:30 | 10:35 to 10:45 | 10 |
+| 4:55 | 1:11 | 2:20 | 3:29 | 4:38 | 4:53 | 6:55 to 7:00 | 6:45 to 6:50 | 6:35 to 6:40 | 10:50 to 11:00 | 10 |
+| 5:00 | 1:12 | 2:22 | 3:32 | 4:42 | 4:57 | 7:05 to 7:10 | 6:50 to 6:55 | 6:40 to 6:45 | 11:00 to 11:10 | 10 |
+| 5:05 | 1:13 | 2:24 | 3:35 | 4:46 | 5:01 | 7:10 to 7:15 | 6:55 to 7:00 | 6:45 to 6:50 | 11:10 to 11:15 | 10 |
+| 5:10 | 1:15 | 2:27 | 3:40 | 4:52 | 5:08 | 7:20 to 7:25 | 7:05 to 7:10 | 6:55 to 7:00 | 11:25 to 11:30 | 10 |
+| 5:15 | 1:16 | 2:29 | 3:42 | 4:56 | 5:11 | 7:25 to 7:30 | 7:10 to 7:15 | 7:00 to 7:05 | 11:30 to 11:40 | 11 |
+| 5:20 | 1:18 | 2:32 | 3:46 | 5:00 | 5:16 | 7:35 to 7:40 | 7:15 to 7:20 | 7:05 to 7:10 | 11:40 to 11:50 | 11 |
+| 5:25 | 1:18 | 2:34 | 3:50 | 5:06 | 5:22 | 7:40 to 7:45 | 7:25 to 7:30 | 7:15 to 7:20 | 11:55 to 12:05 | 11 |
+| 5:30 | 1:19 | 2:36 | 3:53 | 5:09 | 5:26 | 7:45 to 7:50 | 7:30 to 7:35 | 7:20 to 7:25 | 12:05 to 12:10 | 11 |
 
 ## Klaviyo
 
-- In `ern.js`, fill in `planList` (the existing Email List, so the welcome
-  flow still fires) and `waitlistList` (a new list, "Bar waitlist"). Until
-  then forms run in preview mode and send nothing.
-- Plan sign-ups save `race`, `goal_time` and `plan_requested_at` on the
-  profile. Use them in the welcome email: "Your {{ person.goal_time }} plan
-  for {{ person.race }}".
-- Test once with a real address before switching the bio link.
+- In `ern.js` fill in `planList` (the existing Email List, so the welcome
+  flow fires) and `waitlistList` (new list "Bar waitlist"). Empty = preview
+  mode, nothing sent.
+- Each plan sign-up saves these on the profile, so the welcome email can be
+  the plan itself: `race`, `goal_time`, `plan_10k`, `plan_20k`, `plan_30k`,
+  `plan_40k`, `plan_pace_1`, `plan_pace_2`, `plan_pace_3`, `plan_gels`,
+  `plan_carry`, `plan_finish`. In the email: `{{ person.plan_10k }}` etc.
+  Wrap the plan block in "show if goal_time is set and isn't Not sure yet".
+- Subject line: "Your {{ person.goal_time }} plan for {{ person.race }}".
 
-## Before it goes live (Luke)
+## Fix the spam (DNS, about 15 minutes)
 
-1. **Plan turnaround:** the page says "usually within a day".
-2. **3 real replies** for the proof cards (first name, race, goal, with
-   permission). They must not go live as placeholders.
-3. **Bar timing:** the timeline says the bar 45 minutes before the gun
-   (the old page said 90, the commercial plan said 30). Pick one.
-4. **The pack says <1g fat.** The v2 recipe has 5g coconut oil per 5-bar
-   batch, about 1g a bar. Get the lab figure before the label is printed.
-5. **The mock email** (3:45, Dublin) should match what you actually send.
-6. **Shipping countries** (bar FAQ) and the founding price.
-7. **FSAI registration and labelling** before any bar is sold.
+Checked 21 Oct: the root domain has **no SPF and no Google DKIM**, and DMARC is
+`p=none` with no reports. Klaviyo's own sending domain is fine; it's the
+emails you send from Gmail (the plans, your replies) that go unsigned.
+
+1. **Google Admin** (admin.google.com) > Apps > Google Workspace > Gmail >
+   Authenticate email > Generate new record (2048-bit). Copy the host name
+   (`google._domainkey`) and the long TXT value.
+2. **Your DNS** (if the domain is on Shopify: Settings > Domains >
+   engineroomnutrition.com > Domain settings > Edit DNS settings; otherwise
+   wherever you bought it). Add:
+   - TXT, name `google._domainkey`, value from step 1.
+   - TXT, name `@`, value `v=spf1 include:_spf.google.com ~all`. Add it as a
+     new record; keep the `klaviyo-site-verification` one. Only ever one
+     `v=spf1` record.
+   - Edit the `_dmarc` TXT to `v=DMARC1; p=none; rua=mailto:` plus an inbox you
+     check, so you get reports.
+3. Wait an hour, go back to Google Admin and click **Start authentication**.
+4. Test: send an email from Gmail to the address on mail-tester.com. Aim for
+   9/10 or better.
+
+## Photo slots
+
+Striped boxes show a brief; swap `src` for a Shopify file URL. Main one: a
+real photo of the two of you, faces visible (home and bar page polaroids).
+
+## Install on Shopify
+
+Upload `ern.css`, `ern.js`, `plan.js` and `assets/` to the theme assets and
+link them with `asset_url`. Home page: a Custom Liquid section with the body
+and `<style>` of `index.html`. Page "The bar" (handle `the-bar`) with
+`bar.html`. Change `bar.html` and `index.html` links to `/pages/the-bar` and `/`.
+Redirect `/pages/fuel-1` and `/pages/marathon-nutrition-test-pack` to `/`.
+Point the bio links at the home page, with `?utm_source=instagram&utm_content=<video>`.
+
+## Still open (Luke)
+
+1. Do the DNS fix above.
+2. Tom's message word for word, and a yes to use it (no name). Confirm the
+   12-minute PB and Antwerp runners followed our videos or plans.
+3. Bar: eating time (the page says 45 minutes before the gun), founding price,
+   shipping countries, lab figures (the pack's "<1g fat" vs about 1g from the
+   coconut oil), FSAI registration.
+4. Check the plan table above.
+5. Install Clarity (free Shopify app) and note today's sign-up rate as the
+   baseline.

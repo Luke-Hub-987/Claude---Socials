@@ -4952,6 +4952,39 @@ audience knows doesn't land.
 
 *Source: Luke, 21 October.*
 
+## P143 — Proof keeps the numbers and drops the names
+
+Luke, 21 October, on the website's social proof: don't put people's names
+in, or change them. The proof that sells is the result (a 12-minute PB, a
+3:23:58 chip time, 3:19 when aiming for 3:30), not who ran it.
+
+**The rule:**
+- Use results with no names: chip time, PB, race, goal versus actual. Quote
+  messages word for word, with "..." for cuts and [ ] for added words.
+- Never invent a name or a quote. A message we don't have the words for
+  gets a placeholder until Luke has permission.
+- Applies to the site, emails, captions and videos.
+
+*Source: Luke, 21 October.*
+
+## P144 — The plan shows on screen after the email; be upfront about spam
+
+Luke, 21 October: yes to showing the full pace plan on the page the moment
+someone gives their email. Lots of sign-ups land in spam, so be "incredibly,
+uncomfortably clear" about it.
+
+**The rule:**
+- The email is the gate; the screen is where they get the plan; the email
+  is a copy. The value never waits on the inbox.
+- Say where the email will probably land (Promotions, Spam, Junk) and what
+  to do, before and after sign-up.
+- Plans for goals not in a video come from `website/plan.js`, the video
+  method as code. Its table of every goal (README) is checked by Luke.
+- Video CTAs can now say "get your plan in the link in the bio" (it's
+  instant), as well as the current wording.
+
+*Source: Luke, 21 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

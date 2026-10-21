@@ -203,7 +203,7 @@ your marathon. 4:30 goes TikTok-only. Luke's goal: 1M lifetime IG views
 (840K on 19 Oct; 865K on 21 Oct). Every pace in km and miles in captions (P129).
 
 Waiting on Luke: gel script FINAL v11 delivered (hook invites, P141; pain at 20K into a long run, P142; jellies and flavours in the caption) (`ideas/engine-room-nutrition/2026-10-21-script-gel.md`: drink your gel, squeezed into the 250ml station bottle; P140 one aha); emails per video (3:30, 4:30).
-Website v2 (21 Oct): `website/` (home = free pace plan page, /pages/the-bar = waitlist; README has install, Klaviyo and open questions). Waiting on Luke: plan turnaround, 3 real replies, bar pack image and price, FSAI check.
+Website v4 (21 Oct): `website/` (home = free pace plan, shown on screen after the email via `plan.js`, the video method as code; /pages/the-bar = waitlist with the kit-bag comparison; README has install, Klaviyo, the plan table for Luke to check). Proof: 3 anonymised results (P143). Klaviyo list 468, 270 since 14 Oct; 62% Gmail. Instagram export: 915K views on ERN reels since 1 Sep, 18,721 saves. DNS: root domain has no SPF and no Google DKIM (21 Oct). Waiting on Luke: DNS fix, Tom's message and permission, bar eating time and price, lab figures, FSAI.
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
 
 Rejected topics: the last 10K (covered across six videos); anything
@@ -212,7 +212,7 @@ after the finish line (Luke, 15 Oct); in-race fuel amounts while the
 versions (sub-3:30, sub-4:30) using the sub-4 template.
 
 Upcoming races in the audience: Amsterdam 18 Oct, Dublin and Frankfurt
-26 Oct, New York 1 Nov. Held: the "how to actually enjoy your marathon"
+Sunday 25 Oct (not 26: that's a Monday), New York 1 Nov. Held: the "how to actually enjoy your marathon"
 creative for the day before Dublin. Covers: Luke picks from search
 terms (Google Images, Pinterest), with a licence check.
 
