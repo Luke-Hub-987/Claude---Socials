@@ -96,6 +96,8 @@ twice without being checked against the winners (P99).
 - [ ] **Invite, don't decree (P141, Luke 21 Oct):** for a narrow problem,
       the gate names who it's for; line one invites ("try..."); say the
       sceptic's thought; "save this for the day it isn't fine" keeps the rest.
+- [ ] **Pain moment the whole audience has lived (P142, Luke 21 Oct):** 20K
+      into a long run, not 30K; training scenes keep training details.
 - [ ] **Line one is a counter-position, not a big number** (P120, Luke
       16 Oct): "a dozen bagels a day" was a fact with no curiosity. Line
       one says something runners would argue with, leaves a question,

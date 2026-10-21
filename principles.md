@@ -4936,6 +4936,22 @@ give value fast.
 
 *Source: Luke, 21 October.*
 
+## P142 — Pain moments from what the whole audience has lived
+
+Luke, 21 October, on "You know the moment. 30K, the next gel's due": most of
+the people struggling with gels haven't run 30K, even in training. Nearly
+everyone has run 20K plus on a long run. A moment only the upper end of the
+audience knows doesn't land.
+
+**The rule:**
+- Set "you know the moment" pictures where nearly every viewer has been:
+  a long run past 20K, the start pen, the first 10K, a station. Use 30K plus
+  only for the race-day dream or for a race-day stage.
+- If the scene is from training, keep training details (no drink stations
+  on a long run; "watching your pace go", not "your time").
+
+*Source: Luke, 21 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
