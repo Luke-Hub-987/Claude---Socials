@@ -4777,6 +4777,43 @@ and suggested breaking it up with a bar and some jellies.
 
 *Source: Luke, 21 October.*
 
+## P134 — No real food during the race
+
+Luke, 21 October, on the gel v2 ("half a bar at 30 minutes"): "Nobody
+should be taking real food on these runs. They're running a marathon and
+they're going to be running fast... maybe some jellies and sweets... They
+will not be taking a bar." Also: "Our bar isn't out yet, and half a bar of
+what?"
+
+**The rule:**
+- In-race fuel for this audience is gels, station water and sports drink,
+  and sweets (jelly sweets) as the fallback. No bars, bananas, pretzels or
+  any food you chew properly, at any stage of the race.
+- Never build in-race advice around a product that isn't launched or a
+  vague item ("a bar"): every food needs to be something they can name
+  and already have.
+- When Luke suggests an idea in passing, still run it through P126, P130
+  and P133 before scripting it, and say so if it fails.
+
+*Source: Luke, 21 October.*
+
+## P135 — Every physical detail must be one runners actually feel
+
+Luke, 21 October: "The smell of a gel isn't the thing. I've never once
+smelled a gel. There's no smell to them." The v2 pain picture ("the sweet,
+sticky smell alone stops you dead") was invented for effect.
+
+**The rule:**
+- Pain and dream pictures use only what runners really go through: the
+  dread of the next gel, putting it off, the thick sickly sweetness, the
+  stomach sloshing, the cramp, walking.
+- If I can't point to a runner (Luke, the inbox, the comments) who has
+  described it, it doesn't go in.
+- Get the mental side in: what the runner is thinking (dread, bargaining,
+  "I'll wait for the next station") is often the real problem.
+
+*Source: Luke, 21 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

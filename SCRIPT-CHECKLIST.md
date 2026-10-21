@@ -69,6 +69,14 @@ twice without being checked against the winners (P99).
 - [ ] **Uses only what they actually carry (P133, Luke 21 Oct):** one
       flavour of gel, jelly sweets, a bar, station water and sports drink.
       "Least favourite flavour first" failed because nobody buys mixed boxes.
+- [ ] **No real food in the race (P134, Luke 21 Oct):** gels, station
+      water and sports drink, jelly sweets as the fallback. No bars, ever;
+      no unlaunched or vague products. Luke's passing ideas get the same
+      real-life test.
+- [ ] **Every physical detail is real (P135, Luke 21 Oct):** gels have no
+      smell. Pain pictures only from what runners describe (dread, putting
+      it off, sickly sweetness, sloshing, walking), and include the mental
+      side.
 - [ ] **Line one is a counter-position, not a big number** (P120, Luke
       16 Oct): "a dozen bagels a day" was a fact with no curiosity. Line
       one says something runners would argue with, leaves a question,
