@@ -89,7 +89,7 @@ At the station, grab a bottle and take 3 sips first, because a full bottle has n
 
 Why it works: your stomach was always getting the gel and the water together. Eaten, it lands as a thick, sweet lump with a few sips chasing it. Drunk, it arrives already mixed. Same 30g, nothing to hack down.
 
-Rather break it up? Swap every other gel for 4 or 5 jelly sweets (about 5g each, so 20 to 25g), or if it's the taste more than the texture, alternate two flavours you've trained with. Jelly sweets are chewed, so keep them to the first half.
+Rather break it up? Swap every other gel for 6 jelly sweets (about 5g each, so 30g, the same as the gel), or if it's the taste more than the texture, alternate two flavours you've trained with. Jelly sweets are chewed, so keep them to the first half.
 
 Race hands out cups, not bottles? Take the gel about 100 metres before the station, then 3 or 4 good sips of plain water from the cup. Try the bottle method once on an easy run this week first, and use only gels you've already had on a long run.
 
