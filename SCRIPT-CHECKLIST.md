@@ -66,6 +66,9 @@ twice without being checked against the winners (P99).
       plan's maths, not curiosity ("run quicker than goal pace" failed).
       Build it from something that happens on the day and the wrong thing
       they then do. A line one I'd flag as weak gets rebuilt, not shipped.
+- [ ] **Uses only what they actually carry (P133, Luke 21 Oct):** one
+      flavour of gel, jelly sweets, a bar, station water and sports drink.
+      "Least favourite flavour first" failed because nobody buys mixed boxes.
 - [ ] **Line one is a counter-position, not a big number** (P120, Luke
       16 Oct): "a dozen bagels a day" was a fact with no curiosity. Line
       one says something runners would argue with, leaves a question,

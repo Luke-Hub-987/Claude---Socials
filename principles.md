@@ -4757,6 +4757,26 @@ second on some models; Coros unconfirmed).
 
 *Source: Luke, 20 October.*
 
+## P133 — Build the advice on what runners actually buy and carry
+
+Luke, 21 October, on the gel v1 ("your first gel should be the flavour you
+like least"): most people buy a load of the single flavour they tolerate
+best; they don't buy mixed boxes. Advice that needs kit they don't have
+fails, however good the science. He wants viewers to see they can keep
+taking gels all the way, with something they didn't know that lets them,
+and suggested breaking it up with a bar and some jellies.
+
+**The rule:**
+- Before scripting, write down what this runner has in their pockets and
+  cupboard on race morning (one flavour of gel, jelly sweets, a bar, the
+  water and sports drink at the stations). The method only uses those.
+- Where the science points to something they don't do (mixed flavours,
+  soft flasks), find the version that works with what they have.
+- Fuel videos: show them they can keep their gels, and add the one thing
+  they didn't know; don't tell them to buy something new before race day.
+
+*Source: Luke, 21 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
