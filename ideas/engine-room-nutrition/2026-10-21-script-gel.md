@@ -4,7 +4,7 @@ brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-21
 slot: VIEWS (Wed 21), demand-led: inbox theme 1, "gel for marathon" 351K TikTok searches
 basis: Luke's notes and corrections (21 Oct: P133, P134, P135), stomach problems, water stations, out of the wall, P101, P109, P114, P120, P124 to P131
-status: v5 for Luke (watch beeps replaced by the clock rule every earlier video gives: first gel at 20 minutes, then every 20, P137)
+status: v6 for Luke (30g gel baseline from the emails, P138; 30g every 30 min = 60g an hour). Earlier: v5 (watch beeps replaced by the clock rule every earlier video gives: first gel at 20 minutes, then every 20, P137)
 teleprompter: 2026-10-21-teleprompter-gel.txt
 ---
 
@@ -23,7 +23,7 @@ teleprompter: 2026-10-21-teleprompter-gel.txt
 **IN A MARATHON?**
 
 **Markers:**
-1. FROM 20 MINUTES: EVERY 20, BY THE CLOCK
+1. FROM 20 MINUTES: A 30G GEL EVERY 30
 2. EVERY GEL: 100M BEFORE THE WATER
 3. MISSED ONE? LET IT GO
 4. 30K TO THE LINE: HALF NOW, HALF LATER
@@ -83,7 +83,7 @@ Take it at 15K, and at 38K your gel's gone in 30 seconds, your legs are still tu
 
 And there's a way of taking a gel that makes every one after 30K easy. Save this.
 
-Your first gel goes in at 20 minutes, then every 20 minutes, a standard 20 to 25g gel each time. When your watch says 20, 40 or the hour, you take it. No deciding, no "I'll wait for the next station". The dread comes from the arguing, and the clock ends it.
+Your first 30g gel goes in at 20 minutes, then one every 30 minutes after that. That's 60g of carbs an hour. When your watch says 20 or 50 past, you take it. No deciding, no "I'll wait for the next station". The dread comes from the arguing, and the clock ends it.
 
 Want your whole race planned like this? Email us your race and goal time through the link in the bio and we'll send you your plan, free. Back to the gels.
 
@@ -124,7 +124,7 @@ Don't take it in one go. Take half with a sip of water, fold the top over and ho
 ## Caption (final)
 Can't face another gel in a marathon? Most of the dread comes from deciding, and most of the stomach trouble comes from catching up. And if you're not hungry at 15K, that's normal: take it anyway, because that gel is for 30K.
 
-Your first gel goes in at 20 minutes, then a 20 to 25g gel every 20 minutes. When your watch says 20, 40 or the hour, you take it. No "I'll wait for the next station". Using 40g gels? One every 30 to 40 minutes.
+Your first 30g gel goes in at 20 minutes, then one every 30 minutes after that, which is 60g of carbs an hour. When your watch says 20 or 50 past, you take it. No "I'll wait for the next station". Using 40g gels? One every 40 minutes. Smaller 20 to 25g gels? One every 20 minutes.
 
 If there's a water station in the next K, take the gel about 100 metres before it, then 3 good sips (100 to 150ml) of plain water. If there isn't, take it now and drink at the next one. Never wash a gel down with sports drink.
 
@@ -135,7 +135,7 @@ Late on, don't take it in one go. Take half with a sip of water, fold the top ov
 Want your whole race planned like this? Email us your race and goal time through the link in the bio and we'll send your plan, free.
 
 ## Pinned comment (final)
-"Do you put off your gels, or take them on the clock? 👇 First gel at 20 minutes, then a 20-25g gel every 20 minutes (40g gels: every 30-40 minutes). Each gel 100m before a station with 3 sips of plain water. Missed one? Let it go, never 2 together. Late on: half now, half 2-3 minutes later. Want your whole race planned? Email us your race and goal time through the link in the bio."
+"Do you put off your gels, or take them on the clock? 👇 First 30g gel at 20 minutes, then one every 30 minutes = 60g an hour (40g gels: every 40 min; 20-25g gels: every 20 min). Each gel 100m before a station with 3 sips of plain water. Missed one? Let it go, never 2 together. Late on: half now, half 2-3 minutes later. Want your whole race planned? Email us your race and goal time through the link in the bio."
 
 ## Cover and opening frame (real image, one person, no crowd)
 **One runner mid-race holding a gel and looking at it, face hidden or

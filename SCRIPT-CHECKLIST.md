@@ -84,6 +84,10 @@ twice without being checked against the winners (P99).
       how we said it before and say it the same way (first gel at 20
       minutes, a 20-25g gel every 20 minutes by the clock, plain water). No
       setup steps like watch alerts.
+- [ ] **FACTS.md read first; facts check table in the delivery (P138,
+      Luke 21 Oct):** every number and practical claim traced to FACTS.md
+      or an earlier script; grams an hour worked out (30g gel every 30
+      minutes = 60g). New topic: brief first.
 - [ ] **Line one is a counter-position, not a big number** (P120, Luke
       16 Oct): "a dozen bagels a day" was a fact with no curiosity. Line
       one says something runners would argue with, leaves a question,

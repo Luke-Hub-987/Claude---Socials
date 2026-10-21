@@ -13,6 +13,10 @@ every posted video.
 
 ## Read before writing anything (in this order)
 
+0. **`FACTS.md`: the fixed facts (who they are, what they carry, the gel
+   and pace numbers, what we've already said, the email answers). Every
+   number and every practical detail in a script comes from here. Do the
+   maths (grams an hour) before writing.**
 1. `SCRIPT-CHECKLIST.md`: every rule a script must pass, with the
    evidence. **Every script passes every line before Luke sees it.**
 2. `PLAN-winners.md`: the winning formulas, the grid of top videos,
@@ -20,9 +24,9 @@ every posted video.
 3. The three newest `ideas/*-review.md` files: the latest data.
 4. The newest scripts in `ideas/engine-room-nutrition/` (the house
    style, the hook stacks, the audit tables).
-5. `principles.md` (P1 to P137, about 4,400 lines): search it for the
+5. `principles.md` (P1 to P138, about 4,400 lines): search it for the
    rule you need; do not read it end to end. The newest rules (P97 to
-   P137) are at the end, before "Open questions for Luke".
+   P138) are at the end, before "Open questions for Luke".
 
 ## How we work (Luke's standing instructions)
 
@@ -60,6 +64,13 @@ every posted video.
   each stage marker in bold square brackets on its own line above its
   paragraph, e.g. **[0-10K: PAY THE SPEED TAX]**. The hook, pain/dream,
   named concept, rehook and CTA are quoted paragraphs with no label.
+- **Before a full script on a new topic (P138):** send a short brief first
+  (the method in numbers, line one, pain and dream in one line each, and
+  every fact used with where it comes from in FACTS.md) and get Luke's yes.
+  Then write the script.
+- **Facts check before delivering (P138):** a table in the notes of every
+  number and practical claim in the script, each traced to FACTS.md or an
+  earlier script. Anything that can't be traced gets cut or flagged.
 - **Order when delivering a script:** one or two lines on what changed
   and why; a table of how the curiosity runs (moment, line, what it
   does); the OST in bold capitals on two lines; the markers as a
@@ -191,7 +202,7 @@ your half marathon time into a marathon goal (incl. after illness). Fri 23
 your marathon. 4:30 goes TikTok-only. Luke's goal: 1M lifetime IG views
 (840K on 19 Oct). Every pace in km and miles in captions (P129).
 
-Waiting on Luke: feedback on the gel script v5 (`ideas/engine-room-nutrition/2026-10-21-script-gel.md`: hook from the email answers, every 20 minutes by the clock as before, no watch beeps P137); emails per video (3:30, 4:30).
+Waiting on Luke: feedback on the gel script v6 (`ideas/engine-room-nutrition/2026-10-21-script-gel.md`: 30g gel at 20 minutes then every 30 = 60g an hour; P138); whether to adopt the brief-first step; emails per video (3:30, 4:30).
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
 
 Rejected topics: the last 10K (covered across six videos); anything

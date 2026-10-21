@@ -4853,6 +4853,33 @@ telling them to set your watch to beep. I don't even know how to do that."
 
 *Source: Luke, 21 October.*
 
+## P138 — One facts file, a brief first, and a facts check before delivery
+
+Luke, 21 October, after the gel script's sixth version: the 30g gel
+baseline was already in the conversation (Precision 30g gels, the email
+answers) and the script still said "20 to 25g". "How in future can I
+ensure that you remember all of this stuff and don't make me revise the
+script four or five times every single time?"
+
+What went wrong: the facts were spread across the chat, 4,400 lines of
+principles and old scripts, and I wrote from the old scripts instead of
+the newest facts. Each rule was added after a mistake, so the next
+mistake was always a new one.
+
+**The rule:**
+- **`FACTS.md` is the single source** for audience, kit, fuel and pace
+  numbers, what we've already said, and what the emails say. Read it first.
+  Every new fact from Luke goes into it in the same turn.
+- **Do the maths before writing:** grams an hour, paces, finish times.
+- **Brief first on a new topic:** method in numbers, line one, pain and
+  dream, and every fact used, for Luke's yes before the full script.
+- **Facts check table in every delivery:** each number and practical claim
+  traced to FACTS.md or an earlier script.
+- When Luke's own number doesn't add up (30g every 20 minutes is 90g an
+  hour, not 60), say so with the maths and recommend the fix.
+
+*Source: Luke, 21 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
