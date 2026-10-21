@@ -3,20 +3,12 @@ type: video-script
 brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-21
 slot: VIEWS (Wed 21), demand-led: inbox theme 1, "gel for marathon" 351K TikTok searches
-basis: Luke's notes and corrections (21 Oct: P133, P134, P135), stomach problems, water stations, out of the wall, P101, P109, P114, P120, P124 to P131
-status: FINAL v8 (line one says "your second gel", so it holds whatever the schedule, P139). v7 v6 (30g gel baseline from the emails, P138; 30g every 30 min = 60g an hour). Earlier: v5 (watch beeps replaced by the clock rule every earlier video gives: first gel at 20 minutes, then every 20, P137)
+basis: brief 2026-10-21-brief-gel-v2.md (Luke: yes; stations hand out 250ml bottles), FACTS.md, P120, P124, P126, P130 to P140
+status: FINAL v9 (drink your gel). Earlier versions (flavour order, bar, watch beeps, clock tolerance) replaced: no aha (Luke, P140)
 teleprompter: 2026-10-21-teleprompter-gel.txt
 ---
 
 # Can't face another gel in a marathon?
-
-## Why v1 and v2 failed
-- v1: "least favourite flavour first" assumed mixed boxes; people buy one flavour (P133).
-- v2: half a bar at 30 minutes. Nobody eats real food at marathon pace, and
-  "half a bar of what?" (P134). Its pain picture, "the smell alone stops
-  you dead", was invented: gels have no smell (P135).
-- v3 is about the real problem Luke named: the fear of gels, the stomach
-  trouble, and the mental side.
 
 ## OST
 **CAN'T FACE ANOTHER GEL**
@@ -24,152 +16,98 @@ teleprompter: 2026-10-21-teleprompter-gel.txt
 
 **Markers:**
 1. FROM 20 MINUTES: A 30G GEL EVERY 30
-2. EVERY GEL: 100M BEFORE THE WATER
-3. MISSED ONE? LET IT GO
-4. 30K TO THE LINE: HALF NOW, HALF LATER
+2. AT THE STATION: 3 SIPS, THEN THE GEL
+3. THE NEXT 2K: SIP IT ALL
+4. 30K TO THE LINE: WHY IT WORKS
 
-## The method (P127)
-The decision is made by the clock, as every earlier video says: first gel
-at 20 minutes, then a 20-25g gel every 20 minutes (the mental part:
-dread comes from arguing with yourself). Each gel about 100 m before a
-station with 3 good sips of plain water, or straight away if no station
-within a K. A missed gel is written off, never doubled up ("gel debt").
-Jelly sweets (4 or 5, about the same sugar) only if a gel truly won't go.
-Late on, half a gel with a sip, top folded, the rest 2 or 3 minutes later.
-
-## v4 hook stack (Luke, 21 Oct: "okay, not great"; make the pain and dream visceral; stop repeating "that's your race going to plan"; use the email answers)
-**From the emails (names kept out of the repo):** one runner tried gels once,
-"got sick of the texture" and "had to hack the third one down", and asked
-"I wasn't hungry... should I not take it?"; another switched to coke "as
-can't handle any more gel"; one "rarely" has water with gels; most take one
-every 20 to 40 minutes; several save caffeine for the second half; one asked
-about chews as well as gels.
-
+## How the curiosity runs
 | Moment | Line | What it does |
 |---|---|---|
-| Line one | "...take your gel at 15K even when you're not one bit hungry, and that's exactly how it should feel." | Answers the email question directly. Counter-position: most only eat when hungry. New reframe wording, same job (P136) |
-| Pain | "...force 2 down together, the texture's so thick you're hacking them down between breaths... sloshing with every step while you walk through a drink station, watching your time go." | Built from the emails' own words ("texture", "hack it down"); every detail real (P135) |
-| Dream | "...at 38K your gel's gone in 30 seconds, your legs are still turning over, and you're picking people off one lamppost at a time." | Three pictures you can see; "one lamppost at a time" is our consistency line |
-| Named unknown | "...a way of taking a gel that makes every one after 30K easy." | Held to the last stage (half now, half later) |
+| Line one | "...you should never eat another gel, you should drink it, and that's how the late ones stop being a fight." | The aha up front as a counter-position; the "how" is withheld |
+| Pain | "...hacking it down between breaths, thick and sickly sweet... sloshing with every step... watching your time go." | The emails' own words (P135) |
+| Dream | "...sipping something that tastes like a sports drink, legs still turning over, picking people off one lamppost at a time." | Three pictures |
+| Named unknown | "...a reason it sits better in your stomach as well." | Held to the last stage |
+| Stage 1 | Schedule, landed on a station | Aligned with FACTS.md (P137) |
+| CTA (P128) | "Want your whole race planned like this?" | A third of the way in; "Back to the station" |
+| Stage 2 | 3 sips first, squeeze it in, shake | The practical step that makes it work (a full bottle has no room) |
+| Stage 3 | Sip it over 2K, finish before the next gel | The amount: if the bottle's not gone, the carbs aren't either |
+| Rehook | "So why does the same gel sit so much better in a bottle?" | Reopens the named unknown |
+| Payoff | "...arrives already mixed, a mouthful at a time." | Why it works |
 
-## How the curiosity ran in v3 (body unchanged)
-| Moment | Line | What it does |
-|---|---|---|
-| Line one | "...you should take a gel at 15K that you really don't want, and that's your race going to plan." | Most people skip the one they don't want. **Opens:** why force it? |
-| Pain | "...dreading the next one and putting it off, station after station... you force 2 down together, and your stomach's sloshing while you walk the next 5K." | The real sequence (dread, delay, doubling up, sloshing), with no invented sensations (P135) |
-| Dream | "...every gel is a 30-second job you don't even think about." | The mental relief, as a picture |
-| Named unknown | "...a way of taking a gel that makes the next one easy to face." | Held to the last stage |
-| Stage 1 | Every 20 minutes by the clock | The mental element: the clock ends the argument |
-| CTA (P128) | "Want your whole race planned like this?" | A third of the way in; "Back to the gels" pulls them back |
-| Stage 3 | "That's gel debt, and paying it back at 30K is what leaves you sloshing." | Answers line one (why take the 15K gel) |
-| Rehook | "So how do you make the next one easy to face?" | Reopens the named unknown |
-| Payoff | Half now, half 2 or 3 minutes later | Something they didn't know: a gel doesn't have to go in one go |
+**P120 pre-flight:** disagree (everyone eats gels); can't guess how (squeezing
+it into the bottle); picture (a gel squeezed into a water bottle); why held
+to the last stage. **P130/P133/P134/P135:** gels and the station bottles
+they'll be handed; no food; every detail real. **P140:** the aha solves the
+texture complaint in the emails.
 
-**P120 pre-flight:**
-1. Disagree? Yes: if you don't want a gel, you skip it.
-2. Can't guess why? "You need the energy" is the obvious guess; gel debt (the skipped one becomes the doubled one that causes the sloshing) isn't.
-3. Picture and reframe: holding a gel you don't want at 15K; reframe true.
-4. Why at stage 3; the rehook turns it into the next problem (how to face them), paid off last.
-**P130, P133, P134 real-life test:** only gels, station water, and jelly
-sweets as a fallback. Watch alerts are on any Garmin, Coros or phone app.
-The dread-and-delay pattern is what the inbox describes.
+## Script (330 words, about 1:40)
+If you're running a marathon in the next few weeks, you should never eat another gel, you should drink it, and that's how the late ones stop being a fight.
 
-## Script v5 (340 words, about 1:42)
-If you're running a marathon in the next few weeks, you should take your second gel even when you're not one bit hungry, and that's exactly how it should feel.
+You're at 30K, the next gel's due, and you're hacking it down between breaths, thick and sickly sweet. 10 minutes later it's sloshing with every step and you're walking through a drink station, watching your time go. Drink it instead, and at 38K you're sipping something that tastes like a sports drink, legs still turning over, picking people off one lamppost at a time.
 
-Skip it, and at 30K you pay for it. You force 2 down together, the texture's so thick you're hacking them down between breaths, and 10 minutes later they're sloshing with every step while you walk through a drink station, watching your time go.
+And there's a reason it sits better in your stomach as well. Save this.
 
-Take it anyway, and at 38K your gel's gone in 30 seconds, your legs are still turning over, and you're picking people off one lamppost at a time.
+Your first 30g gel goes in at 20 minutes, then one every 30 minutes, which is 60g of carbs an hour. Land each one on a water station, give or take 5 minutes. When it's due, you take it. No "I'll wait till I feel like it".
 
-And there's a way of taking a gel that makes every one after 30K easy. Save this.
+Want your whole race planned like this? Email us your race and goal time through the link in the bio and we'll send you your plan, free. Back to the station.
 
-Your first 30g gel goes in at 20 minutes, then one every 30 minutes after that. That's 60g of carbs an hour. When your watch says 20 or 50 past, you take it. No deciding, no "I'll wait for the next station". The dread comes from the arguing, and the clock ends it.
+Grab a bottle and take 3 sips first, because a full bottle has no room for the gel. Squeeze the whole gel in, cap back on, and give it a shake.
 
-Want your whole race planned like this? Email us your race and goal time through the link in the bio and we'll send you your plan, free. Back to the gels.
+Then sip it over the next 2K, and finish it before your next gel is due. That bottle is your drink for that half hour, so no sports drink on top. If the bottle's not gone, the carbs aren't either, so drink it all.
 
-If there's a water station in the next K, take the gel about 100 metres before it, then 3 good sips of plain water. If there isn't, take it now and drink at the next one. Never wash it down with sports drink.
+So why does the same gel sit so much better in a bottle?
 
-Miss one, and let it go. Never take 2 together to catch up. That's gel debt, and paying it back at 30K is what leaves you sloshing.
+Your stomach was always going to get the gel and the water together. Eat it, and it lands as a thick, sweet lump with a few sips chasing it. Drink it, and it arrives already mixed, a mouthful at a time. Same 30g, nothing to hack down, and at 38K you're still sipping, and still running.
 
-So how do you make the next one easy to face?
+(Markers: FROM 20 MINUTES on "Your first 30g gel"; AT THE STATION on "Grab a bottle"; THE NEXT 2K on "Then sip it"; 30K TO THE LINE on "Your stomach was always".)
 
-Don't take it in one go. Take half with a sip of water, fold the top over and hold it, then finish it 2 or 3 minutes later with your 3 sips. 2 small hits sit far better than 1 thick, sickly-sweet mouthful. That's how you're still taking gels at 40K, and still running.
+## The numbers for each stage (copy as is)
+- FROM 20 MINUTES: 30G GEL AT 0:20, 0:50, 1:20, 1:50, 2:20, 2:50, 3:20, 3:50 (60G AN HOUR), ON A STATION, GIVE OR TAKE 5 MIN
+- AT THE STATION: 3 SIPS FIRST, WHOLE GEL IN, CAP ON, SHAKE
+- THE NEXT 2K: SIP ALL 250ML, DONE BEFORE THE NEXT GEL, NO SPORTS DRINK ON TOP
+- 30K TO THE LINE: SAME 30G, ALREADY MIXED
 
-(Markers: FROM 20 MINUTES on "Your first gel goes in"; EVERY GEL on "If there's a water station"; MISSED ONE on "Miss one"; 30K TO THE LINE on "Don't take it in one go".)
-
-## Science check
-- Doubling up late is the stomach trouble: concentrated sugar plus little
-  blood to the gut late in a race (out of the wall: "never three gels at
-  once"); water with every gel (stomach problems, water stations).
-- Half a gel, then the rest a few minutes later: a smaller dose at a time,
-  same grams. Sound reasoning; no study claimed.
-- First gel at 20 minutes, then every 20 (20-25g), grams first (P118):
-  the line every earlier video uses (the wall, first 10 minutes, second
-  half, first half). No total count (P124). 40g gels every 30-40 minutes
-  in the caption, as before.
-- Jelly sweets ~5g each, so 4 or 5 is about a gel (gel alternatives).
-
-## AI-writing check (P35, P125)
-| Sign | Check |
+## Facts check (P138)
+| Claim | Source / maths |
 |---|---|
-| Negative parallelism | None |
-| Rule of three | None by habit |
-| Template lines | "Get this right" (3:30), "Do this instead" (3:45), "still running at 35K" (4:30) avoided |
-| Em dashes, colon lists | None |
-| Contractions | Throughout |
-| Staccato fragments | "Miss one, and let it go." and "Back to the gels." are deliberate turns |
-| Second readings (P114) | Hook has "stomach's sloshing", no mouth or swallow words; "mouthful" is in the last stage |
-| Invented sensations (P135) | None: no smell; "thick, sickly-sweet" is how gels are described |
+| 30g gel, first at 20 min, every 30 = 60g an hour | FACTS.md; 2 x 30g |
+| Station bottles are 250ml | Luke, 21 Oct (Dublin) |
+| 30g in ~200ml after 3 sips is about 13-15% | Thinner than a gel with 100-150ml of water (our old advice) |
+| 250ml every 30 min = 500ml an hour | A normal marathon drinking rate; replaces the gel's water, so no sports drink on top |
+| 2K takes about 10-12 minutes at 3:30 to 4:30 pace | Sip it all well before the next gel |
+| Gel with water, never with sports drink | Stomach problems, water stations |
+| Texture, "hack it down", sloshing | The emails |
+| One lamppost at a time | Consistency line |
 
 ## Caption (final)
-Can't face another gel in a marathon? Most of the dread comes from deciding, and most of the stomach trouble comes from catching up. And if you're not hungry at 15K, that's normal: take it anyway, because that gel is for 30K.
+Can't face another gel in a marathon? Stop eating them. Drink them.
 
-Your first 30g gel goes in at 20 minutes, then one every 30 minutes after that, which is 60g of carbs an hour. When your watch says 20 or 50 past, you take it. No "I'll wait for the next station". Using 40g gels? One every 40 minutes. Smaller 20 to 25g gels? One every 20 minutes.
+Your first 30g gel goes in at 20 minutes, then one every 30 minutes, which is 60g of carbs an hour: 0:20, 0:50, 1:20, 1:50, 2:20, 2:50, 3:20 and 3:50. Land each one on a water station, give or take 5 minutes. Using 40g gels? One every 40 minutes.
 
-If there's a water station in the next K, take the gel about 100 metres before it, then 3 good sips (100 to 150ml) of plain water. If there isn't, take it now and drink at the next one. Never wash a gel down with sports drink.
+At the station, grab a bottle and take 3 sips first, because a full bottle has no room for the gel. Squeeze the whole gel in, cap back on, and give it a shake. Then sip it over the next 2K and finish it before your next gel is due. That bottle is your drink for that half hour, so no sports drink on top. If the bottle's not gone, the carbs aren't either.
 
-Miss one, and let it go. Never take two together to catch up: that's gel debt, and paying it back at 30K is what leaves you sloshing. If you really can't face a gel, 4 or 5 jelly sweets is about the same sugar.
+Why it works: your stomach was always getting the gel and the water together. Eaten, it lands as a thick, sweet lump with a few sips chasing it. Drunk, it arrives already mixed. Same 30g, nothing to hack down.
 
-Late on, don't take it in one go. Take half with a sip of water, fold the top over and hold it, then finish it 2 or 3 minutes later with your 3 sips. Two small hits sit far better than one thick, sickly-sweet mouthful. Use only gels and sweets you've already had on a long run.
+Race hands out cups, not bottles? Take the gel about 100 metres before the station, then 3 or 4 good sips of plain water from the cup. Try the bottle method once on an easy run this week first, and use only gels you've already had on a long run.
+
+What to carry, with one spare: 7 gels for a 3:30, 8 for 3:45 or 4:00, 9 for 4:30, 10 for 5:00.
 
 Want your whole race planned like this? Email us your race and goal time through the link in the bio and we'll send your plan, free.
 
 ## Pinned comment (final)
-"Do you put off your gels, or take them on the clock? 👇 First 30g gel at 20 minutes, then one every 30 minutes = 60g an hour (40g gels: every 40 min; 20-25g gels: every 20 min). Each gel 100m before a station with 3 sips of plain water. Missed one? Let it go, never 2 together. Late on: half now, half 2-3 minutes later. Want your whole race planned? Email us your race and goal time through the link in the bio."
+"Would you try drinking your gel? 👇 At the station: 3 sips to make room, squeeze the whole gel into the bottle, shake, sip it over the next 2K. First 30g gel at 20 minutes, then one every 30 = 60g an hour. Cups at your race? Gel 100m before, then 3-4 sips. Want your whole race planned? Email us your race and goal time through the link in the bio."
 
 ## Cover and opening frame (real image, one person, no crowd)
-**One runner mid-race holding a gel and looking at it, face hidden or
-turned away.** The line-one picture: the gel you don't want.
-Search (Google Images, then Pinterest), in this order:
-1. "runner holding energy gel during race"
-2. "marathon runner looking at energy gel"
-3. "energy gel in runner hand close up"
-Avoid crowds, readable brands, bibs with names, faces, and piles of gels
-(a product shot). Licence check: Google Images, Tools, Usage rights,
-Creative Commons licences, or the same image on Unsplash or Pexels; credit
-as the caption's last line. Post at lunchtime.
+**Best: shoot it yourself.** Your hand squeezing a gel into a small water
+bottle, brand label turned away or taped over. Real, new, it's the aha as a
+picture, and no licence needed.
+If you'd rather search: "squeezing energy gel into water bottle", then
+"runner holding water bottle and gel". Avoid crowds, readable brands and
+faces. Licence check: Google Images, Tools, Usage rights, Creative Commons
+licences. Post at lunchtime.
 
 ## Checklist audit (exceptions only)
-- Fuel in the title (P101): tested on purpose, strongest demand we have.
+- Fuel in the title (P101): tested on purpose; strongest demand we have.
 - Title is a question, not a proven shape.
-- Stages run on the gel, not strictly the race clock (start, every gel, a
-  missed one, 30K on).
-- 335 words, near the ceiling.
-
-## On-screen and caption numbers by stage (final)
-- FROM 20 MINUTES: 30G GEL AT 0:20, 0:50, 1:20, 1:50, 2:20, 2:50, 3:20, 3:50 (60G AN HOUR)
-- EVERY GEL: 100M BEFORE A STATION, 3-4 SIPS (100-150ML) PLAIN WATER, NEVER SPORTS DRINK
-- MISSED ONE: LET IT GO, NEVER 2 TOGETHER
-- 30K TO THE LINE: HALF NOW, HALF 2-3 MIN LATER
-
-## What to carry (30g gels, first at 20 min, every 30 min, none in the last 20 min, plus 1 spare)
-| Finish | Gel times | Gels | Carry |
-|---|---|---|---|
-| 3:30 | 0:20 to 2:50 | 6 | 7 |
-| 3:45 | 0:20 to 3:20 | 7 | 8 |
-| 4:00 | 0:20 to 3:20 | 7 | 8 |
-| 4:30 | 0:20 to 3:50 | 8 | 9 |
-| 5:00 | 0:20 to 4:20 | 9 | 10 |
-40g gels: every 40 minutes (about 60g an hour), so fewer to carry.
-Totals in the caption only, never in the audio (P124). At 30g each, 6 to 8
-gels is far fewer than the "eleven gels" that started the argument.
+- New to them: try it on an easy run this week (caption).
+- Dublin isn't named (the collab also shows on Luke's account).

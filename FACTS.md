@@ -33,6 +33,10 @@ with the date.
   5:00 carry 10. Totals in captions only, never in the audio.
 - Maths check: 30g every 30 minutes = 2 an hour = 60g. Every 20 minutes = 3
   an hour = 90g.
+- **Station bottles (Dublin): 250ml.** Drink-your-gel method (21 Oct): 3
+  sips first to make room, squeeze the whole gel in, shake, sip it over
+  the next 2K, finish before the next gel; no sports drink on top. Cup
+  races: gel 100m before the station, then 3-4 sips.
 - Every gel with 3 or 4 sips (100-150ml) of plain water, about 100m before
   a station. Never washed down with sports drink. Sports drink between gels.
 - Never 2 or more gels together (out of the wall). Missed one: let it go.

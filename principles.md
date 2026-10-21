@@ -4893,6 +4893,26 @@ the hook and the method.
 
 *Source: Luke, 21 October.*
 
+## P140 — Every video needs one aha that solves their actual problem
+
+Luke, 21 October, on the "final" gel script: "There's no real ingenuity...
+no aha or novel take... would somebody who really dislikes gels look at
+this and think, oh yeah, that's my problem solved?" The script told them
+how to put up with gels (water, the clock, don't double up), which they
+already knew.
+
+**The rule:**
+- Before writing, name the viewer's actual complaint in their words (the
+  emails: "sick of the texture", "hack it down") and the one thing they
+  don't know that removes it (drink the gel: squeeze it into the station
+  bottle).
+- Ask the test question before delivering: would someone with this
+  problem watch it and think "that's my problem solved"? If the answer is
+  "they'd cope better", rebuild.
+- The aha has to be practical with what they already have (P133).
+
+*Source: Luke, 21 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

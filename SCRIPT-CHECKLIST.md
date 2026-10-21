@@ -90,6 +90,9 @@ twice without being checked against the winners (P99).
       minutes = 60g). New topic: brief first.
 - [ ] **Line one in the method's unit (P139, Luke 21 Oct):** clock method,
       clock examples ("a gel at 50 minutes", not "at 15K").
+- [ ] **One aha that solves their actual problem (P140, Luke 21 Oct):**
+      their complaint in their words, the thing they don't know that removes
+      it. "Would they think: that's my problem solved?" Coping tips fail.
 - [ ] **Line one is a counter-position, not a big number** (P120, Luke
       16 Oct): "a dozen bagels a day" was a fact with no curiosity. Line
       one says something runners would argue with, leaves a question,
