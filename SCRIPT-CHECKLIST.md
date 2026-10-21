@@ -77,6 +77,9 @@ twice without being checked against the winners (P99).
       smell. Pain pictures only from what runners describe (dread, putting
       it off, sickly sweetness, sloshing, walking), and include the mental
       side.
+- [ ] **Reframe reworded every video (P136, Luke 21 Oct):** keep the job
+      (the odd thing is normal and right), new words each time; "that's your
+      race going to plan" retired.
 - [ ] **Line one is a counter-position, not a big number** (P120, Luke
       16 Oct): "a dozen bagels a day" was a fact with no curiosity. Line
       one says something runners would argue with, leaves a question,

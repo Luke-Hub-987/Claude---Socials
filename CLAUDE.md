@@ -20,9 +20,9 @@ every posted video.
 3. The three newest `ideas/*-review.md` files: the latest data.
 4. The newest scripts in `ideas/engine-room-nutrition/` (the house
    style, the hook stacks, the audit tables).
-5. `principles.md` (P1 to P135, about 4,400 lines): search it for the
+5. `principles.md` (P1 to P136, about 4,400 lines): search it for the
    rule you need; do not read it end to end. The newest rules (P97 to
-   P135) are at the end, before "Open questions for Luke".
+   P136) are at the end, before "Open questions for Luke".
 
 ## How we work (Luke's standing instructions)
 
@@ -113,8 +113,9 @@ every posted video.
   only when the topic is narrow: Dublin, sub-4).
 - Line one: run the P120 pre-flight (a tip is not a counter-position).
   Something you can photograph, turned into a paradox, ending
-  on the reframe "...and that is your race going to plan." (31.9% to
-  34% skip with it; 38.1% without; 43.1% when abstract). P112, P116.
+  on a reframe (31.9% to 34% skip with it; 38.1% without; 43.1% when
+  abstract). P112, P116. **New wording every video (P136): "that's your
+  race going to plan" is retired** ("and that's exactly how it should feel").
 - Then pain as a picture, the dream as a picture, a named concept that
   belongs to nobody, the save prompt. The hook never contains the
   answer; the stages close the loop and the rehook reopens it before
@@ -190,7 +191,7 @@ your half marathon time into a marathon goal (incl. after illness). Fri 23
 your marathon. 4:30 goes TikTok-only. Luke's goal: 1M lifetime IG views
 (840K on 19 Oct). Every pace in km and miles in captions (P129).
 
-Waiting on Luke: feedback on the gel script v3 (`ideas/engine-room-nutrition/2026-10-21-script-gel.md`: watch beep decides, gel debt, half now half later; v2 bar and gel smell rejected, P134, P135); emails per video (3:30, 4:30).
+Waiting on Luke: feedback on the gel script v4 (`ideas/engine-room-nutrition/2026-10-21-script-gel.md`: new hook from the email answers, not hungry at 15K, new reframe wording P136); emails per video (3:30, 4:30).
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
 
 Rejected topics: the last 10K (covered across six videos); anything

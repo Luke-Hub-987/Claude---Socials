@@ -4,7 +4,7 @@ brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-21
 slot: VIEWS (Wed 21), demand-led: inbox theme 1, "gel for marathon" 351K TikTok searches
 basis: Luke's notes and corrections (21 Oct: P133, P134, P135), stomach problems, water stations, out of the wall, P101, P109, P114, P120, P124 to P131
-status: v3 for Luke (v1 mixed flavours and v2 half a bar both rejected)
+status: v4 for Luke (new hook stack from the email answers; reframe reworded, P136)
 teleprompter: 2026-10-21-teleprompter-gel.txt
 ---
 
@@ -37,7 +37,22 @@ within a K. A missed gel is written off, never doubled up ("gel debt").
 Jelly sweets (4 or 5, about the same sugar) only if a gel truly won't go.
 Late on, half a gel with a sip, top folded, the rest 2 or 3 minutes later.
 
-## How the curiosity runs
+## v4 hook stack (Luke, 21 Oct: "okay, not great"; make the pain and dream visceral; stop repeating "that's your race going to plan"; use the email answers)
+**From the emails (names kept out of the repo):** one runner tried gels once,
+"got sick of the texture" and "had to hack the third one down", and asked
+"I wasn't hungry... should I not take it?"; another switched to coke "as
+can't handle any more gel"; one "rarely" has water with gels; most take one
+every 20 to 40 minutes; several save caffeine for the second half; one asked
+about chews as well as gels.
+
+| Moment | Line | What it does |
+|---|---|---|
+| Line one | "...take your gel at 15K even when you're not one bit hungry, and that's exactly how it should feel." | Answers the email question directly. Counter-position: most only eat when hungry. New reframe wording, same job (P136) |
+| Pain | "...force 2 down together, the texture's so thick you're hacking them down between breaths... sloshing with every step while you walk through a drink station, watching your time go." | Built from the emails' own words ("texture", "hack it down"); every detail real (P135) |
+| Dream | "...at 38K your gel's gone in 30 seconds, your legs are still turning over, and you're picking people off one lamppost at a time." | Three pictures you can see; "one lamppost at a time" is our consistency line |
+| Named unknown | "...a way of taking a gel that makes every one after 30K easy." | Held to the last stage (half now, half later) |
+
+## How the curiosity ran in v3 (body unchanged)
 | Moment | Line | What it does |
 |---|---|---|
 | Line one | "...you should take a gel at 15K that you really don't want, and that's your race going to plan." | Most people skip the one they don't want. **Opens:** why force it? |
@@ -59,12 +74,14 @@ Late on, half a gel with a sip, top folded, the rest 2 or 3 minutes later.
 sweets as a fallback. Watch alerts are on any Garmin, Coros or phone app.
 The dread-and-delay pattern is what the inbox describes.
 
-## Script v3 (335 words, about 1:40)
-If you're running a marathon in the next few weeks, you should take a gel at 15K that you really don't want, and that's your race going to plan.
+## Script v4 (340 words, about 1:42)
+If you're running a marathon in the next few weeks, you should take your gel at 15K even when you're not one bit hungry, and that's exactly how it should feel.
 
-Skip it, and by 25K you're dreading the next one and putting it off, station after station. Then at 30K you're empty, you force 2 down together, and your stomach's sloshing while you walk the next 5K. Sort this out, and every gel is a 30-second job you don't even think about.
+Skip it, and at 30K you pay for it. You force 2 down together, the texture's so thick you're hacking them down between breaths, and 10 minutes later they're sloshing with every step while you walk through a drink station, watching your time go.
 
-And there's a way of taking a gel that makes the next one easy to face. Save this.
+Take it at 15K, and at 38K your gel's gone in 30 seconds, your legs are still turning over, and you're picking people off one lamppost at a time.
+
+And there's a way of taking a gel that makes every one after 30K easy. Save this.
 
 Before the start, set your watch to beep at the times you took gels on your long runs. When it beeps, you take it. No deciding, no "I'll wait for the next station". The dread comes from the arguing, and the beep ends the argument.
 
@@ -72,7 +89,7 @@ Want your whole race planned like this? Email us your race and goal time through
 
 If there's a water station in the next K, take the gel about 100 metres before it, then 3 good sips of plain water. If there isn't, take it now and drink at the next one. Never wash it down with sports drink.
 
-Miss one, and let it go. Never take 2 together to catch up. That's gel debt, and paying it back at 30K is what leaves you sloshing. If you really can't face a gel, 4 or 5 jelly sweets is about the same sugar.
+Miss one, and let it go. Never take 2 together to catch up. That's gel debt, and paying it back at 30K is what leaves you sloshing.
 
 So how do you make the next one easy to face?
 
@@ -103,7 +120,7 @@ Don't take it in one go. Tear it open, take half with a sip of water, fold the t
 | Invented sensations (P135) | None: no smell; "thick, sickly-sweet" is how gels are described |
 
 ## Caption (final)
-Can't face another gel in a marathon? Most of the dread comes from deciding, and most of the stomach trouble comes from catching up.
+Can't face another gel in a marathon? Most of the dread comes from deciding, and most of the stomach trouble comes from catching up. And if you're not hungry at 15K, that's normal: take it anyway, because that gel is for 30K.
 
 Before the start, set your watch to beep at the times you took gels on your long runs. When it beeps, you take it. No "I'll wait for the next station".
 

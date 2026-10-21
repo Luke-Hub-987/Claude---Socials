@@ -4814,6 +4814,26 @@ sticky smell alone stops you dead") was invented for effect.
 
 *Source: Luke, 21 October.*
 
+## P136 — Keep the reframe's job, change its words
+
+Luke, 21 October: "that's your race going to plan" has been said "over and
+over and over again... people are going to get tired of it." The data
+credits the reframe (31.9% to 34% skip with one, 38.1% without), but that is
+the job it does (it tells the viewer the odd thing in line one is normal and
+right), not the exact words.
+
+**The rule:**
+- Every line one still ends on a reframe that makes the counter-position
+  normal and true, but in new words each video, fitted to the line ("and
+  that's exactly how it should feel"; "and that's the plan working"; "and
+  that's how it's meant to go").
+- Never the same reframe wording two videos running; "that's your race
+  going to plan" is retired for now.
+- Track skip against the new wordings in the reviews to see if any beat
+  the old one.
+
+*Source: Luke, 21 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
