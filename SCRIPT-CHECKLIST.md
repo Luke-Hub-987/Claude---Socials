@@ -80,6 +80,10 @@ twice without being checked against the winners (P99).
 - [ ] **Reframe reworded every video (P136, Luke 21 Oct):** keep the job
       (the odd thing is normal and right), new words each time; "that's your
       race going to plan" retired.
+- [ ] **Aligned with every earlier script (P137, Luke 21 Oct):** search
+      how we said it before and say it the same way (first gel at 20
+      minutes, a 20-25g gel every 20 minutes by the clock, plain water). No
+      setup steps like watch alerts.
 - [ ] **Line one is a counter-position, not a big number** (P120, Luke
       16 Oct): "a dozen bagels a day" was a fact with no curiosity. Line
       one says something runners would argue with, leaves a question,

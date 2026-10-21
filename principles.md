@@ -4834,6 +4834,25 @@ right), not the exact words.
 
 *Source: Luke, 21 October.*
 
+## P137 — Stay aligned with what every earlier script said, and add no setup steps
+
+Luke, 21 October, on the gel v4 ("set your watch to beep at the times you
+took gels on your long runs"): "We've been telling people the whole way up
+to take a gel every 20 minutes from the very first 20 minutes. And now we're
+telling them to set your watch to beep. I don't even know how to do that."
+
+**The rule:**
+- Before writing any fuel or pacing line, search the earlier scripts for
+  how we said it, and say it the same way. Gels: first gel at 20 minutes,
+  then a 20 to 25g gel every 20 minutes by the clock, with plain water (a
+  40g gel every 30 to 40 minutes). P124 bans a total count, not this.
+- No new setup steps the viewer has to work out (watch alerts, apps,
+  settings). The tool is what's already on their wrist: the time.
+- A new video adds a new idea on top of the old line; it never swaps the
+  old line for a new mechanism.
+
+*Source: Luke, 21 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

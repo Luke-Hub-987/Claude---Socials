@@ -4,7 +4,7 @@ brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-21
 slot: VIEWS (Wed 21), demand-led: inbox theme 1, "gel for marathon" 351K TikTok searches
 basis: Luke's notes and corrections (21 Oct: P133, P134, P135), stomach problems, water stations, out of the wall, P101, P109, P114, P120, P124 to P131
-status: v4 for Luke (new hook stack from the email answers; reframe reworded, P136)
+status: v5 for Luke (watch beeps replaced by the clock rule every earlier video gives: first gel at 20 minutes, then every 20, P137)
 teleprompter: 2026-10-21-teleprompter-gel.txt
 ---
 
@@ -23,14 +23,14 @@ teleprompter: 2026-10-21-teleprompter-gel.txt
 **IN A MARATHON?**
 
 **Markers:**
-1. THE START LINE: LET THE WATCH DECIDE
+1. FROM 20 MINUTES: EVERY 20, BY THE CLOCK
 2. EVERY GEL: 100M BEFORE THE WATER
 3. MISSED ONE? LET IT GO
 4. 30K TO THE LINE: HALF NOW, HALF LATER
 
 ## The method (P127)
-The decision is made before the start: the watch beeps at the times they
-used on their long runs, and the beep is the decision (the mental part:
+The decision is made by the clock, as every earlier video says: first gel
+at 20 minutes, then a 20-25g gel every 20 minutes (the mental part:
 dread comes from arguing with yourself). Each gel about 100 m before a
 station with 3 good sips of plain water, or straight away if no station
 within a K. A missed gel is written off, never doubled up ("gel debt").
@@ -59,8 +59,8 @@ about chews as well as gels.
 | Pain | "...dreading the next one and putting it off, station after station... you force 2 down together, and your stomach's sloshing while you walk the next 5K." | The real sequence (dread, delay, doubling up, sloshing), with no invented sensations (P135) |
 | Dream | "...every gel is a 30-second job you don't even think about." | The mental relief, as a picture |
 | Named unknown | "...a way of taking a gel that makes the next one easy to face." | Held to the last stage |
-| Stage 1 | Let the watch decide | The mental element: the beep ends the argument |
-| CTA (P128) | "Want your whole race planned like this?" | A third of the way in; "Now, the beep" pulls them back |
+| Stage 1 | Every 20 minutes by the clock | The mental element: the clock ends the argument |
+| CTA (P128) | "Want your whole race planned like this?" | A third of the way in; "Now, the clock" pulls them back |
 | Stage 3 | "That's gel debt, and paying it back at 30K is what leaves you sloshing." | Answers line one (why take the 15K gel) |
 | Rehook | "So how do you make the next one easy to face?" | Reopens the named unknown |
 | Payoff | Half now, half 2 or 3 minutes later | Something they didn't know: a gel doesn't have to go in one go |
@@ -74,7 +74,7 @@ about chews as well as gels.
 sweets as a fallback. Watch alerts are on any Garmin, Coros or phone app.
 The dread-and-delay pattern is what the inbox describes.
 
-## Script v4 (340 words, about 1:42)
+## Script v5 (340 words, about 1:42)
 If you're running a marathon in the next few weeks, you should take your gel at 15K even when you're not one bit hungry, and that's exactly how it should feel.
 
 Skip it, and at 30K you pay for it. You force 2 down together, the texture's so thick you're hacking them down between breaths, and 10 minutes later they're sloshing with every step while you walk through a drink station, watching your time go.
@@ -83,9 +83,9 @@ Take it at 15K, and at 38K your gel's gone in 30 seconds, your legs are still tu
 
 And there's a way of taking a gel that makes every one after 30K easy. Save this.
 
-Before the start, set your watch to beep at the times you took gels on your long runs. When it beeps, you take it. No deciding, no "I'll wait for the next station". The dread comes from the arguing, and the beep ends the argument.
+Your first gel goes in at 20 minutes, then every 20 minutes, a standard 20 to 25g gel each time. When your watch says 20, 40 or the hour, you take it. No deciding, no "I'll wait for the next station". The dread comes from the arguing, and the clock ends it.
 
-Want your whole race planned like this? Email us your race and goal time through the link in the bio and we'll send you your plan, free. Now, the beep.
+Want your whole race planned like this? Email us your race and goal time through the link in the bio and we'll send you your plan, free. Now, the clock.
 
 If there's a water station in the next K, take the gel about 100 metres before it, then 3 good sips of plain water. If there isn't, take it now and drink at the next one. Never wash it down with sports drink.
 
@@ -93,9 +93,9 @@ Miss one, and let it go. Never take 2 together to catch up. That's gel debt, and
 
 So how do you make the next one easy to face?
 
-Don't take it in one go. Tear it open, take half with a sip of water, fold the top over and hold it, then finish it 2 or 3 minutes later with your 3 sips. 2 small hits sit far better than 1 thick, sickly-sweet mouthful, and there's nothing left to dread. That's how you're still taking gels at 40K, and still running.
+Don't take it in one go. Take half with a sip of water, fold the top over and hold it, then finish it 2 or 3 minutes later with your 3 sips. 2 small hits sit far better than 1 thick, sickly-sweet mouthful. That's how you're still taking gels at 40K, and still running.
 
-(Markers: THE START LINE on "Before the start"; EVERY GEL on "If there's a water station"; MISSED ONE on "Miss one"; 30K TO THE LINE on "Don't take it in one go".)
+(Markers: FROM 20 MINUTES on "Your first gel goes in"; EVERY GEL on "If there's a water station"; MISSED ONE on "Miss one"; 30K TO THE LINE on "Don't take it in one go".)
 
 ## Science check
 - Doubling up late is the stomach trouble: concentrated sugar plus little
@@ -103,8 +103,10 @@ Don't take it in one go. Tear it open, take half with a sip of water, fold the t
   once"); water with every gel (stomach problems, water stations).
 - Half a gel, then the rest a few minutes later: a smaller dose at a time,
   same grams. Sound reasoning; no study claimed.
-- Watch beeps at long-run times: no gel count or frequency stated (P124);
-  they use their own schedule.
+- First gel at 20 minutes, then every 20 (20-25g), grams first (P118):
+  the line every earlier video uses (the wall, first 10 minutes, second
+  half, first half). No total count (P124). 40g gels every 30-40 minutes
+  in the caption, as before.
 - Jelly sweets ~5g each, so 4 or 5 is about a gel (gel alternatives).
 
 ## AI-writing check (P35, P125)
@@ -115,14 +117,14 @@ Don't take it in one go. Tear it open, take half with a sip of water, fold the t
 | Template lines | "Get this right" (3:30), "Do this instead" (3:45), "still running at 35K" (4:30) avoided |
 | Em dashes, colon lists | None |
 | Contractions | Throughout |
-| Staccato fragments | "Miss one, and let it go." and "Now, the beep." are deliberate turns |
+| Staccato fragments | "Miss one, and let it go." and "Now, the clock." are deliberate turns |
 | Second readings (P114) | Hook has "stomach's sloshing", no mouth or swallow words; "mouthful" is in the last stage |
 | Invented sensations (P135) | None: no smell; "thick, sickly-sweet" is how gels are described |
 
 ## Caption (final)
 Can't face another gel in a marathon? Most of the dread comes from deciding, and most of the stomach trouble comes from catching up. And if you're not hungry at 15K, that's normal: take it anyway, because that gel is for 30K.
 
-Before the start, set your watch to beep at the times you took gels on your long runs. When it beeps, you take it. No "I'll wait for the next station".
+Your first gel goes in at 20 minutes, then a 20 to 25g gel every 20 minutes. When your watch says 20, 40 or the hour, you take it. No "I'll wait for the next station". Using 40g gels? One every 30 to 40 minutes.
 
 If there's a water station in the next K, take the gel about 100 metres before it, then 3 good sips (100 to 150ml) of plain water. If there isn't, take it now and drink at the next one. Never wash a gel down with sports drink.
 
@@ -133,7 +135,7 @@ Late on, don't take it in one go. Take half with a sip of water, fold the top ov
 Want your whole race planned like this? Email us your race and goal time through the link in the bio and we'll send your plan, free.
 
 ## Pinned comment (final)
-"Do you put off your gels, or take them on the beep? 👇 Watch alert at your long-run gel times. Each gel 100m before a station with 3 sips of plain water. Missed one? Let it go, never 2 together. Late on: half now, half 2-3 minutes later. Want your whole race planned? Email us your race and goal time through the link in the bio."
+"Do you put off your gels, or take them on the clock? 👇 First gel at 20 minutes, then a 20-25g gel every 20 minutes (40g gels: every 30-40 minutes). Each gel 100m before a station with 3 sips of plain water. Missed one? Let it go, never 2 together. Late on: half now, half 2-3 minutes later. Want your whole race planned? Email us your race and goal time through the link in the bio."
 
 ## Cover and opening frame (real image, one person, no crowd)
 **One runner mid-race holding a gel and looking at it, face hidden or
