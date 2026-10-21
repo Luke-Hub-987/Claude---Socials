@@ -28,6 +28,11 @@ with the date.
   (on the clock: 20 and 50 past). 40g gels: every 40 minutes. 20-25g gels:
   every 20 minutes. Do the maths before writing: 30g every 20 minutes is
   90g an hour, too much.
+- **What to carry** (30g, first at 20 min, every 30, none in the last 20
+  minutes, plus 1 spare): 3:30 carry 7, 3:45 and 4:00 carry 8, 4:30 carry 9,
+  5:00 carry 10. Totals in captions only, never in the audio.
+- Maths check: 30g every 30 minutes = 2 an hour = 60g. Every 20 minutes = 3
+  an hour = 90g.
 - Every gel with 3 or 4 sips (100-150ml) of plain water, about 100m before
   a station. Never washed down with sports drink. Sports drink between gels.
 - Never 2 or more gels together (out of the wall). Missed one: let it go.

@@ -4,7 +4,7 @@ brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-21
 slot: VIEWS (Wed 21), demand-led: inbox theme 1, "gel for marathon" 351K TikTok searches
 basis: Luke's notes and corrections (21 Oct: P133, P134, P135), stomach problems, water stations, out of the wall, P101, P109, P114, P120, P124 to P131
-status: v6 for Luke (30g gel baseline from the emails, P138; 30g every 30 min = 60g an hour). Earlier: v5 (watch beeps replaced by the clock rule every earlier video gives: first gel at 20 minutes, then every 20, P137)
+status: FINAL v7 (line one on the clock, 50 minutes, P139). v6 (30g gel baseline from the emails, P138; 30g every 30 min = 60g an hour). Earlier: v5 (watch beeps replaced by the clock rule every earlier video gives: first gel at 20 minutes, then every 20, P137)
 teleprompter: 2026-10-21-teleprompter-gel.txt
 ---
 
@@ -75,11 +75,11 @@ sweets as a fallback. Watch alerts are on any Garmin, Coros or phone app.
 The dread-and-delay pattern is what the inbox describes.
 
 ## Script v5 (340 words, about 1:42)
-If you're running a marathon in the next few weeks, you should take your gel at 15K even when you're not one bit hungry, and that's exactly how it should feel.
+If you're running a marathon in the next few weeks, you should take a gel at 50 minutes even when you're not one bit hungry, and that's exactly how it should feel.
 
 Skip it, and at 30K you pay for it. You force 2 down together, the texture's so thick you're hacking them down between breaths, and 10 minutes later they're sloshing with every step while you walk through a drink station, watching your time go.
 
-Take it at 15K, and at 38K your gel's gone in 30 seconds, your legs are still turning over, and you're picking people off one lamppost at a time.
+Take it at 50 minutes, and at 38K your gel's gone in 30 seconds, your legs are still turning over, and you're picking people off one lamppost at a time.
 
 And there's a way of taking a gel that makes every one after 30K easy. Save this.
 
@@ -155,3 +155,21 @@ as the caption's last line. Post at lunchtime.
 - Stages run on the gel, not strictly the race clock (start, every gel, a
   missed one, 30K on).
 - 335 words, near the ceiling.
+
+## On-screen and caption numbers by stage (final)
+- FROM 20 MINUTES: 30G GEL AT 0:20, 0:50, 1:20, 1:50, 2:20, 2:50, 3:20, 3:50 (60G AN HOUR)
+- EVERY GEL: 100M BEFORE A STATION, 3-4 SIPS (100-150ML) PLAIN WATER, NEVER SPORTS DRINK
+- MISSED ONE: LET IT GO, NEVER 2 TOGETHER
+- 30K TO THE LINE: HALF NOW, HALF 2-3 MIN LATER
+
+## What to carry (30g gels, first at 20 min, every 30 min, none in the last 20 min, plus 1 spare)
+| Finish | Gel times | Gels | Carry |
+|---|---|---|---|
+| 3:30 | 0:20 to 2:50 | 6 | 7 |
+| 3:45 | 0:20 to 3:20 | 7 | 8 |
+| 4:00 | 0:20 to 3:20 | 7 | 8 |
+| 4:30 | 0:20 to 3:50 | 8 | 9 |
+| 5:00 | 0:20 to 4:20 | 9 | 10 |
+40g gels: every 40 minutes (about 60g an hour), so fewer to carry.
+Totals in the caption only, never in the audio (P124). At 30g each, 6 to 8
+gels is far fewer than the "eleven gels" that started the argument.

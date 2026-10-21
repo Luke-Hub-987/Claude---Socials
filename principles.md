@@ -4880,6 +4880,19 @@ mistake was always a new one.
 
 *Source: Luke, 21 October.*
 
+## P139 — Line one uses the same unit as the method
+
+Luke, 21 October, on the gel v6 line one ("take your gel at 15K"): "a bit
+tenuous". The method runs on the clock (20 and 50 past), and a gel at 15K
+lands at a different time for every runner. Line one now says "a gel at 50
+minutes".
+
+**The rule:** if the method is by the clock, line one and every example
+are by the clock; if it's by distance, by distance. Never mix units between
+the hook and the method.
+
+*Source: Luke, 21 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
