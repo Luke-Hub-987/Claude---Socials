@@ -52,13 +52,13 @@ Your first 30g gel goes in at 20 minutes, then one every 30 minutes, which is 60
 
 Want your whole race planned like this? Email us your race and goal time through the link in the bio and we'll send you your plan, free. Back to the station.
 
-Grab a bottle and take 3 sips first, because a full bottle has no room for the gel. Squeeze the whole gel in, cap back on, and give it a shake.
+Grab a bottle and take 3 sips first, because a full bottle has no room for the gel. Squeeze the whole gel in, cap on, and shake it.
 
-Then sip it over the next 2K, and finish it before your next gel is due. That bottle is your drink for that half hour, so no sports drink on top. If the bottle's not gone, the carbs aren't either, so drink it all.
+Then sip it over the next 2K, and finish it before your next gel is due. That bottle is your drink for that half hour, so no sports drink on top. If the bottle's not gone, the carbs aren't either.
 
 So why does the same gel sit so much better in a bottle?
 
-Your stomach was always going to get the gel and the water together. Eat it, and it lands as a thick, sweet lump with a few sips chasing it. Drink it, and it arrives already mixed, a mouthful at a time. Same 30g, nothing to hack down, and at 38K you're still sipping, and still running.
+Your stomach always gets the gel and the water together. Eat it, and it lands as a thick, sweet lump with a few sips chasing it. Drink it, and it arrives already mixed, a mouthful at a time. Same 30g, nothing to hack down, and at 38K you're still sipping, and still running.
 
 (Markers: FROM 20 MINUTES on "Your first 30g gel"; AT THE STATION on "Grab a bottle"; THE NEXT 2K on "Then sip it"; 30K TO THE LINE on "Your stomach was always".)
 
@@ -85,7 +85,7 @@ Can't face another gel by 30K? Try drinking your next one instead of eating it. 
 
 Your first 30g gel goes in at 20 minutes, then one every 30 minutes, which is 60g of carbs an hour: 0:20, 0:50, 1:20, 1:50, 2:20, 2:50, 3:20 and 3:50. Land each one on a water station, give or take 5 minutes. Using 40g gels? One every 40 minutes.
 
-At the station, grab a bottle and take 3 sips first, because a full bottle has no room for the gel. Squeeze the whole gel in, cap back on, and give it a shake. Then sip it over the next 2K and finish it before your next gel is due. That bottle is your drink for that half hour, so no sports drink on top. If the bottle's not gone, the carbs aren't either.
+At the station, grab a bottle and take 3 sips first, because a full bottle has no room for the gel. Squeeze the whole gel in, cap on, and shake it. Then sip it over the next 2K and finish it before your next gel is due. That bottle is your drink for that half hour, so no sports drink on top. If the bottle's not gone, the carbs aren't either.
 
 Why it works: your stomach was always getting the gel and the water together. Eaten, it lands as a thick, sweet lump with a few sips chasing it. Drunk, it arrives already mixed. Same 30g, nothing to hack down.
 
