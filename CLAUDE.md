@@ -201,7 +201,7 @@ your half marathon time into a marathon goal (incl. after illness). Fri 23
 your marathon. 4:30 goes TikTok-only. Luke's goal: 1M lifetime IG views
 (840K on 19 Oct). Every pace in km and miles in captions (P129).
 
-Waiting on Luke: pick for Thu 22 (`ideas/engine-room-nutrition/2026-10-21-next-topics.md`: 5:00 pacing recommended, then goal gone at 25K on Fri); brief first (P138); emails per video.
+Waiting on Luke: go on the 1M plan (`ideas/2026-10-21-1M-analysis.md`: the 30-day window peaks around 25-26 Oct, then the wall drops out; Thu goal gone at 25K, Fri wall remake, Sat night before, Sat 8pm race morning); emails per video come from the list's sign-up dates.
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
 
 Rejected topics: the last 10K (covered across six videos); anything
@@ -209,8 +209,8 @@ after the finish line (Luke, 15 Oct); in-race fuel amounts while the
 "eleven gels" argument is live (Luke, 17 Oct, P124). TikTok-only idea: goal-time
 versions (sub-3:30, sub-4:30) using the sub-4 template.
 
-Upcoming races in the audience: Amsterdam 18 Oct, Dublin and Frankfurt
-26 Oct, New York 1 Nov. Held: the "how to actually enjoy your marathon"
+Upcoming races in the audience: Amsterdam 18 Oct, **Dublin and Frankfurt
+Sunday 25 Oct** (26 Oct is the bank holiday Monday), New York 1 Nov. Held: the "how to actually enjoy your marathon"
 creative for the day before Dublin. Covers: Luke picks from search
 terms (Google Images, Pinterest), with a licence check.
 

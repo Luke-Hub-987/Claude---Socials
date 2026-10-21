@@ -20,6 +20,11 @@ with the date.
 - **Their watch:** Garmin live pace moves in 5-second steps (P132). They
   read the time of day / race time easily.
 
+## Dates
+- Dublin and Frankfurt marathons: Sunday 25 Oct 2026. New York: Sunday 1 Nov.
+- The views target is Instagram only, rolling 30 days. The wall (27 Sep)
+  and 7 days (3 Oct) drop out between 27 Oct and 3 Nov.
+
 ## Fuel: the numbers we use (P118, P124, P137, P138)
 - **Baseline gel: 30g of carbs** (Precision, and most gels this audience
   uses, are 30g or 40g; some older ones are 20 to 25g).
