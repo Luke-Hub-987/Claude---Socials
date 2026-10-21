@@ -4,7 +4,7 @@ brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-21
 slot: VIEWS (Wed 21), demand-led: inbox theme 1, "gel for marathon" 351K TikTok searches
 basis: Luke's notes and corrections (21 Oct: P133, P134, P135), stomach problems, water stations, out of the wall, P101, P109, P114, P120, P124 to P131
-status: FINAL v7 (line one on the clock, 50 minutes, P139). v6 (30g gel baseline from the emails, P138; 30g every 30 min = 60g an hour). Earlier: v5 (watch beeps replaced by the clock rule every earlier video gives: first gel at 20 minutes, then every 20, P137)
+status: FINAL v8 (line one says "your second gel", so it holds whatever the schedule, P139). v7 v6 (30g gel baseline from the emails, P138; 30g every 30 min = 60g an hour). Earlier: v5 (watch beeps replaced by the clock rule every earlier video gives: first gel at 20 minutes, then every 20, P137)
 teleprompter: 2026-10-21-teleprompter-gel.txt
 ---
 
@@ -75,11 +75,11 @@ sweets as a fallback. Watch alerts are on any Garmin, Coros or phone app.
 The dread-and-delay pattern is what the inbox describes.
 
 ## Script v5 (340 words, about 1:42)
-If you're running a marathon in the next few weeks, you should take a gel at 50 minutes even when you're not one bit hungry, and that's exactly how it should feel.
+If you're running a marathon in the next few weeks, you should take your second gel even when you're not one bit hungry, and that's exactly how it should feel.
 
 Skip it, and at 30K you pay for it. You force 2 down together, the texture's so thick you're hacking them down between breaths, and 10 minutes later they're sloshing with every step while you walk through a drink station, watching your time go.
 
-Take it at 50 minutes, and at 38K your gel's gone in 30 seconds, your legs are still turning over, and you're picking people off one lamppost at a time.
+Take it anyway, and at 38K your gel's gone in 30 seconds, your legs are still turning over, and you're picking people off one lamppost at a time.
 
 And there's a way of taking a gel that makes every one after 30K easy. Save this.
 
