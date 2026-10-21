@@ -60,7 +60,7 @@ about chews as well as gels.
 | Dream | "...every gel is a 30-second job you don't even think about." | The mental relief, as a picture |
 | Named unknown | "...a way of taking a gel that makes the next one easy to face." | Held to the last stage |
 | Stage 1 | Every 20 minutes by the clock | The mental element: the clock ends the argument |
-| CTA (P128) | "Want your whole race planned like this?" | A third of the way in; "Now, the clock" pulls them back |
+| CTA (P128) | "Want your whole race planned like this?" | A third of the way in; "Back to the gels" pulls them back |
 | Stage 3 | "That's gel debt, and paying it back at 30K is what leaves you sloshing." | Answers line one (why take the 15K gel) |
 | Rehook | "So how do you make the next one easy to face?" | Reopens the named unknown |
 | Payoff | Half now, half 2 or 3 minutes later | Something they didn't know: a gel doesn't have to go in one go |
@@ -85,7 +85,7 @@ And there's a way of taking a gel that makes every one after 30K easy. Save this
 
 Your first gel goes in at 20 minutes, then every 20 minutes, a standard 20 to 25g gel each time. When your watch says 20, 40 or the hour, you take it. No deciding, no "I'll wait for the next station". The dread comes from the arguing, and the clock ends it.
 
-Want your whole race planned like this? Email us your race and goal time through the link in the bio and we'll send you your plan, free. Now, the clock.
+Want your whole race planned like this? Email us your race and goal time through the link in the bio and we'll send you your plan, free. Back to the gels.
 
 If there's a water station in the next K, take the gel about 100 metres before it, then 3 good sips of plain water. If there isn't, take it now and drink at the next one. Never wash it down with sports drink.
 
@@ -117,7 +117,7 @@ Don't take it in one go. Take half with a sip of water, fold the top over and ho
 | Template lines | "Get this right" (3:30), "Do this instead" (3:45), "still running at 35K" (4:30) avoided |
 | Em dashes, colon lists | None |
 | Contractions | Throughout |
-| Staccato fragments | "Miss one, and let it go." and "Now, the clock." are deliberate turns |
+| Staccato fragments | "Miss one, and let it go." and "Back to the gels." are deliberate turns |
 | Second readings (P114) | Hook has "stomach's sloshing", no mouth or swallow words; "mouthful" is in the last stage |
 | Invented sensations (P135) | None: no smell; "thick, sickly-sweet" is how gels are described |
 
