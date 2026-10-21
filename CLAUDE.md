@@ -186,11 +186,10 @@ half 17.6K at 14h; sub-4 at every 10K 14.5K at 18h (skip 40.8%) but
 best); quit ~14K at 14h; Dublin course (small reach, deepest
 engagement); taper and heavy legs missed.
 
-Latest review: `ideas/2026-10-20-430-review.md` (4:30 at ~10.5h, lunchtime
-post: 14.6K IG, TikTok 8.5K, **skip 37.0%, best of the goal-time series**:
-slower goal = bigger group; cover of one runner at a drink station, no
-crowd; CTA step at ~0:40; "lots of emails this week"). Before it: 3:30
-(8.9K at 12.5h, skip 48.9%, crowd frame, 6pm post); 3:45 (29.1K).
+Latest review: `ideas/2026-10-21-gel-review.md` (gel at ~5h: 5.8K, below
+typical; skip 35.8% good, saves 1.0%: most viewers don't have the problem;
+pick fears most of the audience has). Before it: 4:30 (14.6K at 10.5h,
+skip 37.0%, best goal-time); 3:30 (skip 48.9%); 3:45 (29.1K).
 Earlier: cold marathon (real cover 35.1% skip, 0.9% saves; AI covers
 retired), carb load (52.8K, our #2).
 
@@ -202,7 +201,7 @@ your half marathon time into a marathon goal (incl. after illness). Fri 23
 your marathon. 4:30 goes TikTok-only. Luke's goal: 1M lifetime IG views
 (840K on 19 Oct). Every pace in km and miles in captions (P129).
 
-Waiting on Luke: gel script FINAL v11 delivered (hook invites, P141; pain at 20K into a long run, P142; jellies and flavours in the caption) (`ideas/engine-room-nutrition/2026-10-21-script-gel.md`: drink your gel, squeezed into the 250ml station bottle; P140 one aha); emails per video (3:30, 4:30).
+Waiting on Luke: pick for Thu 22 (`ideas/engine-room-nutrition/2026-10-21-next-topics.md`: 5:00 pacing recommended, then goal gone at 25K on Fri); brief first (P138); emails per video.
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
 
 Rejected topics: the last 10K (covered across six videos); anything
