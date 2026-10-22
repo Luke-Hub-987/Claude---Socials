@@ -98,6 +98,9 @@ twice without being checked against the winners (P99).
       sceptic's thought; "save this for the day it isn't fine" keeps the rest.
 - [ ] **Pain moment the whole audience has lived (P142, Luke 21 Oct):** 20K
       into a long run, not 30K; training scenes keep training details.
+- [ ] **No maths on the course (P143, Luke 22 Oct):** numbers worked out
+      the night before and written on the wrist; mid-race = one look, one
+      switch.
 - [ ] **Line one is a counter-position, not a big number** (P120, Luke
       16 Oct): "a dozen bagels a day" was a fact with no curiosity. Line
       one says something runners would argue with, leaves a question,

@@ -24,9 +24,9 @@ every posted video.
 3. The three newest `ideas/*-review.md` files: the latest data.
 4. The newest scripts in `ideas/engine-room-nutrition/` (the house
    style, the hook stacks, the audit tables).
-5. `principles.md` (P1 to P142, about 4,400 lines): search it for the
+5. `principles.md` (P1 to P143, about 4,400 lines): search it for the
    rule you need; do not read it end to end. The newest rules (P97 to
-   P142) are at the end, before "Open questions for Luke".
+   P143) are at the end, before "Open questions for Luke".
 
 ## How we work (Luke's standing instructions)
 
@@ -201,7 +201,7 @@ your half marathon time into a marathon goal (incl. after illness). Fri 23
 your marathon. 4:30 goes TikTok-only. Luke's goal: 1M lifetime IG views
 (840K on 19 Oct). Every pace in km and miles in captions (P129).
 
-Waiting on Luke: goal gone script delivered (`ideas/engine-room-nutrition/2026-10-22-script-goal-gone.md`, post Thu 22 12:30 after trial reels A/B at 8am); next brief: start pen (Fri 23); race weekend plan in `ideas/engine-room-nutrition/2026-10-22-race-weekend-plan.md`.
+Waiting on Luke: goal gone script v2 delivered (2 numbers on the wrist, P143; `ideas/engine-room-nutrition/2026-10-22-script-goal-gone.md`, post Thu 22 12:30 after trial reels A/B at 8am); next brief: start pen (Fri 23); race weekend plan in `ideas/engine-room-nutrition/2026-10-22-race-weekend-plan.md`.
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
 
 Rejected topics: the last 10K (covered across six videos); anything

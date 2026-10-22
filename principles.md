@@ -4952,6 +4952,22 @@ audience knows doesn't land.
 
 *Source: Luke, 21 October.*
 
+## P143 — Decide it before the start; no maths on the course
+
+Luke, 22 October, on the goal-gone script ("double the minutes you're down
+and add it to your goal"): give a clearer example of how people can
+realistically use this on the course. At 25K, tired, nobody can do sums.
+
+**The rule:**
+- Anything a runner has to work out mid-race is worked out the night
+  before and written down (wrist, lock screen): the number to check and
+  the number to switch to.
+- On the course it's one comparison ("2:15 or later?") and one action
+  ("switch to the second number").
+- One full worked example in the audio (3:45), every goal in the caption.
+
+*Source: Luke, 22 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
