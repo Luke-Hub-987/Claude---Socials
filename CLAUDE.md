@@ -173,7 +173,7 @@ every posted video.
 
 ## Current state (update this every session)
 
-**As of 20 October 2026.**
+**As of 22 October 2026.**
 
 Grid (Instagram, ERN side): the wall 147K; **3:45 pacing 29.1K at ~17h, TikTok 10.9K (record), emails up with the CTA a third of the way in (P128)**; **carb load 52.8K at ~20h (our #2: 1.3K saves, 60 follows, a record; skip 46.7%)**; **without the wall 41.5K at
 18h** (record 39s watched on 1:37, save 3.2%, 25 comments; skip 39.3%
@@ -201,7 +201,7 @@ your half marathon time into a marathon goal (incl. after illness). Fri 23
 your marathon. 4:30 goes TikTok-only. Luke's goal: 1M lifetime IG views
 (840K on 19 Oct). Every pace in km and miles in captions (P129).
 
-Waiting on Luke: go on the race weekend plan (`ideas/engine-room-nutrition/2026-10-22-race-weekend-plan.md`: Thu goal gone at 25K, Fri start pen, Sat enjoy + Sat 8pm sleep, Mon walk); brief for Thu below in chat; spring pivot from 27 Oct.
+Waiting on Luke: goal gone script delivered (`ideas/engine-room-nutrition/2026-10-22-script-goal-gone.md`, post Thu 22 12:30 after trial reels A/B at 8am); next brief: start pen (Fri 23); race weekend plan in `ideas/engine-room-nutrition/2026-10-22-race-weekend-plan.md`.
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
 
 Rejected topics: the last 10K (covered across six videos); anything
