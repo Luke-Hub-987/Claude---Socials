@@ -4987,6 +4987,18 @@ uncomfortably clear" about it.
 
 *Source: Luke, 21 October.*
 
+## P145 — Instructions go in the chat, not only in a file
+
+Luke, 22 October, on the Shopify install guide: "just give me the
+instructions in here not in an md file." He follows steps on screen while
+clicking through Shopify and Klaviyo.
+
+**The rule:** step-by-step instructions (setup, installs, fixes) go in full
+in the chat reply, numbered, ready to follow. A file copy can sit in the repo
+as a record, but the chat is the deliverable.
+
+*Source: Luke, 22 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
