@@ -93,6 +93,31 @@
 .ern .y{color:#2DBE6C;font-weight:800;font-size:20px}.ern .n{color:#C9BFAE;font-weight:800;font-size:20px}
 .ern .vsbag .us.y{color:#fff}
 @media (max-width:640px){.ern .vsbag{font-size:13px}.ern .vsbag th{font-size:13px;padding:12px 4px}.ern .vsbag td{padding:12px 4px}.ern .vsbag td:first-child,.ern .vsbag th:first-child{padding-left:12px}}
+/* v6 bar hero */
+.ern .bh2{padding:40px 0 110px;position:relative}
+.ern .bh2 .giant{position:absolute;left:50%;top:46%;transform:translate(-50%,-50%);font:800 clamp(260px,42vw,620px)/.8 var(--fd);color:rgba(255,255,255,.1);letter-spacing:-.03em;pointer-events:none;white-space:nowrap}
+.ern .bh-grid{position:relative;display:grid;grid-template-columns:1fr 1.1fr;gap:30px;align-items:center}
+.ern .bh-art{position:relative;order:2}
+.ern .bh-art .pack{width:100%;--r:-8deg;transform:rotate(-8deg);filter:drop-shadow(0 50px 50px rgba(10,23,41,.5))}
+.ern .bh-st{right:2%;bottom:-6%;background:#fff;color:var(--ink);transform:rotate(10deg);width:118px;height:118px}
+.ern .bh-copy .kicker{color:#fff}
+.ern .bh-copy h1{color:#fff;font-size:clamp(52px,7vw,96px);line-height:.95}
+.ern .bh-copy h1 em{color:#FFC233}
+.ern .bh-copy .lede{color:rgba(255,255,255,.92);margin:16px 0 22px}
+.ern .joinbox .inline input{background:#fff;border:0}
+.ern .joinbox .fine{color:rgba(255,255,255,.8);text-align:left}
+.ern .joinbox .err{color:#FFE1DD}
+.ern .chips2{display:flex;flex-wrap:wrap;gap:8px;margin-top:22px}
+.ern .chips2 span{background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.25);border-radius:999px;padding:7px 14px;font:600 14px var(--fb);color:#fff}
+.ern .chips2 b{font:800 17px var(--fd);margin-right:3px}
+@media (max-width:960px){
+  .ern .bh-grid{grid-template-columns:1fr;gap:10px}
+  .ern .bh-art{order:0;margin:0 -8px}
+  .ern .bh2{padding-top:24px}
+  .ern .bh2 .giant{top:26%;font-size:70vw}
+  .ern .bh-st{width:92px;height:92px;font-size:13px;bottom:-4%}
+  .ern .bh-st b{font-size:22px!important}
+}
 /* graveyard */
 .ern .yard{display:grid;grid-template-columns:repeat(4,1fr);gap:22px;margin:52px 0 40px}
 @media (max-width:860px){.ern .yard{grid-template-columns:1fr 1fr}}
@@ -134,45 +159,30 @@
   </div>
 </header>
 
-<!-- 1. HERO -->
-<section class="bhero">
-  <div class="wrap grid">
-    <div>
-      <div class="kicker">Coming soon · first batch</div>
-      <h1>The Carb Bar. <em>Race morning, sorted.</em></h1>
-      <p class="lede">30g of carbs in a rice crisp square, made in Ireland. Eat it before the gun, so the first hour of your race isn't running on a breakfast you had at six.</p>
-      <div class="label" id="join">
-        <div class="band">Waitlist · first go at the first batch</div>
-        <div class="body">
-          <form id="wlForm" novalidate>
-            <div class="row2">
-              <div class="field"><label class="f" for="wl-name">First name</label><input id="wl-name" type="text" autocomplete="given-name" required></div>
-              <div class="field"><label class="f" for="wl-email">Email</label><input id="wl-email" type="email" autocomplete="email" inputmode="email" required></div>
-            </div>
-            <button class="btn" type="submit">Put me on the waitlist <span class="arr">→</span></button>
-            <div class="err" id="wl-err"></div>
-            <p class="fine">Free to join, no card. Unsubscribe in one click.</p>
-          </form>
-          <div class="done" id="wlDone" hidden>
-            <div style="width:54px;height:54px;border-radius:50%;background:#2DBE6C;color:#fff;display:grid;place-items:center;font-size:28px;margin-bottom:14px">✓</div>
-            <h3 style="font:400 30px/1.1 var(--fs);text-transform:none;letter-spacing:0">You're on the list.</h3>
-            <p class="muted" style="margin-top:10px">You'll hear about the bar before anyone else.</p>
-            <p style="margin:0"><b>Got a marathon coming up?</b> Get your free pace plan: your time at every 10K sign, worked out for your goal.</p>
-            <a class="btn sm" style="margin-top:14px" href="index.html#get-plan">Get my free pace plan</a>
-          </div>
+<!-- 1. HERO: the product is the star, one line, one box -->
+<section class="bhero bh2">
+  <div class="giant" aria-hidden="true">30g</div>
+  <div class="wrap bh-grid">
+    <div class="bh-art">
+      <img class="pack float" src="assets/ern-carb-bar-pack.webp" alt="The ERN Carb Bar pack: 30g carbs, made in Ireland" width="1200" height="783">
+      <div class="sticker bh-st"><div>Made in<br><b style="font-size:28px">Ireland</b></div></div>
+    </div>
+    <div class="bh-copy">
+      <div class="kicker">The ERN Carb Bar · coming soon</div>
+      <h1>Race morning, <em>sorted.</em></h1>
+      <p class="lede">30g of carbs in a rice crisp square. Eat it before the gun.</p>
+      <div id="join" class="joinbox">
+        <form id="wlForm" novalidate>
+          <div class="inline"><input id="wl-email" type="email" placeholder="Your email" autocomplete="email" inputmode="email" aria-label="Email" required><button class="btn white" type="submit">Get first go <span class="arr">→</span></button></div>
+          <div class="err" id="wl-err"></div>
+          <p class="fine">Small first batch. The waitlist hears first, with the founding price. No card.</p>
+        </form>
+        <div class="done" id="wlDone" hidden>
+          <h3 style="font:400 30px/1.1 var(--fs);text-transform:none;letter-spacing:0;color:#fff">You're on the list. ✓</h3>
+          <p style="margin:8px 0 0;color:rgba(255,255,255,.9)">Got a marathon coming up? <a href="index.html#get-plan" style="color:#fff;font-weight:700">Get your free pace plan →</a></p>
         </div>
       </div>
-      <ul class="perks">
-        <li>First go at the first batch, before it's posted anywhere</li>
-        <li>The founding price, for everyone on the list</li>
-        <li>The full label and launch date first</li>
-      </ul>
-    </div>
-    <div class="art">
-      <div class="plate"></div>
-      <img class="pack float" src="assets/ern-carb-bar-pack.webp" alt="The ERN Carb Bar pack: 30g carbs, made in Ireland">
-      <div class="sticker s1"><div><b>30g</b>carbs</div></div>
-      <div class="sticker blue s2" style="background:#fff;color:var(--ink)"><div>Made in<br><b style="font-size:30px">Ireland</b></div></div>
+      <div class="chips2"><span><b>1M+</b> views on our videos</span><span><b>100+</b> free plans sent</span><span><b>8</b> ingredients</span></div>
     </div>
   </div>
 </section>
@@ -344,11 +354,11 @@
   var $ = function(id){ return document.getElementById(id); };
   $('wlForm').addEventListener('submit', function(e){
     e.preventDefault();
-    var name = $('wl-name').value.trim(), email = $('wl-email').value.trim(), err = $('wl-err');
-    if (!name || !ERN.validEmail(email)) { err.textContent = 'Add your first name and email.'; err.style.display = 'block'; return; }
+    var email = $('wl-email').value.trim(), err = $('wl-err');
+    if (!ERN.validEmail(email)) { err.textContent = 'Add your email to join the waitlist.'; err.style.display = 'block'; return; }
     err.style.display = 'none';
     var btn = this.querySelector('button'); btn.disabled = true; btn.textContent = 'Adding you…';
-    ERN.subscribe('waitlistList', { email: email, first_name: name, properties: { bar_waitlist: true } }, 'Bar page').then(function(){
+    ERN.subscribe('waitlistList', { email: email, properties: { bar_waitlist: true } }, 'Bar page').then(function(){
       $('wlForm').hidden = true; $('wlDone').hidden = false;
     }).catch(function(){
       btn.disabled = false; btn.innerHTML = 'Put me on the waitlist <span class="arr">→</span>';

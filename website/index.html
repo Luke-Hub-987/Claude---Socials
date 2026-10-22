@@ -179,6 +179,65 @@
 .ern .lockcard img{width:62%;margin:0 auto 12px;border-radius:14px;box-shadow:0 10px 30px rgba(10,23,41,.3)}
 .ern .lockcard p{font-size:14px;margin:0 0 12px}
 .ern .lockcard .btn{margin-right:12px}
+/* v6 hero: question headline, race clock, splits, proof beside the button */
+.ern .hero2{padding:44px 0 40px}
+.ern .hero2 .grid{grid-template-columns:1.05fr .95fr;align-items:center}
+.ern .hero2 h1{font-size:clamp(46px,6.4vw,84px);line-height:.95}
+.ern .hero2 .lede.short{margin:14px 0 22px;font-size:clamp(18px,1.8vw,21px)}
+.ern .clockcard{max-width:560px}
+.ern .clockcard .body{padding:16px}
+.ern .clock{background:#0B1222;border-radius:16px;padding:14px 18px 10px;color:#fff;position:relative;overflow:hidden;box-shadow:inset 0 0 0 3px #1B2741}
+.ern .clock:before{content:"";position:absolute;inset:0;background:repeating-linear-gradient(0deg,rgba(255,255,255,.025) 0 2px,transparent 2px 4px);pointer-events:none}
+.ern .clock-top{display:flex;align-items:center;gap:8px;font:700 13px var(--fd);letter-spacing:.16em;text-transform:uppercase;color:#8EA0BF}
+.ern .clock-top .live{width:9px;height:9px;border-radius:50%;background:#FF4D3D;box-shadow:0 0 10px #FF4D3D;animation:ern-blink 1.4s infinite}
+@keyframes ern-blink{50%{opacity:.3}}
+.ern .clock-tag{margin-left:auto;background:#FFB020;color:#0B1222;border-radius:6px;padding:3px 8px;letter-spacing:.08em}
+.ern .clock-time{font:800 clamp(78px,11vw,118px)/1 var(--fd);color:#FFC233;text-shadow:0 0 18px rgba(255,176,32,.55);font-variant-numeric:tabular-nums;letter-spacing:.02em;margin:6px 0 2px}
+.ern .clock-time small{font-size:.45em;color:#C9922A;text-shadow:none;margin-left:4px}
+.ern .clock input[type=range]::-webkit-slider-runnable-track{background:linear-gradient(90deg,#FFB020 var(--p,30%),#26324D var(--p,30%))}
+.ern .clock input[type=range]::-webkit-slider-thumb{border-color:#FFB020}
+.ern .clock input[type=range]::-moz-range-progress{background:#FFB020}
+.ern .clock input[type=range]::-moz-range-track{background:#26324D}
+.ern .clock-scale{display:flex;justify-content:space-between;font:700 12px var(--fd);letter-spacing:.1em;color:#5F6F8D;margin-top:-4px}
+.ern .splits{display:grid;grid-template-columns:repeat(4,1fr);gap:6px;margin:12px 0 10px}
+.ern .sp{background:var(--blue-lt);border-radius:12px;padding:8px 6px 7px;text-align:center;position:relative}
+.ern .sp small{display:block;font:700 11px var(--fd);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.ern .sp b{display:block;font:800 24px/1.1 var(--fd);color:var(--ink);filter:blur(6px);user-select:none}
+.ern .sp i{font:700 11px var(--fd);font-style:normal;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.ern .sp.open{background:var(--blue)}
+.ern .sp.open small,.ern .sp.open i{color:rgba(255,255,255,.85)}
+.ern .sp.open b{color:#fff;filter:none}
+.ern .nsure{margin:0 0 12px}
+.ern .clockcard.off .clock,.ern .clockcard.off .splits{opacity:.35;pointer-events:none}
+.ern .proofstack{position:relative;display:grid;gap:12px;justify-items:start}
+.ern .mega b{display:block;font:400 clamp(56px,6vw,86px)/1 var(--fs);color:var(--ink);letter-spacing:-.02em}
+.ern .mega span{font:700 15px var(--fd);letter-spacing:.12em;text-transform:uppercase;color:var(--blue)}
+.ern .pcard{border-radius:18px;padding:12px 18px;color:#fff;min-width:250px;box-shadow:0 18px 40px -18px rgba(10,23,41,.45)}
+.ern .pcard small{display:block;font:700 13px var(--fd);letter-spacing:.08em;text-transform:uppercase;opacity:.85}
+.ern .pcard b{font:800 46px/1 var(--fd);margin-right:8px}
+.ern .pcard span{font-size:14px;opacity:.9}
+.ern .pcard.green{background:#2DBE6C;transform:rotate(-2deg);margin-left:10px}
+.ern .pcard.blue{background:var(--blue);transform:rotate(1.5deg);margin-left:60px}
+.ern .pcard.ink{background:var(--ink);transform:rotate(-1deg);margin-left:24px}
+.ern .dm{background:#fff;border:1px solid var(--line);border-radius:20px 20px 20px 6px;padding:12px 16px;max-width:330px;font-size:15px;box-shadow:0 12px 30px -16px rgba(10,23,41,.35);margin-left:40px}
+.ern .dm span{display:block;font:700 12px var(--fd);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-top:6px}
+.ern .proofstrip{display:flex;align-items:center;gap:12px;margin-top:22px}
+.ern .proofstrip p{margin:0;font-size:14px;line-height:1.35}
+.ern .proofstrip b{display:block;font:700 15px var(--fb)}
+.ern .proofstrip span{color:var(--muted)}
+.ern .faces{display:flex;flex:none}
+.ern .faces i{width:34px;height:34px;border-radius:50%;display:grid;place-items:center;font:800 15px var(--fd);font-style:normal;color:#fff;border:2px solid var(--cream);margin-left:-8px}
+.ern .faces i:first-child{margin-left:0}
+.ern .faces i:nth-child(1){background:#2DBE6C}.ern .faces i:nth-child(2){background:var(--blue)}.ern .faces i:nth-child(3){background:var(--ink)}.ern .faces i:nth-child(4){background:#FFB020}.ern .faces i:nth-child(5){background:#AF9567}
+@media (min-width:961px){.ern .proofstrip{display:none}}
+@media (max-width:960px){.ern .proofstack{display:none}.ern .hero2 .grid{grid-template-columns:1fr}}
+@media (max-width:560px){
+  .ern .hero2{padding:22px 0 28px}
+  .ern .hero2 h1{font-size:46px}
+  .ern .hero2 .lede.short{font-size:17px;margin:10px 0 16px}
+  .ern .clock-time{font-size:84px}
+  .ern .sp b{font-size:20px}
+}
 /* why it works */
 .ern .fgrid{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}
 @media (max-width:760px){.ern .fgrid{grid-template-columns:1fr}}
@@ -249,7 +308,7 @@
 <body style="margin:0">
 <div class="ern">
 
-<div class="race-bar">🏁 <b>100+ free pace plans sent.</b> Yours takes 20 seconds.<a href="#get-plan">Get it now</a></div>
+<div class="race-bar"><b>1M+ views</b> on our marathon videos · <b>100+</b> free pace plans sent<a href="#get-plan">Get yours</a></div>
 
 <header class="top">
   <div class="wrap">
@@ -264,30 +323,31 @@
 </header>
 
 <!-- 1. HERO: the offer, the gate, the plan -->
-<section class="hero">
+<section class="hero hero2">
   <div class="wrap grid">
     <div>
-      <div class="proofrow">
-        <div class="stat"><b>900K+</b><span>views on our videos</span></div>
-        <div class="stat"><b>100+</b><span>plans sent</span></div>
-        <div class="stat"><b>18,700</b><span>saves</span></div>
-      </div>
-      <div class="ticker" aria-live="off"><b>●</b><span id="tick">Dave took 45 minutes off at the Dublin Marathon</span></div>
-      <h1>Your free marathon pace plan, <em>on screen in 20 seconds.</em></h1>
-      <p class="lede">Drag to your goal time. You'll get the time to hit at every 10K sign, your watch pace in km and miles, and the minute to take each gel. It's the method from our videos, worked out for you.</p>
+      <div class="kicker">Free marathon pace plan</div>
+      <h1>What's your <em>goal time?</em></h1>
+      <p class="lede short">Drag the clock. Get the time to hit at every 10K sign.</p>
 
-      <div class="label" id="get-plan">
-        <div class="band">Free pace plan · shown on this page</div>
+      <div class="label clockcard" id="get-plan">
         <div class="body">
           <form id="planForm" novalidate>
-            <div class="goalpick">
-              <label class="f" for="pf-slider">Drag to your goal time</label>
-              <div class="gp-read"><b id="gpTime">3:45</b><span id="gpFree">Your 10K sign: <strong>54:00</strong></span></div>
+            <div class="clock" id="clock">
+              <div class="clock-top"><span class="live"></span>Your finish time<span class="clock-tag" id="clockTag">Goal</span></div>
+              <div class="clock-time"><span id="gpTime">3:45</span><small>:00</small></div>
               <input type="range" id="pf-slider" min="180" max="330" step="5" value="225" aria-label="Goal time">
-              <div class="gp-locks"><span>20K 🔒</span><span>30K 🔒</span><span>40K 🔒</span><span>Gels 🔒</span></div>
-              <label class="chk"><input type="checkbox" id="pf-notsure"> I don't have a goal yet</label>
+              <div class="clock-scale"><span>3:00</span><span>4:15</span><span>5:30</span></div>
             </div>
-            <div class="field"><label class="f" for="pf-race">Your race</label>
+            <div class="splits" id="splits">
+              <div class="sp open"><small>10K sign</small><b id="sp10">54:00</b><i>Free</i></div>
+              <div class="sp"><small>20K sign</small><b id="sp20">1:46</b><i>🔒</i></div>
+              <div class="sp"><small>30K sign</small><b id="sp30">2:39</b><i>🔒</i></div>
+              <div class="sp"><small>40K sign</small><b id="sp40">3:32</b><i>🔒</i></div>
+            </div>
+            <label class="chk nsure"><input type="checkbox" id="pf-notsure"> I don't have a goal yet</label>
+            <div class="row2">
+              <div class="field"><label class="f" for="pf-race">Your race</label>
                 <select id="pf-race" required>
                   <option value="">Pick your race</option>
                   <option>Dublin</option><option>Frankfurt</option><option>New York</option>
@@ -295,16 +355,13 @@
                   <option>Paris</option><option>London</option><option>Manchester</option>
                   <option>Belfast</option><option>Cork</option><option>Other</option>
                 </select></div>
+              <div class="field"><label class="f" for="pf-email">Your email</label><input id="pf-email" type="email" autocomplete="email" inputmode="email" required></div>
+            </div>
             <div hidden><select id="pf-goal" aria-hidden="true" tabindex="-1"></select></div>
             <div class="field" id="pf-other-wrap" hidden><label class="f" for="pf-other">Which race?</label><input id="pf-other" type="text" placeholder="e.g. Berlin, spring 2027"></div>
-            <div class="row2">
-              <div class="field"><label class="f" for="pf-email">Email</label><input id="pf-email" type="email" autocomplete="email" inputmode="email" required></div>
-              <div class="field"><label class="f" for="pf-name">First name <span class="muted" style="font-weight:400">(optional)</span></label><input id="pf-name" type="text" autocomplete="given-name"></div>
-            </div>
-            <button class="btn" type="submit">Unlock my full plan <span class="arr">→</span></button>
+            <button class="btn" type="submit">Unlock my free plan <span class="arr">→</span></button>
             <div class="err" id="pf-err"></div>
-            <div class="heads">Straight up: our emails sometimes land in Promotions or spam. That's why your plan appears right here on this page, and the email is a copy.</div>
-            <p class="fine">Free, no card. You'll get your plan, then race tips from us. Unsubscribe in one click.</p>
+            <p class="fine">Free, no card. Your plan shows here instantly, so no spam folder can hide it. Unsubscribe in one click.</p>
           </form>
 
           <!-- the plan, built in the browser the moment they sign up -->
@@ -355,23 +412,19 @@
       </div>
     </div>
 
-    <!-- live preview: follows their goal, times locked until the email -->
-    <div class="preview">
-      <div class="label">
-        <div class="band"><span id="pvBand">Preview · 3:45 goal</span><small>Unlocks with your email</small></div>
-        <div class="body">
-          <svg class="map" viewBox="0 0 560 430" role="img" aria-label="Marathon course with a time at each 10K sign">
-            <path id="road" class="road" d="M40 390 H400 C490 390 490 280 400 280 H160 C70 280 70 170 160 170 H400 C490 170 490 60 400 60 H120"/>
-            <path class="run" d="M40 390 H400 C490 390 490 280 400 280 H160 C70 280 70 170 160 170 H400 C490 170 490 60 400 60 H120"/>
-            <path id="draw" class="draw" d="M40 390 H400 C490 390 490 280 400 280 H160 C70 280 70 170 160 170 H400 C490 170 490 60 400 60 H120"/>
-            <circle cx="40" cy="390" r="9" fill="var(--ink)"/><text class="end" x="20" y="424">START</text>
-            <g transform="translate(110 62)"><rect x="-10" y="-12" width="20" height="20" fill="#fff" stroke="var(--ink)" stroke-width="2"/><rect x="-10" y="-12" width="10" height="10" fill="var(--ink)"/><rect x="0" y="-2" width="10" height="10" fill="var(--ink)"/></g>
-            <text class="end" x="86" y="104">FINISH</text>
-            <g id="signs"></g>
-          </svg>
-          <div class="lockline"><i>🔒</i><span id="pvLine">Your 10K time is free. <b>Your other 3, your watch paces and your gel times unlock with your email.</b></span></div>
-        </div>
-      </div>
+    <!-- proof beside the button -->
+    <div class="proofstack">
+      <div class="mega"><b>1,000,000+</b><span>views on our marathon videos</span></div>
+      <div class="pcard green"><small>Dave · Dublin Marathon</small><b>−45 min</b><span>off his marathon time</span></div>
+      <div class="pcard blue"><small>Ellie · Frankfurt Marathon</small><b>Sub-3</b><span>a sub-3-hour marathon</span></div>
+      <div class="pcard ink"><small>Conor · Málaga Marathon</small><b>2:47</b><span>with our plan</span></div>
+      <div class="dm">"Not to get emotional, but you made my day with the plan."<span>Caroline · 13 minutes off, Dublin</span></div>
+    </div>
+  </div>
+  <div class="wrap">
+    <div class="proofstrip">
+      <div class="faces"><i>D</i><i>E</i><i>C</i><i>T</i><i>C</i></div>
+      <p><b>Dave −45 min · Ellie sub-3 · Conor 2:47 · Tom 3:19</b><span>1M+ views · 100+ free plans sent</span></p>
     </div>
   </div>
 </section>
@@ -419,7 +472,7 @@
       </div>
     </div>
     <div class="tally rv">
-      <div><b data-count="900">900</b><span>K+ views</span></div>
+      <div><b>1M+</b><span>views</span></div>
       <div><b data-count="18700">18,700</b><span>saves</span></div>
       <div><b data-count="100">100</b><span>+ plans sent</span></div>
       <div><b data-count="173">173</b><span>K views: the wall video</span></div>
@@ -535,7 +588,7 @@
           <li><span>✕</span>Bonked on ultras because we didn't take enough carbs</li>
           <li><span>✕</span>Ate gels at mile 20 that made us want to stop</li>
           <li><span>✕</span>Binned more rice crisp batches than we'll admit</li>
-          <li class="ok"><span>✓</span>Turned the fixes into videos with 900K+ views</li>
+          <li class="ok"><span>✓</span>Turned the fixes into videos with 1M+ views</li>
           <li class="ok"><span>✓</span>Sent 100+ free plans, and answered every reply</li>
         </ul>
       </div>
@@ -615,61 +668,28 @@
   goal.innerHTML = opts + '<option>Not sure yet</option>';
   $('pf-race').addEventListener('change', function(){ $('pf-other-wrap').hidden = this.value !== 'Other'; });
 
-  // preview map: 10K time free, the rest blurred until the email
-  var road = $('road'), len = road.getTotalLength(), draw = $('draw'), texts = [];
-  [10, 20, 30, 40].forEach(function(k, i){
-    var pt = road.getPointAtLength(len * k / 42.2), dx = [-160, 24, -160, 24][i];
-    var g = document.createElementNS(NS, 'g');
-    g.setAttribute('transform', 'translate(' + pt.x + ' ' + pt.y + ')');
-    g.innerHTML = '<circle r="11" fill="#fff" stroke="var(--blue)" stroke-width="5"/>' +
-      '<g class="km" transform="translate(' + dx + ' -48)"><rect width="56" height="30" rx="7"/><text x="28" y="22" text-anchor="middle">' + k + 'K</text></g>' +
-      '<text class="t' + (i ? ' lock' : '') + '" x="' + (dx + 64) + '" y="-23"></text>';
-    $('signs').appendChild(g); texts.push(g.querySelector('.t'));
-  });
-  draw.style.strokeDasharray = len;
-  var unlocked = false;
-  function preview(){
-    var s = ERNPlan.parseGoal(goal.value) || 13500, p = ERNPlan.build(s);
-    if (!$('signs')) return;
-    $('pvBand').textContent = 'Preview · ' + ERNPlan.label(s) + ' goal';
-    texts.forEach(function(t, i){ t.textContent = p.signs[i]; t.classList.toggle('lock', i > 0 && !unlocked); });
-    $('pvLine').innerHTML = unlocked ? '<b>Unlocked.</b> Your full plan is on the left.' :
-      'Your 10K time is free: <b>' + p.signs[0] + '</b>. Your other 3, your watch paces and your gel times unlock with your email.';
-    draw.style.transition = 'none'; draw.style.strokeDashoffset = len; draw.getBoundingClientRect();
-    draw.style.transition = 'stroke-dashoffset 1.4s ease'; draw.style.strokeDashoffset = 0;
-  }
-  goal.addEventListener('change', preview);
-
-  // the goal slider: thumb-friendly, live 10K time, drives the hidden select
+  // the race clock: drag to a goal, the 10K sign time is free, the rest blurred
   var slider = $('pf-slider'), notsure = $('pf-notsure'), slid = false;
   function fromSlider(){
     var m = +slider.value, t = Math.floor(m / 60) + ':' + ('0' + m % 60).slice(-2);
     goal.value = m === 240 ? '3:59 (sub-4)' : t;
-    $('gpTime').textContent = m === 240 ? 'Sub-4' : t;
+    $('gpTime').textContent = m === 240 ? '3:59' : t;
+    $('clockTag').textContent = m === 240 ? 'Sub-4' : 'Goal';
     slider.style.setProperty('--p', ((m - 180) / 150 * 100) + '%');
     var p = ERNPlan.build(ERNPlan.parseGoal(goal.value));
-    $('gpFree').innerHTML = 'Your 10K sign: <strong>' + p.signs[0] + '</strong>';
-    preview();
+    ['sp10', 'sp20', 'sp30', 'sp40'].forEach(function(id, i){ $(id).textContent = p.signs[i]; });
   }
   slider.addEventListener('input', function(){ if (!slid) { slid = true; ERN.track('goal_slider_used'); } fromSlider(); });
   notsure.addEventListener('change', function(){
-    document.querySelector('.ern .goalpick').classList.toggle('off', this.checked);
+    $('get-plan').classList.toggle('off', this.checked);
     if (this.checked) goal.value = 'Not sure yet'; else fromSlider();
   });
   fromSlider();
   var started = false;
   $('planForm').addEventListener('focusin', function(){ if (!started) { started = true; ERN.track('plan_form_started'); } });
 
-  // results ticker in the hero
-  var WINS = ['Dave took 45 minutes off at the Dublin Marathon', 'Ellie ran a sub-3 at Frankfurt', 'Conor ran 2:47 at the Málaga Marathon',
-    'Tom aimed for sub-3:30 and ran 3:19 in Chicago', 'Caroline took 13 minutes off at Dublin'], wi = 0;
-  if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) setInterval(function(){
-    var el = $('tick'); el.style.opacity = 0;
-    setTimeout(function(){ wi = (wi + 1) % WINS.length; el.textContent = WINS[wi]; el.style.opacity = 1; }, 400);
-  }, 3200);
-
   // marquee
-  var words = ['Your time at every 10K sign', 'Km and miles', '30g of carbs on the clock', '900K+ views', 'Made in Ireland', 'Free, on screen'];
+  var words = ['Your time at every 10K sign', 'Km and miles', '30g of carbs on the clock', '1M+ views', 'Made in Ireland', 'Free, on screen'];
   var s = words.map(function(w){ return '<span>' + w + '</span><span>✦</span>'; }).join('');
   $('marq').innerHTML = s + s;
 
@@ -711,7 +731,7 @@
   $('planForm').addEventListener('submit', function(e){
     e.preventDefault();
     raceName = $('pf-race').value === 'Other' ? ($('pf-other').value.trim() || 'your race') : $('pf-race').value;
-    var name = $('pf-name').value.trim(), email = $('pf-email').value.trim(), gv = goal.value, err = $('pf-err');
+    var name = '', email = $('pf-email').value.trim(), gv = goal.value, err = $('pf-err');
     if (!$('pf-race').value || !gv) { err.textContent = 'Pick your race and goal time first.'; err.style.display = 'block'; return; }
     if (!ERN.validEmail(email)) { err.textContent = 'Add your email to unlock your plan.'; err.style.display = 'block'; return; }
     err.style.display = 'none';
@@ -731,7 +751,6 @@
       $('planForm').hidden = true;
       if (plan) renderPlan(plan, raceName, name, email); else showNotSure(name);
       $('plan').hidden = false;
-      unlocked = true; preview();
       $('get-plan').scrollIntoView({ behavior: 'smooth', block: 'start' });
     };
     // the value never waits on the network: if Klaviyo fails, they still get the plan

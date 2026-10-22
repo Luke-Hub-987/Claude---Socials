@@ -14,7 +14,7 @@
   -webkit-font-smoothing:antialiased;overflow-x:clip
 }
 .ern *{box-sizing:border-box}
-.ern img{max-width:100%;display:block}
+.ern img{max-width:100%;height:auto;display:block}
 .ern a{color:inherit}
 .ern p{margin:0 0 14px}
 .ern .wrap{max-width:1160px;margin:0 auto;padding:0 20px}
@@ -133,3 +133,9 @@
 }
 .ern .float{animation:ern-float 6s ease-in-out infinite}
 @keyframes ern-float{50%{transform:translateY(-12px) rotate(var(--r,0deg))}}
+
+/* email box and button side by side (stacks on small phones) */
+.ern .inline{display:flex;gap:10px}
+.ern .inline input{flex:1;min-width:0}
+.ern .inline .btn{white-space:nowrap;width:auto;margin-top:0}
+@media (max-width:520px){.ern .inline{flex-direction:column}.ern .inline .btn{width:100%}}
