@@ -305,7 +305,7 @@ function track(C,{kind}){const W=1488,H=300,s=svgEl(W,H,C.c,'left:96px;top:500px
       a.setAttribute('x2',X(Math.min(pos,37)));b.setAttribute('x2',X(Math.max(37,pos)));show(mark,P(t,3.1,.5,outBack),{y:10,s:.7});
       others.forEach((o,i)=>{const k=38+i*1.3+P(t,3.4,2.6,lin)*.9;o.setAttribute('cx',X(k));o.style.opacity=P(t,2.4+i*.2,.5)});
       show(chip,P(t,6.0,.6,outBack),{y:-14,s:.8})}
-    me.setAttribute('cx',X(pos))}}
+    b.style.opacity=pos>(kind==='good'?37:32)+.05?1:0;me.setAttribute('cx',X(pos))}}
 
 /* ---------- runtime ---------- */
 let cur=null,upd=null,curDur=0;
