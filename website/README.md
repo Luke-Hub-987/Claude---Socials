@@ -98,9 +98,9 @@ emails you send from Gmail (the plans, your replies) that go unsigned.
 1. **Google Admin** (admin.google.com) > Apps > Google Workspace > Gmail >
    Authenticate email > Generate new record (2048-bit). Copy the host name
    (`google._domainkey`) and the long TXT value.
-2. **Your DNS** (if the domain is on Shopify: Settings > Domains >
-   engineroomnutrition.com > Domain settings > Edit DNS settings; otherwise
-   wherever you bought it). Add:
+2. **Shopify** (the domain was bought through Shopify): Settings > Domains >
+   engineroomnutrition.com > Domain settings > Edit DNS settings > Add
+   custom record. Add:
    - TXT, name `google._domainkey`, value from step 1.
    - TXT, name `@`, value `v=spf1 include:_spf.google.com ~all`. Add it as a
      new record; keep the `klaviyo-site-verification` one. Only ever one
