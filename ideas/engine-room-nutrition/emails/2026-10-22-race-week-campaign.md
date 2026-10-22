@@ -20,16 +20,25 @@ Sunday 1 Nov.
 
 ## Content and checks
 
-Countdown, one stage a day: Thursday kit and an easy run; Friday and
-Saturday carb load; Saturday dinner at 5-6 pm, low fibre and low fat;
-Sunday rehearsed breakfast 3 hours out, then the race rules. All from
-the videos except one number:
+Countdown, one job a day (v2, 22 Oct): Thursday lay out kit; Friday
+start the carb load; Saturday keep loading and eat dinner at 5-6 pm;
+Sunday rehearsed breakfast 3 hours out, then the race rules.
+
+From the videos: kit as on the last long run and number pinned; carb load
+starts two days out; dinner 5-6 pm, white rice, pasta or potatoes, plain
+sauce, little fat and fibre; same breakfast, same amount, 3 hours before;
+5-10 s/K slower first 10K; gel every 20 min from minute 20 with water;
+shorter, quicker steps. New, for Luke to approve:
 
 - **New claim for Luke to approve:** "8 to 10 g of carbohydrate per kilo
   a day" for the two days (70 kg: 560 to 700 g). The sports-nutrition
   guideline (ACSM, IOC) for a 36-48 hour carb load is 10 to 12 g/kg; 8 to
   10 is a lower, easier target many runners actually hit. Change or cut
   it before sending if Luke disagrees.
+- A carb snack every two to three hours on load days (new).
+- Low fibre and fat on Saturday as well as at dinner (the video said it
+  for the dinner only).
+- "Check the grams on the packets" (new, practical).
 - Commitment in the copy: Sunday racers who reply by Friday evening get
   their plan before race day; later races "after the weekend". Luke to
   confirm he can keep both.
