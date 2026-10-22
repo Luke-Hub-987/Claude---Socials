@@ -4,7 +4,7 @@ brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-22
 slot: REACH (Thu 22, race weekend plan): race fear, formula 6/6
 basis: race weekend plan, why-winners-win, FACTS.md, without the wall (25K check), P120, P128 to P142
-status: v2 (Luke 22 Oct: no maths on the course; 2 numbers on the wrist the night before, P143)
+status: v3 (A, B and C goals set the night before, then the 2 wrist numbers, then the 3:45 example; Luke 22 Oct). v2: no maths on the course, P143
 teleprompter: 2026-10-22-teleprompter-goal-gone.txt
 ---
 
@@ -15,7 +15,7 @@ teleprompter: 2026-10-22-teleprompter-goal-gone.txt
 **GOAL IS GONE**
 
 **Markers:**
-1. THE NIGHT BEFORE: 2 NUMBERS ON YOUR WRIST
+1. THE NIGHT BEFORE: A, B AND C
 2. 25K: ONE LOOK AT THE CLOCK
 3. THE NEXT 2K: EASE OFF, THEN PLAN B
 4. 27K TO THE LINE: WHY PLAN B WORKS
@@ -36,26 +36,26 @@ picture (watch at 25K); why held to the last stage. **P130/P142:** being behind
 in a race or long run is something nearly every runner has lived. **P140 aha:**
 the doubled target and "goal pace plus 10 seconds".
 
-## Script (343 words, about 1:42)
+## Script (350 words, about 1:43)
 If you're running a marathon in the next few weeks and your watch says you're 3 minutes down at 25K, slow down. That's how a bad day still ends in a time you're proud of.
 
-Chase it, and you're running every K faster than you trained for, and at 32K your legs just stop. You walk the last 8K while the runners you passed come back by you, and you finish 20 minutes off.
+Chase it, and at 32K your legs just stop. You walk the last 8K while the runners you passed come back by you, and finish 20 minutes off.
 
-Slow down instead, and the last 5K is you picking people off, crossing the line 6 minutes off your goal with the strongest finish you've ever had.
+Slow down instead, and you're picking people off over the last 5K, 6 minutes off your goal and proud of it.
 
 And you won't have to do a single sum on the course. It's 2 numbers you write on your wrist the night before. Save this.
 
-The first number is the time you should see at the 25K sign. That's your goal time, a bit under 60%. For a 3:45, it's 2:13. The second is your plan B pace: your goal pace plus 10 seconds a K. For a 3:45, that's 5:30 a K, so between 5:25 and 5:30 on your watch.
+The night before, set 3 goals. A is the time you've trained for. B is A plus about 6 minutes. C is crossing the line still running. Then write 2 numbers on your wrist. The first is your 25K time, your A goal times 0.59. The second is your B pace, your A pace plus 10 seconds a K. For a 3:45, that's 2:13 at 25K, and B is 3:51, which is between 5:25 and 5:30 on your watch.
 
-Want both numbers worked out for your race? Email us your race and goal time through the link in the bio and we'll send them, free. Now, 25K.
+Want your A, B and C worked out for your race? Email us your race and goal time through the link in the bio and we'll send them, free. Now, 25K.
 
-At the sign, one look at the clock. 2:14 or better, you're still on, hold your pace. 2:15 or later, today's goal is gone.
+At the sign, one look at the clock. 2:14 or better, you're still on, hold your pace. 2:15 or later, A is gone.
 
-Ease off 10 seconds a K for the next 2K, until you can get about 5 words out in one breath again. Then switch to the second number on your wrist, and hold it, one K at a time.
+Ease off 10 seconds a K for the next 2K, until you can get about 5 words out in one breath again. Then switch to your B pace, and hold it, one K at a time.
 
 So why go slower than you need to, when you're only 3 minutes down?
 
-Because 3 minutes down at 25K means you've been fading, and a fade doesn't stop on its own. Plan B pace gives you room to run the last 15K steady instead of hanging on, and it brings you in around 3:51. If you've still got 5 words at 37K, let it go for the last 5K.
+Because 3 minutes down at 25K means you've been fading, and a fade doesn't stop on its own. B pace gives you room to run the last 15K steady instead of hanging on, and it brings you in around 3:51, your B goal. If you've still got 5 words at 37K, let it go for the last 5K.
 
 (Markers: THE NIGHT BEFORE on "The first number"; 25K on "At the sign"; THE NEXT 2K on "Ease off"; 27K TO THE LINE on "Because 3 minutes down".)
 
@@ -89,7 +89,7 @@ this instead", "still running at 35K"). "Back to 25K." is the turn back
 from the CTA. No mouth or swallow words in the hook.
 
 ## Caption (final)
-What to do when your marathon goal is gone. You won't do maths at 25K, so write 2 numbers on your wrist the night before: the time you should see at the 25K sign, and your plan B pace (your goal pace plus 10 seconds a K).
+What to do when your marathon goal is gone. The night before, set 3 goals: A is the time you've trained for, B is A plus about 6 minutes, and C is crossing the line still running. You won't do maths at 25K, so write 2 numbers on your wrist: your 25K time (your A goal times 0.59) and your B pace (your A pace plus 10 seconds a K).
 
 3:30: 25K at 2:04, plan B 5:05 to 5:10 a K (8:10 to 8:20 a mile). 3:45: 25K at 2:13, plan B 5:25 to 5:30 a K (8:45 to 8:50 a mile). 4:00: 25K at 2:22, plan B 5:45 to 5:50 a K (9:15 to 9:25 a mile). 4:30: 25K at 2:40, plan B 6:30 to 6:35 a K (10:25 to 10:35 a mile). 5:00: 25K at 2:58, plan B 7:10 to 7:15 a K (11:30 to 11:40 a mile).
 
@@ -97,10 +97,10 @@ At the 25K sign, one look at the clock. Up to a minute over your number, hold yo
 
 Why: 3 minutes down at 25K means you've been fading, and a fade doesn't stop on its own. Plan B pace lets you run the last 15K steady, and 3 minutes down on a 3:45 brings you in around 3:51 instead of walking. Still got 5 words at 37K? Let it go for the last 5K.
 
-Want both numbers worked out for your race? Email us your race and goal time through the link in the bio and we'll send them, free.
+Want your A, B and C worked out for your race? Email us your race and goal time through the link in the bio and we'll send them, free.
 
 ## Pinned comment (final)
-"Ever been 3 minutes down at 25K? 👇 Write 2 numbers on your wrist: your 25K time and plan B pace (goal pace + 10 s/K). 3:45 example: 2:13 and 5:25-5:30/K (8:45-8:50/mi). 2+ minutes over at 25K: ease off for 2K, then plan B pace to the line. Send this to who you're racing with. Want your 2 numbers? Email us your race and goal time through the link in the bio."
+"Ever been 3 minutes down at 25K? 👇 Set an A, B and C goal, then write 2 numbers on your wrist: your 25K time (A x 0.59) and B pace (A pace + 10 s/K). 3:45 example: 2:13 and 5:25-5:30/K (8:45-8:50/mi). 2+ minutes over at 25K: ease off for 2K, then plan B pace to the line. Send this to who you're racing with. Want your 2 numbers? Email us your race and goal time through the link in the bio."
 
 ## Trial Reels (8am, share the winner at 12:30)
 - **A:** as written ("...3 minutes down at 25K, slow down. That's how a bad day still ends in a time you're proud of.")
