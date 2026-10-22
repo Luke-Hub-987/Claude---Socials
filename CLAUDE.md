@@ -149,7 +149,7 @@ after the finish line (Luke, 15 Oct). TikTok-only idea: goal-time
 versions (sub-3:30, sub-4:30) using the sub-4 template.
 
 Upcoming races in the audience: Amsterdam 18 Oct, Dublin and Frankfurt
-26 Oct, New York 1 Nov. Held: the "how to actually enjoy your marathon"
+Sunday 25 Oct (not 26), New York Sunday 1 Nov. Held: the "how to actually enjoy your marathon"
 creative for the day before Dublin. Covers: Luke picks from search
 terms (Google Images, Pinterest), with a licence check.
 
@@ -168,3 +168,9 @@ marathon plan is one reply away" vs "What pace should your first 10K be?".
 Campaign of 16 Oct: 257 delivered (A 125, B 132, 100% test size, so it is
 finished), 18.7% opens, 0% clicks (mailto buttons are not counted as
 clicks). Judge it on replies.
+
+Race-week campaign (22 Oct): `ideas/engine-room-nutrition/emails/2026-10-22-race-week-campaign.html`
+and `.md`. Subject "What to do each day before your marathon"; countdown
+Thursday to race morning; reply by Friday evening for a plan. New claim
+to approve: carb load 8-10 g/kg a day. DNS fully fixed 22 Oct (SPF, Google
+DKIM, DMARC with reports).
