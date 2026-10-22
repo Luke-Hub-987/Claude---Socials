@@ -36,6 +36,19 @@ CONFIG_JS = ('<script>window.ERN_CONFIG = { planList: {{ section.settings.plan_l
              '<script src="{{ \'ern.js\' | asset_url }}"></script>\n')
 
 
+# In Shopify's theme editor: no scroll animations (sections re-render there
+# and would stay invisible), and a loud warning if a Klaviyo list ID is
+# missing, because then the forms look fine but save nothing.
+DESIGN_MODE = (
+    '{%- if request.design_mode -%}\n'
+    '<style>.ern .rv{opacity:1!important;transform:none!important}</style>\n'
+    '{%- if section.settings.plan_list == blank or section.settings.waitlist_list == blank or section.settings.results_list == blank -%}\n'
+    '<div style="background:#C2362B;color:#fff;font:600 15px/1.4 Arial,sans-serif;padding:12px 16px;text-align:center">'
+    'Klaviyo list IDs missing: the forms on this page will NOT save anyone. Click this section and paste all three IDs.</div>\n'
+    '{%- endif -%}\n'
+    '{%- endif -%}\n')
+
+
 def founders_photo(alt, brief):
     # the uploaded photo if one is picked in the theme editor, else the current one
     return ('{%- if section.settings.founders_photo -%}'
@@ -64,7 +77,7 @@ def convert(html, section_name, extra_settings, page_fix=None):
     schema = {"name": section_name, "tag": "div", "settings": KLAVIYO_SETTINGS + extra_settings,
               "presets": [{"name": section_name}]}
     return ('{% comment %} Built by website/build_shopify.py. Edit the website/ files and rebuild. {% endcomment %}\n'
-            '<style>' + style + '</style>\n' + body.strip() + '\n\n{% schema %}\n' +
+            '<style>' + style + '</style>\n' + DESIGN_MODE + body.strip() + '\n\n{% schema %}\n' +
             json.dumps(schema, indent=2) + '\n{% endschema %}\n')
 
 
@@ -105,6 +118,14 @@ LAYOUT = '''<!doctype html>
   {%- if page_description %}<meta name="description" content="{{ page_description | escape }}">{% endif %}
   <link rel="canonical" href="{{ canonical_url }}">
   {%- if settings.favicon %}<link rel="icon" href="{{ settings.favicon | image_url: width: 64 }}">{% endif %}
+  <meta property="og:site_name" content="{{ shop.name }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ page_title | escape }}">
+  <meta property="og:url" content="{{ canonical_url }}">
+  {%- if page_description %}<meta property="og:description" content="{{ page_description | escape }}">{% endif %}
+  <meta property="og:image" content="https:{{ 'ern-share.jpg' | asset_url }}">
+  <meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,700;0,800;1,800&family=DM+Serif+Display:ital@0;1&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">

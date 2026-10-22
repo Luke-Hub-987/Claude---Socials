@@ -79,10 +79,13 @@
 
   function parseGoal(str) {
     var m = /^(\d):(\d\d)/.exec(str || ''); if (!m) return null;
-    var s = (+m[1] * 60 + +m[2]) * 60;
-    return /sub/i.test(str) ? s - 1 : s; // "3:59 (sub-4)" -> 14399, the sub-4 plan
+    if (/sub-?4/i.test(str)) return 14399; // "3:59 (sub-4)" -> the published sub-4 plan
+    return (+m[1] * 60 + +m[2]) * 60;
   }
 
-  root.ERNPlan = { build: build, parseGoal: parseGoal, hmm: hmm };
+    // how a goal reads on screen: 14399 and 14400 are both the sub-4 plan
+  function label(goal) { return goal >= 14399 && goal <= 14400 ? 'Sub-4' : hmm(goal); }
+
+  root.ERNPlan = { build: build, parseGoal: parseGoal, hmm: hmm, label: label };
   if (typeof module !== 'undefined') module.exports = root.ERNPlan;
 })(this);

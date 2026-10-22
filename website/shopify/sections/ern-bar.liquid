@@ -109,6 +109,12 @@
 .ern .final .label .body{padding:48px 32px}
 .ern .final .btn{margin-top:22px}
 </style>
+{%- if request.design_mode -%}
+<style>.ern .rv{opacity:1!important;transform:none!important}</style>
+{%- if section.settings.plan_list == blank or section.settings.waitlist_list == blank or section.settings.results_list == blank -%}
+<div style="background:#C2362B;color:#fff;font:600 15px/1.4 Arial,sans-serif;padding:12px 16px;text-align:center">Klaviyo list IDs missing: the forms on this page will NOT save anyone. Click this section and paste all three IDs.</div>
+{%- endif -%}
+{%- endif -%}
 <div class="ern">
 
 <header class="top">

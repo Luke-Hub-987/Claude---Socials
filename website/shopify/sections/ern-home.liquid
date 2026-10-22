@@ -162,6 +162,12 @@
 /* v5: tell us your time */
 .ern .tellus{max-width:760px;margin:48px auto 0}
 .ern .tellus .band{background:#2DBE6C}.ern .tellus .band:after{background:#2DBE6C}
+/* lock screen viewer */
+.ern .lockbox{position:fixed;inset:0;z-index:60;background:rgba(10,23,41,.8);display:grid;place-items:center;padding:16px}
+.ern .lockcard{background:#fff;border-radius:20px;padding:16px;max-width:360px;width:100%;text-align:center;max-height:94vh;overflow:auto}
+.ern .lockcard img{width:62%;margin:0 auto 12px;border-radius:14px;box-shadow:0 10px 30px rgba(10,23,41,.3)}
+.ern .lockcard p{font-size:14px;margin:0 0 12px}
+.ern .lockcard .btn{margin-right:12px}
 /* why it works */
 .ern .fgrid{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}
 @media (max-width:760px){.ern .fgrid{grid-template-columns:1fr}}
@@ -228,6 +234,12 @@
   #ern-band td{border:1px solid #ccc;padding:4px 6px;text-align:center}
 }
 </style>
+{%- if request.design_mode -%}
+<style>.ern .rv{opacity:1!important;transform:none!important}</style>
+{%- if section.settings.plan_list == blank or section.settings.waitlist_list == blank or section.settings.results_list == blank -%}
+<div style="background:#C2362B;color:#fff;font:600 15px/1.4 Arial,sans-serif;padding:12px 16px;text-align:center">Klaviyo list IDs missing: the forms on this page will NOT save anyone. Click this section and paste all three IDs.</div>
+{%- endif -%}
+{%- endif -%}
 <div class="ern">
 
 <div class="race-bar">🏁 <b>100+ free pace plans sent.</b> Yours takes 20 seconds.<a href="#get-plan">Get it now</a></div>
@@ -569,6 +581,14 @@
 
 <div class="stick"><a class="btn" href="#get-plan">Show me my plan <span class="arr">→</span></a></div>
 <div id="ern-band"></div>
+<div class="lockbox" id="lockBox" hidden role="dialog" aria-label="Your lock screen">
+  <div class="lockcard">
+    <img alt="Your pace plan as a phone lock screen">
+    <p><b>On a phone:</b> press and hold the picture, then <b>Save to Photos</b>. Set it as your lock screen from Photos.</p>
+    <a class="btn sm" download="my-marathon-pace-plan.png">Download it instead</a>
+    <button class="linkbtn" type="button" data-close>Close</button>
+  </div>
+</div>
 </div>
 
 <script>window.ERN_CONFIG = { planList: {{ section.settings.plan_list | default: "" | json }}, waitlistList: {{ section.settings.waitlist_list | default: "" | json }}, resultsList: {{ section.settings.results_list | default: "" | json }} };</script>
@@ -605,7 +625,7 @@
   function preview(){
     var s = ERNPlan.parseGoal(goal.value) || 13500, p = ERNPlan.build(s);
     if (!$('signs')) return;
-    $('pvBand').textContent = 'Preview · ' + ERNPlan.hmm(s === 14399 ? 14400 : s).replace('4:00', 'sub-4') + ' goal';
+    $('pvBand').textContent = 'Preview · ' + ERNPlan.label(s) + ' goal';
     texts.forEach(function(t, i){ t.textContent = p.signs[i]; t.classList.toggle('lock', i > 0 && !unlocked); });
     $('pvLine').innerHTML = unlocked ? '<b>Unlocked.</b> Your full plan is on the left.' :
       'Your 10K time is free: <b>' + p.signs[0] + '</b>. Your other 3, your watch paces and your gel times unlock with your email.';
@@ -660,9 +680,9 @@
   // ---- sign-up -> plan on screen ----
   var saved = null, plan = null, raceName = '';
   function renderPlan(p, race, name, email){
-    var g = ERNPlan.hmm(p.goal === 14399 ? 14400 : p.goal);
+    var g = ERNPlan.label(p.goal);
     $('planKicker').textContent = (name ? name + ', here' : 'Here') + "'s your plan";
-    $('planTitle').textContent = (p.goal === 14399 ? 'Sub-4' : g) + ' at ' + race;
+    $('planTitle').textContent = g + ' at ' + race;
     $('planSub').textContent = 'Finishes around ' + p.finish + ' if your watch reads 1% long, which leaves time in hand.' + (p.walk ? ' It includes walking every drink station, about 20 seconds each.' : '');
     $('planSigns').innerHTML = ['10K','20K','30K','40K'].map(function(k, i){ return '<div class="sign"><small>' + k + ' sign</small><strong>' + p.signs[i] + '</strong></div>'; }).join('');
     $('planStages').innerHTML = p.stages.map(function(st){ return '<tr><td>' + st.name + '</td><td><b>' + st.km + ' /K</b><div class="mi">' + st.mi + ' /mi</div></td><td>' + st.talk + '</td></tr>'; }).join('');
@@ -715,12 +735,15 @@
 
   // lock screen image: a phone-sized PNG of the plan
   $('saveLock').addEventListener('click', function(){
+    (document.fonts && document.fonts.ready ? document.fonts.ready : Promise.resolve()).then(drawLock);
+  });
+  function drawLock(){
     var W = 1170, H = 2532, c = document.createElement('canvas'); c.width = W; c.height = H;
     var x = c.getContext('2d'), p = plan;
     x.fillStyle = '#2485E6'; x.fillRect(0, 0, W, H);
     x.fillStyle = '#fff'; x.textAlign = 'center';
     x.font = '700 54px "Barlow Condensed", sans-serif';
-    x.fillText((raceName + ' · goal ' + ERNPlan.hmm(p.goal === 14399 ? 14400 : p.goal)).toUpperCase(), W/2, 980);
+    x.fillText((raceName + ' · goal ' + ERNPlan.label(p.goal)).toUpperCase(), W/2, 980);
     ['10K','20K','30K','40K'].forEach(function(k, i){
       var y = 1140 + i * 230;
       x.fillStyle = 'rgba(255,255,255,.16)'; x.fillRect(150, y - 150, W - 300, 200);
@@ -732,13 +755,17 @@
     x.fillText('Gels: ' + p.gels.join('  '), W/2, 2180);
     x.font = 'italic 800 48px "Barlow Condensed", sans-serif'; x.fillText('ERN · ENGINE ROOM NUTRITION', W/2, 2330);
     ERN.track('lock_screen_saved');
-    var a = document.createElement('a'); a.download = 'my-marathon-pace-plan.png'; a.href = c.toDataURL('image/png');
-    document.body.appendChild(a); a.click(); a.remove();
-  });
+    // show it on the page: press and hold saves it to Photos on a phone
+    var url = c.toDataURL('image/png'), box = $('lockBox');
+    box.querySelector('img').src = url;
+    box.querySelector('a').href = url;
+    box.hidden = false;
+  }
+  $('lockBox').addEventListener('click', function(e){ if (e.target === this || e.target.hasAttribute('data-close')) this.hidden = true; });
 
   // printable pace band: 4 strips to cut out and tape round your wrist
   $('printBand').addEventListener('click', function(){
-    var p = plan, row = '<div class="strip"><table><tr><td><b>' + raceName + ' ' + ERNPlan.hmm(p.goal === 14399 ? 14400 : p.goal) + '</b></td>' +
+    var p = plan, row = '<div class="strip"><table><tr><td><b>' + raceName + ' ' + ERNPlan.label(p.goal) + '</b></td>' +
       p.signs.map(function(s, i){ return '<td>' + (i + 1) * 10 + 'K <b>' + s + '</b></td>'; }).join('') + '</tr><tr><td colspan="5">Watch ' + p.stages[0].km + ' to 10K · ' + p.stages[1].km + ' to 40K · last 2K ' + p.stages[2].km + ' · Gels ' + p.gels.join(' ') + '</td></tr></table></div>';
     $('ern-band').innerHTML = row + row + row + row;
     ERN.track('pace_band_printed');

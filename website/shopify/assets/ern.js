@@ -1,4 +1,4 @@
-/* ERN site v3: shared behaviour for both pages. */
+/* ERN site: shared behaviour for both pages. */
 window.ERN = (function(){
   // Klaviyo: the company ID is the public site ID already on the live site.
   // The three list IDs (Lists & segments > list > Settings > List ID).
@@ -8,17 +8,31 @@ window.ERN = (function(){
   // written into window.ERN_CONFIG, so nobody has to edit this file.
   if (window.ERN_CONFIG) for (var k in window.ERN_CONFIG) if (window.ERN_CONFIG[k]) KLAVIYO[k] = window.ERN_CONFIG[k];
 
-  function subscribe(which, profile, source){
-    var listId = KLAVIYO[which];
-    if (!listId) return new Promise(function(r){ setTimeout(r, 500); });
-    return fetch('https://a.klaviyo.com/client/subscriptions/?company_id=' + KLAVIYO.company, {
+  function klaviyo(path, data){
+    return fetch('https://a.klaviyo.com/client/' + path + '/?company_id=' + KLAVIYO.company, {
       method: 'POST',
       headers: { 'Content-Type': 'application/vnd.api+json', 'revision': '2024-10-15' },
-      body: JSON.stringify({ data: { type: 'subscription', attributes: {
-        custom_source: source,
-        profile: { data: { type: 'profile', attributes: profile } }
-      }, relationships: { list: { data: { type: 'list', id: listId } } } } })
-    }).then(function(r){ if (!r.ok) throw new Error('Klaviyo ' + r.status); });
+      body: JSON.stringify({ data: data })
+    }).then(function(r){ if (!r.ok) throw new Error('Klaviyo ' + path + ' ' + r.status); });
+  }
+
+  // Two calls: the subscription puts the email on the list (this starts the
+  // flow), the profile call saves the plan details. Kept apart so a rejected
+  // property can never stop the sign-up itself.
+  function subscribe(which, profile, source){
+    var listId = KLAVIYO[which];
+    if (!listId) {
+      if (window.console) console.warn('ERN: no Klaviyo list ID for ' + which + ', nothing was saved (preview mode).');
+      return new Promise(function(r){ setTimeout(r, 500); });
+    }
+    var who = { email: profile.email }; if (profile.first_name) who.first_name = profile.first_name;
+    var sub = klaviyo('subscriptions', { type: 'subscription', attributes: {
+      custom_source: source,
+      profile: { data: { type: 'profile', attributes: who } }
+    }, relationships: { list: { data: { type: 'list', id: listId } } } });
+    var props = profile.properties ? klaviyo('profiles', { type: 'profile', attributes: { email: profile.email, properties: profile.properties } })
+      .catch(function(e){ if (window.console) console.warn(e); }) : null;
+    return Promise.all([sub, props]);
   }
 
   function validEmail(e){ return /^\S+@\S+\.\S+$/.test(e); }
