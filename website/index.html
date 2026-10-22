@@ -114,6 +114,64 @@
 .ern .ticker{display:flex;align-items:center;gap:10px;margin:-8px 0 22px;font:600 15px var(--fb);color:var(--ink-2);min-height:24px}
 .ern .ticker b{color:#2DBE6C}
 .ern .ticker span{transition:opacity .4s}
+/* v5: phone first screen = proof, headline, slider */
+@media (max-width:560px){
+  .ern .hero{padding:18px 0 56px}
+  .ern .proofrow{flex-wrap:nowrap;gap:6px;margin-bottom:14px}
+  .ern .stat{padding:7px 9px;flex:1;min-width:0}
+  .ern .stat b{font-size:19px}
+  .ern .stat span{font-size:10.5px;line-height:1.2;display:block}
+  .ern .ticker{font-size:13px;margin:0 0 10px}
+  .ern .hero h1{font-size:34px}
+  .ern .hero .lede{font-size:16px;margin:10px 0 14px}
+  .ern .label .band{font-size:15px;padding:11px 16px}
+  .ern #get-plan .body{padding:14px}
+  .ern .gp-read b{font-size:44px}
+}
+/* v5: goal slider in the thumb zone */
+.ern .goalpick{background:var(--blue-lt);border-radius:16px;padding:14px 16px 12px;margin-bottom:16px}
+.ern .gp-read{display:flex;align-items:baseline;justify-content:space-between;gap:10px;margin:2px 0 6px}
+.ern .gp-read b{font:800 52px/1 var(--fd);color:var(--ink)}
+.ern .gp-read span{font:600 15px var(--fb);color:var(--ink-2);text-align:right}
+.ern .gp-read strong{font:800 22px var(--fd);color:var(--blue)}
+.ern input[type=range]{-webkit-appearance:none;appearance:none;width:100%;height:36px;background:transparent;padding:0;border:0}
+.ern input[type=range]::-webkit-slider-runnable-track{height:8px;border-radius:8px;background:linear-gradient(90deg,var(--blue) var(--p,30%),#C9DDF4 var(--p,30%))}
+.ern input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;width:34px;height:34px;margin-top:-13px;border-radius:50%;background:#fff;border:4px solid var(--blue);box-shadow:0 4px 12px rgba(10,23,41,.25)}
+.ern input[type=range]::-moz-range-track{height:8px;border-radius:8px;background:#C9DDF4}
+.ern input[type=range]::-moz-range-progress{height:8px;border-radius:8px;background:var(--blue)}
+.ern input[type=range]::-moz-range-thumb{width:28px;height:28px;border-radius:50%;background:#fff;border:4px solid var(--blue)}
+.ern .gp-locks{display:flex;gap:6px;flex-wrap:wrap;margin:4px 0 8px}
+.ern .gp-locks span{background:#fff;border-radius:999px;padding:4px 10px;font:700 13px var(--fd);letter-spacing:.06em;color:var(--muted)}
+.ern .chk{display:flex;align-items:center;gap:8px;font-size:14px;color:var(--ink-2);cursor:pointer}
+.ern .chk input{width:20px;height:20px;padding:0;accent-color:var(--blue)}
+.ern .goalpick.off .gp-read,.ern .goalpick.off input[type=range],.ern .goalpick.off .gp-locks{opacity:.35;pointer-events:none}
+/* v5: race morning inside the plan */
+.ern .morning{margin-top:18px;border:2px solid var(--blue-lt);border-radius:16px;padding:16px 18px}
+.ern .mtl{list-style:none;padding:0;margin:0 0 4px}
+.ern .mtl li{position:relative;padding:0 0 12px 26px;font-size:15px;color:var(--ink-2)}
+.ern .mtl li:before{content:"";position:absolute;left:4px;top:6px;width:10px;height:10px;border-radius:50%;background:#C9DDF4}
+.ern .mtl li:after{content:"";position:absolute;left:8px;top:18px;bottom:0;width:2px;background:#E3EEFB}
+.ern .mtl li:last-child:after{display:none}
+.ern .mtl li.hot:before{background:var(--blue);box-shadow:0 0 0 4px rgba(36,133,230,.2)}
+.ern .mtl b{display:block;font:800 16px var(--fd);text-transform:uppercase;letter-spacing:.04em;color:var(--ink)}
+/* v5: founders in motion */
+.ern .fmedia{position:relative;padding:0 24px 40px 0}
+.ern .fmedia .clip{position:absolute;right:-6px;bottom:0;width:44%;margin:0;transform:rotate(4deg);background:#fff;padding:8px 8px 34px;border-radius:6px;box-shadow:0 24px 50px -20px rgba(10,23,41,.45)}
+.ern .fmedia .clip .slot{aspect-ratio:9/12;border-radius:2px;font-size:12px;padding:10px}
+.ern .fmedia .clip video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.ern .slot video:not([src]){display:none}
+.ern .fmedia .clip figcaption{position:absolute;left:0;right:0;bottom:8px;text-align:center;font:800 italic 14px var(--fd);color:var(--ink-2)}
+.ern .cv{background:var(--cream);border-radius:18px;padding:16px 18px;margin:18px 0 20px}
+.ern .cvh{font:800 15px var(--fd);letter-spacing:.12em;text-transform:uppercase;color:var(--rice);margin-bottom:8px}
+.ern .cv ul{list-style:none;margin:0;padding:0}
+.ern .cv li{display:flex;gap:10px;padding:6px 0;border-top:1px solid var(--line);font-size:15px}
+.ern .cv li:first-child{border-top:0}
+.ern .cv li span{flex:none;width:22px;height:22px;border-radius:50%;display:grid;place-items:center;font:800 12px var(--fb);background:#F3D9D6;color:#C2362B}
+.ern .cv li.ok span{background:#D5F2E1;color:#1F9D57}
+.ern .cap{font:600 14px/1.4 var(--fb);color:#fff;background:rgba(10,23,41,.72);border-radius:10px;padding:8px 12px;margin:14px auto 0;max-width:420px;text-align:center}
+/* v5: tell us your time */
+.ern .tellus{max-width:760px;margin:48px auto 0}
+.ern .tellus .band{background:#2DBE6C}.ern .tellus .band:after{background:#2DBE6C}
 /* why it works */
 .ern .fgrid{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}
 @media (max-width:760px){.ern .fgrid{grid-template-columns:1fr}}
@@ -130,7 +188,7 @@
 .ern .vs .you{background:var(--ink);color:#fff}.ern .vs .you small{color:rgba(255,255,255,.7)}
 
 /* carb bar */
-.ern .barteaser{background:url(assets/rice-texture.jpg) center/cover;padding:110px 0}
+.ern .barteaser{background:url(assets/rice-texture.webp) center/cover;padding:110px 0}
 .ern .barteaser .wrap{position:relative;display:grid;grid-template-columns:1.05fr .95fr;gap:40px;align-items:center}
 @media (max-width:960px){.ern .barteaser .wrap{grid-template-columns:1fr}}
 .ern .barteaser .label .body h2{margin:6px 0 14px}
@@ -203,20 +261,26 @@
   <div class="wrap grid">
     <div>
       <div class="proofrow">
-        <div class="stat"><b>900K+</b><span>views on our marathon videos</span></div>
+        <div class="stat"><b>900K+</b><span>views on our videos</span></div>
         <div class="stat"><b>100+</b><span>plans sent</span></div>
         <div class="stat"><b>18,700</b><span>saves</span></div>
       </div>
       <div class="ticker" aria-live="off"><b>●</b><span id="tick">Dave took 45 minutes off at the Dublin Marathon</span></div>
       <h1>Your free marathon pace plan, <em>on screen in 20 seconds.</em></h1>
-      <p class="lede">Pick your race and goal time. You'll get the time to hit at every 10K sign, your watch pace in km and miles, and when to take each gel. It's the method from our videos, worked out for your goal.</p>
+      <p class="lede">Drag to your goal time. You'll get the time to hit at every 10K sign, your watch pace in km and miles, and the minute to take each gel. It's the method from our videos, worked out for you.</p>
 
       <div class="label" id="get-plan">
         <div class="band">Free pace plan · shown on this page</div>
         <div class="body">
           <form id="planForm" novalidate>
-            <div class="row2">
-              <div class="field"><label class="f" for="pf-race">Your race</label>
+            <div class="goalpick">
+              <label class="f" for="pf-slider">Drag to your goal time</label>
+              <div class="gp-read"><b id="gpTime">3:45</b><span id="gpFree">Your 10K sign: <strong>54:00</strong></span></div>
+              <input type="range" id="pf-slider" min="180" max="330" step="5" value="225" aria-label="Goal time">
+              <div class="gp-locks"><span>20K 🔒</span><span>30K 🔒</span><span>40K 🔒</span><span>Gels 🔒</span></div>
+              <label class="chk"><input type="checkbox" id="pf-notsure"> I don't have a goal yet</label>
+            </div>
+            <div class="field"><label class="f" for="pf-race">Your race</label>
                 <select id="pf-race" required>
                   <option value="">Pick your race</option>
                   <option>Dublin</option><option>Frankfurt</option><option>New York</option>
@@ -224,14 +288,13 @@
                   <option>Paris</option><option>London</option><option>Manchester</option>
                   <option>Belfast</option><option>Cork</option><option>Other</option>
                 </select></div>
-              <div class="field"><label class="f" for="pf-goal">Your goal time</label><select id="pf-goal" required></select></div>
-            </div>
+            <div hidden><select id="pf-goal" aria-hidden="true" tabindex="-1"></select></div>
             <div class="field" id="pf-other-wrap" hidden><label class="f" for="pf-other">Which race?</label><input id="pf-other" type="text" placeholder="e.g. Berlin, spring 2027"></div>
             <div class="row2">
               <div class="field"><label class="f" for="pf-email">Email</label><input id="pf-email" type="email" autocomplete="email" inputmode="email" required></div>
               <div class="field"><label class="f" for="pf-name">First name <span class="muted" style="font-weight:400">(optional)</span></label><input id="pf-name" type="text" autocomplete="given-name"></div>
             </div>
-            <button class="btn" type="submit">Show me my plan <span class="arr">→</span></button>
+            <button class="btn" type="submit">Unlock my full plan <span class="arr">→</span></button>
             <div class="err" id="pf-err"></div>
             <div class="heads">Straight up: our emails sometimes land in Promotions or spam. That's why your plan appears right here on this page, and the email is a copy.</div>
             <p class="fine">Free, no card. You'll get your plan, then race tips from us. Unsubscribe in one click.</p>
@@ -265,13 +328,21 @@
               </ul>
               <p style="margin:8px 0 0">Search for "Engine Room". Questions about your plan? Reply to that email. Luke reads every one.</p>
             </div>
-            <div class="wl" id="wlAsk">
-              <img src="assets/ern-carb-bar-pack.webp" alt="">
-              <div><b>One more thing.</b> We're making a 30g carb bar for race morning, and the first batch is small. Want first go?
-                <div><button class="btn sm" id="wlYes" type="button">Yes, add me</button><button class="linkbtn" id="wlNo" type="button">No thanks</button></div>
+            <div class="morning">
+              <div class="kicker" style="margin-bottom:8px">Race morning, before your plan starts</div>
+              <ol class="mtl">
+                <li><b>3 hours before</b>About 2g of carbs per kg. At 70kg that's 140g: two white bagels with jam and a glass of juice is about 150g.</li>
+                <li class="hot"><b>45 minutes before</b>Another 30g, when nerves have killed your appetite. A banana does it. So will our Carb Bar, once the first batch is out.</li>
+                <li><b>20 minutes in</b>Your first gel. Then the plan above takes over.</li>
+              </ol>
+              <div class="wl" id="wlAsk">
+                <img src="assets/ern-carb-bar-pack.webp" alt="The ERN Carb Bar pack" width="120" height="78">
+                <div><b>Want first go at the bar?</b> 30g of carbs in a rice crisp square. The first batch is small, and the waitlist hears first.
+                  <div><button class="btn sm" id="wlYes" type="button">Yes, add me</button><button class="linkbtn" id="wlNo" type="button">No thanks</button></div>
+                </div>
               </div>
+              <p id="wlThanks" hidden style="margin-top:12px"><b>You're on the waitlist.</b> You'll hear about the bar before anyone else.</p>
             </div>
-            <p id="wlThanks" hidden style="margin-top:16px"><b>You're on the waitlist.</b> You'll hear about the bar before anyone else.</p>
           </div>
         </div>
       </div>
@@ -346,6 +417,26 @@
       <div><b data-count="100">100</b><span>+ plans sent</span></div>
       <div><b data-count="173">173</b><span>K views: the wall video</span></div>
     </div>
+    <div class="label rv tellus" id="tell-us">
+      <div class="band">Ran with our plan? Tell us your time</div>
+      <div class="body">
+        <p style="margin:0 0 14px"><b>Dublin, Frankfurt, New York:</b> we want to hear how it went, good or bad. We read every one, and the best days end up on this wall (only with your OK).</p>
+        <form id="resForm" novalidate>
+          <div class="row2">
+            <div class="field"><label class="f" for="rs-race">Race</label><input id="rs-race" type="text" placeholder="e.g. Dublin 2026"></div>
+            <div class="field"><label class="f" for="rs-time">Finish time</label><input id="rs-time" type="text" inputmode="numeric" placeholder="e.g. 3:41:20"></div>
+          </div>
+          <div class="row2">
+            <div class="field"><label class="f" for="rs-pb">PB by how much? <span class="muted" style="font-weight:400">(optional)</span></label><input id="rs-pb" type="text" placeholder="e.g. 12 minutes"></div>
+            <div class="field"><label class="f" for="rs-email">Email</label><input id="rs-email" type="email" autocomplete="email" inputmode="email"></div>
+          </div>
+          <label class="chk"><input type="checkbox" id="rs-share"> You can share my first name and result on this page</label>
+          <button class="btn" type="submit" style="margin-top:14px">Send my result</button>
+          <div class="err" id="rs-err"></div>
+        </form>
+        <p id="rs-done" hidden style="margin:0"><b>Brilliant, thank you.</b> Luke reads every one of these.</p>
+      </div>
+    </div>
     <div class="center rv" style="margin-top:40px"><a class="btn" href="#get-plan">Get my plan <span class="arr">→</span></a></div>
   </div>
 </section>
@@ -411,8 +502,9 @@
       </div>
     </div>
     <div class="packwrap rv">
-      <img class="pack float" src="assets/ern-carb-bar-pack.webp" alt="The ERN Carb Bar pack: 30g carbs, made in Ireland">
+      <img class="pack float" src="assets/ern-carb-bar-pack.webp" alt="The ERN Carb Bar pack: 30g carbs, made in Ireland" width="1200" height="783" loading="lazy">
       <div class="sticker"><div><b>30g</b>carbs</div></div>
+      <p class="cap">The first-batch pack. Rice, honey and sea salt, 30g of carbs, made in Ireland.</p>
     </div>
   </div>
 </section>
@@ -420,19 +512,29 @@
 <!-- 5. WHO WE ARE: short, with personality -->
 <section style="background:var(--paper)">
   <div class="wrap founders">
-    <figure class="polaroid rv"><span class="tape"></span>
-      <div class="slot"><img src="assets/founders.jpg" alt="Luke and Jamie"><span class="brief">Photo: Luke and Jamie together, faces visible, at a race or on a run</span></div>
-      <figcaption>Luke &amp; Jamie</figcaption>
-    </figure>
+    <div class="fmedia rv">
+      <figure class="polaroid"><span class="tape"></span>
+        <div class="slot"><img src="assets/founders.webp" alt="Luke and Jamie at the finish of a race" width="800" height="800" loading="lazy"><span class="brief">Photo: Luke and Jamie together, faces visible, at a race or on a run</span></div>
+        <figcaption>Luke &amp; Jamie, still smiling. Mostly.</figcaption>
+      </figure>
+      <figure class="clip">
+        <div class="slot"><video muted loop playsinline autoplay preload="none" poster="" aria-label="Luke and Jamie, 15 seconds of outtakes"></video><span class="brief">Video: 10 to 15 seconds of reel outtakes, muted, looping (MP4, under 3MB)</span></div>
+        <figcaption>Take 14. The other 13 are on Instagram.</figcaption>
+      </figure>
+    </div>
     <div class="rv">
       <div class="kicker">Who's behind it</div>
       <h2>2 accountants who hit the wall, <em>then did the maths.</em></h2>
-      <p class="lede" style="margin-top:18px">We're Luke and Jamie. We've done marathons, ultras and Hyrox, and we've both bonked because we didn't take enough carbs.</p>
-      <p class="muted">So we put the numbers we wished we'd had into short videos. You asked for your own, and now the plan builds them for you. We're also making the carb bar we couldn't find, one failed batch at a time.</p>
-      <div class="facts3">
-        <div><b>Marathons</b>ultras, Hyrox</div>
-        <div><b>Made in</b>Ireland</div>
-        <div><b>Every reply</b>read by Luke</div>
+      <p class="lede" style="margin-top:18px">We're Luke and Jamie. We're not pro athletes. We're two lads with jobs who run, got it wrong, and wrote down what fixed it.</p>
+      <div class="cv">
+        <div class="cvh">Our race CV, the honest version</div>
+        <ul>
+          <li><span>✕</span>Bonked on ultras because we didn't take enough carbs</li>
+          <li><span>✕</span>Ate gels at mile 20 that made us want to stop</li>
+          <li><span>✕</span>Binned more rice crisp batches than we'll admit</li>
+          <li class="ok"><span>✓</span>Turned the fixes into videos with 900K+ views</li>
+          <li class="ok"><span>✓</span>Sent 100+ free plans, and answered every reply</li>
+        </ul>
       </div>
       <div class="sig">Luke &amp; Jamie</div>
     </div>
@@ -531,6 +633,7 @@
   var unlocked = false;
   function preview(){
     var s = ERNPlan.parseGoal(goal.value) || 13500, p = ERNPlan.build(s);
+    if (!$('signs')) return;
     $('pvBand').textContent = 'Preview · ' + ERNPlan.hmm(s === 14399 ? 14400 : s).replace('4:00', 'sub-4') + ' goal';
     texts.forEach(function(t, i){ t.textContent = p.signs[i]; t.classList.toggle('lock', i > 0 && !unlocked); });
     $('pvLine').innerHTML = unlocked ? '<b>Unlocked.</b> Your full plan is on the left.' :
@@ -538,7 +641,27 @@
     draw.style.transition = 'none'; draw.style.strokeDashoffset = len; draw.getBoundingClientRect();
     draw.style.transition = 'stroke-dashoffset 1.4s ease'; draw.style.strokeDashoffset = 0;
   }
-  goal.addEventListener('change', preview); preview();
+  goal.addEventListener('change', preview);
+
+  // the goal slider: thumb-friendly, live 10K time, drives the hidden select
+  var slider = $('pf-slider'), notsure = $('pf-notsure'), slid = false;
+  function fromSlider(){
+    var m = +slider.value, t = Math.floor(m / 60) + ':' + ('0' + m % 60).slice(-2);
+    goal.value = m === 240 ? '3:59 (sub-4)' : t;
+    $('gpTime').textContent = m === 240 ? 'Sub-4' : t;
+    slider.style.setProperty('--p', ((m - 180) / 150 * 100) + '%');
+    var p = ERNPlan.build(ERNPlan.parseGoal(goal.value));
+    $('gpFree').innerHTML = 'Your 10K sign: <strong>' + p.signs[0] + '</strong>';
+    preview();
+  }
+  slider.addEventListener('input', function(){ if (!slid) { slid = true; ERN.track('goal_slider_used'); } fromSlider(); });
+  notsure.addEventListener('change', function(){
+    document.querySelector('.ern .goalpick').classList.toggle('off', this.checked);
+    if (this.checked) goal.value = 'Not sure yet'; else fromSlider();
+  });
+  fromSlider();
+  var started = false;
+  $('planForm').addEventListener('focusin', function(){ if (!started) { started = true; ERN.track('plan_form_started'); } });
 
   // results ticker in the hero
   var WINS = ['Dave took 45 minutes off at the Dublin Marathon', 'Ellie ran a sub-3 at Frankfurt', 'Conor ran 2:47 at the Málaga Marathon',
@@ -616,6 +739,7 @@
     };
     // the value never waits on the network: if Klaviyo fails, they still get the plan
     ERN.subscribe('planList', saved, 'Pace plan page').then(done, done);
+    ERN.track('plan_unlocked', { email: email, goal_time: gv, race: raceName });
   });
 
   // lock screen image: a phone-sized PNG of the plan
@@ -636,6 +760,7 @@
     x.fillText('Watch: ' + p.stages[0].km + ' to 10K, then ' + p.stages[1].km, W/2, 2100);
     x.fillText('Gels: ' + p.gels.join('  '), W/2, 2180);
     x.font = 'italic 800 48px "Barlow Condensed", sans-serif'; x.fillText('ERN · ENGINE ROOM NUTRITION', W/2, 2330);
+    ERN.track('lock_screen_saved');
     var a = document.createElement('a'); a.download = 'my-marathon-pace-plan.png'; a.href = c.toDataURL('image/png');
     document.body.appendChild(a); a.click(); a.remove();
   });
@@ -645,12 +770,14 @@
     var p = plan, row = '<div class="strip"><table><tr><td><b>' + raceName + ' ' + ERNPlan.hmm(p.goal === 14399 ? 14400 : p.goal) + '</b></td>' +
       p.signs.map(function(s, i){ return '<td>' + (i + 1) * 10 + 'K <b>' + s + '</b></td>'; }).join('') + '</tr><tr><td colspan="5">Watch ' + p.stages[0].km + ' to 10K · ' + p.stages[1].km + ' to 40K · last 2K ' + p.stages[2].km + ' · Gels ' + p.gels.join(' ') + '</td></tr></table></div>';
     $('ern-band').innerHTML = row + row + row + row;
+    ERN.track('pace_band_printed');
     window.print();
   });
 
   // the second yes: separate consent for the bar waitlist
   $('wlYes').addEventListener('click', function(){
     this.disabled = true;
+    ERN.track('waitlist_yes', { email: saved.email, from: 'plan' });
     ERN.subscribe('waitlistList', { email: saved.email, properties: { bar_waitlist: true } }, 'Pace plan thank-you')
       .then(function(){ $('wlAsk').hidden = true; $('wlThanks').hidden = false; });
   });
@@ -662,9 +789,22 @@
     var email = $('bf-email').value.trim(), err = $('bf-err');
     if (!ERN.validEmail(email)) { err.textContent = 'Add your email to join the waitlist.'; err.style.display = 'block'; return; }
     err.style.display = 'none'; this.querySelector('button').disabled = true;
+    ERN.track('waitlist_yes', { email: email, from: 'home bar section' });
     ERN.subscribe('waitlistList', { email: email, properties: { bar_waitlist: true } }, 'Home bar section').then(function(){
       document.querySelector('#barForm .inline').hidden = true; $('bf-done').hidden = false;
     });
+  });
+
+  // results after race day: the wall refills itself (shared only with consent)
+  $('resForm').addEventListener('submit', function(e){
+    e.preventDefault();
+    var email = $('rs-email').value.trim(), race = $('rs-race').value.trim(), time = $('rs-time').value.trim(), err = $('rs-err');
+    if (!race || !time || !ERN.validEmail(email)) { err.textContent = 'Add your race, your time and your email.'; err.style.display = 'block'; return; }
+    err.style.display = 'none'; this.querySelector('button').disabled = true;
+    var props = { result_race: race, result_time: time, result_pb: $('rs-pb').value.trim(), result_share_ok: $('rs-share').checked, result_sent_at: new Date().toISOString() };
+    ERN.track('result_submitted', Object.assign({ email: email }, props));
+    var fin = function(){ $('resForm').hidden = true; $('rs-done').hidden = false; };
+    ERN.subscribe('planList', { email: email, properties: props }, 'Results form').then(fin, fin);
   });
 
   ERN.sticky('get-plan', 'plan');

@@ -20,6 +20,15 @@ window.ERN = (function(){
 
   function validEmail(e){ return /^\S+@\S+\.\S+$/.test(e); }
 
+  // one event per funnel step, to whatever is installed: Microsoft Clarity,
+  // Google Tag Manager / GA4 (dataLayer) and Klaviyo (once we know the email)
+  function track(name, props){
+    props = props || {};
+    try { if (window.clarity) window.clarity('event', name); } catch (e) {}
+    try { (window.dataLayer = window.dataLayer || []).push(Object.assign({ event: name }, props)); } catch (e) {}
+    try { if (window.klaviyo && props.email) { window.klaviyo.push(['identify', { email: props.email }]); window.klaviyo.push(['track', name, props]); } } catch (e) {}
+  }
+
   // fade sections in as they scroll into view
   function reveal(){
     var els = document.querySelectorAll('.ern .rv');
@@ -41,5 +50,5 @@ window.ERN = (function(){
   }
 
   document.addEventListener('DOMContentLoaded', reveal);
-  return { subscribe: subscribe, validEmail: validEmail, sticky: sticky };
+  return { subscribe: subscribe, validEmail: validEmail, sticky: sticky, track: track };
 })();

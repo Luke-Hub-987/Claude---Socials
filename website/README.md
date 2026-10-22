@@ -1,4 +1,42 @@
-# ERN website v4 (21 Oct 2026)
+# ERN website v5 (22 Oct 2026)
+
+v5 turns visitors into customers, not just emails. Brief: `BRIEF-v5.md`.
+Mail-tester 10/10 since the SPF and DKIM fix (22 Oct).
+
+**What v5 changed**
+- **First screen on a phone:** compact proof chips, the results ticker, the
+  headline and the **goal slider**. Drag to your goal and the 10K time
+  shows free; 20K, 30K, 40K and gels show as locked until the email.
+- **The bar inside the plan:** a race-morning step (3 hours before: 2g carbs
+  per kg; 45 minutes before: 30g, "a banana does it, so will our Carb Bar")
+  with the waitlist button right there.
+- **The founders in motion:** a video slot (10 to 15 s of reel outtakes,
+  muted loop) beside the photo, captions under both, and "Our race CV, the
+  honest version".
+- **Results form ("Ran with our plan? Tell us your time")** with a share
+  tick, so the results wall refills after Dublin and Frankfurt.
+- **Events at every step** (`ERN.track`): `plan_form_started`,
+  `goal_slider_used`, `plan_unlocked`, `lock_screen_saved`,
+  `pace_band_printed`, `waitlist_yes`, `result_submitted`. They go to
+  Microsoft Clarity, the dataLayer (GA4) and Klaviyo ("plan_unlocked" can
+  trigger a flow).
+- **Lighter:** images now WebP (about 460 KB for the whole page's own files).
+
+**Headlines to A/B test** (Ogilvy and Caples: test on real traffic)
+- A (live): "Your free marathon pace plan, on screen in 20 seconds."
+- B: "Free: the time to hit at every 10K sign of your marathon."
+- C: "Dave took 45 minutes off at Dublin. Here's the plan he used."
+  (only with Dave's OK)
+
+**To fill**
+- The founders video: an MP4 under 3 MB in `<video src="...">` in the
+  founders section.
+- Install Microsoft Clarity (free Shopify app) so the events have
+  somewhere to land; note today's sign-up rate as the baseline.
+
+---
+
+# v4 notes (21 Oct 2026)
 
 Light and bright, built on the Carb Bar pack. v4 goes deeper, not bigger:
 the plan shows **on screen the moment someone gives their email**, the
