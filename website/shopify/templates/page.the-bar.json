@@ -1,0 +1,12 @@
+{
+  "layout": "ern",
+  "sections": {
+    "main": {
+      "type": "ern-bar",
+      "settings": {}
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

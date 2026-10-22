@@ -1,3 +1,5 @@
+> **To put it live:** follow `SHOPIFY-INSTALL.md`. Shopify files are built into `shopify/` by `build_shopify.py`.
+
 # ERN website v5 (22 Oct 2026)
 
 v5 turns visitors into customers, not just emails. Brief: `BRIEF-v5.md`.

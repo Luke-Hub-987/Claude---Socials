@@ -1,9 +1,12 @@
 /* ERN site v3: shared behaviour for both pages. */
 window.ERN = (function(){
   // Klaviyo: the company ID is the public site ID already on the live site.
-  // Paste the two list IDs (Lists & segments > list > Settings > List ID).
+  // The three list IDs (Lists & segments > list > Settings > List ID).
   // While a list ID is empty, forms run in preview mode and send nothing.
-  var KLAVIYO = { company: 'RhFsS3', planList: '', waitlistList: '' };
+  var KLAVIYO = { company: 'RhFsS3', planList: '', waitlistList: '', resultsList: '' };
+  // On Shopify the list IDs come from the section settings (theme editor),
+  // written into window.ERN_CONFIG, so nobody has to edit this file.
+  if (window.ERN_CONFIG) for (var k in window.ERN_CONFIG) if (window.ERN_CONFIG[k]) KLAVIYO[k] = window.ERN_CONFIG[k];
 
   function subscribe(which, profile, source){
     var listId = KLAVIYO[which];

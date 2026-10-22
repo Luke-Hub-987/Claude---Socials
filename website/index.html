@@ -242,7 +242,7 @@
 <body style="margin:0">
 <div class="ern">
 
-<div class="race-bar" id="raceBar" hidden></div>
+<div class="race-bar">🏁 <b>100+ free pace plans sent.</b> Yours takes 20 seconds.<a href="#get-plan">Get it now</a></div>
 
 <header class="top">
   <div class="wrap">
@@ -332,7 +332,7 @@
               <div class="kicker" style="margin-bottom:8px">Race morning, before your plan starts</div>
               <ol class="mtl">
                 <li><b>3 hours before</b>About 2g of carbs per kg. At 70kg that's 140g: two white bagels with jam and a glass of juice is about 150g.</li>
-                <li class="hot"><b>45 minutes before</b>Another 30g, when nerves have killed your appetite. A banana does it. So will our Carb Bar, once the first batch is out.</li>
+                <li class="hot"><b>Before the gun</b>Another 30g in the start pen, when nerves have killed your appetite. A banana does it. So will our Carb Bar, once the first batch is out.</li>
                 <li><b>20 minutes in</b>Your first gel. Then the plan above takes over.</li>
               </ol>
               <div class="wl" id="wlAsk">
@@ -517,10 +517,6 @@
         <div class="slot"><img src="assets/founders.webp" alt="Luke and Jamie at the finish of a race" width="800" height="800" loading="lazy"><span class="brief">Photo: Luke and Jamie together, faces visible, at a race or on a run</span></div>
         <figcaption>Luke &amp; Jamie, still smiling. Mostly.</figcaption>
       </figure>
-      <figure class="clip">
-        <div class="slot"><video muted loop playsinline autoplay preload="none" poster="" aria-label="Luke and Jamie, 15 seconds of outtakes"></video><span class="brief">Video: 10 to 15 seconds of reel outtakes, muted, looping (MP4, under 3MB)</span></div>
-        <figcaption>Take 14. The other 13 are on Instagram.</figcaption>
-      </figure>
     </div>
     <div class="rv">
       <div class="kicker">Who's behind it</div>
@@ -593,20 +589,6 @@
 (function(){
   var $ = function(id){ return document.getElementById(id); };
   var NS = 'http://www.w3.org/2000/svg';
-
-  // race countdown bar: the next race in the list that hasn't happened yet
-  var RACES = [
-    { name: 'Dublin and Frankfurt are', date: '2026-10-25' },
-    { name: 'New York is', date: '2026-11-01' }
-  ];
-  var today = new Date(); today.setHours(0, 0, 0, 0);
-  for (var i = 0; i < RACES.length; i++) {
-    var d = new Date(RACES[i].date + 'T00:00:00'), days = Math.round((d - today) / 864e5);
-    if (days >= 1) {
-      $('raceBar').innerHTML = '🏁 ' + RACES[i].name + ' <b>' + (days === 1 ? 'tomorrow' : 'in ' + days + ' days') + '.</b> Your plan takes 20 seconds.<a href="#get-plan">Get it now</a>';
-      $('raceBar').hidden = false; break;
-    }
-  }
 
   // goal options: 3:00 to 5:30
   var goal = $('pf-goal'), opts = '<option value="">Pick your goal</option>';
@@ -804,7 +786,7 @@
     var props = { result_race: race, result_time: time, result_pb: $('rs-pb').value.trim(), result_share_ok: $('rs-share').checked, result_sent_at: new Date().toISOString() };
     ERN.track('result_submitted', Object.assign({ email: email }, props));
     var fin = function(){ $('resForm').hidden = true; $('rs-done').hidden = false; };
-    ERN.subscribe('planList', { email: email, properties: props }, 'Results form').then(fin, fin);
+    ERN.subscribe('resultsList', { email: email, properties: props }, 'Results form').then(fin, fin);
   });
 
   ERN.sticky('get-plan', 'plan');

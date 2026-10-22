@@ -1,0 +1,135 @@
+/* ERN site v3 (21 Oct 2026). Light, built on the Carb Bar pack:
+   ERN blue bands with double rules, a serif display face like "Carb Bar",
+   the rice crisp texture. Scoped to .ern so it sits inside the Shopify theme. */
+
+.ern{
+  --blue:#2485E6;--blue-dk:#176BC2;--blue-lt:#E6F1FC;
+  --ink:#0A1729;--ink-2:#3B4658;--muted:#5E6878;
+  --cream:#FBF8F2;--paper:#FFFFFF;--rice:#AF9567;--rice-lt:#F1E6D2;
+  --line:rgba(10,23,41,.10);
+  --fs:'DM Serif Display',Georgia,serif;
+  --fd:'Barlow Condensed',system-ui,sans-serif;
+  --fb:'Inter',system-ui,sans-serif;
+  background:var(--cream);color:var(--ink);font:17px/1.6 var(--fb);
+  -webkit-font-smoothing:antialiased;overflow-x:clip
+}
+.ern *{box-sizing:border-box}
+.ern img{max-width:100%;display:block}
+.ern a{color:inherit}
+.ern p{margin:0 0 14px}
+.ern .wrap{max-width:1160px;margin:0 auto;padding:0 20px}
+.ern section{padding:96px 0;position:relative}
+@media (max-width:760px){.ern section{padding:64px 0}}
+.ern [id]{scroll-margin-top:84px}
+
+/* type */
+.ern h1,.ern h2,.ern h3{margin:0;font-weight:400;letter-spacing:-.01em}
+.ern h1{font:400 clamp(42px,5.4vw,70px)/1 var(--fs)}
+.ern h2{font:400 clamp(36px,4.8vw,60px)/1.02 var(--fs)}
+.ern h3{font:700 24px/1.1 var(--fd);text-transform:uppercase;letter-spacing:.02em}
+.ern h1 em,.ern h2 em{font-style:italic;color:var(--blue)}
+.ern .lede{font-size:clamp(18px,1.6vw,20px);color:var(--ink-2);max-width:34em}
+.ern .muted{color:var(--muted)}
+.ern .kicker{display:inline-flex;align-items:center;gap:10px;font:700 15px/1 var(--fd);letter-spacing:.14em;text-transform:uppercase;color:var(--blue);margin-bottom:18px}
+.ern .kicker:before{content:"";width:28px;height:3px;background:currentColor;border-radius:2px}
+.ern .center{text-align:center}
+.ern .center .kicker{justify-content:center}
+.ern .center .lede{margin-left:auto;margin-right:auto}
+
+/* buttons */
+.ern .btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;border:0;cursor:pointer;background:var(--blue);color:#fff;font:700 20px/1 var(--fd);letter-spacing:.06em;text-transform:uppercase;padding:18px 26px;border-radius:12px;text-decoration:none;box-shadow:0 6px 0 var(--blue-dk);transition:transform .12s,box-shadow .12s}
+.ern .btn:hover{transform:translateY(2px);box-shadow:0 4px 0 var(--blue-dk)}
+.ern .btn:active{transform:translateY(6px);box-shadow:0 0 0 var(--blue-dk)}
+.ern .btn.white{background:#fff;color:var(--ink);box-shadow:0 6px 0 rgba(10,23,41,.25)}
+.ern .btn.ink{background:var(--ink);box-shadow:0 6px 0 #000}
+.ern .btn.sm{font-size:16px;padding:12px 16px;box-shadow:0 4px 0 var(--blue-dk)}
+.ern .btn .arr{transition:transform .15s}
+.ern .btn:hover .arr{transform:translateX(4px)}
+.ern .linkbtn{background:none;border:0;color:var(--muted);text-decoration:underline;cursor:pointer;font:15px var(--fb);padding:0}
+
+/* header */
+.ern .top{position:sticky;top:0;z-index:40;background:rgba(255,255,255,.92);backdrop-filter:saturate(1.4) blur(10px);border-bottom:1px solid var(--line)}
+.ern .top .wrap{display:flex;align-items:center;justify-content:space-between;height:72px;gap:16px}
+.ern .top .logo img{height:44px;width:auto;border-radius:3px}
+.ern nav{display:flex;align-items:center;gap:28px;font:600 15px var(--fb)}
+.ern nav a{text-decoration:none;color:var(--ink-2);white-space:nowrap}
+.ern nav a:hover{color:var(--blue)}
+@media (max-width:760px){.ern nav .hide-m{display:none}.ern .top .wrap{height:64px}.ern .top .logo img{height:38px}}
+
+/* the pack label: blue band, double rule, white panel */
+.ern .label{background:var(--paper);border-radius:20px;overflow:hidden;box-shadow:0 30px 70px -20px rgba(10,23,41,.28),0 2px 0 rgba(10,23,41,.04)}
+.ern .label .band{background:var(--blue);color:#fff;font:700 17px/1 var(--fd);letter-spacing:.08em;text-transform:uppercase;padding:14px 22px;display:flex;justify-content:space-between;gap:12px;position:relative}
+.ern .label .band:after{content:"";position:absolute;left:0;right:0;bottom:-9px;height:4px;background:var(--blue)}
+.ern .label .band+.body{margin-top:9px}
+.ern .label .body{padding:26px}
+@media (max-width:520px){.ern .label .body{padding:20px}}
+
+/* forms */
+.ern label.f{display:block;font:600 14px var(--fb);color:var(--ink-2);margin:0 0 7px}
+.ern .field{margin-bottom:16px}
+.ern input,.ern select{width:100%;font:17px var(--fb);color:var(--ink);background:var(--cream);border:2px solid transparent;border-radius:12px;padding:14px 16px;appearance:none;transition:border-color .15s,background .15s}
+.ern input:hover,.ern select:hover{background:#F5F0E6}
+.ern input:focus,.ern select:focus{outline:0;border-color:var(--blue);background:#fff}
+.ern select{background-image:linear-gradient(45deg,transparent 50%,var(--ink-2) 50%),linear-gradient(135deg,var(--ink-2) 50%,transparent 50%);background-position:calc(100% - 22px) 52%,calc(100% - 16px) 52%;background-size:6px 6px;background-repeat:no-repeat;padding-right:40px}
+.ern .row2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+@media (max-width:420px){.ern .row2{grid-template-columns:1fr}}
+.ern form .btn{width:100%;margin-top:6px}
+.ern .fine{font-size:14px;color:var(--muted);margin:16px 0 0;text-align:center}
+.ern .err{color:#C2362B;font-size:15px;margin-top:12px;display:none}
+.ern [hidden]{display:none!important}
+
+/* photo slots: swap src for a Shopify file URL; an empty src shows the brief */
+.ern .slot{position:relative;margin:0;background:repeating-linear-gradient(-45deg,#F1E6D2 0 14px,#EBDDC4 14px 28px);border-radius:18px;overflow:hidden;display:grid;place-items:center;text-align:center;color:#7A6440;font:600 15px/1.4 var(--fb);padding:20px}
+.ern .slot img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.ern .slot img:not([src]),.ern .slot img[src=""]{display:none}
+.ern .slot .brief:before{content:"📷 ";}
+
+/* stickers and tilts */
+.ern .sticker{position:absolute;display:grid;place-items:center;text-align:center;width:128px;height:128px;border-radius:50%;background:var(--ink);color:#fff;font:800 15px/1.05 var(--fd);letter-spacing:.06em;text-transform:uppercase;transform:rotate(-12deg);box-shadow:0 12px 30px rgba(10,23,41,.25)}
+.ern .sticker b{display:block;font:800 44px/1 var(--fd);letter-spacing:0}
+.ern .sticker.blue{background:var(--blue)}
+.ern .tape{position:absolute;width:110px;height:30px;background:rgba(255,255,255,.65);box-shadow:0 1px 3px rgba(0,0,0,.08);z-index:2}
+
+/* marquee */
+.ern .marquee{background:var(--blue);color:#fff;overflow:hidden;border-top:4px solid var(--ink);border-bottom:4px solid var(--ink);padding:16px 0}
+.ern .marquee .track{display:flex;gap:40px;width:max-content;animation:ern-marq 38s linear infinite;font:800 26px/1 var(--fd);letter-spacing:.06em;text-transform:uppercase;white-space:nowrap}
+.ern .marquee .track span:nth-child(even){color:var(--ink)}
+@keyframes ern-marq{to{transform:translateX(-50%)}}
+
+/* cards */
+.ern .card{background:var(--paper);border-radius:20px;padding:28px;border:1px solid var(--line)}
+.ern .grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+@media (max-width:860px){.ern .grid3{grid-template-columns:1fr}}
+
+/* FAQ */
+.ern .faq{display:grid;grid-template-columns:.8fr 1.2fr;gap:56px;align-items:start}
+@media (max-width:860px){.ern .faq{grid-template-columns:1fr;gap:24px}}
+.ern details{background:var(--paper);border-radius:16px;margin-bottom:12px;border:1px solid var(--line);transition:box-shadow .2s}
+.ern details[open]{box-shadow:0 14px 40px -18px rgba(10,23,41,.3)}
+.ern summary{cursor:pointer;font:700 21px/1.25 var(--fd);letter-spacing:.02em;text-transform:uppercase;list-style:none;display:flex;justify-content:space-between;align-items:center;gap:16px;padding:20px 22px}
+.ern summary::-webkit-details-marker{display:none}
+.ern summary:after{content:"+";flex:none;display:grid;place-items:center;width:32px;height:32px;border-radius:50%;background:var(--blue-lt);color:var(--blue);font:700 22px/1 var(--fb);transition:transform .2s}
+.ern details[open] summary:after{transform:rotate(45deg)}
+.ern details p{margin:0;padding:0 22px 22px;color:var(--ink-2)}
+
+/* footer */
+.ern footer{background:var(--paper);border-top:1px solid var(--line);padding:40px 0 110px;font-size:15px;color:var(--muted)}
+.ern footer .wrap{display:flex;flex-wrap:wrap;gap:18px 32px;justify-content:space-between;align-items:center}
+.ern footer img{height:40px;width:auto;border-radius:3px}
+.ern footer nav{gap:20px;flex-wrap:wrap;font-weight:500}
+
+/* sticky mobile CTA */
+.ern .stick{position:fixed;left:0;right:0;bottom:0;z-index:50;padding:12px 16px calc(12px + env(safe-area-inset-bottom));background:rgba(255,255,255,.95);backdrop-filter:blur(10px);border-top:1px solid var(--line);transform:translateY(110%);transition:transform .25s}
+.ern .stick .btn{width:100%}
+@media (max-width:860px){.ern .stick.on{transform:none}}
+@media (min-width:861px){.ern .stick{display:none}}
+
+/* reveal on scroll */
+.ern .rv{opacity:0;transform:translateY(24px);transition:opacity .7s ease,transform .7s ease}
+.ern .rv.in{opacity:1;transform:none}
+@media (prefers-reduced-motion:reduce){
+  .ern .rv{opacity:1;transform:none}
+  .ern .marquee .track,.ern .float{animation:none!important}
+}
+.ern .float{animation:ern-float 6s ease-in-out infinite}
+@keyframes ern-float{50%{transform:translateY(-12px) rotate(var(--r,0deg))}}
