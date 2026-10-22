@@ -4952,20 +4952,22 @@ audience knows doesn't land.
 
 *Source: Luke, 21 October.*
 
-## P143 — Proof keeps the numbers and drops the names
+## P143 — Proof is real results, first names only when Luke gives them
 
-Luke, 21 October, on the website's social proof: don't put people's names
-in, or change them. The proof that sells is the result (a 12-minute PB, a
-3:23:58 chip time, 3:19 when aiming for 3:30), not who ran it.
+Luke, 21 October: no names in the proof. Luke, 22 October, updating it: use
+the first names of runners he lists (Tom, Dave, Caroline, Ellie, Conor), all
+from messages on Instagram and by email. Named results give the page more
+credibility.
 
 **The rule:**
-- Use results with no names: chip time, PB, race, goal versus actual. Quote
-  messages word for word, with "..." for cuts and [ ] for added words.
-- Never invent a name or a quote. A message we don't have the words for
-  gets a placeholder until Luke has permission.
+- Lead with the result: time off, chip time, goal vs actual, race.
+- First names only, and only the ones Luke has given. Nobody else's name,
+  even if it's visible in a screenshot.
+- Quote messages word for word, with "..." for cuts and [ ] for added words.
+  Never invent a name, a result or a quote; a missing quote is a placeholder.
 - Applies to the site, emails, captions and videos.
 
-*Source: Luke, 21 October.*
+*Source: Luke, 21 and 22 October.*
 
 ## P144 — The plan shows on screen after the email; be upfront about spam
 
