@@ -28,18 +28,21 @@ In the code editor, the folders are down the left.
 4. **Assets:** next to the **assets** folder click the upload icon (or
    **Add a new asset > Upload file**). Upload all 8 files from
    `shopify/assets/`, one at a time if it only takes one.
-5. **Layout:** click **Add a new layout**, name it `ern`, click Done. Delete
-   everything in the new file, paste in all of `shopify/layout/ern.liquid`,
-   click **Save**.
-6. **Sections:** click **Add a new section**, name it `ern-home`. Delete
-   what's there, paste all of `shopify/sections/ern-home.liquid`, **Save**.
-   Do the same for `ern-bar` with `ern-bar.liquid`.
-7. **Home template:** open **templates > index.json**. Select all, delete,
-   paste all of `shopify/templates/index.json`, **Save**. (This only changes
-   the copy, not your live site.)
-8. **Bar template:** click **Add a new template**, choose **page**, choose
-   **JSON**, name it `the-bar`. Delete what's there, paste all of
-   `shopify/templates/page.the-bar.json`, **Save**.
+Shopify's code editor needs the **full filename, with the extension**
+(`.liquid` or `.json`). A file named without one turns red, shows "Plain
+Text" in the bottom bar and won't work.
+
+5. **Layout:** right-click the **layout** folder > **New File**, name it
+   `ern.liquid`. Paste in all of `shopify/layout/ern.liquid`, **Save**.
+6. **Sections:** right-click **sections** > **New File**, name it
+   `ern-home.liquid`, paste all of `shopify/sections/ern-home.liquid`,
+   **Save**. Same again for `ern-bar.liquid`.
+7. **Home template:** open the existing **templates > index.json**. Select
+   all, delete, paste all of `shopify/templates/index.json`, **Save**.
+   (This only changes the copy, not your live site.)
+8. **Bar template:** right-click **templates** > **New File**, name it
+   `page.the-bar.json`, paste all of `shopify/templates/page.the-bar.json`,
+   **Save**.
 
 If Shopify shows a red error when you save, send me a screenshot of it.
 
