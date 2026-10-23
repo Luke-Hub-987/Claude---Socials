@@ -891,6 +891,9 @@
       props.plan_pace_2 = plan.stages[1].km + ' /K (' + plan.stages[1].mi + ' /mi)';
       props.plan_pace_3 = plan.stages[2].km + ' /K (' + plan.stages[2].mi + ' /mi)';
       props.plan_gels = plan.gels.join(', '); props.plan_carry = plan.carry; props.plan_finish = plan.finish;
+      // separate km and mile paces for the welcome email's plan table
+      for (var i = 0; i < 3; i++) { props['plan_km_' + (i + 1)] = plan.stages[i].km; props['plan_mi_' + (i + 1)] = plan.stages[i].mi; }
+      if (plan.walk) props.plan_walk = 'yes';
     }
     saved = { email: email, properties: props }; if (name) saved.first_name = name;
     var done = function(){

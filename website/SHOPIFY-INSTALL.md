@@ -24,7 +24,7 @@ bottom, and won't work.
 | templates | `index.json` | already exists: replace its contents |
 | templates | `page.the-bar.json` | new file, paste |
 
-`klaviyo/plan-block.html` is for Klaviyo
+`klaviyo/welcome-email.html` is for Klaviyo
 (step 14), not Shopify.
 
 **Order matters:** assets, then layout, then sections, then templates. A
@@ -87,11 +87,13 @@ changes to match.
     into **Email List ID**. Top dropdown > Pages > **the-bar** template, click
     **ERN Bar**, paste the same ID. **Save**.
 13. Still in Customize: **App embeds** > **Klaviyo** on > **Save**.
-14. Welcome flow > **Email 1** > Edit content: drag an **HTML** block to the
-    top and paste all of `klaviyo/plan-block.html`. Delete the old "reply
-    with your race and goal time" ask (the block covers it). Subject:
+14. Welcome flow > **Email 1** > Edit content (the HTML/code editor): select
+    all, delete, paste all of `klaviyo/welcome-email.html` (Luke's design;
+    the top changes with what the person did: their plan, the bar list, a
+    result, or no goal yet). Subject:
     `Your marathon pace plan for {{ person|lookup:'race'|default:'your next marathon' }}`.
-    Save, leave it Live.
+    Leave Klaviyo's preview-text box empty (the email has its own). Save,
+    leave it Live.
 15. Klaviyo **Sign-up forms**: set the old Live forms to Draft **at go-live**,
     not before (the old site still needs them).
 

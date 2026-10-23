@@ -5018,6 +5018,22 @@ a new list or flow for a new form; add a property instead.
 
 *Source: Luke, 23 October.*
 
+## P147 — Build on Luke's own email; never bolt on a plain block
+
+Luke, 23 October, on the plain plan block for the welcome email: "absolute
+shit." He sent his real welcome email (dark hero, race line, four rules,
+sample plan card, reply card) and said he likes its layout, colours and
+formatting: edit that so people get what they signed up for.
+
+**The rule:** email work starts from Luke's existing template
+(`website/klaviyo/welcome-email.html`) and keeps its design. Personalise
+inside it with Klaviyo conditionals (their own plan in the plan card, the
+bar list in the hero). Check every number in an email against FACTS.md and
+the site's plan engine before delivering: his old version said a gel every
+20 minutes and a sub-4 sample that didn't match the site.
+
+*Source: Luke, 23 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
