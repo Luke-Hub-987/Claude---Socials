@@ -443,6 +443,9 @@
 {%- if section.settings.plan_list == blank -%}
 <div style="background:#C2362B;color:#fff;font:600 15px/1.4 Arial,sans-serif;padding:12px 16px;text-align:center">Klaviyo Email List ID missing: the forms on this page will NOT save anyone. Click this section and paste the ID.</div>
 {%- endif -%}
+{%- if section.settings.relay_url == blank -%}
+<div style="background:#B7791F;color:#fff;font:600 15px/1.4 Arial,sans-serif;padding:10px 16px;text-align:center">Sign-up relay URL missing: iPhones that block klaviyo.com can't sign up. Click this section and paste the Worker address.</div>
+{%- endif -%}
 {%- endif -%}
 <div class="ern">
 
@@ -471,6 +474,7 @@
       <div class="label clockcard" id="get-plan">
         <div class="body">
           <form id="planForm" novalidate>
+            <input type="text" name="ern_hp_field" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;opacity:0">
             <div class="clock" id="clock">
               <div class="clock-top"><span class="live"></span>Your finish time<span class="clock-tag" id="clockTag">Goal</span></div>
               <div class="clock-time"><span id="gpTime">3:45</span><small>:00</small></div>
@@ -785,7 +789,7 @@
 </div>
 </div>
 
-<script>window.ERN_CONFIG = { planList: {{ section.settings.plan_list | default: "" | json }} };</script>
+<script>window.ERN_CONFIG = { planList: {{ section.settings.plan_list | default: "" | json }}, relay: {{ section.settings.relay_url | default: "" | json }} };</script>
 <script src="{{ 'plan.js' | asset_url }}" defer></script>
 <script src="{{ 'ern.js' | asset_url }}" defer></script>
 <script>document.addEventListener('DOMContentLoaded', function(){
@@ -1004,6 +1008,12 @@
       "id": "plan_list",
       "label": "Email List ID",
       "info": "Klaviyo > Lists & segments > Email List > Settings > List ID. Every form on the page adds people to this one list."
+    },
+    {
+      "type": "text",
+      "id": "relay_url",
+      "label": "Sign-up relay URL",
+      "info": "The Cloudflare Worker address, e.g. https://ern-signup.yourname.workers.dev. Lets iPhones that block klaviyo.com sign up."
     },
     {
       "type": "header",

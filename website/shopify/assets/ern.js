@@ -6,23 +6,35 @@ window.ERN = (function(){
   // profile (bar_waitlist, result_time) and the sign-up source, so a segment
   // can pick them out later. While the list ID is empty, forms run in
   // preview mode and send nothing.
-  var KLAVIYO = { company: 'RhFsS3', planList: '', waitlistList: '', resultsList: '' };
+  var KLAVIYO = { company: 'RhFsS3', planList: '', waitlistList: '', resultsList: '', relay: '' };
   // On Shopify the list IDs come from the section settings (theme editor),
   // written into window.ERN_CONFIG, so nobody has to edit this file.
   if (window.ERN_CONFIG) for (var k in window.ERN_CONFIG) if (window.ERN_CONFIG[k]) KLAVIYO[k] = window.ERN_CONFIG[k];
   KLAVIYO.waitlistList = KLAVIYO.waitlistList || KLAVIYO.planList;
   KLAVIYO.resultsList = KLAVIYO.resultsList || KLAVIYO.planList;
 
-  // Sign-ups go to Klaviyo's form endpoint (the one its older embedded forms
-  // post to): a plain form post, so the browser sends it straight away with
-  // no CORS pre-check. Klaviyo's newer client API (/client/subscriptions,
-  // /client/events) needs a pre-check that Klaviyo's bot filter refused in
-  // real browsers once the Klaviyo pop-ups were off (23 Oct), so nothing
-  // saved. This one worked every time from the same browsers. It adds the
-  // email to the list (single opt-in, so the welcome flow fires) and saves
-  // the plan details on the profile in the same request.
+  // How a sign-up reaches Klaviyo (23 Oct, after iPhone Safari blocked
+  // klaviyo.com outright: "Load failed" in normal and private tabs):
+  //   1. our relay (a Cloudflare Worker, URL in the theme settings): the
+  //      phone never contacts klaviyo.com; the Worker calls Klaviyo's server
+  //      API with a private key, saves the plan, then subscribes to the list
+  //   2. if the relay can't be reached: Klaviyo's form endpoint directly
+  //      (a plain form post; works on desktop)
+  //   3. if both fail: keep the sign-up on the phone and send it on their
+  //      next visit, and report the failure to the relay so we can count it
+  // Single opt-in list, so joining it starts the welcome flow.
   function wait(ms){ return new Promise(function(r){ setTimeout(r, ms); }); }
-  function post(listId, profile, source){
+  function honeypot(){ var h = document.querySelector('.ern input[name="ern_hp_field"]'); return h ? h.value : ''; }
+  function viaRelay(profile, source){
+    var body = new URLSearchParams();
+    body.append('email', profile.email); body.append('source', source); body.append('company', honeypot());
+    var props = {}; for (var k in (profile.properties || {})) props[k] = profile.properties[k];
+    if (profile.first_name) props.first_name = profile.first_name;
+    body.append('props', JSON.stringify(props));
+    return fetch(KLAVIYO.relay, { method: 'POST', body: body })
+      .then(function(r){ return r.json().catch(function(){ return {}; }).then(function(j){ if (!r.ok || !j.ok) throw new Error('Relay ' + r.status + ' ' + (j.error || '')); return j; }); });
+  }
+  function viaKlaviyo(listId, profile, source){
     var body = new URLSearchParams();
     body.append('g', listId); body.append('email', profile.email); body.append('$source', source);
     var props = profile.properties || {}, keys = [];
@@ -34,15 +46,46 @@ window.ERN = (function(){
       .then(function(r){ return r.json(); })
       .then(function(j){ if (!j || !j.success) throw new Error('Klaviyo: ' + ((j && j.errors) || []).join(' ')); return j; });
   }
+  function send(listId, profile, source){
+    var first = KLAVIYO.relay ? viaRelay(profile, source) : Promise.reject(new Error('no relay set'));
+    return first.catch(function(e1){
+      if (window.console) console.warn(e1);
+      return viaKlaviyo(listId, profile, source).catch(function(e2){
+        if (window.console) console.warn(e2);
+        return wait(1500).then(function(){ return KLAVIYO.relay ? viaRelay(profile, source) : viaKlaviyo(listId, profile, source); })
+          .catch(function(e3){ throw new Error((KLAVIYO.relay ? e1.message + ' / ' : '') + e2.message); });
+      });
+    });
+  }
+  // sign-ups that couldn't be sent wait on the phone for the next visit
+  var QKEY = 'ern_pending_signups';
+  function queue(){ try { return JSON.parse(localStorage.getItem(QKEY) || '[]'); } catch (e) { return []; } }
+  function saveQueue(q){ try { if (q.length) localStorage.setItem(QKEY, JSON.stringify(q.slice(-5))); else localStorage.removeItem(QKEY); } catch (e) {} }
+  function report(reason, source){
+    if (!KLAVIYO.relay || !navigator.sendBeacon) return;
+    var ua = navigator.userAgent, app = /Instagram/.test(ua) ? 'Instagram app' : /musical_ly|TikTok|BytedanceWebview/i.test(ua) ? 'TikTok app' : /FBAN|FBAV/.test(ua) ? 'Facebook app' : /CriOS/.test(ua) ? 'Chrome iPhone' : /iPhone|iPad/.test(ua) ? 'Safari iPhone' : /Android/.test(ua) ? 'Android' : 'Desktop';
+    var b = new URLSearchParams(); b.append('reason', reason); b.append('app', app); b.append('source', source);
+    try { navigator.sendBeacon(KLAVIYO.relay.replace(/\/?$/, '/log'), b); } catch (e) {}
+  }
   function subscribe(which, profile, source){
     var listId = KLAVIYO[which];
     if (!listId) {
       if (window.console) console.warn('ERN: no Klaviyo list ID for ' + which + ', nothing was saved (preview mode).');
       return wait(500);
     }
-    return post(listId, profile, source).catch(function(e){
-      if (window.console) console.warn(e);
-      return wait(1500).then(function(){ return post(listId, profile, source); });
+    return send(listId, profile, source).catch(function(e){
+      var q = queue(); q.push({ which: which, profile: profile, source: source, at: Date.now() }); saveQueue(q);
+      report(String(e.message || e), source);
+      throw e;
+    });
+  }
+  function flushQueue(){
+    var q = queue(); if (!q.length) return;
+    saveQueue([]);
+    q.forEach(function(item){
+      if (Date.now() - item.at > 14 * 864e5) return; // older than two weeks: drop
+      var listId = KLAVIYO[item.which]; if (!listId) return;
+      send(listId, item.profile, item.source + ' (sent on return visit)').catch(function(){ var r = queue(); r.push(item); saveQueue(r); });
     });
   }
   // someone who has just signed up: same call, they're already on the list
@@ -84,5 +127,6 @@ window.ERN = (function(){
   }
 
   document.addEventListener('DOMContentLoaded', reveal);
+  document.addEventListener('DOMContentLoaded', function(){ setTimeout(flushQueue, 2000); });
   return { subscribe: subscribe, update: update, validEmail: validEmail, sticky: sticky, track: track };
 })();
