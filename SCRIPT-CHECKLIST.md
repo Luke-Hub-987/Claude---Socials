@@ -101,6 +101,13 @@ twice without being checked against the winners (P99).
 - [ ] **No maths on the course (P143, Luke 22 Oct):** numbers worked out
       the night before and written on the wrist; mid-race = one look, one
       switch.
+- [ ] **Posting time is never a reason (P144, Luke 23 Oct).**
+- [ ] **Retention table in every script (P145):** hook-as-picture opening
+      frame; named unknown = an action answered last; no "why" stage; under
+      1:37; one-sentence CTA into the next beat; clock times; send prompt
+      said aloud. Forecasts as a range.
+- [ ] **Would Luke do it? Does it add a new worry? (P146, Luke 23 Oct):**
+      "queue twice for the portaloo" failed both.
 - [ ] **Line one is a counter-position, not a big number** (P120, Luke
       16 Oct): "a dozen bagels a day" was a fact with no curiosity. Line
       one says something runners would argue with, leaves a question,

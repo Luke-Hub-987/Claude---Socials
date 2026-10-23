@@ -4968,6 +4968,57 @@ realistically use this on the course. At 25K, tired, nobody can do sums.
 
 *Source: Luke, 22 October.*
 
+## P144 — Posting time is not a reason
+
+Luke, 23 October: "Posting time does not matter one bit." Instagram puts a
+reel in front of whoever it predicts will watch, in any time zone. Our own
+data agrees: across 32 reels, posting hour and views correlate at 0.19.
+
+**The rule:** never explain a result by posting time, and never forecast
+on it. Explain results by topic, the first 3 seconds, saves, shares and
+retention.
+
+*Source: Luke, 23 October; Meta export.*
+
+## P145 — Build every script against the retention data
+
+Luke, 23 October: use all the data on watch time to keep people in and
+grow reach, every time; and own the forecasts that missed (goal gone was
+forecast at 30K and was 6.5K at 9 hours).
+
+**The rule (from our own reels):**
+- Opening frame = the hook as a picture (goal gone +3:00 graphic, 31.9%
+  skip; a crowd frame 48.9%).
+- Named unknown is an action, answered in the last stage (without the
+  wall: 39s on 1:37, our best watch).
+- No "why" rehook or explanation stage (goal gone lost half the remaining
+  viewers at 1:13). The rehook reopens the action.
+- About 300 to 330 words, under 1:37 (how hard slid to 1:48).
+- CTA is one sentence that runs straight into the next beat (4:30 lost
+  about half at the CTA).
+- Clock times in every stage for saves (carb load 3.4%, day before 3.3%);
+  a send prompt in the audio for shares (Dublin 1.8%).
+- Each script carries a table showing how it meets these, and forecasts
+  are given as a range from the type median, not a point.
+
+*Source: Luke, 23 October; review files.*
+
+## P146 — Would Luke do it himself? And does the tip add a new worry?
+
+Luke, 23 October, on the start pen script ("join the portaloo queue, and
+the second you come out, join it again"): "Seems a bit mad... I don't know
+if I would be doing that personally." And the second queue risks running
+into the pen closing, which creates the very anxiety the video promised to
+remove.
+
+**The rule:**
+- Before a practical tip goes in, ask: would Luke do this on race morning?
+  If not, it's out, however clever it sounds.
+- Check what new worry the tip creates (a second queue against the pen
+  closing). If it swaps one fear for another, drop it.
+
+*Source: Luke, 23 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
