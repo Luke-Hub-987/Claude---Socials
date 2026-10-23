@@ -24,9 +24,9 @@ every posted video.
 3. The three newest `ideas/*-review.md` files: the latest data.
 4. The newest scripts in `ideas/engine-room-nutrition/` (the house
    style, the hook stacks, the audit tables).
-5. `principles.md` (P1 to P145, about 4,400 lines): search it for the
+5. `principles.md` (P1 to P146, about 4,400 lines): search it for the
    rule you need; do not read it end to end. The newest rules (P97 to
-   P145) are at the end, before "Open questions for Luke".
+   P146) are at the end, before "Open questions for Luke".
 
 ## How we work (Luke's standing instructions)
 
@@ -202,7 +202,7 @@ your half marathon time into a marathon goal (incl. after illness). Fri 23
 your marathon. 4:30 goes TikTok-only. Luke's goal: 1M lifetime IG views
 (840K on 19 Oct). Every pace in km and miles in captions (P129).
 
-Waiting on Luke: start pen script delivered (`ideas/engine-room-nutrition/2026-10-23-script-start-pen.md`, with the retention table and motion cue sheet); next: Sat enjoy + Sat sleep briefs.
+Waiting on Luke: yes on the sleep brief for today (Fri 23; start pen dropped, P146); Sat: enjoy.
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
 Motion graphics (22 Oct, Luke asked): `motion/` renders 16:9 scene clips for the top half of the reel (`motion/README.md`). Goal gone is built in placeholder colours; waiting on Luke's logo to set the brand colours. Run it as a trial reel A/B against the plain version: the checklist still says only the title and stage markers on screen (P84, P95).
 

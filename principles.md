@@ -5003,6 +5003,22 @@ forecast at 30K and was 6.5K at 9 hours).
 
 *Source: Luke, 23 October; review files.*
 
+## P146 — Would Luke do it himself? And does the tip add a new worry?
+
+Luke, 23 October, on the start pen script ("join the portaloo queue, and
+the second you come out, join it again"): "Seems a bit mad... I don't know
+if I would be doing that personally." And the second queue risks running
+into the pen closing, which creates the very anxiety the video promised to
+remove.
+
+**The rule:**
+- Before a practical tip goes in, ask: would Luke do this on race morning?
+  If not, it's out, however clever it sounds.
+- Check what new worry the tip creates (a second queue against the pen
+  closing). If it swaps one fear for another, drop it.
+
+*Source: Luke, 23 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

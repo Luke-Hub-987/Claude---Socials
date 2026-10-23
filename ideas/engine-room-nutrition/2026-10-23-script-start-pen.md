@@ -4,7 +4,7 @@ brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-23
 slot: race weekend plan (Fri 23): countdown + a moment + race fear
 basis: brief (in chat, 23 Oct), FACTS.md (incl. retention facts), goal gone review, why-winners-win, cold marathon, 30 minutes before, first 10 minutes, P120, P128 to P145
-status: v1 for Luke
+status: DROPPED (Luke 23 Oct: the double queue fails his own test and adds a worry, P146; the rest is covered by 30 minutes before, first 10 minutes and cold)
 teleprompter: 2026-10-23-teleprompter-start-pen.txt
 ---
 
