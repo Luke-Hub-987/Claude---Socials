@@ -26,8 +26,8 @@ KLAVIYO_SETTINGS = [
     {"type": "header", "content": "Klaviyo"},
     {"type": "text", "id": "plan_list", "label": "Email List ID",
      "info": "Klaviyo > Lists & segments > Email List > Settings > List ID. Every form on the page adds people to this one list."},
-    {"type": "text", "id": "relay_url", "label": "Sign-up relay URL",
-     "info": "The Cloudflare Worker address, e.g. https://ern-signup.yourname.workers.dev. Lets iPhones that block klaviyo.com sign up."},
+    {"type": "text", "id": "relay_url", "label": "Sign-up relay URL (optional, leave empty)",
+     "info": "Only if a sign-up relay is ever set up. Leave empty: sign-ups go straight to Klaviyo."},
 ]
 
 CONFIG_JS = ('<script>window.ERN_CONFIG = { planList: {{ section.settings.plan_list | default: "" | json }}, relay: {{ section.settings.relay_url | default: "" | json }} };</script>\n'
@@ -44,10 +44,6 @@ DESIGN_MODE = (
     '{%- if section.settings.plan_list == blank -%}\n'
     '<div style="background:#C2362B;color:#fff;font:600 15px/1.4 Arial,sans-serif;padding:12px 16px;text-align:center">'
     'Klaviyo Email List ID missing: the forms on this page will NOT save anyone. Click this section and paste the ID.</div>\n'
-    '{%- endif -%}\n'
-    '{%- if section.settings.relay_url == blank -%}\n'
-    '<div style="background:#B7791F;color:#fff;font:600 15px/1.4 Arial,sans-serif;padding:10px 16px;text-align:center">'
-    'Sign-up relay URL missing: iPhones that block klaviyo.com can\'t sign up. Click this section and paste the Worker address.</div>\n'
     '{%- endif -%}\n'
     '{%- endif -%}\n')
 
