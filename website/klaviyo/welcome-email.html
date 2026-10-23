@@ -15,6 +15,9 @@
        result_time only    : thanks for the result, then the plan offer
        nothing (no goal)   : the original email: reply with your race
      Nested if/else on purpose: it works in every Klaviyo editor.
+     Every tag sits inside a table cell or a paragraph, never between
+     table rows: the editor reads the email as a web page, and a browser
+     moves anything between rows to the top, which breaks the logic.
      Fuel and pace numbers match FACTS.md and the site's plan engine. -->
 <style type="text/css">
 body { margin:0; padding:0; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; }
@@ -101,7 +104,9 @@ a { text-decoration:none; }
   </table>
 
   <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-top:30px;">
+<tr><td style="padding:0;">
 {% if person|lookup:'plan_10k' %}
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
     <tr>
       <td class="hero-headline" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:60px; font-weight:900; line-height:0.96; color:#ffffff; text-transform:uppercase; letter-spacing:0.5px;">
         <div class="up1">Your plan for<br>{{ person|lookup:'race'|default:'your marathon' }}</div>
@@ -117,8 +122,10 @@ a { text-decoration:none; }
         <div class="up3">Your watch pace for each stretch, your race clock at every 10K sign and when to take each gel. It's all below, ready for race morning.</div>
       </td>
     </tr>
+    </table>
 {% else %}
 {% if person|lookup:'bar_waitlist' %}
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
     <tr>
       <td class="hero-headline" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:60px; font-weight:900; line-height:0.96; color:#ffffff; text-transform:uppercase; letter-spacing:0.5px;">
         <div class="up1">You're on<br>the list</div>
@@ -134,8 +141,10 @@ a { text-decoration:none; }
         <div class="up3">The Engine Room Carb Bar is a rice crisp square with 30g of carbs, made in Ireland for race morning. When the first batch is ready, you'll hear before anyone else. Until then, here's a free plan for your marathon.</div>
       </td>
     </tr>
+    </table>
 {% else %}
 {% if person|lookup:'result_time' %}
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
     <tr>
       <td class="hero-headline" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:60px; font-weight:900; line-height:0.96; color:#ffffff; text-transform:uppercase; letter-spacing:0.5px;">
         <div class="up1">Thanks for<br>your result</div>
@@ -151,7 +160,9 @@ a { text-decoration:none; }
         <div class="up3">Honestly, these are the best emails we get. Got another marathon coming? Reply with the race and your goal time and I'll send back your pace, your gel times and how each 10K should feel.</div>
       </td>
     </tr>
+    </table>
 {% else %}
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
     <tr>
       <td class="hero-headline" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:60px; font-weight:900; line-height:0.96; color:#ffffff; text-transform:uppercase; letter-spacing:0.5px;">
         <div class="up1">A free plan for<br>your marathon</div>
@@ -167,9 +178,11 @@ a { text-decoration:none; }
         <div class="up3">I'll send back your pace, your gel times and how each 10K should feel. Below are four rules you can use on race day either way.</div>
       </td>
     </tr>
+    </table>
 {% endif %}
 {% endif %}
 {% endif %}
+</td></tr>
   </table>
 
   <!-- Race line: start to finish -->
@@ -214,7 +227,9 @@ a { text-decoration:none; }
 </td>
 </tr>
 
+<tr><td style="padding:0;">
 {% if person|lookup:'plan_10k' %}
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
 <!-- ============ LETTER: they have their plan ============ -->
 <tr>
 <td class="pad" style="background-color:#ffffff; padding:24px 28px 0 28px;">
@@ -337,7 +352,9 @@ a { text-decoration:none; }
   </table>
 </td>
 </tr>
+</table>
 {% else %}
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
 <!-- ============ LETTER: no plan yet ============ -->
 <tr>
 <td class="pad" style="background-color:#ffffff; padding:24px 28px 0 28px;">
@@ -374,7 +391,10 @@ a { text-decoration:none; }
   <p style="margin:10px 0 0 0; font-family:'DM Sans',Arial,sans-serif; font-size:14px; line-height:1.6; color:#666666;">Or press reply in your email app and send me your race and goal time. Rather have it now? Drag the clock to your goal at <a href="https://engineroomnutrition.com/" target="_blank" style="color:#2563eb; text-decoration:underline;">engineroomnutrition.com</a> and your plan shows on screen.</p>
 </td>
 </tr>
+</table>
 {% endif %}
+</td></tr>
+
 
 <!-- ============ FOUR RULES (the value) ============ -->
 <tr>
@@ -435,7 +455,9 @@ a { text-decoration:none; }
 </td>
 </tr>
 
+<tr><td style="padding:0;">
 {% if person|lookup:'plan_10k' %}
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
 <!-- ============ THE ASK: they have a plan ============ -->
 <tr>
 <td class="pad" style="background-color:#ffffff; padding:28px 28px 0 28px;">
@@ -469,7 +491,9 @@ a { text-decoration:none; }
   </table>
 </td>
 </tr>
+</table>
 {% else %}
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
 <!-- ============ SAMPLE PLAN (same numbers as the site's sub-4 plan) ============ -->
 <tr>
 <td class="pad" style="background-color:#ffffff; padding:28px 28px 0 28px;">
@@ -633,7 +657,10 @@ a { text-decoration:none; }
   </table>
 </td>
 </tr>
+</table>
 {% endif %}
+</td></tr>
+
 
 <!-- ============ REPLY CARD ============ -->
 <tr>

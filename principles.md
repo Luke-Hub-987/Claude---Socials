@@ -5032,6 +5032,12 @@ bar list in the hero). Check every number in an email against FACTS.md and
 the site's plan engine before delivering: his old version said a gel every
 20 minutes and a sub-4 sample that didn't match the site.
 
+**Klaviyo template tags never sit between table rows** (23 Oct): the editor
+reads the email as a web page and the browser moves anything between `<tr>`s
+to the top, so every version showed at once. Tags go inside a `<td>` or a
+`<p>`. Test before sending: load the HTML in a browser, save what the browser
+makes of it, and check each version still renders the same.
+
 *Source: Luke, 23 October.*
 
 ## Open questions for Luke
