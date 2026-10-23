@@ -5040,6 +5040,21 @@ makes of it, and check each version still renders the same.
 
 *Source: Luke, 23 October.*
 
+## P148 — When something's broken, reproduce it before explaining it
+
+Luke, 23 October, after I put a failed sign-up down to Klaviyo "taking a
+while": "that's not true whatsoever... your point there is invalid." The bar
+form landed in Klaviyo instantly; the plan form didn't. The real cause
+(Klaviyo's site script identifying the new email at the same moment as the
+subscription) only showed when I ran the live page and logged every call.
+
+**The rule:** when Luke reports a fault, run the live page and log what it
+actually sends and gets back before offering a cause. Don't hand him
+"wait and see", timing or "maybe your browser" unless the evidence shows
+it. Say plainly what was verified and what wasn't.
+
+*Source: Luke, 23 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

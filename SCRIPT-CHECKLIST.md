@@ -338,3 +338,4 @@ twice without being checked against the winners (P99).
 - [ ] **Instructions in the chat (P145, Luke 22 Oct):** step-by-step setup or install steps go in full in the reply, not only in a file.
 - [ ] **One email list (P146, Luke 23 Oct):** every form goes to the Klaviyo Email List; tag with a profile property, never a new list or flow.
 - [ ] **Luke's own email design (P147, Luke 23 Oct):** edit `website/klaviyo/welcome-email.html`, never a plain new block; every number checked against FACTS.md and the site plan.
+- [ ] **Reproduce before explaining (P148, Luke 23 Oct):** a reported fault gets the live page run and every request logged before any cause is offered; no "it takes a while" without evidence.
