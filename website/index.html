@@ -238,27 +238,13 @@
   .ern .clock-time{font-size:84px}
   .ern .sp b{font-size:20px}
 }
-/* v7 proof: views band, reel covers, swipe, message frames */
+/* v7 proof: views band, swipe, message frames (reel tiles cut 23 Oct: links off the page) */
 .ern .proof{padding-top:0}
 .ern .viewsband{background:var(--ink);color:#fff;padding:56px 0 48px;position:relative;overflow:hidden}
 .ern .viewsband:before{content:"";position:absolute;inset:0;background:radial-gradient(700px 300px at 15% 0%,rgba(36,133,230,.35),transparent 70%)}
 .ern .vb-top{position:relative;display:flex;align-items:flex-end;gap:24px;flex-wrap:wrap;margin-bottom:28px}
 .ern .vb-num{font:400 clamp(64px,10vw,140px)/.9 var(--fs);letter-spacing:-.03em;color:#fff;font-variant-numeric:tabular-nums}
 .ern .vb-top span{font:600 17px/1.4 var(--fb);color:rgba(255,255,255,.75);max-width:22em;padding-bottom:10px}
-.ern .reels{position:relative;display:grid;grid-template-columns:repeat(6,1fr);gap:12px}
-.ern .reel{position:relative;aspect-ratio:9/15;border-radius:14px;overflow:hidden;text-decoration:none;color:#fff;display:flex;flex-direction:column;justify-content:center;padding:12px;transition:transform .2s}
-.ern .reel:hover{transform:translateY(-4px)}
-.ern .reel.blue{background:linear-gradient(160deg,#2F8FEA,#1559A8)}
-.ern .reel.ink{background:linear-gradient(160deg,#24324F,#0B1222)}
-.ern .reel.green{background:linear-gradient(160deg,#36C978,#1B8A4C)}
-.ern .reel.rice{background:url(assets/rice-texture.webp) center/cover}
-.ern .reel .ost{font:800 clamp(15px,1.5vw,19px)/1.15 var(--fd);text-transform:uppercase;text-align:center;background:rgba(0,0,0,.55);border-radius:6px;padding:6px 6px;box-decoration-break:clone}
-.ern .reel .pl{position:absolute;left:10px;bottom:10px;font:800 17px var(--fd);text-shadow:0 1px 4px rgba(0,0,0,.5)}
-@media (max-width:960px){
-  .ern .reels{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;margin:0 -20px;padding:0 20px 6px;scrollbar-width:none}
-  .ern .reels::-webkit-scrollbar{display:none}
-  .ern .reel{flex:0 0 42%;scroll-snap-align:start}
-}
 .ern .swipehint{display:none;text-align:center;font:700 13px var(--fd);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:10px 0 0}
 @media (max-width:760px){
   .ern .wall.swipe{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;margin:36px -20px 0;padding:6px 20px 10px;gap:12px;scrollbar-width:none}
@@ -426,7 +412,7 @@
   #ern-band td{border:1px solid #ccc;padding:4px 6px;text-align:center}
 }
 /* v9: a shorter page on phones */
-.ern .pills{position:relative;display:flex;gap:8px;overflow-x:auto;margin:0 -20px 18px;padding:0 20px;scrollbar-width:none}
+.ern .pills{position:relative;display:flex;gap:8px;overflow-x:auto;margin:0 -20px;padding:0 20px;scrollbar-width:none}
 .ern .pills::-webkit-scrollbar{display:none}
 .ern .pills span{flex:none;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.16);border-radius:999px;padding:8px 14px;font:600 13px var(--fb);color:rgba(255,255,255,.8);white-space:nowrap}
 .ern .pills b{font:800 18px var(--fd);color:#3DDC84;margin-right:6px}
@@ -595,18 +581,10 @@
     <div class="wrap">
       <div class="vb-top rv">
         <b class="vb-num" data-count="1000000" data-suffix="+">1,000,000+</b>
-        <span>views on our marathon videos, and the results runners sent back. Tap a video to watch it.</span>
+        <span>views on our marathon videos on Instagram and TikTok, and the results runners sent back.</span>
       </div>
       <div class="pills">
         <span><b>−45 min</b>Dave · Dublin</span><span><b>Sub-3</b>Ellie · Frankfurt</span><span><b>2:47</b>Conor · Málaga</span><span><b>3:19</b>Tom · Chicago</span><span><b>−13 min</b>Caroline · Dublin</span>
-      </div>
-      <div class="reels">
-        <a class="reel blue" href="https://www.instagram.com/reel/DdzNnCSSnba/" target="_blank" rel="noopener"><span class="ost">How to get ahead of the wall</span><span class="pl">▶ 173.5K</span></a>
-        <a class="reel ink" href="https://www.instagram.com/reel/DeCtUiiA-BN/" target="_blank" rel="noopener"><span class="ost">What to do 7 days before a marathon</span><span class="pl">▶ 84K</span></a>
-        <a class="reel green" href="https://www.instagram.com/reel/DejheBFxJML/" target="_blank" rel="noopener"><span class="ost">How to actually carb load for a marathon</span><span class="pl">▶ 53.1K</span></a>
-        <a class="reel rice" href="https://www.instagram.com/reel/Dd17OttgWH0/" target="_blank" rel="noopener"><span class="ost">How to get out of the marathon wall</span><span class="pl">▶ 47.6K</span></a>
-        <a class="reel blue" href="https://www.instagram.com/reel/DePd8qvAfwx/" target="_blank" rel="noopener"><span class="ost">What to do in the first 10 minutes of a marathon</span><span class="pl">▶ 46.7K</span></a>
-        <a class="reel ink" href="https://www.instagram.com/reel/Deg8ESUxQSv/" target="_blank" rel="noopener"><span class="ost">How to run a marathon without hitting the wall</span><span class="pl">▶ 46K</span></a>
       </div>
     </div>
   </div>
