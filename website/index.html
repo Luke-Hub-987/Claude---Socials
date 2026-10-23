@@ -332,7 +332,7 @@
 .ern .c-in .c-b:has(.c-heart){margin-bottom:12px}
 .ern .c-time,.ern .c-sys{text-align:center;font-size:12px;margin:10px 0 8px;opacity:.6}
 .ern .c-seen{text-align:right;font-size:12px;opacity:.6;margin:-2px 4px 6px}
-.ern .c-img{width:70%;border-radius:16px;margin-left:36px;border:1px solid rgba(0,0,0,.1)}
+.ern .c-img{width:55%;border-radius:16px;margin-left:36px;border:1px solid rgba(0,0,0,.1)}
 .ern .c-link{margin-left:36px;border-radius:16px;padding:10px 14px;max-width:78%}
 .ern .c-link small{display:block;font-size:11px;opacity:.7}
 .ern .c-link b{font-size:15px}
@@ -424,6 +424,41 @@
   #ern-band .strip{border:2px dashed #999;padding:8px 10px;margin-bottom:10px;width:19cm}
   #ern-band table{width:100%;border-collapse:collapse;font-size:15pt}
   #ern-band td{border:1px solid #ccc;padding:4px 6px;text-align:center}
+}
+/* v9: a shorter page on phones */
+.ern .pills{position:relative;display:flex;gap:8px;overflow-x:auto;margin:0 -20px 18px;padding:0 20px;scrollbar-width:none}
+.ern .pills::-webkit-scrollbar{display:none}
+.ern .pills span{flex:none;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.16);border-radius:999px;padding:8px 14px;font:600 13px var(--fb);color:rgba(255,255,255,.8);white-space:nowrap}
+.ern .pills b{font:800 18px var(--fd);color:#3DDC84;margin-right:6px}
+.ern .tellwrap{margin:28px auto 0;max-width:760px}
+.ern .tellwrap summary{list-style:none;cursor:pointer;text-align:center;font:600 16px var(--fb);color:var(--ink-2);padding:14px;border:1px dashed #C9D3E0;border-radius:14px}
+.ern .tellwrap summary::-webkit-details-marker{display:none}
+.ern .tellwrap summary b{color:#1F9D57}
+.ern .tellwrap[open] summary{display:none}
+.ern .tellwrap .tellus{margin-top:0}
+@media (max-width:760px){
+  .ern section{padding:48px 0}
+  .ern .viewsband{padding:36px 0 30px}
+  .ern .vb-top{margin-bottom:16px;gap:10px}
+  .ern .vb-top span{padding-bottom:0}
+  .ern #why .fgrid{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;margin:0 -20px;padding:0 20px 8px;gap:12px;scrollbar-width:none}
+  .ern #why .fgrid::-webkit-scrollbar{display:none}
+  .ern #why .fcard{flex:0 0 82%;scroll-snap-align:center;min-height:0;padding:22px}
+  .ern #why .rv[style*="margin-bottom:44px"]{margin-bottom:20px!important}
+  .ern #why .center.rv[style*="margin-top:40px"]{margin-top:20px!important}
+  .ern .barteaser{padding:48px 0}
+  .ern .barteaser .vsbag{display:none}
+  .ern .packwrap{max-width:280px;margin:0 auto}
+  .ern .founders{gap:22px}
+  .ern .founders .fmedia{max-width:220px;margin:0 auto;padding:0}
+  .ern .founders .fmedia .polaroid{padding:8px 8px 34px}
+  .ern .founders .fmedia figcaption{font-size:15px;bottom:9px}
+  .ern .cv{margin:12px 0 14px}
+  .ern .final{padding:56px 0}
+  .ern .final .label .body{padding:30px 20px}
+  .ern .final .ghost{display:none}
+  .ern .faq{gap:16px}
+  .ern details summary{padding:16px 18px;font-size:18px}
 }
 </style>
 </head>
@@ -553,7 +588,6 @@
   </div>
 </section>
 
-<div class="marquee" aria-hidden="true"><div class="track" id="marq"></div></div>
 
 <!-- 2. PROOF: the views, the results, the messages (names with permission, Luke 22 Oct) -->
 <section class="proof" id="results">
@@ -561,7 +595,10 @@
     <div class="wrap">
       <div class="vb-top rv">
         <b class="vb-num" data-count="1000000" data-suffix="+">1,000,000+</b>
-        <span>views on our marathon videos. These six started it. Tap one to watch.</span>
+        <span>views on our marathon videos, and the results runners sent back. Tap a video to watch it.</span>
+      </div>
+      <div class="pills">
+        <span><b>−45 min</b>Dave · Dublin</span><span><b>Sub-3</b>Ellie · Frankfurt</span><span><b>2:47</b>Conor · Málaga</span><span><b>3:19</b>Tom · Chicago</span><span><b>−13 min</b>Caroline · Dublin</span>
       </div>
       <div class="reels">
         <a class="reel blue" href="https://www.instagram.com/reel/DdzNnCSSnba/" target="_blank" rel="noopener"><span class="ost">How to get ahead of the wall</span><span class="pl">▶ 173.5K</span></a>
@@ -574,19 +611,6 @@
     </div>
   </div>
   <div class="wrap">
-    <div class="center rv" style="margin-top:72px">
-      <div class="kicker">Results</div>
-      <h2>45 minutes off. Sub-3. <em>A 2:47.</em></h2>
-      <p class="lede" style="margin-top:14px">Real runners, real race results. Names used with their permission.</p>
-    </div>
-    <div class="wall swipe">
-      <div class="rcard feature rv"><div class="rtop"><span class="who"><i>D</i>Dave</span><span class="race">Dublin Marathon</span></div><div class="big">−45<small>min</small></div><p>Took 45 minutes off his marathon time.</p></div>
-      <div class="rcard blue rv"><div class="rtop"><span class="who"><i>E</i>Ellie</span><span class="race">Frankfurt Marathon</span></div><div class="big">Sub-3</div><p>A sub-3-hour marathon.</p></div>
-      <div class="rcard ink rv"><div class="rtop"><span class="who"><i>C</i>Conor</span><span class="race">Málaga Marathon</span></div><div class="big">2:47</div><p>With our plan.</p></div>
-      <div class="rcard rv"><div class="rtop"><span class="who"><i>T</i>Tom</span><span class="race">Chicago Marathon</span></div><div class="big">3:19</div><p>Aimed for sub-3:30. Ran 11 minutes under it.</p></div>
-      <div class="rcard rv"><div class="rtop"><span class="who"><i>C</i>Caroline</span><span class="race">Dublin Marathon</span></div><div class="big">−13<small>min</small></div><p>13 minutes off her marathon.</p></div>
-    </div>
-    <p class="swipehint">Swipe for more →</p>
     <div class="center rv" style="margin-top:64px">
       <div class="kicker">In their own words</div>
       <h2>Straight from <em>our inbox.</em></h2>
@@ -612,7 +636,8 @@
 <!-- messages:end -->
     </div>
     <p class="railhint">Swipe for more →</p>
-    <div class="label rv tellus" id="tell-us">
+    <details class="tellwrap" id="tell-us"><summary>Ran with our plan? <b>Tell us your time →</b></summary>
+    <div class="label tellus" id="tell-us">
       <div class="band">Ran with our plan? Tell us your time</div>
       <div class="body">
         <p style="margin:0 0 14px"><b>Dublin, Frankfurt, New York:</b> we want to hear how it went, good or bad. We read every one, and the best days end up on this wall (only with your OK).</p>
@@ -632,6 +657,7 @@
         <p id="rs-done" hidden style="margin:0"><b>Brilliant, thank you.</b> Luke reads every one of these.</p>
       </div>
     </div>
+    </details>
     <div class="center rv" style="margin-top:40px"><a class="btn" href="#get-plan">Get my plan <span class="arr">→</span></a></div>
   </div>
 </section>
@@ -837,11 +863,6 @@
       });
     });
   })();
-
-  // marquee
-  var words = ['Your time at every 10K sign', 'Km and miles', '30g of carbs on the clock', '1M+ views', 'Made in Ireland', 'Free, on screen'];
-  var s = words.map(function(w){ return '<span>' + w + '</span><span>✦</span>'; }).join('');
-  $('marq').innerHTML = s + s;
 
   // count-up numbers in the proof tally
   if ('IntersectionObserver' in window) {
