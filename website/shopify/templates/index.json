@@ -3,7 +3,47 @@
   "sections": {
     "main": {
       "type": "ern-home",
-      "settings": {}
+      "settings": {},
+      "blocks": {
+        "msg_1": {
+          "type": "message",
+          "settings": {
+            "platform": "instagram",
+            "name": "",
+            "label": "Instagram reply",
+            "result": "\u221212 min",
+            "detail": "Chip time 3:23:58",
+            "text": "\u203c\ufe0f\n12 minute pb \u2764\ufe0f"
+          }
+        },
+        "msg_2": {
+          "type": "message",
+          "settings": {
+            "platform": "gmail",
+            "name": "Caroline",
+            "label": "",
+            "result": "\u221213 min",
+            "detail": "Dublin Marathon",
+            "text": "Not to get emotional, but you made my day with the plan."
+          }
+        },
+        "msg_3": {
+          "type": "message",
+          "settings": {
+            "platform": "instagram",
+            "name": "",
+            "label": "Instagram message",
+            "result": "Goal time hit",
+            "detail": "Antwerp Marathon \u00b7 3h 28m",
+            "text": "Hey Luke hope things are well man! Just wanted to let you know that I ... got the time I was looking for.\nNot to cringe it up or anything but it was one [of] the best days of my life \ud83d\ude02"
+          }
+        }
+      },
+      "block_order": [
+        "msg_1",
+        "msg_2",
+        "msg_3"
+      ]
     }
   },
   "order": [

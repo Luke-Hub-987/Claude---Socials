@@ -90,6 +90,12 @@ screenshot of it.
       three Klaviyo boxes. The red bar disappears.
     - **Photos > Photo of Luke and Jamie:** leave empty to keep the current
       one, or pick a better one (square, both faces visible).
+    - **Messages ("Straight from our inbox"):** under ERN Home you'll see
+      Message blocks. Click one to edit it, or **Add block > Message** for
+      more (Dave, Ellie, Conor, Tom). Pick where it came from (Instagram,
+      Email or TikTok), the result, the race, and paste their message word
+      for word, one line per bubble. A block with no message stays hidden.
+      Drag blocks to reorder them.
     - Top dropdown: **Home page > Pages > the-bar**. Click **ERN Bar**, paste
       the same three IDs. Add up to 4 Rice Crisp Graveyard photos (phone
       screenshots of the series work). The photo row stays hidden until you

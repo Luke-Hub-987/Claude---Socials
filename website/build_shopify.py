@@ -49,6 +49,72 @@ DESIGN_MODE = (
     '{%- endif -%}\n')
 
 
+# Messages from runners, word for word (P143). One list feeds the static page
+# and the Shopify blocks. Add more in Shopify: Customize > ERN Home > Add block
+# > Message, and paste the exact text. Never write words for anyone.
+MESSAGES = [
+    {"platform": "instagram", "name": "", "label": "Instagram reply", "result": "−12 min",
+     "detail": "Chip time 3:23:58", "text": "‼️\n12 minute pb ❤️"},
+    {"platform": "gmail", "name": "Caroline", "label": "", "result": "−13 min",
+     "detail": "Dublin Marathon", "text": "Not to get emotional, but you made my day with the plan."},
+    {"platform": "instagram", "name": "", "label": "Instagram message", "result": "Goal time hit",
+     "detail": "Antwerp Marathon · 3h 28m",
+     "text": "Hey Luke hope things are well man! Just wanted to let you know that I ... got the time I was looking for.\n"
+             "Not to cringe it up or anything but it was one [of] the best days of my life 😂"},
+]
+APP = {"instagram": "Instagram", "gmail": "Gmail", "tiktok": "TikTok"}
+
+
+def message_static(m):
+    from html import escape
+    who = m["name"] or m["label"] or APP[m["platform"]]
+    initial = m["name"][:1].upper() if m["name"] else "★"
+    bubbles = ''.join('<p class="bub">%s</p>' % escape(l.strip()) for l in m["text"].split('\n') if l.strip())
+    if m["platform"] == "gmail":
+        head = ('<div class="gtop"><span class="gm"><i style="color:#EA4335">M</i></span>Inbox</div>'
+                '<div class="msg-head"><i class="av">%s</i><div><b>%s</b><small>to Luke</small></div></div>' % (initial, escape(who)))
+    else:
+        head = ('<div class="msg-head"><i class="av">%s</i><div><b>%s</b><small>%s</small></div><span class="app">%s</span></div>'
+                % (initial, escape(who), APP[m["platform"]], APP[m["platform"]]))
+    return ('      <div class="msg msg-%s rv"><div class="msg-res"><b>%s</b><span>%s</span></div>'
+            '<div class="msg-app">%s<div class="msg-body">%s</div></div></div>\n'
+            % (m["platform"], escape(m["result"]), escape(m["detail"]), head, bubbles))
+
+
+MSG_LIQUID = r"""{%- for block in section.blocks -%}{%- if block.type == 'message' and block.settings.text != blank -%}
+{%- assign p = block.settings.platform -%}
+{%- capture who -%}{%- if block.settings.name != blank -%}{{ block.settings.name }}{%- elsif block.settings.label != blank -%}{{ block.settings.label }}{%- else -%}{%- case p -%}{%- when 'gmail' -%}Gmail{%- when 'tiktok' -%}TikTok{%- else -%}Instagram{%- endcase -%}{%- endif -%}{%- endcapture -%}
+{%- capture app -%}{%- case p -%}{%- when 'gmail' -%}Gmail{%- when 'tiktok' -%}TikTok{%- else -%}Instagram{%- endcase -%}{%- endcapture -%}
+{%- if block.settings.name != blank -%}{%- assign initial = block.settings.name | slice: 0 | upcase -%}{%- else -%}{%- assign initial = '★' -%}{%- endif -%}
+      <div class="msg msg-{{ p }} rv" {{ block.shopify_attributes }}><div class="msg-res"><b>{{ block.settings.result | escape }}</b><span>{{ block.settings.detail | escape }}</span></div><div class="msg-app">
+      {%- if p == 'gmail' -%}<div class="gtop"><span class="gm"><i style="color:#EA4335">M</i></span>Inbox</div><div class="msg-head"><i class="av">{{ initial }}</i><div><b>{{ who | escape }}</b><small>to Luke</small></div></div>
+      {%- else -%}<div class="msg-head"><i class="av">{{ initial }}</i><div><b>{{ who | escape }}</b><small>{{ app }}</small></div><span class="app">{{ app }}</span></div>{%- endif -%}
+      <div class="msg-body">{%- assign lines = block.settings.text | newline_to_br | split: '<br />' -%}{%- for l in lines -%}{%- assign t = l | strip -%}{%- if t != blank -%}<p class="bub">{{ t | escape }}</p>{%- endif -%}{%- endfor -%}</div></div></div>
+{%- endif -%}{%- endfor -%}
+"""
+
+MESSAGE_BLOCK = {
+    "type": "message", "name": "Message",
+    "settings": [
+        {"type": "select", "id": "platform", "label": "Where it came from", "default": "instagram",
+         "options": [{"value": "instagram", "label": "Instagram"}, {"value": "gmail", "label": "Email (Gmail)"},
+                     {"value": "tiktok", "label": "TikTok"}]},
+        {"type": "text", "id": "name", "label": "First name (only with their OK)"},
+        {"type": "text", "id": "label", "label": "Label if no name", "info": "e.g. Instagram reply"},
+        {"type": "text", "id": "result", "label": "Result", "info": "e.g. −13 min, Sub-3, 2:47"},
+        {"type": "text", "id": "detail", "label": "Race or detail", "info": "e.g. Dublin Marathon"},
+        {"type": "textarea", "id": "text", "label": "Their message, word for word",
+         "info": "One line per message bubble. Leave empty to hide this block."},
+    ]}
+
+
+def write_static_messages(path):
+    html = path.read_text()
+    a, b = '<!-- messages:start -->\n', '<!-- messages:end -->'
+    i, j = html.index(a) + len(a), html.index(b)
+    path.write_text(html[:i] + ''.join(message_static(m) for m in MESSAGES) + html[j:])
+
+
 def founders_photo(alt, brief):
     # the uploaded photo if one is picked in the theme editor, else the current one
     return ('{%- if section.settings.founders_photo -%}'
@@ -57,7 +123,7 @@ def founders_photo(alt, brief):
             '{%- endif -%}')
 
 
-def convert(html, section_name, extra_settings, page_fix=None):
+def convert(html, section_name, extra_settings, page_fix=None, blocks=None):
     style = re.search(r'<style>(.*?)</style>', html, re.S).group(1)
     body = re.search(r'<body[^>]*>(.*)</body>', html, re.S).group(1)
     # scripts: drop the file includes (loaded below), keep the page script
@@ -76,6 +142,9 @@ def convert(html, section_name, extra_settings, page_fix=None):
     body = body[:i] + CONFIG_JS + body[i:]
     schema = {"name": section_name, "tag": "div", "settings": KLAVIYO_SETTINGS + extra_settings,
               "presets": [{"name": section_name}]}
+    if blocks:
+        schema["blocks"] = blocks
+        schema["max_blocks"] = 16
     return ('{% comment %} Built by website/build_shopify.py. Edit the website/ files and rebuild. {% endcomment %}\n'
             '<style>' + style + '</style>\n' + DESIGN_MODE + body.strip() + '\n\n{% schema %}\n' +
             json.dumps(schema, indent=2) + '\n{% endschema %}\n')
@@ -83,7 +152,8 @@ def convert(html, section_name, extra_settings, page_fix=None):
 
 def home_fix(body):
     body = re.sub(r'<img src="assets/founders\.webp"[^>]*>',
-                  founders_photo('Luke and Jamie at the finish of a race', ''), body)
+                  founders_photo('Luke and Jamie', ''), body)
+    body = re.sub(r'<!-- messages:start -->\n.*?<!-- messages:end -->', lambda m: MSG_LIQUID, body, flags=re.S)
     return body
 
 
@@ -145,12 +215,18 @@ def main():
     for d in ('layout', 'sections', 'templates', 'assets'):
         (OUT / d).mkdir(parents=True)
     (OUT / 'layout' / 'ern.liquid').write_text(LAYOUT)
+    write_static_messages(SRC / 'index.html')
     home = (SRC / 'index.html').read_text()
     bar = (SRC / 'bar.html').read_text()
-    (OUT / 'sections' / 'ern-home.liquid').write_text(convert(home, 'ERN Home', PHOTO, home_fix))
+    (OUT / 'sections' / 'ern-home.liquid').write_text(convert(home, 'ERN Home', PHOTO, home_fix, [MESSAGE_BLOCK]))
     (OUT / 'sections' / 'ern-bar.liquid').write_text(convert(bar, 'ERN Bar', PHOTO + GRAVEYARD, bar_fix))
     for name, section in (('index.json', 'ern-home'), ('page.the-bar.json', 'ern-bar')):
-        tpl = {"layout": "ern", "sections": {"main": {"type": section, "settings": {}}}, "order": ["main"]}
+        main_section = {"type": section, "settings": {}}
+        if section == 'ern-home':
+            main_section["blocks"] = {"msg_%d" % n: {"type": "message", "settings": {k: v for k, v in m.items()}}
+                                      for n, m in enumerate(MESSAGES, 1)}
+            main_section["block_order"] = ["msg_%d" % n for n in range(1, len(MESSAGES) + 1)]
+        tpl = {"layout": "ern", "sections": {"main": main_section}, "order": ["main"]}
         (OUT / 'templates' / name).write_text(json.dumps(tpl, indent=2) + '\n')
     for f in ('ern.css', 'ern.js', 'plan.js'):
         shutil.copy(SRC / f, OUT / 'assets' / f)
