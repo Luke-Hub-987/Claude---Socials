@@ -1,12 +1,17 @@
 /* ERN site: shared behaviour for both pages. */
 window.ERN = (function(){
   // Klaviyo: the company ID is the public site ID already on the live site.
-  // The three list IDs (Lists & segments > list > Settings > List ID).
-  // While a list ID is empty, forms run in preview mode and send nothing.
+  // One list for everyone (Luke, 23 Oct): Email List. The waitlist and the
+  // results form use it too; what someone signed up for is saved on their
+  // profile (bar_waitlist, result_time) and the sign-up source, so a segment
+  // can pick them out later. While the list ID is empty, forms run in
+  // preview mode and send nothing.
   var KLAVIYO = { company: 'RhFsS3', planList: '', waitlistList: '', resultsList: '' };
   // On Shopify the list IDs come from the section settings (theme editor),
   // written into window.ERN_CONFIG, so nobody has to edit this file.
   if (window.ERN_CONFIG) for (var k in window.ERN_CONFIG) if (window.ERN_CONFIG[k]) KLAVIYO[k] = window.ERN_CONFIG[k];
+  KLAVIYO.waitlistList = KLAVIYO.waitlistList || KLAVIYO.planList;
+  KLAVIYO.resultsList = KLAVIYO.resultsList || KLAVIYO.planList;
 
   function klaviyo(path, data){
     return fetch('https://a.klaviyo.com/client/' + path + '/?company_id=' + KLAVIYO.company, {

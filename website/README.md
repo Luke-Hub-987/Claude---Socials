@@ -119,9 +119,10 @@ walk every drink station (inside the times). Gels: 30g at 20 min, then every
 
 ## Klaviyo
 
-- In `ern.js` fill in `planList` (the existing Email List, so the welcome
-  flow fires) and `waitlistList` (new list "Bar waitlist"). Empty = preview
-  mode, nothing sent.
+- One list for every form (P146): paste the Email List ID into each section
+  in the theme editor (it becomes `planList`; the waitlist and results forms
+  use it too and tag the profile with `bar_waitlist` or `result_time`).
+  Empty = preview mode, nothing sent.
 - Each plan sign-up saves these on the profile, so the welcome email can be
   the plan itself: `race`, `goal_time`, `plan_10k`, `plan_20k`, `plan_30k`,
   `plan_40k`, `plan_pace_1`, `plan_pace_2`, `plan_pace_3`, `plan_gels`,

@@ -5002,6 +5002,22 @@ as a record, but the chat is the deliverable.
 
 *Source: Luke, 22 October.*
 
+## P146 — One email list for everyone; tag people, don't split them
+
+Luke, 23 October: "I prefer to just add them directly to our regular email
+list, because I'm not going to be sending these people any different
+emails... I'm going to keep them all in the same bucket." No separate Bar
+waitlist or Race results lists, and no extra flows.
+
+**The rule:** every form (pace plan, bar waitlist, results) adds people to
+the one Klaviyo Email List. What they signed up for is saved on the profile
+(`bar_waitlist`, `result_time`, `plan_10k`, the sign-up source), and the one
+welcome email changes its top block to match. When the bar launches, a
+segment on `bar_waitlist` picks those people out in a minute. Never propose
+a new list or flow for a new form; add a property instead.
+
+*Source: Luke, 23 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

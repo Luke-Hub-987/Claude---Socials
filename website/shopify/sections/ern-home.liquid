@@ -439,8 +439,8 @@
 </style>
 {%- if request.design_mode -%}
 <style>.ern .rv{opacity:1!important;transform:none!important}</style>
-{%- if section.settings.plan_list == blank or section.settings.waitlist_list == blank or section.settings.results_list == blank -%}
-<div style="background:#C2362B;color:#fff;font:600 15px/1.4 Arial,sans-serif;padding:12px 16px;text-align:center">Klaviyo list IDs missing: the forms on this page will NOT save anyone. Click this section and paste all three IDs.</div>
+{%- if section.settings.plan_list == blank -%}
+<div style="background:#C2362B;color:#fff;font:600 15px/1.4 Arial,sans-serif;padding:12px 16px;text-align:center">Klaviyo Email List ID missing: the forms on this page will NOT save anyone. Click this section and paste the ID.</div>
 {%- endif -%}
 {%- endif -%}
 <div class="ern">
@@ -784,7 +784,7 @@
 </div>
 </div>
 
-<script>window.ERN_CONFIG = { planList: {{ section.settings.plan_list | default: "" | json }}, waitlistList: {{ section.settings.waitlist_list | default: "" | json }}, resultsList: {{ section.settings.results_list | default: "" | json }} };</script>
+<script>window.ERN_CONFIG = { planList: {{ section.settings.plan_list | default: "" | json }} };</script>
 <script src="{{ 'plan.js' | asset_url }}" defer></script>
 <script src="{{ 'ern.js' | asset_url }}" defer></script>
 <script>document.addEventListener('DOMContentLoaded', function(){
@@ -990,18 +990,8 @@
     {
       "type": "text",
       "id": "plan_list",
-      "label": "Pace plan list ID (Email List)",
-      "info": "Klaviyo > Lists & segments > Email List > Settings > List ID"
-    },
-    {
-      "type": "text",
-      "id": "waitlist_list",
-      "label": "Bar waitlist list ID"
-    },
-    {
-      "type": "text",
-      "id": "results_list",
-      "label": "Race results list ID"
+      "label": "Email List ID",
+      "info": "Klaviyo > Lists & segments > Email List > Settings > List ID. Every form on the page adds people to this one list."
     },
     {
       "type": "header",

@@ -24,8 +24,8 @@ bottom, and won't work.
 | templates | `index.json` | already exists: replace its contents |
 | templates | `page.the-bar.json` | new file, paste |
 
-`klaviyo/plan-block.html` and `klaviyo/waitlist-email.md` are for Klaviyo
-(steps 15 and 16), not Shopify.
+`klaviyo/plan-block.html` is for Klaviyo
+(step 14), not Shopify.
 
 **Order matters:** assets, then layout, then sections, then templates. A
 template that points at a layout or section that doesn't exist yet won't
@@ -73,50 +73,27 @@ screenshot of it.
     sign, your watch pace in km and miles, and when to take each gel.`
     **Save**.
 
-## D. Klaviyo (20 min)
+## D. Klaviyo (15 min)
 
-11. **Three lists** (Klaviyo > Audience > Lists & segments):
-    - Open **Email List > Settings**. Copy the **List ID** (6 characters).
-      Set **Opt-in process** to **Single opt-in**. With double opt-in,
-      people get a "confirm your email" message first and the plan email
-      waits until they click it.
-    - **Create new > List**: `Bar waitlist`. Single opt-in. Copy its ID.
-    - **Create new > List**: `Race results`. Copy its ID.
-12. **Paste the IDs into the site:** Online Store > Themes > `ERN v5` >
-    **Customize**.
-    - It opens on the Home page. Until the IDs are in, you'll see a **red
-      bar** across the top saying the forms won't save. That's on purpose,
-      and only you can see it.
-    - Click the **ERN Home** section (left). Paste the three IDs into the
-      three Klaviyo boxes. The red bar disappears.
-    - **Photos > Photo of Luke and Jamie:** leave empty to keep the current
-      one, or pick a better one (square, both faces visible).
-    - Top dropdown: **Home page > Pages > the-bar**. Click **ERN Bar**, paste
-      the same three IDs. Add up to 4 Rice Crisp Graveyard photos (phone
-      screenshots of the series work). The photo row stays hidden until you
-      add one.
-    - **Save** (top right).
-13. **Klaviyo on the site:** still in Customize, click the **App embeds**
-    icon (left edge, looks like a puzzle piece or blocks). Switch **Klaviyo**
-    on. **Save**.
-14. **Old pop-ups off:** Klaviyo > **Sign-up forms**. Any form that's
-    **Live** (the "Free Endurance Guide" or "early access" ones): set to
-    **Draft**. Otherwise they'll pop up over the new page.
-15. **Welcome email with the plan in it:** Klaviyo > **Flows** > your
-    welcome flow > **Email 1** > **Edit content**.
-    - Drag an **HTML** block to the very top and paste all of
-      `klaviyo/plan-block.html`. It shows each person's 4 times, paces and
-      gels from their profile. People who signed up before today see
-      "reply with your race and goal time" instead.
-    - Delete the old "reply with your race and goal time" ask from the rest
-      of the email. Keep "Reply with any question. I read every one."
-    - **Subject:** `Your marathon pace plan for {{ person|lookup:'race'|default:'your race' }}`
-    - **Save.** Leave the email **Live** while you edit it (don't switch it
-      to Manual, or sign-ups queue up and arrive hours late).
-16. **Waitlist email:** Klaviyo > **Flows > Create flow > Build your own**,
-    name `Bar waitlist`. Trigger: **Added to list > Bar waitlist**. Add an
-    email with the copy in `klaviyo/waitlist-email.md`. Turn **Smart
-    Sending off**. Set the flow **Live**.
+One list for everyone (P146): every form on both pages adds people to
+**Email List**. What they signed up for is saved on their profile
+(`bar_waitlist`, `result_time`, the plan), and the welcome email's top block
+changes to match.
+
+11. Klaviyo > Audience > Lists & segments > **Email List > Settings**. Copy
+    the **List ID** (6 characters). Set **Opt-in process** to **Single opt-in**.
+12. Online Store > Themes > `ERN final` > **Customize**. The **red bar** at
+    the top is expected until the ID is in. Click **ERN Home**, paste the ID
+    into **Email List ID**. Top dropdown > Pages > **the-bar** template, click
+    **ERN Bar**, paste the same ID. **Save**.
+13. Still in Customize: **App embeds** > **Klaviyo** on > **Save**.
+14. Welcome flow > **Email 1** > Edit content: drag an **HTML** block to the
+    top and paste all of `klaviyo/plan-block.html`. Delete the old "reply
+    with your race and goal time" ask (the block covers it). Subject:
+    `Your marathon pace plan for {{ person|lookup:'race'|default:'your next marathon' }}`.
+    Save, leave it Live.
+15. Klaviyo **Sign-up forms**: set the old Live forms to Draft **at go-live**,
+    not before (the old site still needs them).
 
 ## E. Test on your phone (10 min)
 
@@ -128,9 +105,9 @@ screenshot of it.
 |---|---|
 | Drag to a goal, pick a race, enter your email, tap **Unlock my full plan** | On **Email List**; properties `race`, `goal_time`, `plan_10k` and the rest are filled in; the welcome email arrives with your plan in it |
 | Tap **Save to lock screen** | The picture opens; press and hold saves it to Photos |
-| Tap **Yes, add me** (race morning) | On **Bar waitlist**; the waitlist email arrives |
-| Fill in **Ran with our plan? Tell us your time** | On **Race results** with `result_time` |
-| Open `/pages/the-bar` in the preview and join | On **Bar waitlist** |
+| Tap **Yes, add me** (race morning) | Property `bar_waitlist` = true |
+| Fill in **Ran with our plan? Tell us your time** (new email) | On **Email List** with `result_time`; Email 1 thanks them for the result |
+| Join on the bar page (new email; test it in Customize until the page has its template) | On **Email List** with `bar_waitlist`; Email 1 says they're on the bar list |
 
 If the plan shows on screen but nothing lands in Klaviyo, the list IDs
 aren't saved (step 12).

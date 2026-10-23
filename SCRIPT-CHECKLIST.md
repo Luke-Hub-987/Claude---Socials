@@ -336,3 +336,4 @@ twice without being checked against the winners (P99).
       legs?": 25 comments against 3 to 5 before).
 - [ ] **Read the rates on day one and reach at day three** (P90, P92).
 - [ ] **Instructions in the chat (P145, Luke 22 Oct):** step-by-step setup or install steps go in full in the reply, not only in a file.
+- [ ] **One email list (P146, Luke 23 Oct):** every form goes to the Klaviyo Email List; tag with a profile property, never a new list or flow.

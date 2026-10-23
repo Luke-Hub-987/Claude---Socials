@@ -1,7 +1,12 @@
-<!-- ERN welcome email (Email 1): the plan block.
+<!-- ERN welcome email (Email 1): the top block.
      Paste into an HTML block at the top of Email 1 in the welcome flow.
-     It reads the plan the website saved on the profile. Anyone without a
-     plan (old sign-ups, "Not sure yet") sees the fallback instead. -->
+     Everyone goes on the one Email List (Luke, 23 Oct), so this block
+     changes with what they signed up for, read from their profile:
+       a pace plan: their plan (times, paces, gels)
+       the results form: thanks for the result
+       the Carb Bar waitlist: you're on the list, plus the plan offer
+       anything else: reply with your race and goal time
+     Nested if/else on purpose: it works in every Klaviyo editor. -->
 {% if person|lookup:'plan_10k' %}
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="font-family:Arial,Helvetica,sans-serif;color:#0A1729;">
   <tr><td style="padding:0 0 6px;font-size:13px;letter-spacing:2px;text-transform:uppercase;color:#2485E6;font-weight:bold;">Your plan</td></tr>
@@ -28,5 +33,16 @@
   </td></tr>
 </table>
 {% else %}
+{% if person|lookup:'result_time' %}
+<p style="font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#0A1729;">Thanks for sending your result ({{ person|lookup:'result_time' }} at {{ person|lookup:'result_race' }}). Honestly, these are the best emails we get.</p>
+<p style="font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#0A1729;">Got another marathon on the way? Reply with the race and your goal time and I'll work out your pace plan for it.</p>
+{% else %}
+{% if person|lookup:'bar_waitlist' %}
+<p style="font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#0A1729;">You're on the list for the Engine Room Carb Bar: a rice crisp square with 30g of carbs, made in Ireland for race morning.</p>
+<p style="font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#0A1729;">The first batch is small. When it's ready, you'll hear first, with the date, before we post it anywhere.</p>
+<p style="font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#0A1729;">Got a marathon coming up? Reply with your race and your goal time (or your last half marathon time if you don't have a goal yet) and I'll send you a free pace plan: your time at every 10K sign, and when to take each gel.</p>
+{% else %}
 <p style="font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#0A1729;">Reply to this email with your race and your goal time (or your last half marathon time if you don't have a goal yet), and I'll work out your plan.</p>
+{% endif %}
+{% endif %}
 {% endif %}

@@ -24,15 +24,11 @@ OUT = SRC / 'shopify'
 
 KLAVIYO_SETTINGS = [
     {"type": "header", "content": "Klaviyo"},
-    {"type": "text", "id": "plan_list", "label": "Pace plan list ID (Email List)",
-     "info": "Klaviyo > Lists & segments > Email List > Settings > List ID"},
-    {"type": "text", "id": "waitlist_list", "label": "Bar waitlist list ID"},
-    {"type": "text", "id": "results_list", "label": "Race results list ID"},
+    {"type": "text", "id": "plan_list", "label": "Email List ID",
+     "info": "Klaviyo > Lists & segments > Email List > Settings > List ID. Every form on the page adds people to this one list."},
 ]
 
-CONFIG_JS = ('<script>window.ERN_CONFIG = { planList: {{ section.settings.plan_list | default: "" | json }}, '
-             'waitlistList: {{ section.settings.waitlist_list | default: "" | json }}, '
-             'resultsList: {{ section.settings.results_list | default: "" | json }} };</script>\n'
+CONFIG_JS = ('<script>window.ERN_CONFIG = { planList: {{ section.settings.plan_list | default: "" | json }} };</script>\n'
              '<script src="{{ \'plan.js\' | asset_url }}" defer></script>\n'
              '<script src="{{ \'ern.js\' | asset_url }}" defer></script>\n')
 
@@ -43,9 +39,9 @@ CONFIG_JS = ('<script>window.ERN_CONFIG = { planList: {{ section.settings.plan_l
 DESIGN_MODE = (
     '{%- if request.design_mode -%}\n'
     '<style>.ern .rv{opacity:1!important;transform:none!important}</style>\n'
-    '{%- if section.settings.plan_list == blank or section.settings.waitlist_list == blank or section.settings.results_list == blank -%}\n'
+    '{%- if section.settings.plan_list == blank -%}\n'
     '<div style="background:#C2362B;color:#fff;font:600 15px/1.4 Arial,sans-serif;padding:12px 16px;text-align:center">'
-    'Klaviyo list IDs missing: the forms on this page will NOT save anyone. Click this section and paste all three IDs.</div>\n'
+    'Klaviyo Email List ID missing: the forms on this page will NOT save anyone. Click this section and paste the ID.</div>\n'
     '{%- endif -%}\n'
     '{%- endif -%}\n')
 
