@@ -4,7 +4,7 @@ brand: ERN, collab with Luke on Instagram, ERN only on TikTok
 generated_at: 2026-10-23
 slot: race weekend (Fri 23, replaces the start pen, P146): a fear everyone has, the night before
 basis: sleep brief (Luke: yes), FACTS.md (retention facts), last 24 hours (1 Oct: "expect to sleep badly... bank sleep in the nights before... rest anyway"), start pen vet (laces, watch), 30 minutes before (slow breaths), P120, P128 to P146
-status: v1 for Luke
+status: v2 (Luke's sleep science vetted, 23 Oct: the word game added to 3am)
 teleprompter: 2026-10-23-teleprompter-sleep.txt
 ---
 
@@ -44,7 +44,7 @@ teleprompter: 2026-10-23-teleprompter-sleep.txt
 | Rehook | "So what do you do at 3am?" | Reopens the action |
 | Payoff | Don't look at the clock, eyes shut, slow breaths; resting still counts | The action |
 
-## Script (288 words, about 1:25)
+## Script (312 words, about 1:30)
 If you're running a marathon in the next few weeks, you'll probably sleep badly the night before, and it won't cost you your race.
 
 It's 2am. You're staring at the ceiling, doing the maths: if I drop off now, I'll get 4 hours. You check your phone, your heart's going, and by the time the alarm goes off, you're sure the race is gone.
@@ -63,7 +63,7 @@ Then lights out at your normal time, not 8 o'clock. Go to bed early and you just
 
 So what do you do at 3am?
 
-Don't look at the clock, and don't pick up your phone. Eyes shut, lie still, and take long, slow breaths out. Lying there resting still counts, and the sleep that matters went in the bank on Friday. When the alarm goes, get up and go. You're ready.
+Don't look at the clock, and don't pick up your phone. Eyes shut, lie still, and pick a word, say MARATHON. Think of things that start with each letter. M, map, milk, mountain. A, apple, anchor. Your head can't run the race and do that at the same time. And even if you never drop off, lying there resting still counts. When the alarm goes, get up and go. You're ready.
 
 ## Motion graphics cue sheet
 | Clip | Starts on | On screen |
@@ -77,7 +77,9 @@ Don't look at the clock, and don't pick up your phone. Eyes shut, lie still, and
 | 07 | "By 6pm..." | Checklist ticking: BIB PINNED, GELS IN POCKET, LACES DOUBLE-KNOTTED, WATCH ON CHARGE, 2 ALARMS |
 | 08 | "Then lights out..." | "NORMAL BEDTIME, NOT 8PM" |
 | 09 | "So what do you do at 3am?" | "3:00 AM" |
-| 10 | "Don't look at the clock..." | Clock face turned away; "EYES SHUT, LIE STILL, SLOW BREATHS OUT" then "RESTING STILL COUNTS" |
+| 10 | "Don't look at the clock..." | Clock face turned away; "EYES SHUT, LIE STILL" |
+| 11 | "...pick a word, say MARATHON." | M-A-R-A-T-H-O-N in big letters; M: MAP, MILK, MOUNTAIN; A: APPLE, ANCHOR |
+| 12 | "And even if you never drop off..." | "RESTING STILL COUNTS" |
 
 ## Facts check (P138)
 | Claim | Source |
@@ -86,7 +88,7 @@ Don't look at the clock, and don't pick up your phone. Eyes shut, lie still, and
 | The night that counts is 2 nights before (Friday for a Sunday race) | The same idea, made specific; common race-week advice, not presented as a study |
 | Bed early = lying awake longer | Plain sleep advice; not presented as a study |
 | Laces double-knotted, watch on charge | Start pen vet (Luke's protocol, 23 Oct) |
-| Long, slow breaths out | 30 minutes before ("long slow breaths, five seconds out") |
+| The word game (think of things for each letter of a word) | Luke's sleep notes, 23 Oct (a known sleep technique; no name or study in the audio) |
 | 2 alarms | Practical; no claim |
 
 ## AI-writing check
@@ -102,7 +104,7 @@ What to do if you can't sleep before a marathon. Sleeping badly the night before
 
 The night before, by 6pm: bib pinned on, gels in your pocket, laces double-knotted, watch on charge, 2 alarms set. Then lights out at your normal time, not 8 o'clock. Go to bed early and you just lie awake longer.
 
-At 3am: don't look at the clock and don't pick up your phone. Eyes shut, lie still, long slow breaths out. Resting still counts, and the sleep that matters is already banked.
+At 3am: don't look at the clock and don't pick up your phone. Eyes shut, lie still, and play the word game: pick a word like MARATHON and think of things that start with each letter (M: map, milk, mountain; A: apple, anchor). Your head can't run the race and do that at the same time. Even if you never drop off, resting still counts, and the sleep that matters is already banked. Don't top up on water in the night either: it just gets you up again.
 
 Send this to whoever's racing with you. Want your whole race weekend planned? Email us your race and goal time through the link in the bio and we'll send it, free.
 
@@ -119,3 +121,18 @@ licences.
 
 ## Forecast (range, P145)
 10K to 35K (before-the-race median 20K; day before 34.6K).
+
+## Luke's sleep science, vetted (23 Oct)
+| Point | Verdict | Why |
+|---|---|---|
+| Lying awake the night before is very common | Keep (line one) | Same as last 24 hours |
+| "One night has zero measurable impact"; "large-scale studies"; VO2 max, glycogen | Change to "it won't cost you your race" | "Zero" overclaims (some studies show a drop after a full night without sleep); study language is banned in the audio (P105) |
+| Previous 7 to 10 nights matter more | Keep, as "the night that counts is 2 nights before" | Same idea, specific |
+| Get out of bed after 20 minutes | Cut | Clashes with "lie still, resting still counts", and getting up in a hotel room next to a partner adds a new worry (P146) |
+| The word game (cognitive shuffling) | **Keep: the new aha at 3am** | Practical, no kit, new to the account; no name for it in the audio |
+| Eyes closed cuts sensory input by about 80% | Cut | A statistic (P105) |
+| Muscle relaxation, toes to shoulders | Caption-free cut | Length; the word game does the job |
+| Don't look at the clock | Keep | Already in |
+| Sleeping pills, antihistamines | Cut entirely | No medication, even as a warning (rule) |
+| No big drinks in the night | Keep (caption) | Practical |
+| Race-morning nerves wake you up; trust the taper | Keep the idea ("you're ready") | No hormone names |
