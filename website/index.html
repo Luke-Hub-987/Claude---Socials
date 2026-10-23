@@ -904,10 +904,13 @@
       $('get-plan').scrollIntoView({ behavior: 'smooth', block: 'start' });
     };
     // the value never waits on the network: if Klaviyo fails, they still get the plan
-    ERN.subscribe('planList', saved, 'Pace plan page').then(done, function(){
+    ERN.subscribe('planList', saved, 'Pace plan page').then(done, function(e){
       done();
-      $('planEmail').parentNode.insertAdjacentHTML('afterbegin', '<p class="savefail"><b>We couldn\'t save your email just now.</b> Your plan is right here, so screenshot it. To get it by email too, refresh the page and try once more.</p>');
-      ERN.track('plan_save_failed');
+      // the exact reason, in small grey text, so a screenshot tells us what blocked it
+      var ua = navigator.userAgent, app = /Instagram/.test(ua) ? 'Instagram app' : /musical_ly|TikTok|BytedanceWebview/i.test(ua) ? 'TikTok app' : /FBAN|FBAV/.test(ua) ? 'Facebook app' : /CriOS/.test(ua) ? 'Chrome iPhone' : /iPhone|iPad/.test(ua) ? 'Safari iPhone' : /Android/.test(ua) ? 'Android' : 'Desktop';
+      var why = String((e && e.message) || e || 'unknown').slice(0, 120).replace(/</g, '');
+      $('planEmail').parentNode.insertAdjacentHTML('afterbegin', '<p class="savefail"><b>We couldn\'t save your email just now.</b> Your plan is right here, so screenshot it. To get it by email too, refresh the page and try once more.<small style="display:block;margin-top:6px;opacity:.7">Reason: ' + why + ' · ' + app + '</small></p>');
+      ERN.track('plan_save_failed', { reason: why, app: app });
     });
     ERN.track('plan_unlocked', { email: email, goal_time: gv, race: raceName });
   });
