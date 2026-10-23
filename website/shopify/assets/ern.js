@@ -15,15 +15,18 @@ window.ERN = (function(){
 
   function klaviyo(path, data){
     return fetch('https://a.klaviyo.com/client/' + path + '/?company_id=' + KLAVIYO.company, {
-      method: 'POST',
+      method: 'POST', keepalive: true,
       headers: { 'Content-Type': 'application/vnd.api+json', 'revision': '2024-10-15' },
       body: JSON.stringify({ data: data })
     }).then(function(r){ if (!r.ok) throw new Error('Klaviyo ' + path + ' ' + r.status); });
   }
 
-  // Two calls: the subscription puts the email on the list (this starts the
-  // flow), the profile call saves the plan details. Kept apart so a rejected
-  // property can never stop the sign-up itself.
+  // One call: the subscription carries the plan details on the profile, so
+  // the person joins the list with their plan already saved and the welcome
+  // email can show it. (Two calls at once for a brand-new email raced each
+  // other in Klaviyo and the sign-up was lost, 23 Oct.) If Klaviyo ever
+  // refuses a property, subscribe without them first, then save the details,
+  // so a bad property can never cost the sign-up.
   function subscribe(which, profile, source){
     var listId = KLAVIYO[which];
     if (!listId) {
@@ -31,13 +34,19 @@ window.ERN = (function(){
       return new Promise(function(r){ setTimeout(r, 500); });
     }
     var who = { email: profile.email }; if (profile.first_name) who.first_name = profile.first_name;
-    var sub = klaviyo('subscriptions', { type: 'subscription', attributes: {
+    var body = function(attrs){ return { type: 'subscription', attributes: {
       custom_source: source,
-      profile: { data: { type: 'profile', attributes: who } }
-    }, relationships: { list: { data: { type: 'list', id: listId } } } });
-    var props = profile.properties ? klaviyo('profiles', { type: 'profile', attributes: { email: profile.email, properties: profile.properties } })
-      .catch(function(e){ if (window.console) console.warn(e); }) : null;
-    return Promise.all([sub, props]);
+      profile: { data: { type: 'profile', attributes: attrs } }
+    }, relationships: { list: { data: { type: 'list', id: listId } } } }; };
+    if (!profile.properties) return klaviyo('subscriptions', body(who));
+    var full = { properties: profile.properties }; for (var k in who) full[k] = who[k];
+    return klaviyo('subscriptions', body(full)).catch(function(e){
+      if (window.console) console.warn(e);
+      return klaviyo('subscriptions', body(who)).then(function(){
+        return klaviyo('profiles', { type: 'profile', attributes: { email: profile.email, properties: profile.properties } })
+          .catch(function(e2){ if (window.console) console.warn(e2); });
+      });
+    });
   }
 
   function validEmail(e){ return /^\S+@\S+\.\S+$/.test(e); }
