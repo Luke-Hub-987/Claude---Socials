@@ -151,11 +151,13 @@
   .ern .final .label .body{padding:30px 20px}
   .ern .yard{margin:28px 0 20px;gap:12px}
 }
+.ern .kl-embed{min-height:60px;margin-top:4px}
+.ern .kl-missing{font-size:15px;margin:8px 0 0}
 </style>
 {%- if request.design_mode -%}
 <style>.ern .rv{opacity:1!important;transform:none!important}</style>
-{%- if section.settings.plan_list == blank -%}
-<div style="background:#C2362B;color:#fff;font:600 15px/1.4 Arial,sans-serif;padding:12px 16px;text-align:center">Klaviyo Email List ID missing: the forms on this page will NOT save anyone. Click this section and paste the ID.</div>
+{%- if section.settings.kl_bar_form == blank -%}
+<div style="background:#C2362B;color:#fff;font:600 15px/1.4 Arial,sans-serif;padding:12px 16px;text-align:center">Klaviyo form ID missing: this page can't collect emails yet. Click this section and paste the form ID.</div>
 {%- endif -%}
 {%- endif -%}
 <div class="ern">
@@ -184,12 +186,10 @@
       <h1>Race morning, <em>sorted.</em></h1>
       <p class="lede">30g of carbs in a rice crisp square. Eat it before the gun.</p>
       <div id="join" class="joinbox">
-        <form id="wlForm" novalidate>
-            <input type="text" name="ern_hp_field" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;opacity:0">
-          <div class="inline"><input id="wl-email" type="email" placeholder="Your email" autocomplete="email" inputmode="email" aria-label="Email" required><button class="btn white" type="submit">Get first go <span class="arr">→</span></button></div>
-          <div class="err" id="wl-err"></div>
-          <p class="fine">Small first batch. The waitlist hears first, with the founding price. No card.</p>
-        </form>
+        <!-- Klaviyo's own form takes the email (the Klaviyo form ID is set in the theme editor) -->
+        <div class="kl-embed" id="klBar"><div class="klaviyo-form-{{ section.settings.kl_bar_form }}"></div></div>
+        <p class="kl-missing" id="klBarMissing" hidden style="color:rgba(255,255,255,.85)">The sign-up box didn't load (an ad blocker can do that). <a href="https://ig.me/m/engineroomnutrition" style="color:#fff;font-weight:700">DM us "BAR" on Instagram</a> and we'll add you.</p>
+        <p class="fine">Small first batch. The waitlist hears first, with the founding price. No card.</p>
         <div class="done" id="wlDone" hidden>
           <h3 style="font:400 30px/1.1 var(--fs);text-transform:none;letter-spacing:0;color:#fff">You're on the list. ✓</h3>
           <p style="margin:8px 0 0;color:rgba(255,255,255,.9)">Got a marathon coming up? <a href="{{ routes.root_url }}#get-plan" style="color:#fff;font-weight:700">Get your free pace plan →</a></p>
@@ -363,25 +363,18 @@
 <div class="stick"><a class="btn" href="#join">Join the waitlist <span class="arr">→</span></a></div>
 </div>
 
-<script>window.ERN_CONFIG = { planList: {{ section.settings.plan_list | default: "" | json }}, relay: {{ section.settings.relay_url | default: "" | json }} };</script>
+<script>window.ERN_CONFIG = { klPlanForm: {{ section.settings.kl_plan_form | default: "" | json }}, klBarForm: {{ section.settings.kl_bar_form | default: "" | json }} };</script>
 <script src="{{ 'plan.js' | asset_url }}" defer></script>
 <script src="{{ 'ern.js' | asset_url }}" defer></script>
 <script>document.addEventListener('DOMContentLoaded', function(){
 (function(){
   var $ = function(id){ return document.getElementById(id); };
-  $('wlForm').addEventListener('submit', function(e){
-    e.preventDefault();
-    var email = $('wl-email').value.trim(), err = $('wl-err');
-    if (!ERN.validEmail(email)) { err.textContent = 'Add your email to join the waitlist.'; err.style.display = 'block'; return; }
-    err.style.display = 'none';
-    var btn = this.querySelector('button'); btn.disabled = true; btn.textContent = 'Adding you…';
-    ERN.subscribe('waitlistList', { email: email, properties: { bar_waitlist: true } }, 'Bar page').then(function(){
-      $('wlForm').hidden = true; $('wlDone').hidden = false;
-    }).catch(function(){
-      btn.disabled = false; btn.innerHTML = 'Put me on the waitlist <span class="arr">→</span>';
-      err.textContent = "That didn't go through. Try again in a minute."; err.style.display = 'block';
-    });
+  // Klaviyo's form saved the email: show our "you're on the list"
+  ERN.onKlaviyoSubmit(ERN.config.klBarForm, function(){
+    setTimeout(function(){ $('klBar').hidden = true; $('wlDone').hidden = false; }, 1200);
+    ERN.track('waitlist_joined', { from: 'bar page' });
   });
+  ERN.ifFormMissing($('klBar'), function(){ $('klBarMissing').hidden = false; });
   ERN.sticky('join', 'wlDone');
 })();
 });</script>
@@ -393,19 +386,23 @@
   "settings": [
     {
       "type": "header",
-      "content": "Klaviyo"
+      "content": "Klaviyo sign-up forms"
+    },
+    {
+      "type": "paragraph",
+      "content": "Sign-ups use Klaviyo's own embedded forms, set to add people to Email List. Klaviyo > Sign-up forms > the form > the 6-character ID in its address."
     },
     {
       "type": "text",
-      "id": "plan_list",
-      "label": "Email List ID",
-      "info": "Klaviyo > Lists & segments > Email List > Settings > List ID. Every form on the page adds people to this one list."
+      "id": "kl_plan_form",
+      "label": "Pace plan form ID",
+      "info": "The embedded form in the plan card. When it's submitted, the plan appears."
     },
     {
       "type": "text",
-      "id": "relay_url",
-      "label": "Sign-up relay URL (optional, leave empty)",
-      "info": "Only if a sign-up relay is ever set up. Leave empty: sign-ups go straight to Klaviyo."
+      "id": "kl_bar_form",
+      "label": "Bar waitlist form ID",
+      "info": "The embedded form for the Carb Bar waitlist."
     },
     {
       "type": "header",

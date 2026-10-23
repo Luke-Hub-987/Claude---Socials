@@ -23,14 +23,14 @@ SRC = pathlib.Path(__file__).resolve().parent
 OUT = SRC / 'shopify'
 
 KLAVIYO_SETTINGS = [
-    {"type": "header", "content": "Klaviyo"},
-    {"type": "text", "id": "plan_list", "label": "Email List ID",
-     "info": "Klaviyo > Lists & segments > Email List > Settings > List ID. Every form on the page adds people to this one list."},
-    {"type": "text", "id": "relay_url", "label": "Sign-up relay URL (optional, leave empty)",
-     "info": "Only if a sign-up relay is ever set up. Leave empty: sign-ups go straight to Klaviyo."},
+    {"type": "header", "content": "Klaviyo sign-up forms"},
+    {"type": "paragraph", "content": "Sign-ups use Klaviyo's own embedded forms, set to add people to Email List. Klaviyo > Sign-up forms > the form > the 6-character ID in its address."},
+    {"type": "text", "id": "kl_plan_form", "label": "Pace plan form ID", "info": "The embedded form in the plan card. When it's submitted, the plan appears."},
+    {"type": "text", "id": "kl_bar_form", "label": "Bar waitlist form ID", "info": "The embedded form for the Carb Bar waitlist."},
 ]
 
-CONFIG_JS = ('<script>window.ERN_CONFIG = { planList: {{ section.settings.plan_list | default: "" | json }}, relay: {{ section.settings.relay_url | default: "" | json }} };</script>\n'
+CONFIG_JS = ('<script>window.ERN_CONFIG = { klPlanForm: {{ section.settings.kl_plan_form | default: "" | json }}, '
+             'klBarForm: {{ section.settings.kl_bar_form | default: "" | json }} };</script>\n'
              '<script src="{{ \'plan.js\' | asset_url }}" defer></script>\n'
              '<script src="{{ \'ern.js\' | asset_url }}" defer></script>\n')
 
@@ -41,9 +41,9 @@ CONFIG_JS = ('<script>window.ERN_CONFIG = { planList: {{ section.settings.plan_l
 DESIGN_MODE = (
     '{%- if request.design_mode -%}\n'
     '<style>.ern .rv{opacity:1!important;transform:none!important}</style>\n'
-    '{%- if section.settings.plan_list == blank -%}\n'
+    '{%- if NEEDED -%}\n'
     '<div style="background:#C2362B;color:#fff;font:600 15px/1.4 Arial,sans-serif;padding:12px 16px;text-align:center">'
-    'Klaviyo Email List ID missing: the forms on this page will NOT save anyone. Click this section and paste the ID.</div>\n'
+    'Klaviyo form ID missing: this page can\'t collect emails yet. Click this section and paste the form ID.</div>\n'
     '{%- endif -%}\n'
     '{%- endif -%}\n')
 
@@ -89,13 +89,19 @@ def convert(html, section_name, extra_settings, page_fix=None, blocks=None):
     page_js = body[i + len('<script>'):j]
     body = (body[:i] + CONFIG_JS + "<script>document.addEventListener('DOMContentLoaded', function(){" +
             page_js + '});</script>' + body[j + len('</script>'):])
+    # Klaviyo's embedded forms, by the IDs set in the theme editor
+    body = body.replace('klaviyo-form-KLPLAN', 'klaviyo-form-{{ section.settings.kl_plan_form }}')
+    body = body.replace('klaviyo-form-KLBAR', 'klaviyo-form-{{ section.settings.kl_bar_form }}')
+    needed = []
+    if 'kl_plan_form }}' in body: needed.append('section.settings.kl_plan_form == blank')
+    if 'kl_bar_form }}' in body: needed.append('section.settings.kl_bar_form == blank')
     schema = {"name": section_name, "tag": "div", "settings": KLAVIYO_SETTINGS + extra_settings,
               "presets": [{"name": section_name}]}
     if blocks:
         schema["blocks"] = blocks
         schema["max_blocks"] = 16
     return ('{% comment %} Built by website/build_shopify.py. Edit the website/ files and rebuild. {% endcomment %}\n'
-            '<style>' + style + '</style>\n' + DESIGN_MODE + body.strip() + '\n\n{% schema %}\n' +
+            '<style>' + style + '</style>\n' + DESIGN_MODE.replace('NEEDED', ' or '.join(needed) or 'false') + body.strip() + '\n\n{% schema %}\n' +
             json.dumps(schema, indent=2) + '\n{% endschema %}\n')
 
 
