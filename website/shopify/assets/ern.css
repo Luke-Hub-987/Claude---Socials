@@ -147,3 +147,27 @@
 .ern .inline input{flex:1;min-width:0}
 .ern .inline .btn{white-space:nowrap;width:auto;margin-top:0}
 @media (max-width:520px){.ern .inline{flex-direction:column}.ern .inline .btn{width:100%}}
+
+/* Klaviyo's embedded sign-up form, dressed as the site's own form (23 Oct).
+   Klaviyo writes inline styles, so these need !important. Delete the
+   heading inside the Klaviyo form: the card around it already says what it's for. */
+.ern .kl-embed form{background:transparent!important;padding:0!important;margin:0!important;max-width:none!important;min-height:0!important;box-shadow:none!important}
+.ern .kl-embed form *{font-family:var(--fb)!important;box-sizing:border-box!important}
+.ern .kl-embed form h1,.ern .kl-embed form h2,.ern .kl-embed form h3,.ern .kl-embed form p{color:var(--ink)!important;font-size:17px!important}
+.ern .kl-embed form > div,.ern .kl-embed form [data-testid="form-row"]{padding:0!important;background:transparent!important}
+.ern .kl-embed input[type="email"],.ern .kl-embed input[type="text"]{width:100%!important;height:auto!important;min-height:54px!important;font:17px var(--fb)!important;color:var(--ink)!important;background:var(--cream)!important;border:2px solid transparent!important;border-radius:12px!important;padding:14px 16px!important;box-shadow:none!important;outline:0!important}
+.ern .kl-embed input[type="email"]:focus,.ern .kl-embed input[type="text"]:focus{border-color:var(--blue)!important;background:#fff!important}
+.ern .kl-embed button{height:auto!important;min-height:54px!important;width:100%!important;background:var(--blue)!important;color:#fff!important;font:700 20px/1 var(--fd)!important;letter-spacing:.06em!important;text-transform:uppercase!important;padding:16px 22px!important;border:0!important;border-radius:12px!important;box-shadow:0 6px 0 var(--blue-dk)!important;cursor:pointer!important;white-space:nowrap!important}
+.ern .kl-embed button *{font:inherit!important;color:inherit!important}
+.ern .kl-embed button:active{transform:translateY(4px);box-shadow:0 2px 0 var(--blue-dk)!important}
+@media (min-width:521px){.ern .kl-embed button{width:auto!important}}
+.ern .kl-embed [role="alert"],.ern .kl-embed .error_message{color:#C2362B!important;font-size:14px!important}
+/* on a blue panel (the bar page): white button, white success text */
+.ern .kl-embed.on-blue button{background:#fff!important;color:var(--ink)!important;box-shadow:0 6px 0 rgba(10,23,41,.25)!important}
+.ern .kl-embed.on-blue h1,.ern .kl-embed.on-blue h2,.ern .kl-embed.on-blue h3,.ern .kl-embed.on-blue p,.ern .kl-embed.on-blue span:not(button span){color:#fff!important}
+.ern .kl-embed form [data-testid="form-row"]{gap:10px!important;padding:0!important;margin:0 0 4px!important}
+.ern .kl-embed form [data-testid="form-row"] > div{padding-left:0!important;padding-right:0!important}
+@media (max-width:520px){
+  .ern .kl-embed form [data-testid="form-row"]{flex-wrap:wrap!important}
+  .ern .kl-embed form [data-testid="form-row"] > div{flex:1 1 100%!important;width:100%!important;max-width:none!important}
+}
