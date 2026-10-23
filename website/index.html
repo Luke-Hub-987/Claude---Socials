@@ -955,7 +955,7 @@
   $('wlYes').addEventListener('click', function(){
     this.disabled = true;
     ERN.track('waitlist_yes', { email: saved.email, from: 'plan' });
-    ERN.subscribe('waitlistList', { email: saved.email, properties: { bar_waitlist: true } }, 'Pace plan thank-you')
+    ERN.update(saved.email, { bar_waitlist: true }, 'Pace plan thank-you')
       .then(function(){ $('wlAsk').hidden = true; $('wlThanks').hidden = false; }, function(){ $('wlYes').disabled = false; $('wlYes').textContent = 'Try again'; });
   });
   $('wlNo').addEventListener('click', function(){ $('wlAsk').hidden = true; });

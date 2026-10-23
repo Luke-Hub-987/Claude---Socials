@@ -13,46 +13,41 @@ window.ERN = (function(){
   KLAVIYO.waitlistList = KLAVIYO.waitlistList || KLAVIYO.planList;
   KLAVIYO.resultsList = KLAVIYO.resultsList || KLAVIYO.planList;
 
-  function klaviyo(path, data){
-    return fetch('https://a.klaviyo.com/client/' + path + '/?company_id=' + KLAVIYO.company, {
-      method: 'POST', keepalive: true,
-      headers: { 'Content-Type': 'application/vnd.api+json', 'revision': '2024-10-15' },
-      body: JSON.stringify({ data: data })
-    }).then(function(r){ if (!r.ok) throw new Error('Klaviyo ' + path + ' ' + r.status); });
+  // Sign-ups go to Klaviyo's form endpoint (the one its older embedded forms
+  // post to): a plain form post, so the browser sends it straight away with
+  // no CORS pre-check. Klaviyo's newer client API (/client/subscriptions,
+  // /client/events) needs a pre-check that Klaviyo's bot filter refused in
+  // real browsers once the Klaviyo pop-ups were off (23 Oct), so nothing
+  // saved. This one worked every time from the same browsers. It adds the
+  // email to the list (single opt-in, so the welcome flow fires) and saves
+  // the plan details on the profile in the same request.
+  function wait(ms){ return new Promise(function(r){ setTimeout(r, ms); }); }
+  function post(listId, profile, source){
+    var body = new URLSearchParams();
+    body.append('g', listId); body.append('email', profile.email); body.append('$source', source);
+    var props = profile.properties || {}, keys = [];
+    if (profile.first_name) { body.append('$first_name', profile.first_name); keys.push('$first_name'); }
+    for (var k in props) { if (props[k] === '' || props[k] == null) continue; body.append(k, String(props[k])); keys.push(k); }
+    body.append('signup_source', source); keys.push('signup_source');
+    body.append('$fields', keys.join(','));
+    return fetch('https://a.klaviyo.com/ajax/subscriptions/subscribe', { method: 'POST', body: body })
+      .then(function(r){ return r.json(); })
+      .then(function(j){ if (!j || !j.success) throw new Error('Klaviyo: ' + ((j && j.errors) || []).join(' ')); return j; });
   }
-
-  // One call: the subscription carries the plan details on the profile, so
-  // the person joins the list with their plan already saved and the welcome
-  // email can show it. (Two calls at once for a brand-new email raced each
-  // other in Klaviyo and the sign-up was lost, 23 Oct.) If Klaviyo ever
-  // refuses a property, subscribe without them first, then save the details,
-  // so a bad property can never cost the sign-up.
   function subscribe(which, profile, source){
     var listId = KLAVIYO[which];
     if (!listId) {
       if (window.console) console.warn('ERN: no Klaviyo list ID for ' + which + ', nothing was saved (preview mode).');
-      return new Promise(function(r){ setTimeout(r, 500); });
+      return wait(500);
     }
-    var who = { email: profile.email }; if (profile.first_name) who.first_name = profile.first_name;
-    var body = function(attrs){ return { type: 'subscription', attributes: {
-      custom_source: source,
-      profile: { data: { type: 'profile', attributes: attrs } }
-    }, relationships: { list: { data: { type: 'list', id: listId } } } }; };
-    var full = who;
-    if (profile.properties) { full = { properties: profile.properties }; for (var k in who) full[k] = who[k]; }
-    var wait = function(ms){ return new Promise(function(r){ setTimeout(r, ms); }); };
-    // one retry after a short pause covers a dropped connection
-    var once = function(attrs){ return klaviyo('subscriptions', body(attrs)).catch(function(e){
-      if (window.console) console.warn(e); return wait(1500).then(function(){ return klaviyo('subscriptions', body(attrs)); }); }); };
-    if (!profile.properties) return once(who);
-    return once(full).catch(function(e){
+    return post(listId, profile, source).catch(function(e){
       if (window.console) console.warn(e);
-      return klaviyo('subscriptions', body(who)).then(function(){
-        return klaviyo('profiles', { type: 'profile', attributes: { email: profile.email, properties: profile.properties } })
-          .catch(function(e2){ if (window.console) console.warn(e2); });
-      });
+      return wait(1500).then(function(){ return post(listId, profile, source); });
     });
   }
+  // someone who has just signed up: same call, they're already on the list
+  // so no second welcome email goes out
+  function update(email, properties, source){ return subscribe('planList', { email: email, properties: properties }, source || 'Site update'); }
 
   function validEmail(e){ return /^\S+@\S+\.\S+$/.test(e); }
 
@@ -89,5 +84,5 @@ window.ERN = (function(){
   }
 
   document.addEventListener('DOMContentLoaded', reveal);
-  return { subscribe: subscribe, validEmail: validEmail, sticky: sticky, track: track };
+  return { subscribe: subscribe, update: update, validEmail: validEmail, sticky: sticky, track: track };
 })();
