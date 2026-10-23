@@ -59,6 +59,7 @@
 .ern .inbox-note ul{margin:8px 0 0;padding-left:18px}
 .ern .inbox-note li{margin-bottom:4px}
 .ern .kl-embed{min-height:60px;margin-top:4px}
+.ern .kl-hidden{position:absolute!important;left:-10000px!important;top:auto!important;width:320px!important;height:1px!important;overflow:hidden!important}
 .ern .kl-missing{font-size:15px;color:var(--muted);margin:8px 0 0}
 .ern .savefail{margin:0 0 10px;padding:10px 12px;border-radius:10px;background:#FDECEA;color:#8A1F17;font-size:15px}
 .ern .wl{margin-top:18px;border-radius:16px;overflow:hidden;display:grid;grid-template-columns:120px 1fr;background:var(--blue-lt)}
@@ -499,9 +500,10 @@
             </div>
             <div hidden><select id="pf-goal" aria-hidden="true" tabindex="-1"></select></div>
             <div class="field" id="pf-other-wrap" hidden><label class="f" for="pf-other">Which race?</label><input id="pf-other" type="text" placeholder="e.g. Berlin, spring 2027"></div>
-            <!-- Klaviyo's own form takes the email (the Klaviyo form ID is set in the theme editor) -->
-            <div class="kl-embed" id="klPlan"><div class="klaviyo-form-{{ section.settings.kl_plan_form }}"></div></div>
-            <button class="btn" type="button" id="planNoEmail" hidden>Show my plan <span class="arr">→</span></button>
+            <div class="field"><label class="f" for="pf-email">Your email</label>
+              <div class="inline"><input id="pf-email" type="email" autocomplete="email" inputmode="email" placeholder="you@email.com"><button class="btn" type="button" id="pfGo">Unlock my free plan <span class="arr">→</span></button></div></div>
+            <!-- Klaviyo's form loads hidden here and does the saving (form ID set in the theme editor) -->
+            <div class="kl-hidden" id="klPlan" aria-hidden="true"><div class="klaviyo-form-{{ section.settings.kl_plan_form }}"></div></div>
             <div class="err" id="pf-err"></div>
             <p class="fine">Free, no card. Your plan shows here instantly, so no spam folder can hide it. Unsubscribe in one click.</p>
           </div>
@@ -705,8 +707,10 @@
             <tr><td>Tastes like a treat</td><td class="us y">✓</td><td class="n">✕</td><td class="n">✕</td><td class="n">✕</td></tr>
           </tbody>
         </table>
-        <div class="kl-embed" id="klBarHome"><div class="klaviyo-form-{{ section.settings.kl_bar_form }}"></div></div>
-        <p class="kl-missing" id="klBarHomeMissing" hidden>The sign-up box didn't load (an ad blocker can do that). <a href="https://ig.me/m/engineroomnutrition">DM us "BAR" on Instagram</a> and we'll add you.</p>
+        <div class="inline" id="bfRow"><input id="bf-email" type="email" placeholder="Your email" autocomplete="email" inputmode="email" aria-label="Email"><button class="btn" type="button" id="bfGo">Get first go</button></div>
+        <div class="err" id="bf-err"></div>
+        <p id="bf-done" hidden style="margin:12px 0 0"><b>You're on the waitlist.</b> First batch news comes to you first.</p>
+        <div class="kl-hidden" id="klBarHome" aria-hidden="true"><div class="klaviyo-form-{{ section.settings.kl_bar_form }}"></div></div>
         <p class="fine" style="text-align:left">Small first batch. The waitlist gets first go and the founding price. <a href="/pages/the-bar">More about the bar →</a></p>
       </div>
     </div>
@@ -873,15 +877,26 @@
     $('get-plan').scrollIntoView({ behavior: 'smooth', block: 'start' });
     ERN.track('plan_unlocked', { goal_time: gv, race: raceName, with_email: !!email });
   }
-  // one Klaviyo form can serve both boxes: unlock the plan only when the
-  // sign-up came from the plan card (the box they last typed in)
-  var lastBox = 'klPlan';
-  ['klPlan', 'klBarHome'].forEach(function(id){ $(id).addEventListener('focusin', function(){ lastBox = id; }); });
-  ERN.onKlaviyoSubmit(ERN.config.klPlanForm, function(email){ if (lastBox === 'klPlan') unlock(email); });
-  // Klaviyo's form didn't load (blocked or not set up): still give them the plan
-  ERN.ifFormMissing($('klPlan'), function(){ $('planNoEmail').hidden = false; ERN.track('plan_form_missing'); });
-  $('planNoEmail').addEventListener('click', function(){ unlock(''); });
-  ERN.ifFormMissing($('klBarHome'), function(){ $('klBarHomeMissing').hidden = false; });
+  // tap: hand the email to Klaviyo's hidden form, then show the plan
+  function go(){
+    var email = $('pf-email').value.trim(), err = $('pf-err'), btn = $('pfGo');
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) { err.textContent = 'Add your email to unlock your plan.'; err.style.display = 'block'; return; }
+    err.style.display = 'none'; btn.disabled = true; btn.textContent = 'Building your plan…';
+    ERN.sendViaKlaviyo($('klPlan'), email).then(function(){ unlock(email); }, function(e){ unlock(email); ERN.track('plan_save_unconfirmed', { reason: e.message }); });
+  }
+  $('pfGo').addEventListener('click', go);
+  $('pf-email').addEventListener('keydown', function(e){ if (e.key === 'Enter') { e.preventDefault(); go(); } });
+
+  // bar waitlist on the home page, same way
+  function barGo(){
+    var email = $('bf-email').value.trim(), err = $('bf-err'), btn = $('bfGo');
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) { err.textContent = 'Add your email to join the waitlist.'; err.style.display = 'block'; return; }
+    err.style.display = 'none'; btn.disabled = true; btn.textContent = 'Adding you…';
+    ERN.sendViaKlaviyo($('klBarHome'), email).then(function(){ $('bfRow').hidden = true; $('bf-done').hidden = false; ERN.track('waitlist_joined', { from: 'home' }); },
+      function(){ btn.disabled = false; btn.textContent = 'Get first go'; err.innerHTML = 'That didn\'t go through. Tap again, or <a href="https://ig.me/m/engineroomnutrition">DM us "BAR" on Instagram</a>.'; err.style.display = 'block'; });
+  }
+  $('bfGo').addEventListener('click', barGo);
+  $('bf-email').addEventListener('keydown', function(e){ if (e.key === 'Enter') { e.preventDefault(); barGo(); } });
 
   // lock screen image: a phone-sized PNG of the plan
   $('saveLock').addEventListener('click', function(){

@@ -21,6 +21,34 @@ window.ERN = (function(){
     });
   }
 
+  // Our own email box shows instantly; Klaviyo's form loads hidden behind it
+  // (it took ~6s to appear on a phone's first visit, 23 Oct). On tap we put
+  // the email into Klaviyo's form and press its button, so Klaviyo's own form
+  // still does the saving. Resolves when Klaviyo says it's submitted.
+  function sendViaKlaviyo(holder, email, waitMs){
+    return new Promise(function(resolve, reject){
+      var start = Date.now(), done = false;
+      function onEvent(e){ var d = e.detail || {}; if (d.type === 'submit' && !done) { done = true; window.removeEventListener('klaviyoForms', onEvent); resolve(); } }
+      window.addEventListener('klaviyoForms', onEvent);
+      (function tryFill(){
+        if (done) return;
+        var input = holder && holder.querySelector('input[type="email"], input[name="email"]');
+        var button = holder && holder.querySelector('button[type="submit"], button');
+        if (input && button) {
+          var setter = Object.getOwnPropertyDescriptor(HTMLInputElement.prototype, 'value').set;
+          setter.call(input, email);
+          input.dispatchEvent(new Event('input', { bubbles: true }));
+          input.dispatchEvent(new Event('change', { bubbles: true }));
+          setTimeout(function(){ if (!done) button.click(); }, 50);
+          setTimeout(function(){ if (!done) { done = true; window.removeEventListener('klaviyoForms', onEvent); reject(new Error('Klaviyo did not confirm')); } }, 8000);
+          return;
+        }
+        if (Date.now() - start > (waitMs || 15000)) { done = true; window.removeEventListener('klaviyoForms', onEvent); reject(new Error('Klaviyo form never loaded')); return; }
+        setTimeout(tryFill, 200);
+      })();
+    });
+  }
+
   // if Klaviyo's form hasn't appeared after a few seconds (blocked, or no
   // form ID set yet), run cb so nobody is left with nothing
   function ifFormMissing(holder, cb, ms){
@@ -57,5 +85,5 @@ window.ERN = (function(){
   }
 
   document.addEventListener('DOMContentLoaded', reveal);
-  return { config: CONFIG, onKlaviyoSubmit: onKlaviyoSubmit, ifFormMissing: ifFormMissing, sticky: sticky, track: track };
+  return { config: CONFIG, onKlaviyoSubmit: onKlaviyoSubmit, ifFormMissing: ifFormMissing, sendViaKlaviyo: sendViaKlaviyo, sticky: sticky, track: track };
 })();

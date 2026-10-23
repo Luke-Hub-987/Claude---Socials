@@ -159,6 +159,7 @@
   .ern .yard{margin:28px 0 20px;gap:12px}
 }
 .ern .kl-embed{min-height:60px;margin-top:4px}
+.ern .kl-hidden{position:absolute!important;left:-10000px!important;top:auto!important;width:320px!important;height:1px!important;overflow:hidden!important}
 .ern .kl-missing{font-size:15px;margin:8px 0 0}
 </style>
 </head>
@@ -189,9 +190,10 @@
       <h1>Race morning, <em>sorted.</em></h1>
       <p class="lede">30g of carbs in a rice crisp square. Eat it before the gun.</p>
       <div id="join" class="joinbox">
-        <!-- Klaviyo's own form takes the email (the Klaviyo form ID is set in the theme editor) -->
-        <div class="kl-embed on-blue" id="klBar"><div class="klaviyo-form-KLBAR"></div></div>
-        <p class="kl-missing" id="klBarMissing" hidden style="color:rgba(255,255,255,.85)">The sign-up box didn't load (an ad blocker can do that). <a href="https://ig.me/m/engineroomnutrition" style="color:#fff;font-weight:700">DM us "BAR" on Instagram</a> and we'll add you.</p>
+        <div class="inline" id="wlRow"><input id="wl-email" type="email" placeholder="Your email" autocomplete="email" inputmode="email" aria-label="Email"><button class="btn white" type="button" id="wlGo">Get first go <span class="arr">→</span></button></div>
+        <div class="err" id="wl-err" style="color:#fff"></div>
+        <!-- Klaviyo's form loads hidden here and does the saving (form ID set in the theme editor) -->
+        <div class="kl-hidden" id="klBar" aria-hidden="true"><div class="klaviyo-form-KLBAR"></div></div>
         <p class="fine">Small first batch. The waitlist hears first, with the founding price. No card.</p>
         <div class="done" id="wlDone" hidden>
           <h3 style="font:400 30px/1.1 var(--fs);text-transform:none;letter-spacing:0;color:#fff">You're on the list. ✓</h3>
@@ -368,12 +370,16 @@
 <script>
 (function(){
   var $ = function(id){ return document.getElementById(id); };
-  // Klaviyo's form saved the email: show our "you're on the list"
-  ERN.onKlaviyoSubmit(ERN.config.klBarForm, function(){
-    setTimeout(function(){ $('klBar').hidden = true; $('wlDone').hidden = false; }, 1200);
-    ERN.track('waitlist_joined', { from: 'bar page' });
-  });
-  ERN.ifFormMissing($('klBar'), function(){ $('klBarMissing').hidden = false; });
+  // tap: hand the email to Klaviyo's hidden form, then show "you're on the list"
+  function go(){
+    var email = $('wl-email').value.trim(), err = $('wl-err'), btn = $('wlGo');
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) { err.textContent = 'Add your email to join the waitlist.'; err.style.display = 'block'; return; }
+    err.style.display = 'none'; btn.disabled = true; btn.textContent = 'Adding you…';
+    ERN.sendViaKlaviyo($('klBar'), email).then(function(){ $('wlRow').hidden = true; $('wlDone').hidden = false; ERN.track('waitlist_joined', { from: 'bar page' }); },
+      function(){ btn.disabled = false; btn.innerHTML = 'Get first go <span class="arr">→</span>'; err.innerHTML = 'That didn\'t go through. Tap again, or <a href="https://ig.me/m/engineroomnutrition" style="color:#fff;font-weight:700">DM us "BAR" on Instagram</a>.'; err.style.display = 'block'; });
+  }
+  $('wlGo').addEventListener('click', go);
+  $('wl-email').addEventListener('keydown', function(e){ if (e.key === 'Enter') { e.preventDefault(); go(); } });
   ERN.sticky('join', 'wlDone');
 })();
 </script>
