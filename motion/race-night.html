@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Race Night Motion</title>
+<style>
+/* ===== ERN site theme (engineroomnutrition.com) ===== */
+:root{
+  --blue:#1f7ae0;      /* buttons, eyebrows, italic emphasis */
+  --blue-d:#1559ad;    /* button edge */
+  --blue-l:#6fb2ff;    /* emphasis on navy */
+  --navy:#0c1828;
+  --navy-2:#14253d;
+  --panel:#0a1320;     /* the clock widget */
+  --cream:#f4efe6;
+  --card:#ffffff;
+  --ink:#0d1726;
+  --muted:#5b6474;
+  --gold:#f5b52e;      /* clock digits */
+  --green:#22a35a;
+  --green-l:#e3f5e9;
+  --red:#d9473f;
+  --red-l:#fbe7e5;
+}
+@font-face{font-family:'DM Serif Display';src:url(fonts/DMSerifDisplay-400-normal.woff2) format('woff2');}
+@font-face{font-family:'DM Serif Display';font-style:italic;src:url(fonts/DMSerifDisplay-400-italic.woff2) format('woff2');}
+@font-face{font-family:Barlow;font-weight:600;src:url(fonts/BarlowCondensed-600-normal.woff2) format('woff2');}
+@font-face{font-family:Barlow;font-weight:700;src:url(fonts/BarlowCondensed-700-normal.woff2) format('woff2');}
+@font-face{font-family:Barlow;font-weight:800;src:url(fonts/BarlowCondensed-800-normal.woff2) format('woff2');}
+@font-face{font-family:Barlow;font-weight:800;font-style:italic;src:url(fonts/BarlowCondensed-800-italic.woff2) format('woff2');}
+@font-face{font-family:Inter;src:url(fonts/Inter-400-normal.woff2) format('woff2');font-weight:100 900;}
+
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{background:#000;width:1920px;height:1080px;overflow:hidden}
+#stage{position:relative;width:1920px;height:1080px;overflow:hidden;font-family:Inter,sans-serif;color:var(--ink)}
+#bgl,#fx,#cam{position:absolute;inset:0}
+#cam{transform-origin:50% 50%}
+#grain{position:absolute;inset:-64px;opacity:.05;mix-blend-mode:overlay;pointer-events:none}
+.abs{position:absolute}
+.bc{font-family:Barlow,sans-serif}
+.serif{font-family:'DM Serif Display',serif;font-weight:400;letter-spacing:-.5px;line-height:1.04}
+.serif em{font-style:italic;color:var(--blue)}
+.night .serif{color:#fff}
+.night .serif em{color:var(--blue-l)}
+.dawn .serif em{color:#ffe1a8}
+.w{display:inline-block}
+.eyebrow{position:absolute;display:flex;align-items:center;gap:16px;font-family:Barlow,sans-serif;font-weight:700;font-size:32px;letter-spacing:3px;color:var(--blue);text-transform:uppercase;white-space:nowrap}
+.eyebrow i{display:block;width:44px;height:4px;background:currentColor}
+.night .eyebrow{color:var(--blue-l)}
+.card{position:absolute;background:var(--card);border-radius:24px;box-shadow:0 22px 60px rgba(13,23,38,.12),0 0 0 1px rgba(13,23,38,.05)}
+.panel{position:absolute;background:var(--panel);border-radius:26px;box-shadow:0 0 0 2px rgba(255,255,255,.06),0 30px 80px rgba(0,0,0,.45);color:#fff}
+.plabel{font-family:Barlow,sans-serif;font-weight:700;font-size:28px;letter-spacing:3px;color:rgba(255,255,255,.75);display:flex;align-items:center;gap:12px}
+.plabel b{width:14px;height:14px;border-radius:50%;background:var(--red);display:block}
+.digits{font-family:Barlow,sans-serif;font-weight:800;color:var(--gold);line-height:1;text-shadow:0 0 40px rgba(245,181,46,.35)}
+.btn{position:absolute;display:inline-flex;align-items:center;gap:16px;background:var(--blue);color:#fff;font-family:Barlow,sans-serif;font-weight:700;font-size:44px;letter-spacing:2px;
+  padding:22px 44px;border-radius:16px;box-shadow:0 7px 0 var(--blue-d),0 20px 40px rgba(31,122,224,.3);white-space:nowrap}
+.btn.ghost{background:#fff;color:var(--ink);box-shadow:0 7px 0 #c9cfd8,0 20px 40px rgba(0,0,0,.25)}
+.chip{position:absolute;display:inline-flex;align-items:center;gap:12px;border-radius:999px;padding:12px 26px;font-family:Barlow,sans-serif;font-weight:700;font-size:34px;letter-spacing:1px;white-space:nowrap}
+.ok,.no{width:52px;height:52px;border-radius:50%;display:flex;align-items:center;justify-content:center;flex:none}
+.ok{background:var(--green-l);color:var(--green)}.no{background:var(--red-l);color:var(--red)}
+.ok svg,.no svg{width:26px;height:26px}
+.li{display:flex;align-items:center;gap:24px;padding:26px 0;border-bottom:2px solid rgba(13,23,38,.07);font-size:35px;white-space:nowrap;font-weight:600;letter-spacing:-.3px}
+.li:last-child{border-bottom:none}
+.mark{position:absolute;left:96px;bottom:60px;display:flex;align-items:center;gap:18px;font-size:24px;font-weight:600;color:var(--muted)}
+.mark .logo{background:#0b0b0b;color:#fff;font-family:Barlow,sans-serif;font-weight:800;font-style:italic;font-size:34px;letter-spacing:1px;padding:2px 12px 0;border-radius:6px;line-height:1.2}
+.night .mark{color:rgba(255,255,255,.55)}
+.night .mark .logo{box-shadow:0 0 0 2px rgba(255,255,255,.15)}
+.tile{position:absolute;border-radius:22px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px}
+.item{position:absolute;width:360px;height:330px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px}
+.item svg.ic{width:130px;height:130px}
+.item .t{font-family:Barlow,sans-serif;font-weight:800;font-size:44px;letter-spacing:1.5px}
+.item .d{font-size:28px;font-weight:600;color:var(--muted)}
+.item .ok{position:absolute;top:22px;right:22px;width:46px;height:46px}
+</style>
+</head>
+<body>
+<div id="stage">
+  <div id="bgl"></div>
+  <canvas id="fx" width="1920" height="1080"></canvas>
+  <div id="cam"></div>
+  <div id="grain"></div>
+</div>
+<script>
+/* ---------- helpers ---------- */
+const clamp=(x,a=0,b=1)=>Math.max(a,Math.min(b,x));
+const outExpo=x=>x>=1?1:1-Math.pow(2,-10*x);
+const outCubic=x=>1-Math.pow(1-x,3);
+const outBack=x=>{const c=1.5;return 1+(c+1)*Math.pow(x-1,3)+c*Math.pow(x-1,2)};
+const inOut=x=>x<.5?4*x*x*x:1-Math.pow(-2*x+2,3)/2;
+const lin=x=>x;
+const P=(t,a,d=.8,e=outExpo)=>e(clamp((t-a)/d));
+const lerp=(a,b,p)=>a+(b-a)*p;
+function rng(seed){return function(){seed|=0;seed=seed+0x6D2B79F5|0;let t=Math.imul(seed^seed>>>15,1|seed);t=t+Math.imul(t^t>>>7,61|t)^t;return((t^t>>>14)>>>0)/4294967296}}
+const css=n=>getComputedStyle(document.documentElement).getPropertyValue('--'+n).trim();
+function hexA(h,a){h=h.replace('#','');const n=parseInt(h,16);return `rgba(${n>>16&255},${n>>8&255},${n&255},${a})`}
+function el(tag,cls,html,parent,style){const n=document.createElement(tag);if(cls)n.className=cls;if(html!=null)n.innerHTML=html;if(style)n.style.cssText=style;(parent||cam).appendChild(n);return n}
+function show(n,p,{y=26,x=0,blur=10,s=1}={}){n.style.opacity=p;const sc=1-(1-p)*(1-s);
+  n.style.translate=`${(1-p)*x}px ${(1-p)*y}px`;n.style.scale=sc;n.style.filter=p<.999?`blur(${(1-p)*blur}px)`:'none'}
+/* serif text: *word word* becomes italic emphasis; returns the word spans */
+function words(n,text){let em=false;n.innerHTML=text.split(' ').map(w=>{let open=w.startsWith('*'),close=w.endsWith('*');w=w.replace(/\*/g,'');
+  if(open)em=true;const s=em?`<span class="w"><em>${w}</em></span>`:`<span class="w">${w}</span>`;if(close)em=false;return s}).join(' ');return [...n.querySelectorAll('.w')]}
+function stagger(ws,t,a,gap=.07,o){ws.forEach((w,i)=>show(w,P(t,a+i*gap,.7),o||{y:40,blur:14}))}
+const OK='<div class="ok"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12.5l5 5L20 6.5"/></svg></div>';
+const NO='<div class="no"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3.6" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></div>';
+const ARROW='<svg width="34" height="30" viewBox="0 0 34 30" fill="none" stroke="currentColor" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 15h26M18 4l11 11-11 11"/></svg>';
+
+const stage=document.getElementById('stage'),cam=document.getElementById('cam'),bgl=document.getElementById('bgl');
+const fx=document.getElementById('fx'),ctx=fx.getContext('2d');
+(function(){const c=document.createElement('canvas');c.width=c.height=256;const g=c.getContext('2d');const d=g.createImageData(256,256);const r=rng(3);
+for(let i=0;i<d.data.length;i+=4){const v=r()*255;d.data[i]=d.data[i+1]=d.data[i+2]=v;d.data[i+3]=255}g.putImageData(d,0,0);
+document.getElementById('grain').style.background=`url(${c.toDataURL()})`})();
+
+/* ---------- backgrounds ---------- */
+function night(){stage.className='night';bgl.style.background='radial-gradient(ellipse 90% 80% at 70% 15%, var(--navy-2) 0%, var(--navy) 65%)'}
+function day(){stage.className='';bgl.style.background='var(--cream)'}
+function stars(t,a=1,seed=4,n=140){const r=rng(seed);for(let i=0;i<n;i++){const x=r()*1920,y=r()*1080,s=.6+r()*1.8,ph=r()*6.28,sp=.6+r()*1.6;
+  ctx.globalAlpha=a*(.25+.6*(.5+.5*Math.sin(t*sp+ph)))*(.4+r()*.6);ctx.fillStyle='#fff';ctx.beginPath();ctx.arc(x+t*1.5*(s-.6),y,s,0,7);ctx.fill()}ctx.globalAlpha=1}
+function moon(x,y,R,a=1){ctx.save();ctx.globalAlpha=a;ctx.shadowColor='rgba(255,236,190,.55)';ctx.shadowBlur=60;ctx.fillStyle='#fbefd2';ctx.beginPath();ctx.arc(x,y,R,0,7);ctx.fill();
+  ctx.shadowBlur=0;ctx.globalCompositeOperation='destination-out';ctx.beginPath();ctx.arc(x+R*.42,y-R*.22,R*.88,0,7);ctx.fill();ctx.restore()}
+function mark(){return el('div','mark','<span class="logo">ERN</span>Engine Room Nutrition')}
+function eyebrow(text,x,y){return el('div','eyebrow',`<i></i>${text}`,null,`left:${x}px;top:${y}px`)}
+function serif(text,x,y,size,w,align){const n=el('div','abs serif','',null,`left:${x}px;top:${y}px;font-size:${size}px;${w?`width:${w}px;`:''}${align?`text-align:${align};`:''}`);return [n,words(n,text)]}
+
+/* ---------- scenes ---------- */
+const SCENES=[
+/* 01 HOOK: "...you'll probably sleep badly the night before, and it won't cost you your race." */
+{id:'01-hook',dur:9,build(){night();
+  const eb=eyebrow('The night before your marathon',120,170);
+  const [h1,w1]=serif("You’ll sleep *badly.*",116,240,150,820);
+  const [h2,w2]=serif("And it won’t cost you *your race.*",120,580,84,760);
+  const pn=el('div','panel',`<div class="plabel"><b></b>HOURS SLEPT · NIGHT BEFORE</div>
+    <div style="display:flex;align-items:baseline;gap:14px;margin-top:24px"><span class="digits v" style="font-size:230px">8</span><span class="digits" style="font-size:80px;opacity:.85">HRS</span></div>
+    <div style="position:relative;height:10px;border-radius:5px;background:rgba(255,255,255,.12);margin-top:34px"><div class="fill" style="position:absolute;left:0;top:0;bottom:0;border-radius:5px;background:var(--gold)"></div><div class="knob" style="position:absolute;top:-13px;width:36px;height:36px;border-radius:50%;background:#fff;box-shadow:0 0 0 6px rgba(245,181,46,.35)"></div></div>
+    <div class="bc" style="display:flex;justify-content:space-between;margin-top:22px;font-weight:700;font-size:26px;letter-spacing:2px;color:rgba(255,255,255,.45)"><span>0</span><span>4</span><span>8</span></div>`,null,'left:1060px;top:230px;width:680px;padding:46px 52px');
+  const v=pn.querySelector('.v'),fill=pn.querySelector('.fill'),knob=pn.querySelector('.knob');
+  const ch=el('div','chip',`${OK.replace('class="ok"','class="ok" style="width:44px;height:44px"')}RACE STILL ON`,null,'left:1060px;top:760px;background:#fff;color:var(--green)');
+  const mk=mark();
+  return t=>{stars(t,P(t,0,1.5));moon(1680,130,46,P(t,.2,1.5)*.9);show(eb,P(t,.3,.8),{x:-30,y:0});stagger(w1,t,.6,.12);
+    show(pn,P(t,1.2,.9),{x:40,y:0,s:.96});const h=lerp(8,4,P(t,2.4,1.8,inOut));v.textContent=Math.round(h);fill.style.width=(h/8*100)+'%';knob.style.left=`calc(${h/8*100}% - 18px)`;
+    stagger(w2,t,4.6,.09,{y:30,blur:12});show(ch,P(t,6.4,.6,outBack),{y:20,s:.8});show(mk,P(t,1,.8),{y:10})}}},
+/* 02 PAIN: 2am, the maths, the phone, the alarm */
+{id:'02-2am',dur:13,build(){night();
+  const eb=eyebrow('2am, the night before',120,170);
+  const [h1,w1]=serif("Staring at the *ceiling.*",116,240,128,860);
+  const sum=el('div','card',`<div class="bc" style="font-weight:700;font-size:28px;letter-spacing:3px;color:var(--muted)">THE 2AM MATHS</div>
+    <div style="font-size:44px;font-weight:600;margin-top:14px;letter-spacing:-.3px">If I drop off now, I'll get</div>
+    <div class="bc" style="font-weight:800;font-size:110px;line-height:1;color:var(--ink);margin-top:6px">4 HOURS</div>`,null,'left:120px;top:540px;width:720px;padding:34px 44px');
+  const ph=el('div','abs',`<div class="scr" style="position:absolute;inset:16px;border-radius:52px;overflow:hidden;background:linear-gradient(180deg,#14233a,#0b1422);display:flex;flex-direction:column;align-items:center">
+      <div class="bc" style="margin-top:96px;font-weight:600;font-size:30px;letter-spacing:2px;color:rgba(255,255,255,.7)">SUNDAY · RACE DAY</div>
+      <div class="tm" style="font-weight:200;font-size:190px;letter-spacing:-6px;color:#fff;line-height:1.05">2:00</div>
+      <div class="hr chip" style="position:static;margin-top:30px;background:rgba(217,71,63,.16);color:#ff8a80;font-size:34px">♥ <span class="bpm">58</span> BPM</div>
+      <div class="al" style="position:absolute;left:24px;right:24px;bottom:40px;border-radius:28px;background:rgba(255,255,255,.92);color:var(--ink);padding:22px 28px;display:flex;align-items:center;gap:20px">
+        <div style="width:64px;height:64px;border-radius:16px;background:var(--gold);display:flex;align-items:center;justify-content:center;font-size:36px">⏰</div>
+        <div><div class="bc" style="font-weight:800;font-size:34px;letter-spacing:1px">ALARM · 6:00</div><div style="font-size:24px;font-weight:600;color:var(--muted)">Race day</div></div></div>
+    </div>`,null,'left:1180px;top:60px;width:470px;height:960px;border-radius:66px;background:#05080d;box-shadow:0 0 0 3px rgba(255,255,255,.1),0 40px 90px rgba(0,0,0,.6)');
+  const tm=ph.querySelector('.tm'),bpm=ph.querySelector('.bpm'),hr=ph.querySelector('.hr'),al=ph.querySelector('.al'),scr=ph.querySelector('.scr');
+  const gone=el('div','chip',`${NO.replace('class="no"','class="no" style="width:44px;height:44px"')}RACE GONE?`,null,'left:880px;top:800px;background:#fff;color:var(--red)');
+  return t=>{stars(t,P(t,0,1.5)*.8,7);show(eb,P(t,.2,.8),{x:-30,y:0});stagger(w1,t,.5,.1);show(sum,P(t,2.6,.8),{y:30});
+    show(ph,P(t,.6,1),{y:60,s:.95});const lit=P(t,6.4,.4);scr.style.filter=`brightness(${.55+.45*lit})`;ph.style.boxShadow=`0 0 0 3px rgba(255,255,255,.1),0 40px 90px rgba(0,0,0,.6),0 0 ${120*lit}px rgba(111,178,255,${.35*lit})`;
+    const mins=Math.round(lerp(0,240,P(t,8.6,1.8,inOut)));const H=2+Math.floor(mins/60),M=mins%60;tm.textContent=`${H}:${String(M).padStart(2,'0')}`;
+    const b=Math.round(lerp(58,96,P(t,7.2,1.6,inOut)));bpm.textContent=b;show(hr,P(t,7.0,.5),{y:10});hr.style.scale=1+.06*Math.max(0,Math.sin(t*b/60*Math.PI*2))*P(t,7.2,.5);
+    show(al,P(t,10.4,.6,outBack),{y:40});al.style.translate=`${t>10.4&&t<12?Math.sin(t*60)*4:0}px 0`;show(gone,P(t,11.6,.6,outBack),{y:20,s:.8})}}},
+/* 03 DREAM: the sleep that counts is already in the bank */
+{id:'03-in-the-bank',dur:10,build(){day();
+  const eb=eyebrow('Get the 2 nights before right',120,110);
+  const [h1,w1]=serif("The sleep that counts is *already in the bank.*",116,170,112,1500);
+  const cd=el('div','card','',null,'left:120px;top:470px;width:1680px;height:430px;padding:50px 60px');
+  const row=(lab,sub,y)=>el('div','abs',`<div style="display:flex;align-items:baseline;justify-content:space-between"><span class="bc" style="font-weight:800;font-size:44px;letter-spacing:2px">${lab}</span><span class="s" style="font-size:32px;font-weight:600;color:var(--muted)">${sub}</span></div>
+    <div style="position:relative;height:56px;border-radius:14px;background:#eef1f5;margin-top:18px;overflow:hidden"><div class="f" style="position:absolute;left:0;top:0;bottom:0;border-radius:14px"></div></div>`,cd,`left:60px;right:60px;top:${y}px`);
+  const r1=row('FRIDAY · 2 NIGHTS BEFORE','The big sleep',50),r2=row('SATURDAY · THE NIGHT BEFORE','Whatever you get',220);
+  const f1=r1.querySelector('.f'),f2=r2.querySelector('.f');f1.style.background='var(--blue)';
+  f2.style.background='repeating-linear-gradient(135deg,#9fc6f2 0 14px,#bcd8f7 14px 28px)';
+  const c1=el('div','chip',`${OK.replace('class="ok"','class="ok" style="width:40px;height:40px"')}IN THE BANK`,cd,'right:80px;top:132px;background:#fff;color:var(--green);font-size:30px;padding:8px 22px 8px 10px;box-shadow:0 6px 20px rgba(0,0,0,.12)');
+  const c2=el('div','chip',`${OK.replace('class="ok"','class="ok" style="width:40px;height:40px"')}STILL FINE`,cd,'right:80px;top:302px;background:#fff;color:var(--green);font-size:30px;padding:8px 22px 8px 10px;box-shadow:0 6px 20px rgba(0,0,0,.12)');
+  const mk=mark();
+  return t=>{show(eb,P(t,.2,.8),{x:-30,y:0});stagger(w1,t,.4,.08);show(cd,P(t,1.6,.9),{y:50});
+    f1.style.width=(100*P(t,2.4,1.8,inOut))+'%';f2.style.width=(52*P(t,4.4,1.4,inOut))+'%';
+    show(c1,P(t,4.0,.5,outBack),{y:10,s:.8});show(c2,P(t,6.0,.5,outBack),{y:10,s:.8});show(mk,P(t,1,.8),{y:10})}}},
+/* 04 NAMED CONCEPT: one thing to do at 3am. Save this. */
+{id:'04-one-thing',dur:9,build(){night();
+  const eb=eyebrow('One thing to do at',0,150);eb.style.left='50%';eb.style.transform='translateX(-50%)';
+  const pn=el('div','panel',`<div class="plabel" style="justify-content:center"><b></b>THE NIGHT BEFORE</div><div style="display:flex;align-items:baseline;justify-content:center;gap:16px;margin-top:10px"><span class="digits" style="font-size:250px">3:00</span><span class="digits" style="font-size:90px">AM</span></div>`,null,'left:560px;top:230px;width:800px;padding:40px 0 34px');
+  const [h1,w1]=serif("that changes *the whole night.*",0,590,96,1920,'center');
+  const b1=el('div','btn',`SAVE THIS`,null,'left:520px;top:800px');
+  const b2=el('div','btn ghost',`SEND IT TO WHO YOU RACE WITH ${ARROW}`,null,'left:850px;top:800px');
+  return t=>{stars(t,P(t,0,1.5),9);moon(1700,150,44,P(t,.2,1.5)*.9);show(eb,P(t,.2,.7),{y:-10});show(pn,P(t,.5,.9),{y:40,s:.92});
+    pn.style.boxShadow=`0 0 0 2px rgba(255,255,255,.06),0 30px 80px rgba(0,0,0,.45),0 0 ${60+30*Math.sin(t*2)}px rgba(245,181,46,.12)`;
+    stagger(w1,t,1.8,.1);show(b1,P(t,5.4,.6,outBack),{y:30,s:.8});show(b2,P(t,6.4,.6,outBack),{y:30,s:.8})}}},
+/* 05 2 NIGHTS BEFORE: THE BIG SLEEP */
+{id:'05-two-nights-before',dur:12,build(){day();
+  const eb=eyebrow('2 nights before: the big sleep',120,110);
+  const [h1,w1]=serif("The night that *counts.*",116,170,128,800);
+  const days=[['FRI','THE BIG SLEEP'],['SAT','NIGHT BEFORE'],['SUN','RACE']].map(([d,s],i)=>el('div','tile',`<div class="bc" style="font-weight:800;font-size:78px;line-height:1">${d}</div><div class="bc" style="font-weight:700;font-size:26px;letter-spacing:2px">${s}</div>`,null,
+    `left:${120+i*250}px;top:560px;width:226px;height:250px;background:#fff;box-shadow:0 14px 40px rgba(13,23,38,.10),0 0 0 1px rgba(13,23,38,.05)`));
+  const cd=el('div','card',`<div class="bc" style="font-weight:700;font-size:30px;letter-spacing:3px;color:var(--blue)">FRIDAY NIGHT, FOR A SUNDAY RACE</div>
+    <div class="li">${OK}<span>Bed 30 minutes earlier than normal</span></div><div class="li">${OK}<span>Phone out of the room</span></div><div class="li">${OK}<span>No alarm, if you can get away with it</span></div>`,null,'left:960px;top:200px;width:840px;padding:48px 48px 30px');
+  const lis=[...cd.querySelectorAll('.li')],mk=mark();
+  return t=>{show(eb,P(t,.2,.8),{x:-30,y:0});stagger(w1,t,.4,.1);
+    days.forEach((d,i)=>{show(d,P(t,1.6+i*.2,.7),{y:40});const on=i===0?P(t,3.6,.5):0,race=i===2?P(t,3.2,.5):0;
+      d.style.background=on?`color-mix(in srgb,var(--blue) ${on*100}%,#fff)`:race?`color-mix(in srgb,var(--navy) ${race*100}%,#fff)`:'#fff';
+      d.style.color=(on>.5||race>.5)?'#fff':css('ink');if(i===0)d.style.scale=1+.06*on;});
+    show(cd,P(t,4.6,.8),{x:40,y:0});lis.forEach((l,i)=>show(l,P(t,5.6+i*2.0,.6),{x:30,y:0}));show(mk,P(t,1,.8),{y:10})}}},
+/* 06 CTA: blue section with the white card, like the bottom of the site */
+{id:'06-cta',dur:9,build(){stage.className='';bgl.style.background='radial-gradient(ellipse 80% 80% at 50% 30%, #3a8ff0 0%, var(--blue) 60%)';
+  const cd=el('div','card',`<div class="bc" style="background:var(--blue);color:#fff;text-align:center;font-weight:700;font-size:30px;letter-spacing:3px;padding:20px 0;border-radius:24px 24px 0 0">FREE · YOUR RACE · YOUR GOAL TIME</div>
+    <div style="height:6px;background:var(--blue);margin:8px 40px 0;border-radius:3px"></div>`,null,'left:360px;top:170px;width:1200px;height:700px;overflow:hidden');
+  const [h1,w1]=serif("Your whole race weekend, *planned.*",0,0,104,1040,'center');cd.appendChild(h1);h1.style.left='80px';h1.style.top='150px';
+  const sub=el('div','abs','Email us your race and goal time.',cd,'left:0;right:0;top:400px;text-align:center;font-size:42px;font-weight:500;color:var(--muted)');
+  const b=el('div','btn',`LINK IN BIO ${ARROW}`,cd,'left:50%;top:520px;font-size:52px;padding:26px 56px;transform:translateX(-50%)');
+  return t=>{show(cd,P(t,0,.9),{y:70,s:.95});stagger(w1,t,.6,.09);show(sub,P(t,2.6,.7));show(b,P(t,3.6,.6,outBack),{y:30,s:.8});
+    b.style.boxShadow=`0 7px 0 var(--blue-d),0 20px ${40+20*Math.sin(t*3)}px rgba(31,122,224,.35)`}}},
+/* 07 THE NIGHT BEFORE, 6PM: ALL LAID OUT */
+{id:'07-6pm-laid-out',dur:11,build(){day();
+  const eb=eyebrow('The night before, 6pm: all laid out',120,90);
+  const [h1,w1]=serif("By 6pm, *everything’s laid out.*",116,150,104,1700);
+  const N=css('ink'),B=css('blue');
+  const icons={
+    bib:`<svg class="ic" viewBox="0 0 64 64" fill="none" stroke="${N}" stroke-width="3.2" stroke-linejoin="round"><rect x="8" y="14" width="48" height="36" rx="4"/><rect x="16" y="24" width="32" height="10" rx="2" fill="${B}" stroke="none" opacity=".9"/><path d="M16 41h20" stroke="${B}"/><circle cx="13" cy="19" r="2" fill="${N}"/><circle cx="51" cy="19" r="2" fill="${N}"/><circle cx="13" cy="45" r="2" fill="${N}"/><circle cx="51" cy="45" r="2" fill="${N}"/></svg>`,
+    gel:`<svg class="ic" viewBox="0 0 64 64" fill="none" stroke="${N}" stroke-width="3.2" stroke-linejoin="round"><path d="M20 10h24l-2 6v36a4 4 0 0 1-4 4H26a4 4 0 0 1-4-4V16z"/><path d="M22 16h20" /><rect x="26" y="26" width="12" height="18" rx="2" fill="${B}" stroke="none"/><path d="M27 6h10v4H27z"/></svg>`,
+    shoe:`<svg class="ic" viewBox="0 0 64 64" fill="none" stroke="${N}" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round"><path d="M6 44c0-6 2-14 6-20l10 4c3 1 6 0 8-2l4-4c6 8 14 10 22 12 3 1 4 3 4 6v4H6z"/><path d="M6 48h52" stroke="${B}" stroke-width="5"/><path d="M26 30l4 4M31 26l4 4"/></svg>`,
+    watch:`<svg class="ic" viewBox="0 0 64 64" fill="none" stroke="${N}" stroke-width="3.2" stroke-linejoin="round"><path d="M24 6h16l2 12H22zM22 46h20l-2 12H24z"/><circle cx="32" cy="32" r="15"/><path d="M34 23l-6 10h7l-5 9" stroke="${B}" stroke-width="3.6" stroke-linecap="round"/></svg>`};
+  const data=[['bib','BIB','Pinned on'],['gel','GELS','In your pocket'],['shoe','SHOES','Laid out'],['watch','WATCH','On charge']];
+  const items=data.map(([k,a,b],i)=>el('div','card item',`${OK}${icons[k]}<div class="t">${a}</div><div class="d">${b}</div>`,null,`left:${120+i*425}px;top:380px`));
+  const al=el('div','abs',`<div class="chip" style="position:static;background:var(--navy);color:var(--gold);font-size:36px">⏰ ALARM 1</div><div class="chip" style="position:static;background:var(--navy);color:var(--gold);font-size:36px">⏰ ALARM 2</div><span style="font-size:36px;font-weight:600;color:var(--muted)">so you're not waking every hour to check the first one.</span>`,null,'left:120px;top:770px;display:flex;align-items:center;gap:20px');
+  const mk=mark();
+  return t=>{show(eb,P(t,.2,.8),{x:-30,y:0});stagger(w1,t,.4,.08);
+    items.forEach((n,i)=>{const p=P(t,2.4+i*.8,.7,outBack);n.style.opacity=clamp(p);n.style.translate=`0 ${(1-clamp(p))*50}px`;n.style.scale=lerp(.9,1,clamp(p,0,1.1));
+      const ok=n.querySelector('.ok');ok.style.scale=P(t,2.9+i*.8,.4,outBack);});
+    show(al,P(t,6.6,.8),{x:30,y:0});show(mk,P(t,1,.8),{y:10})}}},
+/* 08 BEDTIME: YOUR NORMAL TIME */
+{id:'08-bedtime',dur:9,build(){night();
+  const eb=eyebrow('Bedtime: your normal time',120,110);
+  const [h1,w1]=serif("Lights out at *your normal time.*",116,170,112,1700);
+  const l=el('div','card',`<div class="bc" style="font-weight:700;font-size:30px;letter-spacing:3px;color:var(--muted)">EARLY NIGHT</div>
+    <div style="display:flex;align-items:center;gap:22px;margin-top:6px"><span class="bc x" style="font-weight:800;font-size:130px;line-height:1.05;position:relative">8 O'CLOCK<i style="position:absolute;left:-6px;right:-6px;top:52%;height:9px;background:var(--red);border-radius:5px;transform-origin:left"></i></span></div>
+    <div class="d" style="font-size:36px;font-weight:600;color:var(--muted);margin-top:14px;line-height:1.3">You just lie awake longer, running the race in your head.</div>`,null,'left:120px;top:440px;width:800px;height:440px;padding:46px 52px;background:var(--cream)');
+  const r=el('div','panel',`<div class="plabel"><b style="background:var(--green)"></b>THE NIGHT BEFORE</div>
+    <div class="digits" style="font-size:118px;margin-top:20px;line-height:1.02">YOUR NORMAL TIME</div>
+    <div style="display:flex;align-items:center;gap:20px;margin-top:28px;font-size:40px;font-weight:600">${OK}Lights out</div>`,null,'left:1000px;top:440px;width:800px;height:440px;padding:46px 52px');
+  const strike=l.querySelector('i'),desc=l.querySelector('.d');
+  return t=>{stars(t,P(t,0,1.5)*.8,13);moon(1700,120,40,P(t,.2,1.5)*.9);show(eb,P(t,.2,.8),{x:-30,y:0});stagger(w1,t,.4,.09);
+    show(r,P(t,1.4,.8),{x:40,y:0});show(l,P(t,3.0,.8),{x:-40,y:0});strike.style.scale=`${P(t,4.0,.5,outCubic)} 1`;show(desc,P(t,5.0,.7))}}},
+/* 09 REHOOK */
+{id:'09-rehook',dur:5,build(){night();
+  const [h1,w1]=serif("So what do you do *at 3am?*",0,400,150,1920,'center');
+  return t=>{stars(t,1,21,180);moon(960,200,60,P(t,0,1.4));stagger(w1,t,.2,.13,{y:30,blur:18})}}},
+/* 10 3AM: DON'T LOOK AT THE CLOCK, then the box */
+{id:'10-3am-box',dur:22,build(){night();
+  const eb=eyebrow("3am: don't look at the clock",120,110);
+  const dont=el('div','abs',`<div class="li" style="border-color:rgba(255,255,255,.1);color:#fff">${NO}<span>Don't look at the clock</span></div><div class="li" style="border-color:rgba(255,255,255,.1);color:#fff">${NO}<span>Don't pick up your phone</span></div>`,null,'left:120px;top:180px;width:760px');
+  const ds=[...dont.querySelectorAll('.li')];
+  const [h1,w1]=serif("Then *box breathing.*",116,450,104,700);
+  const sub=el('div','abs','4 seconds a side. Follow the dot.',null,'left:120px;top:700px;font-size:40px;font-weight:600;color:rgba(255,255,255,.7)');
+  const X0=1080,Y0=200,S=600;
+  const box=el('div','abs',`<svg width="${S+200}" height="${S+200}" viewBox="-100 -100 ${S+200} ${S+200}" style="overflow:visible">
+     <rect x="0" y="0" width="${S}" height="${S}" rx="28" fill="none" stroke="rgba(255,255,255,.14)" stroke-width="6"/>
+     <path class="trail" d="M28 0 H${S-28} Q${S} 0 ${S} 28 V${S-28} Q${S} ${S} ${S-28} ${S} H28 Q0 ${S} 0 ${S-28} V28 Q0 0 28 0" fill="none" stroke="${css('blue-l')}" stroke-width="8" stroke-linecap="round"/>
+     <circle class="dot" r="18" fill="#fff"/></svg>`,null,`left:${X0-100}px;top:${Y0-100}px`);
+  const trail=box.querySelector('.trail'),dot=box.querySelector('.dot');const L=trail.getTotalLength();trail.style.strokeDasharray=`${L} ${L}`;
+  const sides=[['BREATHE IN 4',`left:${X0}px;top:${Y0-64}px;width:${S}px;text-align:center`],['HOLD 4',`left:${X0+S+24}px;top:${Y0+S/2-24}px`],['BREATHE OUT 4',`left:${X0}px;top:${Y0+S+20}px;width:${S}px;text-align:center`],['HOLD 4',`left:${X0-150}px;top:${Y0+S/2-24}px`]]
+    .map(([s,st])=>el('div','abs bc',s,null,st+';font-weight:800;font-size:40px;letter-spacing:2px;color:rgba(255,255,255,.35)'));
+  const ctr=el('div','abs',`<div class="digits n" style="font-size:260px">1</div><div class="bc ph" style="font-weight:700;font-size:40px;letter-spacing:3px;color:#fff">BREATHE IN</div>`,null,`left:${X0}px;top:${Y0+120}px;width:${S}px;text-align:center`);
+  const n=ctr.querySelector('.n'),phl=ctr.querySelector('.ph'),PH=['BREATHE IN','HOLD','BREATHE OUT','HOLD'];
+  const T0=4.6,mk=mark();
+  return t=>{stars(t,P(t,0,1.5)*.7,17);show(eb,P(t,.2,.8),{x:-30,y:0});ds.forEach((d,i)=>show(d,P(t,.5+i*1.4,.6),{x:-30,y:0}));
+    stagger(w1,t,3.0,.1);show(sub,P(t,4.0,.7));show(box,P(t,3.4,.9),{s:.9});
+    const bt=Math.max(0,t-T0),side=Math.floor(bt/4)%4,frac=(bt%4)/4,cyc=bt/16%1,on=t>=T0;
+    /* the path starts at the top-left corner, so the trail is the breath so far this cycle */
+    const len=L*cyc;trail.style.strokeDashoffset=on?L-len:L;const pt=trail.getPointAtLength(on?len:0);dot.setAttribute('cx',pt.x);dot.setAttribute('cy',pt.y);
+    dot.style.filter=`drop-shadow(0 0 ${18+10*Math.sin(t*3)}px ${css('blue-l')})`;
+    sides.forEach((s,i)=>{s.style.opacity=P(t,3.8,.6)*(on&&i===side?1:.6);s.style.color=on&&i===side?'#fff':'rgba(255,255,255,.35)'});
+    show(ctr,P(t,T0-.3,.5),{s:.85});n.textContent=on?1+Math.floor(frac*4):1;phl.textContent=PH[on?side:0];
+    n.style.scale=1+.05*Math.sin((frac*4%1)*Math.PI);show(mk,P(t,1,.8),{y:10})}}},
+/* 11 EVEN IF YOU NEVER DROP OFF: dawn */
+{id:'11-get-up-and-go',dur:9,build(){night();stage.classList.add('dawn');
+  const ok=el('div','abs',`<div class="li" style="border:none;color:#fff;font-size:48px">${OK}<span>Lying there resting still counts</span></div>`,null,'left:0;right:0;top:250px;display:flex;justify-content:center');
+  const [h1,w1]=serif("Alarm goes? *Get up and go.*",0,400,140,1920,'center');
+  const b=el('div','btn',`YOU'RE READY ${ARROW}`,null,'left:50%;top:700px;transform:translateX(-50%);font-size:52px');
+  const mk=mark();
+  return t=>{const d=P(t,1.5,6,inOut);bgl.style.background=`linear-gradient(180deg, color-mix(in srgb,#2a6fc4 ${d*100}%,var(--navy)) 0%, color-mix(in srgb,#f3b06a ${d*100}%,var(--navy-2)) 100%)`;
+    stars(t,1-d,23);show(ok,P(t,.4,.7),{y:20});stagger(w1,t,3.0,.1);show(b,P(t,6.0,.6,outBack),{y:30,s:.8});show(mk,P(t,1,.8),{y:10})}}},
+];
+
+/* ---------- runtime ---------- */
+let cur=null,upd=null,curDur=0;
+function load(i){cam.innerHTML='';cam.removeAttribute('style');cur=SCENES[i];curDur=cur.dur;upd=cur.build()}
+function frame(t){ctx.clearRect(0,0,1920,1080);cam.style.transform=`scale(${1+.02*t/curDur})`;upd(t);
+  const g=rng(Math.floor(t*24)+1);document.getElementById('grain').style.backgroundPosition=`${Math.floor(g()*256)}px ${Math.floor(g()*256)}px`}
+window.SCENES=SCENES;window.load=load;window.frame=frame;
+const q=new URLSearchParams(location.search);
+if(!q.has('render')){let i=q.has('s')?+q.get('s')-1:0,t0=performance.now();load(i);
+  (function loop(now){let t=(now-t0)/1000;if(t>curDur){if(!q.has('s'))i=(i+1)%SCENES.length;load(i);t0=now;t=0}frame(t);requestAnimationFrame(loop)})(t0)}
+</script>
+</body>
+</html>
