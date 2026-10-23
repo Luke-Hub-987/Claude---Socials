@@ -266,44 +266,100 @@
   .ern .wall.swipe .rcard{flex:0 0 78%;scroll-snap-align:center}
   .ern .swipehint{display:block}
 }
-.ern .msgs2{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin-top:40px;align-items:start}
-@media (max-width:960px){.ern .msgs2{grid-template-columns:1fr;max-width:460px;margin-left:auto;margin-right:auto}}
-.ern .msg-res{display:flex;align-items:baseline;gap:10px;margin:0 0 10px 4px}
-.ern .msg-res b{font:800 34px/1 var(--fd);color:#2DBE6C}
-.ern .msg-res span{font:700 13px var(--fd);letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
-.ern .msg-app{border-radius:22px;overflow:hidden;box-shadow:0 26px 50px -26px rgba(10,23,41,.45);border:1px solid var(--line)}
-.ern .msg-head{display:flex;align-items:center;gap:10px;padding:12px 14px;font-size:14px}
-.ern .msg-head b{display:block;font-weight:700;font-size:15px}
-.ern .msg-head small{display:block;font-size:12px;opacity:.7}
-.ern .msg-head .app{margin-left:auto;font:800 12px var(--fd);letter-spacing:.1em;text-transform:uppercase;opacity:.7}
-.ern .av{flex:none;width:36px;height:36px;border-radius:50%;display:grid;place-items:center;font:700 15px var(--fb);font-style:normal;color:#fff}
-.ern .msg-body{padding:6px 14px 16px}
-.ern .msg-body p{margin:0 0 6px}
-/* Instagram */
-.ern .msg-instagram .msg-app{background:#fff}
-.ern .msg-instagram .msg-head{border-bottom:1px solid #EFEFEF}
-.ern .msg-instagram .av{background:#8a8a8a;box-shadow:0 0 0 2px #fff,0 0 0 4px #E1306C}
-.ern .msg-instagram .bub{background:#EFEFEF;border-radius:20px;padding:9px 14px;display:inline-block;max-width:92%;font-size:15px;line-height:1.4;color:#111}
-.ern .msg-instagram .msg-body{padding-top:12px}
-/* Gmail */
-.ern .msg-gmail .msg-app{background:#fff}
-.ern .msg-gmail .gtop{display:flex;align-items:center;gap:8px;padding:10px 14px;background:#F6F8FC;font:600 13px var(--fb);color:#5f6368}
-.ern .msg-gmail .gm{font:800 18px/1 Arial,sans-serif;letter-spacing:-1px}
-.ern .msg-gmail .gm i{font-style:normal}
-.ern .msg-gmail .av{background:#1A73E8}
-.ern .msg-gmail .bub{font:15px/1.55 Arial,Helvetica,sans-serif;color:#202124;background:none;padding:0;border-radius:0;display:block;max-width:none}
-.ern .msg-gmail .msg-body{padding:4px 18px 18px 60px}
-/* TikTok */
-.ern .msg-tiktok .msg-app{background:#121212;color:#fff;border-color:#121212}
-.ern .msg-tiktok .msg-head{border-bottom:1px solid #2a2a2a}
-.ern .msg-tiktok .av{background:#2a2a2a;box-shadow:-2px 0 0 #25F4EE,2px 0 0 #FE2C55}
-.ern .msg-tiktok .bub{background:#2F2F2F;border-radius:18px;padding:9px 14px;display:inline-block;max-width:92%;font-size:15px;line-height:1.4}
-.ern .msg-tiktok .msg-body{padding-top:12px}
 /* founders link under the hero */
 .ern .madeby{display:flex;align-items:center;gap:12px;text-decoration:none;margin-top:18px;max-width:560px}
 .ern .madeby img{width:52px;height:52px;border-radius:50%;object-fit:cover;flex:none;border:3px solid #fff;box-shadow:0 6px 16px -6px rgba(10,23,41,.4)}
 .ern .madeby span{font-size:14px;color:var(--muted);line-height:1.35}
 .ern .madeby b{display:block;color:var(--ink);font-size:15px}
+/* v8 proof: real messages, rebuilt as the app they came in */
+.ern .chips3{display:flex;gap:8px;overflow-x:auto;margin:26px -20px 14px;padding:0 20px;scrollbar-width:none}
+.ern .chips3::-webkit-scrollbar{display:none}
+.ern .chips3 button{flex:none;display:flex;align-items:center;gap:7px;border:1px solid var(--line);background:#fff;border-radius:999px;padding:9px 14px;font:600 14px var(--fb);color:var(--ink);cursor:pointer}
+.ern .chips3 button b{font-weight:700;color:var(--muted)}
+.ern .chips3 button.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+.ern .chips3 button.on b{color:rgba(255,255,255,.7)}
+.ern .ic{width:20px;height:20px;border-radius:6px;display:grid;place-items:center;font:800 13px/1 Arial,sans-serif;font-style:normal;color:#fff}
+.ern .ic-g{background:#fff;color:#EA4335;box-shadow:inset 0 0 0 1px #ddd}
+.ern .ic-t{background:#000;color:#fff;text-shadow:-1px 0 #25F4EE,1px 0 #FE2C55}
+.ern .ic-i{background:radial-gradient(circle at 30% 107%,#fdf497 0,#fd5949 45%,#d6249f 60%,#285AEB 90%)}
+.ern .rail{display:flex;gap:14px;overflow-x:auto;scroll-snap-type:x mandatory;margin:0 -20px;padding:4px 20px 18px;align-items:flex-start;scrollbar-width:none}
+.ern .rail::-webkit-scrollbar{display:none}
+.ern .railhint{text-align:center;font:700 13px var(--fd);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:2px 0 0}
+.ern .phone2{flex:0 0 84%;max-width:360px;scroll-snap-align:center}
+.ern .phone2[hidden]{display:none!important}
+.ern .ph-tag{display:flex;align-items:baseline;gap:8px;min-height:34px;margin:0 0 8px 6px;flex-wrap:wrap}
+.ern .ph-tag b{font:800 30px/1 var(--fd);color:#2DBE6C}
+.ern .ph-tag span{font:700 12px var(--fd);letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.ern .screen{border-radius:30px;overflow:hidden;border:6px solid #111;box-shadow:0 24px 50px -24px rgba(10,23,41,.55);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif}
+/* Gmail, dark mode, like the screenshots */
+.ern .ph-gmail .screen{background:#1F1F1F;color:#E3E3E3;padding-bottom:12px}
+.ern .g-top{display:flex;justify-content:space-between;padding:12px 16px 4px;font-size:18px;color:#C4C7C5}
+.ern .g-icons{font-size:14px;letter-spacing:4px}
+.ern .g-subj{padding:6px 16px 10px;font-size:21px;line-height:1.25;color:#E3E3E3}
+.ern .g-subj em{font-style:normal;font-size:11px;padding:2px 6px;border-radius:4px;background:#8A5300;color:#FFD08A;margin-left:6px;vertical-align:middle}
+.ern .g-subj em.b{background:#0B57D0;color:#D3E3FD;margin-left:4px}
+.ern .g-row{display:flex;gap:10px;background:#2A2A2A;margin:0 10px 4px;border-radius:14px;padding:10px 12px}
+.ern .g-row p{margin:2px 0 0;font-size:13px;color:#9AA0A6;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:220px}
+.ern .g-l{display:flex;gap:8px;align-items:baseline;font-size:14px}
+.ern .g-l span{font-size:12px;color:#9AA0A6}
+.ern .g-av{flex:none;width:34px;height:34px;border-radius:50%;display:grid;place-items:center;font:500 16px Arial,sans-serif;font-style:normal;color:#fff}
+.ern .g-msg{background:#2A2A2A;margin:0 10px 4px;border-radius:14px;padding:12px}
+.ern .g-h{display:flex;gap:10px;align-items:center}
+.ern .g-h b{font-weight:500;font-size:15px}
+.ern .g-h b span{font-size:12px;color:#9AA0A6;margin-left:6px}
+.ern .g-h small{display:block;font-size:12px;color:#9AA0A6}
+.ern .g-acts{margin-left:auto;color:#9AA0A6;letter-spacing:6px;font-size:14px}
+.ern .g-body{padding:12px 2px 2px;font-size:15px;line-height:1.45}
+.ern .g-body p{margin:0 0 10px}
+.ern .g-body mark{background:#FDD663;color:#202124;padding:0 2px}
+.ern .g-react{display:inline-block;border:1px solid #5F6368;border-radius:8px;padding:3px 9px;font-size:13px}
+.ern .g-me{background:#262626}
+.ern .g-btns{display:flex;gap:6px;padding:10px 10px 0}
+.ern .g-btns span{flex:1;text-align:center;background:#7FCFFF;color:#00344F;border-radius:999px;padding:9px 6px;font-size:13px;font-weight:600}
+.ern .g-btns span:first-child{flex:0 0 40px}
+/* chats: TikTok light, Instagram dark */
+.ern .c-head{display:flex;align-items:center;gap:10px;padding:12px 14px;border-bottom:1px solid rgba(0,0,0,.06)}
+.ern .c-head b{font-size:16px}
+.ern .c-back{font-size:26px;line-height:1}
+.ern .c-icons{margin-left:auto;letter-spacing:8px;font-size:16px}
+.ern .c-av{flex:none;width:28px;height:28px;border-radius:50%;display:grid;place-items:center;font:700 13px Arial,sans-serif;color:#fff;align-self:flex-end}
+.ern .c-av.big{width:36px;height:36px;font-size:15px;align-self:center}
+.ern .c-body{padding:12px 12px 6px;min-height:150px}
+.ern .c-in,.ern .c-out{display:flex;gap:8px;margin:0 0 6px}
+.ern .c-out{justify-content:flex-end}
+.ern .c-b{margin:0;padding:9px 14px;border-radius:20px;font-size:15px;line-height:1.35;max-width:78%;position:relative}
+.ern .c-heart{position:absolute;left:8px;bottom:-14px;font-style:normal;font-size:12px;background:#fff;border-radius:999px;padding:1px 5px;box-shadow:0 1px 3px rgba(0,0,0,.2)}
+.ern .c-in .c-b:has(.c-heart){margin-bottom:12px}
+.ern .c-time,.ern .c-sys{text-align:center;font-size:12px;margin:10px 0 8px;opacity:.6}
+.ern .c-seen{text-align:right;font-size:12px;opacity:.6;margin:-2px 4px 6px}
+.ern .c-img{width:70%;border-radius:16px;margin-left:36px;border:1px solid rgba(0,0,0,.1)}
+.ern .c-link{margin-left:36px;border-radius:16px;padding:10px 14px;max-width:78%}
+.ern .c-link small{display:block;font-size:11px;opacity:.7}
+.ern .c-link b{font-size:15px}
+.ern .c-foot{display:flex;align-items:center;gap:10px;padding:8px 12px 12px}
+.ern .c-foot em{flex:1;font-style:normal;border-radius:999px;padding:9px 14px;font-size:14px;opacity:.6}
+.ern .ph-tiktok .screen{background:#fff;color:#161823}
+.ern .ph-tiktok .c-in .c-b{background:#F1F1F2}
+.ern .ph-tiktok .c-out .c-b{background:#2F6BFF;color:#fff}
+.ern .ph-tiktok .c-link{background:#F1F1F2}
+.ern .ph-tiktok .c-foot em{background:#F1F1F2;opacity:1;color:#8A8B91}
+.ern .ph-instagram .screen{background:#000;color:#F5F5F5}
+.ern .ph-instagram .c-head{border-color:#262626}
+.ern .ph-instagram .c-in .c-b{background:#262626}
+.ern .ph-instagram .c-out .c-b{background:linear-gradient(135deg,#5B51D8,#833AB4);color:#fff}
+.ern .ph-instagram .c-link{background:#262626}
+.ern .ph-instagram .c-heart{background:#262626}
+.ern .ph-instagram .c-foot em{border:1px solid #363636}
+.ern .ph-instagram .c-foot span{width:30px;height:30px;border-radius:50%;background:#3797F0;display:grid;place-items:center;color:#fff;font-size:12px}
+@media (min-width:961px){.ern .rail{display:grid;grid-template-columns:repeat(3,1fr);overflow:visible;margin:0}.ern .phone2{max-width:none}.ern .railhint{display:none}}
+/* hero: a real email as a phone notification */
+.ern .notif{display:flex;gap:10px;align-items:flex-start;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border:1px solid var(--line);border-radius:18px;padding:11px 13px;margin-top:18px;max-width:560px;box-shadow:0 12px 30px -16px rgba(10,23,41,.35);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif}
+.ern .notif .ic{flex:none;width:30px;height:30px;font-size:17px;border-radius:8px}
+.ern .n-top{display:flex;justify-content:space-between;font-size:12px;color:var(--muted)}
+.ern .n-top b{font-weight:600;text-transform:uppercase;letter-spacing:.04em}
+.ern .n-from{display:block;font-size:14px;margin-top:1px}
+.ern .notif p{margin:1px 0 0;font-size:14px;line-height:1.35;color:var(--ink-2)}
+.ern .notif mark{background:#FDD663;padding:0 2px}
 /* why it works */
 .ern .fgrid{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}
 @media (max-width:760px){.ern .fgrid{grid-template-columns:1fr}}
@@ -488,6 +544,7 @@
     </div>
   </div>
   <div class="wrap">
+    <div class="notif"><i class="ic ic-g">M</i><div><div class="n-top"><b>Gmail</b><span>20 Oct</span></div><b class="n-from">Kevin · My marathon plan</b><p>Thank you so much for this guide, you should be <mark>charging</mark> for such valuable information!</p></div></div>
     <a class="madeby" href="#us"><img src="assets/founders.webp" alt="Luke and Jamie" width="800" height="800" loading="lazy"><span><b>Made by Luke &amp; Jamie</b>Two runners who hit the wall and did the maths →</span></a>
     <div class="proofstrip">
       <div class="faces"><i>D</i><i>E</i><i>C</i><i>T</i><i>C</i></div>
@@ -533,14 +590,28 @@
     <div class="center rv" style="margin-top:64px">
       <div class="kicker">In their own words</div>
       <h2>Straight from <em>our inbox.</em></h2>
+      <p class="lede" style="margin-top:12px">Real messages from runners. Names changed for privacy.</p>
     </div>
-    <div class="msgs2">
+    <div class="chips3" id="chips3">
+      <button type="button" class="on" data-f="all">All <b></b></button><button type="button" data-f="gmail"><i class="ic ic-g">M</i>Gmail <b></b></button><button type="button" data-f="tiktok"><i class="ic ic-t">♪</i>TikTok <b></b></button><button type="button" data-f="instagram"><i class="ic ic-i"></i>Instagram <b></b></button>
+    </div>
+    <div class="rail" id="rail">
 <!-- messages:start -->
-      <div class="msg msg-instagram rv"><div class="msg-res"><b>−12 min</b><span>Chip time 3:23:58</span></div><div class="msg-app"><div class="msg-head"><i class="av">★</i><div><b>Instagram reply</b><small>Instagram</small></div><span class="app">Instagram</span></div><div class="msg-body"><p class="bub">‼️</p><p class="bub">12 minute pb ❤️</p></div></div></div>
-      <div class="msg msg-gmail rv"><div class="msg-res"><b>−13 min</b><span>Dublin Marathon</span></div><div class="msg-app"><div class="gtop"><span class="gm"><i style="color:#EA4335">M</i></span>Inbox</div><div class="msg-head"><i class="av">C</i><div><b>Caroline</b><small>to Luke</small></div></div><div class="msg-body"><p class="bub">Not to get emotional, but you made my day with the plan.</p></div></div></div>
-      <div class="msg msg-instagram rv"><div class="msg-res"><b>Goal time hit</b><span>Antwerp Marathon · 3h 28m</span></div><div class="msg-app"><div class="msg-head"><i class="av">★</i><div><b>Instagram message</b><small>Instagram</small></div><span class="app">Instagram</span></div><div class="msg-body"><p class="bub">Hey Luke hope things are well man! Just wanted to let you know that I ... got the time I was looking for.</p><p class="bub">Not to cringe it up or anything but it was one [of] the best days of my life 😂</p></div></div></div>
+      <div class="phone2 ph-tiktok" data-app="tiktok"><div class="ph-tag"><b>3:19:25</b><span>Chicago Marathon · aimed for sub-3:30</span></div><div class="screen"><div class="c-head"><span class="c-back">‹</span><span class="c-av big" style="background:#1A73E8">T</span><b>Tom</b><span class="c-icons">☏ ⋯</span></div><div class="c-body"><div class="c-in"><img class="c-img" src="assets/proof-chicago-splits.webp" alt="Chicago Marathon splits, finish 3:19:25" loading="lazy" width="478" height="842"></div><div class="c-in"><span class="c-av" style="background:#1A73E8">T</span><p class="c-b">Mate!!!</p></div><div class="c-in"><span class="c-av" style="background:#1A73E8">T</span><p class="c-b">3:19:25!!</p></div><div class="c-in"><span class="c-av" style="background:#1A73E8">T</span><p class="c-b">Thankyou mate - did as you said and we got it done 🤝</p></div><div class="c-in"><span class="c-av" style="background:#1A73E8">T</span><p class="c-b">Was dead around 38k but we powered on 🤣</p></div></div><div class="c-foot"><span>📷</span><em>Message...</em></div></div></div>
+      <div class="phone2 ph-gmail" data-app="gmail"><div class="ph-tag"><span>Dublin Marathon · 4:20 plan</span></div><div class="screen"><div class="g-top"><span>‹</span><span class="g-icons">⇩ 🗑 ✉ ⋯</span></div><div class="g-subj">My marathon plan <em>External</em><em class="b">Inbox</em></div><div class="g-row"><i class="g-av" style="background:#5F6368">K</i><div><div class="g-l"><b>Kevin</b><span>18 Oct</span></div><p>Race and date: Dublin Marathon 25/10/...</p></div></div><div class="g-row"><i class="g-av" style="background:#3C4043">L</i><div><div class="g-l"><b>me</b><span>19 Oct</span></div><p>Hey Kevin, Targeting a 4:20 finish fo...</p></div></div><div class="g-msg"><div class="g-h"><i class="g-av" style="background:#12B5CB">K</i><div><b>Kevin <span>20 Oct</span></b><small>to me ⌄</small></div><span class="g-acts">☺ ↩ ⋯</span></div><div class="g-body"><p>Luke,</p><p>Thank you so much for this guide, you should be <mark>charging</mark> for such valuable information!</p><p>I will continue to support you on the social media platforms and try some of your products in the future.</p><p>Thanks again.</p></div></div><div class="g-btns"><span>↩</span><span>Reply all</span><span>Forward</span></div></div></div>
+      <div class="phone2 ph-instagram" data-app="instagram"><div class="ph-tag"><b>−12 min</b><span>Chip time 3:23:58</span></div><div class="screen"><div class="c-head"><span class="c-back">‹</span><span class="c-av big" style="background:#1A73E8">C</span><b>Ciara</b><span class="c-icons">☏ ▭</span></div><div class="c-body"><div class="c-in"><div class="c-link"><small>sporthive.com</small><b>Chip time 03:23:58 · Pace 04:50 min/km</b></div></div><div class="c-in"><span class="c-av" style="background:#1A73E8">C</span><p class="c-b">‼️</p></div><div class="c-in"><span class="c-av" style="background:#1A73E8">C</span><p class="c-b">12 minute pb ❤️</p></div></div><div class="c-foot"><span>◉</span><em>Message...</em></div></div></div>
+      <div class="phone2 ph-gmail" data-app="gmail"><div class="ph-tag"><span>Dublin Marathon · from a 1:29:30 half</span></div><div class="screen"><div class="g-top"><span>‹</span><span class="g-icons">⇩ 🗑 ✉ ⋯</span></div><div class="g-subj">My marathon plan <em>External</em><em class="b">Inbox</em></div><div class="g-row"><i class="g-av" style="background:#5F6368">M</i><div><div class="g-l"><b>Mark</b><span>20 Oct</span></div><p>Race and date: Dublin Marathon, 25th...</p></div></div><div class="g-row"><i class="g-av" style="background:#3C4043">L</i><div><div class="g-l"><b>me</b><span>21 Oct</span></div><p>Hey Mark, A 1:29:30 half marathon is a...</p></div></div><div class="g-msg"><div class="g-h"><i class="g-av" style="background:#D93025">M</i><div><b>Mark <span>22 Oct</span></b><small>to me ⌄</small></div><span class="g-acts">☺ ↩ ⋯</span></div><div class="g-body"><p>Hi Luke,</p><p>Thank you getting back to me. This is really helpful. I should be able to program those target pace zones in to my garmin watch.</p><p>I&#x27;ll follow the plan and the fueling protocol. If you&#x27;re running Sunday or another marathon later in the year best of luck to you!</p><p>Mark</p></div></div><div class="g-btns"><span>↩</span><span>Reply all</span><span>Forward</span></div></div></div>
+      <div class="phone2 ph-instagram" data-app="instagram"><div class="ph-tag"><b>3h 28m</b><span>Antwerp Marathon · goal time hit</span></div><div class="screen"><div class="c-head"><span class="c-back">‹</span><span class="c-av big" style="background:#0B8043">S</span><b>Sean</b><span class="c-icons">☏ ▭</span></div><div class="c-body"><div class="c-in"><div class="c-link"><small>Strava</small><b>Antwerp Marathon · 42.23 km · 3h 28m</b></div></div><div class="c-in"><span class="c-av" style="background:#0B8043">S</span><p class="c-b">Hey Luke hope things are well man! Just wanted to let you know that I ... got the time I was looking for.</p></div><div class="c-in"><span class="c-av" style="background:#0B8043">S</span><p class="c-b">Not to cringe it up or anything but it was one [of] the best days of my life 😂</p></div></div><div class="c-foot"><span>◉</span><em>Message...</em></div></div></div>
+      <div class="phone2 ph-tiktok" data-app="tiktok"><div class="ph-tag"><span>Plan sent the day before</span></div><div class="screen"><div class="c-head"><span class="c-back">‹</span><span class="c-av big" style="background:#C5221F">O</span><b>Orla</b><span class="c-icons">☏ ⋯</span></div><div class="c-body"><div class="c-time">Yesterday 8:55 am</div><div class="c-out"><p class="c-b">Should be with you now Orla!</p></div><div class="c-seen">Seen</div><div class="c-in"><span class="c-av" style="background:#C5221F">O</span><p class="c-b">Thank you SO much. I have it! Just in work so will read later. Really appreciate it sooooo much!<i class="c-heart">❤️</i></p></div></div><div class="c-foot"><span>📷</span><em>Message...</em></div></div></div>
+      <div class="phone2 ph-gmail" data-app="gmail"><div class="ph-tag"><span>Dublin Marathon · from a 1:18 half</span></div><div class="screen"><div class="g-top"><span>‹</span><span class="g-icons">⇩ 🗑 ✉ ⋯</span></div><div class="g-subj">RACE WEEK: My marathon plan <em>External</em><em class="b">Inbox</em></div><div class="g-row"><i class="g-av" style="background:#5F6368">E</i><div><div class="g-l"><b>Eoin</b><span>22 Oct</span></div><p>Race and date: Sunday 25th Dublin Ma...</p></div></div><div class="g-row"><i class="g-av" style="background:#3C4043">L</i><div><div class="g-l"><b>me</b><span>22 Oct</span></div><p>Hey Eoin, A 1:18 half and a 2:52 in Cor...</p></div></div><div class="g-msg"><div class="g-h"><i class="g-av" style="background:#D93025">E</i><div><b>Eoin <span>22 Oct</span></b><small>to me ⌄</small></div><span class="g-acts">☺ ↩ ⋯</span></div><div class="g-body"><p>This is great, thank you so much!</p><p>Kind regards</p><p>Eoin</p></div></div><div class="g-msg g-me"><div class="g-h"><i class="g-av" style="background:#3C4043">L</i><div><b>me</b><small>to Eoin</small></div></div><div class="g-body"><p>No worries at all, Eoin. Go get it done on Sunday!</p></div></div><div class="g-btns"><span>↩</span><span>Reply all</span><span>Forward</span></div></div></div>
+      <div class="phone2 ph-instagram" data-app="instagram"><div class="ph-tag"><span>Dublin Marathon</span></div><div class="screen"><div class="c-head"><span class="c-back">‹</span><span class="c-av big" style="background:#12B5CB">N</span><b>Niamh</b><span class="c-icons">☏ ▭</span></div><div class="c-body"><div class="c-sys">Replied to your story: “Marathon questions for Dublin and giving free personalised pace plans”</div><div class="c-in"><span class="c-av" style="background:#12B5CB">N</span><p class="c-b">Just wanted to say thanks, your videos have helped</p></div><div class="c-out"><p class="c-b">Unreal Niamh - give it socks on the day!</p></div><div class="c-seen">Seen</div></div><div class="c-foot"><span>◉</span><em>Message...</em></div></div></div>
+      <div class="phone2 ph-tiktok" data-app="tiktok"><div class="ph-tag"><span>3:40 plan</span></div><div class="screen"><div class="c-head"><span class="c-back">‹</span><span class="c-av big" style="background:#0B8043">S</span><b>Sarah</b><span class="c-icons">☏ ⋯</span></div><div class="c-body"><div class="c-time">Monday 9:17 pm</div><div class="c-out"><p class="c-b">Should be with you now Sarah!</p></div><div class="c-seen">Seen</div><div class="c-time">Monday 10:14 pm</div><div class="c-in"><span class="c-av" style="background:#0B8043">S</span><p class="c-b">Perfect thank you I’ll have a wee look</p></div><div class="c-time">Monday 10:20 pm</div><div class="c-in"><span class="c-av" style="background:#0B8043">S</span><p class="c-b">That’s so good much appreciated Luke<i class="c-heart">❤️</i></p></div></div><div class="c-foot"><span>📷</span><em>Message...</em></div></div></div>
+      <div class="phone2 ph-gmail" data-app="gmail"><div class="ph-tag"><span>Jervis Bay, Australia</span></div><div class="screen"><div class="g-top"><span>‹</span><span class="g-icons">⇩ 🗑 ✉ ⋯</span></div><div class="g-subj">My marathon plan <em>External</em><em class="b">Inbox</em></div><div class="g-row"><i class="g-av" style="background:#5F6368">B</i><div><div class="g-l"><b>Ben</b><span>22 Oct</span></div><p>Race and date: Husskerson, Jervis Bay...</p></div></div><div class="g-row"><i class="g-av" style="background:#3C4043">L</i><div><div class="g-l"><b>me</b><span>22 Oct</span></div><p>Hey Ben, Great to hear from you lad!...</p></div></div><div class="g-msg"><div class="g-h"><i class="g-av" style="background:#12B5CB">B</i><div><b>Ben <span>22 Oct</span></b><small>to me ⌄</small></div><span class="g-acts">☺ ↩ ⋯</span></div><div class="g-body"><p>Thank you Luke!!</p><p>Keep up the videos, enjoying them all 🫡</p></div><div class="g-react">🙌 1</div></div><div class="g-btns"><span>↩</span><span>Reply all</span><span>Forward</span></div></div></div>
+      <div class="phone2 ph-gmail" data-app="gmail"><div class="ph-tag"><span>Race week</span></div><div class="screen"><div class="g-top"><span>‹</span><span class="g-icons">⇩ 🗑 ✉ ⋯</span></div><div class="g-subj">My marathon plan <em>External</em><em class="b">Inbox</em></div><div class="g-row"><i class="g-av" style="background:#5F6368">D</i><div><div class="g-l"><b>Darragh</b><span>17 Oct</span></div><p>Race week!! Hi lads, Thanks a mil for t...</p></div></div><div class="g-row"><i class="g-av" style="background:#3C4043">L</i><div><div class="g-l"><b>me</b><span>22 Oct</span></div><p>Hey Darragh - Yeah your logic makes com...</p></div></div><div class="g-msg"><div class="g-h"><i class="g-av" style="background:#188038">D</i><div><b>Darragh <span>22 Oct</span></b><small>to me ⌄</small></div><span class="g-acts">☺ ↩ ⋯</span></div><div class="g-body"><p>This is great, thanks so much for the advice Luke!</p></div></div><div class="g-btns"><span>↩</span><span>Reply all</span><span>Forward</span></div></div></div>
+      <div class="phone2 ph-gmail" data-app="gmail"><div class="ph-tag"><span>Dublin Marathon · 3:22 plan</span></div><div class="screen"><div class="g-top"><span>‹</span><span class="g-icons">⇩ 🗑 ✉ ⋯</span></div><div class="g-subj">My marathon plan <em>External</em><em class="b">Inbox</em></div><div class="g-row"><i class="g-av" style="background:#5F6368">S</i><div><div class="g-l"><b>Shane</b><span>18 Oct</span></div><p>Race and date: Dublin Marathon 25 Oc...</p></div></div><div class="g-row"><i class="g-av" style="background:#3C4043">L</i><div><div class="g-l"><b>me</b><span>19 Oct</span></div><p>Hey Shane Targeting a 3:22 finish lad at...</p></div></div><div class="g-msg"><div class="g-h"><i class="g-av" style="background:#0B8043">S</i><div><b>Shane <span>23 Oct</span></b><small>to me ⌄</small></div><span class="g-acts">☺ ↩ ⋯</span></div><div class="g-body"><p>Thank you, Luke - great guidance!</p><p>Sent from my iPhone</p></div></div><div class="g-btns"><span>↩</span><span>Reply all</span><span>Forward</span></div></div></div>
 <!-- messages:end -->
     </div>
+    <p class="railhint">Swipe for more →</p>
     <div class="label rv tellus" id="tell-us">
       <div class="band">Ran with our plan? Tell us your time</div>
       <div class="body">
@@ -751,6 +822,21 @@
   fromSlider();
   var started = false;
   $('planForm').addEventListener('focusin', function(){ if (!started) { started = true; ERN.track('plan_form_started'); } });
+
+  // message filters: All / Gmail / TikTok / Instagram, with live counts
+  (function(){
+    var rail = $('rail'), cards = [].slice.call(rail.querySelectorAll('.phone2'));
+    [].forEach.call($('chips3').children, function(btn){
+      var f = btn.getAttribute('data-f');
+      btn.querySelector('b').textContent = cards.filter(function(c){ return f === 'all' || c.getAttribute('data-app') === f; }).length;
+      btn.addEventListener('click', function(){
+        [].forEach.call($('chips3').children, function(x){ x.classList.toggle('on', x === btn); });
+        cards.forEach(function(c){ c.hidden = !(f === 'all' || c.getAttribute('data-app') === f); });
+        rail.scrollTo({ left: 0, behavior: 'smooth' });
+        ERN.track('proof_filter', { filter: f });
+      });
+    });
+  })();
 
   // marquee
   var words = ['Your time at every 10K sign', 'Km and miles', '30g of carbs on the clock', '1M+ views', 'Made in Ireland', 'Free, on screen'];

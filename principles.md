@@ -4952,22 +4952,25 @@ audience knows doesn't land.
 
 *Source: Luke, 21 October.*
 
-## P143 — Proof is real results, first names only when Luke gives them
+## P143 — Proof is real messages: names changed, words untouched
 
-Luke, 21 October: no names in the proof. Luke, 22 October, updating it: use
-the first names of runners he lists (Tom, Dave, Caroline, Ellie, Conor), all
-from messages on Instagram and by email. Named results give the page more
-credibility.
+Luke, 21 to 23 October. First no names; then first names he'd cleared; then
+(23 Oct) a batch of real screenshots from Gmail, Instagram and TikTok with
+"change the names of these people", shown so they look like they came
+straight from the app, because that's where people already trust them.
 
 **The rule:**
-- Lead with the result: time off, chip time, goal vs actual, race.
-- First names only, and only the ones Luke has given. Nobody else's name,
-  even if it's visible in a screenshot.
-- Quote messages word for word, with "..." for cuts and [ ] for added words.
-  Never invent a name, a result or a quote; a missing quote is a placeholder.
-- Applies to the site, emails, captions and videos.
+- The words are exactly what the runner sent ("..." for cuts, [ ] for
+  added words). Never invent a message, a result or a reply.
+- Names are changed, and the page says so ("Names changed for privacy").
+  Change a name everywhere it appears, including Luke's own replies.
+- Never show surnames, handles, profile photos, email addresses or
+  anything private (Kate's email bubble was cut).
+- Rebuild each message in the look of its app (Gmail dark, TikTok, Instagram)
+  from the real screenshot; keep real result images (e.g. Chicago splits).
+- Data lives in `website/proof_data.py`. Applies to site, emails, captions.
 
-*Source: Luke, 21 and 22 October.*
+*Source: Luke, 21, 22 and 23 October.*
 
 ## P144 — The plan shows on screen after the email; be upfront about spam
 
