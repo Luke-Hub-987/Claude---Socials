@@ -13,7 +13,8 @@
        plan_10k set        : their own plan, at the top
        bar_waitlist only   : "you're on the list", then the free plan offer
        result_time only    : thanks for the result, then the plan offer
-       nothing (no goal)   : the original email: reply with your race
+       nothing (no plan)   : the original email, pointing to the site for a plan
+     Nobody is promised a hand-written plan: the site builds it (Luke, 23 Oct).
      Nested if/else on purpose: it works in every Klaviyo editor.
      Every tag sits inside a table cell or a paragraph, never between
      table rows: the editor reads the email as a web page, and a browser
@@ -81,7 +82,7 @@ a { text-decoration:none; }
 
 <!-- PREHEADER: the grey line after the subject in the inbox -->
 <div style="display:none; max-height:0; overflow:hidden; mso-hide:all; font-size:1px; line-height:1px; color:#eef1f6;">
-{% if person|lookup:'plan_10k' %}Your time at every 10K sign, your watch pace and when to take each gel. Keep this for race morning.{% else %}{% if person|lookup:'bar_waitlist' %}You're on the Carb Bar list. While you wait, here's a free plan for your marathon.{% else %}Send me your race and goal time. Here's what to do on race day until your plan arrives.{% endif %}{% endif %}
+{% if person|lookup:'plan_10k' %}Your time at every 10K sign, your watch pace and when to take each gel. Keep this for race morning.{% else %}{% if person|lookup:'bar_waitlist' %}You're on the Carb Bar list. While you wait, get your free marathon plan in 30 seconds.{% else %}Your marathon plan on screen in 30 seconds, plus four rules for race day.{% endif %}{% endif %}
 &#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;
 </div>
 
@@ -138,7 +139,7 @@ a { text-decoration:none; }
     </tr>
     <tr>
       <td style="padding-top:14px; font-family:'DM Sans',Arial,sans-serif; font-size:16px; line-height:1.55; color:#c9d2e3;">
-        <div class="up3">The Engine Room Carb Bar is a rice crisp square with 30g of carbs, made in Ireland for race morning. When the first batch is ready, you'll hear before anyone else. Until then, here's a free plan for your marathon.</div>
+        <div class="up3">The Engine Room Carb Bar is a rice crisp square with 30g of carbs, made in Ireland for race morning. When the first batch is ready, you'll hear before anyone else. Until then, get your free marathon plan on our site. It takes 30 seconds.</div>
       </td>
     </tr>
     </table>
@@ -157,7 +158,7 @@ a { text-decoration:none; }
     </tr>
     <tr>
       <td style="padding-top:14px; font-family:'DM Sans',Arial,sans-serif; font-size:16px; line-height:1.55; color:#c9d2e3;">
-        <div class="up3">Honestly, these are the best emails we get. Got another marathon coming? Reply with the race and your goal time and I'll send back your pace, your gel times and how each 10K should feel.</div>
+        <div class="up3">Honestly, these are the best emails we get. Got another marathon coming? Get your plan for it on our site in 30 seconds: your pace, your gel times and how each 10K should feel.</div>
       </td>
     </tr>
     </table>
@@ -170,12 +171,12 @@ a { text-decoration:none; }
     </tr>
     <tr>
       <td class="hero-sub" style="padding-top:10px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:25px; font-weight:900; font-style:italic; line-height:1.1; color:#3b82f6; text-transform:uppercase;">
-        <div class="up2">Reply with your race and goal time</div>
+        <div class="up2">On your screen in 30 seconds</div>
       </td>
     </tr>
     <tr>
       <td style="padding-top:14px; font-family:'DM Sans',Arial,sans-serif; font-size:16px; line-height:1.55; color:#c9d2e3;">
-        <div class="up3">I'll send back your pace, your gel times and how each 10K should feel. Below are four rules you can use on race day either way.</div>
+        <div class="up3">Pick your race and drag the clock to your goal time on our site, and your plan shows straight away: your pace, your gel times and how each 10K should feel. Below are four rules you can use on race day either way.</div>
       </td>
     </tr>
     </table>
@@ -365,30 +366,30 @@ a { text-decoration:none; }
   </p>
 
   <p style="margin:0 0 20px 0; font-family:'DM Sans',Arial,sans-serif; font-size:16px; line-height:1.7; color:#333333;">
-    Below are four rules from those videos that work for most runners. Under them is a full plan built from those rules for someone aiming to finish under four hours. If you want a plan worked out for your own race, reply to this email. I read every reply myself.
+    Below are four rules from those videos that work for most runners. Under them is a full plan built from those rules for someone aiming to finish under four hours. For your own race, our site builds the same plan for your goal time in 30 seconds.
   </p>
 
   <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
     <tr>
       <td style="border-left:3px solid #3b82f6; padding:2px 0 2px 14px; font-family:'DM Sans',Arial,sans-serif; font-size:17px; font-weight:700; line-height:1.5; color:#0a0f1e;">
-        Two things are all I need from you: your race and your goal time.
+        All it needs is your race and your goal time.
       </td>
     </tr>
   </table>
 </td>
 </tr>
 
-<!-- ============ TOP REPLY BUTTON ============ -->
+<!-- ============ TOP BUTTON: get the plan on the site ============ -->
 <tr>
 <td class="pad" style="background-color:#ffffff; padding:22px 28px 0 28px;">
   <table role="presentation" cellpadding="0" cellspacing="0" border="0">
     <tr>
       <td style="background-color:#2563eb; border-radius:6px;">
-        <a href="mailto:luke@engineroomnutrition.com?subject=My%20marathon%20plan&amp;body=Race%20and%20date%3A%20%0D%0AGoal%20time%3A%20%0D%0A%0D%0AOptional%3A%0D%0AA%20recent%20time%3A%20%0D%0AWhat%20I%20eat%20or%20drink%20on%20long%20runs%3A%20%0D%0A" style="display:inline-block; padding:14px 26px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:17px; font-weight:800; letter-spacing:1px; color:#ffffff; text-transform:uppercase;">Reply with my race</a>
+        <a href="https://engineroomnutrition.com/?utm_source=klaviyo&amp;utm_medium=email&amp;utm_campaign=welcome#get-plan" target="_blank" style="display:inline-block; padding:14px 26px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:17px; font-weight:800; letter-spacing:1px; color:#ffffff; text-transform:uppercase;">Get my free plan</a>
       </td>
     </tr>
   </table>
-  <p style="margin:10px 0 0 0; font-family:'DM Sans',Arial,sans-serif; font-size:14px; line-height:1.6; color:#666666;">Or press reply in your email app and send me your race and goal time. Rather have it now? Drag the clock to your goal at <a href="https://engineroomnutrition.com/" target="_blank" style="color:#2563eb; text-decoration:underline;">engineroomnutrition.com</a> and your plan shows on screen.</p>
+  <p style="margin:10px 0 0 0; font-family:'DM Sans',Arial,sans-serif; font-size:14px; line-height:1.6; color:#666666;">Your plan shows on screen, and you can save it to your phone's lock screen. No goal yet? Reply with your last half marathon time and I'll help you pick one.</p>
 </td>
 </tr>
 </table>
@@ -604,12 +605,12 @@ a { text-decoration:none; }
 </td>
 </tr>
 
-<!-- ============ THE ASK ============ -->
+<!-- ============ THE ASK: get your own plan on the site ============ -->
 <tr>
 <td class="pad" style="background-color:#ffffff; padding:28px 28px 0 28px;">
   <div style="font-family:'DM Sans',Arial,sans-serif; font-size:12px; font-weight:700; letter-spacing:1.5px; color:#2563eb; text-transform:uppercase;">Your own plan</div>
-  <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:28px; font-weight:800; color:#0a0f1e; text-transform:uppercase; padding:6px 0 8px 0; letter-spacing:0.5px;">Reply with your race and goal time</div>
-  <p style="margin:0 0 18px 0; font-family:'DM Sans',Arial,sans-serif; font-size:16px; line-height:1.7; color:#444444;">That's all I need. Numbers 3 and 4 are optional, but they make your plan more accurate. No goal yet? Send your last half marathon time and I'll work one out with you.</p>
+  <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:28px; font-weight:800; color:#0a0f1e; text-transform:uppercase; padding:6px 0 8px 0; letter-spacing:0.5px;">Get yours in 30 seconds</div>
+  <p style="margin:0 0 18px 0; font-family:'DM Sans',Arial,sans-serif; font-size:16px; line-height:1.7; color:#444444;">The plan above is for under four hours. Our site builds the same thing for your goal time:</p>
 
   <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
     <tr>
@@ -619,7 +620,7 @@ a { text-decoration:none; }
         </table></span>
       </td>
       <td valign="top" style="padding-bottom:14px;">
-        <div style="font-family:'DM Sans',Arial,sans-serif; font-size:16px; font-weight:600; color:#0a0f1e; padding-top:2px;">Your race and the date</div>
+        <div style="font-family:'DM Sans',Arial,sans-serif; font-size:16px; font-weight:600; color:#0a0f1e; padding-top:2px;">Drag the clock to your goal time</div>
       </td>
     </tr>
     <tr>
@@ -629,7 +630,7 @@ a { text-decoration:none; }
         </table></span>
       </td>
       <td valign="top" style="padding-bottom:14px;">
-        <div style="font-family:'DM Sans',Arial,sans-serif; font-size:16px; font-weight:600; color:#0a0f1e; padding-top:2px;">Your goal time</div>
+        <div style="font-family:'DM Sans',Arial,sans-serif; font-size:16px; font-weight:600; color:#0a0f1e; padding-top:2px;">Pick your race</div>
       </td>
     </tr>
     <tr>
@@ -639,22 +640,20 @@ a { text-decoration:none; }
         </table></span>
       </td>
       <td valign="top" style="padding-bottom:14px;">
-        <div style="font-family:'DM Sans',Arial,sans-serif; font-size:16px; font-weight:600; color:#0a0f1e; padding-top:2px;">One recent time <span style="font-weight:400; color:#777777;">(optional)</span></div>
-        <div style="font-family:'DM Sans',Arial,sans-serif; font-size:15px; line-height:1.6; color:#555555; padding-top:2px;">Any race result, or your longest run and how long it took.</div>
-      </td>
-    </tr>
-    <tr>
-      <td width="38" valign="top">
-        <span class="pop4"><table role="presentation" cellpadding="0" cellspacing="0" border="0" width="26" style="width:26px; height:26px; background-color:#2563eb; border-radius:13px;">
-          <tr><td align="center" valign="middle" style="height:26px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:14px; font-weight:900; color:#ffffff;">4</td></tr>
-        </table></span>
-      </td>
-      <td valign="top" style="padding-bottom:4px;">
-        <div style="font-family:'DM Sans',Arial,sans-serif; font-size:16px; font-weight:600; color:#0a0f1e; padding-top:2px;">What you eat or drink on long runs now <span style="font-weight:400; color:#777777;">(optional)</span></div>
-        <div style="font-family:'DM Sans',Arial,sans-serif; font-size:15px; line-height:1.6; color:#555555; padding-top:2px;">Tell me even if the answer is water only, or nothing at all.</div>
+        <div style="font-family:'DM Sans',Arial,sans-serif; font-size:16px; font-weight:600; color:#0a0f1e; padding-top:2px;">Your plan shows on screen</div>
+        <div style="font-family:'DM Sans',Arial,sans-serif; font-size:15px; line-height:1.6; color:#555555; padding-top:2px;">Your watch pace in km and miles, your race clock at every 10K sign, and when to take each gel.</div>
       </td>
     </tr>
   </table>
+
+  <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="margin-top:8px;">
+    <tr>
+      <td style="background-color:#2563eb; border-radius:6px;">
+        <a href="https://engineroomnutrition.com/?utm_source=klaviyo&amp;utm_medium=email&amp;utm_campaign=welcome#get-plan" target="_blank" style="display:inline-block; padding:14px 26px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:17px; font-weight:800; letter-spacing:1px; color:#ffffff; text-transform:uppercase;">Get my free plan</a>
+      </td>
+    </tr>
+  </table>
+  <p style="margin:12px 0 0 0; font-family:'DM Sans',Arial,sans-serif; font-size:14px; line-height:1.6; color:#666666;">No goal yet? Reply with your last half marathon time, or your longest run and how long it took, and I'll help you pick one.</p>
 </td>
 </tr>
 </table>
@@ -670,7 +669,7 @@ a { text-decoration:none; }
       <td style="padding:24px 22px;">
         <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:24px; font-weight:900; color:#ffffff; text-transform:uppercase; line-height:1.1; letter-spacing:0.5px;">Race in the next seven days?</div>
         <p style="margin:8px 0 18px 0; font-family:'DM Sans',Arial,sans-serif; font-size:16px; line-height:1.7; color:rgba(255,255,255,0.85);">
-          Put <strong style="color:#ffffff;">RACE WEEK</strong> at the top of your reply and I'll {% if person|lookup:'plan_10k' %}answer yours first{% else %}do yours first{% endif %}.
+          {% if person|lookup:'plan_10k' %}Put <strong style="color:#ffffff;">RACE WEEK</strong> at the top of your reply and I'll answer yours first.{% else %}Don't wait on an email. Your plan takes 30 seconds on our site. Got a question about it after? Put <strong style="color:#ffffff;">RACE WEEK</strong> at the top of a reply and I'll answer yours first.{% endif %}
         </p>
 
         <table role="presentation" cellpadding="0" cellspacing="0" border="0">
@@ -679,13 +678,13 @@ a { text-decoration:none; }
 {% if person|lookup:'plan_10k' %}
               <a href="mailto:luke@engineroomnutrition.com?subject=My%20pace%20plan&amp;body=My%20goal%3A%20%0D%0AA%20recent%20time%3A%20%0D%0AWhat%20I%20eat%20or%20drink%20on%20long%20runs%3A%20%0D%0AMy%20question%3A%20%0D%0A" style="display:inline-block; padding:14px 26px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:16px; font-weight:800; letter-spacing:1px; color:#ffffff; text-transform:uppercase;">Reply to Luke</a>
 {% else %}
-              <a href="mailto:luke@engineroomnutrition.com?subject=My%20marathon%20plan&amp;body=Race%20and%20date%3A%20%0D%0AGoal%20time%3A%20%0D%0A%0D%0AOptional%3A%0D%0AA%20recent%20time%3A%20%0D%0AWhat%20I%20eat%20or%20drink%20on%20long%20runs%3A%20%0D%0A" style="display:inline-block; padding:14px 26px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:16px; font-weight:800; letter-spacing:1px; color:#ffffff; text-transform:uppercase;">Reply with my race</a>
+              <a href="https://engineroomnutrition.com/?utm_source=klaviyo&amp;utm_medium=email&amp;utm_campaign=welcome#get-plan" target="_blank" style="display:inline-block; padding:14px 26px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:16px; font-weight:800; letter-spacing:1px; color:#ffffff; text-transform:uppercase;">Get my free plan</a>
 {% endif %}
             </td>
           </tr>
         </table>
         <p style="margin:12px 0 0 0; font-family:'DM Sans',Arial,sans-serif; font-size:14px; line-height:1.6; color:#aab6cf;">
-          If the button doesn't open your email, press reply instead.{% if person|lookup:'plan_10k' %}{% else %} Already emailed us your race? Your plan is on its way, no need to send it again.{% endif %}
+          {% if person|lookup:'plan_10k' %}If the button doesn't open your email, press reply instead.{% else %}Works on your phone. Your plan shows on screen, ready to save.{% endif %}
         </p>
       </td>
     </tr>
