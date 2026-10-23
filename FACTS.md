@@ -90,3 +90,13 @@ with the date.
 - Line one must pass the real-life test: a runner in the start pen
   wouldn't say "obviously".
 - Pain and dream: only things runners have actually described.
+
+## Retention facts (our reels, P145)
+- First 3 seconds: opening frame showing the hook (goal gone +3:00, 31.9%
+  skip) beats a crowd (3:30, 48.9%).
+- Best watch: without the wall, 39s on 1:37, named unknown answered last.
+- A "why" stage after the method loses about half the remaining viewers
+  (goal gone at 1:13). The CTA can too (4:30 at 0:40).
+- Over 1:40 slides (how hard 1:48). Posting time doesn't predict views
+  (0.19, P144).
+- Saves follow clock-time schedules; shares follow tribe moments.
