@@ -204,6 +204,7 @@ your marathon. 4:30 goes TikTok-only. Luke's goal: 1M lifetime IG views
 
 Waiting on Luke: yes on the start pen brief for Fri 23 (in chat; double portaloo queue); did the goal-gone trial reels run; race weekend plan `ideas/engine-room-nutrition/2026-10-22-race-weekend-plan.md`.
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
+Motion graphics (22 Oct, Luke asked): `motion/` renders 16:9 scene clips for the top half of the reel (`motion/README.md`). Goal gone is built in placeholder colours; waiting on Luke's logo to set the brand colours. Run it as a trial reel A/B against the plain version: the checklist still says only the title and stage markers on screen (P84, P95).
 
 Rejected topics: the last 10K (covered across six videos); anything
 after the finish line (Luke, 15 Oct); in-race fuel amounts while the
