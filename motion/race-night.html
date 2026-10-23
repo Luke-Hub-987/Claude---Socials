@@ -125,19 +125,19 @@ function serif(text,x,y,size,w,align){const n=el('div','abs serif','',null,`left
 const SCENES=[
 /* 01 HOOK: "...you'll probably sleep badly the night before, and it won't cost you your race." */
 {id:'01-hook',dur:9,build(){night();
-  const eb=eyebrow('The night before your marathon',120,170);
+  const eb=eyebrow('If you’re running a marathon',120,170);
   const [h1,w1]=serif("You’ll sleep *badly.*",116,240,150,820);
   const [h2,w2]=serif("And it won’t cost you *your race.*",120,580,84,760);
-  const pn=el('div','panel',`<div class="plabel"><b></b>HOURS SLEPT · NIGHT BEFORE</div>
-    <div style="display:flex;align-items:baseline;gap:14px;margin-top:24px"><span class="digits v" style="font-size:230px">8</span><span class="digits" style="font-size:80px;opacity:.85">HRS</span></div>
-    <div style="position:relative;height:10px;border-radius:5px;background:rgba(255,255,255,.12);margin-top:34px"><div class="fill" style="position:absolute;left:0;top:0;bottom:0;border-radius:5px;background:var(--gold)"></div><div class="knob" style="position:absolute;top:-13px;width:36px;height:36px;border-radius:50%;background:#fff;box-shadow:0 0 0 6px rgba(245,181,46,.35)"></div></div>
-    <div class="bc" style="display:flex;justify-content:space-between;margin-top:22px;font-weight:700;font-size:26px;letter-spacing:2px;color:rgba(255,255,255,.45)"><span>0</span><span>4</span><span>8</span></div>`,null,'left:1060px;top:230px;width:680px;padding:46px 52px');
-  const v=pn.querySelector('.v'),fill=pn.querySelector('.fill'),knob=pn.querySelector('.knob');
-  const ch=el('div','chip',`${OK.replace('class="ok"','class="ok" style="width:44px;height:44px"')}RACE STILL ON`,null,'left:1060px;top:760px;background:#fff;color:var(--green)');
+  const pn=el('div','panel',`<div class="plabel"><b></b>THE NIGHT BEFORE YOUR MARATHON</div>
+    <div style="display:flex;align-items:baseline;gap:18px;margin-top:20px"><span class="digits" style="font-size:250px">2<span class="col">:</span>00</span><span class="digits" style="font-size:90px">AM</span></div>
+    <div class="bc" style="margin-top:18px;font-weight:700;font-size:30px;letter-spacing:3px;color:rgba(255,255,255,.55)">STILL AWAKE</div>`,null,'left:1040px;top:220px;width:700px;padding:46px 56px');
+  const col=pn.querySelector('.col');
+  const ch=el('div','chip',`${OK.replace('class="ok"','class="ok" style="width:44px;height:44px"')}RACE STILL ON`,null,'left:1040px;top:760px;background:#fff;color:var(--green)');
   const mk=mark();
-  return t=>{stars(t,P(t,0,1.5));moon(1680,130,46,P(t,.2,1.5)*.9);show(eb,P(t,.3,.8),{x:-30,y:0});stagger(w1,t,.6,.12);
-    show(pn,P(t,1.2,.9),{x:40,y:0,s:.96});const h=lerp(8,4,P(t,2.4,1.8,inOut));v.textContent=Math.round(h);fill.style.width=(h/8*100)+'%';knob.style.left=`calc(${h/8*100}% - 18px)`;
-    stagger(w2,t,4.6,.09,{y:30,blur:12});show(ch,P(t,6.4,.6,outBack),{y:20,s:.8});show(mk,P(t,1,.8),{y:10})}}},
+  /* frame 0 is the cover: headline, clock and moon already in place */
+  return t=>{stars(t,1);moon(1700,120,46,.9);show(eb,1);w1.forEach(w=>show(w,1));show(pn,1);show(mk,1);
+    col.style.opacity=Math.floor(t*2)%2?.25:1;
+    stagger(w2,t,4.6,.09,{y:30,blur:12});show(ch,P(t,6.4,.6,outBack),{y:20,s:.8})}}},
 /* 02 PAIN: 2am, the maths, the phone, the alarm */
 {id:'02-2am',dur:13,build(){night();
   const eb=eyebrow('2am, the night before',120,170);
