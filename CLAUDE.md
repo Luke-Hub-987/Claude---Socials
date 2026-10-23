@@ -186,10 +186,11 @@ half 17.6K at 14h; sub-4 at every 10K 14.5K at 18h (skip 40.8%) but
 best); quit ~14K at 14h; Dublin course (small reach, deepest
 engagement); taper and heavy legs missed.
 
-Latest review: `ideas/2026-10-21-gel-review.md` (gel at ~5h: 5.8K, below
-typical; skip 35.8% good, saves 1.0%: most viewers don't have the problem;
-pick fears most of the audience has). Before it: 4:30 (14.6K at 10.5h,
-skip 37.0%, best goal-time); 3:30 (skip 48.9%); 3:45 (29.1K).
+Latest review: `ideas/2026-10-23-goal-gone-review.md` (goal gone at ~9h,
+10pm post: 6.5K, **skip 31.9% joint best** with a motion graphic of the hook
+as the opening frame; save 2.4%; share 0.1%; the "why" rehook stage lost
+half the remaining viewers). Before it: gel (5.8K, narrow topic); 4:30
+(14.6K, skip 37.0%); 3:45 (29.1K).
 Earlier: cold marathon (real cover 35.1% skip, 0.9% saves; AI covers
 retired), carb load (52.8K, our #2).
 
@@ -201,7 +202,7 @@ your half marathon time into a marathon goal (incl. after illness). Fri 23
 your marathon. 4:30 goes TikTok-only. Luke's goal: 1M lifetime IG views
 (840K on 19 Oct). Every pace in km and miles in captions (P129).
 
-Waiting on Luke: goal gone script v2 delivered (2 numbers on the wrist, P143; `ideas/engine-room-nutrition/2026-10-22-script-goal-gone.md`, post Thu 22 12:30 after trial reels A/B at 8am); next brief: start pen (Fri 23); race weekend plan in `ideas/engine-room-nutrition/2026-10-22-race-weekend-plan.md`.
+Waiting on Luke: yes on the start pen brief for Fri 23 (in chat; double portaloo queue); did the goal-gone trial reels run; race weekend plan `ideas/engine-room-nutrition/2026-10-22-race-weekend-plan.md`.
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
 
 Rejected topics: the last 10K (covered across six videos); anything
