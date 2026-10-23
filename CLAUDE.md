@@ -173,7 +173,7 @@ every posted video.
 
 ## Current state (update this every session)
 
-**As of 22 October 2026.**
+**As of 23 October 2026.**
 
 Grid (Instagram, ERN side): the wall 147K; **3:45 pacing 29.1K at ~17h, TikTok 10.9K (record), emails up with the CTA a third of the way in (P128)**; **carb load 52.8K at ~20h (our #2: 1.3K saves, 60 follows, a record; skip 46.7%)**; **without the wall 41.5K at
 18h** (record 39s watched on 1:37, save 3.2%, 25 comments; skip 39.3%
@@ -202,7 +202,7 @@ your half marathon time into a marathon goal (incl. after illness). Fri 23
 your marathon. 4:30 goes TikTok-only. Luke's goal: 1M lifetime IG views
 (840K on 19 Oct). Every pace in km and miles in captions (P129).
 
-Waiting on Luke: yes on the sleep brief for today (Fri 23; start pen dropped, P146); Sat: enjoy.
+Waiting on Luke: sleep script delivered for today (`ideas/engine-room-nutrition/2026-10-23-script-sleep.md`, retention table and motion cue sheet); next: Sat enjoy brief; Mon walk; spring pivot from 27 Oct.
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
 Motion graphics (22 Oct, Luke asked): `motion/` renders 16:9 scene clips for the top half of the reel (`motion/README.md`). Goal gone is built in placeholder colours; waiting on Luke's logo to set the brand colours. Run it as a trial reel A/B against the plain version: the checklist still says only the title and stage markers on screen (P84, P95).
 
