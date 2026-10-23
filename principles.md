@@ -5055,6 +5055,20 @@ it. Say plainly what was verified and what wasn't.
 
 *Source: Luke, 23 October.*
 
+## P149 — Copy what already worked before building something new
+
+Luke, 23 October, after a day of sign-up fixes: "everything on the old page
+was working perfect... why can't we just do that?" The old site's code
+(saved at the start) posted emails to manage.kmail-lists.com. Every fix I
+built used klaviyo.com addresses instead, which iPhones block as a tracker.
+
+**The rule:** when replacing something that worked, read how the old
+version did it first and keep that mechanism unless there's evidence it
+must change. Check the saved copy of the old site before writing a new
+integration.
+
+*Source: Luke, 23 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

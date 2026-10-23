@@ -65,9 +65,6 @@
 .ern .inbox-note h4{font:800 19px var(--fd);text-transform:uppercase;letter-spacing:.03em;margin:0 0 6px}
 .ern .inbox-note ul{margin:8px 0 0;padding-left:18px}
 .ern .inbox-note li{margin-bottom:4px}
-.ern .kl-embed{min-height:60px;margin-top:4px}
-.ern .kl-hidden{position:absolute!important;left:-10000px!important;top:auto!important;width:320px!important;height:1px!important;overflow:hidden!important}
-.ern .kl-missing{font-size:15px;color:var(--muted);margin:8px 0 0}
 .ern .savefail{margin:0 0 10px;padding:10px 12px;border-radius:10px;background:#FDECEA;color:#8A1F17;font-size:15px}
 .ern .wl{margin-top:18px;border-radius:16px;overflow:hidden;display:grid;grid-template-columns:120px 1fr;background:var(--blue-lt)}
 .ern .wl img{width:100%;height:100%;object-fit:cover;object-position:left}
@@ -476,7 +473,7 @@
 
       <div class="label clockcard" id="get-plan">
         <div class="body">
-          <div id="planForm">
+          <form id="planForm" novalidate>
             <input type="text" name="ern_hp_field" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;opacity:0">
             <div class="clock" id="clock">
               <div class="clock-top"><span class="live"></span>Your finish time<span class="clock-tag" id="clockTag">Goal</span></div>
@@ -491,7 +488,7 @@
               <div class="sp"><small>40K sign</small><b id="sp40">3:32</b><i>🔒</i></div>
             </div>
             <label class="chk nsure"><input type="checkbox" id="pf-notsure"> I don't have a goal yet</label>
-            <div>
+            <div class="row2">
               <div class="field"><label class="f" for="pf-race">Your race</label>
                 <select id="pf-race" required>
                   <option value="">Pick your race</option>
@@ -500,16 +497,14 @@
                   <option>Paris</option><option>London</option><option>Manchester</option>
                   <option>Belfast</option><option>Cork</option><option>Other</option>
                 </select></div>
+              <div class="field"><label class="f" for="pf-email">Your email</label><input id="pf-email" type="email" autocomplete="email" inputmode="email" required></div>
             </div>
             <div hidden><select id="pf-goal" aria-hidden="true" tabindex="-1"></select></div>
             <div class="field" id="pf-other-wrap" hidden><label class="f" for="pf-other">Which race?</label><input id="pf-other" type="text" placeholder="e.g. Berlin, spring 2027"></div>
-            <div class="field"><label class="f" for="pf-email">Your email</label>
-              <div class="inline"><input id="pf-email" type="email" autocomplete="email" inputmode="email" placeholder="you@email.com"><button class="btn" type="button" id="pfGo">Unlock my free plan <span class="arr">→</span></button></div></div>
-            <!-- Klaviyo's form loads hidden here and does the saving (form ID set in the theme editor) -->
-            <div class="kl-hidden" id="klPlan" aria-hidden="true"><div class="klaviyo-form-KLPLAN"></div></div>
+            <button class="btn" type="submit">Unlock my free plan <span class="arr">→</span></button>
             <div class="err" id="pf-err"></div>
             <p class="fine">Free, no card. Your plan shows here instantly, so no spam folder can hide it. Unsubscribe in one click.</p>
-          </div>
+          </form>
 
           <!-- the plan, built in the browser the moment they sign up -->
           <div class="plan" id="plan" aria-live="polite" hidden>
@@ -530,8 +525,8 @@
               <button class="btn white" type="button" id="printBand" style="border:2px solid var(--ink)">Print a pace band</button>
             </div>
             <div class="inbox-note">
-              <h4>Screenshot this now</h4>
-              This is your plan, so screenshot it or save it to your lock screen. You're also on our list for race-week tips. Our first email is on its way, probably to the wrong folder, so find it now and the next ones will land:
+              <h4>Your copy is on its way, probably to the wrong folder</h4>
+              We've emailed this plan to <b id="planEmail"></b>. Screenshot it now anyway. Then find our email so the next ones land:
               <ul>
                 <li><b>Gmail:</b> check Promotions and Spam. Found it? Tap "Not spam", or drag it to Primary.</li>
                 <li><b>Outlook or Hotmail:</b> check Junk and tap "Not junk".</li>
@@ -549,7 +544,7 @@
               <div class="wl" id="wlAsk">
                 <img src="assets/ern-carb-bar-pack.webp" alt="The ERN Carb Bar pack" width="120" height="78">
                 <div><b>Want first go at the bar?</b> 30g of carbs in a rice crisp square. The first batch is small, and the waitlist hears first.
-                  <div><a class="btn sm" href="bar.html">See the Carb Bar <span class="arr">→</span></a></div>
+                  <div><button class="btn sm" id="wlYes" type="button">Yes, add me</button><button class="linkbtn" id="wlNo" type="button">No thanks</button></div>
                 </div>
               </div>
               <p id="wlThanks" hidden style="margin-top:12px"><b>You're on the waitlist.</b> You'll hear about the bar before anyone else.</p>
@@ -622,7 +617,21 @@
     <div class="label tellus" id="tell-us">
       <div class="band">Ran with our plan? Tell us your time</div>
       <div class="body">
-        <p style="margin:0"><b>Dublin, Frankfurt, New York:</b> reply to any of our emails with your race and your finish time, good day or bad. We read every one, and with your OK the best days end up on this wall.</p>
+        <p style="margin:0 0 14px"><b>Dublin, Frankfurt, New York:</b> we want to hear how it went, good or bad. We read every one, and the best days end up on this wall (only with your OK).</p>
+        <form id="resForm" novalidate>
+          <div class="row2">
+            <div class="field"><label class="f" for="rs-race">Race</label><input id="rs-race" type="text" placeholder="e.g. Dublin 2026"></div>
+            <div class="field"><label class="f" for="rs-time">Finish time</label><input id="rs-time" type="text" inputmode="numeric" placeholder="e.g. 3:41:20"></div>
+          </div>
+          <div class="row2">
+            <div class="field"><label class="f" for="rs-pb">PB by how much? <span class="muted" style="font-weight:400">(optional)</span></label><input id="rs-pb" type="text" placeholder="e.g. 12 minutes"></div>
+            <div class="field"><label class="f" for="rs-email">Email</label><input id="rs-email" type="email" autocomplete="email" inputmode="email"></div>
+          </div>
+          <label class="chk"><input type="checkbox" id="rs-share"> You can share my first name and result on this page</label>
+          <button class="btn" type="submit" style="margin-top:14px">Send my result</button>
+          <div class="err" id="rs-err"></div>
+        </form>
+        <p id="rs-done" hidden style="margin:0"><b>Brilliant, thank you.</b> Luke reads every one of these.</p>
       </div>
     </div>
     </details>
@@ -710,10 +719,11 @@
             <tr><td>Tastes like a treat</td><td class="us y">✓</td><td class="n">✕</td><td class="n">✕</td><td class="n">✕</td></tr>
           </tbody>
         </table>
-        <div class="inline" id="bfRow"><input id="bf-email" type="email" placeholder="Your email" autocomplete="email" inputmode="email" aria-label="Email"><button class="btn" type="button" id="bfGo">Get first go</button></div>
-        <div class="err" id="bf-err"></div>
-        <p id="bf-done" hidden style="margin:12px 0 0"><b>You're on the waitlist.</b> First batch news comes to you first.</p>
-        <div class="kl-hidden" id="klBarHome" aria-hidden="true"><div class="klaviyo-form-KLBAR"></div></div>
+        <form id="barForm" novalidate>
+          <div class="inline"><input id="bf-email" type="email" placeholder="Your email" autocomplete="email" aria-label="Email"><button class="btn" type="submit">Get first go</button></div>
+          <div class="err" id="bf-err"></div>
+          <p id="bf-done" hidden style="margin:12px 0 0"><b>You're on the waitlist.</b> First batch news comes to you first.</p>
+        </form>
         <p class="fine" style="text-align:left">Small first batch. The waitlist gets first go and the founding price. <a href="bar.html">More about the bar →</a></p>
       </div>
     </div>
@@ -855,6 +865,7 @@
       return '<div class="g" style="left:' + (4 + 88 * sec / p.finishSec) + '%"><span>' + t + '</span></div>';
     }).join('') + '<div class="end">FINISH</div>';
     $('planCarry').textContent = 'Carry ' + p.carry + ' gels, including one spare. Using 40g gels? One every 40 minutes instead.';
+    $('planEmail').textContent = email;
   }
   function showNotSure(name){
     $('planKicker').textContent = name ? name + ", you're in" : "You're in";
@@ -865,40 +876,45 @@
     document.querySelector('.ern .rules').hidden = true; document.querySelector('.ern .actions').hidden = true;
   }
 
-  // Klaviyo's form saved the email: show the plan
-  function unlock(email){
-    if (!$('plan').hidden) return;
-    var gv = goal.value;
-    raceName = $('pf-race').value === 'Other' ? ($('pf-other').value.trim() || 'your race') : ($('pf-race').value || 'your race');
+  $('planForm').addEventListener('submit', function(e){
+    e.preventDefault();
+    raceName = $('pf-race').value === 'Other' ? ($('pf-other').value.trim() || 'your race') : $('pf-race').value;
+    var name = '', email = $('pf-email').value.trim(), gv = goal.value, err = $('pf-err');
+    if (!$('pf-race').value || !gv) { err.textContent = 'Pick your race and goal time first.'; err.style.display = 'block'; return; }
+    if (!ERN.validEmail(email)) { err.textContent = 'Add your email to unlock your plan.'; err.style.display = 'block'; return; }
+    err.style.display = 'none';
+    var btn = this.querySelector('button'); btn.disabled = true; btn.textContent = 'Building your plan…';
     var gs = ERNPlan.parseGoal(gv);
     plan = gs ? ERNPlan.build(gs) : null;
-    saved = { email: email };
-    $('planForm').hidden = true;
-    if (plan) renderPlan(plan, raceName, '', email); else showNotSure('');
-    $('plan').hidden = false;
-    $('get-plan').scrollIntoView({ behavior: 'smooth', block: 'start' });
-    ERN.track('plan_unlocked', { goal_time: gv, race: raceName, with_email: !!email });
-  }
-  // tap: hand the email to Klaviyo's hidden form, then show the plan
-  function go(){
-    var email = $('pf-email').value.trim(), err = $('pf-err'), btn = $('pfGo');
-    if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) { err.textContent = 'Add your email to unlock your plan.'; err.style.display = 'block'; return; }
-    err.style.display = 'none'; btn.disabled = true; btn.textContent = 'Building your plan…';
-    ERN.sendViaKlaviyo($('klPlan'), email).then(function(){ unlock(email); }, function(e){ unlock(email); ERN.track('plan_save_unconfirmed', { reason: e.message }); });
-  }
-  $('pfGo').addEventListener('click', go);
-  $('pf-email').addEventListener('keydown', function(e){ if (e.key === 'Enter') { e.preventDefault(); go(); } });
-
-  // bar waitlist on the home page, same way
-  function barGo(){
-    var email = $('bf-email').value.trim(), err = $('bf-err'), btn = $('bfGo');
-    if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) { err.textContent = 'Add your email to join the waitlist.'; err.style.display = 'block'; return; }
-    err.style.display = 'none'; btn.disabled = true; btn.textContent = 'Adding you…';
-    ERN.sendViaKlaviyo($('klBarHome'), email).then(function(){ $('bfRow').hidden = true; $('bf-done').hidden = false; ERN.track('waitlist_joined', { from: 'home' }); },
-      function(){ btn.disabled = false; btn.textContent = 'Get first go'; err.innerHTML = 'That didn\'t go through. Tap again, or <a href="https://ig.me/m/engineroomnutrition">DM us "BAR" on Instagram</a>.'; err.style.display = 'block'; });
-  }
-  $('bfGo').addEventListener('click', barGo);
-  $('bf-email').addEventListener('keydown', function(e){ if (e.key === 'Enter') { e.preventDefault(); barGo(); } });
+    var props = { race: raceName, goal_time: gv, plan_requested_at: new Date().toISOString() };
+    if (plan) {
+      props.plan_10k = plan.signs[0]; props.plan_20k = plan.signs[1]; props.plan_30k = plan.signs[2]; props.plan_40k = plan.signs[3];
+      props.plan_pace_1 = plan.stages[0].km + ' /K (' + plan.stages[0].mi + ' /mi)';
+      props.plan_pace_2 = plan.stages[1].km + ' /K (' + plan.stages[1].mi + ' /mi)';
+      props.plan_pace_3 = plan.stages[2].km + ' /K (' + plan.stages[2].mi + ' /mi)';
+      props.plan_gels = plan.gels.join(', '); props.plan_carry = plan.carry; props.plan_finish = plan.finish;
+      // separate km and mile paces for the welcome email's plan table
+      for (var i = 0; i < 3; i++) { props['plan_km_' + (i + 1)] = plan.stages[i].km; props['plan_mi_' + (i + 1)] = plan.stages[i].mi; }
+      if (plan.walk) props.plan_walk = 'yes';
+    }
+    saved = { email: email, properties: props }; if (name) saved.first_name = name;
+    var done = function(){
+      $('planForm').hidden = true;
+      if (plan) renderPlan(plan, raceName, name, email); else showNotSure(name);
+      $('plan').hidden = false;
+      $('get-plan').scrollIntoView({ behavior: 'smooth', block: 'start' });
+    };
+    // the value never waits on the network: if Klaviyo fails, they still get the plan
+    ERN.subscribe('planList', saved, 'Pace plan page').then(done, function(e){
+      done();
+      // the exact reason, in small grey text, so a screenshot tells us what blocked it
+      var ua = navigator.userAgent, app = /Instagram/.test(ua) ? 'Instagram app' : /musical_ly|TikTok|BytedanceWebview/i.test(ua) ? 'TikTok app' : /FBAN|FBAV/.test(ua) ? 'Facebook app' : /CriOS/.test(ua) ? 'Chrome iPhone' : /iPhone|iPad/.test(ua) ? 'Safari iPhone' : /Android/.test(ua) ? 'Android' : 'Desktop';
+      var why = String((e && e.message) || e || 'unknown').slice(0, 120).replace(/</g, '');
+      $('planEmail').parentNode.insertAdjacentHTML('afterbegin', '<p class="savefail"><b>We couldn\'t save your email just now.</b> Your plan is right here, so screenshot it. To get it by email too, refresh the page and try once more.<small style="display:block;margin-top:6px;opacity:.7">Reason: ' + why + ' · ' + app + '</small></p>');
+      ERN.track('plan_save_failed', { reason: why, app: app });
+    });
+    ERN.track('plan_unlocked', { email: email, goal_time: gv, race: raceName });
+  });
 
   // lock screen image: a phone-sized PNG of the plan
   $('saveLock').addEventListener('click', function(){
@@ -937,6 +953,40 @@
     $('ern-band').innerHTML = row + row + row + row;
     ERN.track('pace_band_printed');
     window.print();
+  });
+
+  // the second yes: separate consent for the bar waitlist
+  $('wlYes').addEventListener('click', function(){
+    this.disabled = true;
+    ERN.track('waitlist_yes', { email: saved.email, from: 'plan' });
+    ERN.update(saved.email, { bar_waitlist: true }, 'Pace plan thank-you')
+      .then(function(){ $('wlAsk').hidden = true; $('wlThanks').hidden = false; }, function(){ $('wlYes').disabled = false; $('wlYes').textContent = 'Try again'; });
+  });
+  $('wlNo').addEventListener('click', function(){ $('wlAsk').hidden = true; });
+
+  // bar waitlist straight from the home page
+  $('barForm').addEventListener('submit', function(e){
+    e.preventDefault();
+    var email = $('bf-email').value.trim(), err = $('bf-err');
+    if (!ERN.validEmail(email)) { err.textContent = 'Add your email to join the waitlist.'; err.style.display = 'block'; return; }
+    err.style.display = 'none'; this.querySelector('button').disabled = true;
+    ERN.track('waitlist_yes', { email: email, from: 'home bar section' });
+    var btn = this.querySelector('button');
+    ERN.subscribe('waitlistList', { email: email, properties: { bar_waitlist: true } }, 'Home bar section').then(function(){
+      document.querySelector('#barForm .inline').hidden = true; $('bf-done').hidden = false;
+    }, function(){ btn.disabled = false; err.textContent = "That didn't save. Check your connection and tap again."; err.style.display = 'block'; });
+  });
+
+  // results after race day: the wall refills itself (shared only with consent)
+  $('resForm').addEventListener('submit', function(e){
+    e.preventDefault();
+    var email = $('rs-email').value.trim(), race = $('rs-race').value.trim(), time = $('rs-time').value.trim(), err = $('rs-err');
+    if (!race || !time || !ERN.validEmail(email)) { err.textContent = 'Add your race, your time and your email.'; err.style.display = 'block'; return; }
+    err.style.display = 'none'; this.querySelector('button').disabled = true;
+    var props = { result_race: race, result_time: time, result_pb: $('rs-pb').value.trim(), result_share_ok: $('rs-share').checked, result_sent_at: new Date().toISOString() };
+    ERN.track('result_submitted', Object.assign({ email: email }, props));
+    var fin = function(){ $('resForm').hidden = true; $('rs-done').hidden = false; };
+    ERN.subscribe('resultsList', { email: email, properties: props }, 'Results form').then(fin, fin);
   });
 
   ERN.sticky('get-plan', 'plan');

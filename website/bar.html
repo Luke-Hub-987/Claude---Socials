@@ -158,9 +158,6 @@
   .ern .final .label .body{padding:30px 20px}
   .ern .yard{margin:28px 0 20px;gap:12px}
 }
-.ern .kl-embed{min-height:60px;margin-top:4px}
-.ern .kl-hidden{position:absolute!important;left:-10000px!important;top:auto!important;width:320px!important;height:1px!important;overflow:hidden!important}
-.ern .kl-missing{font-size:15px;margin:8px 0 0}
 </style>
 </head>
 <body style="margin:0">
@@ -190,11 +187,12 @@
       <h1>Race morning, <em>sorted.</em></h1>
       <p class="lede">30g of carbs in a rice crisp square. Eat it before the gun.</p>
       <div id="join" class="joinbox">
-        <div class="inline" id="wlRow"><input id="wl-email" type="email" placeholder="Your email" autocomplete="email" inputmode="email" aria-label="Email"><button class="btn white" type="button" id="wlGo">Get first go <span class="arr">→</span></button></div>
-        <div class="err" id="wl-err" style="color:#fff"></div>
-        <!-- Klaviyo's form loads hidden here and does the saving (form ID set in the theme editor) -->
-        <div class="kl-hidden" id="klBar" aria-hidden="true"><div class="klaviyo-form-KLBAR"></div></div>
-        <p class="fine">Small first batch. The waitlist hears first, with the founding price. No card.</p>
+        <form id="wlForm" novalidate>
+            <input type="text" name="ern_hp_field" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;opacity:0">
+          <div class="inline"><input id="wl-email" type="email" placeholder="Your email" autocomplete="email" inputmode="email" aria-label="Email" required><button class="btn white" type="submit">Get first go <span class="arr">→</span></button></div>
+          <div class="err" id="wl-err"></div>
+          <p class="fine">Small first batch. The waitlist hears first, with the founding price. No card.</p>
+        </form>
         <div class="done" id="wlDone" hidden>
           <h3 style="font:400 30px/1.1 var(--fs);text-transform:none;letter-spacing:0;color:#fff">You're on the list. ✓</h3>
           <p style="margin:8px 0 0;color:rgba(255,255,255,.9)">Got a marathon coming up? <a href="index.html#get-plan" style="color:#fff;font-weight:700">Get your free pace plan →</a></p>
@@ -370,16 +368,19 @@
 <script>
 (function(){
   var $ = function(id){ return document.getElementById(id); };
-  // tap: hand the email to Klaviyo's hidden form, then show "you're on the list"
-  function go(){
-    var email = $('wl-email').value.trim(), err = $('wl-err'), btn = $('wlGo');
-    if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) { err.textContent = 'Add your email to join the waitlist.'; err.style.display = 'block'; return; }
-    err.style.display = 'none'; btn.disabled = true; btn.textContent = 'Adding you…';
-    ERN.sendViaKlaviyo($('klBar'), email).then(function(){ $('wlRow').hidden = true; $('wlDone').hidden = false; ERN.track('waitlist_joined', { from: 'bar page' }); },
-      function(){ btn.disabled = false; btn.innerHTML = 'Get first go <span class="arr">→</span>'; err.innerHTML = 'That didn\'t go through. Tap again, or <a href="https://ig.me/m/engineroomnutrition" style="color:#fff;font-weight:700">DM us "BAR" on Instagram</a>.'; err.style.display = 'block'; });
-  }
-  $('wlGo').addEventListener('click', go);
-  $('wl-email').addEventListener('keydown', function(e){ if (e.key === 'Enter') { e.preventDefault(); go(); } });
+  $('wlForm').addEventListener('submit', function(e){
+    e.preventDefault();
+    var email = $('wl-email').value.trim(), err = $('wl-err');
+    if (!ERN.validEmail(email)) { err.textContent = 'Add your email to join the waitlist.'; err.style.display = 'block'; return; }
+    err.style.display = 'none';
+    var btn = this.querySelector('button'); btn.disabled = true; btn.textContent = 'Adding you…';
+    ERN.subscribe('waitlistList', { email: email, properties: { bar_waitlist: true } }, 'Bar page').then(function(){
+      $('wlForm').hidden = true; $('wlDone').hidden = false;
+    }).catch(function(){
+      btn.disabled = false; btn.innerHTML = 'Put me on the waitlist <span class="arr">→</span>';
+      err.textContent = "That didn't go through. Try again in a minute."; err.style.display = 'block';
+    });
+  });
   ERN.sticky('join', 'wlDone');
 })();
 </script>
