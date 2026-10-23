@@ -38,9 +38,14 @@ window.ERN = (function(){
       custom_source: source,
       profile: { data: { type: 'profile', attributes: attrs } }
     }, relationships: { list: { data: { type: 'list', id: listId } } } }; };
-    if (!profile.properties) return klaviyo('subscriptions', body(who));
-    var full = { properties: profile.properties }; for (var k in who) full[k] = who[k];
-    return klaviyo('subscriptions', body(full)).catch(function(e){
+    var full = who;
+    if (profile.properties) { full = { properties: profile.properties }; for (var k in who) full[k] = who[k]; }
+    var wait = function(ms){ return new Promise(function(r){ setTimeout(r, ms); }); };
+    // one retry after a short pause covers a dropped connection
+    var once = function(attrs){ return klaviyo('subscriptions', body(attrs)).catch(function(e){
+      if (window.console) console.warn(e); return wait(1500).then(function(){ return klaviyo('subscriptions', body(attrs)); }); }); };
+    if (!profile.properties) return once(who);
+    return once(full).catch(function(e){
       if (window.console) console.warn(e);
       return klaviyo('subscriptions', body(who)).then(function(){
         return klaviyo('profiles', { type: 'profile', attributes: { email: profile.email, properties: profile.properties } })
@@ -51,13 +56,16 @@ window.ERN = (function(){
 
   function validEmail(e){ return /^\S+@\S+\.\S+$/.test(e); }
 
-  // one event per funnel step, to whatever is installed: Microsoft Clarity,
-  // Google Tag Manager / GA4 (dataLayer) and Klaviyo (once we know the email)
+  // one event per funnel step, to Microsoft Clarity and Google Tag Manager /
+  // GA4 (dataLayer). Never to Klaviyo's site script: identifying a brand-new
+  // email there at the same moment as the subscription made the two collide
+  // and Klaviyo dropped the sign-up (23 Oct). The subscription is the only
+  // call that tells Klaviyo who someone is. The email never goes to analytics.
   function track(name, props){
     props = props || {};
+    var safe = {}; for (var k in props) if (k !== 'email') safe[k] = props[k];
     try { if (window.clarity) window.clarity('event', name); } catch (e) {}
-    try { (window.dataLayer = window.dataLayer || []).push(Object.assign({ event: name }, props)); } catch (e) {}
-    try { if (window.klaviyo && props.email) { window.klaviyo.push(['identify', { email: props.email }]); window.klaviyo.push(['track', name, props]); } } catch (e) {}
+    try { (window.dataLayer = window.dataLayer || []).push(Object.assign({ event: name }, safe)); } catch (e) {}
   }
 
   // fade sections in as they scroll into view
