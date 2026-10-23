@@ -33,8 +33,8 @@ KLAVIYO_SETTINGS = [
 CONFIG_JS = ('<script>window.ERN_CONFIG = { planList: {{ section.settings.plan_list | default: "" | json }}, '
              'waitlistList: {{ section.settings.waitlist_list | default: "" | json }}, '
              'resultsList: {{ section.settings.results_list | default: "" | json }} };</script>\n'
-             '<script src="{{ \'plan.js\' | asset_url }}"></script>\n'
-             '<script src="{{ \'ern.js\' | asset_url }}"></script>\n')
+             '<script src="{{ \'plan.js\' | asset_url }}" defer></script>\n'
+             '<script src="{{ \'ern.js\' | asset_url }}" defer></script>\n')
 
 
 # In Shopify's theme editor: no scroll animations (sections re-render there
@@ -77,14 +77,20 @@ def convert(html, section_name, extra_settings, page_fix=None, blocks=None):
         body = page_fix(body)
     # links between the two pages
     body = body.replace('href="bar.html"', 'href="/pages/the-bar"')
-    body = body.replace('href="index.html#get-plan"', 'href="/#get-plan"')
-    body = body.replace('href="index.html"', 'href="/"')
+    body = body.replace('href="index.html#get-plan"', 'href="{{ routes.root_url }}#get-plan"')
+    body = body.replace('href="index.html"', 'href="{{ routes.root_url }}"')
+    body = body.replace('href="/"', 'href="{{ routes.root_url }}"')
     # asset paths -> theme assets
     style = re.sub(r"url\(assets/([^)]+)\)", r"url({{ '\1' | asset_url }})", style)
     body = re.sub(r'src="assets/([^"]+)"', r"""src="{{ '\1' | asset_url }}" """.strip(), body)
     # config + libraries before the page script
+    # the libraries load with defer (Shopify's checker flags blocking scripts),
+    # so the page script waits for them: deferred files run before DOMContentLoaded
     i = body.rfind('<script>')
-    body = body[:i] + CONFIG_JS + body[i:]
+    j = body.index('</script>', i)
+    page_js = body[i + len('<script>'):j]
+    body = (body[:i] + CONFIG_JS + "<script>document.addEventListener('DOMContentLoaded', function(){" +
+            page_js + '});</script>' + body[j + len('</script>'):])
     schema = {"name": section_name, "tag": "div", "settings": KLAVIYO_SETTINGS + extra_settings,
               "presets": [{"name": section_name}]}
     if blocks:
@@ -140,9 +146,6 @@ LAYOUT = '''<!doctype html>
   <meta property="og:image" content="https:{{ 'ern-share.jpg' | asset_url }}">
   <meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
   <meta name="twitter:card" content="summary_large_image">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,700;0,800;1,800&family=DM+Serif+Display:ital@0;1&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
   {{ 'ern.css' | asset_url | stylesheet_tag }}
   {{ content_for_header }}
 </head>
@@ -168,8 +171,10 @@ def main():
         main_section = {"type": section, "settings": {}}
         tpl = {"layout": "ern", "sections": {"main": main_section}, "order": ["main"]}
         (OUT / 'templates' / name).write_text(json.dumps(tpl, indent=2) + '\n')
-    for f in ('ern.css', 'ern.js', 'plan.js'):
+    for f in ('ern.js', 'plan.js'):
         shutil.copy(SRC / f, OUT / 'assets' / f)
+    # theme assets sit in one flat folder, so the fonts are next to ern.css there
+    (OUT / 'assets' / 'ern.css').write_text((SRC / 'ern.css').read_text().replace('url(assets/', 'url('))
     for f in (SRC / 'assets').iterdir():
         shutil.copy(f, OUT / 'assets' / f.name)
     print('built', sorted(str(p.relative_to(OUT)) for p in OUT.rglob('*') if p.is_file()))

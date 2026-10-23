@@ -162,10 +162,10 @@
 
 <header class="top">
   <div class="wrap">
-    <a class="logo" href="/" aria-label="Engine Room Nutrition home"><img src="{{ 'ern-logo.png' | asset_url }}" alt="ERN Engine Room Nutrition"></a>
+    <a class="logo" href="{{ routes.root_url }}" aria-label="Engine Room Nutrition home"><img src="{{ 'ern-logo.png' | asset_url }}" alt="ERN Engine Room Nutrition" width="372" height="260"></a>
     <nav>
       <a class="hide-m" href="#inside">What's in it</a>
-      <a href="/">Free pace plan</a>
+      <a href="{{ routes.root_url }}">Free pace plan</a>
       <a class="btn sm hide-m" href="#join">Join the waitlist</a>
     </nav>
   </div>
@@ -191,7 +191,7 @@
         </form>
         <div class="done" id="wlDone" hidden>
           <h3 style="font:400 30px/1.1 var(--fs);text-transform:none;letter-spacing:0;color:#fff">You're on the list. ✓</h3>
-          <p style="margin:8px 0 0;color:rgba(255,255,255,.9)">Got a marathon coming up? <a href="/#get-plan" style="color:#fff;font-weight:700">Get your free pace plan →</a></p>
+          <p style="margin:8px 0 0;color:rgba(255,255,255,.9)">Got a marathon coming up? <a href="{{ routes.root_url }}#get-plan" style="color:#fff;font-weight:700">Get your free pace plan →</a></p>
         </div>
       </div>
       <div class="chips2"><span><b>1M+</b> views on our videos</span><span><b>100+</b> free plans sent</span><span><b>8</b> ingredients</span></div>
@@ -234,7 +234,7 @@
 <section id="inside" style="background:var(--paper)">
   <div class="wrap ing">
     <div class="photo rv">
-      <img src="{{ 'bar-closeup.webp' | asset_url }}" alt="Close-up of the ERN Carb Bar">
+      <img src="{{ 'bar-closeup.webp' | asset_url }}" alt="Close-up of the ERN Carb Bar" width="705" height="900" loading="lazy">
       <div class="sticker"><div>8<br>ingredients</div></div>
     </div>
     <div class="rv">
@@ -353,8 +353,8 @@
 
 <footer>
   <div class="wrap">
-    <img src="{{ 'ern-logo.png' | asset_url }}" alt="ERN Engine Room Nutrition">
-    <nav><a href="https://www.instagram.com/engineroomnutrition/">Instagram</a><a href="https://www.tiktok.com/@engineroomnutrition">TikTok</a><a href="/">Free pace plan</a><a href="/blogs/newsletter">Newsletter archive</a><a href="/policies/privacy-policy">Privacy</a><a href="/policies/contact-information">Contact</a></nav>
+    <img src="{{ 'ern-logo.png' | asset_url }}" alt="ERN Engine Room Nutrition" width="372" height="260">
+    <nav><a href="https://www.instagram.com/engineroomnutrition/">Instagram</a><a href="https://www.tiktok.com/@engineroomnutrition">TikTok</a><a href="{{ routes.root_url }}">Free pace plan</a><a href="/blogs/newsletter">Newsletter archive</a><a href="/policies/privacy-policy">Privacy</a><a href="/policies/contact-information">Contact</a></nav>
     <span>© 2026 Engine Room Nutrition · Made in Ireland</span>
   </div>
 </footer>
@@ -363,9 +363,9 @@
 </div>
 
 <script>window.ERN_CONFIG = { planList: {{ section.settings.plan_list | default: "" | json }}, waitlistList: {{ section.settings.waitlist_list | default: "" | json }}, resultsList: {{ section.settings.results_list | default: "" | json }} };</script>
-<script src="{{ 'plan.js' | asset_url }}"></script>
-<script src="{{ 'ern.js' | asset_url }}"></script>
-<script>
+<script src="{{ 'plan.js' | asset_url }}" defer></script>
+<script src="{{ 'ern.js' | asset_url }}" defer></script>
+<script>document.addEventListener('DOMContentLoaded', function(){
 (function(){
   var $ = function(id){ return document.getElementById(id); };
   $('wlForm').addEventListener('submit', function(e){
@@ -383,7 +383,7 @@
   });
   ERN.sticky('join', 'wlDone');
 })();
-</script>
+});</script>
 
 {% schema %}
 {

@@ -449,7 +449,7 @@
 
 <header class="top">
   <div class="wrap">
-    <a class="logo" href="/" aria-label="Engine Room Nutrition home"><img src="{{ 'ern-logo.png' | asset_url }}" alt="ERN Engine Room Nutrition"></a>
+    <a class="logo" href="{{ routes.root_url }}" aria-label="Engine Room Nutrition home"><img src="{{ 'ern-logo.png' | asset_url }}" alt="ERN Engine Room Nutrition" width="372" height="260"></a>
     <nav>
       <a class="hide-m" href="#results">Results</a>
       <a class="hide-m" href="#us">Who we are</a>
@@ -766,7 +766,7 @@
 
 <footer>
   <div class="wrap">
-    <img src="{{ 'ern-logo.png' | asset_url }}" alt="ERN Engine Room Nutrition">
+    <img src="{{ 'ern-logo.png' | asset_url }}" alt="ERN Engine Room Nutrition" width="372" height="260">
     <nav><a href="https://www.instagram.com/engineroomnutrition/">Instagram</a><a href="https://www.tiktok.com/@engineroomnutrition">TikTok</a><a href="/pages/the-bar">The Carb Bar</a><a href="/blogs/newsletter">Newsletter archive</a><a href="/policies/privacy-policy">Privacy</a><a href="/policies/contact-information">Contact</a></nav>
     <span>© 2026 Engine Room Nutrition · Made in Ireland</span>
   </div>
@@ -776,7 +776,7 @@
 <div id="ern-band"></div>
 <div class="lockbox" id="lockBox" hidden role="dialog" aria-label="Your lock screen">
   <div class="lockcard">
-    <img alt="Your pace plan as a phone lock screen">
+    <img alt="Your pace plan as a phone lock screen" width="1170" height="2532">
     <p><b>On a phone:</b> press and hold the picture, then <b>Save to Photos</b>. Set it as your lock screen from Photos.</p>
     <a class="btn sm" download="my-marathon-pace-plan.png">Download it instead</a>
     <button class="linkbtn" type="button" data-close>Close</button>
@@ -785,9 +785,9 @@
 </div>
 
 <script>window.ERN_CONFIG = { planList: {{ section.settings.plan_list | default: "" | json }}, waitlistList: {{ section.settings.waitlist_list | default: "" | json }}, resultsList: {{ section.settings.results_list | default: "" | json }} };</script>
-<script src="{{ 'plan.js' | asset_url }}"></script>
-<script src="{{ 'ern.js' | asset_url }}"></script>
-<script>
+<script src="{{ 'plan.js' | asset_url }}" defer></script>
+<script src="{{ 'ern.js' | asset_url }}" defer></script>
+<script>document.addEventListener('DOMContentLoaded', function(){
 (function(){
   var $ = function(id){ return document.getElementById(id); };
   var NS = 'http://www.w3.org/2000/svg';
@@ -976,7 +976,7 @@
 
   ERN.sticky('get-plan', 'plan');
 })();
-</script>
+});</script>
 
 {% schema %}
 {

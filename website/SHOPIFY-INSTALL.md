@@ -17,7 +17,8 @@ bottom, and won't work.
 | Theme folder | File | How it goes in |
 |---|---|---|
 | assets | `ern.css`, `ern.js`, `plan.js` | upload |
-| assets | `ern-logo.png`, `ern-share.jpg`, `ern-carb-bar-pack.webp`, `rice-texture.webp`, `bar-closeup.webp`, `founders.webp` | upload |
+| assets | `ern-logo.png`, `ern-share.jpg`, `ern-carb-bar-pack.webp`, `rice-texture.webp`, `bar-closeup.webp`, `founders.webp`, `proof-chicago-splits.webp` | upload |
+| assets | the 6 fonts: `ern-font-barlow-700.woff2`, `ern-font-barlow-800.woff2`, `ern-font-barlow-800-italic.woff2`, `ern-font-dmserif-400.woff2`, `ern-font-dmserif-400-italic.woff2`, `ern-font-inter.woff2` | upload |
 | layout | `ern.liquid` | new file, paste |
 | sections | `ern-home.liquid`, `ern-bar.liquid` | new file, paste |
 | templates | `index.json` | already exists: replace its contents |
@@ -40,8 +41,8 @@ save.
 ## B. Add the files (15 min)
 
 4. **Assets:** right-click the **assets** folder > **Upload files** (or drag
-   them onto the folder). Add all 9 asset files. Open `assets` and check
-   all 9 are there with the right endings.
+   them onto the folder). Add all 16 asset files. Open `assets` and check
+   all 16 are there with the right endings.
 5. **Layout:** right-click **layout** > **New file** > type `ern.liquid` >
    Enter. Paste all of `layout/ern.liquid` from the zip. **Save**
    (Ctrl+S). The bottom bar should say **Liquid**, and nothing should be red.
@@ -156,6 +157,9 @@ aren't saved (step 12).
 the old pages back to Visible.
 
 ## If something goes wrong
+
+The Problems panel in the code editor (Shopify's theme check) should show 0 for the ERN files. Problems in the old theme's own files don't matter.
+
 
 | What you see | Fix |
 |---|---|
