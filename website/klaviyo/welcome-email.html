@@ -6,20 +6,13 @@
 <meta name="x-apple-disable-message-reformatting">
 <meta name="color-scheme" content="light">
 <meta name="supported-color-schemes" content="light">
-<title>Your marathon plan</title>
-<!-- ERN welcome email (welcome flow, Email 1), Luke's design, 23 Oct.
-     One list for everyone (P146), so this one email changes with what the
-     person did on the site, read from their profile:
-       plan_10k set        : their own plan, at the top
-       bar_waitlist only   : "you're on the list", then the free plan offer
-       result_time only    : thanks for the result, then the plan offer
-       nothing (no plan)   : the original email, pointing to the site for a plan
-     Nobody is promised a hand-written plan: the site builds it (Luke, 23 Oct).
-     Nested if/else on purpose: it works in every Klaviyo editor.
-     Every tag sits inside a table cell or a paragraph, never between
-     table rows: the editor reads the email as a web page, and a browser
-     moves anything between rows to the top, which breaks the logic.
-     Fuel and pace numbers match FACTS.md and the site's plan engine. -->
+<title>Welcome to Engine Room Nutrition</title>
+<!-- ERN welcome email (welcome flow, Email 1), Luke's design, generic for
+     every sign-up (23 Oct): the site's Klaviyo form sends only the email, so
+     there's no personal plan here; the plan is on screen on the site.
+     The only Klaviyo tags are first name, unsubscribe, view in browser and
+     the company name. Numbers match FACTS.md and the site's sub-4 plan. -->
+
 <style type="text/css">
 body { margin:0; padding:0; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; }
 table { border-collapse:collapse; }
@@ -82,7 +75,7 @@ a { text-decoration:none; }
 
 <!-- PREHEADER: the grey line after the subject in the inbox -->
 <div style="display:none; max-height:0; overflow:hidden; mso-hide:all; font-size:1px; line-height:1px; color:#eef1f6;">
-{% if person|lookup:'plan_10k' %}Your time at every 10K sign, your watch pace and when to take each gel. Keep this for race morning.{% else %}{% if person|lookup:'bar_waitlist' %}You're on the Carb Bar list. While you wait, get your free marathon plan in 30 seconds.{% else %}Your marathon plan on screen in 30 seconds, plus four rules for race day.{% endif %}{% endif %}
+The four rules our pace plans are built on, plus a full example for race day.
 &#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;
 </div>
 
@@ -99,90 +92,36 @@ a { text-decoration:none; }
     <tr>
       <td align="left" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:14px; font-weight:800; letter-spacing:1.5px; color:#ffffff; text-transform:uppercase;">ENGINE ROOM <span style="color:#3b82f6;">NUTRITION</span></td>
       <td align="right" style="font-family:'DM Sans',Arial,sans-serif; font-size:11px; font-weight:600; letter-spacing:1.5px; color:#bbbbbb; text-transform:uppercase;">
-        <span class="dot-pulse" style="display:inline-block; width:6px; height:6px; background-color:#3b82f6; border-radius:3px; margin-right:6px; vertical-align:middle;">&nbsp;</span>{% if person|lookup:'plan_10k' %}Your race plan{% else %}{% if person|lookup:'bar_waitlist' %}Carb Bar list{% else %}Free race plan{% endif %}{% endif %}
+        <span class="dot-pulse" style="display:inline-block; width:6px; height:6px; background-color:#3b82f6; border-radius:3px; margin-right:6px; vertical-align:middle;">&nbsp;</span>Free race plan
       </td>
     </tr>
   </table>
 
   <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-top:30px;">
 <tr><td style="padding:0;">
-{% if person|lookup:'plan_10k' %}
+
+
+
     <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
     <tr>
       <td class="hero-headline" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:60px; font-weight:900; line-height:0.96; color:#ffffff; text-transform:uppercase; letter-spacing:0.5px;">
-        <div class="up1">Your plan for<br>{{ person|lookup:'race'|default:'your marathon' }}</div>
+        <div class="up1">Your marathon,<br>sorted</div>
       </td>
     </tr>
     <tr>
       <td class="hero-sub" style="padding-top:10px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:25px; font-weight:900; font-style:italic; line-height:1.1; color:#3b82f6; text-transform:uppercase;">
-        <div class="up2">Goal: {{ person|lookup:'goal_time' }}</div>
+        <div class="up2">Four rules and one plan</div>
       </td>
     </tr>
     <tr>
       <td style="padding-top:14px; font-family:'DM Sans',Arial,sans-serif; font-size:16px; line-height:1.55; color:#c9d2e3;">
-        <div class="up3">Your watch pace for each stretch, your race clock at every 10K sign and when to take each gel. It's all below, ready for race morning.</div>
+        <div class="up3">The four rules from our videos, a full plan built from them, and where to get yours for your own goal time.</div>
       </td>
     </tr>
     </table>
-{% else %}
-{% if person|lookup:'bar_waitlist' %}
-    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-    <tr>
-      <td class="hero-headline" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:60px; font-weight:900; line-height:0.96; color:#ffffff; text-transform:uppercase; letter-spacing:0.5px;">
-        <div class="up1">You're on<br>the list</div>
-      </td>
-    </tr>
-    <tr>
-      <td class="hero-sub" style="padding-top:10px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:25px; font-weight:900; font-style:italic; line-height:1.1; color:#3b82f6; text-transform:uppercase;">
-        <div class="up2">First batch news comes to you first</div>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding-top:14px; font-family:'DM Sans',Arial,sans-serif; font-size:16px; line-height:1.55; color:#c9d2e3;">
-        <div class="up3">The Engine Room Carb Bar is a rice crisp square with 30g of carbs, made in Ireland for race morning. When the first batch is ready, you'll hear before anyone else. Until then, get your free marathon plan on our site. It takes 30 seconds.</div>
-      </td>
-    </tr>
-    </table>
-{% else %}
-{% if person|lookup:'result_time' %}
-    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-    <tr>
-      <td class="hero-headline" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:60px; font-weight:900; line-height:0.96; color:#ffffff; text-transform:uppercase; letter-spacing:0.5px;">
-        <div class="up1">Thanks for<br>your result</div>
-      </td>
-    </tr>
-    <tr>
-      <td class="hero-sub" style="padding-top:10px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:25px; font-weight:900; font-style:italic; line-height:1.1; color:#3b82f6; text-transform:uppercase;">
-        <div class="up2">{{ person|lookup:'result_time' }} at {{ person|lookup:'result_race' }}</div>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding-top:14px; font-family:'DM Sans',Arial,sans-serif; font-size:16px; line-height:1.55; color:#c9d2e3;">
-        <div class="up3">Honestly, these are the best emails we get. Got another marathon coming? Get your plan for it on our site in 30 seconds: your pace, your gel times and how each 10K should feel.</div>
-      </td>
-    </tr>
-    </table>
-{% else %}
-    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-    <tr>
-      <td class="hero-headline" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:60px; font-weight:900; line-height:0.96; color:#ffffff; text-transform:uppercase; letter-spacing:0.5px;">
-        <div class="up1">A free plan for<br>your marathon</div>
-      </td>
-    </tr>
-    <tr>
-      <td class="hero-sub" style="padding-top:10px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:25px; font-weight:900; font-style:italic; line-height:1.1; color:#3b82f6; text-transform:uppercase;">
-        <div class="up2">On your screen in 30 seconds</div>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding-top:14px; font-family:'DM Sans',Arial,sans-serif; font-size:16px; line-height:1.55; color:#c9d2e3;">
-        <div class="up3">Pick your race and drag the clock to your goal time on our site, and your plan shows straight away: your pace, your gel times and how each 10K should feel. Below are four rules you can use on race day either way.</div>
-      </td>
-    </tr>
-    </table>
-{% endif %}
-{% endif %}
-{% endif %}
+
+
+
 </td></tr>
   </table>
 
@@ -229,132 +168,7 @@ a { text-decoration:none; }
 </tr>
 
 <tr><td style="padding:0;">
-{% if person|lookup:'plan_10k' %}
-<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-<!-- ============ LETTER: they have their plan ============ -->
-<tr>
-<td class="pad" style="background-color:#ffffff; padding:24px 28px 0 28px;">
-  <p style="margin:0 0 14px 0; font-family:'DM Sans',Arial,sans-serif; font-size:16px; font-weight:600; color:#0a0f1e;">Hi {{ first_name|default:'there' }},</p>
 
-  <p style="margin:0 0 20px 0; font-family:'DM Sans',Arial,sans-serif; font-size:16px; line-height:1.7; color:#333333;">
-    Here's the plan you built on our site, so you have it on race morning. Under it are the four rules it's built on. If anything doesn't fit your race, reply to this email. I read every reply myself.
-  </p>
-
-  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-    <tr>
-      <td style="border-left:3px solid #3b82f6; padding:2px 0 2px 14px; font-family:'DM Sans',Arial,sans-serif; font-size:17px; font-weight:700; line-height:1.5; color:#0a0f1e;">
-        Screenshot the plan below. It's the only thing you need to check on race morning.
-      </td>
-    </tr>
-  </table>
-</td>
-</tr>
-
-<!-- ============ YOUR PLAN (from their profile) ============ -->
-<tr>
-<td class="pad" style="background-color:#ffffff; padding:24px 28px 0 28px;">
-  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#0d1e42" style="background-color:#0d1e42; border-radius:12px;">
-    <tr>
-      <td style="padding:22px 20px 20px 20px;">
-        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-          <tr>
-            <td style="font-family:'DM Sans',Arial,sans-serif; font-size:12px; font-weight:700; letter-spacing:1.5px; color:#2563eb; text-transform:uppercase;">Your plan</td>
-            <td align="right">
-              <span style="display:inline-block; border:1px solid #3b82f6; border-radius:3px; padding:3px 7px; font-family:'DM Sans',Arial,sans-serif; font-size:11px; font-weight:700; letter-spacing:1.5px; color:#3b82f6; text-transform:uppercase;">{{ person|lookup:'race'|default:'Race day' }}</span>
-            </td>
-          </tr>
-        </table>
-        <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:26px; font-weight:900; color:#ffffff; text-transform:uppercase; padding:8px 0 4px 0; letter-spacing:0.5px;">Goal: {{ person|lookup:'goal_time' }}</div>
-        <div style="font-family:'DM Sans',Arial,sans-serif; font-size:15px; line-height:1.6; color:#aab6cf; padding-bottom:16px;">At every 10K sign: the pace to hold on your watch for the 10K before it, and your race clock as you pass the sign.</div>
-
-        <!-- column heads -->
-        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-          <tr>
-            <td width="28%" style="font-family:'DM Sans',Arial,sans-serif; font-size:12px; font-weight:600; letter-spacing:0.5px; color:#8899bb; text-transform:uppercase; padding-bottom:8px;">Sign</td>
-            <td width="40%" style="font-family:'DM Sans',Arial,sans-serif; font-size:12px; font-weight:600; letter-spacing:0.5px; color:#8899bb; text-transform:uppercase; padding-bottom:8px;">Watch pace</td>
-            <td width="32%" align="right" style="font-family:'DM Sans',Arial,sans-serif; font-size:12px; font-weight:600; letter-spacing:0.5px; color:#8899bb; text-transform:uppercase; padding-bottom:8px;">Race clock</td>
-          </tr>
-        </table>
-
-        <!-- 10K -->
-        <table class="r1" role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top:1px solid #1a3060;">
-          <tr>
-            <td width="28%" valign="top" style="padding-top:10px;"><div class="my-big" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:24px; font-weight:900; color:#ffffff;">10K</div><div class="plan-feel" style="font-family:'DM Sans',Arial,sans-serif; font-size:13px; color:#8899bb;">10 words, 1 breath</div></td>
-            <td width="40%" valign="top" style="padding-top:10px;"><div class="my-big" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:24px; font-weight:900; color:#3b82f6;">{{ person|lookup:'plan_km_1' }} /K</div><div class="plan-feel" style="font-family:'DM Sans',Arial,sans-serif; font-size:13px; color:#8899bb;">{{ person|lookup:'plan_mi_1' }} /mile</div></td>
-            <td width="32%" valign="top" align="right" style="padding-top:10px;"><div class="my-big" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:24px; font-weight:900; color:#ffffff;">{{ person|lookup:'plan_10k' }}</div></td>
-          </tr>
-          <tr><td colspan="3" style="padding:8px 0 10px 0;">
-            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#1a3060; border-radius:2px;"><tr><td style="font-size:0; line-height:0;"><div class="b24" style="width:24%; height:4px; background-color:#3b82f6; border-radius:2px; font-size:0; line-height:0;">&nbsp;</div></td></tr></table>
-          </td></tr>
-        </table>
-
-        <!-- 20K -->
-        <table class="r2" role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top:1px solid #1a3060;">
-          <tr>
-            <td width="28%" valign="top" style="padding-top:10px;"><div class="my-big" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:24px; font-weight:900; color:#ffffff;">20K</div><div class="plan-feel" style="font-family:'DM Sans',Arial,sans-serif; font-size:13px; color:#8899bb;">10 words, breathy</div></td>
-            <td width="40%" valign="top" style="padding-top:10px;"><div class="my-big" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:24px; font-weight:900; color:#3b82f6;">{{ person|lookup:'plan_km_2' }} /K</div><div class="plan-feel" style="font-family:'DM Sans',Arial,sans-serif; font-size:13px; color:#8899bb;">{{ person|lookup:'plan_mi_2' }} /mile</div></td>
-            <td width="32%" valign="top" align="right" style="padding-top:10px;"><div class="my-big" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:24px; font-weight:900; color:#ffffff;">{{ person|lookup:'plan_20k' }}</div></td>
-          </tr>
-          <tr><td colspan="3" style="padding:8px 0 10px 0;">
-            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#1a3060; border-radius:2px;"><tr><td style="font-size:0; line-height:0;"><div class="b47" style="width:47%; height:4px; background-color:#3b82f6; border-radius:2px; font-size:0; line-height:0;">&nbsp;</div></td></tr></table>
-          </td></tr>
-        </table>
-
-        <!-- 30K -->
-        <table class="r3" role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top:1px solid #1a3060;">
-          <tr>
-            <td width="28%" valign="top" style="padding-top:10px;"><div class="my-big" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:24px; font-weight:900; color:#ffffff;">30K</div><div class="plan-feel" style="font-family:'DM Sans',Arial,sans-serif; font-size:13px; color:#8899bb;">About 5 words</div></td>
-            <td width="40%" valign="top" style="padding-top:10px;"><div class="my-big" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:24px; font-weight:900; color:#3b82f6;">{{ person|lookup:'plan_km_2' }} /K</div><div class="plan-feel" style="font-family:'DM Sans',Arial,sans-serif; font-size:13px; color:#8899bb;">{{ person|lookup:'plan_mi_2' }} /mile</div></td>
-            <td width="32%" valign="top" align="right" style="padding-top:10px;"><div class="my-big" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:24px; font-weight:900; color:#ffffff;">{{ person|lookup:'plan_30k' }}</div></td>
-          </tr>
-          <tr><td colspan="3" style="padding:8px 0 10px 0;">
-            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#1a3060; border-radius:2px;"><tr><td style="font-size:0; line-height:0;"><div class="b71" style="width:71%; height:4px; background-color:#3b82f6; border-radius:2px; font-size:0; line-height:0;">&nbsp;</div></td></tr></table>
-          </td></tr>
-        </table>
-
-        <!-- 40K -->
-        <table class="r4" role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top:1px solid #1a3060;">
-          <tr>
-            <td width="28%" valign="top" style="padding-top:10px;"><div class="my-big" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:24px; font-weight:900; color:#ffffff;">40K</div><div class="plan-feel" style="font-family:'DM Sans',Arial,sans-serif; font-size:13px; color:#8899bb;">2 or 3 words</div></td>
-            <td width="40%" valign="top" style="padding-top:10px;"><div class="my-big" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:24px; font-weight:900; color:#3b82f6;">{{ person|lookup:'plan_km_2' }} /K</div><div class="plan-feel" style="font-family:'DM Sans',Arial,sans-serif; font-size:13px; color:#8899bb;">{{ person|lookup:'plan_mi_2' }} /mile</div></td>
-            <td width="32%" valign="top" align="right" style="padding-top:10px;"><div class="my-big" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:24px; font-weight:900; color:#ffffff;">{{ person|lookup:'plan_40k' }}</div></td>
-          </tr>
-          <tr><td colspan="3" style="padding:8px 0 10px 0;">
-            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#1a3060; border-radius:2px;"><tr><td style="font-size:0; line-height:0;"><div class="b95" style="width:95%; height:4px; background-color:#3b82f6; border-radius:2px; font-size:0; line-height:0;">&nbsp;</div></td></tr></table>
-          </td></tr>
-        </table>
-
-        <!-- Finish -->
-        <table class="r4" role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top:1px solid #1a3060;">
-          <tr>
-            <td width="28%" valign="top" style="padding-top:10px;"><div class="my-big" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:24px; font-weight:900; color:#ffffff; text-transform:uppercase;">Finish</div><div class="plan-feel" style="font-family:'DM Sans',Arial,sans-serif; font-size:13px; color:#8899bb;">1 or 2 words</div></td>
-            <td width="40%" valign="top" style="padding-top:10px;"><div class="my-big" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:24px; font-weight:900; color:#3b82f6;">{{ person|lookup:'plan_km_3' }} /K</div><div class="plan-feel" style="font-family:'DM Sans',Arial,sans-serif; font-size:13px; color:#8899bb;">{{ person|lookup:'plan_mi_3' }} /mile</div></td>
-            <td width="32%" valign="top" align="right" style="padding-top:10px;"><div class="my-big" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:24px; font-weight:900; color:#ffffff;">{{ person|lookup:'plan_finish' }}</div></td>
-          </tr>
-          <tr><td colspan="3" style="padding:8px 0 4px 0;">
-            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#1a3060; border-radius:2px;"><tr><td style="font-size:0; line-height:0;"><div class="b100" style="width:100%; height:4px; background-color:#ffffff; border-radius:2px; font-size:0; line-height:0;">&nbsp;</div></td></tr></table>
-          </td></tr>
-        </table>
-
-        <!-- fuel strip -->
-        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-top:16px; background-color:#0a0f1e; border-radius:8px;">
-          <tr>
-            <td style="padding:12px 14px; font-family:'DM Sans',Arial,sans-serif; font-size:15px; line-height:1.55; color:#ffffff;">
-              <span class="dot-pulse" style="display:inline-block; width:8px; height:8px; background-color:#3b82f6; border-radius:4px; margin-right:8px; vertical-align:middle;">&nbsp;</span><span style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:14px; font-weight:900; color:#3b82f6; letter-spacing:1px; text-transform:uppercase;">Fuel&nbsp;&nbsp;</span>A 30g gel at {{ person|lookup:'plan_gels' }} on your race clock, each with 3 or 4 sips of water. That's 60g of carbs an hour. Carry {{ person|lookup:'plan_carry' }}, one of them a spare.
-            </td>
-          </tr>
-        </table>
-
-        <div style="padding-top:14px; font-family:'DM Sans',Arial,sans-serif; font-size:15px; line-height:1.6; color:#aab6cf;">
-          {% if person|lookup:'plan_walk' %}These times include walking through every drink station, about 20 seconds each. {% endif %}Lose time at a portaloo or a drink station? Up to 2 minutes, go straight back to your pace. More than 2, win it back 5 seconds a K over the next 10K, never in one go. Watches read about 1% long in a race, so if your watch and the sign disagree, trust the sign.
-        </div>
-      </td>
-    </tr>
-  </table>
-</td>
-</tr>
-</table>
-{% else %}
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
 <!-- ============ LETTER: no plan yet ============ -->
 <tr>
@@ -389,11 +203,11 @@ a { text-decoration:none; }
       </td>
     </tr>
   </table>
-  <p style="margin:10px 0 0 0; font-family:'DM Sans',Arial,sans-serif; font-size:14px; line-height:1.6; color:#666666;">Your plan shows on screen, and you can save it to your phone's lock screen. No goal yet? Reply with your last half marathon time and I'll help you pick one.</p>
+  <p style="margin:10px 0 0 0; font-family:'DM Sans',Arial,sans-serif; font-size:14px; line-height:1.6; color:#666666;">Already made yours on the site? Screenshot it and you're set. No goal yet? Reply with your last half marathon time and I'll help you pick one.</p>
 </td>
 </tr>
 </table>
-{% endif %}
+
 </td></tr>
 
 
@@ -401,7 +215,7 @@ a { text-decoration:none; }
 <tr>
 <td class="pad" style="background-color:#ffffff; padding:30px 28px 0 28px;">
   <div style="font-family:'DM Sans',Arial,sans-serif; font-size:12px; font-weight:700; letter-spacing:1.5px; color:#2563eb; text-transform:uppercase;">From our marathon videos</div>
-  <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:28px; font-weight:800; color:#0a0f1e; text-transform:uppercase; padding:6px 0 18px 0; letter-spacing:0.5px;">{% if person|lookup:'plan_10k' %}The four rules behind your plan{% else %}Four rules for your marathon{% endif %}</div>
+  <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:28px; font-weight:800; color:#0a0f1e; text-transform:uppercase; padding:6px 0 18px 0; letter-spacing:0.5px;">Four rules for your marathon</div>
 
   <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
     <tr class="r1">
@@ -457,43 +271,7 @@ a { text-decoration:none; }
 </tr>
 
 <tr><td style="padding:0;">
-{% if person|lookup:'plan_10k' %}
-<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-<!-- ============ THE ASK: they have a plan ============ -->
-<tr>
-<td class="pad" style="background-color:#ffffff; padding:28px 28px 0 28px;">
-  <div style="font-family:'DM Sans',Arial,sans-serif; font-size:12px; font-weight:700; letter-spacing:1.5px; color:#2563eb; text-transform:uppercase;">Want me to check it?</div>
-  <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:28px; font-weight:800; color:#0a0f1e; text-transform:uppercase; padding:6px 0 8px 0; letter-spacing:0.5px;">Reply with two things</div>
-  <p style="margin:0 0 18px 0; font-family:'DM Sans',Arial,sans-serif; font-size:16px; line-height:1.7; color:#444444;">Both are optional. They tell me whether your goal looks right for you, and I'll tell you honestly if it doesn't.</p>
 
-  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-    <tr>
-      <td width="38" valign="top">
-        <span class="pop1"><table role="presentation" cellpadding="0" cellspacing="0" border="0" width="26" style="width:26px; height:26px; background-color:#2563eb; border-radius:13px;">
-          <tr><td align="center" valign="middle" style="height:26px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:14px; font-weight:900; color:#ffffff;">1</td></tr>
-        </table></span>
-      </td>
-      <td valign="top" style="padding-bottom:14px;">
-        <div style="font-family:'DM Sans',Arial,sans-serif; font-size:16px; font-weight:600; color:#0a0f1e; padding-top:2px;">One recent time</div>
-        <div style="font-family:'DM Sans',Arial,sans-serif; font-size:15px; line-height:1.6; color:#555555; padding-top:2px;">Any race result, or your longest run and how long it took.</div>
-      </td>
-    </tr>
-    <tr>
-      <td width="38" valign="top">
-        <span class="pop2"><table role="presentation" cellpadding="0" cellspacing="0" border="0" width="26" style="width:26px; height:26px; background-color:#2563eb; border-radius:13px;">
-          <tr><td align="center" valign="middle" style="height:26px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:14px; font-weight:900; color:#ffffff;">2</td></tr>
-        </table></span>
-      </td>
-      <td valign="top" style="padding-bottom:4px;">
-        <div style="font-family:'DM Sans',Arial,sans-serif; font-size:16px; font-weight:600; color:#0a0f1e; padding-top:2px;">What you eat or drink on long runs now</div>
-        <div style="font-family:'DM Sans',Arial,sans-serif; font-size:15px; line-height:1.6; color:#555555; padding-top:2px;">Tell me even if the answer is water only, or nothing at all.</div>
-      </td>
-    </tr>
-  </table>
-</td>
-</tr>
-</table>
-{% else %}
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
 <!-- ============ SAMPLE PLAN (same numbers as the site's sub-4 plan) ============ -->
 <tr>
@@ -657,7 +435,7 @@ a { text-decoration:none; }
 </td>
 </tr>
 </table>
-{% endif %}
+
 </td></tr>
 
 
@@ -669,22 +447,20 @@ a { text-decoration:none; }
       <td style="padding:24px 22px;">
         <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:24px; font-weight:900; color:#ffffff; text-transform:uppercase; line-height:1.1; letter-spacing:0.5px;">Race in the next seven days?</div>
         <p style="margin:8px 0 18px 0; font-family:'DM Sans',Arial,sans-serif; font-size:16px; line-height:1.7; color:rgba(255,255,255,0.85);">
-          {% if person|lookup:'plan_10k' %}Put <strong style="color:#ffffff;">RACE WEEK</strong> at the top of your reply and I'll answer yours first.{% else %}Don't wait on an email. Your plan takes 30 seconds on our site. Got a question about it after? Put <strong style="color:#ffffff;">RACE WEEK</strong> at the top of a reply and I'll answer yours first.{% endif %}
+          Don't wait on an email. Your plan takes 30 seconds on our site. Got a question about it after? Put <strong style="color:#ffffff;">RACE WEEK</strong> at the top of a reply and I'll answer yours first.
         </p>
 
         <table role="presentation" cellpadding="0" cellspacing="0" border="0">
           <tr>
             <td class="btn-glow" style="background-color:#2563eb; border-radius:6px;">
-{% if person|lookup:'plan_10k' %}
-              <span style="display:inline-block; padding:14px 26px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:16px; font-weight:800; letter-spacing:1px; color:#ffffff; text-transform:uppercase;">Just hit reply</span>
-{% else %}
+
               <a href="https://engineroomnutrition.com/?utm_source=klaviyo&amp;utm_medium=email&amp;utm_campaign=welcome#get-plan" target="_blank" style="display:inline-block; padding:14px 26px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:16px; font-weight:800; letter-spacing:1px; color:#ffffff; text-transform:uppercase;">Get my free plan</a>
-{% endif %}
+
             </td>
           </tr>
         </table>
         <p style="margin:12px 0 0 0; font-family:'DM Sans',Arial,sans-serif; font-size:14px; line-height:1.6; color:#aab6cf;">
-          {% if person|lookup:'plan_10k' %}Press reply in your email app. It comes straight to me.{% else %}Works on your phone. Your plan shows on screen, ready to save.{% endif %}
+          Works on your phone. Your plan shows on screen, ready to save.
         </p>
       </td>
     </tr>
@@ -696,7 +472,7 @@ a { text-decoration:none; }
 <tr>
 <td class="pad" style="background-color:#ffffff; padding:26px 28px 6px 28px;">
   <p style="margin:0 0 14px 0; font-family:'DM Sans',Arial,sans-serif; font-size:16px; font-style:italic; line-height:1.6; color:#555555;">
-    {% if person|lookup:'plan_10k' %}Good luck in {{ person|lookup:'race'|default:'your race' }}.{% else %}Good luck with the training.{% endif %}
+    Good luck with the training.
   </p>
   <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:22px; font-weight:900; color:#0a0f1e; text-transform:uppercase;">Luke</div>
   <div style="font-family:'DM Sans',Arial,sans-serif; font-size:11px; color:#999999; padding-top:2px;">Engine Room Nutrition</div>
@@ -709,11 +485,9 @@ a { text-decoration:none; }
   <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top:1px solid #f0f0f0;">
     <tr><td style="padding-top:16px;">
       <p style="margin:0 0 10px 0; font-family:'DM Sans',Arial,sans-serif; font-size:15px; line-height:1.65; color:#555555;">
-{% if person|lookup:'bar_waitlist' %}
-        <strong style="color:#0a0f1e;">P.S.</strong> You're on the list for the Carb Bar, so you'll hear about the first batch before anyone else. Tell me what you eat on race morning now. It shapes the bar.
-{% else %}
+
         <strong style="color:#0a0f1e;">P.S.</strong> Jamie and I are building a carb bar for marathon runners: 30g of carbs in a rice crisp square, for race morning. It's not out yet. Want to hear first? <a href="https://engineroomnutrition.com/pages/the-bar" target="_blank" style="color:#2563eb; text-decoration:underline;">Join the waitlist</a>.
-{% endif %}
+
       </p>
       <p style="margin:0; font-family:'DM Sans',Arial,sans-serif; font-size:15px; line-height:1.65; color:#555555;">
         <strong style="color:#0a0f1e;">P.P.S.</strong> You also get our Ultimate Endurance Guide, free. <a href="https://cdn.shopify.com/s/files/1/0935/2636/0394/files/The_Ultimate_Endurance_Guide.pdf?v=1776690435" target="_blank" style="color:#2563eb; text-decoration:underline;">Download it here</a>.

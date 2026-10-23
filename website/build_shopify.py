@@ -24,9 +24,9 @@ OUT = SRC / 'shopify'
 
 KLAVIYO_SETTINGS = [
     {"type": "header", "content": "Klaviyo sign-up forms"},
-    {"type": "paragraph", "content": "Sign-ups use Klaviyo's own embedded forms, set to add people to Email List. Klaviyo > Sign-up forms > the form > the 6-character ID in its address."},
+    {"type": "paragraph", "content": "Sign-ups use a Klaviyo embedded form that adds people to Email List. One form can go in both boxes. Klaviyo > Sign-up forms > the form > the 6-character ID in its address."},
     {"type": "text", "id": "kl_plan_form", "label": "Pace plan form ID", "info": "The embedded form in the plan card. When it's submitted, the plan appears."},
-    {"type": "text", "id": "kl_bar_form", "label": "Bar waitlist form ID", "info": "The embedded form for the Carb Bar waitlist."},
+    {"type": "text", "id": "kl_bar_form", "label": "Bar waitlist form ID", "info": "Can be the same form ID as the plan."},
 ]
 
 CONFIG_JS = ('<script>window.ERN_CONFIG = { klPlanForm: {{ section.settings.kl_plan_form | default: "" | json }}, '

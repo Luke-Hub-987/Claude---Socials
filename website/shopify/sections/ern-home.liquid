@@ -873,7 +873,11 @@
     $('get-plan').scrollIntoView({ behavior: 'smooth', block: 'start' });
     ERN.track('plan_unlocked', { goal_time: gv, race: raceName, with_email: !!email });
   }
-  ERN.onKlaviyoSubmit(ERN.config.klPlanForm, unlock);
+  // one Klaviyo form can serve both boxes: unlock the plan only when the
+  // sign-up came from the plan card (the box they last typed in)
+  var lastBox = 'klPlan';
+  ['klPlan', 'klBarHome'].forEach(function(id){ $(id).addEventListener('focusin', function(){ lastBox = id; }); });
+  ERN.onKlaviyoSubmit(ERN.config.klPlanForm, function(email){ if (lastBox === 'klPlan') unlock(email); });
   // Klaviyo's form didn't load (blocked or not set up): still give them the plan
   ERN.ifFormMissing($('klPlan'), function(){ $('planNoEmail').hidden = false; ERN.track('plan_form_missing'); });
   $('planNoEmail').addEventListener('click', function(){ unlock(''); });
@@ -933,7 +937,7 @@
     },
     {
       "type": "paragraph",
-      "content": "Sign-ups use Klaviyo's own embedded forms, set to add people to Email List. Klaviyo > Sign-up forms > the form > the 6-character ID in its address."
+      "content": "Sign-ups use a Klaviyo embedded form that adds people to Email List. One form can go in both boxes. Klaviyo > Sign-up forms > the form > the 6-character ID in its address."
     },
     {
       "type": "text",
@@ -945,7 +949,7 @@
       "type": "text",
       "id": "kl_bar_form",
       "label": "Bar waitlist form ID",
-      "info": "The embedded form for the Carb Bar waitlist."
+      "info": "Can be the same form ID as the plan."
     },
     {
       "type": "header",
