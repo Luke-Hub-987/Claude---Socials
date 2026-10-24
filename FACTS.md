@@ -100,3 +100,11 @@ with the date.
 - Over 1:40 slides (how hard 1:48). Posting time doesn't predict views
   (0.19, P144).
 - Saves follow clock-time schedules; shares follow tribe moments.
+- Opening frame: one picture or one number, only the OST in words, never
+  the answer (sleep 41.4% with a sentence on screen; P147).
+- The CTA has halved the remaining viewers twice (4:30 at 0:40, sleep at
+  0:49). Keep the hook to about 80 to 90 words so it lands near 0:33.
+- Off-clock body worries (sleep, kit) get likes, not saves (sleep 1.0%,
+  cold 0.9%).
+- **Forecasts:** lifetime is about 1.6 to 2.1 times the first-day read
+  (grid, 24 Oct).

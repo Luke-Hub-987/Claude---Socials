@@ -18,6 +18,7 @@ it produces.
 | 2f | How to pace a 4:30 marathon at every 10K | **14.6K at ~10.5h (lunchtime post); TikTok 8.5K** | Pacer at every drink station (3:45 echo, new reveal); cover = one runner at a drink station; **skip 37.0%, best goal-time**; CTA step at ~0:40 |
 | 2g | Can't face another gel in a marathon? | 5.8K at ~5h, below typical; TikTok 2.3K | Drink your gel; narrow gate; **skip 35.8% (good front)** but save 1.0%: most viewers don't have the problem |
 | 2h | What to do if your marathon goal is gone | 6.5K at ~9h overnight (10pm post); TikTok 1.3K | A/B/C, 2 numbers on the wrist; **motion graphic of the hook (+3:00) as the opening frame; skip 31.9% (joint best)**; save 2.4%; share 0.1%; rehook step at 1:13 |
+| 2i | What to do if you can't sleep before a marathon | 6.4K at ~12.75h (Fri 8pm); TikTok 1.7K | Countdown to 3am, the word game; **skip 41.4%**: the opening frame was a sentence that gave the reassurance (P147); off the race clock, save 1.0%; CTA at 0:49 lost half of who was left |
 | 3x | What to wear for a cold marathon | 15.4K at ~15h | Real cover: **skip 35.1%** (AI covers 39.3%, 46.7%); save 0.9%, reach stalled at ~11K IG: kit advice without a plan is watch-once |
 | 3 | What to do 7 days before a marathon | **31.4K at 14h** | **B**, the paradox opener ("weigh more on race morning, and that is the week going right"); 802 saves, 43 follows |
 | 3b | What to do in the first 10 minutes of a marathon | **27.1K at 12h** | **B on race day** + the photograph-test paradox ("your first K should be the slowest K of your whole race"); share 1.4%, a record |
@@ -28,6 +29,11 @@ it produces.
 | 7 | What to do in the last 3 hours before your marathon | 20.9K | **B** |
 | 8 | How to pace the first half of a marathon | 17.5K | **D** |
 | 9 | What to do in the last 30 minutes before a marathon | 15.1K | **B** |
+
+**Lifetime on the grid, 24 Oct (may include Facebook):** carb load 84.4K,
+without the wall 83.8K, 3:45 51K, how hard 46.5K, sub-4 30.4K, second half
+29.2K, 4:30 24K, cold 24K, 3:30 15.3K, gel 11.9K, goal gone 11.3K. Lifetime
+runs about 1.6 to 2.1 times the first-day read.
 
 **What never worked:** the weeks before the race as anything but a countdown (taper 43.1% skip; heavy legs 0.5% saves, P117); the gut or fuel as the subject (1.6K to 4.4K,
 stomach 4.1K), sorting viewers into groups (who hits, ~7.5K), training

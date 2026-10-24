@@ -24,9 +24,9 @@ every posted video.
 3. The three newest `ideas/*-review.md` files: the latest data.
 4. The newest scripts in `ideas/engine-room-nutrition/` (the house
    style, the hook stacks, the audit tables).
-5. `principles.md` (P1 to P146, about 4,400 lines): search it for the
+5. `principles.md` (P1 to P147, about 4,400 lines): search it for the
    rule you need; do not read it end to end. The newest rules (P97 to
-   P146) are at the end, before "Open questions for Luke".
+   P147) are at the end, before "Open questions for Luke".
 
 ## How we work (Luke's standing instructions)
 
@@ -173,7 +173,9 @@ every posted video.
 
 ## Current state (update this every session)
 
-**As of 23 October 2026.**
+**As of 24 October 2026.**
+
+Lifetime on the grid (24 Oct): carb load 84.4K, without the wall 83.8K, 3:45 51K, how hard 46.5K, sub-4 30.4K, second half 29.2K. Lifetime runs 1.6 to 2.1 times the first-day read: forecast with that.
 
 Grid (Instagram, ERN side): the wall 147K; **3:45 pacing 29.1K at ~17h, TikTok 10.9K (record), emails up with the CTA a third of the way in (P128)**; **carb load 52.8K at ~20h (our #2: 1.3K saves, 60 follows, a record; skip 46.7%)**; **without the wall 41.5K at
 18h** (record 39s watched on 1:37, save 3.2%, 25 comments; skip 39.3%
@@ -186,7 +188,7 @@ half 17.6K at 14h; sub-4 at every 10K 14.5K at 18h (skip 40.8%) but
 best); quit ~14K at 14h; Dublin course (small reach, deepest
 engagement); taper and heavy legs missed.
 
-Latest review: `ideas/2026-10-23-goal-gone-review.md` (goal gone at ~9h,
+Latest review: `ideas/2026-10-24-sleep-review.md` (sleep at ~12.75h: 6.4K, **skip 41.4%**: the opening frame was a sentence that gave away the reassurance, P147; save 1.0%, off the race clock; the CTA at 0:49 lost half of who was left, because the hook ran 116 words). Before it: `ideas/2026-10-23-goal-gone-review.md` (goal gone at ~9h,
 10pm post: 6.5K, **skip 31.9% joint best** with a motion graphic of the hook
 as the opening frame; save 2.4%; share 0.1%; the "why" rehook stage lost
 half the remaining viewers). Before it: gel (5.8K, narrow topic); 4:30
@@ -202,7 +204,7 @@ your half marathon time into a marathon goal (incl. after illness). Fri 23
 your marathon. 4:30 goes TikTok-only. Luke's goal: 1M lifetime IG views
 (840K on 19 Oct). Every pace in km and miles in captions (P129).
 
-Waiting on Luke: sleep script delivered for today (`ideas/engine-room-nutrition/2026-10-23-script-sleep.md`, retention table and motion cue sheet); next: Sat enjoy brief; Mon walk; spring pivot from 27 Oct.
+Waiting on Luke: enjoy brief for Sat 24 (`ideas/engine-room-nutrition/2026-10-24-brief-enjoy.md`: 0-10K let them go, 10-20K head up, 20-30K your name, 32K your people; two P146 questions: name on the top, 32K for supporters). Script on his yes. Then: Mon walk; spring pivot from 27 Oct.
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
 Motion graphics (22 Oct, Luke asked): `motion/` renders 16:9 scene clips for the top half of the reel (`motion/README.md`). Goal gone is built in placeholder colours; waiting on Luke's logo to set the brand colours. Run it as a trial reel A/B against the plain version: the checklist still says only the title and stage markers on screen (P84, P95). Race night (sleep, Sat 24) built 23 Oct in the website theme (`motion/race-night.html`); that theme is the default for motion graphics now.
 

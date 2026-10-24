@@ -5019,6 +5019,25 @@ remove.
 
 *Source: Luke, 23 October.*
 
+## P147 — The opening frame is one picture or one number, never a sentence or the answer
+
+Sleep review, 24 October: the race-night motion graphic opened on "You'll
+sleep badly. And it won't cost you your race." in big type beside a 2:00 AM
+clock, with the OST underneath: two headlines to read at once, and the top
+one was the reassurance the viewer came for. Skip 41.4%. Goal gone opened on
+one number (+3:00) in the same motion style: 31.9%.
+
+**The rule:**
+- The opening frame is the hook as a picture or a single number (a watch, a
+  clock, a K sign). The only words on it are the OST.
+- It never states the answer or the reassurance. Line one opens the fear
+  and leaves it open; the stages close it.
+- Keep the hook stack to about 80 to 90 words so the CTA lands near 0:33
+  (P128). Sleep's ran 116 words and pushed it to 0:49, where half of the
+  people left went.
+
+*Source: sleep review, 24 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

@@ -141,6 +141,10 @@ twice without being checked against the winners (P99).
       (P104: crowds 36.2%, 38.1%), **a product, food, or someone
       else's win.** Those sit at 36% to 43%.
 - [ ] **The cover and the first frame are the same image.**
+- [ ] **The opening frame is one picture or one number, never a sentence
+      and never the answer (P147).** Only the OST in words. Sleep: a
+      two-line reassurance on screen, 41.4% skip; goal gone: +3:00 alone,
+      31.9%.
 - [ ] **In race context where possible** (a bib, a road, barriers).
 - [ ] **One photo, full width.** A two-photo collage halves each image.
 - [ ] **Free licence, credited, nobody in a bad light.** Search Wikimedia
@@ -221,6 +225,9 @@ twice without being checked against the winners (P99).
 
 ## 6. Ending and length
 
+- [ ] **Hook stack about 80 to 90 words, so the CTA lands near 0:33
+      (P147).** Sleep's 116-word hook put the CTA at 0:49; it lost half
+      the people left.
 - [ ] **CTA a third of the way in (P128, Luke 19 Oct: "an awful lot" of
       emails on 3:45):** after stage one's payoff, then straight back in
       with a forward pull; the end closes on the payoff.
