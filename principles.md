@@ -5084,6 +5084,31 @@ question, and the reframe closed it in the same breath.
 
 *Source: Luke, 24 October.*
 
+## P150 — The LLM Council on every decision
+
+Luke, 24 October: "In addition to all of our data and principles, we should
+establish an LLM Council", and employ it in each decision.
+
+**The council:**
+1. **Contrarian:** only looks for why the idea fails.
+2. **Assumption-ripper (principal thinker):** challenges every assumption,
+   ours and Luke's.
+3. **Expansionist:** finds the upside we're missing.
+4. **Outsider:** knows nothing about running or ERN; asks the obvious.
+5. **Executor:** only cares about the end result: what to do, by when, and
+   what it delivers.
+
+**Then:** each advisor reviews the others' points blind (ideas, not who
+said them), and a **Chairman** gives one verdict with clear next steps.
+
+**The rule:** every topic, OST, line one, cover and structure decision
+runs the council before Luke sees it, written in the file next to the
+failure ledger (P148). The ledger is what's failed before; the council is
+what could fail this time. In chat: the verdict and the points that
+changed the plan.
+
+*Source: Luke, 24 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

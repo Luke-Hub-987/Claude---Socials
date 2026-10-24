@@ -31,6 +31,10 @@ twice without being checked against the winners (P99).
       every row pass or fail,** before Luke sees the script. Sleep repeated
       three known failures because nothing forced this check.
 
+- [ ] **The LLM Council is in the file (P150):** Contrarian,
+      Assumption-ripper, Expansionist, Outsider, Executor; a blind
+      cross-review; a Chairman verdict with next steps.
+
 ## 1. Topic
 
 - [ ] **Passes the five-line gate in `PLAN-winners.md` (P110).** If not,

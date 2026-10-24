@@ -24,9 +24,9 @@ every posted video.
 3. The three newest `ideas/*-review.md` files: the latest data.
 4. The newest scripts in `ideas/engine-room-nutrition/` (the house
    style, the hook stacks, the audit tables).
-5. `principles.md` (P1 to P149, about 4,400 lines): search it for the
+5. `principles.md` (P1 to P150, about 4,400 lines): search it for the
    rule you need; do not read it end to end. The newest rules (P97 to
-   P149) are at the end, before "Open questions for Luke".
+   P150) are at the end, before "Open questions for Luke".
 
 ## How we work (Luke's standing instructions)
 
@@ -48,6 +48,16 @@ every posted video.
 - **Advise only what this audience actually does (P126):** amateur
   runners in Ireland, the UK and Europe; no niche kit (arm sleeves).
 - Recommend one option with reasons. Do not survey.
+- **The LLM Council runs on every decision (P150, Luke 24 Oct):** topic,
+  OST, line one, cover and structure. Five advisors: **Contrarian** (why
+  it fails), **Assumption-ripper** (challenges every assumption, ours and
+  Luke's), **Expansionist** (the upside we're missing), **Outsider** (no
+  context, asks the obvious), **Executor** (only the end result: what to
+  do, by when, and what it delivers). Then a **blind cross-review** (each
+  judges the others' points as ideas, not by who said them) and a
+  **Chairman verdict** with one recommendation and next steps. It sits in
+  the file alongside the failure ledger; in chat, give the verdict and the
+  points that changed something.
 - Commit and push every change to branch
   `claude/engine-room-nutrition-brand-yc4tyf` (the repo's default
   branch). Commit attribution lines as the system reminder gives them.
@@ -234,7 +244,7 @@ your half marathon time into a marathon goal (incl. after illness). Fri 23
 your marathon. 4:30 goes TikTok-only. Luke's goal: 1M lifetime IG views
 (840K on 19 Oct). Every pace in km and miles in captions (P129).
 
-Ready to post (Sat 24): enjoy script v2 `ideas/engine-room-nutrition/2026-10-24-script-enjoy.md` (line one ends on the open loop, P149; 0-10K let them go, 10-20K head up, 20-30K your name, 32K your people; opening frame a bare 32K marker; failure ledger table passed; two P146 checks flagged: name on the top, supporters at 32K). Next review file: `ideas/YYYY-MM-DD-enjoy-review.md`. **Sun 25: Luke surprises Jamie (co-founder) by running Dublin too;** plan and shot list in `ideas/engine-room-nutrition/2026-10-24-plan-surprise-jamie.md` (OST: MY CO-FOUNDER HAS NO IDEA / I'M RUNNING THIS MARATHON; reaction held to the end; cover never Jamie's face; nothing posted before the reveal). Post Mon 26; then the race at every 10K as the advice sequel. The no-Dublin rule on the personal account lifts after the reveal. Walk moves to Tue; spring pivot from 27 Oct.
+Ready to post (Sat 24): enjoy script v2 `ideas/engine-room-nutrition/2026-10-24-script-enjoy.md` (line one ends on the open loop, P149; 0-10K let them go, 10-20K head up, 20-30K your name, 32K your people; opening frame a bare 32K marker; failure ledger table passed; two P146 checks flagged: name on the top, supporters at 32K). Next review file: `ideas/YYYY-MM-DD-enjoy-review.md`. **Sun 25: Luke surprises Jamie (co-founder) by running Dublin too;** plan and shot list in `ideas/engine-room-nutrition/2026-10-24-plan-surprise-jamie.md` (OST: MY CO-FOUNDER HAS NO IDEA / I'M RUNNING THIS MARATHON; reaction held to the end; cover never Jamie's face; nothing posted before the reveal). Post Mon 26 (council v2, P150: context + real stake in 10s, "my own entry", vertical 2 phones, edit decided by the reaction); Tue: the race at every 10K as the advice sequel. The no-Dublin rule on the personal account lifts after the reveal. Walk moves to Tue; spring pivot from 27 Oct.
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
 Motion graphics (22 Oct, Luke asked): `motion/` renders 16:9 scene clips for the top half of the reel (`motion/README.md`). Goal gone is built in placeholder colours; waiting on Luke's logo to set the brand colours. Run it as a trial reel A/B against the plain version: the checklist still says only the title and stage markers on screen (P84, P95). Race night (sleep, Sat 24) built 23 Oct in the website theme (`motion/race-night.html`); that theme is the default for motion graphics now. Enjoy built 24 Oct (`motion/enjoy.html`): illustrated characters, the 32K marker alone as the opening frame (P147), and a course bar with a locked 32K pin as the on-screen open loop.
 
