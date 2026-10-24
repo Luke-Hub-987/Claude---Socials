@@ -174,3 +174,8 @@ and `.md`. Subject "What to do each day before your marathon"; countdown
 Thursday to race morning; reply by Friday evening for a plan. New claim
 to approve: carb load 8-10 g/kg a day. DNS fully fixed 22 Oct (SPF, Google
 DKIM, DMARC with reports).
+
+Race-eve email (24 Oct): `ideas/engine-room-nutrition/emails/2026-10-24-race-eve-splits.html`
+and `.md`. Subject "Your splits for tomorrow's marathon"; splits table for
+goals 3:00 to 5:00 (4:00 row = the sub-4 sample); ask: reply with finish
+time. The 22 Oct race-week email opened at about 68% (Luke).
