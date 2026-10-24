@@ -5060,6 +5060,30 @@ script against them before delivery.
 
 *Source: Luke, 24 October.*
 
+## P149 — The reframe never answers line one; a promise ends on the open loop
+
+Luke, 24 October, reviewing the enjoy hook as Briar would: "Saying that's
+how it's meant to go doesn't imply any curiosity... telling them that's how
+it's meant to go and then they know what it's meant to be." Line one
+("32K can be the best part of your race, legs gone and all") opened a
+question, and the reframe closed it in the same breath.
+
+**The rule:**
+- **Briar's test on the last words of line one, read alone:** does the
+  viewer think "how?" or "what does he mean?" If the ending settles it,
+  it fails.
+- **A reframe only fits when the odd thing will happen to every viewer
+  anyway** and is a good sign (weigh more on race morning; you'll want to
+  quit; the first K the slowest). Then the reframe turns a worry into a
+  question ("how is that the week going right?").
+- **When line one is a promise or a possibility** ("can be the best
+  part"), there's nothing to normalise: end it on the open loop that points
+  at the method without giving it ("and it's all down to one text you send
+  the night before").
+- P136 still applies whenever a reframe is used: new words every time.
+
+*Source: Luke, 24 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

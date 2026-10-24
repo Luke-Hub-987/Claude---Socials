@@ -24,9 +24,9 @@ every posted video.
 3. The three newest `ideas/*-review.md` files: the latest data.
 4. The newest scripts in `ideas/engine-room-nutrition/` (the house
    style, the hook stacks, the audit tables).
-5. `principles.md` (P1 to P148, about 4,400 lines): search it for the
+5. `principles.md` (P1 to P149, about 4,400 lines): search it for the
    rule you need; do not read it end to end. The newest rules (P97 to
-   P148) are at the end, before "Open questions for Luke".
+   P149) are at the end, before "Open questions for Luke".
 
 ## How we work (Luke's standing instructions)
 
@@ -120,6 +120,7 @@ a new cause becomes a new row in the same turn.**
 | 14 | **Cover number not in the title** | Sub-4 (a 3:45 flag) | Every number on screen is in the title or line one |
 | 15 | **A tip as line one** | Carb load v1 to v6 (Luke caught) | P120 pre-flight: would runners argue, and can't they guess why? |
 | 16 | **Template lines repeated** | "That's your race going to plan" (P136); a viewer called a script AI (P125) | No line from the last three scripts |
+| 17 | **A reframe that answers line one** | Enjoy v1, "that's how it's meant to go" (Luke caught, 24 Oct) | Read line one's last words alone: do they leave "how?" A promise ends on the open loop, not a reframe (P149) |
 
 ## The rules that matter most (quick reference; the checklist has all)
 
@@ -153,7 +154,8 @@ a new cause becomes a new row in the same turn.**
 - Line one: run the P120 pre-flight (a tip is not a counter-position).
   Something you can photograph, turned into a paradox, ending
   on a reframe (31.9% to 34% skip with it; 38.1% without; 43.1% when
-  abstract). P112, P116. **New wording every video (P136): "that's your
+  abstract). P112, P116. **The reframe only when the odd thing happens to
+  everyone anyway; a promise ends on the open loop instead (P149).** **New wording every video (P136): "that's your
   race going to plan" is retired** ("and that's exactly how it should feel").
 - Then pain as a picture, the dream as a picture, a named concept that
   belongs to nobody, the save prompt. The hook never contains the
@@ -232,7 +234,7 @@ your half marathon time into a marathon goal (incl. after illness). Fri 23
 your marathon. 4:30 goes TikTok-only. Luke's goal: 1M lifetime IG views
 (840K on 19 Oct). Every pace in km and miles in captions (P129).
 
-Ready to post (Sat 24): enjoy script `ideas/engine-room-nutrition/2026-10-24-script-enjoy.md` (0-10K let them go, 10-20K head up, 20-30K your name, 32K your people; opening frame a bare 32K marker; failure ledger table passed; two P146 checks flagged: name on the top, supporters at 32K). Next review file: `ideas/YYYY-MM-DD-enjoy-review.md`. Then: Mon walk; spring pivot from 27 Oct.
+Ready to post (Sat 24): enjoy script v2 `ideas/engine-room-nutrition/2026-10-24-script-enjoy.md` (line one ends on the open loop, P149; 0-10K let them go, 10-20K head up, 20-30K your name, 32K your people; opening frame a bare 32K marker; failure ledger table passed; two P146 checks flagged: name on the top, supporters at 32K). Next review file: `ideas/YYYY-MM-DD-enjoy-review.md`. Then: Mon walk; spring pivot from 27 Oct.
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
 Motion graphics (22 Oct, Luke asked): `motion/` renders 16:9 scene clips for the top half of the reel (`motion/README.md`). Goal gone is built in placeholder colours; waiting on Luke's logo to set the brand colours. Run it as a trial reel A/B against the plain version: the checklist still says only the title and stage markers on screen (P84, P95). Race night (sleep, Sat 24) built 23 Oct in the website theme (`motion/race-night.html`); that theme is the default for motion graphics now.
 

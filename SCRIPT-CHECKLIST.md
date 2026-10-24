@@ -279,6 +279,11 @@ twice without being checked against the winners (P99).
 - [ ] **Line one has something to picture** (P116): a scale, a watch
       screen, a K marker, a hill. An abstract loop ("what you cut")
       cost the taper video a 43.1% skip.
+- [ ] **The last words of line one leave "how?" (P149, Luke 24 Oct).**
+      A reframe only when the odd thing happens to every viewer anyway; a
+      promise ("32K can be the best part") ends on the open loop ("and it's
+      all down to one text you send the night before"). "That's how it's
+      meant to go" answered the line and was cut.
 - [ ] **End line one on the reframe when it is true** ("and that is
       your race going to plan"): every opener under 35% skip had it (7
       days, quit, first 10 minutes); second half left it out, 38.1%;
