@@ -155,7 +155,7 @@ How to actually enjoy your marathon. 32K (about mile 20) can be the best part of
 
 For the first 10K (about 6 miles), if it feels exciting you're going too fast. You should get all 10 words of "I am running a marathon today and I feel good" out in one breath. If you can't, ease off and let them go. You'll pass a lot of them later.
 
-From 10 to 20K, the best you'll feel all day, check your watch once a K at the marker and nowhere else. In between, look up, read the signs and high-five the kids. Your gels stay on the clock as always.
+From 10 to 20K (about 6 to 12 miles) you'll feel the best you will all day, so check your watch once a K, at the marker, and nowhere else. In between, look up, read the signs and high-five the kids. Your gels stay on the clock as always.
 
 The night before, write your first name on the front of your top in black marker, letters as tall as your hand. From 20K, when it goes quiet in your head, strangers will shout it.
 
