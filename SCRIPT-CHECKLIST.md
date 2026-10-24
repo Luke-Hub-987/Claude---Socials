@@ -25,6 +25,12 @@ twice without being checked against the winners (P99).
 | Not hungry on a long run | 3.7K (24h) | 32.1% | 1.2% | 28s / 1:32 | Training, instruction | Food |
 | How many gels you actually need | 2.8K | **42.9%** | 1.0% | 29s | **Answered itself** | **Product** |
 
+## 0. The failure ledger (P148, Luke 24 Oct)
+
+- [ ] **The CLAUDE.md failure ledger is in the script file as a table,
+      every row pass or fail,** before Luke sees the script. Sleep repeated
+      three known failures because nothing forced this check.
+
 ## 1. Topic
 
 - [ ] **Passes the five-line gate in `PLAN-winners.md` (P110).** If not,

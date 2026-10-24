@@ -78,6 +78,18 @@ totals.) **Lifetime is about 1.6 to 2.1 times the first-day read.** Use
 that for forecasts from now on. The search-phrase titles (without the wall,
 carb load, how hard) keep growing longest.
 
+## Repeats (P148: my miss)
+Three of these causes were already on record, and I didn't check the
+script against them:
+- **The answer up front** = the gels count review (20 Sep): "the OST
+  answered its own question". Same failure, moved to the opening frame.
+- **Reassurance in place of instructions** = heavy legs (10 Oct):
+  "reassurance gets watched less and kept less than instructions".
+- **Off the race clock** = the gut, taper and kit videos (gate line 2).
+New this time: the long hook pushing the CTA to 0:49 (ledger row 9).
+All four are now rows in the CLAUDE.md failure ledger, which every script
+must pass as a table.
+
 ## Lessons
 - **The opening frame is one picture or one number. Never a sentence, and
   never the answer** (P147).

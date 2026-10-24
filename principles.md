@@ -5038,6 +5038,28 @@ one number (+3:00) in the same motion style: 31.9%.
 
 *Source: sleep review, 24 October.*
 
+## P148 — The failure ledger: every script is checked against every past failure
+
+Luke, 24 October, after the sleep review: "Update your memory for these
+learnings, because I have asked you to update this before and you clearly
+haven't on why it underperformed." He was right. Three of the sleep video's
+four causes were already on record: the answer up front (gels count, 20
+Sep: "the OST answered its own question"), reassurance in place of
+instructions (heavy legs, 10 Oct), and a subject off the race clock (gut,
+taper, kit). The rules were in this file; nothing made me check a new
+script against them before delivery.
+
+**The rule:**
+- **The failure ledger lives in CLAUDE.md** (auto-loaded every session):
+  every cause of an underperforming video, where it happened, and the check.
+- **Every script file carries the ledger as a table, a pass or fail per
+  row, before Luke sees it.** A fail is fixed or said plainly.
+- **Every review checks the ledger first.** A repeat is named as a repeat
+  and as my miss; a new cause becomes a new row in the same turn, with the
+  principle and the checklist line.
+
+*Source: Luke, 24 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

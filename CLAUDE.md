@@ -24,9 +24,9 @@ every posted video.
 3. The three newest `ideas/*-review.md` files: the latest data.
 4. The newest scripts in `ideas/engine-room-nutrition/` (the house
    style, the hook stacks, the audit tables).
-5. `principles.md` (P1 to P147, about 4,400 lines): search it for the
+5. `principles.md` (P1 to P148, about 4,400 lines): search it for the
    rule you need; do not read it end to end. The newest rules (P97 to
-   P147) are at the end, before "Open questions for Luke".
+   P148) are at the end, before "Open questions for Luke".
 
 ## How we work (Luke's standing instructions)
 
@@ -92,6 +92,34 @@ every posted video.
   light, HDR, oversaturation, plastic or airbrushed look, extra
   fingers). Never Irish or race branding (Luke, 15 Oct). Then why each
   part is there, and what to zoom in on before using it.
+
+## The failure ledger (P148): every script passes every row, as a table in the file
+
+Luke, 24 Oct: "I have asked you to update this before and you clearly
+haven't." The sleep video repeated three failures already on record. Rules
+existed; nothing forced the check. **Every script file carries this table
+with a pass/fail per row before Luke sees it. Every review that finds a
+cause checks this list first: a repeat is named as a repeat (my miss), and
+a new cause becomes a new row in the same turn.**
+
+| # | Failure | Where it happened | The check |
+|---|---|---|---|
+| 1 | **The answer up front** (OST, line one, opening frame, named concept) | Gels count 42.9% ("the OST answered its own question", 20 Sep); taper v2, wall v1 (Luke caught); sleep 41.4% (the reassurance as a sentence on screen) | After the opening frame, line one and the named concept, what is the viewer still waiting to find out? |
+| 2 | **Reassurance in place of instructions** | Heavy legs (0.5% saves); sleep (1.0%) | Every stage ends on an action with a number |
+| 3 | **Off the race clock** (the gut, taper, training weeks, kit, sleep) | Stomach 4.1K; taper 43.1%; training 4.4-5.3K; cold 0.9% saves; sleep 1.0% saves | Race day, a race-pace decision, or a countdown with an action per stage (P117) |
+| 4 | **A crowd, start or finish** in the cover or opening frame | 3:30 48.9%; out of the wall's first frame; last 24 hours 38.1%; sub-4 40.8% | One person, one object, or one number |
+| 5 | **Collage, AI or repeated cover** | Cramp, taper, stomach collages; AI 39.3%, 46.7%; repeated splits 38.1% | One new real image (or a motion graphic of the hook) |
+| 6 | **Abstract line one, or no reframe** | Taper 43.1%; without the wall 39.3% | Photograph test plus a reframe in new words (P116, P136) |
+| 7 | **Too long** | How hard 1:48; cramp 1:31 on 300 words | About 300 to 320 words, 1,550 to 1,670 characters |
+| 8 | **A "why" stage after the method** | Goal gone, half gone at 1:13 | The why is one line inside the payoff stage |
+| 9 | **CTA late or long** | Sleep 0:49 (116-word hook); 4:30 0:40; thread line plus CTA cliff (out of the wall) | Hook 80 to 95 words; one-sentence CTA after stage 1, back into the video |
+| 10 | **Sorting viewers** | Who hits the wall ~7.5K | Every viewer is the subject of every stage (P103) |
+| 11 | **A problem few viewers have** | Gel 5.8K; narrow gates on IG (sub-4, Dublin) | What share of viewers have this problem? |
+| 12 | **Mixed timelines in the stages** | Stomach | One clock |
+| 13 | **A list of symptoms, not a sequence** | Heavy legs | Stages in time order, each an action |
+| 14 | **Cover number not in the title** | Sub-4 (a 3:45 flag) | Every number on screen is in the title or line one |
+| 15 | **A tip as line one** | Carb load v1 to v6 (Luke caught) | P120 pre-flight: would runners argue, and can't they guess why? |
+| 16 | **Template lines repeated** | "That's your race going to plan" (P136); a viewer called a script AI (P125) | No line from the last three scripts |
 
 ## The rules that matter most (quick reference; the checklist has all)
 
@@ -204,7 +232,7 @@ your half marathon time into a marathon goal (incl. after illness). Fri 23
 your marathon. 4:30 goes TikTok-only. Luke's goal: 1M lifetime IG views
 (840K on 19 Oct). Every pace in km and miles in captions (P129).
 
-Waiting on Luke: enjoy brief for Sat 24 (`ideas/engine-room-nutrition/2026-10-24-brief-enjoy.md`: 0-10K let them go, 10-20K head up, 20-30K your name, 32K your people; two P146 questions: name on the top, 32K for supporters). Script on his yes. Then: Mon walk; spring pivot from 27 Oct.
+Ready to post (Sat 24): enjoy script `ideas/engine-room-nutrition/2026-10-24-script-enjoy.md` (0-10K let them go, 10-20K head up, 20-30K your name, 32K your people; opening frame a bare 32K marker; failure ledger table passed; two P146 checks flagged: name on the top, supporters at 32K). Next review file: `ideas/YYYY-MM-DD-enjoy-review.md`. Then: Mon walk; spring pivot from 27 Oct.
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
 Motion graphics (22 Oct, Luke asked): `motion/` renders 16:9 scene clips for the top half of the reel (`motion/README.md`). Goal gone is built in placeholder colours; waiting on Luke's logo to set the brand colours. Run it as a trial reel A/B against the plain version: the checklist still says only the title and stage markers on screen (P84, P95). Race night (sleep, Sat 24) built 23 Oct in the website theme (`motion/race-night.html`); that theme is the default for motion graphics now.
 
