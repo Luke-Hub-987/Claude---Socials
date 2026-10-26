@@ -404,6 +404,14 @@ Subscriber count cited in-post, in order: 145+ (6/18), 150+ (6/25,
 6/30), 160+ (7/12). Growing steadily — keep this number current in
 every new post's CTA rather than reusing a stale figure.
 
+**Update, 2026-10-26 (Luke direct):** close to 600 on the list, roughly
+3.5x the July figure. The offer has also changed: subscribers now get
+a free personalised marathon plan built around their own goal pace,
+not the endurance fuelling guide the earlier CTAs promised. Luke also
+reports 30 to 40 runners have run marathon PBs on the approach this
+year (exact count and definition still to confirm). Any draft written
+before this date with "160+" or "fuelling guide" in its CTA is stale.
+
 ## Gaps in this file (need Luke)
 
 - **Per-post click data for the mid-tier table.** Luke has shown
