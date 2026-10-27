@@ -82,7 +82,7 @@ Start running at 50 seconds, before the walk feels finished. Wait until you feel
 
 ## Plain-words check (P157)
 - Every sentence is something you'd say to a friend on a run. Longest
-  sentence: 21 words. Most are under 15.
+  sentence: 20 words. Most are under 15.
 - No jargon: "talk test" is said as "how many words you can get out in one
   breath"; no "protocol", "strategy", "cadence", "zone".
 - One number per sentence (P155). No sums spoken: "about 30 seconds", "about
