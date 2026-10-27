@@ -20,6 +20,14 @@ happened at each 10K.
 - Film it vertical-friendly as well (a tight shot of whoever is talking),
   so clips can be cut without losing faces.
 
+## Plan (27 Oct)
+`podcast/2026-10-27-episode-1-plan.md`: run of show, the three questions
+at every 10K, the clip plan for Sat, setup, name, council. Recommended:
+35 to 45 minutes, Luke hosts, Jamie answers first, YouTube and Spotify,
+judged on reels cut from it and emails, not plays. **Waiting on Luke's
+facts list** (both splits, gel times, each 10K, the surprise reason, the
+bar) before the Sat brief.
+
 ## Still to decide in the podcast chat
 Format and length, name, where it's published, recording setup, and how
 the plan CTA fits (counted by day, never an extra step: P154).
