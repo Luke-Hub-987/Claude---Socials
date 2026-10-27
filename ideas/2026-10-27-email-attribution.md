@@ -6,6 +6,10 @@ basis: Luke's Klaviyo profiles screenshot (27 Oct, 6:57am). No email addresses a
 
 # Which video brings the emails? Attribution
 
+**Luke, 27 Oct: rejected the dropdown ("it adds an extra step and friction").
+Attribution is by sign-ups per day against posting days (P154). The council
+below is kept as the record; its verdict is overruled.**
+
 ## What the screenshot shows (sign-ups by profile-created time)
 | Day | Sign-ups visible | New reel that day |
 |---|---|---|

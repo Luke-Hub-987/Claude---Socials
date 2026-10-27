@@ -5159,22 +5159,24 @@ keeps getting served after the date passes.
 
 *Source: enjoy and surprise review, 27 October.*
 
-## P154 — Every sign-up is attributed to a video, and no subscriber data goes in the repo
+## P154 — Attribute sign-ups by day, never by adding a step; no subscriber data in the repo
 
 Luke, 27 October: "Can't see attribution of emails to posts, especially
 since old videos are still performing." Klaviyo showed 11 sign-ups on Mon
-26, a day with no new reel: the back catalogue is doing much of the work,
-and without attribution the mid-video CTA (ledger row 9) can't be judged.
+26, a day with no new reel. I suggested a "Which video sent you?" dropdown
+on the form. **Luke: no, "it adds an extra step and friction."**
 
 **The rule:**
-- The sign-up form asks "Which video sent you?" (a dropdown of recent
-  reels, "an older video", "somewhere else"), updated with each post.
-- Every review reports sign-ups for the video (from the dropdown) and per
-  day, against posting days.
+- **Never add a step, field or question to the sign-up.** The CTA's job is
+  the easiest possible yes.
+- Attribute by **sign-ups per day against posting days**, the method the 1M
+  analysis used (3:45's day brought 51, 3:30's 39). Each review counts the
+  sign-ups on the post's day and the day after, and notes days with no new
+  reel as the back catalogue's baseline (Mon 26: 11).
 - Subscriber emails and names never go into the repo, review files or any
   outside service. Counts only.
 
-*Source: Luke, 27 October; `ideas/2026-10-27-email-attribution.md`.*
+*Source: Luke, 27 October.*
 
 ## Open questions for Luke
 

@@ -45,8 +45,8 @@ twice without being checked against the winners (P99).
       3 seconds, shown in the opening frame (P151).** The standalone
       surprise ran 44.1% skip and 0 saves.
 
-- [ ] **The sign-up form's "Which video sent you?" dropdown lists this
-      video (P154)** before it goes up.
+- [ ] **Nothing added to the sign-up (P154, Luke 27 Oct: friction).**
+      Emails are counted per day against posting days in the review.
 
 ## 1. Topic
 

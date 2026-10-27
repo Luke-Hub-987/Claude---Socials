@@ -123,5 +123,6 @@ with the date.
 ## Email sign-ups (Klaviyo, counts only, P154)
 - Sat 24 Oct: 9+ (8pm to 11pm visible; enjoy posted ~2pm). Sun 25: 7
   (surprise ~2:25pm). Mon 26: 11 with no new reel. Tue 27 to 6:40am: 1.
-- No per-video attribution yet: the "Which video sent you?" dropdown fixes
-  it from 27 Oct.
+- Attribution by day only (no extra step on the form, Luke 27 Oct, P154).
+  Earlier days: 3:45's day 51, 3:30's 39 (1M analysis). No-post baseline:
+  Mon 26, 11.
