@@ -58,6 +58,11 @@ twice without being checked against the winners (P99).
 - [ ] **The reach reel of the week has two trial-reel versions** (first
       line and opening frame), posted the evening before (P156).
 
+- [ ] **Talk like a friend on a run (P157, Luke 27 Oct):** read aloud;
+      most sentences under 15 words, none over about 20; no jargon or
+      method names; every instruction something you can picture. A
+      plain-words check in the file.
+
 ## 1. Topic
 
 - [ ] **Passes the five-line gate in `PLAN-winners.md` (P110).** If not,

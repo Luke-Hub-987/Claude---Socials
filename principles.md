@@ -5223,6 +5223,26 @@ as you can sustain without burning out.
 
 *Source: Adam Mosseri via Luke, 27 October; `ideas/2026-10-27-mosseri-ranking.md`.*
 
+## P157 — Talk like a friend on a run: no friction to understand
+
+Luke, 27 October, on the walk script: "make sure it's really simple to
+understand so no friction for anyone to try comprehend... language that is
+the same as if I'm speaking to a friend, conversational, clear, specific."
+
+**The rule:**
+- Every sentence is something Luke would say to a friend on a run. Read it
+  aloud; if it sounds written, rewrite it.
+- Short sentences: most under 15 words, none over about 20.
+- No jargon or labels: say what to do ("how many words you can get out in
+  one breath"), not the name of the method ("the talk test"). No
+  "protocol", "strategy", "zone", "cadence", "optimal".
+- One number per sentence (P155), every instruction something you can
+  picture (the side of the road, the next lamppost).
+- Each script file carries a plain-words check: longest sentence, jargon
+  removed, the read-aloud test.
+
+*Source: Luke, 27 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
