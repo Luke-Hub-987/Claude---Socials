@@ -24,9 +24,9 @@ every posted video.
 3. The three newest `ideas/*-review.md` files: the latest data.
 4. The newest scripts in `ideas/engine-room-nutrition/` (the house
    style, the hook stacks, the audit tables).
-5. `principles.md` (P1 to P153, about 4,400 lines): search it for the
+5. `principles.md` (P1 to P154, about 4,400 lines): search it for the
    rule you need; do not read it end to end. The newest rules (P97 to
-   P153) are at the end, before "Open questions for Luke".
+   P154) are at the end, before "Open questions for Luke".
 
 ## How we work (Luke's standing instructions)
 
@@ -207,6 +207,7 @@ a new cause becomes a new row in the same turn.**
 
 **CTA**
 - **A third of the way in, then back to the video (P128).**
+- **Attribution (P154):** the form's "Which video sent you?" dropdown; sign-ups counted per video in every review. No subscriber data in the repo.
 - One sentence. Since 14 Oct: the **free personalised plan**: "email us
   your race and goal time through the link in the bio". Also in the
   caption and pinned comment. Track emails per video. Ask consent
@@ -218,7 +219,7 @@ a new cause becomes a new row in the same turn.**
 
 **As of 27 October 2026.**
 
-Latest review: `ideas/2026-10-27-enjoy-and-surprise-review.md`. **Enjoy:** 10.4K IG at 2.7 days (16.9K with FB), skip 38.2%, 30s on 1:32, a quarter still watching at 1:20 (the body held), save 1.2% (nothing too long to remember, P152), the CTA cost a third of who was left at 0:42, flat after day one because the posted gate said "this weekend" (P153); TikTok 4.1K. **Surprise:** 4.2K IG (6K with FB), skip 44.1% (opening frame Luke talking, not the bib: a repeat of ledger row 1), 0 saves, 0.1% shares, but flat at ~22% from 0:13 to the end and 13.6% full on TikTok (P151: a story opens an advice video). Follows read 0 on both from Luke's side: check the ERN side. **Need from Luke: emails per video since the mid-video CTA**, to judge the CTA step.
+Latest review: `ideas/2026-10-27-enjoy-and-surprise-review.md`. **Enjoy:** 10.4K IG at 2.7 days (16.9K with FB), skip 38.2%, 30s on 1:32, a quarter still watching at 1:20 (the body held), save 1.2% (nothing too long to remember, P152), the CTA cost a third of who was left at 0:42, flat after day one because the posted gate said "this weekend" (P153); TikTok 4.1K. **Surprise:** 4.2K IG (6K with FB), skip 44.1% (opening frame Luke talking, not the bib: a repeat of ledger row 1), 0 saves, 0.1% shares, but flat at ~22% from 0:13 to the end and 13.6% full on TikTok (P151: a story opens an advice video). Follows read 0 on both from Luke's side: check the ERN side. **Emails (27 Oct, `ideas/2026-10-27-email-attribution.md`):** Klaviyo has no per-video attribution; sign-ups ran 9+ (Sat evening), 7 (Sun), **11 on Mon with no new reel** (old videos drive them). Fix (P154): a "Which video sent you?" dropdown on the sign-up form; each review counts sign-ups per video and per day. Never put subscriber emails in the repo. CTA unchanged until a week of answers.
 
 Lifetime on the grid (24 Oct): carb load 84.4K, without the wall 83.8K, 3:45 51K, how hard 46.5K, sub-4 30.4K, second half 29.2K. Lifetime runs 1.6 to 2.1 times the first-day read: forecast with that.
 

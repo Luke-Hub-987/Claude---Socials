@@ -45,6 +45,9 @@ twice without being checked against the winners (P99).
       3 seconds, shown in the opening frame (P151).** The standalone
       surprise ran 44.1% skip and 0 saves.
 
+- [ ] **The sign-up form's "Which video sent you?" dropdown lists this
+      video (P154)** before it goes up.
+
 ## 1. Topic
 
 - [ ] **Passes the five-line gate in `PLAN-winners.md` (P110).** If not,

@@ -5159,6 +5159,23 @@ keeps getting served after the date passes.
 
 *Source: enjoy and surprise review, 27 October.*
 
+## P154 — Every sign-up is attributed to a video, and no subscriber data goes in the repo
+
+Luke, 27 October: "Can't see attribution of emails to posts, especially
+since old videos are still performing." Klaviyo showed 11 sign-ups on Mon
+26, a day with no new reel: the back catalogue is doing much of the work,
+and without attribution the mid-video CTA (ledger row 9) can't be judged.
+
+**The rule:**
+- The sign-up form asks "Which video sent you?" (a dropdown of recent
+  reels, "an older video", "somewhere else"), updated with each post.
+- Every review reports sign-ups for the video (from the dropdown) and per
+  day, against posting days.
+- Subscriber emails and names never go into the repo, review files or any
+  outside service. Counts only.
+
+*Source: Luke, 27 October; `ideas/2026-10-27-email-attribution.md`.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
