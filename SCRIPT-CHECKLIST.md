@@ -53,6 +53,11 @@ twice without being checked against the winners (P99).
       one worked example; the rest in the caption table; one number per
       sentence.
 
+- [ ] **A reason to send it, said in the audio (P156):** who they'd send
+      it to and why. Recent shares 0.1% to 0.4%; Dublin km by km 1.8%.
+- [ ] **The reach reel of the week has two trial-reel versions** (first
+      line and opening frame), posted the evening before (P156).
+
 ## 1. Topic
 
 - [ ] **Passes the five-line gate in `PLAN-winners.md` (P110).** If not,

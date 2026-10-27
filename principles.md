@@ -5199,6 +5199,30 @@ your watch adds distance on every bend").
 
 *Source: Luke, 27 October (viewer feedback on the pace videos).*
 
+## P156 — Rank on watch, sends and likes; test with trial reels; a pace we can keep
+
+Adam Mosseri (head of Instagram), shared by Luke on 27 October: ranking
+uses proxies for interest (how much of the reel people watch, how likely
+they are to send it, how likely they are to like it). Read the rates, not
+the counts. Experiment, using trial reels to non-followers. Post as often
+as you can sustain without burning out.
+
+**The rule:**
+- **Every script has a reason to send it, said in the audio:** who they'd
+  send it to and why that person. Saves (P152) stay for value; sends drive
+  reach.
+- **Reviews lead with the rates:** skip, watch as a share of length, share,
+  like, save. Views are the result, not the reason.
+- **The week's reach reel gets two trial reels** (different first line
+  and opening frame) the evening before; the better one goes to the
+  profile.
+- **4 reels a week by default**, one built to the wall formula, plus the
+  podcast. Luke's call to change.
+- Followers are asked to add us to Favorites in a story once a month,
+  never in a reel's audio.
+
+*Source: Adam Mosseri via Luke, 27 October; `ideas/2026-10-27-mosseri-ranking.md`.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
