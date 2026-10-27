@@ -48,6 +48,11 @@ twice without being checked against the winners (P99).
 - [ ] **Nothing added to the sign-up (P154, Luke 27 Oct: friction).**
       Emails are counted per day against posting days in the review.
 
+- [ ] **No maths in the audio (P155, Luke 27 Oct: viewers found the pace
+      maths complicated).** The answer as one number, never the formula;
+      one worked example; the rest in the caption table; one number per
+      sentence.
+
 ## 1. Topic
 
 - [ ] **Passes the five-line gate in `PLAN-winners.md` (P110).** If not,

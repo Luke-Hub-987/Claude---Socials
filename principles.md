@@ -5178,6 +5178,27 @@ on the form. **Luke: no, "it adds an extra step and friction."**
 
 *Source: Luke, 27 October.*
 
+## P155 — No maths in the audio: give the answer, never the sum
+
+Luke, 27 October: people noted on some of the pace videos that the maths
+or the explanations were complicated. Examples: goal gone ("your 25K time,
+your A goal times 0.59"; "your A pace plus 10 seconds a K"), the 3:45 GPS
+explanation ("a few seconds quicker than real 3:45 pace on purpose, because
+your watch adds distance on every bend").
+
+**The rule:**
+- The audio says the answer, as one number the viewer can use ("run 9:10 a
+  mile"), never the formula that produced it.
+- One worked example in the audio; every other goal in the caption table.
+- At most one number per sentence. No percentages, multipliers or "plus X"
+  sums spoken.
+- An explanation is one plain line or it goes in the caption ("your watch
+  reads a bit long, so trust the clock at the sign").
+- Test: could someone at 30K, tired, use this line without working
+  anything out? (P143.)
+
+*Source: Luke, 27 October (viewer feedback on the pace videos).*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
