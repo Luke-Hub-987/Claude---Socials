@@ -35,6 +35,16 @@ twice without being checked against the winners (P99).
       Assumption-ripper, Expansionist, Outsider, Executor; a blind
       cross-review; a Chairman verdict with next steps.
 
+- [ ] **Something too long to remember (P152):** a schedule, a table or a
+      K-by-K plan they'd come back to on race morning. Enjoy's four easy
+      actions saved at 1.2%; carb load's schedule at 4.4%.
+- [ ] **No dated words in the gate or audio (P153):** "this weekend",
+      "tomorrow", "tonight". Enjoy stopped growing the day its weekend
+      ended.
+- [ ] **A story opens an advice video, with a stake a stranger feels in
+      3 seconds, shown in the opening frame (P151).** The standalone
+      surprise ran 44.1% skip and 0 saves.
+
 ## 1. Topic
 
 - [ ] **Passes the five-line gate in `PLAN-winners.md` (P110).** If not,

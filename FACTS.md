@@ -108,3 +108,14 @@ with the date.
   cold 0.9%).
 - **Forecasts:** lifetime is about 1.6 to 2.1 times the first-day read
   (grid, 24 Oct).
+  Not for dated race-weekend videos: enjoy reached 1.2 times day one at
+  2.7 days once its weekend passed (P153).
+- The CTA step: 4:30 0:40, sleep 0:49, enjoy 0:42 (a third of who was
+  left). Judge it against emails per video.
+- The save prompt at the end of the hook (enjoy 0:23) cost about 7 points
+  before any value had been given.
+- Saves need something too long to remember (P152): enjoy 1.2% with four
+  easy actions; carb load 4.4% with a schedule.
+- A story holds once people are in (surprise flat at ~22% from 0:13 to
+  0:38; 13.6% full on TikTok) but loses the front without a stake
+  strangers feel (44.1% skip, P151).

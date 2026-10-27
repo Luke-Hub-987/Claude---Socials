@@ -24,9 +24,9 @@ every posted video.
 3. The three newest `ideas/*-review.md` files: the latest data.
 4. The newest scripts in `ideas/engine-room-nutrition/` (the house
    style, the hook stacks, the audit tables).
-5. `principles.md` (P1 to P150, about 4,400 lines): search it for the
+5. `principles.md` (P1 to P153, about 4,400 lines): search it for the
    rule you need; do not read it end to end. The newest rules (P97 to
-   P150) are at the end, before "Open questions for Luke".
+   P153) are at the end, before "Open questions for Luke".
 
 ## How we work (Luke's standing instructions)
 
@@ -122,7 +122,7 @@ a new cause becomes a new row in the same turn.**
 | 6 | **Abstract line one, or no reframe** | Taper 43.1%; without the wall 39.3% | Photograph test plus a reframe in new words (P116, P136) |
 | 7 | **Too long** | How hard 1:48; cramp 1:31 on 300 words | About 300 to 320 words, 1,550 to 1,670 characters |
 | 8 | **A "why" stage after the method** | Goal gone, half gone at 1:13 | The why is one line inside the payoff stage |
-| 9 | **CTA late or long** | Sleep 0:49 (116-word hook); 4:30 0:40; thread line plus CTA cliff (out of the wall) | Hook 80 to 95 words; one-sentence CTA after stage 1, back into the video |
+| 9 | **CTA late or long** | Sleep 0:49 (116-word hook); 4:30 0:40; enjoy 0:42 (38% to 26%); thread line plus CTA cliff (out of the wall) | Hook 80 to 95 words; one-sentence CTA after stage 1, back into the video. **Count the emails per video** so the step can be judged against what it brings in |
 | 10 | **Sorting viewers** | Who hits the wall ~7.5K | Every viewer is the subject of every stage (P103) |
 | 11 | **A problem few viewers have** | Gel 5.8K; narrow gates on IG (sub-4, Dublin) | What share of viewers have this problem? |
 | 12 | **Mixed timelines in the stages** | Stomach | One clock |
@@ -131,6 +131,9 @@ a new cause becomes a new row in the same turn.**
 | 15 | **A tip as line one** | Carb load v1 to v6 (Luke caught) | P120 pre-flight: would runners argue, and can't they guess why? |
 | 16 | **Template lines repeated** | "That's your race going to plan" (P136); a viewer called a script AI (P125) | No line from the last three scripts |
 | 17 | **A reframe that answers line one** | Enjoy v1, "that's how it's meant to go" (Luke caught, 24 Oct) | Read line one's last words alone: do they leave "how?" A promise ends on the open loop, not a reframe (P149) |
+| 18 | **Nothing too long to remember** | Cold 0.9% saves, sleep 1.0%, enjoy 1.2%, surprise 0.0% | A schedule, table or K-by-K plan they'd come back to on race morning (P152) |
+| 19 | **Dated words in the gate or audio** | Enjoy ("this weekend": flat after day one) | No "this weekend", "tomorrow", "tonight" (P82, P153) |
+| 20 | **A story with no stake for strangers** | Surprise 44.1% skip, 0 saves (opening frame: Luke talking, not the bib) | The stake as a picture in frame one; a story opens an advice video, not alone (P151) |
 
 ## The rules that matter most (quick reference; the checklist has all)
 
@@ -213,7 +216,9 @@ a new cause becomes a new row in the same turn.**
 
 ## Current state (update this every session)
 
-**As of 24 October 2026.**
+**As of 27 October 2026.**
+
+Latest review: `ideas/2026-10-27-enjoy-and-surprise-review.md`. **Enjoy:** 10.4K IG at 2.7 days (16.9K with FB), skip 38.2%, 30s on 1:32, a quarter still watching at 1:20 (the body held), save 1.2% (nothing too long to remember, P152), the CTA cost a third of who was left at 0:42, flat after day one because the posted gate said "this weekend" (P153); TikTok 4.1K. **Surprise:** 4.2K IG (6K with FB), skip 44.1% (opening frame Luke talking, not the bib: a repeat of ledger row 1), 0 saves, 0.1% shares, but flat at ~22% from 0:13 to the end and 13.6% full on TikTok (P151: a story opens an advice video). Follows read 0 on both from Luke's side: check the ERN side. **Need from Luke: emails per video since the mid-video CTA**, to judge the CTA step.
 
 Lifetime on the grid (24 Oct): carb load 84.4K, without the wall 83.8K, 3:45 51K, how hard 46.5K, sub-4 30.4K, second half 29.2K. Lifetime runs 1.6 to 2.1 times the first-day read: forecast with that.
 
@@ -228,7 +233,7 @@ half 17.6K at 14h; sub-4 at every 10K 14.5K at 18h (skip 40.8%) but
 best); quit ~14K at 14h; Dublin course (small reach, deepest
 engagement); taper and heavy legs missed.
 
-Latest review: `ideas/2026-10-24-sleep-review.md` (sleep at ~12.75h: 6.4K, **skip 41.4%**: the opening frame was a sentence that gave away the reassurance, P147; save 1.0%, off the race clock; the CTA at 0:49 lost half of who was left, because the hook ran 116 words). Before it: `ideas/2026-10-23-goal-gone-review.md` (goal gone at ~9h,
+Before that: `ideas/2026-10-24-sleep-review.md` (sleep at ~12.75h: 6.4K, **skip 41.4%**: the opening frame was a sentence that gave away the reassurance, P147; save 1.0%, off the race clock; the CTA at 0:49 lost half of who was left, because the hook ran 116 words). Before it: `ideas/2026-10-23-goal-gone-review.md` (goal gone at ~9h,
 10pm post: 6.5K, **skip 31.9% joint best** with a motion graphic of the hook
 as the opening frame; save 2.4%; share 0.1%; the "why" rehook stage lost
 half the remaining viewers). Before it: gel (5.8K, narrow topic); 4:30
@@ -244,7 +249,7 @@ your half marathon time into a marathon goal (incl. after illness). Fri 23
 your marathon. 4:30 goes TikTok-only. Luke's goal: 1M lifetime IG views
 (840K on 19 Oct). Every pace in km and miles in captions (P129).
 
-Ready to post (Sat 24): enjoy script v2 `ideas/engine-room-nutrition/2026-10-24-script-enjoy.md` (line one ends on the open loop, P149; 0-10K let them go, 10-20K head up, 20-30K your name, 32K your people; opening frame a bare 32K marker; failure ledger table passed; two P146 checks flagged: name on the top, supporters at 32K). Next review file: `ideas/YYYY-MM-DD-enjoy-review.md`. **Sun 25: Luke surprises Jamie (co-founder) by running Dublin too;** plan and shot list in `ideas/engine-room-nutrition/2026-10-24-plan-surprise-jamie.md` (OST: MY CO-FOUNDER HAS NO IDEA / I'M RUNNING THIS MARATHON; reaction held to the end; cover never Jamie's face; nothing posted before the reveal). Post Mon 26 (council v2, P150: context + real stake in 10s, "my own entry", vertical 2 phones, edit decided by the reaction); Tue: the race at every 10K as the advice sequel. The no-Dublin rule on the personal account lifts after the reveal. Walk moves to Tue; spring pivot from 27 Oct.
+**Next (27 Oct):** the audience calendar has moved on from race weekend (New York 1 Nov; spring pivot). Next script: a lived race fear on the race clock with a schedule to keep (P152), the Jamie story as the opening of an advice video if used at all (P151), no dated gate (P153). Posted 24 Oct: enjoy script v2 `ideas/engine-room-nutrition/2026-10-24-script-enjoy.md` (line one ends on the open loop, P149; 0-10K let them go, 10-20K head up, 20-30K your name, 32K your people; opening frame a bare 32K marker; failure ledger table passed; two P146 checks flagged: name on the top, supporters at 32K). Next review file: `ideas/YYYY-MM-DD-enjoy-review.md`. **Sun 25: Luke surprises Jamie (co-founder) by running Dublin too;** plan and shot list in `ideas/engine-room-nutrition/2026-10-24-plan-surprise-jamie.md` (OST: MY CO-FOUNDER HAS NO IDEA / I'M RUNNING THIS MARATHON; reaction held to the end; cover never Jamie's face; nothing posted before the reveal). Post Mon 26 (council v2, P150: context + real stake in 10s, "my own entry", vertical 2 phones, edit decided by the reaction); Tue: the race at every 10K as the advice sequel. The no-Dublin rule on the personal account lifts after the reveal. Walk moves to Tue; spring pivot from 27 Oct.
 Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
 Motion graphics (22 Oct, Luke asked): `motion/` renders 16:9 scene clips for the top half of the reel (`motion/README.md`). Goal gone is built in placeholder colours; waiting on Luke's logo to set the brand colours. Run it as a trial reel A/B against the plain version: the checklist still says only the title and stage markers on screen (P84, P95). Race night (sleep, Sat 24) built 23 Oct in the website theme (`motion/race-night.html`); that theme is the default for motion graphics now. Enjoy built 24 Oct (`motion/enjoy.html`): illustrated characters, the 32K marker alone as the opening frame (P147), and a course bar with a locked 32K pin as the on-screen open loop.
 

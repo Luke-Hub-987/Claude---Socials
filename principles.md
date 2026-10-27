@@ -5109,6 +5109,56 @@ changed the plan.
 
 *Source: Luke, 24 October.*
 
+## P151 — A story needs a stake a stranger gets in 3 seconds, and on ERN it opens an advice video
+
+Review, 27 October: the Jamie surprise ran 44.1% skip, 0.0% saves and 0.1%
+shares on 6K views. The opening frame was Luke talking in a hotel bathroom,
+not the bib in his hand, and "my co-founder" means nothing to the
+non-followers who make up most of our reach. Once past 0:10, though,
+viewers stayed: flat at about 22% from 0:13 to 0:38, and 13.6% watched in
+full on TikTok, our best completion.
+
+**The rule:**
+- A story's opening frame shows the stake as a picture (the bib in the
+  hand), and the first line gives a stake any stranger feels (a first
+  marathon, a secret, a risk), not a relationship they don't know.
+- On ERN a story is the opening of an advice video, not the whole video:
+  the story is the hook and the payoff holds, and the method gives the
+  saves and shares (P127).
+- Every new format gets a forecast before posting (P145).
+
+*Source: enjoy and surprise review, 27 October.*
+
+## P152 — A save needs something too long to remember
+
+Review, 27 October: enjoy had four clear actions with numbers, and saved at
+1.2%. The actions were easy to remember (10 words, watch once a K, your
+name, people at 32K), so nobody needed to save them. The saves records came
+from schedules nobody can hold in their head: carb load 4.4% (meals, times,
+grams), 7 days 3.0%, the 24 hours 4.4%.
+
+**The rule:** every video carries one thing the viewer can't remember after
+one watch: a schedule with times and amounts, a table by goal time, or a
+K-by-K plan. Put it on screen and in the caption. Ask before writing:
+would they need to come back to this on race morning?
+
+*Source: enjoy and surprise review, 27 October.*
+
+## P153 — No dated words in the gate
+
+Review, 27 October: the posted enjoy gate was "If you're running a marathon
+this weekend or the weekends to come". It reached about 8.5K on day one and
+then nearly stopped (1.2 times day one at 2.7 days, against our usual 1.6
+to 2.1), because "this weekend" was over on Sunday. That's P82 (no dated
+audio), applied to the gate.
+
+**The rule:** the gate is "If you're running a marathon in the next few
+weeks" (or narrower by topic, never by date). No "this weekend",
+"tomorrow" or "tonight" anywhere in the audio or the OST, so the video
+keeps getting served after the date passes.
+
+*Source: enjoy and surprise review, 27 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
