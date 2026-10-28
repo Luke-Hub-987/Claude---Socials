@@ -92,7 +92,7 @@ Course map: [credit the map you use here].
 
 ## Top frames (v3, Luke 28 Oct, P161)
 Use the 6 frames in `motion/nyc-maps/frames/` (1920 x 1080), pasted over the
-top of the video: frame 1 from 0:00 (map only), frame 2 at MILES 0-2, frame 3
+top of the video: frame 1 from 0:00 (the course map with the boroughs, start and finish, NEW YORK CITY MARATHON · 26.2 MILES · 5 BOROUGHS · 5 BRIDGES), frame 2 at MILES 0-2, frame 3
 at MILES 2-13, frame 4 at MILES 15-20, frame 5 at MILE 20 TO THE LINE, frame
 6 (the whole plan) for the last 4 to 5 seconds. Straight cuts. Downloads:
 https://claude.ai/artifact/4fb7kihUqVTYc1Eo6tHy7K. This replaces the bare

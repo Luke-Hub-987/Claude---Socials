@@ -5326,8 +5326,11 @@ away".
 - **Top frames are 1920 x 1080**, in the site theme (cream land, pale blue
   water, ERN blue route, navy panel, gold numbers, Barlow Condensed and DM
   Serif Display).
-- **Frame one stays one glance (P159):** the picture only, no panel, no
-  numbers.
+- **Frame one stays one glance (P159), but it must say where it is**
+  (Luke, 28 Oct: "you wouldn't know that is New York at all"): the course
+  map with the place names, start and finish, and the race named big in
+  the panel with one number (26.2 MILES) and one line (5 BOROUGHS · 5
+  BRIDGES). Nothing about pace or the answer.
 - **From stage 1, each frame is something to screenshot:** the section
   zoomed in with its landmarks and mile markers, a small overview of the
   whole course, the pace (miles and km) for the worked example, and the

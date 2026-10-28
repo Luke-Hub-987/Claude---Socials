@@ -102,7 +102,18 @@ function inset(geo,a,b){const C=geo.framings.centre,xs=C.route.map(p=>p[0]),ys=C
   const seg=C.route.filter((p,i)=>C.route_miles[i]>=a&&C.route_miles[i]<=b).map(T);
   el('path',{d:path(seg),fill:'none',stroke:'#1f7ae0','stroke-width':8,'stroke-linecap':'round','stroke-linejoin':'round'})}
 const FRAMES={
- 1:{framing:'centre',draw(F){line(F.route,'#1f7ae0',20,true);dot(F.marks.start,'#f5b52e','#0c1828');dot(F.marks.finish,'#0c1828','#f5b52e')}},
+ 1:{framing:'left',draw(F){
+    park(F);
+    for(const [t,x,y,rot,fs,anchor] of [['NEW JERSEY',160,560,0,44,'middle'],['STATEN ISLAND',152,948,0,34,'middle'],['BROOKLYN',650,770,0,44,'middle'],['QUEENS',810,470,0,44,'middle'],['MANHATTAN',478,440,-62,38,'middle'],['THE BRONX',728,74,0,34,'start']]){
+      const n=el('text',{x,y,'text-anchor':anchor,class:'place',transform:`rotate(${rot} ${x} ${y})`,style:`fill:rgba(13,23,38,.42);font-size:${fs}px`});n.textContent=t}
+    line(F.route,'#1f7ae0',20,true);dot(F.marks.start,'#f5b52e','#0c1828');dot(F.marks.finish,'#0c1828','#f5b52e');
+    label(F.marks.start,'START',70,-10);label(F.marks.finish,'FINISH',-60,60);
+    const P=document.getElementById('p');P.className='panel';
+    P.innerHTML=`<div class="chip">THE COURSE</div>
+      <div class="title" style="font-size:118px;margin-top:40px">New York City <em>Marathon</em></div>
+      <div class="pace" style="margin-top:56px"><span class="n">26.2</span><span class="u">MILES</span></div>
+      <div class="eyebrow" style="margin-top:34px;font-size:56px;color:#fff">5 BOROUGHS · 5 BRIDGES</div>
+      <div class="foot" style="font-size:30px">Engine Room Nutrition</div>`}},
  2:{framing:'bridge',hi:[0,2.0],m:[1,2],places:['STATEN ISLAND','BROOKLYN','THE NARROWS'],
     labels:[['start','START',-30,90],['verrazzano','VERRAZZANO BRIDGE',-60,-170],['bridge_end','OFF THE BRIDGE',40,110]],
     panel:{next:'BROOKLYN, MILES 2–13',eyebrow:'MILES 0–2',title:'The <em>bridge</em>',pace:'9:30',km:'5:55',cues:[['up','Straight uphill from the start'],['talk','All 10 words in one breath'],['no',"Don't win it back on the way down"]]}},
