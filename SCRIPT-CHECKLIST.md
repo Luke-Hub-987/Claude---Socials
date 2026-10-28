@@ -67,6 +67,11 @@ twice without being checked against the winners (P99).
       now, the dream is who they become, every stage moves them along it.
       No founder history in reels.
 
+- [ ] **The first 3 seconds readable in a glance (P159):** one big
+      element, or Luke alone with the title; no lists, tiles, labels or
+      strips until after line one; checked as a phone screenshot at real
+      size. Last marathon's dashboard frame: 52.4% skip.
+
 ## 1. Topic
 
 - [ ] **Passes the five-line gate in `PLAN-winners.md` (P110).** If not,

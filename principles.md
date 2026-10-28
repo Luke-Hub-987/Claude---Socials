@@ -5265,6 +5265,30 @@ people).
 
 *Source: brand advice via Luke, 28 October; surprise review.*
 
+## P159 — The first second is readable in a glance
+
+Last-marathon review, 28 October: skip 52.4%, our worst ever. The motion
+graphic opened on a splits list, pins, a "your 3 numbers" strip, then tiles
+(5:10, 5:20), a running figure and labels, all in the small top band of
+the reel. Frame-one complexity tracks skip across our motion reels: one big
+number (goal gone) 31.9%; a marker and a small runner (enjoy) 38.2%; a
+sentence and a clock (sleep) 41.4%; a dashboard (last marathon) 52.4%. This
+repeated P147.
+
+**The rule:**
+- For the first 3 seconds, the screen shows one thing, big enough to read
+  on a phone in the top band: one number, one word, one object. Or Luke
+  alone with the title.
+- No lists, tiles, labels, progress strips, small numbers or UI panels until
+  after line one. Motion graphics carry the body from stage 1.
+- Every number on screen in the first 3 seconds is in the title or line
+  one, and none of them is an answer.
+- The motion build's first frame is checked as a phone screenshot at real
+  size before posting.
+
+*Source: last-marathon review, 28 October (Luke: "wonder if the motion
+graphics are turning people away").*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

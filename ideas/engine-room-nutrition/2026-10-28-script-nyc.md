@@ -90,5 +90,12 @@ Course map: [credit the map you use here].
 ## Pinned comment (final)
 "Which bit worries you most, the quiet bridge or First Avenue? 👇 4:00 plan: bridge 9:30, Brooklyn 9:10, quiet bridge by breathing (about 9:35), First Avenue 8:50 and no faster, Fifth Avenue about 9:15, then the park if you've got 5 words. Want your goal worked out? Email us your race and goal time through the link in the bio."
 
+## First-frame A/B (P159, trial reels)
+- **A:** Luke alone with the title for the first 3 seconds; the map comes in
+  with stage 1.
+- **B:** the bare course map, one line, nothing else in the top band, big.
+Post both as trial reels the evening before; the lower skip goes to the
+profile.
+
 ## Cover and opening frame
 The New York course map, one line, no labels, nothing written on it. Search "New York City marathon course map" (Wikimedia Commons or the official map, credited in the caption's last line).
