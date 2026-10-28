@@ -5265,6 +5265,55 @@ people).
 
 *Source: brand advice via Luke, 28 October; surprise review.*
 
+## P159 — The first second is readable in a glance
+
+Last-marathon review, 28 October: skip 52.4%, our worst ever. The motion
+graphic opened on a splits list, pins, a "your 3 numbers" strip, then tiles
+(5:10, 5:20), a running figure and labels, all in the small top band of
+the reel. Frame-one complexity tracks skip across our motion reels: one big
+number (goal gone) 31.9%; a marker and a small runner (enjoy) 38.2%; a
+sentence and a clock (sleep) 41.4%; a dashboard (last marathon) 52.4%. This
+repeated P147.
+
+**The rule:**
+- For the first 3 seconds, the screen shows one thing, big enough to read
+  on a phone in the top band: one number, one word, one object. Or Luke
+  alone with the title.
+- No lists, tiles, labels, progress strips, small numbers or UI panels until
+  after line one. Motion graphics carry the body from stage 1.
+- Every number on screen in the first 3 seconds is in the title or line
+  one, and none of them is an answer.
+- The motion build's first frame is checked as a phone screenshot at real
+  size before posting.
+
+*Source: last-marathon review, 28 October (Luke: "wonder if the motion
+graphics are turning people away").*
+
+## P160 — No motion graphics on the main post; show the layout as a picture
+
+Luke, 28 October, after the last-marathon review: "You're not being clear.
+Show me exactly how it should look and whether to use motion graphics or
+not." His grid answers the second part. Reels with a real photo in the top
+half (4:30 25.6K, 3:30 16.1K, 3:45 55.7K, gel 13.4K, sub-4 30.4K, carb load
+and without the wall about 84K) sit around a 29K median; the four motion
+reels (goal gone 13.6K, sleep 8.5K, enjoy 17.4K, last marathon 4.2K) around
+11K. Timing played a part (race weekend, the post-season dip), but four of
+four sit below the photo median.
+
+**The rule:**
+- **The main post uses the winners' 3 layers:** a real picture in the top
+  half (the hook as a picture: one person, one object, or the course map),
+  the blue title boxes in the middle, Luke underneath. The title box becomes
+  each stage marker. Nothing else on screen but one line of subtitles.
+- **Motion graphics only as a trial reel against this format,** never on
+  the main post, until a motion version beats the photo version on skip and
+  views.
+- **Every packaging instruction comes with a mock-up image** of the actual
+  frames (first frame, hook, a stage, and what not to do), not a
+  description alone.
+
+*Source: Luke, 28 October; the grid.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

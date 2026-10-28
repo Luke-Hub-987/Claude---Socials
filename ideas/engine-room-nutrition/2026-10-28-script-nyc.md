@@ -90,5 +90,26 @@ Course map: [credit the map you use here].
 ## Pinned comment (final)
 "Which bit worries you most, the quiet bridge or First Avenue? 👇 4:00 plan: bridge 9:30, Brooklyn 9:10, quiet bridge by breathing (about 9:35), First Avenue 8:50 and no faster, Fifth Avenue about 9:15, then the park if you've got 5 words. Want your goal worked out? Email us your race and goal time through the link in the bio."
 
+## Screen plan (v2, Luke 28 Oct: "show me exactly"; no motion graphics, P160)
+Mock-up: `mockups/nyc-frames.png`. The same 3 layers as the winners:
+1. **Top half:** the real New York course map, the route as one thick line,
+   no labels, nothing glowing. It stays for the whole video.
+2. **Middle:** the blue title boxes, 2 lines, capitals:
+   HOW TO PACE THE NEW YORK / MARATHON, SECTION BY SECTION. At each stage
+   the same boxes change to the stage marker, in the same place.
+3. **Bottom half:** Luke, head and shoulders, talking from the first frame.
+
+| Time | Change |
+|---|---|
+| 0:00 to 0:03 | Map, title, Luke. Nothing else: no subtitles |
+| 0:03 | Subtitles start: one line, 3 or 4 words, small, under the chin, above the bottom 25% |
+| 0:26 | Title boxes become MILES 0-2: THE BRIDGE |
+| 0:46 | MILES 2-13: BROOKLYN |
+| 0:57 | MILES 15-20: THE QUIET / BRIDGE, THE LOUD AVENUE |
+| 1:20 | MILE 20 TO THE LINE: FIFTH AVENUE |
+No numbers, tiles, icons or lists on screen: the paces are said, shown in
+the subtitles, and listed in the caption. Nothing in the bottom 25% or the
+lower right (Instagram's buttons). The cover is the same frame.
+
 ## Cover and opening frame
 The New York course map, one line, no labels, nothing written on it. Search "New York City marathon course map" (Wikimedia Commons or the official map, credited in the caption's last line).

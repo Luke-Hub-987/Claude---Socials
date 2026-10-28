@@ -126,3 +126,9 @@ with the date.
 - Attribution by day only (no extra step on the form, Luke 27 Oct, P154).
   Earlier days: 3:45's day 51, 3:30's 39 (1M analysis). No-post baseline:
   Mon 26, 11.
+
+## Opening frames and skip (motion reels, P159)
+- One big number (goal gone, +3:00): 31.9%. A 32K marker and a small runner
+  (enjoy): 38.2%. A sentence and a clock (sleep): 41.4%. A splits list,
+  tiles, labels and a strip (last marathon): 52.4%. Fewer things in the
+  first second, lower skip.
