@@ -1,6 +1,6 @@
 """Real messages from runners, rebuilt to look like the app they came in.
 
-Word for word from Luke's screenshots (23 Oct). Names changed for privacy,
+Word for word from Luke's screenshots (23 Oct; Dublin results added 28 Oct). Names changed for privacy,
 as Luke asked; the page says so. No surnames, handles, photos or email
 addresses. Luke's own replies are included where they were in the thread.
 build_shopify.py writes these into index.html between the messages markers.
@@ -13,6 +13,32 @@ THREADS = [
                ("in", "Mate!!!"), ("in", "3:19:25!!"),
                ("in", "Thankyou mate - did as you said and we got it done 🤝"),
                ("in", "Was dead around 38k but we powered on 🤣")]},
+    # Dublin Marathon results, 25 Oct (Luke's screenshots, 28 Oct). Names changed; words untouched.
+    {"app": "gmail", "name": "Brian", "big": "3:28:48", "tag": "Dublin Marathon · first marathon", "subject": "My marathon time - Dublin Marathon",
+     "thread": [], "date": "11:48",
+     "body": ["Hi Luke,", "Race: Dublin Marathon", "Finish time: 3:28:48 - First Marathon",
+              "How the plan went: The plan you gave me regarding pacing (where and when to push), milestone times and the gels worked out really well. I felt in control throughout and was able to push after heartbreak hill with my 3rd fastest 5k pace.",
+              "Thank you so much for the advice and guidance it really made a massive difference for me on the day."]},
+    {"app": "instagram", "name": "Fergal", "big": "3:36", "tag": "Dublin Marathon · aimed for 3:38",
+     "items": [("in", "Goal time is sub 3.40... in a perfect world 3.38. I use the precise gels, jelly babies and squares bar during the race.. And i did Sydney maro last year and my time was 3.52"),
+               ("out", "That’s with you now Fergal - all the best for the day!"),
+               ("in", "Ok perfect thank so much Luke, really appreciate it 🙏", "❤️"),
+               ("time", "11:45"),
+               ("in", "Hi Luke !! I just wanted to say a massive thank you for the plan you emailed me before Dublin Marathon. I followed your pacing plan and fueling protocol. I was hoping for a sub 3.40 (3.38 was my goal).. I got my PB and finished at 3.36 so I was buzzin. Thanks again for the plan, it really helped!!", "❤️")]},
+    {"app": "instagram", "name": "Declan", "big": "−4 min", "tag": "Dublin Marathon · 3:35 PB",
+     "items": [("time", "10:04"),
+               ("in", "Thanks a million for all the amazingly helpful and super insightful videos ahead of Dublin - superb content! Your wind advice and sub 3.30 pacing guide got me a 4mins PB (3.35). Keep up the good work 🙌")]},
+    {"app": "gmail", "name": "Clare", "big": "3:36", "tag": "Dublin Marathon · from a 1:40 half", "subject": "My marathon plan",
+     "thread": [("Clare", "20 Oct", "Race and date:Dublin Marathon Goal ti..."),
+                ("me", "21 Oct", "Hey Clare, A 1:40 half marathon is a...")],
+     "date": "11:45",
+     "body": ["Hi Luke", "I stuck to your pacing plan in Dublin on sunday. Got my PB 3.36- 10mins faster than what i thought i would get. Your adive was amazing.  Thank you so mucj"]},
+    {"app": "instagram", "name": "Emma", "big": "3:59:35", "tag": "Dublin Marathon · first marathon",
+     "items": [("sys", "Replied to your story: “DM your results to be added”"),
+               ("in", "Thanks so much for all the marathon info and marathon split times. Despite the conditions, managed 3:59:35 fpr my first marathon. Thanks a million, Emma")]},
+    {"app": "instagram", "name": "Ronan", "big": "3:59", "tag": "Dublin Marathon · PB",
+     "items": [("sys", "Replied to your story: “Send us your Dublin Marathon time and if the videos helped!”"),
+               ("in", "3:59 PB! I’m running a marathon today and I feel good on repeat from 0-40k. 40k to finish I don’t think I could even remember the words 😂 great tips!")]},
     {"app": "gmail", "name": "Kevin", "big": "", "tag": "Dublin Marathon · 4:20 plan", "subject": "My marathon plan",
      "thread": [("Kevin", "18 Oct", "Race and date: Dublin Marathon 25/10/..."),
                 ("me", "19 Oct", "Hey Kevin, Targeting a 4:20 finish fo...")],
