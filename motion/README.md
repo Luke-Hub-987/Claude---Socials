@@ -16,6 +16,11 @@ a stage tag, a condensed headline and a diagram).
   cycle, spectators, signs, a kid on a parent's shoulders) and a course
   bar along the bottom with a locked "?" pin at 32K that only opens in the
   last clip.
+- `last-marathon.html`: what your last marathon says about your next one
+  (28 Oct). Opens on a splits screen, nothing highlighted (P147). A "your 3
+  numbers" strip runs along the bottom of every stage with number 3 locked
+  (the open loop), and it ends as a filled-in card: the thing too long to
+  remember that gets saved (P152). One worked example, a 3:45 (FACTS).
 
 ## Rules the motion follows (from the reviews)
 - **P147: the opening frame is one picture or one number**, never a
@@ -89,3 +94,23 @@ sent has 3; add "and hold for 4 again" or the dot won't match the words.
 | 09-the-text | "And then there's the text..." | 6s | The text to Mam, still blurred |
 | 10-32k-the-text | "Text whoever's coming to watch you." | 11s | The text typed out; finish packed vs your people at 32K; "See you at 32K" |
 | 11-32k-running-to-them | "32K is where it goes quiet..." | 14s | 30K, 31K, 32K; they're there at 6s, arms up; send button; a stranger shouts SAM |
+
+## Cue sheet: last marathon
+
+One worked example on screen, a 3:45 goal (5:20 a K): first 10K at 5:10,
+first gel at 0:45 "when I felt I needed one", turned at 28K (5:38, 18
+seconds down). Next time: 5:25 to 5:30 a K, gels at 0:20 then every 30
+minutes (FACTS). These numbers are on screen only, never in the audio (P155).
+
+| Clip | Starts on | Length | On screen |
+|---|---|---|---|
+| 01-hook-splits | "If you're already thinking about your next marathon..." | 11s | Frame 1: the splits screen alone. Pins 1, 2, ? at 4.6s; "more training" crossed out at 7s |
+| 02-same-k | "Skip them..." | 9s | Last time (ghost) and next time, both walking at the same 28K marker |
+| 03-before-you-enter | "Or you know exactly where..." | 7s | Looking at the phone; next marathon with 28K pinned; ENTER not pressed |
+| 04-three-numbers | "There are 3 numbers in there..." | 8s | The 3-number card, number 3 locked and shaking; send button at 5.2s |
+| 05-number-1 | "Open your splits from the last one." | 18s | First 10K rows go red; 5:10 vs 5:20, QUICKER; feeling great; next time 5:25-5:30; the 10 words |
+| 06-cta | "Want your next one planned from your last one?" | 8s | Site CTA card |
+| 07-number-2 | "When did you take your first gel?" | 14s | Last time's gels (first at 0:45) vs next time's 0:20 then every 30, by the clock |
+| 08-rehook | "And now the one nobody looks at." | 5s | The strip, number 3 shaking; a big "?" |
+| 09-number-3 | "Find the first K where you slowed down..." | 16s | Every K as a bar; the scan stops at 28K; then the arrows go back to 1 (first 10K) and 2 (the gel at 0:45) |
+| 10-your-next-one | "So write those 3 numbers down." | 14s | The written card; then last time walks at 28K while next time runs past; save button at 11.4s |
