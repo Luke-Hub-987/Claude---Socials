@@ -5314,6 +5314,32 @@ four sit below the photo median.
 
 *Source: Luke, 28 October; the grid.*
 
+## P161 — Static top frames: 16:9, the site's colours, and something to take away from stage 1
+
+Luke, 28 October, on the first New York map images (1080 x 960, a bare
+route on grey): "Being honest these pictures suck." He wants them in the
+YouTube shape (16:9) to paste on top of the video, in the Engine Room
+colours, with more detail, each "very clear and helpful for people to take
+away".
+
+**The rule:**
+- **Top frames are 1920 x 1080**, in the site theme (cream land, pale blue
+  water, ERN blue route, navy panel, gold numbers, Barlow Condensed and DM
+  Serif Display).
+- **Frame one stays one glance (P159):** the picture only, no panel, no
+  numbers.
+- **From stage 1, each frame is something to screenshot:** the section
+  zoomed in with its landmarks and mile markers, a small overview of the
+  whole course, the pace (miles and km) for the worked example, and the
+  cues in plain words. One extra frame with the whole plan as a table is
+  the thing to save (P152).
+- This changes P160's "no numbers on screen" for static frames from stage
+  1 onwards; motion graphics stay off the main post.
+- Tools: `motion/nyc-maps/tools/` (route from street data, base maps,
+  frames.html, shoot.js).
+
+*Source: Luke, 28 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

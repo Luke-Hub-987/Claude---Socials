@@ -90,6 +90,14 @@ Course map: [credit the map you use here].
 ## Pinned comment (final)
 "Which bit worries you most, the quiet bridge or First Avenue? 👇 4:00 plan: bridge 9:30, Brooklyn 9:10, quiet bridge by breathing (about 9:35), First Avenue 8:50 and no faster, Fifth Avenue about 9:15, then the park if you've got 5 words. Want your goal worked out? Email us your race and goal time through the link in the bio."
 
+## Top frames (v3, Luke 28 Oct, P161)
+Use the 6 frames in `motion/nyc-maps/frames/` (1920 x 1080), pasted over the
+top of the video: frame 1 from 0:00 (map only), frame 2 at MILES 0-2, frame 3
+at MILES 2-13, frame 4 at MILES 15-20, frame 5 at MILE 20 TO THE LINE, frame
+6 (the whole plan) for the last 4 to 5 seconds. Straight cuts. Downloads:
+https://claude.ai/artifact/4fb7kihUqVTYc1Eo6tHy7K. This replaces the bare
+map in the v2 plan below and its "no numbers on screen" from stage 1 on.
+
 ## Screen plan (v2, Luke 28 Oct: "show me exactly"; no motion graphics, P160)
 Mock-up: `mockups/nyc-frames.png`. The same 3 layers as the winners:
 1. **Top half:** the real New York course map, the route as one thick line,

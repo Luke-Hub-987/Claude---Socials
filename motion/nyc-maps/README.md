@@ -1,5 +1,12 @@
 # New York City Marathon course maps
 
+**v2 (28 Oct, P161): use `frames/`** — six 1920 x 1080 frames in the site
+theme: `nyc-1-opening` (map only), one per stage (zoomed, landmarks, mile
+markers, 4:00 pace in miles and km, cues), and `nyc-6-the-whole-plan`.
+Rebuild: `tools/base.py` (base maps + geo.json), then
+`node motion/nyc-maps/tools/shoot.js motion/nyc-maps/frames`.
+The v1 notes below describe the route trace, which v2 reuses.
+
 Five 1080 x 960 PNGs for the top half of a reel (28 Oct): the whole route,
 then miles 0-2 (the bridge), 2-13 (Brooklyn to the Pulaski Bridge), 15-20
 (Queensboro and First Avenue) and 20 to the line (the Bronx, Fifth Avenue,

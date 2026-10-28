@@ -77,6 +77,11 @@ twice without being checked against the winners (P99).
       middle, Luke underneath, one line of subtitles. A mock-up image of
       the frames goes with every script.
 
+- [ ] **Static top frames are 16:9 and worth a screenshot (P161):** 1920 x
+      1080 in the site colours; frame one the picture only; from stage 1 the
+      section zoomed in with landmarks and mile markers, the pace in miles
+      and km, and the cues in plain words; plus one whole-plan frame to save.
+
 ## 1. Topic
 
 - [ ] **Passes the five-line gate in `PLAN-winners.md` (P110).** If not,
