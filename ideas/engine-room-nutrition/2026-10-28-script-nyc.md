@@ -90,6 +90,40 @@ Course map: [credit the map you use here].
 ## Pinned comment (final)
 "Which bit worries you most, the quiet bridge or First Avenue? 👇 4:00 plan: bridge 9:30, Brooklyn 9:10, quiet bridge by breathing (about 9:35), First Avenue 8:50 and no faster, Fifth Avenue about 9:15, then the park if you've got 5 words. Want your goal worked out? Email us your race and goal time through the link in the bio."
 
+## Screen plan, second by second (P147, P159: one thing at a time)
+The reel is 1080 x 1920. Keep everything out of the bottom 25% (caption,
+username, buttons) and the right-hand 15% (like, comment, share). Anything
+on screen must be readable on a phone at arm's length in 1 second: the
+title at least 70px high per line, a key number at least 200px.
+
+**Filming:** head and shoulders, eyes at the top third, phone at eye level,
+vertical. Start talking on the first frame: cut every bit of silence and
+breath before "If you're running New York". No intro, no wave.
+
+| Time (about) | Audio | On screen (one new thing per beat) |
+|---|---|---|
+| **0:00 to 0:03** | Line one | **Only:** the title in 2 lines, capitals, centred in the upper third; Luke (version A), or the bare course map as one thick line filling the top band (version B). **No subtitles, no labels, no numbers.** |
+| 0:03 to 0:08 | "...straight off the quietest." | Subtitles start (one line, 3 to 4 words, lower middle, above the bottom 25%). B: one stretch of the map line glows (First Avenue). A: still just Luke and the title |
+| 0:08 to 0:17 | Pain, dream | Title stays. Nothing new |
+| 0:17 to 0:26 | Named unknown, send | B: a second stretch of line greys out (the quiet bridge). A: nothing new |
+| 0:26 | Stage 1 | Title goes. Marker: **MILES 0-2: THE BRIDGE** (A: the map arrives now, full band) |
+| 0:30 | "9:30 a mile" | One number, big: **9:30 /MILE** |
+| 0:40 to 0:46 | CTA | One line: **EMAIL US YOUR RACE + GOAL TIME: LINK IN BIO** |
+| 0:46 | Stage 2 | **MILES 2-13: BROOKLYN**, then **9:10 /MILE** |
+| 0:54 | Rehook | The quiet stretch of the map pulses. Nothing else |
+| 0:57 | Stage 3 | **MILES 15-20: THE QUIET BRIDGE, THE LOUD AVENUE**, then a watch showing **--:--** while he says it can lose signal, then **8:50 /MILE** on "First Avenue" |
+| 1:20 | Stage 4 | **MILE 20 TO THE LINE: FIFTH AVENUE**, then **9:15 /MILE** |
+| last 2 seconds | "...a bit too much." | The save frame: the whole 4:00 plan as a short list (bridge 9:30, Brooklyn 9:10, quiet bridge 9:35, First Avenue 8:50, Fifth Avenue 9:15, the park: go). A list only here, at the end, where people screenshot |
+
+**Rules for the edit:** never 2 new things in the same second; a number
+leaves the screen before the next one arrives; the stage marker shows for
+about 2 seconds, then gives way to that stage's one number; the title only
+for the first 26 seconds.
+
+**Before posting:** screenshot the first frame of each version, look at it
+on the phone at normal size for one second, and say out loud what it
+shows. If it takes more than one word ("Luke", "map"), cut something.
+
 ## First-frame A/B (P159, trial reels)
 - **A:** Luke alone with the title for the first 3 seconds; the map comes in
   with stage 1.
