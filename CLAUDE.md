@@ -24,9 +24,9 @@ every posted video.
 3. The three newest `ideas/*-review.md` files: the latest data.
 4. The newest scripts in `ideas/engine-room-nutrition/` (the house
    style, the hook stacks, the audit tables).
-5. `principles.md` (P1 to P159, about 4,400 lines): search it for the
+5. `principles.md` (P1 to P160, about 4,400 lines): search it for the
    rule you need; do not read it end to end. The newest rules (P97 to
-   P159) are at the end, before "Open questions for Luke".
+   P160) are at the end, before "Open questions for Luke".
 
 ## How we work (Luke's standing instructions)
 
@@ -224,7 +224,7 @@ a new cause becomes a new row in the same turn.**
 
 **As of 28 October 2026.**
 
-Latest review: `ideas/2026-10-28-last-marathon-review.md` (posted to the profile at ~12:27pm, read at ~6h): **skip 52.4%, our worst** (a busy motion frame, a repeat of P147, plus a narrower gate than P153: both my miss); 23s on 1:26; **saves 1.8% and comments 0.3% Higher**; 4 follows IG, 5 TikTok; body flat at ~17%; the CTA step was small. Motion graphics stay in the body; the first 3 seconds are one big thing (P159). **Next: A/B the first frame on New York with trial reels** (A: Luke alone for 3 seconds; B: the bare course map).
+Latest review: `ideas/2026-10-28-last-marathon-review.md` (posted to the profile at ~12:27pm, read at ~6h): **skip 52.4%, our worst** (a busy motion frame, a repeat of P147, plus a narrower gate than P153: both my miss); 23s on 1:26; **saves 1.8% and comments 0.3% Higher**; 4 follows IG, 5 TikTok; body flat at ~17%; the CTA step was small. Motion graphics stay in the body; the first 3 seconds are one big thing (P159). **Motion graphics off the main post (P160, Luke 28 Oct):** photo-top reels median about 29K, the 4 motion reels about 11K. Every reel uses the winners' 3 layers (a real picture on top, blue title then stage markers in the middle, Luke below, one line of subtitles), with a mock-up image of the frames (New York: `ideas/engine-room-nutrition/mockups/nyc-frames.png`). Motion only as a trial reel against it.
 
 **After the autumn season (`ideas/2026-10-28-off-season-plan.md`):** the season moves to December and spring; 5 pillars (race-day fears as the weekly reach reel, the viewer's before and after, goal times for emails, course breakdowns 2 to 4 weeks before each big race, podcast clips); training weeks still out. **Scripts ready (28 Oct):** walk (`2026-10-27-script-walk.md`: still posts, A and B as trial reels today, winner to the profile Thu); New York (`2026-10-28-script-nyc.md`, film Thu, post Fri); the last-marathon test (`2026-10-28-script-last-marathon.md`, trial reel only). **Test this week:** WHAT YOUR LAST MARATHON SAYS / ABOUT YOUR NEXT ONE as a trial reel (brief `ideas/engine-room-nutrition/2026-10-28-brief-last-marathon.md`: 3 numbers from their watch: first 10K, first gel, the K it turned), recorded with the walk today.
 

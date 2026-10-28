@@ -72,6 +72,11 @@ twice without being checked against the winners (P99).
       strips until after line one; checked as a phone screenshot at real
       size. Last marathon's dashboard frame: 52.4% skip.
 
+- [ ] **The winners' 3 layers, no motion graphics on the main post (P160):**
+      a real picture on top, the blue title (then each stage marker) in the
+      middle, Luke underneath, one line of subtitles. A mock-up image of
+      the frames goes with every script.
+
 ## 1. Topic
 
 - [ ] **Passes the five-line gate in `PLAN-winners.md` (P110).** If not,

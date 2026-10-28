@@ -5289,6 +5289,31 @@ repeated P147.
 *Source: last-marathon review, 28 October (Luke: "wonder if the motion
 graphics are turning people away").*
 
+## P160 — No motion graphics on the main post; show the layout as a picture
+
+Luke, 28 October, after the last-marathon review: "You're not being clear.
+Show me exactly how it should look and whether to use motion graphics or
+not." His grid answers the second part. Reels with a real photo in the top
+half (4:30 25.6K, 3:30 16.1K, 3:45 55.7K, gel 13.4K, sub-4 30.4K, carb load
+and without the wall about 84K) sit around a 29K median; the four motion
+reels (goal gone 13.6K, sleep 8.5K, enjoy 17.4K, last marathon 4.2K) around
+11K. Timing played a part (race weekend, the post-season dip), but four of
+four sit below the photo median.
+
+**The rule:**
+- **The main post uses the winners' 3 layers:** a real picture in the top
+  half (the hook as a picture: one person, one object, or the course map),
+  the blue title boxes in the middle, Luke underneath. The title box becomes
+  each stage marker. Nothing else on screen but one line of subtitles.
+- **Motion graphics only as a trial reel against this format,** never on
+  the main post, until a motion version beats the photo version on skip and
+  views.
+- **Every packaging instruction comes with a mock-up image** of the actual
+  frames (first frame, hook, a stage, and what not to do), not a
+  description alone.
+
+*Source: Luke, 28 October; the grid.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
