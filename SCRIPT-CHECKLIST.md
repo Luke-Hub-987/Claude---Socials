@@ -63,6 +63,10 @@ twice without being checked against the winners (P99).
       method names; every instruction something you can picture. A
       plain-words check in the file.
 
+- [ ] **The viewer's before and after (P158):** the pain is who they are
+      now, the dream is who they become, every stage moves them along it.
+      No founder history in reels.
+
 ## 1. Topic
 
 - [ ] **Passes the five-line gate in `PLAN-winners.md` (P110).** If not,

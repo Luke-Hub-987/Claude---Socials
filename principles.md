@@ -5243,6 +5243,28 @@ the same as if I'm speaking to a friend, conversational, clear, specific."
 
 *Source: Luke, 27 October.*
 
+## P158 — The story is the viewer's before and after, never the brand's past
+
+Brand advice Luke shared, 28 October: people don't care how a brand
+started; they care whether they see themselves in what happens next. The
+story that sells is who someone was before and who they become after. Our
+data agrees: the founder-led surprise ran 44.1% skip and 0 saves, and every
+winner is the viewer's own before and after (walking at 32K, then passing
+people).
+
+**The rule:**
+- Every script carries the viewer's before (the pain picture: what they do
+  now and what it costs) and after (the dream: who they are at 32K next
+  time), and every stage moves them along that line.
+- The founder story lives in the website's About section and the podcast,
+  not in reels. Luke and Jamie appear as guides (P30), the viewer is the
+  hero.
+- After the autumn season: the viewer's last race is their "before" (their
+  own splits), the next race their "after"
+  (`ideas/2026-10-28-off-season-plan.md`).
+
+*Source: brand advice via Luke, 28 October; surprise review.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

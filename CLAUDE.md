@@ -24,9 +24,9 @@ every posted video.
 3. The three newest `ideas/*-review.md` files: the latest data.
 4. The newest scripts in `ideas/engine-room-nutrition/` (the house
    style, the hook stacks, the audit tables).
-5. `principles.md` (P1 to P157, about 4,400 lines): search it for the
+5. `principles.md` (P1 to P158, about 4,400 lines): search it for the
    rule you need; do not read it end to end. The newest rules (P97 to
-   P157) are at the end, before "Open questions for Luke".
+   P158) are at the end, before "Open questions for Luke".
 
 ## How we work (Luke's standing instructions)
 
@@ -48,6 +48,7 @@ every posted video.
 - **Advise only what this audience actually does (P126):** amateur
   runners in Ireland, the UK and Europe; no niche kit (arm sleeves).
 - Recommend one option with reasons. Do not survey.
+- **The story is the viewer's before and after (P158):** never the brand's past; Luke and Jamie are guides, the viewer is the hero.
 - **Talk like a friend on a run (P157):** read aloud, short sentences, no jargon or method names, every instruction something you can picture.
 - **Instagram ranks on watch, sends and likes (Mosseri, P156):** reviews lead with rates; every script has a spoken reason to send it; the week's reach reel gets two trial reels; 4 reels a week by default.
 - **The LLM Council runs on every decision (P150, Luke 24 Oct):** topic,
@@ -220,7 +221,9 @@ a new cause becomes a new row in the same turn.**
 
 ## Current state (update this every session)
 
-**As of 27 October 2026.**
+**As of 28 October 2026.**
+
+**After the autumn season (`ideas/2026-10-28-off-season-plan.md`):** the season moves to December and spring; 5 pillars (race-day fears as the weekly reach reel, the viewer's before and after, goal times for emails, course breakdowns 2 to 4 weeks before each big race, podcast clips); training weeks still out. **Test this week:** WHAT YOUR LAST MARATHON SAYS / ABOUT YOUR NEXT ONE as a trial reel (brief `ideas/engine-room-nutrition/2026-10-28-brief-last-marathon.md`: 3 numbers from their watch: first 10K, first gel, the K it turned), recorded with the walk today.
 
 Latest review: `ideas/2026-10-27-enjoy-and-surprise-review.md`. **Enjoy:** 10.4K IG at 2.7 days (16.9K with FB), skip 38.2%, 30s on 1:32, a quarter still watching at 1:20 (the body held), save 1.2% (nothing too long to remember, P152), the CTA cost a third of who was left at 0:42, flat after day one because the posted gate said "this weekend" (P153); TikTok 4.1K. **Surprise:** 4.2K IG (6K with FB), skip 44.1% (opening frame Luke talking, not the bib: a repeat of ledger row 1), 0 saves, 0.1% shares, but flat at ~22% from 0:13 to the end and 13.6% full on TikTok (P151: a story opens an advice video). Follows read 0 on both from Luke's side: check the ERN side. **Emails (27 Oct, `ideas/2026-10-27-email-attribution.md`):** Klaviyo has no per-video attribution; sign-ups ran 9+ (Sat evening), 7 (Sun), **11 on Mon with no new reel** (old videos drive them). No dropdown or extra step on the form (Luke: friction, P154): each review counts sign-ups on the post's day and the day after, against no-post days as the baseline. Never put subscriber emails in the repo.
 
