@@ -5,7 +5,14 @@ basis: PLAN-brand-and-business.md (frequency, the plan as the moat, the beachhea
 status: v1 for Luke and Jamie. Competitor and season details marked (check) need confirming
 ---
 
-# Team sports: yes, but one sport, as a test, with the coach as the customer
+# Team sports: yes, but one sport, as a test
+
+**Corrected 29 Oct (Luke, P163):** at amateur clubs the coach or manager
+doesn't give nutrition advice; **the player decides**, so the reels and the
+match-day plan speak to the player, and the coach's squad page is only an
+optional extra. The player-first route, and the Uncrustables lesson, are in
+`ideas/2026-10-29-dressing-room-plan.md`. Where this file says "the coach
+as the customer", read "the player".
 
 ## 1. The verdict
 

@@ -5371,6 +5371,29 @@ Full layout: `ideas/2026-10-29-welcome-flow.md`.
 
 *Source: Luke, 29 October; Klaviyo screenshots.*
 
+## P163 — In amateur team sport, the player chooses the fuel: speak to the player
+
+Luke, 29 October, correcting the team-sports plan ("the coach as the
+customer"): at amateur clubs across Ireland the coach or manager doesn't
+give nutrition advice. Pro teams have nutritionists; they're a small part
+of the market.
+
+**The rule:**
+- **Team-sport reels and tools speak to the player**, on the match clock
+  (pre-match, the last 30 minutes, half-time, the last 10 minutes), the
+  same way marathon reels speak to the runner on the race clock.
+- The coach's squad page is an optional extra, never the main route.
+- **Get seen before paying (the Uncrustables lesson):** seed athletes with
+  no strings, pay only those who already use it, and a league or club deal
+  comes last. Make sure a player can actually buy it (club fundraiser boxes,
+  the shop near the pitch).
+- Team-sport content runs as trial reels until it beats the marathon reels
+  (P72, P156).
+
+Full plan: `ideas/2026-10-29-dressing-room-plan.md`.
+
+*Source: Luke, 29 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
