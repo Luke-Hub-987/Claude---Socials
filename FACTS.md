@@ -138,3 +138,10 @@ with the date.
   risks a security lock. Use search words in the caption and on screen
   ("NYC Marathon"), a location tag for the city, and a gate that names the
   race.
+
+## Course breakdowns (NYC, 29 Oct)
+- Saves 2.3% and shares 0.6% Higher, skip 43.2% (narrow-gate range), reach
+  below typical. Forecast for course videos: first day 3K to 8K IG, saves
+  2%+. Judge them on saves, sends and emails.
+- The CTA a third of the way in cost nothing visible on NYC (0:42) and
+  about 3 points on last marathon (0:43).

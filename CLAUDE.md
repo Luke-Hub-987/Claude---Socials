@@ -222,7 +222,9 @@ a new cause becomes a new row in the same turn.**
 
 ## Current state (update this every session)
 
-**As of 28 October 2026.**
+**As of 29 October 2026.**
+
+Latest review: `ideas/2026-10-29-nyc-review.md` (NYC at ~4h: skip 43.2%, Lower than typical, the narrow-gate range; **saves 2.3% and shares 0.6% Higher**; 25s on 1:39; no CTA step at 0:42; reach below typical; no forecast given, my miss). Course videos are judged on saves, sends and emails, not reach. **Sat's Dublin reel: the broad gate ("If you've got a marathon coming up"), Dublin as the story (P151).** Next course video (Valencia): trial-reel A/B of frame one, bare map vs labelled (P159 vs P161). Need from Luke: sign-ups Thu 29 and Fri 30.
 
 Latest review: `ideas/2026-10-28-last-marathon-review.md` (posted to the profile at ~12:27pm, read at ~6h): **skip 52.4%, our worst** (a busy motion frame, a repeat of P147, plus a narrower gate than P153: both my miss); 23s on 1:26; **saves 1.8% and comments 0.3% Higher**; 4 follows IG, 5 TikTok; body flat at ~17%; the CTA step was small. Motion graphics stay in the body; the first 3 seconds are one big thing (P159). **Motion graphics off the main post (P160, Luke 28 Oct):** photo-top reels median about 29K, the 4 motion reels about 11K. Every reel uses the winners' 3 layers (a real picture on top, blue title then stage markers in the middle, Luke below, one line of subtitles), with a mock-up image of the frames (New York: `ideas/engine-room-nutrition/mockups/nyc-frames.png`). Motion only as a trial reel against it.
 
