@@ -13,13 +13,13 @@ No split (the site tracking doesn't work yet), so everyone gets these.
 |---|---|---|---|---|
 | 1 | Email 1 (live, unchanged) | | Your marathon, sorted | A free, personalised plan designed for you |
 | 2 | Time delay: 2 days | | | |
-| 3 | Email 2 = B4 | `B4-your-block-starts.html` | Your block starts sooner than you think | Spring marathons and the Monday each 16-week block starts. |
+| 3 | Email 2 = B4 | `B4-your-block-starts.html` | The Monday your spring marathon training starts | Find your race and your start date. Brighton's is Monday 14 December. |
 | 4 | Time delay: 3 days | | | |
-| 5 | Email 3 = B2 | `B2-one-question.html` | One question | Which marathon are you running next? |
+| 5 | Email 3 = B2 | `B2-one-question.html` | One question, then your free marathon plan | Reply with your race, the date and your goal time. One line is plenty. |
 | 6 | Time delay: 4 days | | | |
-| 7 | Email 4 = B3 (Draft) | `B3-what-goes-in-your-hand-DRAFT.html` | What goes in your hand before the gun | The start pen, the nerves, and the gel you can't face. |
+| 7 | Email 4 = B3 (Draft) | `B3-what-goes-in-your-hand-DRAFT.html` | We need 50 runners to test our carb bar | It's for the 30 minutes before the gun. Here's every batch so far, and what went wrong. |
 | 8 | Time delay: 5 days | | | |
-| 9 | Email 5 = B1 | `B1-the-k-that-decides.html` | The K that decides your marathon | The wall gets built in the first 10K. Here's the pace that stops it. |
+| 9 | Email 5 = B1 | `B1-the-k-that-decides.html` | The first 10K pace that stops the wall at 32K | For every goal from 3:30 to 4:30, in km and miles, with the clock to see at the 10K sign. |
 
 Sends land on days 0, 2, 5, 9 and 14. B3 stays in Draft until Luke sends
 the batch number, what failed and a photo: Klaviyo moves people past a
@@ -34,9 +34,10 @@ Draft email without sending it.
 - Content: Edit email > HTML / code editor (not drag and drop) > delete
   everything > paste the whole file > Save.
 - Plain text tab: paste the version from `05-plain-text-versions.md`.
-- Before setting Live: search the HTML for `PASTE_`. Replace
-  `PASTE_BUILDER_LINK` (Emails 2 and 5) and `PASTE_WAITLIST_LINK` (all)
-  with the links in your live Email 1. None may be left.
+- Links are filled in (checked live 29 Oct): builder
+  https://engineroomnutrition.com/#get-plan, waitlist
+  https://engineroomnutrition.com/pages/the-bar#join. Only B3's photo
+  link is left.
 - Preview with your own profile: name fills in, links open the right
   pages, Unsubscribe works. Then set Live.
 
@@ -70,3 +71,9 @@ as a real date. Never send me the sheet; counts only.
 
 Per email: clicks, replies, unsubscribes (under 0.5%). Email 3: race
 replies recorded. Share of active profiles on the waitlist.
+
+## Subject lines (v4, 29 Oct)
+
+Caples and Ogilvy rules: self-interest first, a specific promise or
+number, news where there is news, 39 to 47 characters. Subjects replace
+the brief's originals at Luke's request.

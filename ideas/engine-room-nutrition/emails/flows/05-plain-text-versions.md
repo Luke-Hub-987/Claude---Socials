@@ -1,9 +1,9 @@
 # Plain-text versions (v3, branded emails, 29 Oct)
 
 Paste into each email's "Plain text" tab in Klaviyo. Replace
-PASTE_BUILDER_LINK and PASTE_WAITLIST_LINK with the same links as in the HTML.
+https://engineroomnutrition.com/#get-plan and https://engineroomnutrition.com/pages/the-bar#join with the same links as in the HTML.
 
-## Email 2 (B4): Your block starts sooner than you think
+## Email 2 (B4): The Monday your spring marathon training starts
 
 ```
 Hi {{ first_name|default:'there' }},
@@ -23,18 +23,18 @@ Cork, Sun 6 Jun: Mon 15 Feb
 
 Your race not here? Count back 16 weeks from race day to the Monday.
 
-Want your plan on screen now? Build it here: PASTE_BUILDER_LINK
+Want your plan on screen now? Build it here: https://engineroomnutrition.com/#get-plan
 
 Pick your Monday and put it in the calendar.
 
 Luke
 
-P.S. The bar Jamie and I are making is for the 30 minutes before your spring race. Join the list and you'll hear first: PASTE_WAITLIST_LINK
+P.S. The bar Jamie and I are making is for the 30 minutes before your spring race. Join the list and you'll hear first: https://engineroomnutrition.com/pages/the-bar#join
 
 Unsubscribe: {% unsubscribe_link %}
 ```
 
-## Email 3 (B2): One question
+## Email 3 (B2): One question, then your free marathon plan
 
 ```
 Hi {{ first_name|default:'there' }},
@@ -50,12 +50,12 @@ What you get back:
 
 Luke
 
-P.S. We're building a 30g carb bar for the half hour before the start. Get on the list: PASTE_WAITLIST_LINK
+P.S. We're building a 30g carb bar for the half hour before the start. Get on the list: https://engineroomnutrition.com/pages/the-bar#join
 
 Unsubscribe: {% unsubscribe_link %}
 ```
 
-## Email 5 (B1): The K that decides your marathon
+## Email 5 (B1): The first 10K pace that stops the wall at 32K
 
 ```
 Hi {{ first_name|default:'there' }},
@@ -79,13 +79,13 @@ THREE CHECKS IN THE FIRST 10K
 2. The sign, not the watch: within the range above at the 10K sign means you're on plan.
 3. First gel at 20 minutes, before you feel you need it, with 3 or 4 sips of water just before a station.
 
-Want it built for you? PASTE_BUILDER_LINK
+Want it built for you? https://engineroomnutrition.com/#get-plan
 
 Hold back for 10K and you'll still have it at 32K.
 
 Luke
 
-P.S. Jamie and I are making a 30g carb bar for the 30 minutes before the gun. It isn't out yet. Join the list to hear when it is: PASTE_WAITLIST_LINK
+P.S. Jamie and I are making a 30g carb bar for the 30 minutes before the gun. It isn't out yet. Join the list to hear when it is: https://engineroomnutrition.com/pages/the-bar#join
 
 Unsubscribe: {% unsubscribe_link %}
 ```
