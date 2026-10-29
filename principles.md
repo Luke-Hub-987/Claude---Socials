@@ -4443,6 +4443,20 @@ watch clicks and replies.
 
 *Source: Luke, 29 Oct, on the Track B emails.*
 
+## P120 — Email subjects: the reader's number, under 36 characters
+
+Luke, 29 Oct: the v4 subjects ("The Monday your spring marathon training
+starts", 47 characters) were too long, not specific enough and not
+valuable enough, and "nobody cares about Brighton". Rules: subject lines
+of 30 to 35 characters so they show whole on a phone; put the reader's
+number or the answer in the subject ("Sub-4? First 10K at 5:45 to 5:50",
+"London 2027? Start training 4 Jan"); the preview carries the rest of
+the value. Lead with the races this audience runs (London, Manchester,
+Belfast, Limerick, Cork, Dublin), never a race they don't. Paces stay in
+5-second bands, even in a subject.
+
+*Source: Luke, 29 Oct, on the welcome series subjects.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

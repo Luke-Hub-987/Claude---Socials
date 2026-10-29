@@ -190,9 +190,9 @@ work (Luke, 29 Oct). Track B built for everyone after Email 1, no split:
 `flows/B1` to `B4` HTML and `03-flow-1-track-b.md` (v2: order Email 1,
 B4, B2, B3, B1; B2 asks next race and goal time; replies imported weekly
 to list "Replied" with race_date as a date). v3: branded theme and a
-reply button near the top (P119). v4: links filled, Caples-style
-subjects. **Site links (checked 29 Oct): plan builder
+reply button near the top (P119). v5: links filled; subjects 30-35
+characters with the reader's number (P120); Brighton removed. **Site links (checked 29 Oct): plan builder
 https://engineroomnutrition.com/#get-plan; bar waitlist
 https://engineroomnutrition.com/pages/the-bar#join.** B3 waits on the batch
-number, failures and a photo. Review B4 dates by 14 Dec 2026. Next:
+number, failures and a photo. Review B4 dates by 28 Dec 2026. Next:
 Flow 2 via Klaviyo form fields (race, race date, goal time).

@@ -3,17 +3,16 @@
 Paste into each email's "Plain text" tab in Klaviyo. Replace
 https://engineroomnutrition.com/#get-plan and https://engineroomnutrition.com/pages/the-bar#join with the same links as in the HTML.
 
-## Email 2 (B4): The Monday your spring marathon training starts
+## Email 2 (B4): London 2027? Start training 4 Jan
 
 ```
 Hi {{ first_name|default:'there' }},
 
-If you're running a spring marathon, your training starts about four months before the gun. For an April race, that's December.
+If you're running a spring marathon, your training starts about four months before the gun. For London in April, that's the first week of January.
 
 Reply with your race and goal time, and I'll send you back your plan: the pace you're training for, from week one.
 
 WHEN YOUR BLOCK STARTS (spring 2027, 16 weeks, Monday to race day)
-Brighton, Sun 4 Apr: Mon 14 Dec
 Manchester, Sun 18 Apr: Mon 28 Dec
 London, Sat 24 or Sun 25 Apr: Mon 4 Jan
 Belfast, Sun 2 May: Mon 11 Jan
@@ -34,7 +33,7 @@ P.S. The bar Jamie and I are making is for the 30 minutes before your spring rac
 Unsubscribe: {% unsubscribe_link %}
 ```
 
-## Email 3 (B2): One question, then your free marathon plan
+## Email 3 (B2): Your marathon splits, for one reply
 
 ```
 Hi {{ first_name|default:'there' }},
@@ -43,10 +42,10 @@ What's your next marathon?
 
 Hit reply with the race, the date and the time you're after. One line is plenty, like "Manchester, 18 April, 3:45". I read every reply myself, and I'll send you back your plan.
 
-What you get back:
-1. Your first 10K pace, in km and miles, 5 to 10 seconds a K slower than your goal pace, so you're up to a minute behind at halfway and on plan.
-2. The clock at every 10K sign. Your watch reads about 1% long in a race. The signs don't.
-3. When to take each gel. About 60g of carbs an hour: first gel at 20 minutes, then a 30g gel every 30 minutes, each with 3 or 4 sips of water.
+Here's what a 3:45 runner gets:
+1. First 10K pace: 5:25 to 5:30 a K, or 8:45 to 8:50 a mile (5 to 10 seconds a K slower than goal pace).
+2. The clock at the 10K sign: 54:10 to 55:00. Your watch reads about 1% long in a race, so trust the signs.
+3. When to take each gel: about 60g of carbs an hour, first gel at 20 minutes, then a 30g gel every 30 minutes, each with 3 or 4 sips of water just before a station.
 
 Luke
 
@@ -55,7 +54,7 @@ P.S. We're building a 30g carb bar for the half hour before the start. Get on th
 Unsubscribe: {% unsubscribe_link %}
 ```
 
-## Email 5 (B1): The first 10K pace that stops the wall at 32K
+## Email 5 (B1): Sub-4? First 10K at 5:45 to 5:50
 
 ```
 Hi {{ first_name|default:'there' }},

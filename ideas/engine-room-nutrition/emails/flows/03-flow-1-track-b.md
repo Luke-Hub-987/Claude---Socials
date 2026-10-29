@@ -13,13 +13,13 @@ No split (the site tracking doesn't work yet), so everyone gets these.
 |---|---|---|---|---|
 | 1 | Email 1 (live, unchanged) | | Your marathon, sorted | A free, personalised plan designed for you |
 | 2 | Time delay: 2 days | | | |
-| 3 | Email 2 = B4 | `B4-your-block-starts.html` | The Monday your spring marathon training starts | Find your race and your start date. Brighton's is Monday 14 December. |
+| 3 | Email 2 = B4 | `B4-your-block-starts.html` | London 2027? Start training 4 Jan | Manchester 28 Dec. Belfast and Limerick 11 Jan. Cork 15 Feb. Find yours inside. |
 | 4 | Time delay: 3 days | | | |
-| 5 | Email 3 = B2 | `B2-one-question.html` | One question, then your free marathon plan | Reply with your race, the date and your goal time. One line is plenty. |
+| 5 | Email 3 = B2 | `B2-one-question.html` | Your marathon splits, for one reply | Send your race, date and goal time. I'll send back your pace, 10K clock times and gel times. |
 | 6 | Time delay: 4 days | | | |
-| 7 | Email 4 = B3 (Draft) | `B3-what-goes-in-your-hand-DRAFT.html` | Be one of 50 runners to test our carb bar | It's for the 30 minutes before the gun. Here's every batch so far, and what went wrong. |
+| 7 | Email 4 = B3 (Draft) | `B3-what-goes-in-your-hand-DRAFT.html` | Test our carb bar before anyone | We're picking 50 runners. It's 30g of carbs for the half hour before the gun. |
 | 8 | Time delay: 5 days | | | |
-| 9 | Email 5 = B1 | `B1-the-k-that-decides.html` | The first 10K pace that stops the wall at 32K | For every goal from 3:30 to 4:30, in km and miles, with the clock to see at the 10K sign. |
+| 9 | Email 5 = B1 | `B1-the-k-that-decides.html` | Sub-4? First 10K at 5:45 to 5:50 | 3:45 is 5:25 to 5:30 a K. Every goal from 3:30 to 4:30 inside, in km and miles. |
 
 Sends land on days 0, 2, 5, 9 and 14. B3 stays in Draft until Luke sends
 the batch number, what failed and a photo: Klaviyo moves people past a
@@ -62,7 +62,7 @@ as a real date. Never send me the sheet; counts only.
 
 - Check every race in Email 2 is in the builder's race list (Brighton,
   Manchester, London, Belfast, Limerick, Edinburgh, Cork).
-- **Review Email 2 by 14 Dec 2026**: remove races whose block has
+- **Review Email 2 by 28 Dec 2026 (Manchester's start; Brighton removed, Luke 29 Oct)**: remove races whose block has
   started. **Swap Emails 2 and 5 back in February**, when summer and
   autumn racers start joining.
 - Only new sign-ups enter these steps. The 568 already on the list don't.
@@ -77,3 +77,10 @@ replies recorded. Share of active profiles on the waitlist.
 Caples and Ogilvy rules: self-interest first, a specific promise or
 number, news where there is news, 39 to 47 characters. Subjects replace
 the brief's originals at Luke's request.
+
+## Subject lines (v5, 29 Oct)
+
+Luke: v4 was too long and not specific or valuable enough, and nobody
+cares about Brighton. v5 puts the answer or the reader's number in the
+subject (31 to 35 characters, readable whole on a phone) and the rest of
+the value in the preview. Brighton removed from Email 2.
