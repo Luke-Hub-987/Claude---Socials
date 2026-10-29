@@ -187,6 +187,8 @@ truth, including "the numbers": race fuel about 60 g/hour, first gel at
 confirmed by Luke; bar only before the start). Work one email at a time,
 wait for Luke's go. Status: Step 0 developer brief sent, but the website tracking did not
 work (Luke, 29 Oct). Track B built for everyone after Email 1, no split:
-`flows/B1` to `B4` HTML and `03-flow-1-track-b.md`. B3 waits on the batch
+`flows/B1` to `B4` HTML and `03-flow-1-track-b.md` (v2: order Email 1,
+B4, B2, B3, B1; B2 asks next race and goal time; replies imported weekly
+to list "Replied" with race_date as a date). B3 waits on the batch
 number, failures and a photo. Review B4 dates by 14 Dec 2026. Next:
 Flow 2 via Klaviyo form fields (race, race date, goal time).

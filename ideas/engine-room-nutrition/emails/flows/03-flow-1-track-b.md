@@ -1,86 +1,69 @@
-# Flow 1, Track B: emails B1 to B4 (29 Oct 2026)
+# Flow 1, Welcome Series: what goes in Klaviyo (v2, 29 Oct 2026)
 
-The site tracking didn't work, so there is no "Plan Built" event yet.
-Track B therefore goes to **everyone** after Email 1, with no split.
-When tracking works, add the split back (see the end).
+Luke approved two changes on 29 Oct: B2 now asks for the next race and
+goal time, and B4 (block start) moves to the front until February.
+No split (the site tracking doesn't work yet), so everyone gets these.
 
-## Files
+## The flow, in order
 
-| Email | File | Subject | Preview | Send |
+| Step | Klaviyo step | File | Subject | Preview |
 |---|---|---|---|---|
-| B1 | `B1-the-k-that-decides.html` | The K that decides your marathon | The wall gets built in the first 10K. Here's the pace that stops it. | day 2 |
-| B2 | `B2-one-question.html` | One question | One line is plenty. | day 5 |
-| B3 | `B3-what-goes-in-your-hand-DRAFT.html` | What goes in your hand before the gun | The start pen, the nerves, and the gel you can't face. | day 9 |
-| B4 | `B4-your-block-starts.html` | Your block starts sooner than you think | Spring marathons and the Monday each 16-week block starts. | day 14 |
+| 1 | Email 1 (live, unchanged) | | Your marathon, sorted | A free, personalised plan designed for you |
+| 2 | Time delay: 2 days | | | |
+| 3 | Email 2 = B4 | `B4-your-block-starts.html` | Your block starts sooner than you think | Spring marathons and the Monday each 16-week block starts. |
+| 4 | Time delay: 3 days | | | |
+| 5 | Email 3 = B2 | `B2-one-question.html` | One question | Which marathon are you running next? |
+| 6 | Time delay: 4 days | | | |
+| 7 | Email 4 = B3 (Draft) | `B3-what-goes-in-your-hand-DRAFT.html` | What goes in your hand before the gun | The start pen, the nerves, and the gel you can't face. |
+| 8 | Time delay: 5 days | | | |
+| 9 | Email 5 = B1 | `B1-the-k-that-decides.html` | The K that decides your marathon | The wall gets built in the first 10K. Here's the pace that stops it. |
 
-## Before pasting: two links in every file
+Sends land on days 0, 2, 5, 9 and 14. B3 stays in Draft until Luke sends
+the batch number, what failed and a photo: Klaviyo moves people past a
+Draft email without sending it.
 
-Copy them from your live Email 1:
-- `PASTE_BUILDER_LINK` (B1, B4): the plan builder page.
-- `PASTE_WAITLIST_LINK` (all four): the waitlist link from Email 1's P.S.
+## Settings for every new email
 
-Search each file for `PASTE_` before saving: there should be none left.
-B3 also has yellow slots (batch number, what failed, the photo). **Keep B3
-in Draft until they're filled.** In a live flow, Klaviyo moves people past
-a Draft email without sending it.
+- Name: "Email 2 - Block starts", "Email 3 - One question", "Email 4 -
+  The bar", "Email 5 - First 10K".
+- Sender name: Luke. Sender email and reply-to: luke@engineroomnutrition.com.
+- Smart Sending: on. UTM tracking: on.
+- Content: Edit email > HTML / code editor (not drag and drop) > delete
+  everything > paste the whole file > Save.
+- Plain text tab: paste the version from `05-plain-text-versions.md`.
+- Before setting Live: search the HTML for `PASTE_`. Replace
+  `PASTE_BUILDER_LINK` (Emails 2 and 5) and `PASTE_WAITLIST_LINK` (all)
+  with the links in your live Email 1. None may be left.
+- Preview with your own profile: name fills in, links open the right
+  pages, Unsubscribe works. Then set Live.
 
-## Klaviyo clicks
+## Recording the race replies (Email 3)
 
-1. Flows > Email Welcome Series > Edit flow.
-2. Under Email 1, click **+** > **Time delay** > 2 days > Save.
-3. Under it, **+** > **Email**. Name "B1 - The K that decides". Subject and
-   preview from the table. Sender name: Luke. Sender email and reply-to:
-   luke@engineroomnutrition.com. **Smart Sending: on.** UTM tracking: on.
-4. Click **Edit email** > choose the **HTML / code** editor (not drag and
-   drop) > delete everything > paste the whole B1 file > Save.
-5. Preview it with your own profile: the name fills in, both links open
-   the right pages, and Unsubscribe works.
-6. Set B1 to **Live**.
-7. Repeat: **+ Time delay 3 days > B2**; **+ Time delay 4 days > B3 (Draft)**;
-   **+ Time delay 5 days > B4**.
-8. Save. Only people who join from now on get Track B. The 568 already on
-   the list do not; reach them with the monthly campaign.
+Email 3's replies are now the only way to learn people's race dates.
+Once a week:
 
-## Checks done
+1. Make a spreadsheet with four columns: `Email`, `race_name`,
+   `race_date` (format 2027-04-18), `goal_time` (format 3:45).
+2. One row per reply.
+3. Klaviyo > Lists & segments > Create list "Replied" (first time only).
+   Open it > Import contacts > upload the sheet. Map the three columns to
+   new custom properties with those exact names, and set race_date's
+   type to **Date**.
+4. Reply to each person with their plan, as the email promises.
 
-- Every number matches the brief: first 10K 5 to 10 s/K slower; up to a
-  minute behind at halfway; watches read about 1% long; 5-second bands
-  in km. The 4:00 row (5:45 to 5:50, 57:30 at 10K) matches the sub-4
-  sample sent on 15, 17 and 24 Oct. 4:15 uses 6:05 to 6:10 (2 to 7 s
-  slower) so it stays inside "up to a minute behind at halfway".
-- Miles: the km band converted and rounded to 5 seconds, so some bands
-  are 10 seconds wide.
-- Spring dates checked on 29 Oct: Brighton 4 Apr, Manchester 18 Apr,
-  London 24 and 25 Apr (two days, one-off), Belfast 2 May, Limerick
-  2 May, Edinburgh 30 May, Cork 6 Jun 2027. Paris left out (sources
-  disagree, 4 or 11 Apr). Block start = the Monday 15 weeks before race
-  week (16 weeks including race week).
-- **Review B4 by 14 Dec 2026**, when the first block starts: remove rows
-  whose start date has passed and add the autumn 2027 races by May.
-- P118 writing audit: no em dashes, no "not X, it's Y", no fragments, no
-  repeated phrases, straight quotes; plain white layout, one table, one
-  link plus the P.S.
+This builds the data the Race Countdown (Flow 2) needs: race_date saved
+as a real date. Never send me the sheet; counts only.
 
-## Conflicts with the brief (Luke to decide)
+## Also do
 
-- **Frequency:** day 2, 5, 9 and 14 is four emails in under two weeks,
-  against "never more than one a week outside race week". Recommendation:
-  keep this timing (people read most in their first two weeks) and change
-  the rule to "outside race week and the first two weeks after sign-up".
-- **B3 cannot be finished without Luke's facts:** the real batch number,
-  what failed in each batch, and one real photo (uploaded to Klaviyo's
-  image library; paste its link in place of `PASTE_PHOTO_LINK`).
+- Check every race in Email 2 is in the builder's race list (Brighton,
+  Manchester, London, Belfast, Limerick, Edinburgh, Cork).
+- **Review Email 2 by 14 Dec 2026**: remove races whose block has
+  started. **Swap Emails 2 and 5 back in February**, when summer and
+  autumn racers start joining.
+- Only new sign-ups enter these steps. The 568 already on the list don't.
 
-## When tracking works later
+## Measure (every two weeks)
 
-Add after the 2-day delay: Conditional split > "What someone has done" >
-Plan Built > at least once > over all time. Yes: end. No: Track B. And on
-each B email: Flow filter "Plan Built zero times since starting this flow".
-
-## Flow 2 without the developer
-
-Recommendation: add three fields to the Klaviyo sign-up form (Race, Race
-date as a Date field, Goal time as a dropdown 3:00 to 5:00). Klaviyo saves
-them as profile properties, race_date as a real date, with no website
-code. That is enough to run the Race Countdown on the date, with the
-numbers taken from a goal-time table inside each email.
+Per email: clicks, replies, unsubscribes (under 0.5%). Email 3: race
+replies recorded. Share of active profiles on the waitlist.
