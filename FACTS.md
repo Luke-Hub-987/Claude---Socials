@@ -145,3 +145,10 @@ with the date.
   2%+. Judge them on saves, sends and emails.
 - The CTA a third of the way in cost nothing visible on NYC (0:42) and
   about 3 points on last marathon (0:43).
+
+## When the emails come (Luke, 29 Oct)
+- Most sign-ups came on Sat 24 (race eve), Mon 26 (the day after Dublin, no
+  new reel) and Wed 28 (the "next one" video, 4K views). Emails follow a
+  runner planning a race, not reach. List: 468 on 21 Oct, 591 on 29 Oct.
+- The CTA speaks to the next race: "Want your next race planned? Email us
+  your race and goal time through the link in the bio."
