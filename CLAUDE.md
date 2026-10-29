@@ -179,3 +179,11 @@ Race-eve email (24 Oct): `ideas/engine-room-nutrition/emails/2026-10-24-race-eve
 and `.md`. Subject "Your splits for tomorrow's marathon"; splits table for
 goals 3:00 to 5:00 (4:00 row = the sub-4 sample); ask: reply with finish
 time. The 22 Oct race-week email opened at about 68% (Luke).
+
+**Klaviyo flows project (from 29 Oct):** brief in
+`ideas/engine-room-nutrition/emails/flows/00-flow-brief.md` (source of
+truth, including "the numbers": race fuel about 60 g/hour, first gel at
+20 min then 30 g every 30 min by gel size; carb load 8-10 g/kg, now
+confirmed by Luke; bar only before the start). Work one email at a time,
+wait for Luke's go. Status: Step 0 developer brief and test sent
+(`01-` and `02-` files). Next: Flow 1 split and B1.
