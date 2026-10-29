@@ -65,3 +65,16 @@ race-week videos" (P156).
   results the next day. The bar question stays, as a question.
 - **Chairman:** **Run this week as written, starting with the New York poll
   on Saturday and the race question on Monday.**
+
+## Update 29 Oct: most say spring, mostly Irish and UK (Luke's first poll)
+**Stories, spring version (the next 4 weeks):**
+| Day | Story | Sticker | What it decides |
+|---|---|---|---|
+| Mon | "Which spring marathon?" | Poll: London / Manchester / Paris, Barcelona, Rome or Seville / Ireland (Belfast, Limerick, Cork) / other. Then a question box: "Which one, and your goal?" | Which course videos to make, in what order; every reply gets the plan link (emails) |
+| Tue | "Is it your first marathon?" | Poll: first / second / 3 or more | First-timer topics (how hard a marathon is, the walk, the start) or returner topics (the next goal, gone out too fast) |
+| Wed | The day's reel, reshared, with a quiz from it | Quiz | Early views from followers |
+| Thu | "What do you eat in the 30 minutes before a race?" | Poll, then the dread slider | The bar's research |
+| Fri | "Which would you watch first?" | Poll: 2 titles from the ideation list | The next topic |
+| Sat | "What went wrong last time that you won't repeat?" | Question box | Pains in their words |
+| Sun | A countdown sticker for the most-picked race (people tap "remind me") | Countdown | Brings them back on race week, when they're planning |
+Log the counts in `ideas/stories-log.md` each week.

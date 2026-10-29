@@ -152,3 +152,9 @@ with the date.
   runner planning a race, not reach. List: 468 on 21 Oct, 591 on 29 Oct.
 - The CTA speaks to the next race: "Want your next race planned? Email us
   your race and goal time through the link in the bio."
+
+## The audience after the autumn season (Luke's stories, 29 Oct)
+- Most say their next marathon is in spring; most of the audience is Irish
+  and UK. Paces in km and miles (P129). Spring races to plan around:
+  Seville (Feb), Barcelona and Rome (Mar), Paris, Manchester, Brighton and
+  London (Apr), Belfast and Limerick (spring), Cork (Jun): check each date.
