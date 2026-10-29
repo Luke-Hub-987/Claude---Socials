@@ -5343,6 +5343,34 @@ away".
 
 *Source: Luke, 28 October.*
 
+## P162 — Every email is about their race, timed to it, with something to keep
+
+Luke, 29 October: "most welcome flows I just ignore after signing up", so
+ours have to be valuable and carry a stake; and the bar is close to a
+commodity, so brand and trust have to do the work. The data: Email 1 (the
+plan) gets 24.4% clicks, and it was the only email in the flow.
+
+**The rule:**
+- **Every email is about their race, never about us.** The stake is their
+  race and goal, ideally in the subject line.
+- **Time it to their race date** (the Plan Built event): 7 days out, 2
+  days out, race morning, 2 days after. Countdowns are our best keepers on
+  the reels too.
+- **Something too long to remember in each one** (P152): their table, the
+  carb-load schedule, the last 48 hours.
+- **The 2-days-after email asks for their 3 numbers and Luke answers it
+  personally.** That's the promise kept, the research and the before and
+  after (P158).
+- **The bar lives in the P.S. and one insider email** (the batches, the
+  taste panel): process is a reward for people who already care (P57).
+  Never a pitch, never a discount.
+- **Plain, from Luke, after Email 1;** one CTA; judged on clicks, replies
+  and the waitlist share, never opens.
+
+Full layout: `ideas/2026-10-29-welcome-flow.md`.
+
+*Source: Luke, 29 October; Klaviyo screenshots.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

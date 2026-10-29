@@ -127,6 +127,17 @@ with the date.
   Earlier days: 3:45's day 51, 3:30's 39 (1M analysis). No-post baseline:
   Mon 26, 11.
 
+## The email list and the welcome flow (Klaviyo, 29 Oct, counts only)
+- 591 profiles: 568 active, 23 suppressed (some are typo addresses that
+  bounce). 468 on 21 Oct.
+- The Welcome Series has one email: "Email 1 - Guide Delivery" (subject
+  "Your marathon, sorted"; from Luke): 62.8% open, **24.4% click** over 30
+  days. Four rules, a sample sub-4 plan, and a link to the plan builder on
+  the site (drag the clock to the goal, pick the race, the plan shows on
+  screen). The P.S. names the bar ("30g of carbs in a rice crisp square,
+  for race morning") and links to a waitlist.
+- Next: `ideas/2026-10-29-welcome-flow.md` (P162).
+
 ## Opening frames and skip (motion reels, P159)
 - One big number (goal gone, +3:00): 31.9%. A 32K marker and a small runner
   (enjoy): 38.2%. A sentence and a clock (sleep): 41.4%. A splits list,

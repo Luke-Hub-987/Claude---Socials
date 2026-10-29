@@ -318,6 +318,15 @@ deciding number.
 
 ## 10. Needed from Luke and Jamie
 
+**Answered 29 Oct:** 591 profiles (568 active). The plan is self-serve on
+the site (a builder), not made by hand. The Welcome Series has one email
+(24.4% clicks); the full flow is in `ideas/2026-10-29-welcome-flow.md`.
+A shared kitchen in Athenry (Bia Innovator Campus) came up in Gemini's
+model: to cost against a co-packer. Gemini's model is vetted in that file,
+section 8 (its 24 bars a month per subscriber is the flaw).
+
+Still open:
+
 1. The list size today, and whether every sign-up gets a personalised plan
    by hand (if so, how long each takes: that's a hidden cost, and a reason
    to build a planner).
