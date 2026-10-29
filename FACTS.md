@@ -138,6 +138,21 @@ with the date.
   for race morning") and links to a waitlist.
 - Next: `ideas/2026-10-29-welcome-flow.md` (P162).
 
+## The website (read 29 Oct, engineroomnutrition.com, likely Shopify)
+- The plan builder is the sign-up: goal clock (3:00 to 5:30), race dropdown
+  (Dublin, Frankfurt, New York, Valencia, Seville, Barcelona, Paris,
+  London, Manchester, Belfast, Cork, Other), email, "Unlock my free plan".
+  The plan has a print-a-pace-band button and a lock-screen save.
+- A Carb Bar waitlist (yes or no), a results form (race, finish time, PB,
+  email, consent), testimonials, an About section.
+- Proof bar: "1M+ views", "100+ free pace plans sent" (out of date).
+- **The bar (/pages/the-bar):** "Race morning, sorted." 30g of carbs, about
+  40g, under 1g of fat, protein and fibre; 8 ingredients: crisped rice,
+  honey, maple syrup, sugar, coconut oil, beef gelatine, sea salt, vanilla.
+  Not vegetarian. No salt figure yet. Final figures after lab testing. No
+  price; the waitlist gets a founding price. "Coming soon", no date. Its
+  table compares the bar with a banana, porridge and a gel in the pen.
+
 ## Opening frames and skip (motion reels, P159)
 - One big number (goal gone, +3:00): 31.9%. A 32K marker and a small runner
   (enjoy): 38.2%. A sentence and a clock (sleep): 41.4%. A splits list,
