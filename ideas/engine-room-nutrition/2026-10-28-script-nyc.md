@@ -148,15 +148,13 @@ no borough names but Brooklyn; no "Queensboro", "Verrazzano", "split",
 - Chairman: **Ready to film.**
 
 ## Caption (final)
-How to pace the New York marathon, section by section. The loudest mile of the race is the one most likely to wreck it, and you get there straight off the quietest.
+How to pace the New York City Marathon, section by section. The loudest mile of the race is the one most likely to wreck it, and you get there straight off the quietest.
 
 Here's the plan for a 4 hour marathon (9:10 a mile, 5:41 a K). The first 2 miles, up and over the bridge: 9:30 a mile, with all 10 words of "I am running a marathon today and I feel good" in one breath. Brooklyn and Queens to mile 14: 9:10, and not a second quicker. Halfway should come up at about 2:01 on the clock. The quiet bridge, miles 14 to 16: go by your breathing, not your watch (it can lose signal on the lower level), and 9:35 is fine. First Avenue, miles 16 to 19: 8:50 and no faster, however loud it gets. The Bronx, miles 19 to 21: 9:10. Fifth Avenue, miles 21 to 24: shorter, quicker steps, about 9:15. Central Park to the line: about 8:50, if you've still got 5 words.
 
 For other goals, the same plan, section by section (bridge / Brooklyn and Queens / the quiet bridge / First Avenue / the Bronx / Fifth Avenue / the park). 3:30: 8:20 / 8:00 / 8:25 / 7:40 / 8:00 / 8:05 / 7:40 a mile (5:10 / 5:00 / 5:15 / 4:45 / 5:00 / 5:00 / 4:45 a K). 3:45: 8:55 / 8:35 / 9:00 / 8:15 / 8:35 / 8:40 / 8:15 a mile (5:30 / 5:20 / 5:35 / 5:10 / 5:20 / 5:25 / 5:05 a K). 4:00: 9:30 / 9:10 / 9:35 / 8:50 / 9:10 / 9:15 / 8:50 a mile (5:55 / 5:40 / 5:55 / 5:30 / 5:40 / 5:45 / 5:30 a K). 4:30: 10:40 / 10:20 / 10:45 / 10:00 / 10:20 / 10:25 / 10:00 a mile (6:35 / 6:25 / 6:40 / 6:10 / 6:25 / 6:25 / 6:10 a K). 5:00: 11:45 / 11:25 / 11:50 / 11:05 / 11:25 / 11:30 / 11:05 a mile (7:20 / 7:05 / 7:20 / 6:55 / 7:05 / 7:10 / 6:55 a K). Each one lands within about a minute of the goal on the mile markers; trust the clock at the markers over the pace on your watch.
 
 Send this to whoever's running the NYC Marathon with you. Want it worked out for your exact goal? Email us your race and goal time through the link in the bio and we'll send it, free.
-
-Course map: [credit the map you use here].
 
 ## Pinned comment (final)
 "Which bit worries you most, the quiet bridge or First Avenue? 👇 4:00 plan: bridge 9:30, Brooklyn 9:10, quiet bridge by breathing (about 9:35), First Avenue 8:50 and no faster, Fifth Avenue about 9:15, then the park if you've got 5 words. Want your goal worked out? Email us your race and goal time through the link in the bio."
