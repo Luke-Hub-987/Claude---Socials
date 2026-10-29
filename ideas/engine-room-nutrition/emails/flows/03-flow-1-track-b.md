@@ -17,7 +17,7 @@ No split (the site tracking doesn't work yet), so everyone gets these.
 | 4 | Time delay: 3 days | | | |
 | 5 | Email 3 = B2 | `B2-one-question.html` | One question, then your free marathon plan | Reply with your race, the date and your goal time. One line is plenty. |
 | 6 | Time delay: 4 days | | | |
-| 7 | Email 4 = B3 (Draft) | `B3-what-goes-in-your-hand-DRAFT.html` | We need 50 runners to test our carb bar | It's for the 30 minutes before the gun. Here's every batch so far, and what went wrong. |
+| 7 | Email 4 = B3 (Draft) | `B3-what-goes-in-your-hand-DRAFT.html` | Be one of 50 runners to test our carb bar | It's for the 30 minutes before the gun. Here's every batch so far, and what went wrong. |
 | 8 | Time delay: 5 days | | | |
 | 9 | Email 5 = B1 | `B1-the-k-that-decides.html` | The first 10K pace that stops the wall at 32K | For every goal from 3:30 to 4:30, in km and miles, with the clock to see at the 10K sign. |
 
