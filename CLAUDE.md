@@ -189,6 +189,7 @@ wait for Luke's go. Status: Step 0 developer brief sent, but the website trackin
 work (Luke, 29 Oct). Track B built for everyone after Email 1, no split:
 `flows/B1` to `B4` HTML and `03-flow-1-track-b.md` (v2: order Email 1,
 B4, B2, B3, B1; B2 asks next race and goal time; replies imported weekly
-to list "Replied" with race_date as a date). B3 waits on the batch
+to list "Replied" with race_date as a date). v3: branded theme and a
+reply button near the top (P119). B3 waits on the batch
 number, failures and a photo. Review B4 dates by 14 Dec 2026. Next:
 Flow 2 via Klaviyo form fields (race, race date, goal time).

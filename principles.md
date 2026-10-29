@@ -4429,6 +4429,20 @@ heading.
 
 *Source: Luke, 17 Oct, reviewing the welcome flow email.*
 
+## P119 — Flow emails use the brand theme, with a reply button near the top
+
+Luke, 29 Oct: the plain white welcome-flow emails "look terrible". Every
+email uses the ERN theme from the campaigns (navy header with the
+wordmark, Barlow Condensed headings with Impact fallback, DM Sans body
+with Arial fallback, blue #3b82f6 on dark and #2563eb buttons, dark value
+cards), a reply button straight under the opening lines, and a reply card
+near the end. Each email gives real value (a table or worked numbers).
+This overrides the brief's "plain, no banner" rule. The race-week email
+in this theme opened at about 68%, so the inbox risk is acceptable;
+watch clicks and replies.
+
+*Source: Luke, 29 Oct, on the Track B emails.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

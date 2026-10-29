@@ -150,6 +150,9 @@ twice without being checked against the winners (P99).
 
 ## 7. Truth and voice
 
+- [ ] **Email layout (P119):** ERN theme (navy header, Barlow/Impact,
+      DM Sans/Arial, #2563eb buttons), reply button under the opening
+      lines, reply card near the end, one block of real value.
 - [ ] **Emails too (P118):** run the P35 AI-writing audit on every email
       line: no repeated triads or slogans, no stacked hedges, no
       cliches, no fragments, no phrase said twice, straight quotes.

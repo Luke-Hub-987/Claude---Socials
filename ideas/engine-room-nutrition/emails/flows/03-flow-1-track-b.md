@@ -1,4 +1,7 @@
-# Flow 1, Welcome Series: what goes in Klaviyo (v2, 29 Oct 2026)
+# Flow 1, Welcome Series: what goes in Klaviyo (v3, 29 Oct 2026)
+
+v3: all four emails rebuilt in the ERN theme with a reply button near
+the top (Luke, P119). Order, delays and subjects unchanged.
 
 Luke approved two changes on 29 Oct: B2 now asks for the next race and
 goal time, and B4 (block start) moves to the front until February.

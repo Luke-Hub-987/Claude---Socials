@@ -1,38 +1,260 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="x-apple-disable-message-reformatting">
+<meta name="color-scheme" content="light">
+<meta name="supported-color-schemes" content="light">
 <title>The K that decides your marathon</title>
-</head>
-<body style="margin:0; padding:0; background-color:#ffffff;">
-<div style="display:none; max-height:0; overflow:hidden; mso-hide:all; font-size:1px; line-height:1px; color:#ffffff;">The wall gets built in the first 10K. Here's the pace that stops it.&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;</div>
-<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#ffffff;">
-<tr><td align="center" style="padding:24px 16px;">
-<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:560px;">
-<tr><td style="text-align:left;">
-<p style="font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height:1.6; color:#222222; margin:0 0 16px 0;">Hi {{ first_name|default:'there' }},</p>
-<p style="font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height:1.6; color:#222222; margin:0 0 16px 0;">The wall you hit at 32K gets built in the first 10K. You feel great, the crowd's loud, and you run 10 or 15 seconds a K too fast. You pay for it two hours later.</p>
-<p style="font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height:1.6; color:#222222; margin:0 0 16px 0;">So run the first 10K 5 to 10 seconds a K slower than your goal pace. You'll be up to a minute behind at halfway, and that's your race going to plan.</p>
-<p style="font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height:1.6; color:#222222; margin:0 0 16px 0;">Find your goal below. Your watch reads about 1% long in a race, so trust the race clock at the 10K sign over the watch.</p>
-<table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse; margin:0 0 20px 0;">
-<tr><th scope="col" style="font-family:Arial,Helvetica,sans-serif; font-size:13px; font-weight:bold; color:#222222; text-align:left; padding:8px 6px; border-bottom:2px solid #222222;">Goal</th><th scope="col" style="font-family:Arial,Helvetica,sans-serif; font-size:13px; font-weight:bold; color:#222222; text-align:left; padding:8px 6px; border-bottom:2px solid #222222;">First 10K per km</th><th scope="col" style="font-family:Arial,Helvetica,sans-serif; font-size:13px; font-weight:bold; color:#222222; text-align:left; padding:8px 6px; border-bottom:2px solid #222222;">Per mile</th><th scope="col" style="font-family:Arial,Helvetica,sans-serif; font-size:13px; font-weight:bold; color:#222222; text-align:left; padding:8px 6px; border-bottom:2px solid #222222;">Clock at the 10K sign</th></tr>
-<tr><td style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#222222; padding:8px 6px; border-bottom:1px solid #dddddd;">3:30</td><td style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#222222; padding:8px 6px; border-bottom:1px solid #dddddd;">5:05 to 5:10</td><td style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#222222; padding:8px 6px; border-bottom:1px solid #dddddd;">8:10 to 8:20</td><td style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#222222; padding:8px 6px; border-bottom:1px solid #dddddd;">50:50 to 51:40</td></tr>
-<tr><td style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#222222; padding:8px 6px; border-bottom:1px solid #dddddd;">3:45</td><td style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#222222; padding:8px 6px; border-bottom:1px solid #dddddd;">5:25 to 5:30</td><td style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#222222; padding:8px 6px; border-bottom:1px solid #dddddd;">8:45 to 8:50</td><td style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#222222; padding:8px 6px; border-bottom:1px solid #dddddd;">54:10 to 55:00</td></tr>
-<tr><td style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#222222; padding:8px 6px; border-bottom:1px solid #dddddd;">4:00</td><td style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#222222; padding:8px 6px; border-bottom:1px solid #dddddd;">5:45 to 5:50</td><td style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#222222; padding:8px 6px; border-bottom:1px solid #dddddd;">9:15 to 9:25</td><td style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#222222; padding:8px 6px; border-bottom:1px solid #dddddd;">57:30 to 58:20</td></tr>
-<tr><td style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#222222; padding:8px 6px; border-bottom:1px solid #dddddd;">4:15</td><td style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#222222; padding:8px 6px; border-bottom:1px solid #dddddd;">6:05 to 6:10</td><td style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#222222; padding:8px 6px; border-bottom:1px solid #dddddd;">9:45 to 9:55</td><td style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#222222; padding:8px 6px; border-bottom:1px solid #dddddd;">60:50 to 61:40</td></tr>
-<tr><td style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#222222; padding:8px 6px; border-bottom:1px solid #dddddd;">4:30</td><td style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#222222; padding:8px 6px; border-bottom:1px solid #dddddd;">6:30 to 6:35</td><td style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#222222; padding:8px 6px; border-bottom:1px solid #dddddd;">10:30 to 10:35</td><td style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#222222; padding:8px 6px; border-bottom:1px solid #dddddd;">65:00 to 65:50</td></tr>
-</table>
-<p style="font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height:1.6; color:#222222; margin:0 0 16px 0;">Want it for your exact goal, with every 10K sign and your gel times?</p>
-<p style="font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height:1.6; color:#222222; margin:0 0 16px 0;"><a href="PASTE_BUILDER_LINK" style="color:#2563eb; text-decoration:underline;">Build your plan here</a></p>
-<p style="font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height:1.6; color:#222222; margin:0 0 16px 0;">Luke</p>
-<p style="font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height:1.6; color:#222222; margin:0 0 16px 0;"><strong>P.S.</strong> Jamie and I are making a 30g carb bar for the half hour before the start. It isn't out yet. <a href="PASTE_WAITLIST_LINK" style="color:#2563eb; text-decoration:underline;">Join the list</a> to hear when it is.</p>
+<style type="text/css">
+body { margin:0; padding:0; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; }
+table { border-collapse:collapse; }
+img { border:0; line-height:100%; outline:none; text-decoration:none; }
+a { text-decoration:none; }
 
-<p style="font-family:Arial,Helvetica,sans-serif; font-size:12px; line-height:1.6; color:#888888; margin:32px 0 0 0;">Engine Room Nutrition. You're getting this because you signed up at engineroomnutrition.com.<br><a href="{% unsubscribe_link %}" style="color:#888888; text-decoration:underline;">Unsubscribe</a></p>
-</td></tr>
+/* Animation plays in Apple Mail and iOS Mail. Every element's resting
+   state is its final state, so clients that strip this (Gmail, Outlook)
+   show the finished picture. */
+@keyframes ernTrack { 0% { width:0%; } 100% { width:100%; } }
+@keyframes ernRise { 0% { opacity:0; } 100% { opacity:1; } }
+@keyframes ernPulse { 0% { opacity:0.35; } 50% { opacity:1; } 100% { opacity:0.35; } }
+@keyframes ern24 { 0% { width:0%; } 100% { width:24%; } }
+@keyframes ern47 { 0% { width:0%; } 100% { width:47%; } }
+@keyframes ern71 { 0% { width:0%; } 100% { width:71%; } }
+@keyframes ern95 { 0% { width:0%; } 100% { width:95%; } }
+@keyframes ernUp { 0% { opacity:0; transform:translateY(14px); } 100% { opacity:1; transform:translateY(0); } }
+@keyframes ernPop { 0% { opacity:0; transform:scale(0.6); } 70% { transform:scale(1.12); } 100% { opacity:1; transform:scale(1); } }
+@keyframes ernGlow { 0% { box-shadow:0 0 0 0 rgba(37,99,235,0.55); } 70% { box-shadow:0 0 0 12px rgba(59,130,246,0); } 100% { box-shadow:0 0 0 0 rgba(59,130,246,0); } }
+@keyframes ernRunner { 0% { left:0%; } 100% { left:97%; } }
+
+.hero-track { animation: ernTrack 2.2s cubic-bezier(0.22,0.61,0.36,1) 0.3s backwards; }
+.hm1 { animation: ernRise 0.4s ease-out 0.7s backwards; }
+.hm2 { animation: ernRise 0.4s ease-out 1.1s backwards; }
+.hm3 { animation: ernRise 0.4s ease-out 1.5s backwards; }
+.hm4 { animation: ernRise 0.4s ease-out 1.9s backwards; }
+.hm5 { animation: ernRise 0.4s ease-out 2.3s backwards; }
+.dot-pulse { animation: ernPulse 2.4s ease-in-out infinite; }
+.b24 { animation: ern24 0.9s cubic-bezier(0.22,0.61,0.36,1) 0.2s backwards; }
+.b47 { animation: ern47 1.1s cubic-bezier(0.22,0.61,0.36,1) 0.5s backwards; }
+.b71 { animation: ern71 1.3s cubic-bezier(0.22,0.61,0.36,1) 0.8s backwards; }
+.b95 { animation: ern95 1.5s cubic-bezier(0.22,0.61,0.36,1) 1.1s backwards; }
+.b100 { animation: ernTrack 1.7s cubic-bezier(0.22,0.61,0.36,1) 1.4s backwards; }
+.up1 { animation: ernUp 0.7s ease-out 0.1s backwards; }
+.up2 { animation: ernUp 0.7s ease-out 0.35s backwards; }
+.up3 { animation: ernUp 0.7s ease-out 0.6s backwards; }
+.r1 { animation: ernUp 0.6s ease-out 0.3s backwards; }
+.r2 { animation: ernUp 0.6s ease-out 0.7s backwards; }
+.r3 { animation: ernUp 0.6s ease-out 1.1s backwards; }
+.r4 { animation: ernUp 0.6s ease-out 1.5s backwards; }
+.pop1 { display:inline-block; animation: ernPop 0.5s ease-out 0.4s backwards; }
+.pop2 { display:inline-block; animation: ernPop 0.5s ease-out 0.8s backwards; }
+.pop3 { display:inline-block; animation: ernPop 0.5s ease-out 1.2s backwards; }
+.pop4 { display:inline-block; animation: ernPop 0.5s ease-out 1.6s backwards; }
+.btn-glow { animation: ernGlow 2.2s ease-out 1s infinite; }
+.runner { animation: ernRunner 2.2s cubic-bezier(0.22,0.61,0.36,1) 0.3s backwards; }
+
+@media only screen and (max-width:620px) {
+  .email-container { width:100% !important; max-width:100% !important; }
+  .pad { padding-left:20px !important; padding-right:20px !important; }
+  .hero-headline { font-size:42px !important; line-height:1 !important; }
+  .hero-sub { font-size:21px !important; }
+  .plan-feel { font-size:12px !important; }
+  .plan-num { font-size:15px !important; }
+  .tnum { font-size:14px !important; }
+}
+</style>
+</head>
+<body style="margin:0; padding:0; background-color:#eef1f6;">
+
+<!-- PREHEADER: the grey line after the subject in the inbox -->
+<div style="display:none; max-height:0; overflow:hidden; mso-hide:all; font-size:1px; line-height:1px; color:#eef1f6;">
+The wall gets built in the first 10K. Here's the pace that stops it.
+&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;
+</div>
+
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#eef1f6;">
+<tr>
+<td align="center" style="padding:24px 12px;">
+
+<table role="presentation" class="email-container" width="600" cellpadding="0" cellspacing="0" border="0" style="width:600px; max-width:600px; background-color:#ffffff; border-radius:6px; box-shadow:0 2px 10px rgba(10,15,30,0.10);">
+
+<!-- ============ HERO ============ -->
+<tr>
+<td class="pad" bgcolor="#0a0f1e" style="background-color:#0a0f1e; padding:22px 28px 30px 28px; border-radius:6px 6px 0 0;">
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td align="left" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:14px; font-weight:800; letter-spacing:1.5px; color:#ffffff; text-transform:uppercase;">ENGINE ROOM <span style="color:#3b82f6;">NUTRITION</span></td>
+      <td align="right" style="font-family:'DM Sans',Arial,sans-serif; font-size:11px; font-weight:600; letter-spacing:1.5px; color:#bbbbbb; text-transform:uppercase;"><span class="dot-pulse" style="display:inline-block; width:6px; height:6px; background-color:#3b82f6; border-radius:3px; margin-right:6px; vertical-align:middle;">&nbsp;</span>First 10K</td>
+    </tr>
+  </table>
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-top:28px;">
+    <tr><td class="hero-headline" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:54px; font-weight:900; line-height:0.98; color:#ffffff; text-transform:uppercase; letter-spacing:0.5px;"><div class="up1">The K that<br>decides it</div></td></tr>
+    <tr><td class="hero-sub" style="padding-top:10px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:24px; font-weight:900; font-style:italic; line-height:1.1; color:#3b82f6; text-transform:uppercase;"><div class="up2">Where the wall really starts</div></td></tr>
+    <tr><td style="padding-top:14px; font-family:'DM Sans',Arial,sans-serif; font-size:16px; line-height:1.55; color:#c9d2e3;"><div class="up3">Your first 10K pace for every goal from 3:30 to 4:30, in km and miles.</div></td></tr>
+  </table>
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-top:26px; background-color:#1a3060; border-radius:4px;">
+    <tr><td style="padding:0; font-size:0; line-height:0;"><div style="width:24%; height:6px; background-color:#3b82f6; border-radius:4px; font-size:0; line-height:0;">&nbsp;</div></td></tr>
+  </table>
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-top:8px;">
+    <tr>
+      <td width="20%" align="left" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:13px; font-weight:800; letter-spacing:1px; color:#ffffff; text-transform:uppercase;">Start</td>
+      <td width="20%" align="center" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:13px; font-weight:800; letter-spacing:1px; color:#3b82f6;">10K</td>
+      <td width="20%" align="center" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:13px; font-weight:800; letter-spacing:1px; color:#66779e;">20K</td>
+      <td width="20%" align="center" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:13px; font-weight:800; letter-spacing:1px; color:#66779e;">30K</td>
+      <td width="20%" align="right" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:13px; font-weight:800; letter-spacing:1px; color:#66779e; text-transform:uppercase;">Finish</td>
+    </tr>
+  </table>
+</td>
+</tr>
+
+<!-- ============ SENDER ROW ============ -->
+<tr>
+<td class="pad" style="background-color:#ffffff; padding:18px 28px 0 28px;">
+  <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td width="38" valign="middle">
+        <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="32" style="width:32px; height:32px; background-color:#0a0f1e; border-radius:16px;">
+          <tr><td align="center" valign="middle" style="height:32px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:13px; font-weight:900; color:#3b82f6; letter-spacing:0.5px;">ER</td></tr>
+        </table>
+      </td>
+      <td valign="middle" style="padding-left:10px;">
+        <div style="font-family:'DM Sans',Arial,sans-serif; font-size:13px; font-weight:600; color:#0a0f1e;">Luke at The Engine Room</div>
+        <div style="font-family:'DM Sans',Arial,sans-serif; font-size:11px; color:#999999; padding-top:2px;">2 min read</div>
+      </td>
+    </tr>
+  </table>
+</td>
+</tr>
+
+<!-- ============ LETTER ============ -->
+<tr>
+<td class="pad" style="background-color:#ffffff; padding:24px 28px 0 28px;">
+  <p style="margin:0 0 14px 0; font-family:'DM Sans',Arial,sans-serif; font-size:16px; font-weight:600; color:#0a0f1e;">Hi {{ first_name|default:'there' }},</p>
+  <p style="margin:0 0 14px 0; font-family:'DM Sans',Arial,sans-serif; font-size:16px; line-height:1.7; color:#333333;">The wall you hit at 32K gets built in the first 10K. You feel great, the crowd's loud, and you run 10 or 15 seconds a K too fast. You pay for it two hours later.</p>
+  <p style="margin:0 0 14px 0; font-family:'DM Sans',Arial,sans-serif; font-size:16px; line-height:1.7; color:#333333;">So run the first 10K 5 to 10 seconds a K slower than your goal pace. You'll be up to a minute behind at halfway, and that's your race going to plan.</p>
+</td>
+</tr>
+
+<!-- ============ REPLY BUTTON (top) ============ -->
+<tr>
+<td class="pad" style="background-color:#ffffff; padding:20px 28px 0 28px;">
+  <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr>
+    <td class="btn-glow" style="background-color:#2563eb; border-radius:6px;"><a href="mailto:luke@engineroomnutrition.com?subject=My%20first%2010K&amp;body=Race%3A%20%0D%0AGoal%20time%3A%20%0D%0A" style="display:inline-block; padding:14px 26px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:17px; font-weight:800; letter-spacing:1px; color:#ffffff; text-transform:uppercase;">Reply with my goal time</a></td>
+  </tr></table>
+  <p style="margin:10px 0 0 0; font-family:'DM Sans',Arial,sans-serif; font-size:14px; line-height:1.6; color:#666666;">Tell me your race and goal and I'll send your exact numbers. Or just press reply.</p>
+</td>
+</tr>
+
+<!-- ============ VALUE TABLE ============ -->
+<tr>
+<td class="pad" style="background-color:#ffffff; padding:28px 28px 0 28px;">
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#0d1e42" style="background-color:#0d1e42; border-radius:12px;">
+    <tr><td style="padding:22px 18px 18px 18px;">
+      <div style="font-family:'DM Sans',Arial,sans-serif; font-size:11px; font-weight:700; letter-spacing:1.5px; color:#3b82f6; text-transform:uppercase;">Find your goal</div>
+      <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:28px; font-weight:900; color:#ffffff; text-transform:uppercase; padding:8px 0 6px 0; letter-spacing:0.5px;">Your first 10K pace</div>
+      <div style="font-family:'DM Sans',Arial,sans-serif; font-size:15px; line-height:1.6; color:#c9d2e3; padding-bottom:16px;">Trust the race clock at the 10K sign over your watch, which reads about 1% long in a race.</div>
+      <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
+        <tr><th scope="col" style="font-family:'DM Sans',Arial,sans-serif; font-size:11px; font-weight:700; letter-spacing:0.5px; color:#8899bb; text-transform:uppercase; padding:0 6px 10px 0; text-align:left;">Goal</th><th scope="col" style="font-family:'DM Sans',Arial,sans-serif; font-size:11px; font-weight:700; letter-spacing:0.5px; color:#8899bb; text-transform:uppercase; padding:0 6px 10px 0; text-align:left;">Per km</th><th scope="col" style="font-family:'DM Sans',Arial,sans-serif; font-size:11px; font-weight:700; letter-spacing:0.5px; color:#8899bb; text-transform:uppercase; padding:0 6px 10px 0; text-align:left;">Per mile</th><th scope="col" style="font-family:'DM Sans',Arial,sans-serif; font-size:11px; font-weight:700; letter-spacing:0.5px; color:#8899bb; text-transform:uppercase; padding:0 6px 10px 0; text-align:left;">10K sign</th></tr>
+<tr><td class="tnum" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:16px; font-weight:900; color:#ffffff; padding:9px 4px 9px 0; border-top:1px solid #1a3060; white-space:nowrap;">3:30</td><td class="tnum" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:16px; font-weight:900; color:#3b82f6; padding:9px 4px 9px 0; border-top:1px solid #1a3060; white-space:nowrap;">5:05-5:10</td><td class="tnum" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:16px; font-weight:900; color:#c9d2e3; padding:9px 4px 9px 0; border-top:1px solid #1a3060; white-space:nowrap;">8:10-8:20</td><td class="tnum" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:16px; font-weight:900; color:#c9d2e3; padding:9px 4px 9px 0; border-top:1px solid #1a3060; white-space:nowrap;">50:50-51:40</td></tr>
+<tr><td class="tnum" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:16px; font-weight:900; color:#ffffff; padding:9px 4px 9px 0; border-top:1px solid #1a3060; white-space:nowrap;">3:45</td><td class="tnum" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:16px; font-weight:900; color:#3b82f6; padding:9px 4px 9px 0; border-top:1px solid #1a3060; white-space:nowrap;">5:25-5:30</td><td class="tnum" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:16px; font-weight:900; color:#c9d2e3; padding:9px 4px 9px 0; border-top:1px solid #1a3060; white-space:nowrap;">8:45-8:50</td><td class="tnum" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:16px; font-weight:900; color:#c9d2e3; padding:9px 4px 9px 0; border-top:1px solid #1a3060; white-space:nowrap;">54:10-55:00</td></tr>
+<tr><td class="tnum" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:16px; font-weight:900; color:#ffffff; padding:9px 4px 9px 0; border-top:1px solid #1a3060; white-space:nowrap;">4:00</td><td class="tnum" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:16px; font-weight:900; color:#3b82f6; padding:9px 4px 9px 0; border-top:1px solid #1a3060; white-space:nowrap;">5:45-5:50</td><td class="tnum" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:16px; font-weight:900; color:#c9d2e3; padding:9px 4px 9px 0; border-top:1px solid #1a3060; white-space:nowrap;">9:15-9:25</td><td class="tnum" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:16px; font-weight:900; color:#c9d2e3; padding:9px 4px 9px 0; border-top:1px solid #1a3060; white-space:nowrap;">57:30-58:20</td></tr>
+<tr><td class="tnum" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:16px; font-weight:900; color:#ffffff; padding:9px 4px 9px 0; border-top:1px solid #1a3060; white-space:nowrap;">4:15</td><td class="tnum" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:16px; font-weight:900; color:#3b82f6; padding:9px 4px 9px 0; border-top:1px solid #1a3060; white-space:nowrap;">6:05-6:10</td><td class="tnum" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:16px; font-weight:900; color:#c9d2e3; padding:9px 4px 9px 0; border-top:1px solid #1a3060; white-space:nowrap;">9:45-9:55</td><td class="tnum" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:16px; font-weight:900; color:#c9d2e3; padding:9px 4px 9px 0; border-top:1px solid #1a3060; white-space:nowrap;">60:50-61:40</td></tr>
+<tr><td class="tnum" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:16px; font-weight:900; color:#ffffff; padding:9px 4px 9px 0; border-top:1px solid #1a3060; white-space:nowrap;">4:30</td><td class="tnum" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:16px; font-weight:900; color:#3b82f6; padding:9px 4px 9px 0; border-top:1px solid #1a3060; white-space:nowrap;">6:30-6:35</td><td class="tnum" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:16px; font-weight:900; color:#c9d2e3; padding:9px 4px 9px 0; border-top:1px solid #1a3060; white-space:nowrap;">10:30-10:35</td><td class="tnum" style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:16px; font-weight:900; color:#c9d2e3; padding:9px 4px 9px 0; border-top:1px solid #1a3060; white-space:nowrap;">65:00-65:50</td></tr>
+      </table>
+      <div style="padding-top:14px; font-family:'DM Sans',Arial,sans-serif; font-size:14px; line-height:1.6; color:#aab6cf;">Between two goals? Use the slower one.</div>
+    </td></tr>
+  </table>
+</td>
+</tr>
+
+<!-- ============ STEPS ============ -->
+<tr>
+<td class="pad" style="background-color:#ffffff; padding:30px 28px 0 28px;">
+  <div style="font-family:'DM Sans',Arial,sans-serif; font-size:12px; font-weight:700; letter-spacing:1.5px; color:#2563eb; text-transform:uppercase;">How to hold it</div>
+  <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:28px; font-weight:800; color:#0a0f1e; text-transform:uppercase; padding:6px 0 18px 0; letter-spacing:0.5px;">Three checks in the first 10K</div>
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td width="44" valign="top" style="padding-bottom:16px;"><span class="pop1"><table role="presentation" cellpadding="0" cellspacing="0" border="0" width="32" style="width:32px; height:32px; background-color:#0a0f1e; border-radius:16px;"><tr><td align="center" valign="middle" style="height:32px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:17px; font-weight:900; color:#3b82f6;">1</td></tr></table></span></td>
+      <td valign="top" style="padding-bottom:16px; border-bottom:1px solid #eef1f6;">
+        <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:20px; font-weight:800; color:#0a0f1e; text-transform:uppercase; letter-spacing:0.5px; padding-top:4px;">Ten words, one breath</div>
+        <div style="font-family:'DM Sans',Arial,sans-serif; font-size:16px; line-height:1.65; color:#444444; padding-top:4px;">Say "I am running a marathon today and I feel good". At 10K you should get all ten words out in one breath.</div>
+      </td>
+    </tr>
+    <tr><td colspan="2" style="height:12px; font-size:0; line-height:0;">&nbsp;</td></tr>
+    <tr>
+      <td width="44" valign="top" style="padding-bottom:16px;"><span class="pop2"><table role="presentation" cellpadding="0" cellspacing="0" border="0" width="32" style="width:32px; height:32px; background-color:#0a0f1e; border-radius:16px;"><tr><td align="center" valign="middle" style="height:32px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:17px; font-weight:900; color:#3b82f6;">2</td></tr></table></span></td>
+      <td valign="top" style="padding-bottom:16px; border-bottom:1px solid #eef1f6;">
+        <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:20px; font-weight:800; color:#0a0f1e; text-transform:uppercase; letter-spacing:0.5px; padding-top:4px;">The sign, not the watch</div>
+        <div style="font-family:'DM Sans',Arial,sans-serif; font-size:16px; line-height:1.65; color:#444444; padding-top:4px;">Check the race clock as you pass the 10K sign. Within the range above means you're on plan.</div>
+      </td>
+    </tr>
+    <tr><td colspan="2" style="height:12px; font-size:0; line-height:0;">&nbsp;</td></tr>
+    <tr>
+      <td width="44" valign="top" style="padding-bottom:16px;"><span class="pop3"><table role="presentation" cellpadding="0" cellspacing="0" border="0" width="32" style="width:32px; height:32px; background-color:#0a0f1e; border-radius:16px;"><tr><td align="center" valign="middle" style="height:32px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:17px; font-weight:900; color:#3b82f6;">3</td></tr></table></span></td>
+      <td valign="top" style="padding-bottom:16px; border-bottom:1px solid #eef1f6;">
+        <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:20px; font-weight:800; color:#0a0f1e; text-transform:uppercase; letter-spacing:0.5px; padding-top:4px;">First gel at 20 minutes</div>
+        <div style="font-family:'DM Sans',Arial,sans-serif; font-size:16px; line-height:1.65; color:#444444; padding-top:4px;">Before you feel you need it, with 3 or 4 sips of water just before a station.</div>
+      </td>
+    </tr>
+    <tr><td colspan="2" style="height:12px; font-size:0; line-height:0;">&nbsp;</td></tr>
+  </table>
+</td>
+</tr>
+
+<!-- ============ REPLY CARD ============ -->
+<tr>
+<td class="pad" style="background-color:#ffffff; padding:26px 28px 0 28px;">
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#0d1e42" style="background-color:#0d1e42; border-radius:12px;">
+    <tr><td style="padding:24px 22px;">
+      <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:24px; font-weight:900; color:#ffffff; text-transform:uppercase; line-height:1.1; letter-spacing:0.5px;">Want your exact numbers?</div>
+      <p style="margin:8px 0 18px 0; font-family:'DM Sans',Arial,sans-serif; font-size:16px; line-height:1.7; color:rgba(255,255,255,0.85);">Reply with your race and goal time and I'll send your plan: every 10K sign and your gel times.</p>
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr><td class="btn-glow" style="background-color:#2563eb; border-radius:6px;"><a href="mailto:luke@engineroomnutrition.com?subject=My%20first%2010K&amp;body=Race%3A%20%0D%0AGoal%20time%3A%20%0D%0A" style="display:inline-block; padding:14px 26px; font-family:'Barlow Condensed',Impact,sans-serif; font-size:16px; font-weight:800; letter-spacing:1px; color:#ffffff; text-transform:uppercase;">Reply with my goal time</a></td></tr></table>
+      <p style="margin:12px 0 0 0; font-family:'DM Sans',Arial,sans-serif; font-size:14px; line-height:1.6; color:#aab6cf;">Or <a href="PASTE_BUILDER_LINK" style="color:#aab6cf; text-decoration:underline;">build it yourself here</a>.</p>
+    </td></tr>
+  </table>
+</td>
+</tr>
+
+<!-- ============ SIGN OFF ============ -->
+<tr>
+<td class="pad" style="background-color:#ffffff; padding:26px 28px 6px 28px;">
+  <p style="margin:0 0 14px 0; font-family:'DM Sans',Arial,sans-serif; font-size:16px; font-style:italic; line-height:1.6; color:#555555;">Hold back for 10K and you'll still have it at 32K.</p>
+  <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:22px; font-weight:900; color:#0a0f1e; text-transform:uppercase;">Luke</div>
+  <div style="font-family:'DM Sans',Arial,sans-serif; font-size:11px; color:#999999; padding-top:2px;">Engine Room Nutrition</div>
+</td>
+</tr>
+
+<!-- ============ P.S. ============ -->
+<tr>
+<td class="pad" style="background-color:#ffffff; padding:18px 28px 28px 28px;">
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top:1px solid #f0f0f0;"><tr><td style="padding-top:16px;">
+    <p style="margin:0; font-family:'DM Sans',Arial,sans-serif; font-size:15px; line-height:1.65; color:#555555;"><strong style="color:#0a0f1e;">P.S.</strong> Jamie and I are making a 30g carb bar for the 30 minutes before the gun. It isn't out yet. <a href="PASTE_WAITLIST_LINK" style="color:#2563eb; text-decoration:underline;">Join the list</a> to hear when it is.</p>
+  </td></tr></table>
+</td>
+</tr>
+
+<!-- ============ FOOTER (Klaviyo tags; check them in Preview) ============ -->
+<tr>
+<td class="pad" style="background-color:#0a0f1e; padding:22px 28px; border-radius:0 0 6px 6px;">
+  <div style="font-family:'Barlow Condensed',Impact,sans-serif; font-size:12px; font-weight:800; letter-spacing:1.5px; color:#bbbbbb; text-transform:uppercase; padding-bottom:10px;">ENGINE ROOM <span style="color:#3b82f6;">NUTRITION</span></div>
+  <div style="font-family:'DM Sans',Arial,sans-serif; font-size:12px; line-height:1.7; color:#aab6cf;">
+    You are getting this because you signed up at engineroomnutrition.com.<br>
+    {{ organization.name }}<br>
+    <a href="{% unsubscribe_link %}" style="color:#8899bb; text-decoration:underline;">Unsubscribe</a>
+    &nbsp;·&nbsp;
+    <a href="{% web_view_link %}" style="color:#8899bb; text-decoration:underline;">View in browser</a>
+    &nbsp;·&nbsp;
+    <a href="https://engineroomnutrition.com/pages/home" style="color:#8899bb; text-decoration:underline;">engineroomnutrition.com</a>
+  </div>
+</td>
+</tr>
+
 </table>
-</td></tr>
+
+</td>
+</tr>
 </table>
+
 </body>
 </html>
