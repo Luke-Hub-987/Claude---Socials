@@ -185,5 +185,8 @@ time. The 22 Oct race-week email opened at about 68% (Luke).
 truth, including "the numbers": race fuel about 60 g/hour, first gel at
 20 min then 30 g every 30 min by gel size; carb load 8-10 g/kg, now
 confirmed by Luke; bar only before the start). Work one email at a time,
-wait for Luke's go. Status: Step 0 developer brief and test sent
-(`01-` and `02-` files). Next: Flow 1 split and B1.
+wait for Luke's go. Status: Step 0 developer brief sent, but the website tracking did not
+work (Luke, 29 Oct). Track B built for everyone after Email 1, no split:
+`flows/B1` to `B4` HTML and `03-flow-1-track-b.md`. B3 waits on the batch
+number, failures and a photo. Review B4 dates by 14 Dec 2026. Next:
+Flow 2 via Klaviyo form fields (race, race date, goal time).
