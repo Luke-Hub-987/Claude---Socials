@@ -174,6 +174,8 @@ twice without being checked against the winners (P99).
 - [ ] **Team-sport scripts speak to the player, never the coach** (P163,
       Luke 29 Oct): the match clock, the player's own bag, posted as trial
       reels until they beat the marathon reels.
+- [ ] **No outside reviewer named or implied** (P164): every number traces
+      to FACTS.md; nothing assumes players post their food.
 - [ ] **The "my mother" test**: would someone who has never run want to
       watch? The creative test that passed it reached 55K viewers.
 

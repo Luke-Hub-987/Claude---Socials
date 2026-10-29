@@ -14,6 +14,10 @@ optional extra. The player-first route, and the Uncrustables lesson, are in
 `ideas/2026-10-29-dressing-room-plan.md`. Where this file says "the coach
 as the customer", read "the player".
 
+**Corrected again 29 Oct (Luke, P164): no dietitian review.** Numbers come
+from our own facts file, as for the marathon. What makes the bar the one
+they choose: `ideas/2026-10-29-why-our-bar.md`.
+
 ## 1. The verdict
 
 **Team sport fixes the biggest weakness in the marathon plan, so it's worth

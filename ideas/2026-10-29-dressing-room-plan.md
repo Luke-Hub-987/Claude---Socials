@@ -61,10 +61,12 @@ claim. Keep the rice crisp framing at the front of everything.
 - **Player reels, as trial reels.** The wall formula on the match clock:
   "Where the last 10 minutes of a match are actually lost", "What to eat on
   match day, hour by hour", "What to do at half-time when your legs are
-  gone". Every number dietitian-checked first, the same way FACTS.md works.
+  gone". Every number from our own facts file, the same way FACTS.md works
+  for the marathon (no outside review, Luke 29 Oct).
 - **The list of 20.** Inter-county and club GAA (men's and women's), AIL
   rugby and League of Ireland players with real local followings who
-  already post their food and training. Follow and talk to them now, and
+  are respected in their dressing rooms (players don't post their meals,
+  Luke 29 Oct). Follow and talk to them now, and
   ask for nothing.
 - **A quote from Informed Sport** (or an equivalent batch-testing scheme),
   so the cost is known before you need it.
@@ -74,12 +76,14 @@ claim. Keep the rice crisp framing at the front of everything.
 
 ### Stage 2: samples
 - **Send boxes to the 20, with no contract and no ask.** Then watch.
-  **Whoever posts it unprompted is your Uncrustables signal.** That's the
+  **Whoever keeps asking for more, and hands it round their squad, is your
+  Uncrustables signal** (players don't post meals; the bar spreads hand to
+  hand, `ideas/2026-10-29-why-our-bar.md`). That's the
   only test that tells you if athletes choose it.
 - **One or two club squads taste it** across 3 or 4 matches.
 
 ### Stage 3: launch season (2027)
-- **Pay the 3 to 5 who used it unprompted** (small retainers or product
+- **Pay the 3 to 5 who kept using it unprompted** (small retainers or product
   plus a fee: check what county players charge locally).
 - **The dressing-room shot as the brand's picture:** players with the bar
   before throw-in. Ask every player and club to send theirs.
@@ -121,7 +125,7 @@ claim. Keep the rice crisp framing at the front of everything.
 - The Outsider and the Contrarian land on the same weak point: **where to
   buy it.** Accepted. That's why club fundraiser boxes and the Food Academy
   route aren't extras; they're the Uncrustables "it's in the shop" part.
-- "Seed with no contract and watch who posts" is accepted by all as the
+- "Seed with no contract and watch who asks for more" is accepted by all as the
   cheapest real test.
 - Batch testing becomes a must before any inter-county or pro athlete is
   paid or seen with the bar.
@@ -139,7 +143,7 @@ top of something that's already happening.
 ## 6. Monday morning (2 Nov)
 
 1. The list of 20 athletes (name, sport, county or club, followers, do
-   they already post food), followed, nothing asked.
+   they're respected in the dressing room), followed, nothing asked.
 2. Email Informed Sport (or an equivalent) for a batch-testing quote.
 3. A brief for 4 GAA trial reels on the match clock.
 4. Message 3 club players: "What did you eat before your last match, and

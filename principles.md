@@ -5394,6 +5394,23 @@ Full plan: `ideas/2026-10-29-dressing-room-plan.md`.
 
 *Source: Luke, 29 October.*
 
+## P164 — No outside review of our numbers; the bar spreads hand to hand, not by posts
+
+Luke, 29 October: "We don't need a dietician to review anything" and
+"players don't post their meals."
+
+**The rule:**
+- **No dietitian or outside sign-off step.** Team-sport numbers come from
+  our own facts file and get the same checks as the marathon numbers
+  (FACTS.md, P138).
+- **Never build a plan on athletes posting food.** The signal that a
+  seeded player likes the bar is that they keep using it, ask for more and
+  hand it round the squad. The bar is designed to be shared (two halves).
+- **The bar can't win on carbs** ("carbs are carbs"): it wins on format,
+  ritual and price per use (`ideas/2026-10-29-why-our-bar.md`).
+
+*Source: Luke, 29 October.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
