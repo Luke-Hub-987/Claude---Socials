@@ -7,6 +7,8 @@ goal: sell bars and build a customer base, not views
 
 # The commercial plan
 
+**29 Oct: superseded by `PLAN-brand-and-business.md`** (the open questions below carry into its section 10; the race-expo idea is demoted: nothing new on race day).
+
 ## The uncomfortable opening
 
 The content engine works. Two videos at 6,683 and 7,727 on Instagram
