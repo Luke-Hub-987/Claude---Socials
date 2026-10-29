@@ -132,3 +132,9 @@ with the date.
   (enjoy): 38.2%. A sentence and a clock (sleep): 41.4%. A splits list,
   tiles, labels and a strip (last marathon): 52.4%. Fewer things in the
   first second, lower skip.
+
+## Reaching a city's runners (29 Oct)
+- Never a VPN to "post from" a city: no reach gain, and a new-country login
+  risks a security lock. Use search words in the caption and on screen
+  ("NYC Marathon"), a location tag for the city, and a gate that names the
+  race.

@@ -154,7 +154,7 @@ Here's the plan for a 4 hour marathon (9:10 a mile, 5:41 a K). The first 2 miles
 
 For other goals, the same plan, section by section (bridge / Brooklyn and Queens / the quiet bridge / First Avenue / the Bronx / Fifth Avenue / the park). 3:30: 8:20 / 8:00 / 8:25 / 7:40 / 8:00 / 8:05 / 7:40 a mile (5:10 / 5:00 / 5:15 / 4:45 / 5:00 / 5:00 / 4:45 a K). 3:45: 8:55 / 8:35 / 9:00 / 8:15 / 8:35 / 8:40 / 8:15 a mile (5:30 / 5:20 / 5:35 / 5:10 / 5:20 / 5:25 / 5:05 a K). 4:00: 9:30 / 9:10 / 9:35 / 8:50 / 9:10 / 9:15 / 8:50 a mile (5:55 / 5:40 / 5:55 / 5:30 / 5:40 / 5:45 / 5:30 a K). 4:30: 10:40 / 10:20 / 10:45 / 10:00 / 10:20 / 10:25 / 10:00 a mile (6:35 / 6:25 / 6:40 / 6:10 / 6:25 / 6:25 / 6:10 a K). 5:00: 11:45 / 11:25 / 11:50 / 11:05 / 11:25 / 11:30 / 11:05 a mile (7:20 / 7:05 / 7:20 / 6:55 / 7:05 / 7:10 / 6:55 a K). Each one lands within about a minute of the goal on the mile markers; trust the clock at the markers over the pace on your watch.
 
-Send this to whoever's running New York with you. Want it worked out for your exact goal? Email us your race and goal time through the link in the bio and we'll send it, free.
+Send this to whoever's running the NYC Marathon with you. Want it worked out for your exact goal? Email us your race and goal time through the link in the bio and we'll send it, free.
 
 Course map: [credit the map you use here].
 
@@ -189,6 +189,20 @@ Mock-up: `mockups/nyc-frames.png`. The same 3 layers as the winners:
 No numbers, tiles, icons or lists on screen: the paces are said, shown in
 the subtitles, and listed in the caption. Nothing in the bottom 25% or the
 lower right (Instagram's buttons). The cover is the same frame.
+
+## Reaching New York runners (Luke, 29 Oct: "post on a New York VPN?")
+No VPN. Instagram and TikTok show a reel to whoever they predict will watch
+it, wherever they are, and a login from a new country can trigger a
+security check or a locked account on the day it matters. What reaches New
+York runners instead:
+- **Search words:** "NYC Marathon" and "New York City Marathon" in the
+  caption, and "New York" in the title on screen. TikTok also reads the
+  words on screen and the audio, and "nyc marathon" was up 1000% in
+  search.
+- **A location tag:** New York, New York on the post (the video is about
+  the city's course, so it's honest), which puts it on that place's page.
+- **The gate and the send line:** "If you're running New York" filters in
+  the right viewers, and they send it to whoever they're running with.
 
 ## Cover and opening frame
 The New York course map, one line, no labels, nothing written on it. Search "New York City marathon course map" (Wikimedia Commons or the official map, credited in the caption's last line).
