@@ -5415,6 +5415,36 @@ can see) and use it in our own voice: show the talk test mid-run, the
 numbers going on a wrist, the race-morning food on the counter. Plain
 titles, a real stake, the guide's calm.
 
+## P168 — Every ideation reads the sources line by line and adds the professional's pass (Luke, 30 Oct)
+
+Luke: "Not just skimming the documents... going through them line by line,
+in depth... look at what a professional in this area would seek out,
+consider those things that you and I are not considering, and implement
+them in the topics and titles." And keep it in chat when he asks (no new
+file).
+
+**The rule:** before any topic list, (1) re-read every source Luke has given
+in full, not from notes; (2) write down what a professional would look for
+that we aren't doing; (3) every title on the list shows which of those it
+uses; (4) the council gives an opinion on each title, not just the list.
+
+**The professional's pass from the 30 Oct read (keep using it):**
+- Specificity is the address (Alex Garcia): widen the topics, never the
+  person. The address is the Irish and UK runner chasing a marathon; a
+  topic can be anything that person feels now.
+- Stakes now for a far race: a live series with a deadline (a real
+  subscriber taken to their spring goal), the inbox as stories, "your
+  spring marathon gets decided before Christmas".
+- A repeatable title format (Colin and Samir: "the X so Y it Z"), so one
+  hit becomes 20 videos.
+- The super hook (Briar): say why we're worth listening to (the number of
+  plans written, with the real count).
+- Family Feud TAM: out of 100 runners, how many have felt this?
+- Volume on TikTok to find what lands, polish the winners for Instagram,
+  long form for content minutes (the podcast).
+- Bottom of funnel in stories, Lives and paid ads to engagers (Hormozi),
+  never in reels.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

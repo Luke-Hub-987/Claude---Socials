@@ -101,6 +101,9 @@ twice without being checked against the winners (P99).
       account with their race after seeing the title? Take the mechanism
       from gimmick winners (one thing, shown on a real object), not the
       costume.
+- [ ] **Topic lists (P168, Luke 30 Oct):** sources re-read in full, a
+      professional's pass written down, each title tagged with what it
+      uses, and the council's opinion on every title.
 
 - [ ] **"Marathon" in line one** of the OST (P92). Every compounder has it.
 - [ ] **The viewer's race outcome is at stake**: finish, time, blow up
