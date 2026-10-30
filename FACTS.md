@@ -158,3 +158,10 @@ with the date.
   and UK. Paces in km and miles (P129). Spring races to plan around:
   Seville (Feb), Barcelona and Rome (Mar), Paris, Manchester, Brighton and
   London (Apr), Belfast and Limerick (spring), Cork (Jun): check each date.
+
+## Luke's personal TikTok (30 Oct screenshot)
+- @luke_morrison7, 1,684 followers. HEEL LOCK 1.1M (a hack shown on the
+  shoe, no talking head; 7,846 on his personal Instagram in September);
+  the gels meme ("there has to be an alternative to gels") 45.8K; running
+  100KM 16.7K; quit a marathon 3,143; gels sick at 30K 4,613; threshold
+  pace 380.
