@@ -96,6 +96,11 @@ twice without being checked against the winners (P99).
       felt today and a bridge to the plan or to what they eat before a run.
       "Marathon" in the title and the race clock are lifted for those slots
       only. Runners only; trial reel first; never the bar in the reel.
+- [ ] **No gimmick packaging (P167, Luke 30 Oct):** no "hacks", "cheat
+      codes", "maxxing", "like you're 10". Would a runner trust this
+      account with their race after seeing the title? Take the mechanism
+      from gimmick winners (one thing, shown on a real object), not the
+      costume.
 
 - [ ] **"Marathon" in line one** of the OST (P92). Every compounder has it.
 - [ ] **The viewer's race outcome is at stake**: finish, time, blow up

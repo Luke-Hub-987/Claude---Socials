@@ -5396,6 +5396,25 @@ learns who the account is for). Every new interest topic goes out as a
 trial reel first. The bar never appears in a reel. See
 `ideas/engine-room-nutrition/2026-10-30-interest-topics.md`.
 
+## P167 — No gimmick formats: we sound like the guide people trust with their race (Luke, 30 Oct)
+
+Luke on LEGAL RUNNING HACKS: "I don't want to become a running hacks
+channel. It's sloppy and gimmicky, distasteful from my point of view. How
+many hacks can you do?" He's right, and the numbers back him: HEEL LOCK
+did 1.1M on his personal TikTok and the account has 1,684 followers. Hack
+views don't turn into followers, trust or emails.
+
+**The rule:** no trick or gimmick packaging: "hacks", "cheat codes",
+"unethical", "maxxing", "you're NOT smarter than a 5th grader", "like
+you're 10". People buy fuel from someone they'd trust with their race, and
+a hacks channel says shortcuts. Formats run out, too.
+
+**Keep the mechanism, drop the costume.** When a gimmick wins, take what
+actually worked (one specific thing, shown on a real object, a result you
+can see) and use it in our own voice: show the talk test mid-run, the
+numbers going on a wrist, the race-morning food on the counter. Plain
+titles, a real stake, the guide's calm.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

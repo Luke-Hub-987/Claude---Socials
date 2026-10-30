@@ -2,6 +2,7 @@
 type: strategy + ideation, with LLM Council (P150)
 generated_at: 2026-10-30
 basis: Luke 30 Oct ("we are being very one track minded; do we have to stick strictly to marathon? Taking all of the ideas and OST in the docs, those titles make people want to sit and watch them as they are interesting and have stakes; without upcoming marathons for a while we need to get trust, emails, and give viewers reason to watch; interest topics with stakes, creative; goal: the email list and bars"); the OST PDF (Briar's titles, Brandon Trajano's "explained like you're NOT smarter than a 5th grader", Christian Lynch's tier lists, the 30 hook templates); Briar Stakes; Counter (audience upstream and downstream; association: data); Social Media with Company A-C (core, casual, new; the "my mother" test; stay close to the money); PLAN-winners ("what never worked": fuel or training as the subject, 1.6K to 5.3K); PLAN-commercial (the bar is pre-activity fuel, the 30 minutes before); FACTS.md
+update: 30 Oct, Luke dropped the hacks format (P167): #1 and #2b struck, Wed 4 is #2
 amends: 2026-10-30-creative-strategy.md (the weekly slots); P92 and ledger row 3 for the months with no races (P166)
 ---
 
@@ -140,3 +141,26 @@ science comes in by Thursday. The wrist video moves to Fri 13.
    (the snack ranking), so they can be vetted.
 3. Your list of the most-repeated running advice, for #7.
 4. A yes to Wed 4 being the hacks video.
+
+## Update 30 Oct: no hacks (P167)
+Luke: "I don't want to become a running hacks channel; it's sloppy and
+gimmicky." Struck: **#1 LEGAL RUNNING HACKS** and **#2b EXPLAINED LIKE
+YOU'RE 10**. The evidence agrees: HEEL LOCK's 1.1M on TikTok sits on an
+account with 1,684 followers.
+
+**Wed 4: WHY YOU'RE NOT GETTING ANY FASTER / AT RUNNING** (facts ready: the
+ten-word talk test, shown mid-run on camera, the heel lock's real lesson).
+Trial reels on Tue 3, two titles:
+- A: **WHY YOU'RE NOT GETTING ANY FASTER / AT RUNNING**
+- B: **THE RUN THAT'S STOPPING YOU / GETTING ANY FASTER**
+Brief to follow (P138).
+
+Council (P150), short: **Contrarian:** dropping a 1.1M format is
+leaving reach on the table. **Assumption-ripper:** reach that doesn't turn
+into followers or trust isn't what we need; 1.1M and 1,684 followers says
+so. **Expansionist:** "show it on the object" is what the heel lock taught,
+and it fits every one of our videos. **Outsider:** "I'd trust the guy
+explaining my easy runs more than the guy with hacks." **Executor:** brief
+for #2 Mon, trial reels Tue, post Wed. **Chairman:** **No hacks. Keep the
+show-it-on-camera lesson. Wed 4 is WHY YOU'RE NOT GETTING ANY FASTER / AT
+RUNNING.**

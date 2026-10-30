@@ -124,3 +124,8 @@ link.
 - **Chairman:** **Today: the heel lock and the wall as trial reels on ERN
   Instagram, auto-share off, read at 24 hours. The personal TikTok becomes
   the test bed for new formats, with fresh takes only.**
+
+## Update 30 Oct: heel lock dropped (P167)
+Luke doesn't want a hacks identity, so the HEEL LOCK trial is off. Today's
+trial is **the wall only**. Tue 3's trials are the two titles for WHY
+YOU'RE NOT GETTING ANY FASTER / AT RUNNING.
