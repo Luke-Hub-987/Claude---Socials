@@ -5476,6 +5476,32 @@ Still specific, still withholding the answer, numbers that match line one.
 Cut the story-telling words ("a runner emailed us") first: frame one and
 line one carry the story.
 
+## P171 — Forecast from base rates, not from the autumn grid (Luke, 30 Oct)
+
+Luke: "All of your recent predictions on reach and saves have been really
+far off." The email reel was forecast at saves 2%+ and got 0.4%; earlier
+forecasts leaned on the September and October grid (the wall 147K, carb
+load 52.8K), when tens of thousands of followers were about to race.
+
+**The rule:** every forecast starts from the median of our last 3 to 5
+reels at the same hour (state the numbers), then moves for one named reason
+at most. Saves and shares get the same treatment. After every review, put
+forecast against actual in the review file. Since Dublin (25 Oct) the base
+is about 2.6K to 3.4K on Instagram at 4 to 5 hours.
+
+## P172 — No viewer is identifiable in a video unless they asked to be (Luke, 30 Oct)
+
+Luke, on using a runner's post-race email: "completely change it up and
+anonymise it, I don't want to call her out." A runner who missed a goal
+didn't ask to be the subject of a reel.
+
+**The rule:** inbox emails tell us what to make, not who to show. No
+screenshot of a subscriber's email, no exact times, course or race date that
+point to one person, unless that runner has said yes to being featured and
+the story is a good one for them (a result they're proud of). The default is
+the pattern, said to "you". Their details stay in Luke's inbox, never in the
+repo.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

@@ -27,6 +27,8 @@ twice without being checked against the winners (P99).
 
 ## 0. The failure ledger (P148, Luke 24 Oct)
 
+- [ ] **Forecast from base rates (P171):** the median of the last 3 to 5 reels at the same hour, stated, plus one named reason at most; forecast against actual in every review.
+- [ ] **No identifiable viewer (P172):** no subscriber's email on screen and no details that point to one runner, unless they asked to be featured with a story they're proud of.
 - [ ] **Ledger row 23 (30 Oct): the worked example is the audience's goal** (sub-4, 3:45 to 4:00), or every common goal is in the caption and the last frame. A 3:23 plan got 0.4% saves.
 - [ ] **The CLAUDE.md failure ledger is in the script file as a table,
       every row pass or fail,** before Luke sees the script. Sleep repeated
