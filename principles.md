@@ -5372,6 +5372,30 @@ reel a week a creative test from the frameworks Luke shares (tier lists,
 "explained like you're 10", stakes from a real object, the dream as a
 title). See `ideas/engine-room-nutrition/2026-10-30-creative-strategy.md`.
 
+## P166 — Out of race season, go one circle wider: runners, not just marathoners (Luke, 30 Oct)
+
+Luke: "We are being very one track minded. Do we have to stick strictly to
+marathon? ... Without upcoming marathons for a while we need to get trust,
+emails and give viewers reason to watch, via interest topics with stakes."
+
+**The rule:** until the spring races are 6 weeks out, half the reels
+(Wednesday and the weekend trial) can be about running in general, for
+anyone who runs any distance. Each one still needs a stake felt today, the
+answer held back, a picture in line one, a method with numbers, no stats
+in the audio, and a bridge to the list (the plan for their next race) or
+the bar (what they eat before they run). P92 ("marathon" in the title) and
+ledger row 3 are lifted for these slots only; Monday stays on the marathon
+for emails.
+
+**Why the old flops don't block it:** the fuel and training reels at 1.6K
+to 5.3K had plain titles and nothing at stake. The PDF titles work because
+of the stake, not the subject.
+
+**Limits:** runners only on this account (no gym, Hyrox or GAA: Instagram
+learns who the account is for). Every new interest topic goes out as a
+trial reel first. The bar never appears in a reel. See
+`ideas/engine-room-nutrition/2026-10-30-interest-topics.md`.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
