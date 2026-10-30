@@ -5462,6 +5462,20 @@ the file. It changes words only: the hook stack, Briar's frameworks, the
 numbers and the length stay as they are. In chat: one line saying it ran
 and what changed.
 
+## P170 — The title fits on two short lines: about 20 characters each (Luke, 30 Oct)
+
+Luke on A MARATHON RUNNER EMAILED US / AFTER HITTING THE WALL AT 30K (28 and
+29 characters): "way too big and long... it goes nearly four lines... it still
+needs to be a proper, well-worded, specific headline, a lot shorter, so it
+goes across just barely two lines."
+
+**The rule:** the OST is two lines of about 20 characters each, 40 at most
+in total, spaces included (the wall: 23 and 15). Stage markers are one
+line, about 22 characters at most. Count the characters before delivering.
+Still specific, still withholding the answer, numbers that match line one.
+Cut the story-telling words ("a runner emailed us") first: frame one and
+line one carry the story.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

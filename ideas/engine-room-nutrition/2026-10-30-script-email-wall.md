@@ -7,7 +7,9 @@ source: a real email in Luke's inbox (18 Oct 2026), reply to the plan offer; the
 basis: FACTS.md pacing and fuel numbers; P120, P131, P132, P138, P145, P147 to P168; failure ledger
 ---
 
-# A MARATHON RUNNER EMAILED US / AFTER HITTING THE WALL AT 30K
+# THE PACER THAT ENDED / HIS MARATHON AT 30K
+
+OST v2 (Luke, 30 Oct: the first title, A MARATHON RUNNER EMAILED US / AFTER HITTING THE WALL AT 30K, ran to nearly 4 lines on screen). Now 20 and 19 characters, two lines (P170).
 
 ## What the email says (paraphrased, no name)
 Target 3:23 (4:50 a K), happy with sub 3:30. "Adrenalin got the better of
@@ -17,6 +19,7 @@ Finished 3:37, proud of it for a first attempt. Another go in February.
 ## How the curiosity runs
 | Moment | Line | What it does |
 |---|---|---|
+| OST | THE PACER THAT ENDED / HIS MARATHON AT 30K | Which pacer, and why? Held to stage 1. 30K matches line one (row 14) |
 | Frame one | The email's one line, big: "ran with the 3:15 pacers and obviously hit the wall at 30kms" | The stake in a stranger's own words; numbers match the title and line one (row 14) |
 | Line one | "...goal was 3:23, he went out with the 3:15 pacers, hit the wall at 30K and finished in 3:37." | Pain everyone has seen; 14 minutes lost |
 | Open loop 1 | "So we're sending him one, and it starts with a pacer he'd never think of running with." | Which pacer? Answered in stage 1 |
@@ -42,17 +45,17 @@ Finished 3:37, proud of it for a first attempt. Another go in February.
 
 "If you want a plan like this for your race, email us your race and goal time through the link in the bio."
 
-**[10K TO HALFWAY: GOAL PACE]**
+**[10K TO HALF: GOAL PACE]**
 
 "Then he moves to goal pace, between 4:45 and 4:50, with a gel every 30 minutes and a few sips of water each time. That's about 60g of carbs an hour. He's at halfway in about 1:43, around a minute behind, which is right where we want him."
 
-**[HALFWAY TO 30K: LEAVE THE MINUTE]**
+**[HALF TO 30K: HOLD IT]**
 
 "Most people try to win that minute back here. He doesn't. He holds the same pace, and if he's through 30K in about 2:25, he's on for 3:23."
 
 "And then he's at 30K, the exact K that ended his last race."
 
-**[30K TO THE FINISH: THE K THAT ENDED IT]**
+**[30K: WHERE IT ENDED]**
 
 "If the wall comes anyway, he doesn't stop. He has something sweet and something to drink, and runs 15 to 20 seconds a K slower for 10 minutes, with shorter, quicker steps. Then he's back between 4:45 and 4:50, one K at a time, past a lot of the people who went out with the 3:15 flag."
 
@@ -72,9 +75,9 @@ Everything else passes: no AI vocabulary, no dodged "is", no negative parallelis
 
 ## Markers
 1. 0-10K: THE SLOWER FLAG
-2. 10K TO HALFWAY: GOAL PACE
-3. HALFWAY TO 30K: LEAVE THE MINUTE
-4. 30K TO THE FINISH: THE K THAT ENDED IT
+2. 10K TO HALF: GOAL PACE
+3. HALF TO 30K: HOLD IT
+4. 30K: WHERE IT ENDED
 
 ## Facts check (P138)
 | Claim | Source | Check |

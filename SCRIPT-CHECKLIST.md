@@ -109,6 +109,9 @@ twice without being checked against the winners (P99).
       against the catalog in its SKILL.md, rewrite what fails, put the
       Humanizer table in the file. Words only: hook stack, numbers and
       length unchanged.
+- [ ] **OST length (P170, Luke 30 Oct):** two lines of about 20
+      characters each, 40 at most in total; markers about 22 characters,
+      one line. Count them.
 
 - [ ] **"Marathon" in line one** of the OST (P92). Every compounder has it.
 - [ ] **The viewer's race outcome is at stake**: finish, time, blow up
