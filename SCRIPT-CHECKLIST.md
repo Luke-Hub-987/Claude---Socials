@@ -86,6 +86,24 @@ twice without being checked against the winners (P99).
 
 - [ ] **Passes the five-line gate in `PLAN-winners.md` (P110).** If not,
       it is not scripted.
+- [ ] **The "who cares" test first (P165, Luke 30 Oct):** would a runner
+      whose race is months away stop for it? A fear they carry, a picture
+      of race day they want, or a number for every long run. Trivia (the
+      watch reads long) and admin (pick a goal) fail. Timing is never a
+      point in the score.
+- [ ] **Out of race season, Wednesday and weekend reels can go one circle
+      wider (P166, Luke 30 Oct):** any runner, any distance, with a stake
+      felt today and a bridge to the plan or to what they eat before a run.
+      "Marathon" in the title and the race clock are lifted for those slots
+      only. Runners only; trial reel first; never the bar in the reel.
+- [ ] **No gimmick packaging (P167, Luke 30 Oct):** no "hacks", "cheat
+      codes", "maxxing", "like you're 10". Would a runner trust this
+      account with their race after seeing the title? Take the mechanism
+      from gimmick winners (one thing, shown on a real object), not the
+      costume.
+- [ ] **Topic lists (P168, Luke 30 Oct):** sources re-read in full, a
+      professional's pass written down, each title tagged with what it
+      uses, and the council's opinion on every title.
 
 - [ ] **"Marathon" in line one** of the OST (P92). Every compounder has it.
 - [ ] **The viewer's race outcome is at stake**: finish, time, blow up

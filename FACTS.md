@@ -132,3 +132,36 @@ with the date.
   (enjoy): 38.2%. A sentence and a clock (sleep): 41.4%. A splits list,
   tiles, labels and a strip (last marathon): 52.4%. Fewer things in the
   first second, lower skip.
+
+## Reaching a city's runners (29 Oct)
+- Never a VPN to "post from" a city: no reach gain, and a new-country login
+  risks a security lock. Use search words in the caption and on screen
+  ("NYC Marathon"), a location tag for the city, and a gate that names the
+  race.
+
+## Course breakdowns (NYC, 29 Oct)
+- Saves 2.3% and shares 0.6% Higher, skip 43.2% (narrow-gate range), reach
+  below typical. Forecast for course videos: first day 3K to 8K IG, saves
+  2%+. Judge them on saves, sends and emails.
+- The CTA a third of the way in cost nothing visible on NYC (0:42) and
+  about 3 points on last marathon (0:43).
+
+## When the emails come (Luke, 29 Oct)
+- Most sign-ups came on Sat 24 (race eve), Mon 26 (the day after Dublin, no
+  new reel) and Wed 28 (the "next one" video, 4K views). Emails follow a
+  runner planning a race, not reach. List: 468 on 21 Oct, 591 on 29 Oct.
+- The CTA speaks to the next race: "Want your next race planned? Email us
+  your race and goal time through the link in the bio."
+
+## The audience after the autumn season (Luke's stories, 29 Oct)
+- Most say their next marathon is in spring; most of the audience is Irish
+  and UK. Paces in km and miles (P129). Spring races to plan around:
+  Seville (Feb), Barcelona and Rome (Mar), Paris, Manchester, Brighton and
+  London (Apr), Belfast and Limerick (spring), Cork (Jun): check each date.
+
+## Luke's personal TikTok (30 Oct screenshot)
+- @luke_morrison7, 1,684 followers. HEEL LOCK 1.1M (a hack shown on the
+  shoe, no talking head; 7,846 on his personal Instagram in September);
+  the gels meme ("there has to be an alternative to gels") 45.8K; running
+  100KM 16.7K; quit a marathon 3,143; gels sick at 30K 4,613; threshold
+  pace 380.

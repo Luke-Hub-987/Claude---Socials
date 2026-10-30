@@ -5343,6 +5343,108 @@ away".
 
 *Source: Luke, 28 October.*
 
+## P165 — The "who cares" test comes before any score (Luke, 30 Oct)
+
+(P162 to P164 are taken on the strategy branch; this skips them so the two
+merge cleanly.)
+
+Luke on the 29 Oct ideation: "Why your marathon was longer than 42.2K...
+who gives a fuck? Nobody cares." And "how to pick a goal for your next
+marathon... the marathons are so far away now that people wouldn't really
+care." I scored "timed for now" as a point, so two topics with no feeling
+in them topped the list because the date fitted.
+
+**The rule:** before a topic is scored, would a runner whose race is months
+away stop scrolling for it? It passes only if it is a fear they still carry
+from the last race, a picture of race day they want, or a number they will
+use on every long run from now to the start line. Trivia (why the watch
+reads long) and admin (pick a goal) fail, whatever the date. Timing never
+rescues a topic nobody feels; it is not a point in the score.
+
+**Why race-day content still works in the gap:** on Mon 26 Oct, 11 people
+signed up with no new reel. Runners watch race day to picture their own,
+months out. In the gap the job of each post changes (emails, reach, a
+test), not the race clock.
+
+**And be creative inside the formats (Luke, 30 Oct):** lock two formats
+(goal time at every 10K; what to do when a race fear happens) and make one
+reel a week a creative test from the frameworks Luke shares (tier lists,
+"explained like you're 10", stakes from a real object, the dream as a
+title). See `ideas/engine-room-nutrition/2026-10-30-creative-strategy.md`.
+
+## P166 — Out of race season, go one circle wider: runners, not just marathoners (Luke, 30 Oct)
+
+Luke: "We are being very one track minded. Do we have to stick strictly to
+marathon? ... Without upcoming marathons for a while we need to get trust,
+emails and give viewers reason to watch, via interest topics with stakes."
+
+**The rule:** until the spring races are 6 weeks out, half the reels
+(Wednesday and the weekend trial) can be about running in general, for
+anyone who runs any distance. Each one still needs a stake felt today, the
+answer held back, a picture in line one, a method with numbers, no stats
+in the audio, and a bridge to the list (the plan for their next race) or
+the bar (what they eat before they run). P92 ("marathon" in the title) and
+ledger row 3 are lifted for these slots only; Monday stays on the marathon
+for emails.
+
+**Why the old flops don't block it:** the fuel and training reels at 1.6K
+to 5.3K had plain titles and nothing at stake. The PDF titles work because
+of the stake, not the subject.
+
+**Limits:** runners only on this account (no gym, Hyrox or GAA: Instagram
+learns who the account is for). Every new interest topic goes out as a
+trial reel first. The bar never appears in a reel. See
+`ideas/engine-room-nutrition/2026-10-30-interest-topics.md`.
+
+## P167 — No gimmick formats: we sound like the guide people trust with their race (Luke, 30 Oct)
+
+Luke on LEGAL RUNNING HACKS: "I don't want to become a running hacks
+channel. It's sloppy and gimmicky, distasteful from my point of view. How
+many hacks can you do?" He's right, and the numbers back him: HEEL LOCK
+did 1.1M on his personal TikTok and the account has 1,684 followers. Hack
+views don't turn into followers, trust or emails.
+
+**The rule:** no trick or gimmick packaging: "hacks", "cheat codes",
+"unethical", "maxxing", "you're NOT smarter than a 5th grader", "like
+you're 10". People buy fuel from someone they'd trust with their race, and
+a hacks channel says shortcuts. Formats run out, too.
+
+**Keep the mechanism, drop the costume.** When a gimmick wins, take what
+actually worked (one specific thing, shown on a real object, a result you
+can see) and use it in our own voice: show the talk test mid-run, the
+numbers going on a wrist, the race-morning food on the counter. Plain
+titles, a real stake, the guide's calm.
+
+## P168 — Every ideation reads the sources line by line and adds the professional's pass (Luke, 30 Oct)
+
+Luke: "Not just skimming the documents... going through them line by line,
+in depth... look at what a professional in this area would seek out,
+consider those things that you and I are not considering, and implement
+them in the topics and titles." And keep it in chat when he asks (no new
+file).
+
+**The rule:** before any topic list, (1) re-read every source Luke has given
+in full, not from notes; (2) write down what a professional would look for
+that we aren't doing; (3) every title on the list shows which of those it
+uses; (4) the council gives an opinion on each title, not just the list.
+
+**The professional's pass from the 30 Oct read (keep using it):**
+- Specificity is the address (Alex Garcia): widen the topics, never the
+  person. The address is the Irish and UK runner chasing a marathon; a
+  topic can be anything that person feels now.
+- Stakes now for a far race: a live series with a deadline (a real
+  subscriber taken to their spring goal), the inbox as stories, "your
+  spring marathon gets decided before Christmas".
+- A repeatable title format (Colin and Samir: "the X so Y it Z"), so one
+  hit becomes 20 videos.
+- The super hook (Briar): say why we're worth listening to (the number of
+  plans written, with the real count).
+- Family Feud TAM: out of 100 runners, how many have felt this?
+- Volume on TikTok to find what lands, polish the winners for Instagram,
+  long form for content minutes (the podcast).
+- Bottom of funnel in stories, Lives and paid ads to engagers (Hormozi),
+  never in reels.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
