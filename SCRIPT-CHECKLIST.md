@@ -27,6 +27,7 @@ twice without being checked against the winners (P99).
 
 ## 0. The failure ledger (P148, Luke 24 Oct)
 
+- [ ] **Ledger row 23 (30 Oct): the worked example is the audience's goal** (sub-4, 3:45 to 4:00), or every common goal is in the caption and the last frame. A 3:23 plan got 0.4% saves.
 - [ ] **The CLAUDE.md failure ledger is in the script file as a table,
       every row pass or fail,** before Luke sees the script. Sleep repeated
       three known failures because nothing forced this check.

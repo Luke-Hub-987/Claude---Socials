@@ -143,6 +143,7 @@ a new cause becomes a new row in the same turn.**
 | 20 | **A story with no stake for strangers** | Surprise 44.1% skip, 0 saves (opening frame: Luke talking, not the bib) | The stake as a picture in frame one; a story opens an advice video, not alone (P151) |
 | 21 | **Maths in the audio** | Goal gone ("your A goal times 0.59"), 3:45 (the GPS explanation): viewers called it complicated (Luke, 27 Oct) | The answer as one number, never the sum; one worked example; the rest in the caption (P155) |
 | 22 | **A busy first second** | Last marathon 52.4% (a splits list, tiles, labels and a strip in the top band; a repeat of P147) | One big element, or Luke alone with the title, for the first 3 seconds; graphics from stage 1; checked at phone size (P159) |
+| 23 | **Someone else's numbers** | Email wall: a 3:23 plan, saves 0.4%, shares 0.1% (30 Oct) | The worked example is a goal most viewers have (3:45 to 4:00, sub-4), or the plan for every common goal is in the caption and the last frame |
 
 ## The rules that matter most (quick reference; the checklist has all)
 
@@ -227,6 +228,8 @@ a new cause becomes a new row in the same turn.**
 ## Current state (update this every session)
 
 **As of 30 October 2026.**
+
+**Review 30 Oct (`ideas/2026-10-30-email-wall-review.md`): THE PACER THAT ENDED / HIS MARATHON AT 30K** at ~5h: **skip 33.3% (Lower, our best since goal gone)** with a real email as frame one and the short title; **saves 0.4%, shares 0.1%** (a 3:23 plan few can use: new ledger row 23, my miss); 4.8K views; TikTok 1.2K, 3 DMs; list past 600. **Next (brief `ideas/engine-room-nutrition/2026-10-30-brief-email-sub4.md`, waiting on Luke's yes): Mon 2 WHERE SHE LOST / HER SUB-4 MARATHON** (inbox #2, sub-4 plan in the caption; her details stay in the inbox, not the repo). 5:00 moves back.
 
 **Script ready (30 Oct): THE PACER THAT ENDED / HIS MARATHON AT 30K** (OST v2, P170; markers 0-10K: THE SLOWER FLAG / 10K TO HALF: GOAL PACE / HALF TO 30K: HOLD IT / 30K: WHERE IT ENDED) **Email frame anonymised (30 Oct): the one line as a 16:9 frame plus the redacted thread, sent in chat, not stored here; his plan must allow for a summer race in February.** (`ideas/engine-room-nutrition/2026-10-30-script-email-wall.md`, teleprompter, mock-up `mockups/email-wall-frames.png`). Real email (18 Oct, name kept out of the repo): goal 3:23, went with the 3:15 pacers, wall at 30K, 3:37, again in February. New advice: the 3:30 pacers as the brake for the first 10K. 329 words, 1,611 characters. Before posting: his OK, and Luke actually sends him the plan (no plan reply found in the thread). Forecast: first day 4K to 9K IG, skip under 40%, saves 2%+. Next review `ideas/YYYY-MM-DD-email-wall-review.md`. **Humanizer pass (30 Oct, P169):** 5 lines rewritten; now 335 words, 1,623 characters, hook 95 words; frame cuts 0:27, 0:51, 1:05, 1:16, 1:33. **Channels:** IG main post as a collab (not a trial), FB cross-post, ERN TikTok fresh upload; not on Luke's personal TikTok (duplicate rule); stories poll + plan link. **Top of screen:** the real Gmail line cropped big for 0:00 to 0:26, then 5 designed site-theme frames (prompt in the script file) at 0:26, 0:51, 1:04, 1:16, 1:32. **Never put a subscriber's name, address or email text in the repo or a mock-up (my miss on 30 Oct, caught before it was written).**
 

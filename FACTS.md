@@ -165,3 +165,9 @@ with the date.
   the gels meme ("there has to be an alternative to gels") 45.8K; running
   100KM 16.7K; quit a marathon 3,143; gels sick at 30K 4,613; threshold
   pace 380.
+
+## Inbox results after Dublin (counts only, P154)
+- Post-race replies to the plan: several "the plan worked" results (one a
+  first-timer under 3:30), one sub-4 miss asking where it went wrong, one
+  cramp. Details stay in Luke's inbox, never here.
+- The email reel (30 Oct): 3 TikTok DMs; list past 600.
