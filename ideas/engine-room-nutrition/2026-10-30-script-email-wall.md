@@ -19,22 +19,22 @@ Finished 3:37, proud of it for a first attempt. Another go in February.
 |---|---|---|
 | Frame one | The email's one line, big: "ran with the 3:15 pacers and obviously hit the wall at 30kms" | The stake in a stranger's own words; numbers match the title and line one (row 14) |
 | Line one | "...goal was 3:23, he went out with the 3:15 pacers, hit the wall at 30K and finished in 3:37." | Pain everyone has seen; 14 minutes lost |
-| Open loop 1 | "...it starts with a pacer he'd never think of running with." | Which pacer? Answered in stage 1 |
+| Open loop 1 | "So we're sending him one, and it starts with a pacer he'd never think of running with." | Which pacer? Answered in stage 1 |
 | Pain and dream | "...watched a flag pull away from you at 30K, this time you're the one passing people." | Their picture, both ways |
-| Named unknown | "What he does at that exact K comes last." | Held to the last stage |
+| Named unknown | "We'll get to what he does at that K at the end." | Held to the last stage |
 | Stage 1 | The 3:30 pacers as the brake | Pays loop 1; the new advice in this video |
 | CTA | One sentence after stage 1 | The plan is the content, so the CTA is the next step, not an ask |
 | Rehook | "And then he's at 30K, the exact K that ended his last race." | Reopens before the payoff |
 | Payoff | The 30K drill, back to pace, passing the 3:15 runners | Closes the named unknown |
 | Send | "Send this to whoever you're running your next one with." | Spoken reason to send (P156) |
 
-## The script (329 words, 1,611 characters, about 1:35)
+## The script (335 words, 1,623 characters, about 1:35; humanizer pass 30 Oct)
 
-"If you've got a marathon coming up, a runner emailed us after his. His goal was 3:23, he went out with the 3:15 pacers, hit the wall at 30K and finished in 3:37."
+"If you've got a marathon coming up, a runner emailed us after his last one. His goal was 3:23. He went out with the 3:15 pacers, hit the wall at 30K and finished in 3:37."
 
-"He's got another one in February and asked us for a plan. This is the exact plan we're sending him, and it starts with a pacer he'd never think of running with."
+"He's got another one in February and asked us for a plan. So we're sending him one, and it starts with a pacer he'd never think of running with."
 
-"If you've ever watched a flag pull away from you at 30K, this time you're the one passing people. What he does at that exact K comes last."
+"If you've ever watched a flag pull away from you at 30K, this time you're the one passing people. We'll get to what he does at that K at the end."
 
 **[0-10K: THE SLOWER FLAG]**
 
@@ -44,7 +44,7 @@ Finished 3:37, proud of it for a first attempt. Another go in February.
 
 **[10K TO HALFWAY: GOAL PACE]**
 
-"Then he moves to goal pace, between 4:45 and 4:50, with a gel every 30 minutes and a few sips of water each time. That's about 60g of carbs an hour. He's at halfway in about 1:43, around a minute behind, and that minute is the plan working."
+"Then he moves to goal pace, between 4:45 and 4:50, with a gel every 30 minutes and a few sips of water each time. That's about 60g of carbs an hour. He's at halfway in about 1:43, around a minute behind, which is right where we want him."
 
 **[HALFWAY TO 30K: LEAVE THE MINUTE]**
 
@@ -54,10 +54,21 @@ Finished 3:37, proud of it for a first attempt. Another go in February.
 
 **[30K TO THE FINISH: THE K THAT ENDED IT]**
 
-"If the wall comes anyway, he doesn't stop. Something sweet, something to drink, and 15 to 20 seconds a K slower for 10 minutes, with shorter, quicker steps. Then he's back between 4:45 and 4:50, one K at a time, past a lot of the people who went out with the 3:15 flag."
+"If the wall comes anyway, he doesn't stop. He has something sweet and something to drink, and runs 15 to 20 seconds a K slower for 10 minutes, with shorter, quicker steps. Then he's back between 4:45 and 4:50, one K at a time, past a lot of the people who went out with the 3:15 flag."
 
 "Send this to whoever you're running your next one with."
 
+
+## Humanizer (P169), 30 Oct
+`check.py`: 0 flags. Full read against the catalog changed 5 lines:
+| Check | Old | New | Why |
+|---|---|---|---|
+| Written, not said (22) | "a runner emailed us after his." | "...after his last one." | Clipped; you'd say "his last one" |
+| Our template lines (20) | "This is the exact plan we're sending him" | "So we're sending him one" | "Here is the exact plan" is a P125 template |
+| Written, not said (22) | "What he does at that exact K comes last." | "We'll get to what he does at that K at the end." | How Luke says it; same open loop |
+| Slogan close (5) | "and that minute is the plan working." | "which is right where we want him." | A neat slogan line; this is how a coach says it |
+| Verbless list of three (10, 16) | "Something sweet, something to drink, and 15 to 20 seconds..." | "He has something sweet and something to drink, and runs 15 to 20 seconds..." | A fragment list read aloud |
+Everything else passes: no AI vocabulary, no dodged "is", no negative parallelism, no dashes, contractions throughout, no line from the last three scripts. Gate, line one, loops, CTA, rehook, send line and every number unchanged.
 
 ## Markers
 1. 0-10K: THE SLOWER FLAG
@@ -89,9 +100,9 @@ Finished 3:37, proud of it for a first attempt. Another go in February.
 | 4 | Crowd, start or finish in frame one | Pass: a phone screen |
 | 5 | Collage, AI or repeated cover | Pass: a new real screenshot |
 | 6 | Line one photographs | Pass: the flag, the wall at 30K; a promise, so open loop not reframe (P149) |
-| 7 | Length | Pass: 1,611 characters (329 words, top of the range) |
+| 7 | Length | Pass: 1,623 characters (335 words, top of the range) |
 | 8 | A why stage | Pass: none |
-| 9 | Hook length and CTA | Pass: hook 93 words, one-sentence CTA after stage 1 |
+| 9 | Hook length and CTA | Pass: hook 95 words, one-sentence CTA after stage 1 |
 | 10 | Sorting viewers | **Flag:** a case study told about "him"; the hook and send line speak to "you". A test of the inbox format |
 | 11 | Share of viewers with the problem | Pass: going out too fast and the wall |
 | 12 | One clock | Pass |
@@ -123,7 +134,7 @@ A runner emailed us after his marathon. His goal was 3:23. He went out with the 
 
 Halfway to 30K: he doesn't chase the minute. Same pace, gels on the clock, and through 30K in about 2:25 he's on for 3:23.
 
-30K to the finish: if the wall comes, something sweet, something to drink and 15 to 20 seconds a K slower for 10 minutes with shorter, quicker steps, then back to pace one K at a time. For a 3:23 he carries 7 gels: 6 on the clock and 1 spare.
+30K to the finish: if the wall comes, he has something sweet and something to drink, runs 15 to 20 seconds a K slower for 10 minutes with shorter, quicker steps, then goes back to pace one K at a time. For a 3:23 he carries 7 gels: 6 on the clock and 1 spare.
 
 Your own goal works the same way: the first 10K 5 to 10 seconds a K slower than goal pace, up to a minute behind at halfway, and the gels on the clock. Want it worked out for your race? Email us your race and goal time through the link in the bio and we'll send you a free plan.
 
@@ -170,8 +181,8 @@ TikTok caption: A runner emailed us: goal 3:23, went out with the 3:15 pacers, h
   name, address, date or Gmail buttons. Real beats designed here: it's the
   proof, and a designed email card looks like an ad.
 - **From stage 1: designed frames** in the site theme (the New York style),
-  from the prompt below. Straight cuts at: 0:26 frame 1, 0:51 frame 2, 1:04
-  frame 3, 1:16 frame 4, 1:32 frame 5 (the whole plan) to the end. Retime
+  from the prompt below. Straight cuts at: 0:27 frame 1, 0:51 frame 2, 1:05
+  frame 3, 1:16 frame 4, 1:33 frame 5 (the whole plan) to the end. Retime
   to your edit.
 
 ## Prompt for the frames (paste into the other Claude chat)

@@ -104,6 +104,11 @@ twice without being checked against the winners (P99).
 - [ ] **Topic lists (P168, Luke 30 Oct):** sources re-read in full, a
       professional's pass written down, each title tagged with what it
       uses, and the council's opinion on every title.
+- [ ] **Humanizer, last step, every time (P169, Luke 30 Oct):** run
+      `.claude/skills/humanizer/check.py` on the script, read every line
+      against the catalog in its SKILL.md, rewrite what fails, put the
+      Humanizer table in the file. Words only: hook stack, numbers and
+      length unchanged.
 
 - [ ] **"Marathon" in line one** of the OST (P92). Every compounder has it.
 - [ ] **The viewer's race outcome is at stake**: finish, time, blow up

@@ -5445,6 +5445,23 @@ uses; (4) the council gives an opinion on each title, not just the list.
 - Bottom of funnel in stories, Lives and paid ads to engagers (Hormozi),
   never in reels.
 
+## P169 — The humanizer skill runs on every piece of copy, unasked (Luke, 30 Oct)
+
+Luke: "I don't want to remind you every time, like for the AI signs of
+writing from Wikipedia. I need you to put this skill in for the future and
+update the last script you sent." The catalog has been a rule since P35 and
+P125, but a rule I had to remember wasn't enough.
+
+**The rule:** `.claude/skills/humanizer/` runs as the last step on every
+script, caption, pinned comment, OST and story line before Luke sees it:
+`check.py` for the mechanical tells (AI vocabulary, dodged "is", negative
+parallelism, dashes, missing contractions, jargon, colon lists, lines
+repeated from the last three scripts), then a full read against the
+catalog in `SKILL.md`, then the rewrites, then a "Humanizer (P169)" table in
+the file. It changes words only: the hook stack, Briar's frameworks, the
+numbers and the length stay as they are. In chat: one line saying it ran
+and what changed.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
