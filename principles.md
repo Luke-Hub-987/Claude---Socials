@@ -5343,6 +5343,35 @@ away".
 
 *Source: Luke, 28 October.*
 
+## P165 — The "who cares" test comes before any score (Luke, 30 Oct)
+
+(P162 to P164 are taken on the strategy branch; this skips them so the two
+merge cleanly.)
+
+Luke on the 29 Oct ideation: "Why your marathon was longer than 42.2K...
+who gives a fuck? Nobody cares." And "how to pick a goal for your next
+marathon... the marathons are so far away now that people wouldn't really
+care." I scored "timed for now" as a point, so two topics with no feeling
+in them topped the list because the date fitted.
+
+**The rule:** before a topic is scored, would a runner whose race is months
+away stop scrolling for it? It passes only if it is a fear they still carry
+from the last race, a picture of race day they want, or a number they will
+use on every long run from now to the start line. Trivia (why the watch
+reads long) and admin (pick a goal) fail, whatever the date. Timing never
+rescues a topic nobody feels; it is not a point in the score.
+
+**Why race-day content still works in the gap:** on Mon 26 Oct, 11 people
+signed up with no new reel. Runners watch race day to picture their own,
+months out. In the gap the job of each post changes (emails, reach, a
+test), not the race clock.
+
+**And be creative inside the formats (Luke, 30 Oct):** lock two formats
+(goal time at every 10K; what to do when a race fear happens) and make one
+reel a week a creative test from the frameworks Luke shares (tier lists,
+"explained like you're 10", stakes from a real object, the dream as a
+title). See `ideas/engine-room-nutrition/2026-10-30-creative-strategy.md`.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

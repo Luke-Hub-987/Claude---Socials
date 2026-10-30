@@ -86,6 +86,11 @@ twice without being checked against the winners (P99).
 
 - [ ] **Passes the five-line gate in `PLAN-winners.md` (P110).** If not,
       it is not scripted.
+- [ ] **The "who cares" test first (P165, Luke 30 Oct):** would a runner
+      whose race is months away stop for it? A fear they carry, a picture
+      of race day they want, or a number for every long run. Trivia (the
+      watch reads long) and admin (pick a goal) fail. Timing is never a
+      point in the score.
 
 - [ ] **"Marathon" in line one** of the OST (P92). Every compounder has it.
 - [ ] **The viewer's race outcome is at stake**: finish, time, blow up
