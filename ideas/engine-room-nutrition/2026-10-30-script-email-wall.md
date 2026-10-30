@@ -180,6 +180,8 @@ TikTok caption: A runner emailed us: goal 3:23, went out with the 3:15 pacers, h
   wall at 30kms"), zoomed until it fills the top half in 2 or 3 lines. No
   name, address, date or Gmail buttons. Real beats designed here: it's the
   proof, and a designed email card looks like an ad.
+- **Built 30 Oct:** the line as a 1920 x 1080 frame from the real pixels (rewrapped to 3 lines, his words and order unchanged, gold underline under the last line), plus the full thread with the name, avatar and Luke's "Hey [name]" redacted. Sent to Luke in chat only; not stored in the repo (subscriber rule).
+- **The plan we send him:** his February race is in the southern hemisphere, so summer heat. Check the race and allow for heat in his plan before sending; the video's advice stays as written.
 - **From stage 1: designed frames** in the site theme (the New York style),
   from the prompt below. Straight cuts at: 0:27 frame 1, 0:51 frame 2, 1:05
   frame 3, 1:16 frame 4, 1:33 frame 5 (the whole plan) to the end. Retime
