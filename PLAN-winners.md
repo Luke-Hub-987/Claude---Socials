@@ -7,6 +7,8 @@ it produces.
 
 ## The winners, lifetime, and the exact formula each one proves
 
+**Lifetime, 31 Oct:** the wall 184K, 7 days 151K, carb load 95K, hidden wall 87.9K, first 10 minutes 77.8K, 3:45 56.5K. What the top 5 share (car, running top, one real photo, a famous fear or countdown, short normal-case title): `ideas/2026-10-31-why-our-top-reels-won.md`.
+
 | # | Video | Views | Formula |
 |---|---|---|---|
 | 1 | Where the marathon wall actually starts | **147K** | **A. "Where [famous race problem] actually starts"**, race-clock stages (0-10K / 10-20K / 20-30K / 30K-FINISH), the cause sits earlier than the symptom |
