@@ -5502,6 +5502,27 @@ the story is a good one for them (a result they're proud of). The default is
 the pattern, said to "you". Their details stay in Luke's inbox, never in the
 repo.
 
+## P173 — 80% safe, 20% tests, all of it pointing at the bar (Luke, 31 Oct)
+
+Luke, after the top-reels analysis: keep the winning topics "as the safe
+topics... the majority, like the 80%... then 20% testing topics based on
+what people struggle with, or we can expand upon, diversify, maybe into
+other sports... trial reels... everything is with a view to selling the
+bar."
+
+**The rule:**
+- **80% safe:** the top-reel mechanics (`ideas/2026-10-31-why-our-top-reels-won.md`):
+  a famous race fear or a countdown, "where X actually starts" / ACTUALLY /
+  WITHOUT titles, the car, a running top, one real photo, a plan to keep.
+  These go to the profile as collabs.
+- **20% tests:** broad struggles, new formats, other sports (GAA first,
+  adults only, P163). **Always trial reels first** (non-followers only), with
+  a stated measure (non-follower skip, shares, a comment count) and a bar to
+  clear before anything reaches the profile.
+- **Every reel connects to the bar's job:** the 30 minutes before a race,
+  a long run, a match; or the plan that leads to the list. A test that
+  can't connect back isn't run.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
