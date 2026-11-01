@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Where It Goes Wrong Frames</title>
+<style>
+/* ERN site theme, as the New York frames: navy, cream strip, ERN blue, gold numbers */
+:root{
+  --navy:#0c1828; --navy-2:#14253d; --cream:#f4efe6; --blue:#1f7ae0; --blue-d:#1559ad; --blue-l:#6fb2ff;
+  --gold:#f5b52e; --muted:#9fb0c6; --red:#ff8a80; --grey:#c3cbd6; --ink:#0d1726;
+}
+@font-face{font-family:'DM Serif Display';src:url(../fonts/DMSerifDisplay-400-normal.woff2) format('woff2');}
+@font-face{font-family:'DM Serif Display';font-style:italic;src:url(../fonts/DMSerifDisplay-400-italic.woff2) format('woff2');}
+@font-face{font-family:Barlow;font-weight:700;src:url(../fonts/BarlowCondensed-700-normal.woff2) format('woff2');}
+@font-face{font-family:Barlow;font-weight:800;src:url(../fonts/BarlowCondensed-800-normal.woff2) format('woff2');}
+@font-face{font-family:Inter;src:url(../fonts/Inter-400-normal.woff2) format('woff2');font-weight:100 900;}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1920px;height:1080px;overflow:hidden;background:var(--navy)}
+#f{position:relative;width:1920px;height:1080px;overflow:hidden;background:var(--navy);color:#fff;font-family:Barlow,sans-serif}
+
+/* the race strip: the same in every frame */
+.strip{position:absolute;left:0;top:0;right:0;height:150px;background:var(--cream)}
+.strip svg{position:absolute;left:0;top:0}
+.strip img{position:absolute;right:56px;top:22px;height:106px;border-radius:6px}
+.tk{font-family:Barlow,sans-serif;font-weight:800;font-size:30px;letter-spacing:2px;fill:var(--ink)}
+.tk.on{fill:var(--blue)}
+
+.body{position:absolute;left:96px;right:96px;top:196px;bottom:56px}
+.eyebrow{font-weight:800;font-size:46px;letter-spacing:4px;color:var(--blue-l)}
+.head{font-weight:800;font-size:104px;line-height:.95;letter-spacing:1px;margin-top:6px}
+.pace{display:flex;align-items:baseline;gap:14px;margin-top:34px}
+.pace .n{font-weight:700;font-size:180px;line-height:.85;color:var(--gold)}
+.pace .u{font-weight:800;font-size:60px;color:var(--gold)}
+.mi{font-weight:700;font-size:50px;color:var(--muted);margin-top:14px}
+.serif{font-family:'DM Serif Display',serif;font-weight:400;letter-spacing:-.3px;line-height:1.08}
+.serif em{font-style:italic;color:var(--blue-l)}
+.serif b{font-family:Barlow,sans-serif;font-weight:700;color:var(--gold);letter-spacing:0}
+.line{display:flex;align-items:center;gap:22px;font-weight:700;font-size:50px;line-height:1.1}
+.line .lab{font-weight:800;color:var(--blue-l);letter-spacing:2px}
+.line .n{color:var(--gold)}
+.card{background:var(--navy-2);border-radius:28px;padding:40px 44px}
+.card.cream{background:var(--cream);color:var(--ink)}
+.card.blue{background:var(--blue)}
+.chip{display:inline-block;font-weight:800;font-size:32px;letter-spacing:3px;color:var(--gold);border:3px solid var(--gold);border-radius:999px;padding:6px 22px 4px}
+table{width:100%;border-collapse:collapse}
+th{font-weight:800;font-size:32px;letter-spacing:2px;color:var(--muted);text-align:left;padding:0 0 14px}
+td{font-weight:700;font-size:48px;padding:16px 0;border-top:2px solid rgba(255,255,255,.09);vertical-align:middle}
+td.g{color:var(--gold)} td.m{color:var(--muted)} td.c{font-size:40px}
+.cta{position:absolute;right:0;bottom:0;background:var(--blue);border-radius:16px;padding:16px 28px 14px;font-weight:800;font-size:32px;letter-spacing:1.5px}
+</style>
+<style>
+.iou{background:#fbf6ea;color:#0d1726;border-radius:10px;box-shadow:0 18px 0 rgba(0,0,0,.25);transform:rotate(-4deg);padding:44px 54px;font-family:'DM Serif Display',serif}
+.iou .t{font-family:Barlow;font-weight:800;font-size:88px;letter-spacing:6px;color:#1f7ae0;line-height:1}
+.iou .r{font-size:56px;line-height:1.15;margin-top:18px}
+.iou .r b{font-family:Barlow;font-weight:700;color:#d64535}
+.iou .sig{font-family:'DM Serif Display';font-style:italic;font-size:52px;margin-top:22px;color:#14253d;border-top:3px dashed #9fb0c6;padding-top:14px}
+.bill{background:#fbf6ea;color:#0d1726;font-family:Barlow;font-weight:700;padding:22px 30px 26px;width:330px;transform:rotate(6deg);
+  -webkit-mask:linear-gradient(#000 0 0) top/100% calc(100% - 14px) no-repeat, radial-gradient(circle 9px at 50% 100%,transparent 98%,#000) bottom/26px 14px repeat-x}
+.bill .k{font-weight:800;font-size:30px;letter-spacing:3px;color:#9fb0c6}
+.bill .v{font-size:52px;line-height:1.05;color:#d64535}
+.lane{display:flex;flex-direction:column;gap:14px}
+.tag{display:inline-block;font-weight:800;font-size:34px;letter-spacing:3px;padding:8px 20px 6px;border-radius:12px}
+</style>
+</head>
+<body>
+<div id="f">
+  <div class="strip"><svg id="strip" width="1920" height="150" viewBox="0 0 1920 150"></svg><img src="../brand/ern-logo.png" alt="ERN"></div>
+  <div class="body" id="b"></div>
+</div>
+<script>
+const NS='http://www.w3.org/2000/svg';
+function el(t,a,p){const n=document.createElementNS(NS,t);for(const k in a)n.setAttribute(k,a[k]);p.appendChild(n);return n}
+const KM=42.195, X0=110, X1=1610, X=k=>X0+(X1-X0)*k/KM, Y=62;
+const MARKS=[[0,'START'],[10,'10K'],[KM/2,'HALF'],[30,'30K'],[34,'34K'],[KM,'FINISH']];
+function strip(a,b,hot){const s=document.getElementById('strip');s.innerHTML='';
+  el('line',{x1:X0,y1:Y,x2:X1,y2:Y,stroke:'#c3cbd6','stroke-width':12,'stroke-linecap':'round'},s);
+  el('line',{x1:X(a),y1:Y,x2:X(b),y2:Y,stroke:hot||'#1f7ae0','stroke-width':20,'stroke-linecap':'round'},s);
+  for(const [k,t] of MARKS){const on=k>=a-0.01&&k<=b+0.01;
+    el('circle',{cx:X(k),cy:Y,r:11,fill:on?(hot||'#1f7ae0'):'#0d1726',stroke:'#f4efe6','stroke-width':4},s);
+    const tx=el('text',{x:X(k),y:122,'text-anchor':k===0?'start':k===KM?'end':'middle',class:'tk'+(on?' on':'')},s);
+    if(on&&hot)tx.setAttribute('fill',hot);
+    tx.setAttribute('x',k===0?X0-10:k===KM?X1+10:X(k));tx.textContent=t}}
+
+/* a running figure: lean = forward tilt, c = top colour, flying = big stride */
+function runner(x,y,s,c,flying,tired){const lean=tired?-3:(flying?-14:-6);
+ return `<g transform="translate(${x},${y}) scale(${s}) rotate(${lean})" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <path d="${flying?'M0 0 L40 -54 L6 -112':(tired?'M10 0 L14 -58 L8 -112':'M0 0 L22 -60 L4 -112')}" stroke="#f1c7a3" stroke-width="15"/>
+  <path d="${flying?'M-70 -30 L-30 -60 L4 -112':(tired?'M-14 0 L-4 -58 L4 -112':'M-38 -8 L-14 -56 L4 -112')}" stroke="#d8b08e" stroke-width="15"/>
+  <path d="M8 -112 L20 -190" stroke="${c}" stroke-width="40"/>
+  <path d="${tired?'M18 -178 L26 -140 L22 -110':'M18 -178 L46 -150 L70 -168'}" stroke="#f1c7a3" stroke-width="12"/>
+  <path d="${tired?'M14 -176 L4 -140 L6 -110':'M14 -176 L-12 -146 L-30 -160'}" stroke="#d8b08e" stroke-width="12"/>
+  <circle cx="${tired?24:28}" cy="${tired?-218:-222}" r="22" fill="#f1c7a3" stroke="none"/>
+  <path d="M8 -232 A22 22 0 0 1 48 -228 Z" fill="#6b4528" stroke="none"/>${tired?'<path d="M58 -236 q8 14 0 20 q-8 -6 0 -20Z M66 -200 q7 12 0 17 q-7 -5 0 -17Z" fill="#6fb2ff" stroke="none"/>':''}</g>`}
+
+const FRAMES={
+ 1:{s:[0,10],h:`
+   <div style="position:absolute;left:0;top:0;width:900px">
+     <div class="eyebrow">0-10K</div>
+     <div class="head">A MINUTE DOWN</div>
+     <div class="pace"><span class="n">5:45-5:50</span><span class="u">/K</span></div>
+     <div class="mi">(9:15-9:23 /mile) &middot; for sub-4</div>
+   </div>
+   <div class="iou" style="position:absolute;right:30px;top:30px;width:760px">
+     <div class="t">I.O.U.</div>
+     <div class="r">To: the clock<br>Amount: <b>1 minute</b><br>Pay back: slowly, by <b>30K</b></div>
+     <div class="sig">Signed, you</div>
+   </div>
+   <div style="position:absolute;left:0;bottom:0;right:0;display:flex;gap:28px">
+     <div class="card line" style="flex:1"><span class="lab">FIRST GEL</span><span class="n">20 min</span></div>
+     <div class="card line serif" style="flex:1.3;font-size:56px">10K check: about <b>58 min</b></div>
+   </div>`},
+ 2:{s:[12,16],hot:'#ff8a80',h:`
+   <div style="position:absolute;left:0;top:0;width:700px">
+     <div class="eyebrow" style="color:#ff8a80">THE MOMENT</div>
+     <div class="head">THE FIRST<br>DOWNHILL</div>
+     <div class="serif" style="font-size:54px;margin-top:26px">You feel brand new, so you run <b style="color:#ff8a80">20 s/K</b> quicker to win the minute back.</div>
+   </div>
+   <svg width="1000" height="560" viewBox="0 0 1000 560" style="position:absolute;right:-20px;top:0;width:960px;height:538px">
+     <rect x="0" y="0" width="1000" height="560" rx="28" fill="#14253d"/>
+     <path d="M0 150 C180 150 260 160 380 240 S640 430 1000 440 L1000 560 L0 560Z" fill="#22344f"/>
+     <path d="M0 150 C180 150 260 160 380 240 S640 430 1000 440" stroke="#9fb0c6" stroke-width="6" fill="none" stroke-dasharray="22 18" opacity=".6"/>
+     <g stroke="#ff8a80" stroke-width="8" stroke-linecap="round" opacity=".8"><line x1="300" y1="190" x2="380" y2="215"/><line x1="290" y1="240" x2="370" y2="262"/><line x1="320" y1="140" x2="390" y2="168"/></g>
+     ${runner(500,330,1.05,'#ff8a80',true)}
+     <g><rect x="560" y="40" width="380" height="110" rx="55" fill="#fff"/><path d="M620 140 L600 190 L670 145Z" fill="#fff"/>
+     <text x="750" y="112" text-anchor="middle" font-family="Barlow" font-weight="800" font-size="52" fill="#0c1828">I FEEL AMAZING</text></g>
+   </svg>
+   <div class="bill" style="position:absolute;right:40px;top:470px"><div class="k">THE BILL</div><div class="v">Due at 34K</div></div>
+   <div class="card blue line" style="position:absolute;left:0;right:420px;bottom:0;font-size:52px"><span style="font-weight:800">THE FIX</span><span>shorter, quicker steps &middot; <span style="color:#f5b52e">5:35-5:40 /K</span>, same as the flat</span></div>`},
+ 3:{s:[10,30],h:`
+   <div style="position:absolute;left:0;top:0;width:860px">
+     <div class="eyebrow">10-30K</div>
+     <div class="head">SLOWLY</div>
+     <div class="pace"><span class="n">5:35-5:40</span><span class="u">/K</span></div>
+     <div class="mi">(8:59-9:07 /mile)</div>
+     <div class="chip" style="margin-top:26px">A FEW SECONDS FASTER, NEVER 20</div>
+   </div>
+   <div class="card" style="position:absolute;right:0;top:20px;width:860px;padding:44px 50px">
+     <div style="font-weight:800;font-size:36px;letter-spacing:3px;color:#9fb0c6">PAYING BACK THE MINUTE</div>
+     ${[['10K','58 min','-1:00',100,'#ff8a80'],['HALF','about 2:00','-0:20',35,'#f5b52e'],['30K','about 2:50','paid',0,'#5fd08e']].map(([k,t,d,w,c])=>`
+     <div style="display:flex;align-items:center;gap:26px;margin-top:30px">
+       <div style="width:120px;font-weight:800;font-size:46px;color:#6fb2ff">${k}</div>
+       <div style="flex:1;height:44px;border-radius:22px;background:#0c1828;position:relative;overflow:hidden">
+         <div style="position:absolute;left:0;top:0;bottom:0;width:${Math.max(w,4)}%;background:${c};border-radius:22px"></div></div>
+       <div style="width:170px;text-align:right;font-weight:700;font-size:46px;color:${c}">${d}</div>
+     </div><div style="margin-left:146px;font-weight:700;font-size:34px;color:#9fb0c6;margin-top:6px">${t}</div>`).join('')}
+   </div>
+   <div class="card serif" style="position:absolute;left:0;right:0;bottom:0;font-size:58px">The minute's back by <b>30K</b>, without you feeling it go.</div>`},
+ 4:{s:[30,KM],h:`
+   <div class="eyebrow">34K</div>
+   <div class="head">WHERE IT SHOWS</div>
+   <div style="position:absolute;left:0;right:0;top:230px;bottom:150px;display:grid;grid-template-columns:1fr 1fr;gap:34px">
+     <div class="card" style="position:relative;overflow:hidden">
+       <div class="tag" style="background:#ff8a80;color:#0c1828">SURGED ON THE DOWNHILL</div>
+       <div class="serif" style="font-size:58px;margin-top:22px;width:470px">The downhill sends its bill.</div>
+       <svg width="300" height="300" viewBox="0 0 300 300" style="position:absolute;right:20px;bottom:0">${runner(150,290,1.1,'#ff8a80',false,true)}</svg>
+       <div class="bill" style="position:absolute;left:44px;bottom:40px;width:300px;transform:rotate(-5deg)"><div class="k">PAY NOW</div><div class="v">At 34K</div></div>
+     </div>
+     <div class="card blue" style="position:relative;overflow:hidden">
+       <div class="tag" style="background:#f5b52e;color:#0c1828">SAVED IT</div>
+       <div style="display:flex;align-items:baseline;gap:12px;margin-top:24px"><span style="font-weight:700;font-size:120px;line-height:.9;color:#fff">5:40-5:45</span><span style="font-weight:800;font-size:48px">/K</span></div>
+       <div style="font-weight:700;font-size:44px;margin-top:10px">one K at a time</div>
+       <div style="font-weight:800;font-size:64px;margin-top:22px">Finish around <span style="color:#f5b52e">3:59</span></div>
+       <svg width="280" height="300" viewBox="0 0 280 300" style="position:absolute;right:10px;bottom:0">${runner(140,290,1.1,'#f5b52e',false,false)}</svg>
+     </div>
+   </div>
+   <div class="card line" style="position:absolute;left:0;right:0;bottom:0"><span class="lab">FUEL, ALL THE WAY</span><span>first gel at <span class="n">20 min</span>, then about <span class="n">60g</span> of carbs an hour</span></div>`},
+ 5:{s:[0,KM],h:`
+   <div style="display:flex;align-items:baseline;gap:30px"><div class="eyebrow">THE WHOLE PLAN</div><div class="chip">SAVE THIS</div></div>
+   <div class="card" style="margin-top:22px;padding:30px 44px 18px">
+     <table>
+       <tr><th>GOAL</th><th>0-10K</th><th>10-35K</th><th>35K-FINISH</th><th>HALF</th><th>30K</th></tr>
+       <tr><td>3:45</td><td class="g">5:25-5:30</td><td class="g">5:15-5:20</td><td class="g">5:15-5:20</td><td class="c">~1:53</td><td class="c">~2:40</td></tr>
+       <tr><td style="color:#f5b52e">Sub-4</td><td class="g">5:45-5:50</td><td class="g">5:35-5:40</td><td class="g">5:40-5:45</td><td class="c">~2:00</td><td class="c">~2:50</td></tr>
+       <tr><td>4:30</td><td class="g">6:30-6:35</td><td class="g">6:15-6:20</td><td class="g">6:20-6:25</td><td class="c">~2:15</td><td class="c">~3:11</td></tr>
+     </table>
+   </div>
+   <div class="serif" style="font-size:44px;margin-top:24px;width:1700px">Every downhill: <b>shorter, quicker steps</b>, same pace.<br>First gel at <b style="white-space:nowrap">20 min</b>, then about <b>60g</b> of carbs an hour.</div>
+   <div class="cta">Your plan, free: email us your race and goal, link in bio</div>`},
+};
+window.render=function(n){const fr=FRAMES[n];strip(fr.s[0],fr.s[1],fr.hot);document.getElementById('b').innerHTML=fr.h};
+const q=new URLSearchParams(location.search);if(q.has('f'))render(+q.get('f'));else render(1);
+</script>
+</body>
+</html>

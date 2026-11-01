@@ -136,3 +136,14 @@ Base: last three at 4 to 5 hours on Instagram 2.6K, 2.6K, 3.4K; saves 0.4% to 2.
 - **Executor:** Film in the car tomorrow morning, post the collab and the all-capitals trial reel together.
 - **Blind cross-review:** All keep it. The title-case test is cheap; read it at 24 hours.
 - **Chairman:** **Post it Sunday as written.**
+
+## Stage frames (Luke, 1 Nov: ERN theme, real logo, fun and valuable)
+`motion/plan-frames/wgw-1` to `wgw-5` (1920 x 1080, the race strip with 34K marked, the ERN logo). The top photo stays for the hook (P159); cut straight to each frame:
+| From | Frame | The joke | The value |
+|---|---|---|---|
+| ~0:25 (stage 1) | 1. A minute down | An IOU to the clock, "pay back slowly, by 30K" | 5:45-5:50 /K, first gel 20 min, 10K about 58 min |
+| ~0:45 (stage 2) | 2. The first downhill | A runner flying downhill, "I FEEL AMAZING", the bill due at 34K | +20 s/K is the mistake; the fix: shorter, quicker steps, 5:35-5:40 |
+| ~1:00 (stage 3) | 3. Slowly | Paying the minute back: -1:00, -0:20, paid | 5:35-5:40 /K, half about 2:00, 30K about 2:50 |
+| ~1:10 (stage 4) | 4. Where it shows | The surger pays the bill; the saver passes | 5:40-5:45 /K, finish around 3:59, fuel line |
+| ~1:25 (send line) | 5. The whole plan | "Save this" | 3:45, sub-4 and 4:30 by section, plus the CTA |
+Every number matches the script and the caption.

@@ -12,3 +12,4 @@ for the key numbers, red only for the "too fast" thing.
 - Downloads: https://claude.ai/artifact/XHuCgjjDcTa45o2x1YvEcP
 
 For another goal time, copy `plan-323.html` and change only the numbers.
+- `where-it-goes-wrong.html`: Sunday 1 Nov, 5 frames (an IOU to the clock, the downhill with its bill, paying the minute back, the two runners at 34K, the plan for 3:45, sub-4 and 4:30). Rendered as `wgw-*.png`.
