@@ -114,3 +114,10 @@ you've got a marathon this spring," (a season, not a date, P153).
   countdown, "where it actually starts" or "ACTUALLY" in the title, the
   car, the running top, one real photo. Monday #1, Wednesday #2, the wall
   repost at the weekend, and a title-case test on Monday's trial reels.**
+
+## Update 1 Nov: the first test
+Where it goes wrong used the car, the running top and a normal-case title,
+and got 52.1% skip (`ideas/2026-11-01-where-it-goes-wrong-review.md`). Those
+three are hygiene, not drivers. What decides the first 2 seconds: a gate
+that's true now (row 24) and a picture of the problem (row 25). Most of the
+top-5 gap is the calendar (point 3 above).
