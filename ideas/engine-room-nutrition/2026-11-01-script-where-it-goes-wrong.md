@@ -107,6 +107,7 @@ check.py: 0 flags. Full read changed 2 lines: "the road drops away, your legs fe
 ## Shoot (from the top reels)
 - **In the car**, in a running top (the ERN top), as in 16 of our top reels.
 - **Top half, 0:00 to the end:** one real photo of a runner alone on a downhill road. Search: Unsplash or Pexels "running downhill road"; Google Images "runner downhill road" with the Creative Commons filter. One person, no crowd, no readable bib.
+- **Top photo chosen (1 Nov):** one runner in silhouette at the top of a wet road, the road dropping away into the valley (Lucas Favre, Unsplash, free Unsplash License; https://unsplash.com/photos/silhouette-photo-of-a-person-running-on-road-JnoNcfFwrNA). Cropped to `mockups/where-it-goes-wrong-top-photo-16x9.jpg` (1920 x 1080) and `...-1080x960.jpg`. Colour, no crowd, no bib, no face, no text. Checked at phone size: the runner reads in under a second. Watch: in silhouette you can't tell if he is running away or toward the camera; it reads as the crest before the road drops, which is the moment in line one. Backup: a sharp runner from behind on a wet winter road (Emre Gokceoglu, Pexels, https://www.pexels.com/photo/man-running-on-wet-forest-road-in-ankara-35718700/), but that road reads flat. Flickr CC results were all race photos with crowds and bibs (row 4), so none used.
 - Blue title box in the middle, Luke below, one line of subtitles. No graphics.
 
 ## Caption
@@ -119,6 +120,8 @@ Sub-4: the first 10K between 5:45 and 5:50 a K (9:15 to 9:23 a mile), about 58 m
 4:30: the first 10K between 6:30 and 6:35 (10:28 to 10:36 a mile). From 10K to 35K between 6:15 and 6:20 (10:04 to 10:12), halfway in about 2:15 and 30K in about 3:11. Then goal pace to the line, just under 4:30.
 
 On every downhill, shorter, quicker steps and the same pace. First gel at 20 minutes, then about 60g of carbs an hour. Want it worked out for your race? Email us your race and goal time through the link in the bio and we'll send you a free plan.
+
+Photo: Lucas Favre on Unsplash.
 
 **Pinned comment:** Want your own numbers? Email us your race and goal time through the link in the bio.
 
