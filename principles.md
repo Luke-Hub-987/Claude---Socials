@@ -5523,6 +5523,28 @@ bar."
   a long run, a match; or the plan that leads to the list. A test that
   can't connect back isn't run.
 
+## P174 — Be honest about timing; no single-post blame; trial reels before the profile (Luke, 1 Nov)
+
+Luke: "In the last week everything underperformed. Every view count you
+predicted has not gone its way... be honest and open whether it is strictly
+a timing thing or a performance thing. I'm not having us post flops... I
+used the exact cover photo that you recommended, and you still say that was
+the cause."
+
+**The rule:**
+- **Timing first.** Every review compares the reel with the last 3 to 5 at
+  the same hour and says plainly when the calendar is the main cause (the
+  autumn races done, the spring blocks not started).
+- **No cause from one post.** A cause goes on the ledger only when it shows
+  up in 3 or more posts or in a trial-reel A/B. Never blame something I
+  recommended without that evidence.
+- **Trial reels before the profile.** Every new reel goes out as a trial reel
+  first; only reels that beat the base (above 4K and under 40% skip at 24
+  hours, until the base changes) are shared to the profile.
+- **Go where the fish are.** Aim reach at whoever has a deadline this week
+  (in November: team-sport matches; Valencia runners from late November;
+  spring marathoners from late December).
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

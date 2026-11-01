@@ -95,3 +95,11 @@ comments Higher, 11 saves on TikTok from 1.2K views.
 
 **Needed from Luke:** the two trial reels (all-capitals title and the match
 test: skip, views, MATCH comments); sign-ups today and tomorrow.
+
+## Correction (1 Nov, P174)
+Luke was right to push back. This review called the gate and the photo the
+causes from one post, and I'd recommended the photo. Rows 24 and 25 are
+withdrawn. The honest read: this was the 11th reel in a row in the same 2K
+to 6K band since 20 October, across every format; the calendar is the main
+cause (`ideas/2026-11-01-rethink-timing.md`). The gate and the photo stay as
+ideas to test with trial reels, nothing more.

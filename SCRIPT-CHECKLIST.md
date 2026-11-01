@@ -30,7 +30,7 @@ twice without being checked against the winners (P99).
 - [ ] **80/20 (P173):** safe slots use the top-reel mechanics and go to the profile; tests go out as trial reels first with a stated measure; every reel connects to the bar's job or the plan.
 - [ ] **Forecast from base rates (P171):** the median of the last 3 to 5 reels at the same hour, stated, plus one named reason at most; forecast against actual in every review.
 - [ ] **No identifiable viewer (P172):** no subscriber's email on screen and no details that point to one runner, unless they asked to be featured with a story they're proud of.
-- [ ] **Ledger rows 24 and 25 (1 Nov):** the gate is true for most viewers now (never "this spring"); the top photo shows the problem, not a mood.
+- [ ] **Trial reel first (P174):** every new reel goes out as a trial reel; only reels above 4K and under 40% skip at 24 hours go to the profile. Reviews say when it's the calendar; no cause from one post.
 - [ ] **Burned subtitles proof-read by eye (P159 repeat, 1 Nov):** numbers right ("34K", not "30"), none before 0:03.
 - [ ] **Ledger row 23 (30 Oct): the worked example is the audience's goal** (sub-4, 3:45 to 4:00), or every common goal is in the caption and the last frame. A 3:23 plan got 0.4% saves.
 - [ ] **The CLAUDE.md failure ledger is in the script file as a table,
