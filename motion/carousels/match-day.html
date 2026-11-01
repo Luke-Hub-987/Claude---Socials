@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>Match Day Carousel</title>
+<style>
+:root{--navy:#0c1828;--navy-2:#14253d;--cream:#f4efe6;--blue:#1f7ae0;--blue-l:#6fb2ff;--gold:#f5b52e;--muted:#9fb0c6;--red:#ff8a80;--ink:#0d1726}
+@font-face{font-family:'DM Serif Display';src:url(../fonts/DMSerifDisplay-400-normal.woff2) format('woff2');}
+@font-face{font-family:'DM Serif Display';font-style:italic;src:url(../fonts/DMSerifDisplay-400-italic.woff2) format('woff2');}
+@font-face{font-family:Barlow;font-weight:700;src:url(../fonts/BarlowCondensed-700-normal.woff2) format('woff2');}
+@font-face{font-family:Barlow;font-weight:800;src:url(../fonts/BarlowCondensed-800-normal.woff2) format('woff2');}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1080px;height:1350px;overflow:hidden;background:var(--navy)}
+#s{position:relative;width:1080px;height:1350px;background:var(--navy);color:#fff;font-family:Barlow,sans-serif;padding:96px 84px}
+.logo{position:absolute;right:64px;top:56px;height:92px;border-radius:6px}
+.n{position:absolute;left:84px;bottom:64px;font-weight:800;font-size:30px;letter-spacing:4px;color:var(--muted)}
+.eyebrow{font-weight:800;font-size:44px;letter-spacing:5px;color:var(--blue-l)}
+.big{font-weight:800;font-size:150px;line-height:.9;letter-spacing:1px}
+.gold{color:var(--gold)}
+.serif{font-family:'DM Serif Display',serif;line-height:1.12}
+.card{background:var(--navy-2);border-radius:30px;padding:48px 52px}
+.clock{display:flex;align-items:center;gap:30px}
+.dot{width:46px;height:46px;border-radius:50%;background:var(--gold);flex:none}
+.bar{position:absolute;left:84px;right:84px;top:250px;height:16px;border-radius:8px;background:#22344f}
+.bar i{position:absolute;top:-14px;width:44px;height:44px;border-radius:50%;background:#22344f;border:6px solid var(--navy)}
+.bar i.on{background:var(--gold)}
+.bar b{position:absolute;top:44px;font-weight:800;font-size:28px;letter-spacing:2px;color:var(--muted);transform:translateX(-30%)}
+</style></head><body>
+<div id="s"></div>
+<script>
+const logo='<img class="logo" src="../brand/ern-logo.png" alt="ERN">';
+function bar(on){const pts=[[0,'-3 HRS'],[45,'-1 HR'],[72,'-30 MIN'],[100,'KICK-OFF']];
+ return '<div class="bar">'+pts.map(([x,t],i)=>`<i class="${i===on?'on':''}" style="left:calc(${x}% - 22px)"></i><b style="left:${x}%;white-space:nowrap;transform:translateX(${x===100?'-85%':x===0?'-20%':'-40%'});${i===on?'color:#f5b52e':''}">${t}</b>`).join('')+'</div>'}
+function boots(){return `<svg width="560" height="300" viewBox="0 0 560 300"><g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M40 210 L40 120 Q40 90 70 90 L150 90 L170 150 Q260 160 300 200 L300 230 L40 230Z" fill="#f4efe6"/><path d="M60 230 v22 M110 230 v22 M170 230 v22 M240 230 v22 M290 230 v22" stroke="#0c1828" stroke-width="14"/>
+<path d="M260 230 L260 140 Q260 110 290 110 L370 110 L390 170 Q480 180 520 220 L520 250 L260 250Z" fill="#1f7ae0"/><path d="M280 250 v22 M330 250 v22 M390 250 v22 M460 250 v22 M510 250 v22" stroke="#0c1828" stroke-width="14"/>
+<path d="M80 110 L140 110 M86 128 L146 128 M300 130 L360 130 M306 148 L366 148" stroke="#0c1828" stroke-width="8"/></g></svg>`}
+const S={
+1:`${logo}<div class="eyebrow" style="margin-top:150px">MATCH DAY</div>
+ <div class="big" style="margin-top:20px">WHAT TO EAT<br>BEFORE A<br><span class="gold">SUNDAY MATCH</span></div>
+ <div style="margin-top:40px">${boots()}</div>
+ <div class="serif" style="font-size:54px;margin-top:10px;color:#c3cbd6">The clock that keeps your legs<br>for the <em style="color:#6fb2ff">last 15 minutes.</em></div>
+ <div class="n">SWIPE &rarr;</div>`,
+2:`${logo}${bar(0)}<div style="margin-top:290px" class="eyebrow">3 HOURS BEFORE KICK-OFF</div>
+ <div class="big" style="font-size:118px;margin-top:16px">YOUR LAST<br>PROPER MEAL</div>
+ <div class="card" style="margin-top:44px;padding:40px 52px"><div class="serif" style="font-size:52px">Plain, and something you've eaten before training:</div>
+ <div style="font-weight:700;font-size:58px;line-height:1.3;margin-top:24px;color:#f5b52e">porridge<br>plain bagels<br>white rice<br>a banana with peanut butter</div></div>
+ <div class="n">2 / 5</div>`,
+3:`${logo}${bar(1)}<div style="margin-top:290px" class="eyebrow">THE LAST HOUR</div>
+ <div class="big" style="font-size:130px;margin-top:16px">SIPS<br>ONLY</div>
+ <div class="card" style="margin-top:56px"><div class="serif" style="font-size:60px">Anything you gulp now just <em style="color:#ff8a80">sloshes around</em> in the warm-up.</div></div>
+ <div class="n">3 / 5</div>`,
+4:`${logo}${bar(2)}<div style="margin-top:290px" class="eyebrow">30 MINUTES BEFORE</div>
+ <div class="big" style="font-size:130px;margin-top:16px">SMALL, SOLID,<br><span class="gold">A BIT OF SALT</span></div>
+ <div class="card" style="margin-top:56px"><div class="serif" style="font-size:60px">Something small and solid with a bit of salt in it. Then go and warm up.</div></div>
+ <div class="n">4 / 5</div>`,
+5:`${logo}<div class="eyebrow" style="margin-top:150px">SAVE THIS</div>
+ <div class="big" style="font-size:120px;margin-top:16px">THE MATCH-DAY<br>CLOCK</div>
+ <div class="card" style="margin-top:50px;display:flex;flex-direction:column;gap:34px">
+ ${[['-3 HRS','Last proper meal, plain'],['-1 HR','Sips of water only'],['-30 MIN','Small, solid, a bit of salt']].map(([a,b])=>`<div class="clock"><div class="dot"></div><div style="font-weight:800;font-size:56px;width:230px;color:#f5b52e">${a}</div><div style="font-weight:700;font-size:52px">${b}</div></div>`).join('')}
+ </div>
+ <div style="margin-top:56px;background:#1f7ae0;border-radius:24px;padding:34px 44px;font-weight:800;font-size:50px;letter-spacing:1px">Want it built around your kick-off time?<br><span style="color:#f5b52e">Comment MATCH</span></div>
+ <div class="n">5 / 5</div>`};
+window.render=n=>{document.getElementById('s').innerHTML=S[n]};render(1);
+</script></body></html>

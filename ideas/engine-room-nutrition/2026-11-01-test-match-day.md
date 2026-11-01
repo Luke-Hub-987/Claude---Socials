@@ -9,7 +9,7 @@ basis: Luke 31 Oct (80% safe, 20% broad tests, "maybe into the other sports... t
 
 ## What it tests
 Will people who play a team sport stop for us, and do they want a
-match-day plan? The bar's exact slot is the 30 minutes before throw-in.
+match-day plan? The bar's exact slot is the 30 minutes before kick-off.
 Judged on non-follower skip, shares and the number of "MATCH" comments.
 It goes out as a trial reel only, so followers who come for marathons
 never see it unless it wins.
@@ -28,7 +28,7 @@ team branding).
 
 "A lot of players eat nothing for hours, then grab something sweet in the car park. Here's the clock that fixes it."
 
-"3 hours before throw-in, have your last proper meal. Keep it plain, something you've eaten before training: porridge, plain bagels, white rice or a banana with peanut butter."
+"3 hours before kick-off, have your last proper meal. Keep it plain, something you've eaten before training: porridge, plain bagels, white rice or a banana with peanut butter."
 
 "In the last hour, only sips of water. Anything you gulp now just sloshes around in the warm-up."
 
@@ -59,7 +59,7 @@ check.py: 0 flags. Changed: "probably started at breakfast, not in the second ha
   never see it unless it wins. And a comment count is the cheapest honest
   way to learn whether the plan is worth building.
 - **Expansionist:** Every Sunday is a match day for thousands of Irish
-  players, and the 30 minutes before throw-in is exactly where the bar fits.
+  players, and the 30 minutes before kick-off is exactly where the bar fits.
 - **Outsider:** "I play Sunday football. I eat a sausage roll at 11. I'd
   watch this."
 - **Executor:** Film it in the car after the main post, 50 seconds, post as
