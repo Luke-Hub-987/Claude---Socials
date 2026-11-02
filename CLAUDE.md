@@ -196,3 +196,11 @@ https://engineroomnutrition.com/#get-plan; bar waitlist
 https://engineroomnutrition.com/pages/the-bar#join.** B3 waits on the batch
 number, failures and a photo. Review B4 dates by 28 Dec 2026. Next:
 Flow 2 via Klaviyo form fields (race, race date, goal time).
+
+Race-eve campaign review (2 Nov): `ideas/2026-11-02-race-eve-campaign-review.md`.
+75.6% open (366 openers, 559 opens), clicks 0.4% (mailto). 16 reply
+threads (9 finish times). Key finding: the 4:05 runner followed the slow
+first 10K, then surged 12-16K to win it back and broke at 34K. Next
+campaign: spring block start (B); next video and December email: "Behind
+at 10K? Don't win it back" (A). Two of Luke's personal replies contradict
+the brand numbers: reply template offered.
