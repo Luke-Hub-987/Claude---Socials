@@ -212,3 +212,6 @@ time" about 3 per 100) and about 97 hand-written plans. Verdict: fix reply
 handling first (answer bank from brand numbers, Jamie takes half the
 inbox), then the spring splits campaign on Tue 10 Nov. Mailto buttons
 work. Humaniser skill added (`.claude/skills/humaniser`).
+Spring splits campaign (send Tue 10 Nov): `ideas/engine-room-nutrition/emails/2026-11-02-spring-splits-campaign.html`
+and `.md`. Subjects A "Your spring marathon splits" / B "Sub-4 in spring?
+Your splits inside". Ask the 4:05 runner's permission before sending.
