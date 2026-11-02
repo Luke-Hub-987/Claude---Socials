@@ -36,6 +36,10 @@ One caveat: a trial goes only to non-followers and a profile post goes to
 followers first, so the two columns aren't a perfect match. It's still the
 fairest comparison we've had.
 
+**Share it to the profile? No.** The original is already on the grid with
+184K, so a second copy adds nothing for followers. Leave it running as a
+trial. Reposts are there to reach new people. The 4K rule is for new reels.
+
 ## T3: the match-day carousel on Luke's personal TikTok
 244 views, 1.6 of 5 photos viewed on average, 2 likes, 1 save, 0 comments,
 0 MATCH, 0 follows.
