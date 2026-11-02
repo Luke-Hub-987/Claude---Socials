@@ -204,3 +204,11 @@ first 10K, then surged 12-16K to win it back and broke at 34K. Next
 campaign: spring block start (B); next video and December email: "Behind
 at 10K? Don't win it back" (A). Two of Luke's personal replies contradict
 the brand numbers: reply template offered.
+
+LLM Council on replies (2 Nov): `ideas/2026-11-02-llm-council-replies.md`.
+Gmail shows about 140 reply threads since 14 Oct (race-week "reply by
+Friday for your plan" about 7 per 100 delivered; race-eve "reply with your
+time" about 3 per 100) and about 97 hand-written plans. Verdict: fix reply
+handling first (answer bank from brand numbers, Jamie takes half the
+inbox), then the spring splits campaign on Tue 10 Nov. Mailto buttons
+work. Humaniser skill added (`.claude/skills/humaniser`).
