@@ -209,3 +209,26 @@ slow" to "even if your watch says you're crawling".
   because it echoes line one. All agree the stacks now match the winners.
 - **Chairman:** **Both scripts now run the full stack with the gap held to
   the payoff. Film them once the 5 claims are OK'd; trial reels only.**
+
+## Where everything goes (3 Nov)
+| What | Instagram | ERN TikTok | Personal TikTok | Profile |
+|---|---|---|---|---|
+| Match v2 | Trial reel from ERN, auto-share off, no collaborator | Fresh upload of the same file | No (the carousel ran there; never the same file on both TikToks) | Only if it beats 4K and 40% skip at 24 hours: share it from the trial |
+| Long run v2 | Trial reel from ERN, auto-share off | Fresh upload | No | Same rule |
+| The wall repost (T1) | Leave it running as a trial | No | No | No (the original is on the grid) |
+| Weekly repost: how hard at every 10K | Trial reel, original file, Fri or Sat | No (already on ERN TikTok) | No | No |
+Post the two new reels about 2 hours apart so each 24-hour read is clean.
+Stories: the daily question (stories plan) plus "Do you play a team sport?" poll on match day.
+
+## Captions
+"The last 15 minutes of a match get decided before you feel them. Marathon runners call it the wall, and in a match it's set up in 2 places."
+
+"Before kick-off, have a plain meal you've eaten before training 3 hours out, like porridge or a bagel with a banana, then something small and solid with a bit of salt 30 minutes before. At half-time, take 20 to 25 grams of carbs with your water, what's in one gel, even if you feel fresh. In the last 15 minutes, take shorter, quicker steps getting back into position."
+
+"Comment MATCH and we'll build a match-day plan around your kick-off time."
+
+"Say this out loud on your next long run: I am running a marathon today and I feel good. That's 10 words."
+
+"For the first 20 minutes, all 10 should come out in one breath in your normal voice, and if they don't, slow down until they do. If the run's longer than 90 minutes, take your first gel at 20 minutes like race day and say the sentence again at every gel. A bit breathy in the middle is fine. If you're down to 5 words before the last 20 minutes, slow down until the 10 come back."
+
+"Want a plan for your next race? Email us your race and goal time through the link in the bio and we'll send you one, free."
