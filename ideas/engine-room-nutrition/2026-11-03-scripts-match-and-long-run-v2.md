@@ -232,3 +232,74 @@ Stories: the daily question (stories plan) plus "Do you play a team sport?" poll
 "For the first 20 minutes, all 10 should come out in one breath in your normal voice, and if they don't, slow down until they do. If the run's longer than 90 minutes, take your first gel at 20 minutes like race day and say the sentence again at every gel. A bit breathy in the middle is fine. If you're down to 5 words before the last 20 minutes, slow down until the 10 come back."
 
 "Want a plan for your next race? Email us your race and goal time through the link in the bio and we'll send you one, free."
+
+---
+
+## Long run v3 (3 Nov, after the match trial's first numbers): replaces v2
+
+**The gap:** which sentence, and how can it tell me? Held by "the number
+you're listening for comes near the end"; half shut in stage 1 (the
+sentence), fully shut in the last stage (down to 5 words). The rehook
+reopens it before the last stage.
+
+**What changed, and why (from data; all free changes, none a proven cause, P174):**
+| Change | Data behind it |
+|---|---|
+| Line one from 33 words to 20 | The match reel kept 74% past 3 seconds (26.2% skip) and lost most of them by 0:15, while a 21-word line one was still landing. P62: about 10 words, one idea. This line was longer still |
+| Hook from 93 words to 80 | The CTA moves up about 4 seconds; the wall repost (24s watched) gets to its first stage fast |
+| The photo shows a training run (one runner, a quiet road, no bib, no crowd) | The match reel's photos didn't match the words; here the picture and the words are the same run |
+| Subtitles checked by eye, numbers as numerals, none before 0:03 | The match reel's subtitles read "60 minute mark" where the script said 80; Sunday's misheard the numbers |
+| Filmed in the car in a running top | The winners' set (hygiene, not a cause: the match reel was in the house in a hoodie, and it's not blamed for anything) |
+Kept: the title (copies how hard at every 10K, 49.2K), the stages, the
+gel line, the 5-word payoff, the front-door callback, the send line.
+
+**OST:** HOW HARD YOUR LONG RUN / SHOULD FEEL
+**Markers:** THE FIRST 20 MINUTES / THE MIDDLE / THE LAST 20 MINUTES
+**Teleprompter:** `2026-11-03-teleprompter-long-run-v3.txt`
+**Length:** 281 words, 1,414 characters, about 80 seconds. Line one 20 words, hook 80, CTA at about 0:44.
+
+"If you're training for a marathon, one sentence on your long run tells you when it's about to fall apart."
+
+"Get it wrong and you're walking the last 2K home with your watch still running and nothing left in your legs."
+
+"Get it right and you run the last K past your own front door, feeling like you could go again."
+
+"We call it the 10-word test, and the number you're listening for comes near the end, so save this."
+
+(Stages, CTA, rehook and send line unchanged from v2.)
+
+**Ledger changes from v2:** row 6 (photograph test) pass; row 9 hook 80
+words, pass, CTA at 0:44 is at the edge (stage 1 carries the sentence,
+which can't be cut); row 17 pass ("when it's about to fall apart" leaves
+which and how). Everything else as v2. Humanizer: check.py 0 flags.
+
+**Forecast (P171):** IG trial 2K to 4K at 24 hours (the wall repost did
+3.5K), skip 30% to 40%, saves 1% or more. TikTok about 1K.
+
+**Still needs Luke's OK:** down to 5 words before the last 20 minutes
+means slow down; over 90 minutes, first gel at 20 minutes and the
+sentence at every gel.
+
+### LLM Council (P150), on v3
+- **Contrarian:** We're changing a runners' script because of one
+  footballers' post with 183 viewers. And line one is now a promise, not
+  a paradox; our best skips came from paradoxes.
+- **Assumption-ripper:** Nothing here depends on the match post being
+  right. A shorter line one is P62 anyway, and v2's 33 words broke it. A
+  promise is the right shape when nothing odd happens to everyone (P149),
+  and "one sentence" is a concrete thing they can't guess, which is the
+  gap.
+- **Expansionist:** Every spring runner does a long run this weekend and
+  every weekend to April. If this holds people, the 10-word test becomes
+  the account's own tool, said in every long-run video.
+- **Outsider:** "One sentence? Which one? I'd stay for that."
+- **Executor:** Film it in the car in the ERN top, one runner on a quiet
+  road as the photo, subtitles checked. Post as an IG trial reel (auto-share
+  off) and a fresh ERN TikTok upload. Read at 24 hours against the wall
+  repost.
+- **Blind cross-review:** All agree the shorter line one is the change
+  that matters and that the rest are free. The Contrarian's paradox point
+  goes into the next title test, not this one: one change at a time.
+- **Chairman:** **Post v3: the same video with a 20-word line one, an
+  80-word hook, a training-run photo and checked subtitles. Judge it at
+  24 hours against the wall repost.**
