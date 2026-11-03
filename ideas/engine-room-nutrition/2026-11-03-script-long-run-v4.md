@@ -153,3 +153,24 @@ saves 1% or more. ERN TikTok about 1K.
   Outsider's question at once. No open objection.
 - **Chairman:** **Unanimous. Film v4 once Luke OKs the two training
   claims; trial reel only; judge at 24 hours against the wall repost.**
+
+## Cover (top photo), 3 Nov
+**The picture:** one runner alone on a quiet road in daylight, mid-run,
+looking down at their watch. It's line one as a photo (the watch against
+the runner), and looking down keeps the face hidden.
+**Must show:** one person; the watch on the wrist; a road or path; colour;
+daylight. **Must not show:** a crowd, a bib, a start or finish, a
+treadmill, a sunset silhouette, a readable number on the watch (ledger
+row 14), two photos side by side (row 5).
+**Search terms, best first (Google Images, Pinterest, then Unsplash or Pexels):**
+1. "runner looking at watch road"
+2. "runner checking watch mid run"
+3. "tired runner glancing at watch"
+4. "runner slowing down alone road" (fallback: the pain, no watch)
+**Crop:** 16:9, the wrist and the runner's bent head in the middle, checked
+at phone size. Licence: Google's "Creative Commons licences" filter, or the
+same picture on Unsplash or Pexels; credit in the caption's last line.
+**Council:** Contrarian: a watch glance is common stock, so pick one where
+the runner looks like they're struggling. Outsider: "his watch says he's
+fine and he looks wrecked: that's the video." Chairman: **one runner
+looking down at the watch on a quiet road; struggling beats posed.**
