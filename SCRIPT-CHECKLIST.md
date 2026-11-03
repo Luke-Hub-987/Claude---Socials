@@ -31,6 +31,7 @@ twice without being checked against the winners (P99).
 - [ ] **Forecast from base rates (P171):** the median of the last 3 to 5 reels at the same hour, stated, plus one named reason at most; forecast against actual in every review.
 - [ ] **No identifiable viewer (P172):** no subscriber's email on screen and no details that point to one runner, unless they asked to be featured with a story they're proud of.
 - [ ] **Trial reel first (P174):** every new reel goes out as a trial reel; only reels above 4K and under 40% skip at 24 hours go to the profile. Reviews say when it's the calendar; no cause from one post.
+- [ ] **The novelty test (P175, Luke 3 Nov):** name the belief the viewer holds now and what they'll learn that they didn't know. If a PE teacher, physio or parent would say the method, it fails. The topic is the fear; food goes inside it. A plan moved to a new audience needs a new belief for that audience.
 - [ ] **Burned subtitles proof-read by eye (P159 repeat, 1 Nov):** numbers right ("34K", not "30"), none before 0:03.
 - [ ] **Ledger row 23 (30 Oct): the worked example is the audience's goal** (sub-4, 3:45 to 4:00), or every common goal is in the caption and the last frame. A 3:23 plan got 0.4% saves.
 - [ ] **The CLAUDE.md failure ledger is in the script file as a table,

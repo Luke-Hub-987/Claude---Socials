@@ -144,6 +144,7 @@ a new cause becomes a new row in the same turn.**
 | 21 | **Maths in the audio** | Goal gone ("your A goal times 0.59"), 3:45 (the GPS explanation): viewers called it complicated (Luke, 27 Oct) | The answer as one number, never the sum; one worked example; the rest in the caption (P155) |
 | 22 | **A busy first second** | Last marathon 52.4% (a splits list, tiles, labels and a strip in the top band; a repeat of P147) | One big element, or Luke alone with the title, for the first 3 seconds; graphics from stage 1; checked at phone size (P159) |
 | 23 | **Someone else's numbers** | Email wall: a 3:23 plan, saves 0.4%, shares 0.1% (30 Oct) | The worked example is a goal most viewers have (3:45 to 4:00, sub-4), or the plan for every common goal is in the caption and the last frame |
+| 26 | **Advice they already know** | Match reel v1: our race-morning clock ported to football (Luke caught, 3 Nov, before filming); the carousel stopped at 1.6 of 5 photos (consistent, not proof) | Name the belief we overturn and what they learn that they didn't know; known advice is one short stage at most (P175). Rows 24 and 25 were withdrawn on 1 Nov |
 
 ## The rules that matter most (quick reference; the checklist has all)
 
@@ -227,7 +228,9 @@ a new cause becomes a new row in the same turn.**
 
 ## Current state (update this every session)
 
-**As of 2 November 2026.**
+**As of 3 November 2026.**
+
+**Match reel rebuilt (3 Nov, `ideas/engine-room-nutrition/2026-11-03-brief-match-v2.md`, P175, ledger row 26):** Luke: v1 had "nothing new or novel". Right: I'd ported our race-morning clock, advice every player knows. **Hold T2 v1, don't film it.** v2 brief: **WHERE YOUR LEGS / ACTUALLY GO IN A MATCH**; line one "If you play a match every week, the legs you lose in the last 15 minutes get decided while you're standing still."; the match wall (fitness gets the blame, the tank is the cause); stages before kick-off (one stage, the known bit), **half-time 20 to 25g even when you feel fine**, the last 15 shorter quicker steps; "Send this to the team WhatsApp". Waiting on Luke's yes and OK on 3 claims (late fade mostly carbs, half-time carbs help, 20-25g at half-time). T4 can film today if he OKs its claims.
 
 **Tests review (2 Nov, `ideas/2026-11-02-tests-review.md`):** **T1, the wall reposted as a trial reel: 3,537 views, skip 33.3%, 24s watched, 32 saves, 5 follows**, against Sunday's new reel (1.9K, 52.1%, 14s, 14 saves, 0 follows). So the ceiling is the calendar (even our 147K reel reaches about 3.5K new people now), but the video decides how many stay, save and follow. **T3, the match-day carousel on personal TikTok: 244 views, 1.6 of 5 photos, 0 MATCH**: weak, but it tested a new format and team sport at once on a runners' account; T2 (the match reel) is the real team-sport test. **New fixed slot: one winner repost as a trial reel every week** (next: how hard at every 10K, cramp, what marathon time you're in shape for; from 26 Nov 7 days, carb load, 24 hours for Valencia). **Tue 3 Nov: film T2 (match) and T4 (long run) back to back; both as IG trial reels + ERN TikTok; captions in the test plan; T4 waits on Luke's OK of 3 training claims.**
 

@@ -5545,6 +5545,26 @@ the cause."
   (in November: team-sport matches; Valencia runners from late November;
   spring marathoners from late December).
 
+## P175 — The novelty test: name the belief we overturn and what they'll learn (Luke, 3 Nov)
+
+Luke on the match reel: "There isn't anything really new or novel about
+these, so why would anyone listen? Have you looked behind the curtain on
+this in terms of psychology and past data?" I'd ported our race-morning
+clock to football: advice every player has heard from a PE teacher or a
+physio.
+
+**The rule:**
+- **Before a brief, write two lines:** the belief the viewer holds now, and
+  the thing they'll learn that they didn't know. If the method is what a PE
+  teacher, a club physio or a parent would say, it fails.
+- **The topic is the fear; food goes inside it** (P101 for every sport).
+  "What to eat before X" is a list; "where your legs actually go" is a fear
+  with a belief to overturn.
+- **A plan moved to a new audience needs a new belief to overturn for that
+  audience,** and the brief checks it against why our own winners won (the
+  31 Oct analysis) before a word of script.
+- Known advice can stay as one short stage; the new part gets the most time.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
