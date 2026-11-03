@@ -255,6 +255,7 @@ twice without being checked against the winners (P99).
 - [ ] **Briar's five beats, each its own paragraph:** gate + gap line /
       pain as a picture / dream as a picture / named concept that keeps the
       gap shut + save / stages, rehook, payoff.
+- [ ] **One sport per team-sport reel (3 Nov):** the gate, the photo, the match length and every minute said come from the same sport (soccer 90, rugby 80, GAA 60 to 70). The match reel mixed a soccer clock with rugby and GAA photos.
 - [ ] **Visceral (P177):** every beat is a scene from their own match or
       run with a real detail (what's in their hand, where they are). Known
       advice gets one line inside a scene.
