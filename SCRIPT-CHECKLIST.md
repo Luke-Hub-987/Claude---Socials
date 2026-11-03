@@ -247,6 +247,18 @@ twice without being checked against the winners (P99).
 
 ## 4. Hook stack (~15 to 18 seconds)
 
+- [ ] **THE GAP (P176, Luke 3 Nov, reminded "every single time"):** one
+      line at the top of every script: what the viewer is waiting to find
+      out, which line holds it shut (the named concept), which stage closes
+      it, and the rehook that reopens it before the last stage. Line one's
+      last words leave "how?" or "which?". No gap line, no script.
+- [ ] **Briar's five beats, each its own paragraph:** gate + gap line /
+      pain as a picture / dream as a picture / named concept that keeps the
+      gap shut + save / stages, rehook, payoff.
+- [ ] **Visceral (P177):** every beat is a scene from their own match or
+      run with a real detail (what's in their hand, where they are). Known
+      advice gets one line inside a scene.
+
 - [ ] **The order (P112):** gate plus an unexpected line the viewer has
       to resolve, then pain, then dream, then a named concept if true,
       then the save prompt. The stages close the loop.

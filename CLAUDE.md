@@ -67,6 +67,17 @@ every posted video.
   **Never send Luke's email address to any outside service**, including
   request headers.
 
+## THE GAP: every hook stack, every time (P176, Luke 3 Nov: "I have to remind you every single time")
+
+Briar's stack, copied from our winners: **(1) gate + line one that opens a
+gap** (its last words leave "how?" or "which?"), **(2) pain as a picture,
+(3) dream as a picture, (4) a named concept that keeps the gap shut + save,
+(5) stages close it a piece at a time, the rehook reopens it before the last
+stage, the last stage shuts it.** Every script file starts with a "The gap:"
+line (what they're waiting for, what holds it, what closes it). **Every beat
+is a scene they've lived, Ogilvy-specific (P177):** never "eat 3 hours
+before"; always the ball 5 yards away and your legs won't go.
+
 ## How to deliver in chat (Luke, 16 Oct: copy the old chat exactly, P122)
 
 - **No AI-writing signs (P125, P169): run the humanizer skill
@@ -229,6 +240,8 @@ a new cause becomes a new row in the same turn.**
 ## Current state (update this every session)
 
 **As of 3 November 2026.**
+
+**Scripts v2 (3 Nov, `ideas/engine-room-nutrition/2026-11-03-scripts-match-and-long-run-v2.md`, teleprompters `2026-11-03-teleprompter-match-v2.txt` and `-long-run-v2.txt`):** Luke: the hook stacks had no gap again, and the points weren't visual (P176, P177). Both rebuilt to the five beats. **Match:** WHERE YOUR LEGS / ACTUALLY GO IN A MATCH, 280 words; gap "decided while you're standing still", shut at half-time (20-25g). **Long run:** HOW HARD YOUR LONG RUN / SHOULD FEEL, 294 words; gap "one sentence... before they do", shut at 5 words in the last 20 minutes; dream "past your own front door". 5 claims wait on Luke's OK. Trial reels only.
 
 **Match reel rebuilt (3 Nov, `ideas/engine-room-nutrition/2026-11-03-brief-match-v2.md`, P175, ledger row 26):** Luke: v1 had "nothing new or novel". Right: I'd ported our race-morning clock, advice every player knows. **Hold T2 v1, don't film it.** v2 brief: **WHERE YOUR LEGS / ACTUALLY GO IN A MATCH**; line one "If you play a match every week, the legs you lose in the last 15 minutes get decided while you're standing still."; the match wall (fitness gets the blame, the tank is the cause); stages before kick-off (one stage, the known bit), **half-time 20 to 25g even when you feel fine**, the last 15 shorter quicker steps; "Send this to the team WhatsApp". Waiting on Luke's yes and OK on 3 claims (late fade mostly carbs, half-time carbs help, 20-25g at half-time). T4 can film today if he OKs its claims.
 

@@ -5565,6 +5565,43 @@ physio.
   31 Oct analysis) before a word of script.
 - Known advice can stay as one short stage; the new part gets the most time.
 
+## P176 — The gap: every hook stack leaves one, and it stays open to the payoff (Luke, 3 Nov)
+
+Luke: "You've consistently forgotten about the fact that we have to leave a
+gap in every single hook stack, and I have to remind you every single
+time." Long run v1 answered itself in line one ("the first half should
+feel almost too easy"); match v1 had no pain, dream or concept at all. The
+same miss as taper v2 (5 Oct), wall v1 (15 Oct) and enjoy v1 (24 Oct).
+
+**Briar's stack, exactly, with the gap written in (copy of the winners):**
+1. **Gate + line one that opens the gap:** a picture turned into a paradox
+   or promise; its last words leave "how?" or "which?" (without the wall:
+   "...and when that happens, the gels were never the problem").
+2. **Pain twisted, as a picture** ("walking the last 10K... with gels still
+   in your belt").
+3. **Dream, as a picture** ("you are the one passing them").
+4. **Named concept that keeps the gap shut**, then the save prompt ("runners
+   call the second one the hidden wall, so save this").
+5. **Stages close the gap a piece at a time; the rehook before the last
+   stage reopens it; the last stage shuts it.**
+
+**Before any script goes to Luke, write the gap as one line at the top of
+the script:** what the viewer is waiting to find out, which line holds it
+shut, and which stage closes it. No line, no script.
+
+## P177 — Visceral and specific: every point a picture from their own match or run (Luke, 3 Nov)
+
+Luke: "We don't want them to hear 'you have to eat 3 hours before a game'.
+They've heard that 10,000 times and they're numb to it. The actual visual
+of them in a match, on a long run... real visceral, real specific, as David
+Ogilvy would do it."
+
+**The rule:** every beat is a scene the viewer has lived, with its real
+details: the ball 5 yards away and your legs won't go; walking the last 2K
+home with the watch still running; a slice of orange at half-time. Known
+advice goes inside a scene and gets one line. Test each line: could they
+picture where they are and what's in their hand? If not, rewrite it.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
