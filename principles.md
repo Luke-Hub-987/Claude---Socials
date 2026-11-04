@@ -5660,6 +5660,12 @@ with real numbers only we have (our inbox, our plans, Luke's and Jamie's
 own races), with consent (P172). The viewer is still the hero (P158):
 the result is shown so they can copy it.
 
+**Amended 4 Nov (Luke):** evergreen is the pinnacle ("it always provides
+value, always gains search volume"). And the title is always the
+viewer's goal; someone else's result is the proof inside, never the
+title ("How a first-timer broke 3:30" becomes "How to break 4 hours in
+your first marathon", with the real result in line one).
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

@@ -171,3 +171,15 @@ with the date.
   first-timer under 3:30), one sub-4 miss asking where it went wrong, one
   cramp. Details stay in Luke's inbox, never here.
 - The email reel (30 Oct): 3 TikTok DMs; list past 600.
+
+## Luke's own race facts (4 Nov)
+- Dublin 2026: finished in 3:40-something (exact time to confirm); passed
+  a lot of runners wearing carbon-plated "super shoes" (Luke's own
+  observation, usable in a script).
+- His marathon improvement of about 1:15 isn't used: 3 years and ultras
+  between the two races, so not a clean comparison.
+- Nobody buys April race fuel in November: sell the bar from January.
+- Inbox (counts only, 4 Nov): about 200 plan forms answer "what I eat or
+  drink on long runs"; spring plan requests already in for Seville
+  (21 Feb), Rome (14 Mar), Barcelona, Athlone (11 Apr), Brighton (4 Apr)
+  and Belfast (2 May).
