@@ -5817,6 +5817,21 @@ the job it does and what it adds:
 - **Line one:** the gap (P186).
 If two layers say the same thing, change one.
 
+## P189 — The first-3-seconds gate: 4 lines, checked on the real frame before filming (Luke, 4 Nov)
+
+Luke on the 16 results trial (44.4% skip, 7s, 80% gone by 0:05): "How is it
+that we have all of this data, all the research on our ICP, and trial reels
+still underperform?" Because the rules weren't enforced where the scroll
+happens: the script passed a self-graded 29-row ledger and still opened
+on "We've sent...", three things to read, and our result as the title.
+
+**Before anything is filmed, the actual opening frame passes all 4:**
+1. The first words are the viewer (the gate, or "you"), never "we".
+2. One thing on screen for 3 seconds (Luke and the title, or one picture).
+3. The question lands inside 3 seconds (about 10 spoken words).
+4. The title is the viewer's goal, with a number; our proof goes inside.
+One fail and nothing is filmed. Luke sees the frame before he films.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

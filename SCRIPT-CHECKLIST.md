@@ -282,6 +282,10 @@ twice without being checked against the winners (P99).
       out, which line holds it shut (the named concept), which stage closes
       it, and the rehook that reopens it before the last stage. Line one's
       last words leave "how?" or "which?". No gap line, no script.
+- [ ] **FIRST-3-SECONDS GATE (P189), on the real frame, before filming:**
+      first words are the viewer, never "we"; one thing on screen; the
+      question inside about 10 words; the title is their goal with a number.
+      One fail, nothing filmed.
 - [ ] **Layers don't repeat (P188):** one line each for the title, the
       picture and line one; each adds something new. A cover that restates
       the title fails (the 16 / 10 / 2 scoreboard, Luke caught).

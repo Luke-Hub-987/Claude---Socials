@@ -171,6 +171,7 @@ a new cause becomes a new row in the same turn.**
 | 27 | **A general title: no number, no deadline, nothing new** | Long run 55.5% skip (4 Nov); where it goes wrong 52.1%; last marathon 52.4%; taper 43.1%; heavy legs 0.5% saves | Two of five in the title: number or race, deadline, constraint, proof, our own method (P178) |
 | 28 | **Numbers that read as failure** | 200 plans / 10 PBs read as 5% (Luke caught, 4 Nov, before filming) | Divide each number on screen by the biggest one next to it; the true base, said aloud (P187) |
 | 29 | **A picture that repeats the title** | 200 plans cover: the 16 / 10 / 2 scoreboard under the same numbers in the title (Luke caught, 4 Nov, before posting) | One line per layer (title, picture, line one); each says something new (P188) |
+| 30 | **Line one about us, not them** | 16 results trial: "We've sent over 200 free marathon plans" first, gate second, title = our result; 44.4% skip, 80% gone by 0:05 (4 Nov) | The first-3-seconds gate (P189): first words the viewer, one thing on screen, the question inside 10 words, the title their goal |
 
 ## The rules that matter most (quick reference; the checklist has all)
 
@@ -255,6 +256,8 @@ a new cause becomes a new row in the same turn.**
 ## Current state (update this every session)
 
 **As of 4 November 2026.**
+
+**16 results review (4 Nov, `ideas/2026-11-04-200-plans-review.md`, P189, ledger row 30):** IG trial at ~1h: 459 views, **skip 44.4%, 7s on 1:32**, 0 saves, 0 shares; TikTok 157, 6.9s. Reach fine for 1h; **80% gone by 0:05**. My misses: line one opened on "we" with the gate second (P158), three things to read in the first second (row 22, repeat), the title was our result not their goal (P181). **Fix: the 4-line first-3-seconds gate on the real frame before filming. Next: refilm the first 15s only (car, running top) as SAY THESE 10 WORDS / IN YOUR NEXT MARATHON, line one "If you've got a marathon coming up, there are 10 words to say to yourself from the start line to 40K.", recut with the filmed body, new trial reel; read both at 24h.**
 
 **200 plans cover v2 (4 Nov, P188, ledger row 29):** Luke: the scoreboard cover just repeats the title. Now **one real message from a plan user (beat her own plan by about 10 minutes), cropped to that one line, big, name and photo hidden; needs her OK.** The words stay in Luke's phone, not the repo. Title = the score, picture = one runner's own proof, line one = the 10-word gap. Fallback: a real licensed photo of one runner glancing at their watch late in a race.
 
