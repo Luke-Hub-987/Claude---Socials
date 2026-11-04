@@ -5832,6 +5832,21 @@ on "We've sent...", three things to read, and our result as the title.
 4. The title is the viewer's goal, with a number; our proof goes inside.
 One fail and nothing is filmed. Luke sees the frame before he films.
 
+## P190 — Catch it before, never diagnose it after; no confidence without a gate (Luke, 4 Nov)
+
+Luke: "You were so confident this would do well and then you self-diagnosed
+and said you didn't do xyz in the review. It's completely backwards... a
+common theme, I have to correct you each time." Every fault in the 16
+results review was a rule we already had. 186 principles and 151 checklist
+lines, some contradicting each other (three live gate wordings), graded by
+me, is not a gate.
+
+**The rule:** a script is only delivered with a pass from one short gate
+(distilled from every principle, contradictions settled by Luke), run by a
+checker script and an independent reviewer, never by me alone. Forecasts
+are base-rate ranges, never "confident". A review that finds a rule broken
+names the gate test that should have caught it and fixes the test.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

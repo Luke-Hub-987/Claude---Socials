@@ -282,6 +282,9 @@ twice without being checked against the winners (P99).
       out, which line holds it shut (the named concept), which stage closes
       it, and the rehook that reopens it before the last stage. Line one's
       last words leave "how?" or "which?". No gap line, no script.
+- [ ] **P190: no script goes to Luke without the gate pass** (checker
+      script + independent reviewer, not self-graded); forecasts as
+      base-rate ranges only.
 - [ ] **FIRST-3-SECONDS GATE (P189), on the real frame, before filming:**
       first words are the viewer, never "we"; one thing on screen; the
       question inside about 10 words; the title is their goal with a number.

@@ -257,6 +257,8 @@ a new cause becomes a new row in the same turn.**
 
 **As of 4 November 2026.**
 
+**P190 (4 Nov, Luke: "confident, then self-diagnosed: completely backwards"):** proposed system, waiting on Luke's yes: one gate file of ~30 tests distilled from all 186 principles (contradictions settled by Luke), a checker script wired as a hook so a failing script can't be committed, an independent reviewer agent for the judgement tests, the opening frame mocked up at phone size before filming, forecasts as ranges. New scripts paused until it exists.
+
 **16 results review (4 Nov, `ideas/2026-11-04-200-plans-review.md`, P189, ledger row 30):** IG trial at ~1h: 459 views, **skip 44.4%, 7s on 1:32**, 0 saves, 0 shares; TikTok 157, 6.9s. Reach fine for 1h; **80% gone by 0:05**. My misses: line one opened on "we" with the gate second (P158), three things to read in the first second (row 22, repeat), the title was our result not their goal (P181). **Fix: the 4-line first-3-seconds gate on the real frame before filming. Next: refilm the first 15s only (car, running top) as SAY THESE 10 WORDS / IN YOUR NEXT MARATHON, line one "If you've got a marathon coming up, there are 10 words to say to yourself from the start line to 40K.", recut with the filmed body, new trial reel; read both at 24h.**
 
 **200 plans cover v2 (4 Nov, P188, ledger row 29):** Luke: the scoreboard cover just repeats the title. Now **one real message from a plan user (beat her own plan by about 10 minutes), cropped to that one line, big, name and photo hidden; needs her OK.** The words stay in Luke's phone, not the repo. Title = the score, picture = one runner's own proof, line one = the 10-word gap. Fallback: a real licensed photo of one runner glancing at their watch late in a race.
