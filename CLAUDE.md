@@ -242,6 +242,8 @@ a new cause becomes a new row in the same turn.**
 
 **As of 4 November 2026.**
 
+**Script ready (4 Nov, `ideas/engine-room-nutrition/2026-11-04-script-200-plans.md`, teleprompter `2026-11-04-teleprompter-200-plans.txt`):** Briar's pick: **200 MARATHON PLANS. / 10 PBs, 2 MISSES**; markers THE START / THE GEL CLOCK / THE SENTENCE / THE 2 THAT MISSED; 305 words, hook 86, CTA "you'll be runner 201" at 0:37. Format: IG trial reel from ERN, ERN TikTok regular post, nothing on personal TikTok, stories results series, frame one a 200/10/2 scoreboard. Needs Luke: confirm the 10, the one runner's OK, the last-stage claim.
+
 **Briar pass, uncomfortably specific (4 Nov, P185):** 200 plans sent (Luke). Titles now: **200 MARATHON PLANS. / [10] PBs, 2 MISSES (lead; Luke to confirm the PB count); SHE PLANNED 4:30. / SHE RAN 4:20:51 (her OK, name hidden); £250 SHOES FOR A / 4-HOUR MARATHON? (Black Friday, price to check; Luke's 3:44 in line one).**
 
 **CCN pass (4 Nov, P184, end of `ideas/2026-11-04-results-evidence-and-ideas.md`):** every title gets a core/casual/new row in the audience's own words. Titles now: **WE GAVE 200 RUNNERS / A FREE MARATHON PLAN; SHE RAN 10 MINUTES / FASTER THAN SHE THOUGHT; super shoes as an A/B: DO YOU ACTUALLY NEED / SUPER SHOES? vs DO YOU ACTUALLY NEED / £250 RUNNING SHOES?** (price to check).
