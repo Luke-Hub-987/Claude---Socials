@@ -245,6 +245,10 @@ twice without being checked against the winners (P99).
       35.1% skip, against 39.3% and 46.7%. Real images only, ideally one
       person.
 
+- [ ] **CCN row in their words (P184, Luke 4 Nov):** why core, casual and
+      new each stop, and which of the audience's own phrases the title
+      uses. If new can't read it in one go, write the version they can and
+      A/B it as trial reels.
 - [ ] **No unchecked premise (P183, Luke 4 Nov):** every habit the title
       assumes (orange slices, 6am runs) comes from our data, Luke's
       research or Luke; no fact about Luke or Jamie unless they said it.

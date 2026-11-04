@@ -50,3 +50,34 @@ advice for a race months away.
   Brief for #1 next; #3 filmed for Black Friday.
 - **Chairman:** **WE GAVE [N] RUNNERS / A FREE MARATHON PLAN next, with
   the real N and the misses in it; super shoes for Black Friday.**
+
+---
+
+## CCN pass (Luke, 4 Nov: "core, casual and new would all want to stop... so specific, using phrases our core ICP would use")
+Core = marathoners (our ICP). Casual = runs a 5K or 10K, maybe a half one
+day. New = doesn't run. The words come from what runners actually wrote
+(counts from the results, no quotes): "PB" (most of the messages), "first
+marathon" (4), "faster than I thought" (2), "super shoes" (Luke; Reddit
+research).
+
+| # | OST | Core stops because | Casual stops because | New stops because | Their words used |
+|---|---|---|---|---|---|
+| 1 | **WE GAVE 200 RUNNERS / A FREE MARATHON PLAN** | It's the plan they could get, and they want to know if it works | An experiment with 200 people and a result | Same: "we gave 200 people X" is the experiment shape anyone watches | "free plan" (the form), "runners" |
+| 2 | **SHE RAN 10 MINUTES / FASTER THAN SHE THOUGHT** | A sub-4:30 runner, a goal they have | Everyone has a time they think is their limit | Same: beating what you thought you could do needs no running knowledge | "faster than I thought" (2 results) |
+| 3A | **DO YOU ACTUALLY NEED / SUPER SHOES?** | They've seen them on every start line | They've looked at them in the shop | Weak: "super shoes" means little to a non-runner | "super shoes" (Luke) |
+| 3B | **DO YOU ACTUALLY NEED / £250 RUNNING SHOES?** | Same shoes, priced | Same | **The price does the work: anyone understands £250** | the price (⚑ check current prices) |
+Recommendation: #3 as a trial-reel A/B, 3A against 3B: it tests whether
+the price pulls in casual and new viewers (P174, one change).
+
+## LLM Council on the CCN pass
+- **Contrarian:** "New" viewers don't buy marathon plans or carb bars, so
+  why chase them?
+- **Assumption-ripper:** Paddy's point is reach: a title that only core
+  understands caps the views at core. New and casual viewers are how the
+  reel reaches the core runners who haven't found us yet, and every
+  marathoner was casual once.
+- **Expansionist:** #2's line ("faster than she thought") is the one a
+  non-runner sends to a friend who runs.
+- **Outsider:** "£250 shoes, do you need them? Even I'd watch that."
+- **Chairman:** **Use their words in every title and test the price
+  version of super shoes against Luke's.**

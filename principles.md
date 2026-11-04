@@ -5705,6 +5705,21 @@ viewer's question: "do you need super shoes?"
   an inbox form, a comment), the way every approved line in
   `ost-formula.md` was built, never from my head.
 
+## P184 — The CCN pass, in their words: core, casual and new would all stop (Luke, 4 Nov)
+
+Luke: "The core, casual and new audiences, the point Paddy Galloway would
+have thought of... so specific, using phrases our core ICP would use...
+they'd all want to stop and see, driven by specificity, curiosity and
+the value they'd get." (P3, P45 applied, not just cited.)
+
+**The rule:** every title gets a CCN row in the file: why a marathoner
+(core) stops, why someone who runs a 5K or 10K (casual) stops, why a
+non-runner (new) stops, and which of the audience's own phrases it
+uses (from the results, forms, comments, DMs or the Reddit research).
+If new can't understand it in one read, find the version they can
+(a price, a time, an experiment), and test it against the core version
+as a trial-reel A/B.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

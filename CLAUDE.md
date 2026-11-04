@@ -242,6 +242,8 @@ a new cause becomes a new row in the same turn.**
 
 **As of 4 November 2026.**
 
+**CCN pass (4 Nov, P184, end of `ideas/2026-11-04-results-evidence-and-ideas.md`):** every title gets a core/casual/new row in the audience's own words. Titles now: **WE GAVE 200 RUNNERS / A FREE MARATHON PLAN; SHE RAN 10 MINUTES / FASTER THAN SHE THOUGHT; super shoes as an A/B: DO YOU ACTUALLY NEED / SUPER SHOES? vs DO YOU ACTUALLY NEED / £250 RUNNING SHOES?** (price to check).
+
 **Results evidence (4 Nov, `ideas/2026-11-04-results-evidence-and-ideas.md`, counts only):** ~200 plan requests, ~17 results back, most PBs or first-marathon goals, 2 misses; they finished faster than they started and beat their own expectations. Luke's Dublin: chip 3:44:13. **Next: WE GAVE [200] RUNNERS / A FREE MARATHON PLAN (real N, misses included); HOW SHE RAN 10 MINUTES / FASTER THAN HER PLAN (with her OK); DO YOU ACTUALLY NEED / SUPER SHOES? (Black Friday).**
 
 **Ideation v3 rejected (4 Nov, P183):** Luke scrolled past every one. Misses: orange slices (most teams don't have them: a false premise), 6am run (most run in the evening), **Connemara 60K (Luke didn't run it; brand files fixed: name no ultra until he lists them)**, "who super shoes are for" (his version: **DO YOU ACTUALLY NEED / SUPER SHOES?**). Valencia: later. New method: titles built only from what the audience actually wrote (inbox forms, comments, `research/reddit-running-research-manual.txt`) and from the scroll-stoppers Luke sends, every premise checked.
