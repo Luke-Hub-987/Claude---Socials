@@ -5720,6 +5720,18 @@ If new can't understand it in one read, find the version they can
 (a price, a time, an experiment), and test it against the core version
 as a trial-reel A/B.
 
+## P185 — Uncomfortably specific: the exact number, not the rounded one (Luke, 4 Nov)
+
+Luke: "We need to be almost uncomfortably specific in these on-screen
+texts... review them as Briar would."
+
+**The rule:** use the exact number the evidence gives: 4:20:51, not "10
+minutes faster"; "200 plans, 10 PBs, 2 misses", not "we gave runners a
+plan"; "£250 shoes", not "super shoes". Two exact numbers that don't fit
+together make the collision. Round only when the exact number isn't
+known, and flag it until it is. The misses go in: brutally real beats
+polished.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

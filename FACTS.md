@@ -185,7 +185,7 @@ with the date.
   and Belfast (2 May).
 
 ## Plan results after Dublin (counts only, 4 Nov)
-- About 200 plan requests since 1 Sep (Luke to confirm how many sent);
+- **About 200 plans sent** (Luke confirmed, 4 Nov);
   about 17 results back. Most PBs or first-marathon goals; 2 missed.
 - Patterns: finished faster than they started; 2 beat their own
   expectation by about 10 minutes; 4 mention the wind.

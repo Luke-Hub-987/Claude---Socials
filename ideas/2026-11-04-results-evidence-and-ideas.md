@@ -81,3 +81,40 @@ the price pulls in casual and new viewers (P174, one change).
 - **Outsider:** "£250 shoes, do you need them? Even I'd watch that."
 - **Chairman:** **Use their words in every title and test the price
   version of super shoes against Luke's.**
+
+---
+
+## Uncomfortably specific: the Briar pass (Luke, 4 Nov; 200 plans sent, confirmed)
+Briar's lens, from his swipe file and the hook-stack notes: exact numbers
+beat round ones ("$3K/mo to $40K/mo", "1000 videos with 100K+ views");
+the title is a curiosity bridge with enough context to read in one glance;
+identity first; brutally real beats polished; and for us, the title has
+to make the free plan the thing they want (emails).
+
+| # | Before | After | What Briar changes and why | Core / casual / new |
+|---|---|---|---|---|
+| 1 | WE GAVE 200 RUNNERS / A FREE MARATHON PLAN | **200 MARATHON PLANS. / [10] PBs, 2 MISSES** | Puts the result in the title like "$3K to $40K": exact counts, and the misses make it brutally real (and a second loop: what happened to the 2?). "Marathon" answers "plans for what?" | Core: the plan works, and I want mine. Casual: an experiment with a scoreboard. New: anyone reads a scoreboard |
+| 2 | SHE RAN 10 MINUTES / FASTER THAN SHE THOUGHT | **SHE PLANNED 4:30. / SHE RAN 4:20:51** | An exact time beats "10 minutes"; "planned" is her own word. Two numbers that don't fit is the collision (P87). The how (slower start, faster every 5K after halfway) is the video | Core: sub-4:30 is their goal. Casual: beating your own plan. New: two numbers, one gap |
+| 3 | DO YOU ACTUALLY NEED / SUPER SHOES? | **£250 SHOES FOR A / 4-HOUR MARATHON?** | A price and a goal time instead of a label. "4-hour marathon" is the most common goal, in their words. Luke's 3:44, passing people in them, is line one | Core: the shoe they've been eyeing. Casual: the price. New: £250 for shoes? |
+⚑ [10] = PBs plus first marathons in the results Luke sent; Luke to
+confirm the count. ⚑ £250: check current prices (about £200 to £280).
+⚑ #2 only with her OK, name hidden; her official splits are the frame.
+Each has the plan as the payoff, so the CTA is the natural next step.
+
+## LLM Council
+- **Contrarian:** "[10] PBs, 2 misses" gives the result away (row 1), and
+  #2 is one stranger's race.
+- **Assumption-ripper:** It gives away the score, not the method. Briar's
+  titles do the same ("$3K to $40K") and the gap is "how". #2's goal is
+  sub-4:30, the goal most of our viewers have, so it isn't row 23.
+- **Expansionist:** #1 can be redone after every big race with a bigger
+  N; it becomes the account's scoreboard.
+- **Outsider:** "200 plans, 10 PBs, 2 misses. What happened to the 2? And
+  what did the 10 do? I'm watching."
+- **Executor:** Luke confirms the PB count and asks her for her OK. Brief
+  #1 now; #3 filmed for Black Friday with the price checked.
+- **Blind cross-review:** All agree the exact numbers are the change that
+  matters; the misses stay in.
+- **Chairman:** **Lead with 200 MARATHON PLANS. / [10] PBs, 2 MISSES. Then
+  SHE PLANNED 4:30. / SHE RAN 4:20:51 with her OK, and £250 SHOES FOR A /
+  4-HOUR MARATHON? for Black Friday.**

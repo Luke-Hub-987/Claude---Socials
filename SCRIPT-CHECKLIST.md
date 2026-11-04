@@ -245,6 +245,9 @@ twice without being checked against the winners (P99).
       35.1% skip, against 39.3% and 46.7%. Real images only, ideally one
       person.
 
+- [ ] **Uncomfortably specific (P185, Luke 4 Nov):** the exact number from the
+      evidence (a finish time to the second, a real count, a real price),
+      never a rounded or vague version; the misses shown too.
 - [ ] **CCN row in their words (P184, Luke 4 Nov):** why core, casual and
       new each stop, and which of the audience's own phrases the title
       uses. If new can't read it in one go, write the version they can and
