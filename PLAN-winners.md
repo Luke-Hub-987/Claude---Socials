@@ -52,6 +52,8 @@ weeks as the subject (4.4K to 5.3K).
 
 ## The gate: a topic is only scripted if it passes all five
 
+> **[C8, pending Luke] Superseded by GATE.md G5 to G7 (4 Nov). Kept as the record.**
+
 1. **It is a sibling of a top-8 video**: same formula letter, same
    title shape, same structure.
 2. **The subject is a race moment or a race problem felt in the legs

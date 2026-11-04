@@ -1,0 +1,223 @@
+---
+type: archive
+generated_at: 2026-11-04
+note: Moved out of CLAUDE.md on 4 Nov when GATE.md went live (P190). Nothing here is deleted; it is the history. Where it disagrees with GATE.md, GATE.md wins (see gate/contradictions.md).
+---
+
+# State archive
+
+# Part 1: the quick reference as it stood on 4 Nov (superseded by GATE.md)
+
+### The rules that matter most (quick reference; the checklist has all)
+
+**Topic**
+- Race day, a race-pace decision, or a countdown to race day with an
+  action per stage. The weeks before the race as anything else fails
+  (taper 43.1% skip, heavy legs 0.5% saves; P117).
+- The race is the title; fuel goes inside. The gut is never the subject
+  (P101, P109). Never sort viewers into groups (P103).
+- New advice every video, never contradicting an earlier one (Luke,
+  10 Oct). Consistency points: 5-10 s/K slower for the first 10K; up to
+  a minute behind at halfway; about 60 to 75g of carbs an hour, said
+  as grams first (a 20-25g gel every 20 minutes with water; a 40g gel
+  every 30 to 40 minutes), never a bare gel count (P118); shorter,
+  quicker steps when tired; one K or one lamppost at a time; the
+  ten-word talk test ("I am running a marathon today and I feel good":
+  10 words in one breath, 10 breathy, 5, then 2-3 words).
+- One safe and one creative video in rotation (P111).
+
+**OST (title on screen)**
+- Plain words, "marathon" in it, 6 to 9 words, answer withheld. **Two lines of about 20 characters each, 40 at most; markers about 22 (P170).** Best
+  shapes: "Where [famous problem] actually starts" (the wall, 147K);
+  "What to do in/at [race moment]"; "How [to/hard] ... at every 10K".
+- No jargon in titles (taper, zones, heart rate). No secret statements
+  as titles (5.3K).
+- Only the title and stage markers on screen.
+
+**Hook stack (first 15 seconds)**
+- Gate: "If you are running a marathon in the next few weeks," (narrow
+  only when the topic is narrow: Dublin, sub-4).
+- Line one: run the P120 pre-flight (a tip is not a counter-position).
+  Something you can photograph, turned into a paradox, ending
+  on a reframe (31.9% to 34% skip with it; 38.1% without; 43.1% when
+  abstract). P112, P116. **The reframe only when the odd thing happens to
+  everyone anyway; a promise ends on the open loop instead (P149).** **New wording every video (P136): "that's your
+  race going to plan" is retired** ("and that's exactly how it should feel").
+- Then pain as a picture, the dream as a picture, a named concept that
+  belongs to nobody, the save prompt. The hook never contains the
+  answer; the stages close the loop and the rehook reopens it before
+  the last stage.
+
+**Body**
+- Four stages on one axis, ideally the race clock; each opens on the
+  unexpected, gives a reason, ends on an action with real numbers.
+- ~250 to 300 words, about 1:20 to 1:35. 1:48 lost watch share.
+
+**Never**
+- Statistics, study or research language, or named people in the audio
+  (P105, P107, P113). No medication. No central governor or brain
+  governor. No em dashes, no "not X, it is Y", no staccato fragments,
+  no mockery, no dated audio, no lines with a second (e.g. sexual)
+  reading (P114).
+- No claims Luke has not made about himself. No Dublin content on the
+  personal account (his Dublin race is a surprise).
+
+**Cover**
+- One real image, colour, present day, the hook as a picture, a new
+  picture every time (a repeated splits graphic pushed skip to 38.1%).
+- Best: the course map (20.6%), a person with the problem (25.5%),
+  Luke's own real data screenshot. Never crowds, products, food,
+  winners, vintage, black and white, or faces and name bibs. Free
+  licence (Wikimedia, Flickr CC, Openverse, Unsplash, Pexels; never
+  Pinterest); credit in the caption's last line.
+
+- **Luke, 14 Oct: stop recommending the old Creative Commons race photos
+  (the 2011 Eugene set and similar); he finds them poor.** Give him
+  specific search terms for Google Images and Pinterest, ranked by what
+  the picture must show, and he picks. Remind him in one line to check
+  the licence (Google's "Creative Commons licences" filter, or the same
+  image on Unsplash or Pexels).
+
+**CTA**
+- **A third of the way in, then back to the video (P128).**
+- **Attribution (P154):** sign-ups per day against posting days; never add a step to the sign-up (Luke, 27 Oct). No subscriber data in the repo.
+- One sentence. Since 14 Oct: the **free personalised plan**: "email us
+  your race and goal time through the link in the bio". Also in the
+  caption and pinned comment. Track emails per video. Ask consent
+  before adding anyone to a launch list.
+
+**Captions**: Luke wants prose paragraphs, no bullet points.
+
+
+# Part 2: "Current state" entries up to 4 Nov
+
+### Current state, as it stood on 4 Nov
+
+**As of 4 November 2026.**
+
+**P190 (4 Nov, Luke: "confident, then self-diagnosed: completely backwards"):** proposed system, waiting on Luke's yes: one gate file of ~30 tests distilled from all 186 principles (contradictions settled by Luke), a checker script wired as a hook so a failing script can't be committed, an independent reviewer agent for the judgement tests, the opening frame mocked up at phone size before filming, forecasts as ranges. New scripts paused until it exists.
+
+**16 results review (4 Nov, `ideas/2026-11-04-200-plans-review.md`, P189, ledger row 30):** IG trial at ~1h: 459 views, **skip 44.4%, 7s on 1:32**, 0 saves, 0 shares; TikTok 157, 6.9s. Reach fine for 1h; **80% gone by 0:05**. My misses: line one opened on "we" with the gate second (P158), three things to read in the first second (row 22, repeat), the title was our result not their goal (P181). **Fix: the 4-line first-3-seconds gate on the real frame before filming. Next: refilm the first 15s only (car, running top) as SAY THESE 10 WORDS / IN YOUR NEXT MARATHON, line one "If you've got a marathon coming up, there are 10 words to say to yourself from the start line to 40K.", recut with the filmed body, new trial reel; read both at 24h.**
+
+**200 plans cover v2 (4 Nov, P188, ledger row 29):** Luke: the scoreboard cover just repeats the title. Now **one real message from a plan user (beat her own plan by about 10 minutes), cropped to that one line, big, name and photo hidden; needs her OK.** The words stay in Luke's phone, not the repo. Title = the score, picture = one runner's own proof, line one = the 10-word gap. Fallback: a real licensed photo of one runner glancing at their watch late in a race.
+
+**200 plans v4, ready to film (4 Nov, same files):** counted from Luke's screenshots: 14 runners + 2 inbox misses = **16 results, 10 PBs (4 first marathons), 2 misses**. Title **16 MARATHON RESULTS. / 10 PBs, 2 MISSES**; the 10-words runner ran a sub-4 PB (stage 3 ends on it); one ran the same time for both halves into the wind (stage 1). 326 words, 1,628 characters, hook 94, CTA 0:39. Only the stage 4 last line waits on Luke's OK. Frame one: 16 / 10 / 2.
+
+**200 plans v3 (4 Nov, P187, same files):** Luke: "200 sent, only 10 PBs" reads as 5%. Title now **17 MARATHON RESULTS. / [15] HIT THEIR GOAL**; 200 only in line one as the offer; audio "17 have raced and emailed back, 15 hit their goal". 319 words, hook 95. Needs Luke: the real 17 and 15. Ledger row 28.
+
+**200 plans v2 (4 Nov, P186, same files):** Luke: "get it wrong / get it right" in every script, and still no gap in line one (both repeats, my miss). New line one: "We've sent 200 runners a free marathon plan, and one said the same 10 words on repeat from the start line to 40K." (gap: what words? shut at stage 3, THE 10 WORDS). Pain = what's riding on it + the cruel timing (4 months on one morning, find out at 32K as the 4-hour flag pulls away); dream = a split at 40K quicker than your first. 317 words, hook 95, CTA 0:38. check.py now flags the template; the Valencia brief's pain and dream rewritten.
+
+**Script ready (4 Nov, `ideas/engine-room-nutrition/2026-11-04-script-200-plans.md`, teleprompter `2026-11-04-teleprompter-200-plans.txt`):** Briar's pick, title now **16 MARATHON RESULTS. / 10 PBs, 2 MISSES** (v4); markers THE START / THE GEL CLOCK / THE 10 WORDS / THE 2 THAT MISSED; v2 317 words, hook 95, CTA "you'll be runner 201" at 0:37. Format: IG trial reel from ERN, ERN TikTok regular post, nothing on personal TikTok, stories results series, frame one a 16/10/2 scoreboard. Needs Luke: the last-stage claim.
+
+**Briar pass, uncomfortably specific (4 Nov, P185):** 200 plans sent (Luke). Titles now: **200 MARATHON PLANS. / [10] PBs, 2 MISSES (lead; Luke to confirm the PB count); SHE PLANNED 4:30. / SHE RAN 4:20:51 (her OK, name hidden); £250 SHOES FOR A / 4-HOUR MARATHON? (Black Friday, price to check; Luke's 3:44 in line one).**
+
+**CCN pass (4 Nov, P184, end of `ideas/2026-11-04-results-evidence-and-ideas.md`):** every title gets a core/casual/new row in the audience's own words. Titles now: **WE GAVE 200 RUNNERS / A FREE MARATHON PLAN; SHE RAN 10 MINUTES / FASTER THAN SHE THOUGHT; super shoes as an A/B: DO YOU ACTUALLY NEED / SUPER SHOES? vs DO YOU ACTUALLY NEED / £250 RUNNING SHOES?** (price to check).
+
+**Results evidence (4 Nov, `ideas/2026-11-04-results-evidence-and-ideas.md`, counts only):** ~200 plan requests, ~17 results back, most PBs or first-marathon goals, 2 misses; they finished faster than they started and beat their own expectations. Luke's Dublin: chip 3:44:13. **Next: WE GAVE [200] RUNNERS / A FREE MARATHON PLAN (real N, misses included); HOW SHE RAN 10 MINUTES / FASTER THAN HER PLAN (with her OK); DO YOU ACTUALLY NEED / SUPER SHOES? (Black Friday).**
+
+**Ideation v3 rejected (4 Nov, P183):** Luke scrolled past every one. Misses: orange slices (most teams don't have them: a false premise), 6am run (most run in the evening), **Connemara 60K (Luke didn't run it; brand files fixed: name no ultra until he lists them)**, "who super shoes are for" (his version: **DO YOU ACTUALLY NEED / SUPER SHOES?**). Valencia: later. New method: titles built only from what the audience actually wrote (inbox forms, comments, `research/reddit-running-research-manual.txt`) and from the scroll-stoppers Luke sends, every premise checked.
+
+**Ideation v3 (4 Nov, `ideas/2026-11-04-ideation-v3.md`, P182):** Luke: not creative or specific, no matches, the stitch fails "in what?", first sub-4 has no near race; read every principle. Every title now goes through the gate table (in what / photograph / now / their goal / collision / new / cost of scrolling / not a gimmick); fails are cut. **Passing: WHO SUPER SHOES / ARE ACTUALLY FOR; WHAT ORANGE SLICES / DO AT HALF-TIME (football, every weekend); WHY YOU GET A STITCH / 20 MINUTES INTO A RUN; WHAT TO EAT BEFORE / A 6AM RUN (P44, our 30-minute window); WHAT I ATE RUNNING / 60K IN CONNEMARA; WHERE THE VALENCIA / MARATHON IS LOST.** Next films: super shoes and Valencia.
+
+**Evergreen ideation (4 Nov, `ideas/2026-11-04-evergreen-ideation.md`):** Luke: evergreen is the pinnacle; the first-timer title fails outsiders (title = the viewer's goal, the result is proof inside, P181 amended); his 1:15 isn't clean; no April fuel sales in November. **Next films: WHO SUPER SHOES / ARE ACTUALLY FOR (Luke passed many in carbon shoes in Dublin at 3:40-something; Black Friday gate, post by 25 Nov) and WHERE THE VALENCIA / MARATHON IS LOST (post 15-22 Nov; need the full-size official map).** Evergreen on our data: WHAT 200 MARATHONERS / EAT ON A LONG RUN (tally of ~200 plan forms, counts only, on Luke's yes); HOW TO BREAK 4 HOURS / IN YOUR FIRST MARATHON (consent); repost WHAT MARATHON TIME / YOU'RE IN SHAPE FOR as this week's trial; course series per spring race in inbox order (Seville, Barcelona, Rome, Athlone, Brighton, Belfast); WHERE THE STITCH / ACTUALLY COMES FROM (science).
+
+**Valencia brief + P180/P181 (4 Nov):** Luke: yes to Valencia; "gone at 70 minutes" fails "in what?" (P180: name the thing in words people use); Black Friday good (now **BEFORE YOU BUY RUNNING / SHOES ON BLACK FRIDAY**, needs his view); parkrun parked; **evergreen needs a Briar-sized stake only we can show (P181): HOW A FIRST-TIMER / BROKE 3:30 (real inbox result, consent), FROM [4:2X] TO [3:5X] / IN ONE MARATHON, HOW I TOOK [X] MINUTES / OFF MY MARATHON, WHAT [N] RUNNERS / DID AT 30K.** Brief `ideas/engine-room-nutrition/2026-11-04-brief-valencia.md`: WHERE THE VALENCIA / MARATHON IS LOST; the quiet straight (34-38.5K) as the gap; old town 29-31K, the hidden rise 30-34K (from a 2025 course analysis: **check the official 2026 map before filming**); sub-4 paces from the 14 Oct script, 3:45 and 4:30 in the caption; bare map as frame one; post 15-22 Nov as a trial reel.
+
+**Deadline rule (4 Nov, P179, end of `ideas/2026-11-04-long-run-review-and-reset.md`):** Luke stopped only for Valencia: no marathon content without a race inside about 4 weeks ("studying for an exam 4 months away"). Ponds with a deadline now: Valencia (6 Dec), team-sport matches (every weekend, 26.2% skip), Saturday 5Ks, Black Friday (27 Nov). **Shortlist: WHERE THE VALENCIA / MARATHON IS LOST (brief next); WHY YOU'RE GONE / AT 70 MINUTES (soccer, after the match reel's 24h read); HOW TO TAKE 30 SECONDS / OFF YOUR PARKRUN (needs 5K science); BEFORE YOU SPEND £200 / ON BLACK FRIDAY (needs Luke's view).** Spring marathon content returns late January (Seville, Barcelona). All trial reels.
+
+**Long run review + title reset (4 Nov, `ideas/2026-11-04-long-run-review-and-reset.md`, P178, ledger row 27):** HOW HARD YOUR LONG RUN / SHOULD FEEL: IG trial 290 views, **skip 55.5% (worst ever)**, 10s, 2 saves; TikTok 394, 10.4s. Same room and day as the match reel (26.2%), so the title and topic did it. Luke: not specific, no time pressure, nothing new, wrong pond. **Every title now carries two of: a number or race, a deadline, a constraint, proof from our work, a method that's ours (Briar's swipe file as the model).** Ideas: **WHERE THE VALENCIA / MARATHON IS LOST (next, brief)**; A SUB-4 MARATHON / ON 3 RUNS A WEEK; YOUR SPRING MARATHON / IS DECIDED BY CHRISTMAS; [N] MARATHON PLANS. / ONE MISTAKE IN MOST; FROM [4:1X] TO [3:5X] / IN ONE MARATHON; WHERE MARATHONERS / LOSE [20] MINUTES; RANKING MARATHON / BREAKFASTS, S TO D; IF I HAD 16 WEEKS / TO RUN A SUB-4 MARATHON. Need from Luke: N plans, a subscriber result with consent, the 3-runs science, the minutes, breakfast placements.
+
+**Long run v4 (3 Nov, `ideas/engine-room-nutrition/2026-11-03-script-long-run-v4.md`, teleprompter `-v4.txt`; replaces v2 and v3):** Luke: update it so every council member agrees. Line one a paradox runners argue with ("your voice knows your long run is going wrong before your watch does"); CTA at 0:37; race day in every stage ("the race-day sentence", the race-day gel clock, 5 words = 20-30K on race day as the reason to slow down); **gel line fixed to FACTS (30g at 20 minutes, then every 30, with water; v2/v3 had a bare gel and 20-25g)**. 302 words, hook 79. Council unanimous. Two training claims still need Luke's OK.
+
+**Long run v3 (3 Nov, end of `ideas/engine-room-nutrition/2026-11-03-scripts-match-and-long-run-v2.md`, teleprompter `2026-11-03-teleprompter-long-run-v3.txt`):** after the match trial's numbers: line one 33 to 20 words ("If you're training for a marathon, one sentence on your long run tells you when it's about to fall apart."), hook 93 to 80, a training-run photo, subtitles checked, car and running top. 281 words. Forecast IG trial 2K to 4K at 24h, skip 30-40%. Two training claims still need Luke's OK.
+
+**Match trial at ~2h (3 Nov, `ideas/2026-11-03-match-trial-review.md`):** IG trial 242 views, **skip 26.2% (our lowest ever)**, 9s watched on 1:25, most gone by 0:15, 1 save, 0 shares, 0 MATCH; ERN TikTok 112, 6.1s, gone at 0:03. Too early for reach (read at 24h). The opening works; the words lose them from 0:03. Hypotheses (not causes, P174): the soccer clock ("85th minute") under rugby and GAA photos; a 21-word line one; "marathon" in the hook for footballers. If under 2K at 24h: rerun as one sport (Sunday league, 90-minute clock), a 10-word line one in players' words, a soccer photo, no "marathon" in the hook. Long run posts as planned.
+
+**Scripts v2 (3 Nov, `ideas/engine-room-nutrition/2026-11-03-scripts-match-and-long-run-v2.md`, teleprompters `2026-11-03-teleprompter-match-v2.txt` and `-long-run-v2.txt`):** Luke: the hook stacks had no gap again, and the points weren't visual (P176, P177). Both rebuilt to the five beats. **Match:** WHERE YOUR LEGS / ACTUALLY GO IN A MATCH, 280 words; gap "decided while you're standing still", shut at half-time (20-25g). **Long run:** HOW HARD YOUR LONG RUN / SHOULD FEEL, 294 words; gap "one sentence... before they do", shut at 5 words in the last 20 minutes; dream "past your own front door". 5 claims wait on Luke's OK. Trial reels only. **Where it goes (posting map + captions in the same file):** both new reels as IG trial reels from ERN (auto-share off, no collaborator) + fresh upload to ERN TikTok, 2 hours apart; nothing on personal TikTok; wall repost stays a trial; weekly repost Fri/Sat = how hard at every 10K as an IG trial only; profile only gets a trial that beats 4K and 40% skip at 24h.
+
+**Match reel rebuilt (3 Nov, `ideas/engine-room-nutrition/2026-11-03-brief-match-v2.md`, P175, ledger row 26):** Luke: v1 had "nothing new or novel". Right: I'd ported our race-morning clock, advice every player knows. **Hold T2 v1, don't film it.** v2 brief: **WHERE YOUR LEGS / ACTUALLY GO IN A MATCH**; line one "If you play a match every week, the legs you lose in the last 15 minutes get decided while you're standing still."; the match wall (fitness gets the blame, the tank is the cause); stages before kick-off (one stage, the known bit), **half-time 20 to 25g even when you feel fine**, the last 15 shorter quicker steps; "Send this to the team WhatsApp". Waiting on Luke's yes and OK on 3 claims (late fade mostly carbs, half-time carbs help, 20-25g at half-time). T4 can film today if he OKs its claims.
+
+**Tests review (2 Nov, `ideas/2026-11-02-tests-review.md`):** **T1, the wall reposted as a trial reel: 3,537 views, skip 33.3%, 24s watched, 32 saves, 5 follows**, against Sunday's new reel (1.9K, 52.1%, 14s, 14 saves, 0 follows). So the ceiling is the calendar (even our 147K reel reaches about 3.5K new people now), but the video decides how many stay, save and follow. **T3, the match-day carousel on personal TikTok: 244 views, 1.6 of 5 photos, 0 MATCH**: weak, but it tested a new format and team sport at once on a runners' account; T2 (the match reel) is the real team-sport test. **New fixed slot: one winner repost as a trial reel every week** (next: how hard at every 10K, cramp, what marathon time you're in shape for; from 26 Nov 7 days, carb load, 24 hours for Valencia). **Tue 3 Nov: film T2 (match) and T4 (long run) back to back; both as IG trial reels + ERN TikTok; captions in the test plan; T4 waits on Luke's OK of 3 training claims.**
+
+**First tests (2 Nov, `ideas/engine-room-nutrition/2026-11-02-test-plan.md`):** Instagram trials are video only; carousels are tested on TikTok photo mode. **T1** the wall reposted as an IG trial (the timing control, no filming); **T2** WHAT TO EAT BEFORE / A SUNDAY MATCH (IG trial + ERN TikTok; "kick-off" now); **T3** the match-day carousel, 5 slides 4:5 (`motion/carousels/match-day-*.png`), Luke's personal TikTok photo mode; **T4** HOW HARD YOUR LONG RUN / SHOULD FEEL (IG trial + ERN TikTok, 208 words, 3 training claims for Luke's OK). Read at 24h against T1; beat it = share to the profile; 10+ MATCH comments = build the match-day series.
+
+**Rethink (1 Nov, `ideas/2026-11-01-rethink-timing.md`, P174, Luke: "be honest whether it is timing or performance... not having us post flops"):** the drop is **mostly timing**. Up to 18 Oct almost every reel did 25K to 150K; from 20 Oct, 11 reels in a row across every format landed at about 2K to 6K at 5 hours, with skip anywhere from 33% to 52%. The calendar sets the ceiling; the edit moves a reel by a thousand or two under it. **Ledger rows 24 (gate) and 25 (photo) withdrawn:** single-post guesses, and I'd recommended the photo. **New way of working:** every new reel goes out as a **trial reel first**; only reels above 4K and under 40% skip at 24 hours are shared to the profile. **Reach effort goes where people compete every week: team sport (soccer and rugby in season; check GAA), led by the match test's numbers.** Marathon core: 2 profile posts a week from proven formats, judged on saves, DMs and sign-ups, 2K to 5K expected. Calendar: Valencia (6 Dec) race-week reposts as trial reels from 26 Nov; spring countdown from late December. Reviews: numbers against the base; no cause unless it repeats in 3+ posts or a trial-reel A/B.
+
+**Review 1 Nov (`ideas/2026-11-01-where-it-goes-wrong-review.md`): Where your marathon ACTUALLY goes wrong** at ~4h: **skip 52.1% (Higher), 1.9K IG (2.8K with FB), under typical; saves 0.9%, shares 0.1%**; TikTok 1.3K, 9.8s, most gone at 0:02, 11 saves. Forecast 3K to 5K and skip 33-38%: missed (I moved the base for 3 reasons, against P171). Causes: **the gate "this spring" (new ledger row 24; Luke's "a marathon or any race coming up" got 33.3% two days earlier)**, **a mood photo (row 25)**, burned subtitles misheard the numbers and ran from 0:00. The car, the top and the normal-case title didn't move skip: hygiene, not drivers (the 31 Oct analysis over-read them). **Wed 4: HOW HARD YOUR LONG RUN / SHOULD FEEL with a now-true gate, a photo of a runner struggling, subtitles proof-read; forecast 2.5K to 3.5K IG at 5h.** Need: the two trial reels' numbers, sign-ups 1 and 2 Nov.
+
+**Sunday 1 Nov (80/20, P173):** main post **Where your marathon / ACTUALLY goes wrong** (`ideas/engine-room-nutrition/2026-11-01-script-where-it-goes-wrong.md`, 313 words, 1,562 characters; car, ERN top, one runner on a downhill road (photo chosen: Lucas Favre, Unsplash, `mockups/where-it-goes-wrong-top-photo-16x9.jpg`, credit in the caption); sub-4 worked, 3:45 and 4:30 in the caption) as a collab; **trial reel 1:** the same edit with the title in all capitals (title-case test); **trial reel 2 (the 20% test):** WHAT TO EAT BEFORE / A SUNDAY MATCH (`2026-11-01-test-match-day.md`, 50 s, our race-morning clock for team sport, "comment MATCH" as the demand count). Stories: New York finishers, and "Do you play a team sport too?" poll. Wed 4: HOW HARD YOUR LONG RUN / SHOULD FEEL. Forecast: 3K to 5K IG at 5h. Next reviews `ideas/YYYY-MM-DD-where-it-goes-wrong-review.md`, `...-match-test-review.md`.
+
+**Message frame (4 Nov):** the 4:30 runner's one line ("I came in almost 10 minutes quicker than I had expected/planned!!") as a chat bubble on navy, 16:9 and 9:16, from her own pixels; sent in chat, not stored here (subscriber rule). Needs her OK before posting; no name, photo or certificate on it.
+
+**Results scoreboard frames (4 Nov):** `motion/scoreboard/` (16 / 10 / 2, frame one 16:9 and the 9:16 cover; recount by URL params). Open: Luke's own 3:44 is one of the 16.
+
+**Why the top reels won (31 Oct, `ideas/2026-10-31-why-our-top-reels-won.md`, from Luke's lifetime grid: the wall 184K, 7 days 151K, carb load 95K, hidden wall 87.9K, first 10 minutes 77.8K):** a famous fear or a countdown; a title that says what you believe is wrong ("where X actually starts", ACTUALLY, WITHOUT); the race 1 to 4 weeks away (they grew for weeks); **filmed in the car (median 44K vs 22K in the house), in a running top, a real photo of one person or thing on top; short normal-case titles with one word in capitals** (all-capitals median 29K vs 34K: test it with trial reels, don't switch yet). Plan: **Mon WHERE YOUR MARATHON / ACTUALLY GOES WRONG in the car (trial A normal case, B all caps); Wed HOW HARD YOUR LONG RUN / SHOULD FEEL (talk test, ready); weekend repost the wall.** Waiting on Luke's science: HOW TO ACTUALLY FUEL / A LONG RUN, WHAT TO DO 6 MONTHS / BEFORE A MARATHON, WHERE THE MARATHON STITCH / ACTUALLY STARTS. ~~Spring gate~~ (retired 1 Nov, ledger row 24: use "If you have a marathon or any race coming up,").
+
+**Review 30 Oct (`ideas/2026-10-30-email-wall-review.md`): THE PACER THAT ENDED / HIS MARATHON AT 30K** at ~5h: **skip 33.3% (Lower, our best since goal gone)** with a real email as frame one and the short title; **saves 0.4%, shares 0.1%** (a 3:23 plan few can use: new ledger row 23, my miss); 4.8K views; TikTok 1.2K, 3 DMs; list past 600. **Next (brief v2 `ideas/engine-room-nutrition/2026-10-30-brief-where-it-goes-wrong.md`, waiting on Luke's yes): Mon 2 WHERE YOUR MARATHON / ACTUALLY GOES WRONG** (Luke: anonymise, don't call anyone out, P172; no email on screen; said to "you"; the surge to win time back on the first downhill; sub-4 worked example, 3:45 and 4:30 in the caption; trial reels A and B first). **Forecasts from base rates (P171):** since Dublin, 2.6K to 3.4K IG at 4 to 5h; Monday 3K to 5K, saves 1% to 2%. 5:00 moves back.
+
+**Script ready (30 Oct): THE PACER THAT ENDED / HIS MARATHON AT 30K** (OST v2, P170; markers 0-10K: THE SLOWER FLAG / 10K TO HALF: GOAL PACE / HALF TO 30K: HOLD IT / 30K: WHERE IT ENDED) **Email frame anonymised (30 Oct): the one line as a 16:9 frame plus the redacted thread, sent in chat, not stored here; his plan must allow for a summer race in February.** (`ideas/engine-room-nutrition/2026-10-30-script-email-wall.md`, teleprompter, mock-up `mockups/email-wall-frames.png`). Real email (18 Oct, name kept out of the repo): goal 3:23, went with the 3:15 pacers, wall at 30K, 3:37, again in February. New advice: the 3:30 pacers as the brake for the first 10K. 329 words, 1,611 characters. Before posting: his OK, and Luke actually sends him the plan (no plan reply found in the thread). Forecast: first day 4K to 9K IG, skip under 40%, saves 2%+. Next review `ideas/YYYY-MM-DD-email-wall-review.md`. **Humanizer pass (30 Oct, P169):** 5 lines rewritten; now 335 words, 1,623 characters, hook 95 words; frame cuts 0:27, 0:51, 1:05, 1:16, 1:33. **Channels:** IG main post as a collab (not a trial), FB cross-post, ERN TikTok fresh upload; not on Luke's personal TikTok (duplicate rule); stories poll + plan link. **Top of screen:** the real Gmail line cropped big for 0:00 to 0:26, then 5 designed site-theme frames (prompt in the script file) at 0:26, 0:51, 1:04, 1:16, 1:32. **Never put a subscriber's name, address or email text in the repo or a mock-up (my miss on 30 Oct, caught before it was written).**
+
+**Full topic list (30 Oct, in chat only at Luke's request, P168):** sources re-read in full. Address stays the Irish/UK marathon runner; topics widen. Picks: **today A RUNNER EMAILED US AFTER / HITTING THE WALL AT 30K** (the inbox as a series; real email from the "3:15 pacers" runner, anonymised, Luke gets consent; frame one = the email's one line, big; brief sent, script on yes); WE'VE PLANNED [N] MARATHONS. / THIS MISTAKE IS IN MOST OF THEM (needs real N); the series taking one subscriber to their spring goal (volunteer via stories); YOUR SPRING MARATHON GETS DECIDED / BEFORE CHRISTMAS (science); RANKING THE SPRING MARATHONS / FOR A PERSONAL BEST (research); THE MARATHON SO HOT / THEY HAD TO STOP IT (verify Chicago 2007; repeatable "so X it Y" format); WHY SOME RUNS FEEL AWFUL / FOR NO REASON and pre-run fuel (science). Cut: carbs-an-hour (P124), zone 2 to TikTok only. Today also: the wall trial reel, 2 low-polish tests on Luke's personal TikTok (not getting faster; first marathon from scratch).
+
+**No hacks (30 Oct, P167):** Luke: "I don't want to become a running hacks channel, sloppy and gimmicky." Hacks, "like you're 10" and similar packaging are out (heel lock 1.1M sits on 1,684 followers: hack views don't convert). Keep the mechanism (one thing shown on a real object). Today's trial: the wall only. **Wed 4: WHY YOU'RE NOT GETTING ANY FASTER / AT RUNNING** (the talk test shown mid-run), Tue 3 trials A that title, B THE RUN THAT'S STOPPING YOU / GETTING ANY FASTER; brief Mon. Below, the hacks and heel-lock lines are superseded.
+
+**Trial reels (30 Oct, `ideas/engine-room-nutrition/2026-10-30-trial-reels-today.md`):** Luke's first. **HEEL LOCK has 1.1M on Luke's personal TikTok** (the hacks format, proven; gels meme 45.8K). Today on ERN Instagram, no filming, auto-share off: HEEL LOCK (original file, no TikTok watermark) and the wall reposted; optional the gels meme. Judge at 24h: share to profile if skip under 38%, watch over a quarter, shares 0.5%+. Trials can't be collabs (as far as we know): post from ERN. Personal TikTok = test bed for new formats, fresh takes only (never the same file on both TikToks). Personal TikTok bio says "Free fuel guide": change to "Free race plan + early bar access". Next: Tue 3 hacks A/B; Fri 6 not-faster title A/B.
+
+**Wider topics (30 Oct, `ideas/engine-room-nutrition/2026-10-30-interest-topics.md`, P166):** Luke: "very one track minded". Until spring races are 6 weeks out, Wed and the weekend trial are interest topics for any runner with a stake and a bridge to the plan or pre-run fuel (the bar's slot); Mon stays marathon goal time for emails; runners only (no GAA/gym on this account); trial reel first. Ready now: LEGAL RUNNING HACKS / THAT FEEL LIKE CHEATING (**Wed 4**, replaces start-too-fast), WHY YOU'RE NOT GETTING ANY FASTER / AT RUNNING vs HOW TO GET FASTER AT RUNNING, / EXPLAINED LIKE YOU'RE 10 (same script, title A/B, Fri 6). Waiting on Luke's science: fitness lost when you stop, what to eat before a morning run, pre-run snack tier list; also running-advice ranking, "we asked [N] runners" (real counts only), fastest 5K (needs 5K pacing in FACTS). Wrist video to Fri 13. Judge on Fri 13. Need: can the plan cover 5K/10K/half?
+
+**Creative strategy (30 Oct, `ideas/engine-room-nutrition/2026-10-30-creative-strategy.md`):** Luke dropped the 42.2K and next-goal topics ("who gives a fuck? nobody cares"): **P165, the "who cares" test before any score; timing never rescues a dull topic.** Through line: "the exact plan for your marathon, K by K, so it doesn't fall apart." Two locked formats plus one test a week (70/30): **Mon HOW TO PACE A [GOAL] MARATHON / AT EVERY 10K (emails; 5:00, 4:15, 3:15, 5:30); Wed WHAT TO DO WHEN [FEAR] / IN A MARATHON (reach); Fri the creative test; weekend an old winner reposted as a trial reel.** Tests in order: WHAT TO WRITE ON YOUR WRIST / BEFORE A MARATHON (Fri 6), the wall explained like you're 10 vs how to pass people at 30K (trial reels), ranking marathon mistakes by minutes (needs Luke's science), 3 things I wish I knew before my first marathon, ranking what runners eat (TikTok). Brand: tops as the on-camera uniform and the reward for a race result, never a merch post; sell in stories, a monthly Live and emails, never reels; proof stories from plan users. Pro list: the gap is the fuel-testing season (sell in January; is the race pack real?), comment-keyword auto-DM test for per-video attribution (one reel), a small paid test for cost per email, YouTube Shorts, a Strava club, collabs with run clubs. Need from Luke: race pack yes/no, does he write on his wrist, mistake minutes, ManyChat yes/no, sign-ups 29 and 30 Oct. **This week: Fri 30 the wall as a trial reel; Mon 2 5:00; Wed 4 WHAT TO DO IF YOU START / YOUR MARATHON TOO FAST; Fri 6 wrist.**
+
+Latest review: `ideas/2026-10-29-nyc-review.md` (NYC at ~4h: skip 43.2%, Lower than typical, the narrow-gate range; **saves 2.3% and shares 0.6% Higher**; 25s on 1:39; no CTA step at 0:42; reach below typical; no forecast given, my miss). Course videos are judged on saves, sends and emails, not reach. **Week plan 29 Oct (`ideas/engine-room-nutrition/2026-10-29-week-plan.md`): most sign-ups came on 24, 26 and 28 Oct, when runners were planning a race (race eve, the day after Dublin, the "next one" video), not on big-reach days; the CTA now speaks to the next race.** **Stories (29 Oct, `ideas/engine-room-nutrition/2026-10-29-stories-plan.md`): one question a day (Mon next race and goal, Tue title poll, Wed reel quiz, Thu what you eat before the start, Fri long run, Sat where it went wrong, Sun how it went); reply to every answer with the plan link; counts in `ideas/stories-log.md`.** **Spring (29 Oct): most say spring races, mostly Irish and UK. Order: 42.2K (Fri 30), next-race goal (moved up), gone out too fast (reach), 5:00, first-timer how hard (if Tuesday's poll says so), wind (science); course videos 2 to 4 weeks before each spring race (Seville first, late January). Stories: Mon which spring race, Tue first marathon?, Sun countdown sticker.** **Luke 29 Oct: no Dublin race reel (it's the podcast's).** Ideation `ideas/engine-room-nutrition/2026-10-29-ideation.md` (10 topics scored): **Fri 30 WHY YOUR MARATHON WAS / LONGER THAN 42.2K; Mon 2 5:00; Wed 4 WHAT TO DO WHEN YOU'VE GONE OUT / TOO FAST IN A MARATHON (reach, trial A/B Tue); Fri 6 race morning.** (Old: our Dublin race read with the 3 numbers (brief `ideas/engine-room-nutrition/2026-10-29-brief-dublin-numbers.md`: broad gate, Luke's splits as frame one, both runners' first 10K, first gel and the K it turned; title depends on the numbers; waiting on the numbers from Friday's podcast). Then Mon 2 Nov: 5:00 pacing. Next reach reel: a famous fear not yet covered (the wall family has 5). Next course video (Valencia): trial-reel A/B of frame one, bare map vs labelled (P159 vs P161). Need from Luke: sign-ups Thu 29 and Fri 30.
+
+Latest review: `ideas/2026-10-28-last-marathon-review.md` (posted to the profile at ~12:27pm, read at ~6h): **skip 52.4%, our worst** (a busy motion frame, a repeat of P147, plus a narrower gate than P153: both my miss); 23s on 1:26; **saves 1.8% and comments 0.3% Higher**; 4 follows IG, 5 TikTok; body flat at ~17%; the CTA step was small. Motion graphics stay in the body; the first 3 seconds are one big thing (P159). **Motion graphics off the main post (P160, Luke 28 Oct):** photo-top reels median about 29K, the 4 motion reels about 11K. Every reel uses the winners' 3 layers (a real picture on top, blue title then stage markers in the middle, Luke below, one line of subtitles), with a mock-up image of the frames (New York: `ideas/engine-room-nutrition/mockups/nyc-frames.png`). Motion only as a trial reel against it.
+
+**After the autumn season (`ideas/2026-10-28-off-season-plan.md`):** the season moves to December and spring; 5 pillars (race-day fears as the weekly reach reel, the viewer's before and after, goal times for emails, course breakdowns 2 to 4 weeks before each big race, podcast clips); training weeks still out. **Scripts ready (28 Oct):** walk (`2026-10-27-script-walk.md`: still posts, A and B as trial reels today, winner to the profile Thu); New York (`2026-10-28-script-nyc.md`, film Thu, post Fri); the last-marathon test (`2026-10-28-script-last-marathon.md`, trial reel only). **Test this week:** WHAT YOUR LAST MARATHON SAYS / ABOUT YOUR NEXT ONE as a trial reel (brief `ideas/engine-room-nutrition/2026-10-28-brief-last-marathon.md`: 3 numbers from their watch: first 10K, first gel, the K it turned), recorded with the walk today.
+
+Latest review: `ideas/2026-10-27-enjoy-and-surprise-review.md`. **Enjoy:** 10.4K IG at 2.7 days (16.9K with FB), skip 38.2%, 30s on 1:32, a quarter still watching at 1:20 (the body held), save 1.2% (nothing too long to remember, P152), the CTA cost a third of who was left at 0:42, flat after day one because the posted gate said "this weekend" (P153); TikTok 4.1K. **Surprise:** 4.2K IG (6K with FB), skip 44.1% (opening frame Luke talking, not the bib: a repeat of ledger row 1), 0 saves, 0.1% shares, but flat at ~22% from 0:13 to the end and 13.6% full on TikTok (P151: a story opens an advice video). Follows read 0 on both from Luke's side: check the ERN side. **Emails (27 Oct, `ideas/2026-10-27-email-attribution.md`):** Klaviyo has no per-video attribution; sign-ups ran 9+ (Sat evening), 7 (Sun), **11 on Mon with no new reel** (old videos drive them). No dropdown or extra step on the form (Luke: friction, P154): each review counts sign-ups on the post's day and the day after, against no-post days as the baseline. Never put subscriber emails in the repo.
+
+Lifetime on the grid (24 Oct): carb load 84.4K, without the wall 83.8K, 3:45 51K, how hard 46.5K, sub-4 30.4K, second half 29.2K. Lifetime runs 1.6 to 2.1 times the first-day read: forecast with that.
+
+Grid (Instagram, ERN side): the wall 147K; **3:45 pacing 29.1K at ~17h, TikTok 10.9K (record), emails up with the CTA a third of the way in (P128)**; **carb load 52.8K at ~20h (our #2: 1.3K saves, 60 follows, a record; skip 46.7%)**; **without the wall 41.5K at
+18h** (record 39s watched on 1:37, save 3.2%, 25 comments; skip 39.3%
+with no reframe in line one and the first AI cover); out of the wall
+40.8K; 7 days 31.4K at 14h; 24 hours 30K; first 10 minutes 27.1K at
+12h (share 1.4%, a record); how hard at every 10K 25.1K at 13.5h (skip
+31.9%; first plan CTA: 4 emails); goal pace 25.3K; cramp 25K; second
+half 17.6K at 14h; sub-4 at every 10K 14.5K at 18h (skip 40.8%) but
+**9.5K on TikTok, the best TikTok yet** (without the wall: 6.3K, second
+best); quit ~14K at 14h; Dublin course (small reach, deepest
+engagement); taper and heavy legs missed.
+
+Before that: `ideas/2026-10-24-sleep-review.md` (sleep at ~12.75h: 6.4K, **skip 41.4%**: the opening frame was a sentence that gave away the reassurance, P147; save 1.0%, off the race clock; the CTA at 0:49 lost half of who was left, because the hook ran 116 words). Before it: `ideas/2026-10-23-goal-gone-review.md` (goal gone at ~9h,
+10pm post: 6.5K, **skip 31.9% joint best** with a motion graphic of the hook
+as the opening frame; save 2.4%; share 0.1%; the "why" rehook stage lost
+half the remaining viewers). Before it: gel (5.8K, narrow topic); 4:30
+(14.6K, skip 37.0%); 3:45 (29.1K).
+Earlier: cold marathon (real cover 35.1% skip, 0.9% saves; AI covers
+retired), carb load (52.8K, our #2).
+
+**Week plan (demand-led, 19 Oct):** `ideas/engine-room-nutrition/2026-10-19-demand-led-week.md`
+(from Luke's inbox themes and TikTok search). Tue 20: 3:30 pacing. Wed 21
+(views): what to do when you can't face another gel. Thu 22: how to turn
+your half marathon time into a marathon goal (incl. after illness). Fri 23
+(views): how to run the New York marathon. Sat 24: how to actually enjoy
+your marathon. 4:30 goes TikTok-only. Luke's goal: 1M lifetime IG views
+(840K on 19 Oct). Every pace in km and miles in captions (P129).
+
+**Why no 100K since the wall** (`ideas/2026-10-27-why-no-100k.md`): median skip rose from 34% (28 Sep to 14 Oct) to 40% (15 to 25 Oct), and only 1 of the last 12 was the wall family. It matters for the 1M, not for emails: **one reach reel a week to the wall formula, skip target under 32%**; the rest for emails.
+
+**This week (27 Oct, `ideas/engine-room-nutrition/2026-10-27-week-plan.md`):** Wed 28 WHAT TO DO WHEN YOU HAVE TO / WALK IN A MARATHON (**script ready: `2026-10-27-script-walk.md`**, trial reels A and B tonight; next review `ideas/YYYY-MM-DD-walk-review.md`); Thu 29 free (film New York; 5:00 moves to Mon 2 Nov, P156 pace); the walk is the first trial-reel test (two first lines, Tue evening); **Fri 30 HOW TO PACE THE NEW YORK / MARATHON, SECTION BY SECTION** (brief `2026-10-27-brief-nyc.md`, film Thu; worked 4:00 plan in miles, km in the caption; course map cover; check the official map) and Luke and Jamie record podcast episode 1 (Dublin at every 10K; `podcast/README.md`, its own chat in this repo; plan `podcast/2026-10-27-episode-1-plan.md`, waiting on the facts list; Sat's hook lines recorded straight after the podcast); Sat 31 WHAT WE DID AT EVERY 10K / OF THE DUBLIN MARATHON, cut from the podcast (Jamie story opens, Luke's splits as cover); wind moves to next week; Sun 1 no reel. **New gate: "If you've got a marathon coming up,"** (P153). Brief first each time. **Next (27 Oct):** the audience calendar has moved on from race weekend (New York 1 Nov; spring pivot). Next script: a lived race fear on the race clock with a schedule to keep (P152), the Jamie story as the opening of an advice video if used at all (P151), no dated gate (P153). Posted 24 Oct: enjoy script v2 `ideas/engine-room-nutrition/2026-10-24-script-enjoy.md` (line one ends on the open loop, P149; 0-10K let them go, 10-20K head up, 20-30K your name, 32K your people; opening frame a bare 32K marker; failure ledger table passed; two P146 checks flagged: name on the top, supporters at 32K). Next review file: `ideas/YYYY-MM-DD-enjoy-review.md`. **Sun 25: Luke surprises Jamie (co-founder) by running Dublin too;** plan and shot list in `ideas/engine-room-nutrition/2026-10-24-plan-surprise-jamie.md` (OST: MY CO-FOUNDER HAS NO IDEA / I'M RUNNING THIS MARATHON; reaction held to the end; cover never Jamie's face; nothing posted before the reveal). Post Mon 26 (council v2, P150: context + real stake in 10s, "my own entry", vertical 2 phones, edit decided by the reaction); Tue: the race at every 10K as the advice sequel. The no-Dublin rule on the personal account lifts after the reveal. Walk moves to Tue; spring pivot from 27 Oct.
+Next review file: `ideas/YYYY-MM-DD-<video>-review.md`.
+Motion graphics (22 Oct, Luke asked): `motion/` renders 16:9 scene clips for the top half of the reel (`motion/README.md`). Goal gone is built in placeholder colours; waiting on Luke's logo to set the brand colours. Run it as a trial reel A/B against the plain version: the checklist still says only the title and stage markers on screen (P84, P95). Race night (sleep, Sat 24) built 23 Oct in the website theme (`motion/race-night.html`); that theme is the default for motion graphics now. Enjoy built 24 Oct (`motion/enjoy.html`): illustrated characters, the 32K marker alone as the opening frame (P147), and a course bar with a locked 32K pin as the on-screen open loop. Last marathon built 28 Oct (`motion/last-marathon.html`): splits screen as the opening frame, a 3-number strip with number 3 locked, ending on a filled-in card to save (P152). NYC course frames v2 (28 Oct, Luke: the first ones "suck", P161): 6 frames, 1920 x 1080, site theme, each stage zoomed with landmarks, mile markers, the 4:00 pace in miles and km and the cues, plus a whole-plan frame; `motion/nyc-maps/frames/`, same artifact https://claude.ai/artifact/4fb7kihUqVTYc1Eo6tHy7K. Reuse `motion/nyc-maps/tools/` for the course breakdowns pillar. **3:23 plan frames (30 Oct, Luke's prompt):** 5 static 1920 x 1080 frames with the race strip and the real ERN logo (`motion/brand/ern-logo.png`), `motion/plan-frames/`, artifact https://claude.ai/artifact/XHuCgjjDcTa45o2x1YvEcP; copy `plan-323.html` for other goal times.
+
+Rejected topics: the last 10K (covered across six videos); anything
+after the finish line (Luke, 15 Oct); in-race fuel amounts while the
+"eleven gels" argument is live (Luke, 17 Oct, P124). TikTok-only idea: goal-time
+versions (sub-3:30, sub-4:30) using the sub-4 template.
+
+Upcoming races in the audience: Amsterdam 18 Oct, **Dublin and Frankfurt
+Sunday 25 Oct** (26 Oct is the bank holiday Monday), New York 1 Nov. Held: the "how to actually enjoy your marathon"
+creative for the day before Dublin. Covers: Luke picks from search
+terms (Google Images, Pinterest), with a licence check.
+
+The plan CTA keeps bringing in emails (Luke, 15 Oct): keep it on every video.

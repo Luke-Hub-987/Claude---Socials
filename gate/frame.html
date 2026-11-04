@@ -1,0 +1,43 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Frame one</title>
+<style>
+@font-face{font-family:Inter;src:url(../motion/fonts/Inter-400-normal.woff2) format('woff2');font-weight:100 900}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:100vw;height:100vh;overflow:hidden;background:#000;font-family:Inter,Arial,sans-serif}
+.f{position:relative;width:100vw;height:100vh;overflow:hidden}
+/* Luke in the car: a placeholder until the real frame exists */
+.car{position:absolute;inset:0;background:linear-gradient(180deg,#9fb4c6 0%,#c9d6df 30%,#5b6672 31%,#3a424b 100%)}
+.car .win{position:absolute;left:4vw;top:6vh;width:40vw;height:22vh;border-radius:3vw;background:linear-gradient(#dfe9f1,#b9cad8);border:1.2vw solid #2c3238}
+.car .seat{position:absolute;right:-8vw;top:24vh;width:46vw;height:80vh;border-radius:12vw 12vw 0 0;background:#262b31}
+.head{position:absolute;left:50%;width:34vw;height:42vw;margin-left:-17vw;border-radius:50% 50% 45% 45%;background:#e0b9a0}
+.body{position:absolute;left:50%;bottom:0;width:78vw;margin-left:-39vw;border-radius:30vw 30vw 0 0;background:#1f6fd1}
+.full .head{top:43vh}.full .body{height:34vh}
+.half .head{top:63vh;width:24vw;height:30vw;margin-left:-12vw}.half .body{height:22vh;width:60vw;margin-left:-30vw}
+.who{position:absolute;left:50%;transform:translateX(-50%);color:#fff;font-size:2.6vw;font-weight:700;opacity:.85;white-space:nowrap}
+.full .who{bottom:30vh}.half .who{bottom:20vh}
+/* top picture, only in "half" layout */
+.top{position:absolute;left:0;top:0;width:100%;height:50%;background:#e9e6df;display:flex;align-items:center;justify-content:center;overflow:hidden}
+.top img{width:100%;height:100%;object-fit:cover}
+.top .ph{font-size:4vw;font-weight:800;color:#555;text-align:center;padding:4vw}
+/* title boxes */
+.ost{position:absolute;left:50%;top:var(--ost-top,30%);transform:translate(-50%,-50%);text-align:center;width:100%}
+.ost span{display:inline-block;background:#2b8fff;color:#fff;font-weight:800;font-size:6.6vw;line-height:1.18;padding:.6vw 2.4vw;white-space:nowrap;margin:.25vw 0;letter-spacing:.1vw}
+.subs{position:absolute;left:50%;top:69%;transform:translateX(-50%);color:#fff;font-size:4.6vw;font-weight:700;text-shadow:0 .3vw 1vw #000;white-space:nowrap}
+/* Instagram's overlays: caption, name and buttons */
+.ui{position:absolute;left:0;bottom:0;width:100%;height:22%;background:repeating-linear-gradient(135deg,rgba(255,0,0,.16) 0 2.4vw,rgba(255,0,0,.06) 2.4vw 4.8vw);border-top:.5vw dashed #ff4d4d}
+.uir{position:absolute;right:0;top:52%;width:14%;height:26%;background:repeating-linear-gradient(135deg,rgba(255,0,0,.16) 0 2.4vw,rgba(255,0,0,.06) 2.4vw 4.8vw);border-left:.5vw dashed #ff4d4d}
+.tag{position:absolute;left:3vw;top:2.5vh;background:#111;color:#fff;font-size:3vw;font-weight:800;padding:.8vw 2vw;border-radius:1.4vw;opacity:.9}
+</style></head><body>
+<div class="f" id="f"></div>
+<script>
+const q=new URLSearchParams(location.search);
+const layout=q.get('layout')||'full';         // full = Luke fills the frame; half = picture on top, Luke below
+const f=document.getElementById('f');f.className='f '+layout;
+let h='<div class="car"><div class="win"></div><div class="seat"></div></div>';
+if(layout==='half'){const pic=q.get('pic')||'';h+='<div class="top">'+(pic.startsWith('label:')?'<div class="ph">'+pic.slice(6)+'</div>':(pic?'<img src="'+pic+'">':''))+'</div>';}
+h+='<div class="head"></div><div class="body"></div><div class="who">'+(q.get('who')||'LUKE · car · ERN running top (placeholder)')+'</div>';
+h+='<div class="ost" style="--ost-top:'+(q.get('ostTop')||(layout==='half'?'45%':'30%'))+'"><span>'+(q.get('t1')||'')+'</span><br><span>'+(q.get('t2')||'')+'</span></div>';
+if(q.get('subs'))h+='<div class="subs">'+q.get('subs')+'</div>';
+if(q.get('zones')!=='0')h+='<div class="ui"></div><div class="uir"></div>';
+if(q.get('tag'))h+='<div class="tag">'+q.get('tag')+'</div>';
+f.innerHTML=h;
+</script></body></html>

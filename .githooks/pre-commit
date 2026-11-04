@@ -1,0 +1,7 @@
+#!/bin/sh
+# The gate (GATE.md, P190): a script that fails can't be committed.
+root="$(git rev-parse --show-toplevel)"
+python3 "$root/gate/check.py" --staged --brief || {
+  echo "GATE (P190): commit blocked. Fix the FAILs above (python3 gate/check.py <file> for the full table)." >&2
+  exit 1
+}

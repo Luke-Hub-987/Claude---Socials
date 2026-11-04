@@ -1,5 +1,9 @@
 # ERN script checklist
 
+> **4 Nov (P190): GATE.md is now the test a script passes, run by `gate/check.py`
+> and the independent reviewer. This checklist stays as the evidence behind it.
+> Where the two disagree, GATE.md wins (`gate/contradictions.md`).**
+
 **Every ERN script passes every line of this before it is delivered.**
 Each rule is here because a video proved it. Built 29 September from
 every review in `ideas/*-review.md`, after the cramp script went out

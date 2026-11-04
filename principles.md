@@ -5847,6 +5847,15 @@ checker script and an independent reviewer, never by me alone. Forecasts
 are base-rate ranges, never "confident". A review that finds a rule broken
 names the gate test that should have caught it and fixes the test.
 
+**Built 4 Nov:** `GATE.md` (30 tests, P189's 4 lines on top, every principle
+mapped to a test, to the process list, or to "superseded"), `gate/check.py`
+(the AUTO tests), hooks that run it on every edit, commit and end of turn,
+the independent reviewer (`.claude/agents/gate-reviewer.md`, its verdict
+stamped with the script's hash so an edit forces a re-review), and
+`gate/shoot_frame.js` (frame one at phone size). 21 contradictions found (C21 from the gate's first run) and
+sent to Luke in one list (`gate/contradictions.md`); the gate uses my
+recommendation on each until he settles them.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
