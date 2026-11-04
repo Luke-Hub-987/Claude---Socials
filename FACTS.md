@@ -173,7 +173,7 @@ with the date.
 - The email reel (30 Oct): 3 TikTok DMs; list past 600.
 
 ## Luke's own race facts (4 Nov)
-- Dublin 2026: finished in 3:40-something (exact time to confirm); passed
+- Dublin 2026: **chip 3:44:13, gun 3:47:58** (Luke, 4 Nov); passed
   a lot of runners wearing carbon-plated "super shoes" (Luke's own
   observation, usable in a script).
 - His marathon improvement of about 1:15 isn't used: 3 years and ultras
@@ -183,3 +183,10 @@ with the date.
   drink on long runs"; spring plan requests already in for Seville
   (21 Feb), Rome (14 Mar), Barcelona, Athlone (11 Apr), Brighton (4 Apr)
   and Belfast (2 May).
+
+## Plan results after Dublin (counts only, 4 Nov)
+- About 200 plan requests since 1 Sep (Luke to confirm how many sent);
+  about 17 results back. Most PBs or first-marathon goals; 2 missed.
+- Patterns: finished faster than they started; 2 beat their own
+  expectation by about 10 minutes; 4 mention the wind.
+
