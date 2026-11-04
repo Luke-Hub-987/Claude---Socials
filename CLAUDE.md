@@ -169,6 +169,7 @@ a new cause becomes a new row in the same turn.**
 | 23 | **Someone else's numbers** | Email wall: a 3:23 plan, saves 0.4%, shares 0.1% (30 Oct) | The worked example is a goal most viewers have (3:45 to 4:00, sub-4), or the plan for every common goal is in the caption and the last frame |
 | 26 | **Advice they already know** | Match reel v1: our race-morning clock ported to football (Luke caught, 3 Nov, before filming); the carousel stopped at 1.6 of 5 photos (consistent, not proof) | Name the belief we overturn and what they learn that they didn't know; known advice is one short stage at most (P175). Rows 24 and 25 were withdrawn on 1 Nov |
 | 27 | **A general title: no number, no deadline, nothing new** | Long run 55.5% skip (4 Nov); where it goes wrong 52.1%; last marathon 52.4%; taper 43.1%; heavy legs 0.5% saves | Two of five in the title: number or race, deadline, constraint, proof, our own method (P178) |
+| 28 | **Numbers that read as failure** | 200 plans / 10 PBs read as 5% (Luke caught, 4 Nov, before filming) | Divide each number on screen by the biggest one next to it; the true base, said aloud (P187) |
 
 ## The rules that matter most (quick reference; the checklist has all)
 
@@ -254,9 +255,11 @@ a new cause becomes a new row in the same turn.**
 
 **As of 4 November 2026.**
 
+**200 plans v3 (4 Nov, P187, same files):** Luke: "200 sent, only 10 PBs" reads as 5%. Title now **17 MARATHON RESULTS. / [15] HIT THEIR GOAL**; 200 only in line one as the offer; audio "17 have raced and emailed back, 15 hit their goal". 319 words, hook 95. Needs Luke: the real 17 and 15. Ledger row 28.
+
 **200 plans v2 (4 Nov, P186, same files):** Luke: "get it wrong / get it right" in every script, and still no gap in line one (both repeats, my miss). New line one: "We've sent 200 runners a free marathon plan, and one said the same 10 words on repeat from the start line to 40K." (gap: what words? shut at stage 3, THE 10 WORDS). Pain = what's riding on it + the cruel timing (4 months on one morning, find out at 32K as the 4-hour flag pulls away); dream = a split at 40K quicker than your first. 317 words, hook 95, CTA 0:38. check.py now flags the template; the Valencia brief's pain and dream rewritten.
 
-**Script ready (4 Nov, `ideas/engine-room-nutrition/2026-11-04-script-200-plans.md`, teleprompter `2026-11-04-teleprompter-200-plans.txt`):** Briar's pick: **200 MARATHON PLANS. / 10 PBs, 2 MISSES**; markers THE START / THE GEL CLOCK / THE 10 WORDS / THE 2 THAT MISSED; v2 317 words, hook 95, CTA "you'll be runner 201" at 0:37. Format: IG trial reel from ERN, ERN TikTok regular post, nothing on personal TikTok, stories results series, frame one a 200/10/2 scoreboard. Needs Luke: confirm the 10, the one runner's OK, the last-stage claim.
+**Script ready (4 Nov, `ideas/engine-room-nutrition/2026-11-04-script-200-plans.md`, teleprompter `2026-11-04-teleprompter-200-plans.txt`):** Briar's pick, title now **17 MARATHON RESULTS. / [15] HIT THEIR GOAL** (v3); markers THE START / THE GEL CLOCK / THE 10 WORDS / THE 2 THAT MISSED; v2 317 words, hook 95, CTA "you'll be runner 201" at 0:37. Format: IG trial reel from ERN, ERN TikTok regular post, nothing on personal TikTok, stories results series, frame one a 200/10/2 scoreboard. Needs Luke: confirm the 10, the one runner's OK, the last-stage claim.
 
 **Briar pass, uncomfortably specific (4 Nov, P185):** 200 plans sent (Luke). Titles now: **200 MARATHON PLANS. / [10] PBs, 2 MISSES (lead; Luke to confirm the PB count); SHE PLANNED 4:30. / SHE RAN 4:20:51 (her OK, name hidden); £250 SHOES FOR A / 4-HOUR MARATHON? (Black Friday, price to check; Luke's 3:44 in line one).**
 

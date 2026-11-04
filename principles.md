@@ -5787,6 +5787,18 @@ Never: "Get it wrong... / Get it right...", "you're the one who...",
 "that's your race going to plan". The stack table in every script file
 has a "Shape" column and a "Last 3 scripts used" column.
 
+## P187 — The denominator test: every pair of numbers on screen is a rate a stranger will work out (Luke, 4 Nov)
+
+Luke: "200 plans sent but only 10 PBs: does that read as the plans not
+being good?" Yes: a stranger divides 10 by 200 and gets 5%. The base was
+wrong. Only about 17 results had come back. **Rule:** before any
+number goes on screen or in line one, divide it by the biggest number next
+to it and ask what that rate says. If it reads as failure, change the base
+to the true one (results back, not plans sent), say what the base is in the
+audio ("17 have raced and emailed back"), and keep the big number away from
+the result (it can be the reach of the offer in line one). Say "hit their
+goal" when first marathons are in the count, not "PB".
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

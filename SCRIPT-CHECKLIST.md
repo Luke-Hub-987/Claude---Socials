@@ -282,6 +282,9 @@ twice without being checked against the winners (P99).
       out, which line holds it shut (the named concept), which stage closes
       it, and the rehook that reopens it before the last stage. Line one's
       last words leave "how?" or "which?". No gap line, no script.
+- [ ] **Denominator test (P187):** divide every number on screen by the
+      biggest number next to it. If the rate reads as failure (10 PBs of
+      200 plans = 5%), use the true base (results back) and say it aloud.
 - [ ] **Line-one gap test (P186), a table in the file:** read line one
       alone; the one question a stranger asks; one specific question; they
       can't guess it; the named stage that answers it; nothing earlier gives
