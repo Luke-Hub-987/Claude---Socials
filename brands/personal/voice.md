@@ -75,17 +75,19 @@ become about that background. Use it narrowly for the "super hook"
 credibility beat in HF9 (`hook-frameworks.md`), not as a recurring
 topic:
 
-- 1 marathon, and ultra marathons including Connemara 60k and Seven
-  Sisters 55k (most recent)
+- Marathons and ultra marathons. **CORRECTION, 2026-11-04, Luke
+  directly: "I did not run 60 kilometres in Connemara."** The Connemara
+  60k line was wrong too. **Never state a race, distance or count for
+  Luke's ultras until he gives the list in chat.** Seven Sisters 55k is
+  also unconfirmed until he says so.
 - **CORRECTION, 2026-09-02, flagged by Luke directly: Connemara 100k
   was wrong and had been in this file since it was drafted. He has not
   run it and is not planning to.** It was carried into super hooks in
   multiple scripts before he caught it. The "3 ultras" count is now
   unverified too, since it depended on that third race, so it is
   removed rather than guessed. **Open question: what is the correct
-  list?** Until Luke confirms, credibility beats should use only
-  Connemara 60k and Seven Sisters 55k, and should not state a total
-  count.
+  list?** Until Luke confirms, credibility beats name no ultra at all
+  (superseded 4 Nov).
 - Based in Sligo, northwest Ireland
 
 Job title deliberately left out here — see Hard rules below.

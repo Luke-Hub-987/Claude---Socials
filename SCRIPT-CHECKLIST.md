@@ -245,6 +245,11 @@ twice without being checked against the winners (P99).
       35.1% skip, against 39.3% and 46.7%. Real images only, ideally one
       person.
 
+- [ ] **No unchecked premise (P183, Luke 4 Nov):** every habit the title
+      assumes (orange slices, 6am runs) comes from our data, Luke's
+      research or Luke; no fact about Luke or Jamie unless they said it.
+      The title is the viewer's own question in their words, built from
+      a real line the audience wrote.
 - [ ] **The gate table (P182, Luke 4 Nov):** every title in an idea list
       is checked against in what? / photograph / now / their goal /
       collision / new / cost of scrolling / not a gimmick, in a table in

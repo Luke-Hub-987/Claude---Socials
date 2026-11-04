@@ -5683,6 +5683,28 @@ and why". Also: use ERN's own counter-position (P44), the 30 minutes
 before you run or play, and keep the matches in the pool (best skip
 ever, 26.2%).
 
+## P183 — No premise we haven't checked: about the viewer, or about Luke (Luke, 4 Nov)
+
+Luke on ideation v3: orange slices at half-time ("what if there's a team
+and they don't have orange slices, which is probably the majority"); a
+6am run ("the minority are running before work at 6am, most run in the
+evening"); "I did not run 60 kilometres in Connemara. I don't know where
+you got that." And "who super shoes are actually for" should be the
+viewer's question: "do you need super shoes?"
+
+**The rule:**
+- **No title rests on a habit we assume the viewer has.** It comes from
+  our data (inbox, comments, DMs, stories answers), Luke's own
+  research (`research/`), or Luke in chat. If it's a guess, it's cut.
+- **No fact about Luke or Jamie unless they've said it in chat** or it's
+  in FACTS.md from them. The brand files had a wrong race twice
+  (Connemara 100k, then 60k); they are not a source for personal facts.
+- **Write the title as the viewer's own question,** in their words:
+  "Do you actually need super shoes?", not "who super shoes are for".
+- **Build titles from what the audience actually said** (a Reddit line,
+  an inbox form, a comment), the way every approved line in
+  `ost-formula.md` was built, never from my head.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

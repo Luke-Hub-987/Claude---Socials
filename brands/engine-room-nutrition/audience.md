@@ -11,9 +11,9 @@ updated_at: 2026-08-31
 
 Working professionals who are also into endurance sport — the same
 profile as the founders themselves (Luke: associate tax director,
-marathon + ultras including Connemara 60k and Seven Sisters 55k
-(Connemara 100k was an error in this file, corrected 2026-09-02, see
-`brands/personal/voice.md`)
+marathons and ultras; **no named ultra or distance until Luke confirms
+the list: Connemara 100k (2 Sep) and Connemara 60k (4 Nov) were both
+wrong**, see `brands/personal/voice.md`)
 niche is real but not massive), which is why the product and content
 are deliberately built to expand beyond pure endurance occasions over
 time (see below).
