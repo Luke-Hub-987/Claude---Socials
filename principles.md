@@ -5732,6 +5732,61 @@ together make the collision. Round only when the exact number isn't
 known, and flag it until it is. The misses go in: brutally real beats
 polished.
 
+## P186 — The hook stack is built new every time: line one passes the gap test, and "get it wrong / get it right" is retired (Luke, 4 Nov)
+
+Luke: "Get it wrong, then get it right... it's the exact same in every single
+fucking script. Briar wasn't like, get it wrong, then this happens. Get it
+right, then this happens... the opening hook, I seem to have to correct you
+on this every single time... There's no curiosity gap."
+
+**Both are repeats, my miss.** "Get it wrong / get it right" was named as a
+template on 17 Oct (cold marathon), avoided for two weeks, then came back in
+the match v2, long run v2 to v4, the Valencia brief and the 200 plans script
+(ledger row 16). The 200 plans line one ("one who finished 10 minutes ahead
+of hers was behind it at 5K") pointed the gap at a stranger, its answer was
+guessable (she started slow), and no stage came back to it (row 17, P176).
+Rules alone didn't hold, so the checker now flags the template.
+
+### What Briar's stack is, beat by beat, and what each beat needs
+1. **Hook: gate + line one that alludes to something later in the video**
+   (Briar's first copy rule: "Are you alluding to something later in the
+   video?"). It names the thing and withholds what it is.
+   **The line-one gap test, written into every script file:** read line one
+   alone; write the one question a stranger would ask ("what 10 words?");
+   it must be one specific question, they can't guess the answer, a named
+   stage answers it, and nothing before that stage gives it away. A gap
+   about a stranger's result fails (row 23); a gap no stage closes fails.
+2. **Pain twisted:** the cost at the top of what's plausible, said as what
+   happens to them, with the feeling or the cruel timing. Briar: "if not,
+   you're gonna spend a hundred thousand or more in taxes and hate throwing
+   that money away." The pain says the cost, never the cause (the cause is
+   the answer).
+3. **Dream:** the specific end state, something they can see. Briar: "You
+   will end up with assets that appreciate higher than real estate, the S&P
+   and gold." Luke: "after watching this you'll be passing people at 32K
+   like a breeze."
+4. **A named concept that holds the gap + save,** or the shape announced
+   (Luke: "here's how your perfect race day is gonna play out").
+5. **Stages close it a piece at a time; the rehook reopens it before the
+   last stage; the last stage shuts it.**
+
+### Shapes for pain and dream (use one the last 3 scripts didn't)
+- **The prediction they've already made:** "You already decided the last
+  10K is going to hurt like hell."
+- **The cost plus the feeling:** "...and hate throwing that money away."
+- **What's riding on it:** "4 months of training comes down to one
+  morning."
+- **The cruel timing:** "you find out at 32K, as the 4-hour flag pulls
+  away."
+- **What they'll see:** "at 40K you look down at a split quicker than your
+  first."
+- **Briar's "you will end up with...":** the end state as a thing they own.
+- **The morning after:** the splits, the message they send, the medal on
+  the hook.
+Never: "Get it wrong... / Get it right...", "you're the one who...",
+"that's your race going to plan". The stack table in every script file
+has a "Shape" column and a "Last 3 scripts used" column.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

@@ -22,6 +22,7 @@ PATTERNS = [
     ("no contraction", re.compile(r"\b(you are|it is|do not|does not|he is|she is|that is|you will|we are|they are|I am|is not|are not|cannot|will not|did not|there is)\b", re.I)),
     ("jargon", re.compile(r"\b(zone ?\d|threshold|glycogen|negative split|protocol|lactate|VO2)\b", re.I)),
     ("colon list", re.compile(r"\b[A-Za-z ]{2,20}: [0-9]")),
+    ("retired hook template (P186)", re.compile(r"\b(get (it|race week|the \w+) (wrong|right)|you'?re the one (who|passing|still|sending)|that's your race going to plan)\b", re.I)),
     ("generic ending", re.compile(r"(you've got this|possibilities are endless|the rest is history)", re.I)),
 ]
 # The talk-test sentence is a quote, not a missing contraction.

@@ -78,6 +78,18 @@ line (what they're waiting for, what holds it, what closes it). **Every beat
 is a scene they've lived, Ogilvy-specific (P177):** never "eat 3 hours
 before"; always the ball 5 yards away and your legs won't go.
 
+**P186 (Luke 4 Nov, "every single time", a repeat): two checks in every
+script file before Luke sees it.** (a) **The line-one gap test:** read line
+one alone, write the one question a stranger would ask ("what 10 words?"):
+one specific question, not guessable, answered by a named stage, nothing
+earlier gives it away, and never about a stranger's result. (b) **Pain and
+dream built new:** never "Get it wrong / Get it right" or "you're the one
+who" (check.py flags them). Pain = the cost with the feeling or the cruel
+timing (Briar: "...and hate throwing that money away"); dream = what they'll
+see (Briar: "you will end up with..."; Luke: "after watching this you'll be
+passing people at 32K"). A shape the last 3 scripts didn't use; the stack
+table shows it.
+
 ## How to deliver in chat (Luke, 16 Oct: copy the old chat exactly, P122)
 
 - **No AI-writing signs (P125, P169): run the humanizer skill
@@ -147,8 +159,8 @@ a new cause becomes a new row in the same turn.**
 | 13 | **A list of symptoms, not a sequence** | Heavy legs | Stages in time order, each an action |
 | 14 | **Cover number not in the title** | Sub-4 (a 3:45 flag) | Every number on screen is in the title or line one |
 | 15 | **A tip as line one** | Carb load v1 to v6 (Luke caught) | P120 pre-flight: would runners argue, and can't they guess why? |
-| 16 | **Template lines repeated** | "That's your race going to plan" (P136); a viewer called a script AI (P125) | No line from the last three scripts |
-| 17 | **A reframe that answers line one** | Enjoy v1, "that's how it's meant to go" (Luke caught, 24 Oct) | Read line one's last words alone: do they leave "how?" A promise ends on the open loop, not a reframe (P149) |
+| 16 | **Template lines repeated** | "That's your race going to plan" (P136); a viewer called a script AI (P125); **"Get it wrong / Get it right" in match v2, long run v2-v4, Valencia, 200 plans (Luke caught, 4 Nov, a repeat of 17 Oct)** | No line **or pain/dream shape** from the last three scripts; check.py 0 flags (P186) |
+| 17 | **A reframe that answers line one, or no gap** | Enjoy v1, "that's how it's meant to go" (Luke caught, 24 Oct); 200 plans v1, a stranger's result with a guessable answer that no stage came back to (Luke caught, 4 Nov) | The line-one gap test table (P186): the stranger's one question, not guessable, the stage that answers it. A promise ends on the open loop, not a reframe (P149) |
 | 18 | **Nothing too long to remember** | Cold 0.9% saves, sleep 1.0%, enjoy 1.2%, surprise 0.0% | A schedule, table or K-by-K plan they'd come back to on race morning (P152) |
 | 19 | **Dated words in the gate or audio** | Enjoy ("this weekend": flat after day one) | No "this weekend", "tomorrow", "tonight" (P82, P153) |
 | 20 | **A story with no stake for strangers** | Surprise 44.1% skip, 0 saves (opening frame: Luke talking, not the bib) | The stake as a picture in frame one; a story opens an advice video, not alone (P151) |
@@ -242,7 +254,9 @@ a new cause becomes a new row in the same turn.**
 
 **As of 4 November 2026.**
 
-**Script ready (4 Nov, `ideas/engine-room-nutrition/2026-11-04-script-200-plans.md`, teleprompter `2026-11-04-teleprompter-200-plans.txt`):** Briar's pick: **200 MARATHON PLANS. / 10 PBs, 2 MISSES**; markers THE START / THE GEL CLOCK / THE SENTENCE / THE 2 THAT MISSED; 305 words, hook 86, CTA "you'll be runner 201" at 0:37. Format: IG trial reel from ERN, ERN TikTok regular post, nothing on personal TikTok, stories results series, frame one a 200/10/2 scoreboard. Needs Luke: confirm the 10, the one runner's OK, the last-stage claim.
+**200 plans v2 (4 Nov, P186, same files):** Luke: "get it wrong / get it right" in every script, and still no gap in line one (both repeats, my miss). New line one: "We've sent 200 runners a free marathon plan, and one said the same 10 words on repeat from the start line to 40K." (gap: what words? shut at stage 3, THE 10 WORDS). Pain = what's riding on it + the cruel timing (4 months on one morning, find out at 32K as the 4-hour flag pulls away); dream = a split at 40K quicker than your first. 317 words, hook 95, CTA 0:38. check.py now flags the template; the Valencia brief's pain and dream rewritten.
+
+**Script ready (4 Nov, `ideas/engine-room-nutrition/2026-11-04-script-200-plans.md`, teleprompter `2026-11-04-teleprompter-200-plans.txt`):** Briar's pick: **200 MARATHON PLANS. / 10 PBs, 2 MISSES**; markers THE START / THE GEL CLOCK / THE 10 WORDS / THE 2 THAT MISSED; v2 317 words, hook 95, CTA "you'll be runner 201" at 0:37. Format: IG trial reel from ERN, ERN TikTok regular post, nothing on personal TikTok, stories results series, frame one a 200/10/2 scoreboard. Needs Luke: confirm the 10, the one runner's OK, the last-stage claim.
 
 **Briar pass, uncomfortably specific (4 Nov, P185):** 200 plans sent (Luke). Titles now: **200 MARATHON PLANS. / [10] PBs, 2 MISSES (lead; Luke to confirm the PB count); SHE PLANNED 4:30. / SHE RAN 4:20:51 (her OK, name hidden); £250 SHOES FOR A / 4-HOUR MARATHON? (Black Friday, price to check; Luke's 3:44 in line one).**
 

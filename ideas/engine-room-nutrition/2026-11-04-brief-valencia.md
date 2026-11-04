@@ -42,10 +42,10 @@ The caption carries 3:45 and 4:30 as well (row 23), in km and miles (P129).
 
 ## The hook, in one line each
 - **Gate + line one (the gap):** "If you're running Valencia, the flattest marathon you'll ever run gets lost on a stretch you won't even notice on the map."
-- **Pain:** "Get it wrong and you're walking down a long, quiet road at 36K with nobody left to cheer you on."
-- **Dream:** "Get it right and you're passing people on the ramp down onto the blue finish."
+- **Pain (P186, the cruel timing):** "You'll fly round the first 30K thinking it's the easiest marathon you've ever run, and then the crowds thin out, the road goes quiet, and at 36K there's nobody left to get you to the next K."
+- **Dream (P186, what they'll see):** "And instead you come down the ramp onto the blue finish with your watch showing the fastest K of your day."
 - **Named concept + save:** "Runners who've done it call it the quiet straight, and it gets decided long before you reach it, so save this."
-- **Rehook before stage 4:** "And the last one is the quiet straight."
+- **Rehook before stage 4:** "Which leaves the quiet straight, where the race goes silent."
 - **CTA after stage 1:** "If sub-4 isn't your goal, email us your race and goal time through the link in the bio and we'll send you your own plan for free."
 - **Send:** "Send this to whoever you're travelling to Valencia with."
 

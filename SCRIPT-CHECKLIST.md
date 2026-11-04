@@ -282,6 +282,16 @@ twice without being checked against the winners (P99).
       out, which line holds it shut (the named concept), which stage closes
       it, and the rehook that reopens it before the last stage. Line one's
       last words leave "how?" or "which?". No gap line, no script.
+- [ ] **Line-one gap test (P186), a table in the file:** read line one
+      alone; the one question a stranger asks; one specific question; they
+      can't guess it; the named stage that answers it; nothing earlier gives
+      it away. A gap about a stranger's result, or one no stage closes,
+      fails.
+- [ ] **Pain and dream built new (P186):** pain = the cost with the feeling
+      or the cruel timing, never the cause; dream = what they'll see. Pick
+      a shape the last 3 scripts didn't use. **Never "Get it wrong / Get it
+      right", "you're the one who", "that's your race going to plan"**
+      (check.py flags them).
 - [ ] **Briar's five beats, each its own paragraph:** gate + gap line /
       pain as a picture / dream as a picture / named concept that keeps the
       gap shut + save / stages, rehook, payoff.
