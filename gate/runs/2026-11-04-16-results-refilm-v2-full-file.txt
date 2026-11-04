@@ -1,0 +1,167 @@
+---
+type: script (the first script through GATE.md)
+gate: v1
+version: v2. v1 was the plan in ideas/2026-11-04-200-plans-review.md (refilm 15 seconds, keep the filmed body); it failed the gate on 17 tests (record below and in gate/reviews/2026-11-04-script-16-results-refilm.v1-review.txt)
+generated_at: 2026-11-04
+teleprompter: 2026-11-04-teleprompter-16-results-refilm.txt
+privacy: no runner named, described or counted in the audio (P172); proof is one line about results with splits
+---
+
+# 10 WORDS THAT STOP YOU / HITTING THE WALL (v2)
+
+**Status: BLOCKED on Luke at G8** (the talk test was the payoff of the long
+run reel on 3 Nov and the 16 results trial on 4 Nov). Every other test is
+fixed. See "What the gate found" at the end.
+
+## Gate fields
+- OST: 10 WORDS THAT STOP YOU / HITTING THE WALL
+- Markers: THE START / THE FIRST GEL / THE 5K SIGN / 32K TO THE FINISH
+- Gap phrase: 10 words
+- Gap held by: "It's one plain sentence you can say without even thinking. You'll hear it when we get to the 5K sign"
+- Gap closed by: 32K TO THE FINISH
+- Frame one: Luke in the car in the ERN running top, the title; no top picture; subtitles start at 0:03
+- Frame one words: title only
+- Mockup: ideas/engine-room-nutrition/mockups/2026-11-04-16-results-refilm-v2-frame-one.png
+- Layer title: their fear (the wall) and our method (10 words), with the words held back
+- Layer picture: on screen, nothing but Luke for the whole video; the grid cover is one real licensed photo of one runner alone passing a 5K sign, face away (the moment line one names)
+- Layer line one: the gap, how 10 words at the 5K sign tell you about 32K
+- Worked example goal: sub-4
+- Forecast: IG trial at 24 hours, 300 to 3,500 views and skip 26% to 55%; saves 0.4% to 1.1%. Base, our last 4 trial reels: the wall repost 3,537 views and 33.3% (about a day), the long run 290 and 55.5% (10h), the match 242 and 26.2% (2h), the 16 results trial 459 and 44.4% (1h)
+
+## The gap
+Waiting for: which 10 words, and how saying them at the 5K sign tells you
+how 32K will go. Held by: "one plain sentence... you'll hear it when we
+get to the 5K sign". The 5K stage gives the words; the rehook ("What it
+tells you about 32K is the part to save") reopens line one's real
+question; 32K TO THE FINISH shuts it.
+
+## Line-one gap test (P186)
+| Test | Answer |
+|---|---|
+| Line one alone: what does a stranger ask? | "Which 10 words? How can 5K tell me anything about 32K?" |
+| One specific question? | Yes |
+| Can they guess it? | No: nobody guesses a sentence, or that a breath count at 5K predicts 32K |
+| About them or a stranger? | Them: their 5K sign, their 32K |
+| Which stage answers it? | The words at THE 5K SIGN; what they mean at 32K TO THE FINISH |
+| Anything earlier give it away? | No: the pain and dream show the cost and the result, the concept names nothing |
+
+## Stack (P186: shapes the last 3 didn't use)
+| Beat | Line | Shape | Last 3 scripts used |
+|---|---|---|---|
+| Gate + gap | "If you've got a marathon coming up, 10 words at the 5K sign tell you how you'll feel at 32K." | A prediction they'd argue with, in distance | 200 plans: a stranger's 10 words; long run v4: "your voice knows... before your watch does"; match v2: legs decided standing still |
+| Pain | "Without them, 35K is a walk, and the people you passed at 10K go back past you one by one." | **The cruel reversal** (the ones you passed pass you) | 200 plans: what's riding on it + find out at 32K; long run v4: walking the last 2K home, watch running; match v2: ball 5 yards away, legs won't go |
+| Dream | "After watching this, the race photo you'll share the next morning is you passing people at 35K." | **The morning after** (the photo they share) | 200 plans: a 40K split quicker than your first; long run v4 and match v2: "Get it right and..." |
+| Concept + save | "It's one plain sentence you can say without even thinking. You'll hear it when we get to the 5K sign, so save this." | Held, named nothing | 200 plans: "3 things, the 10 words are one" |
+
+## Script
+
+"If you've got a marathon coming up, 10 words at the 5K sign tell you how you'll feel at 32K."
+
+"Without them, 35K is a walk, and the people you passed at 10K go back past you one by one."
+
+"After watching this, the race photo you'll share the next morning is you passing people at 35K."
+
+"It's one plain sentence you can say without even thinking. You'll hear it when we get to the 5K sign, so save this."
+
+**[THE START]**
+
+"Your first 10K should feel too easy, with people streaming past you. For a sub-4, that's between 5:45 and 5:50 a K on your watch."
+
+"If you want those numbers for your own goal, email us your race and goal time through the link in the bio."
+
+**[THE FIRST GEL]**
+
+"Your first gel goes in at 20 minutes, before you feel you need it. Take a 30 gram gel with a few sips of water. Then take one every 30 minutes on the clock, whether you feel like it or not."
+
+**[THE 5K SIGN]**
+
+"At the 5K sign, say this in one breath. I am running a marathon today and I feel good. If you can't get all 10 words out, you're going too fast, so ease off until you can."
+
+"That's what it tells you about 5K. What it tells you about 32K is the part to save."
+
+**[32K TO THE FINISH]**
+
+"By 30K you'll get about 5 words out in a breath. Near the end, it's 2 or 3. If you had all 10 at the 5K sign, that's right on plan. The easy start is what's carrying you now. If you were down to 5 before halfway, this is where that start catches up with you. Every good result we've been sent with splits ran the second half as fast as the first or faster. So from 32K, take shorter, quicker steps and run one lamppost at a time."
+
+"Send this to whoever's on the start line with you."
+
+## Caption
+Say this at the 5K sign, in one breath: "I am running a marathon today and I feel good." If all 10 words come out, your pace is right. If they don't, ease off until they do. By 30K you'll get about 5 words out in a breath, and 2 or 3 near the end. That's on plan. If you were down to 5 before halfway, you went off too fast, and 32K is where it shows.
+
+The first 10K should feel too easy. For a sub-4, run it between 5:45 and 5:50 a K (9:15 to 9:23 a mile). For 3:45, between 5:25 and 5:30 (8:43 to 8:51 a mile). For 4:30, between 6:30 and 6:35 (10:28 to 10:36 a mile).
+
+Your first gel goes in at 20 minutes: a 30g gel with a few sips of water. Then one every 30 minutes, whether you feel like it or not. That's about 60g of carbs an hour.
+
+Every good result we've been sent with splits ran the second half as fast as the first or faster. From 32K, shorter, quicker steps, one lamppost at a time.
+
+Want your own plan? Email us your race and goal time through the link in the bio and we'll send it to you for free.
+
+Cover photo: [photographer], [licence], via [site].
+
+## Pinned comment
+Email us your race and goal time through the link in the bio and we'll send you your plan for free. How many of the 10 words did you get out at 5K last time?
+
+## Cover (search terms, P14 Oct rule; licence check on each)
+1. "runner passing 5K marker road race" (one runner, face away, the 5K sign readable)
+2. "marathon runner kilometre marker alone"
+3. "runner 5 km sign race" (Unsplash, Pexels, or Google Images with the Creative Commons filter)
+Never a crowd, a face, a name bib or a brand (G14).
+
+## Facts check
+| Claim | Source | Status |
+|---|---|---|
+| The title's claim: the 10 words stop you hitting the wall | The wall starts in the first 10K (FACTS); the talk test catches a too-fast start (FACTS, long run v4) | Luke to OK the wording |
+| 10 words at the 5K sign tell you how 32K goes | FACTS talk test (10 in one breath early, about 5, then 2-3); "5 before halfway, too fast" (long run v4) | Pass |
+| 35K a walk, being passed (the pain) | The wall reels; FACTS pacing; what runners describe (walking, being passed) | Pass |
+| A race photo of you passing people at 35K (the dream) | The results pattern: finished faster than they started (evidence file, 4 Nov) | Pass as a dream |
+| Sub-4 first 10K between 5:45 and 5:50 | FACTS: first 10K 5-10 s/K slower (sub-4 = 5:41) | Pass |
+| First gel at 20 minutes, 30g, a few sips of water, then every 30 | FACTS fuel schedule | Pass |
+| Can't get all 10 out at 5K means too fast; ease off | FACTS talk test; long run v4 | Pass |
+| About 5 words at 30K, 2 or 3 near the end | FACTS talk test | Pass |
+| Down to 5 before halfway catches up with you at 32K | Long run v4 ("5 before halfway, too fast"); the wall starts in the first 10K (FACTS) | Pass |
+| Every good result with splits ran the second half as fast or faster | Results evidence (4 Nov); 200 plans v4 facts table | Pass |
+| Shorter, quicker steps; one lamppost at a time | FACTS pacing | Pass |
+
+## Humanizer (P169)
+| Check | Result |
+|---|---|
+| check.py | 0 flags (see the gate run) |
+| Puffed-up significance, promotional words, AI vocabulary, "is" dodges | None found on a line-by-line read |
+| Negative parallelism ("not X, it's Y") | None; v1's "neither went wrong where you'd expect" (a riddle) is gone |
+| Rule of three by habit | None: the stages are 4 because the race has 4 parts here |
+| Verbless fragments | Fixed: v1's "All 10 in one breath early, a bit breathy by halfway, about 5 by 30K." is now "By 30K you'll get about 5 words out in a breath, and 2 or 3 near the end." |
+| Riddles and euphemisms | Fixed: v1's "That's the part race day can't fix" is gone |
+| Second meanings, read aloud | None ("say this in one breath", "passing people" are plain) |
+| Contractions, talk like a friend | Contractions throughout; the talk-test sentence is a quote and stays as it is |
+| Colon lists read aloud | None in the audio |
+
+## What the gate found
+**v1 (the review's plan: new 15-second hook, the filmed body kept)** failed
+17 tests: the checker on G24 (4 sentences over 22 words), G25 (3 numbers in
+a sentence) and G30 (no review), and the independent reviewer on G4, G5,
+G7, G8, G9, G13, G14, G16, G17, G18, G20, G22, G24 and G29. The biggest:
+the title named a method, not their goal (G4); no stake now (G5); the
+filmed body followed strangers, not the viewer (G7); "16 have raced and
+messaged back" may include Luke's own time and the misses were described
+without consent (G9); the 16 / 10 / 2 scoreboard put a "10" for PBs under
+"10 WORDS" (G13, G14); the gap closed at stage 3 of 4, and the rehook
+promised a surprise that its own stage contradicted (G16, G22); the stages
+were themes, not a clock (G20); the pain named the cause and reused the
+"find out at 32K" shape, and the dream was a stranger's PB (G18).
+
+**So the plan to refilm 15 seconds and keep the body can't pass.** The body
+breaks G7, G20, G24 and G25 in words already filmed. v2 is a full refilm
+(about 90 seconds, one take in the car).
+
+**What v2 changed:** a title with their fear in it; line one as a
+prediction in distance they'd argue with; the stages on one race clock,
+each told to "you" and ending on an action with a number; the words given
+at the 5K sign and what they mean held for 32K; the pain as the cruel
+reversal and the dream as the morning-after photo (shapes the last 3 didn't
+use); no counts in the audio, so no "is Luke in the 16" problem and nobody
+described; no scoreboard; "runner 201" gone (FACTS says about 200); long
+sentences split; the gel clock in three short sentences.
+
+**What's left:** G8. The 10-word test was the payoff of the long run reel
+(3 Nov) and the 16 results trial (4 Nov). This is a repeat unless Luke
+decides it's allowed (C21 in `gate/contradictions.md`).

@@ -204,14 +204,18 @@ a new cause becomes a new row in the same turn.**
 **Waiting on Luke: the 21 contradictions (`gate/contradictions.md`).** Then
 GATE.md goes to v1 and the [C#] lines change to his answers.
 
-**First script through the gate: the 16 results refilm**
-(`ideas/engine-room-nutrition/2026-11-04-script-16-results-refilm.md`, reviews in
-`gate/reviews/`). See the file for v1 (the review's plan) against the final
-version, and why the "refilm 15 seconds only" plan didn't pass.
+**First gate run: the 16 results refilm. Verdict: don't film it**
+(`gate/runs/2026-11-04-16-results-refilm.md`, reviews in `gate/reviews/`).
+v1 (the review's plan: refilm 15 seconds, keep the body) failed 17 tests; v2
+(a full rebuild) failed 10. What's left is the topic: the 10-word test was the
+payoff of 3 reels (G8, C21), no race inside 4 weeks (G5), the title names no
+event (G11), and "every good result with splits" isn't a real count (G22).
+The hook wouldn't commit the failing script, so it's kept as a record and its
+teleprompter was removed. Recommendation: put the filming time into Valencia.
 
 **Live and waiting on Luke:**
-- 16 results: is Luke's own 3:44:13 one of the 16 ("messaged back")? OK on
-  "race day can't fix it, practise on the long runs"? Read the first trial
+- 16 results: is Luke's own 3:44:13 one of the 16? How many results came
+  with splits, and how many held the second half? Read the first trial
   (459 views, 44.4% skip at 1h) at 24h.
 - Cover v2 for the results video: one real runner's line ("about 10 minutes
   quicker than planned"), needs her OK; under C9 it's the grid cover or a
