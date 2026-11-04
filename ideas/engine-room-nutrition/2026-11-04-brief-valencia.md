@@ -33,7 +33,7 @@ differ). Water and sports drink at stations about every 5K.
 ## The method, in numbers (sub-4, the common goal, ledger row 23)
 | Stage | What to do | Numbers (from our sub-4 plan, 14 Oct) |
 |---|---|---|
-| START TO 10K: THE FREE K'S | Slower than it feels; ignore the people flying past | Watch between 5:40 and 5:45; about 57:30 at the 10K sign; all 10 words in one breath; first 30g gel at 20 minutes |
+| START TO 10K: THE FREE K'S | Slower than it feels; ignore the people flying past | Watch between 5:45 and 5:50; about 58 minutes at the 10K sign; all 10 words in one breath; first 30g gel at 20 minutes |
 | 29K: THE OLD TOWN | Don't surge with the crowd | Hold between 5:35 and 5:40; gel on the clock, every 30 minutes |
 | 30 TO 34K: THE RISE YOU CAN'T SEE | Hold the effort, let the pace slip a few seconds | About 5 words before a breath; shorter, quicker steps |
 | 34 TO 38K: THE QUIET STRAIGHT | Lamppost to lamppost, one K at a time | About 3:47 at 40K; 2 or 3 words between breaths is the plan |
