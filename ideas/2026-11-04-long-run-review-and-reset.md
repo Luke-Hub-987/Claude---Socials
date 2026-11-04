@@ -100,3 +100,60 @@ in a ranking (P113); anything after the finish line.
   that's ours. Next: WHERE THE VALENCIA / MARATHON IS LOST (brief now);
   then A SUB-4 MARATHON / ON 3 RUNS A WEEK and [N] MARATHON PLANS once
   Luke sends the numbers.**
+
+---
+
+## Luke's read of the list (4 Nov) and the rethink
+
+Luke would stop for #1 (Valencia) and nothing else: "people who don't have
+a marathon till spring don't really want to see marathon content... it's
+like studying for an exam that's 4 months away." #2 (sub-4 on 3 runs) is
+specific but has no race behind it; #3 no stakes or deadline; #4 why care
+about plan mistakes with no marathon coming; #8 okay but the same problem.
+**He's right, and it sharpens P178 into P179: the deadline is the one
+that's required, and it has to be inside about 4 weeks.** The winners'
+data said it all along (every top reel went up 1 to 4 weeks before the
+viewer's race).
+
+### Who has a deadline inside 4 weeks, right now
+| Pond | The deadline | How we know they're there |
+|---|---|---|
+| **Valencia runners** | 6 December | The only big marathon in the window for Irish and UK runners (check the other December races before naming any) |
+| **Team-sport players** | Their next match, every weekend | The match reel: 26.2% skip, our best ever |
+| **Saturday 5K runners** | This Saturday, every Saturday | Huge in Ireland and the UK; untested by us |
+| **Anyone about to spend money on running** | Black Friday, 27 November | Briar's stake is money; this is the one week money is on everyone's mind |
+Spring marathoners come back when their race is 1 to 4 weeks out: Seville
+and Barcelona from late January, then March and April.
+
+### The shortlist (each title: a deadline inside 4 weeks plus one more)
+| # | OST | Deadline | The second element | Needs |
+|---|---|---|---|---|
+| 1 | **WHERE THE VALENCIA / MARATHON IS LOST** | 6 Dec | A named race + the wall's shape | Course research (brief next) |
+| 2 | **WHY YOU'RE GONE / AT 70 MINUTES** | The next match | A number in players' own words; one sport (soccer, 90 minutes) | Rerun of the match reel, after its 24-hour read |
+| 3 | **HOW TO TAKE 30 SECONDS / OFF YOUR PARKRUN** | Saturday | A number | Luke's 5K pacing science (not in FACTS); check naming parkrun on screen |
+| 4 | **BEFORE YOU SPEND £200 / ON BLACK FRIDAY** | 27 Nov | Money | Luke's view on where the minutes really are (fuel before shoes is the counter-position and the bar's bridge) |
+
+### LLM Council (P150)
+- **Contrarian:** Three of the four aren't marathon videos, and the
+  account is a marathon fuel brand. A parkrun or shoe video could pull
+  followers who never buy a marathon bar.
+- **Assumption-ripper:** The account doesn't lose its marathon identity by
+  going quiet on marathons for 10 weeks; it loses viewers by posting
+  marathon videos nobody needs yet (55.5%). Every one of these still ends
+  on the plan or the bar's moment (the 30 minutes before a match, a
+  Saturday 5K, fuel before shoes).
+- **Expansionist:** Black Friday is the one week a money title is honest
+  for us, and "the cheapest minutes are in your fuel" is the bar's whole
+  pitch. Saturday 5Ks happen 52 weeks a year.
+- **Outsider:** "Valencia's in 4 weeks, my match is Sunday, parkrun is
+  Saturday. Those I'd watch. A spring marathon? Ask me in February."
+- **Executor:** Valencia brief today; the match rerun once Luke sends its
+  24-hour read; parkrun and Black Friday need Luke's numbers this week;
+  Valencia race-week reposts from 26 Nov as planned.
+- **Blind cross-review:** All agree on the deadline rule. The Contrarian's
+  point sets the test: these go out as trial reels only, and each is
+  judged on skip and follows, not just views.
+- **Chairman:** **No marathon content without a race inside 4 weeks.
+  Valencia now; the match rerun and a Saturday 5K test as the weekly
+  deadlines; Black Friday as a one-off; spring marathon content returns
+  when those races are 1 to 4 weeks away.**

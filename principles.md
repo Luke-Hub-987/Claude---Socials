@@ -5621,6 +5621,21 @@ General titles ("how hard your long run should feel", "where your
 marathon goes wrong") are out. Briar's swipe file is the model: his stake
 is money, ours is the race.
 
+## P179 — The deadline is required, and it's inside about 4 weeks (Luke, 4 Nov)
+
+Luke, on the reset list: "People who don't have a marathon till spring
+don't really want to see marathon content. That is just a fact... it's
+like studying for an exam that's 4 months away. I don't really need this
+now." He'd stop only for Valencia (4 weeks out).
+
+**The rule (sharpens P178):** of the two elements a title carries, one
+must be **a deadline the viewer has inside about 4 weeks**: their race,
+their next match, Saturday's 5K, a date like Black Friday. A number,
+constraint, proof or method on its own isn't a stake. **Marathon content
+goes only to runners whose race is 1 to 4 weeks away** (Valencia now;
+spring races from late January). The test: is this an exam they sit this
+month?
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

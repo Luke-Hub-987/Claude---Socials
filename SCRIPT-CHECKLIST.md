@@ -245,6 +245,10 @@ twice without being checked against the winners (P99).
       35.1% skip, against 39.3% and 46.7%. Real images only, ideally one
       person.
 
+- [ ] **The deadline is required and inside about 4 weeks (P179, Luke 4 Nov):**
+      their race, their next match, Saturday's 5K, a date. Marathon content
+      only for races 1 to 4 weeks away. "Studying for an exam 4 months away"
+      is a fail.
 - [ ] **Two of five in the title (P178, Luke 4 Nov):** a specific number or
       race / a deadline the viewer has now / a constraint / proof from our
       own work / a method that's ours. Plus the pond check: who has this
