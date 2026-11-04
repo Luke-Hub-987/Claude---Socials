@@ -157,3 +157,43 @@ and Barcelona from late January, then March and April.
   Valencia now; the match rerun and a Saturday 5K test as the weekly
   deadlines; Black Friday as a one-off; spring marathon content returns
   when those races are 1 to 4 weeks away.**
+
+---
+
+## Luke's second read (4 Nov) and the evergreen lane
+
+- **Valencia: yes** (brief: `ideas/engine-room-nutrition/2026-11-04-brief-valencia.md`).
+- **"Why you're gone at 70 minutes": not specific.** "Gone at 70 minutes
+  in what? A concert, a park?" A named race ("the Valencia marathon")
+  needs no explaining; a phrase players don't use does. New rule P180:
+  the title names the thing in the words people already use.
+- **parkrun:** okay, not one he'd race to. Parked behind the others.
+- **Black Friday: good,** a deadline that's soon. By P180 the title names
+  what's being bought: **BEFORE YOU BUY RUNNING / SHOES ON BLACK FRIDAY**.
+  Needs Luke's view on where the minutes really are (fuel before shoes).
+- **Evergreen, Briar-sized:** "How I took my income from 0K to 30K"
+  works with no deadline because the stake is huge and only he can say
+  it. Our version is a race result that changes a runner's year, with
+  real numbers only we have. New rule P181.
+
+### Evergreen ideas (real numbers and consent needed for every one)
+| # | OST | The stake | Only we can say it because | Needs |
+|---|---|---|---|---|
+| E1 | **HOW A FIRST-TIMER / BROKE 3:30** | A first marathon under 3:30 | It's a real result from our inbox (FACTS: a first-timer under 3:30 after Dublin) | Their OK and their splits (P172) |
+| E2 | **FROM [4:2X] TO [3:5X] / IN ONE MARATHON** | Half an hour off, a different runner | A subscriber's before and after, on our plan | A real subscriber, their OK |
+| E3 | **HOW I TOOK [X] MINUTES / OFF MY MARATHON** | Luke's own minutes | It's Luke's | Luke's real times; told as what the viewer copies (P158: the viewer stays the hero) |
+| E4 | **WHAT [N] RUNNERS / DID AT 30K** | What actually happens at the wall, from real runners | Our inbox and our plans | The real N and what they said, counts only |
+
+### LLM Council (P150)
+- **Contrarian:** E1 and E2 depend on strangers saying yes, and one
+  result can look like luck.
+- **Assumption-ripper:** One real result with real splits beats any claim
+  we could make; the splits are what make it believable, and the viewer
+  sees their own race in it.
+- **Expansionist:** E1 is the plan's best advert: a first-timer, a big
+  number, our plan. It answers "does it work?" before anyone asks.
+- **Outsider:** "A first-timer broke 3:30? How? I'd watch that any month."
+- **Executor:** Luke asks the first-timer for consent and splits this
+  week; Valencia brief to script on his yes; Black Friday on his view.
+- **Chairman:** **Valencia now; Black Friday by 27 Nov; E1 as the first
+  evergreen video the moment the runner says yes.**

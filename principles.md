@@ -5636,6 +5636,30 @@ goes only to runners whose race is 1 to 4 weeks away** (Valencia now;
 spring races from late January). The test: is this an exam they sit this
 month?
 
+## P180 — "In what?": the title names the thing, in words people already use (Luke, 4 Nov)
+
+Luke on WHY YOU'RE GONE / AT 70 MINUTES: "Gone at 70 minutes in what? A
+concert, a park? ... not specific enough whatsoever. Whereas the Valencia
+Marathon, people know exactly that."
+
+**The rule:** read the title cold and ask "in what?" If the answer isn't
+on screen, it fails. Name the race, the event or the object (the Valencia
+marathon, running shoes, a football match), and use the phrase people
+already say, never one we made up.
+
+## P181 — Evergreen needs a Briar-sized stake that only we can show (Luke, 4 Nov)
+
+Luke: "Evergreen topics, not stuck to a deadline... real novel value, the
+element nobody else can say... like 'how I took my income from 0K to
+30K': there's a lot of stakes, a lot of money on the line, and I can make
+my life an awful lot better."
+
+**The rule:** a video with no deadline needs a result that changes a
+runner's year (a first marathon under 3:30, half an hour off a PB), told
+with real numbers only we have (our inbox, our plans, Luke's and Jamie's
+own races), with consent (P172). The viewer is still the hero (P158):
+the result is shown so they can copy it.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

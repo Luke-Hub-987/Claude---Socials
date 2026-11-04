@@ -245,6 +245,11 @@ twice without being checked against the winners (P99).
       35.1% skip, against 39.3% and 46.7%. Real images only, ideally one
       person.
 
+- [ ] **"In what?" (P180, Luke 4 Nov):** the title names the race, event or
+      object in words people already use. "Gone at 70 minutes" fails.
+- [ ] **No deadline? Then a Briar-sized stake only we can show (P181):** a
+      real result with real numbers from our inbox, plans or Luke's and
+      Jamie's races, with consent.
 - [ ] **The deadline is required and inside about 4 weeks (P179, Luke 4 Nov):**
       their race, their next match, Saturday's 5K, a date. Marathon content
       only for races 1 to 4 weeks away. "Studying for an exam 4 months away"
