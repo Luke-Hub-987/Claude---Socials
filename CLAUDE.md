@@ -11,6 +11,14 @@ Claude Code loads this file automatically. It is the handover between
 chats. Keep it current: update **Current state** after every review and
 every posted video.
 
+## FIRST, every new chat (P190, Luke 4 Nov)
+**If `GATE.md` doesn't exist yet, build it before writing any script, brief,
+title or cover.** One gate of about 30 pass/fail tests distilled from every
+principle, a checker script wired as a hook, an independent reviewer for the
+judgement tests, the opening frame mocked up at phone size. Then slim this
+file: move old "Current state" entries to `ideas/state-archive.md`. Once
+`GATE.md` exists, every script passes it before Luke sees it.
+
 ## Read before writing anything (in this order)
 
 0. **`FACTS.md`: the fixed facts (who they are, what they carry, the gel
