@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Results Scoreboard</title>
+<!-- Two static frames for the results reel: ?f=wide (1920 x 1080, frame one) or ?f=cover (1080 x 1920).
+     The counts are parameters (?r=16&p=10&m=2) so a recount is a URL change, not an edit. -->
+<style>
+@font-face{font-family:'DM Serif Display';src:url(../fonts/DMSerifDisplay-400-normal.woff2) format('woff2');}
+@font-face{font-family:Barlow;font-weight:600;src:url(../fonts/Barlow-600-normal.woff2) format('woff2');}
+@font-face{font-family:Barlow;font-weight:700;src:url(../fonts/Barlow-700-normal.woff2) format('woff2');}
+:root{--navy:#0d1726;--cream:#f4efe6;--blue:#1f7ae0;--amber:#f5b52e;--rule:#22324a}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{background:var(--navy)}
+.frame{position:relative;background:var(--navy);overflow:hidden;color:var(--cream)}
+.board{display:grid;grid-template-columns:repeat(3,1fr)}
+.cell{display:flex;flex-direction:column;align-items:center}
+.cell+.cell{border-left:var(--rw) solid var(--rule)}
+.num{font-family:'DM Serif Display',serif;font-weight:400;line-height:.86;font-variant-numeric:lining-nums tabular-nums}
+.num.hi{color:var(--amber)}
+.lab{font-family:Barlow,sans-serif;font-weight:600;color:var(--blue);letter-spacing:.12em}
+.logo{position:absolute;display:block}
+
+/* 16:9 frame one */
+.wide{width:1920px;height:1080px}
+.wide .board{position:absolute;left:120px;right:120px;top:50%;transform:translateY(-54%);--rw:4px}
+.wide .num{font-size:440px}
+.wide .lab{font-size:64px;margin-top:40px}
+.wide .logo{right:56px;bottom:48px;width:150px}
+
+/* 9:16 cover; everything sits inside the 4:5 grid crop (y 285 to 1635) */
+.cover{width:1080px;height:1920px}
+.cover .title{position:absolute;left:0;right:0;top:390px;text-align:center;font-family:Barlow,sans-serif;font-weight:700;
+  font-size:86px;line-height:1.08;letter-spacing:.01em;text-transform:none}
+.cover .board{position:absolute;left:40px;right:40px;top:720px;--rw:3px}
+.cover .num{font-size:310px}
+.cover .lab{font-size:46px;margin-top:30px}
+.cover .logo{left:50%;transform:translateX(-50%);top:1470px;width:150px}
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script>
+const q = new URLSearchParams(location.search);
+const R = q.get('r') || '16', P = q.get('p') || '10', M = q.get('m') || '2';
+const kind = q.get('f') === 'cover' ? 'cover' : 'wide';
+const board = `<div class="board">
+  <div class="cell"><div class="num">${R}</div><div class="lab">RESULTS</div></div>
+  <div class="cell"><div class="num hi">${P}</div><div class="lab">PBs</div></div>
+  <div class="cell"><div class="num">${M}</div><div class="lab">MISSED</div></div>
+</div>`;
+const title = kind === 'cover' ? `<div class="title">${R} MARATHON RESULTS.<br>${P} PBs, ${M} MISSES</div>` : '';
+document.getElementById('root').innerHTML =
+  `<div class="frame ${kind}">${title}${board}<img class="logo" src="../brand/ern-logo-white.png" alt="Engine Room Nutrition"></div>`;
+</script>
+</body>
+</html>
