@@ -156,6 +156,7 @@ a new cause becomes a new row in the same turn.**
 | 22 | **A busy first second** | Last marathon 52.4% (a splits list, tiles, labels and a strip in the top band; a repeat of P147) | One big element, or Luke alone with the title, for the first 3 seconds; graphics from stage 1; checked at phone size (P159) |
 | 23 | **Someone else's numbers** | Email wall: a 3:23 plan, saves 0.4%, shares 0.1% (30 Oct) | The worked example is a goal most viewers have (3:45 to 4:00, sub-4), or the plan for every common goal is in the caption and the last frame |
 | 26 | **Advice they already know** | Match reel v1: our race-morning clock ported to football (Luke caught, 3 Nov, before filming); the carousel stopped at 1.6 of 5 photos (consistent, not proof) | Name the belief we overturn and what they learn that they didn't know; known advice is one short stage at most (P175). Rows 24 and 25 were withdrawn on 1 Nov |
+| 27 | **A general title: no number, no deadline, nothing new** | Long run 55.5% skip (4 Nov); where it goes wrong 52.1%; last marathon 52.4%; taper 43.1%; heavy legs 0.5% saves | Two of five in the title: number or race, deadline, constraint, proof, our own method (P178) |
 
 ## The rules that matter most (quick reference; the checklist has all)
 
@@ -239,7 +240,9 @@ a new cause becomes a new row in the same turn.**
 
 ## Current state (update this every session)
 
-**As of 3 November 2026.**
+**As of 4 November 2026.**
+
+**Long run review + title reset (4 Nov, `ideas/2026-11-04-long-run-review-and-reset.md`, P178, ledger row 27):** HOW HARD YOUR LONG RUN / SHOULD FEEL: IG trial 290 views, **skip 55.5% (worst ever)**, 10s, 2 saves; TikTok 394, 10.4s. Same room and day as the match reel (26.2%), so the title and topic did it. Luke: not specific, no time pressure, nothing new, wrong pond. **Every title now carries two of: a number or race, a deadline, a constraint, proof from our work, a method that's ours (Briar's swipe file as the model).** Ideas: **WHERE THE VALENCIA / MARATHON IS LOST (next, brief)**; A SUB-4 MARATHON / ON 3 RUNS A WEEK; YOUR SPRING MARATHON / IS DECIDED BY CHRISTMAS; [N] MARATHON PLANS. / ONE MISTAKE IN MOST; FROM [4:1X] TO [3:5X] / IN ONE MARATHON; WHERE MARATHONERS / LOSE [20] MINUTES; RANKING MARATHON / BREAKFASTS, S TO D; IF I HAD 16 WEEKS / TO RUN A SUB-4 MARATHON. Need from Luke: N plans, a subscriber result with consent, the 3-runs science, the minutes, breakfast placements.
 
 **Long run v4 (3 Nov, `ideas/engine-room-nutrition/2026-11-03-script-long-run-v4.md`, teleprompter `-v4.txt`; replaces v2 and v3):** Luke: update it so every council member agrees. Line one a paradox runners argue with ("your voice knows your long run is going wrong before your watch does"); CTA at 0:37; race day in every stage ("the race-day sentence", the race-day gel clock, 5 words = 20-30K on race day as the reason to slow down); **gel line fixed to FACTS (30g at 20 minutes, then every 30, with water; v2/v3 had a bare gel and 20-25g)**. 302 words, hook 79. Council unanimous. Two training claims still need Luke's OK.
 

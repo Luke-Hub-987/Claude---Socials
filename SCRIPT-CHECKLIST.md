@@ -245,6 +245,11 @@ twice without being checked against the winners (P99).
       35.1% skip, against 39.3% and 46.7%. Real images only, ideally one
       person.
 
+- [ ] **Two of five in the title (P178, Luke 4 Nov):** a specific number or
+      race / a deadline the viewer has now / a constraint / proof from our
+      own work / a method that's ours. Plus the pond check: who has this
+      deadline this week? A general title is a fail (long run 55.5% skip).
+
 ## 4. Hook stack (~15 to 18 seconds)
 
 - [ ] **THE GAP (P176, Luke 3 Nov, reminded "every single time"):** one

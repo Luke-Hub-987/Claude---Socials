@@ -29,6 +29,7 @@ it produces.
 | 2o | Where your marathon ACTUALLY goes wrong | 1.9K IG at ~4h (2.8K with FB); TikTok 1.3K, 11 saves | **Skip 52.1%**; the 11th reel in a row in the 2K to 6K band since 20 Oct: mostly the calendar (P174); saves 0.9% |
 | T1 | The wall, reposted as a trial reel (2 Nov) | 3,537 non-follower views | **Skip 33.3%, 24s watched, 32 saves, 5 follows**: the old winner beat every new reel since Dublin under the same November ceiling |
 | T2 | Where your legs ACTUALLY go in a match (IG trial + ERN TikTok, 3 Nov, ~2h) | 242 IG / 112 TikTok | **Skip 26.2%, our lowest ever**, but 9s watched (most gone by 0:15), 1 save, 0 shares, 0 MATCH; TikTok 6.1s. Read at 24h. Hypothesis: the soccer clock didn't fit the rugby/GAA photos |
+| T4 | HOW HARD YOUR LONG RUN / SHOULD FEEL (IG trial + ERN TikTok, 3 Nov, ~10h) | 290 IG / 394 TikTok | **Skip 55.5%, our worst**; 10s watched, 2 saves, 0 shares. A general title with no number, deadline or new thing (row 27, P178) |
 | 3x | What to wear for a cold marathon | 15.4K at ~15h | Real cover: **skip 35.1%** (AI covers 39.3%, 46.7%); save 0.9%, reach stalled at ~11K IG: kit advice without a plan is watch-once |
 | 3 | What to do 7 days before a marathon | **31.4K at 14h** | **B**, the paradox opener ("weigh more on race morning, and that is the week going right"); 802 saves, 43 follows |
 | 3b | What to do in the first 10 minutes of a marathon | **27.1K at 12h** | **B on race day** + the photograph-test paradox ("your first K should be the slowest K of your whole race"); share 1.4%, a record |

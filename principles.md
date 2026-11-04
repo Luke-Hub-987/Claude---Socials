@@ -5602,6 +5602,25 @@ home with the watch still running; a slice of orange at half-time. Known
 advice goes inside a scene and gets one line. Test each line: could they
 picture where they are and what's in their hand? If not, rewrite it.
 
+## P178 — Every title carries two of: a number, a deadline, a constraint, proof, or a method that's ours (Luke, 4 Nov)
+
+Luke on the long run (55.5% skip, our worst): "We're not being specific
+enough... there's no time pressure, no desire to sit down and watch...
+nothing new or novel... a lure the fish have seen 1,000 times... look at
+the on-screen texts Briar Cochran has done. The stake in his is money; we
+need the equivalent."
+
+**The rule:** before a brief, the title must carry at least two of:
+1. **A specific number or named race** (sub-4, 3:45, Valencia, 30K).
+2. **A deadline** the viewer has now (their race in 1 to 4 weeks, Christmas, 16 weeks).
+3. **A constraint** on a life they have ("on 3 runs a week").
+4. **Proof from our own work** (our plans, a subscriber's real times, with consent).
+5. **A method that's ours, named** (the 10-word test, the hidden wall).
+And the pond check: who has this deadline this week? If nobody, it waits.
+General titles ("how hard your long run should feel", "where your
+marathon goes wrong") are out. Briar's swipe file is the model: his stake
+is money, ours is the race.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
