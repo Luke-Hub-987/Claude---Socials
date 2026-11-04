@@ -255,11 +255,13 @@ a new cause becomes a new row in the same turn.**
 
 **As of 4 November 2026.**
 
+**200 plans v4, ready to film (4 Nov, same files):** counted from Luke's screenshots: 14 runners + 2 inbox misses = **16 results, 10 PBs (4 first marathons), 2 misses**. Title **16 MARATHON RESULTS. / 10 PBs, 2 MISSES**; the 10-words runner ran a sub-4 PB (stage 3 ends on it); one ran the same time for both halves into the wind (stage 1). 326 words, 1,628 characters, hook 94, CTA 0:39. Only the stage 4 last line waits on Luke's OK. Frame one: 16 / 10 / 2.
+
 **200 plans v3 (4 Nov, P187, same files):** Luke: "200 sent, only 10 PBs" reads as 5%. Title now **17 MARATHON RESULTS. / [15] HIT THEIR GOAL**; 200 only in line one as the offer; audio "17 have raced and emailed back, 15 hit their goal". 319 words, hook 95. Needs Luke: the real 17 and 15. Ledger row 28.
 
 **200 plans v2 (4 Nov, P186, same files):** Luke: "get it wrong / get it right" in every script, and still no gap in line one (both repeats, my miss). New line one: "We've sent 200 runners a free marathon plan, and one said the same 10 words on repeat from the start line to 40K." (gap: what words? shut at stage 3, THE 10 WORDS). Pain = what's riding on it + the cruel timing (4 months on one morning, find out at 32K as the 4-hour flag pulls away); dream = a split at 40K quicker than your first. 317 words, hook 95, CTA 0:38. check.py now flags the template; the Valencia brief's pain and dream rewritten.
 
-**Script ready (4 Nov, `ideas/engine-room-nutrition/2026-11-04-script-200-plans.md`, teleprompter `2026-11-04-teleprompter-200-plans.txt`):** Briar's pick, title now **17 MARATHON RESULTS. / [15] HIT THEIR GOAL** (v3); markers THE START / THE GEL CLOCK / THE 10 WORDS / THE 2 THAT MISSED; v2 317 words, hook 95, CTA "you'll be runner 201" at 0:37. Format: IG trial reel from ERN, ERN TikTok regular post, nothing on personal TikTok, stories results series, frame one a 200/10/2 scoreboard. Needs Luke: confirm the 10, the one runner's OK, the last-stage claim.
+**Script ready (4 Nov, `ideas/engine-room-nutrition/2026-11-04-script-200-plans.md`, teleprompter `2026-11-04-teleprompter-200-plans.txt`):** Briar's pick, title now **16 MARATHON RESULTS. / 10 PBs, 2 MISSES** (v4); markers THE START / THE GEL CLOCK / THE 10 WORDS / THE 2 THAT MISSED; v2 317 words, hook 95, CTA "you'll be runner 201" at 0:37. Format: IG trial reel from ERN, ERN TikTok regular post, nothing on personal TikTok, stories results series, frame one a 16/10/2 scoreboard. Needs Luke: the last-stage claim.
 
 **Briar pass, uncomfortably specific (4 Nov, P185):** 200 plans sent (Luke). Titles now: **200 MARATHON PLANS. / [10] PBs, 2 MISSES (lead; Luke to confirm the PB count); SHE PLANNED 4:30. / SHE RAN 4:20:51 (her OK, name hidden); £250 SHOES FOR A / 4-HOUR MARATHON? (Black Friday, price to check; Luke's 3:44 in line one).**
 

@@ -10,7 +10,7 @@ privacy: counts and patterns only (P154, P172). No names, handles, quotes or ind
 ## The results, in counts
 - About 200 plan requests since 1 September (Gmail estimate; Luke to
   confirm how many plans were sent).
-- About 17 results back after Dublin so far.
+- **Counted 4 Nov from Luke's 16 screenshots: 14 runners** (one sent twice) plus Luke's chip time; with the 2 inbox misses, **16 results: 10 PBs (6 said PB, 4 first marathons), 4 more on or under plan, 2 missed.**
 - **Most are PBs or first-marathon goals:** several PBs (the biggest about
   16 minutes), first marathons under 3:30 and under 4:00, and 2 runners who
   said they finished about 10 minutes faster than they expected.
