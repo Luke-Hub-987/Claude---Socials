@@ -245,6 +245,10 @@ twice without being checked against the winners (P99).
       35.1% skip, against 39.3% and 46.7%. Real images only, ideally one
       person.
 
+- [ ] **The gate table (P182, Luke 4 Nov):** every title in an idea list
+      is checked against in what? / photograph / now / their goal /
+      collision / new / cost of scrolling / not a gimmick, in a table in
+      the file. A fail is cut, never shown to Luke.
 - [ ] **"In what?" (P180, Luke 4 Nov):** the title names the race, event or
       object in words people already use. "Gone at 70 minutes" fails.
 - [ ] **No deadline? Then a Briar-sized stake only we can show (P181):** a

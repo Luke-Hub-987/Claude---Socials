@@ -5666,6 +5666,23 @@ viewer's goal; someone else's result is the proof inside, never the
 title ("How a first-timer broke 3:30" becomes "How to break 4 hours in
 your first marathon", with the real result in line one).
 
+## P182 — Every idea list ships with the gate table; a title that fails a gate is cut, not shown (Luke, 4 Nov)
+
+Luke: "Not creative enough nor specific enough... where the stitch comes
+from? The stitch in my clothing, my side, my runners? ... You're not
+thinking through all of our principles. Read through them in detail."
+I broke P180 one message after writing it and kept offering marathon
+topics with no race near (P179).
+
+**The rule:** before any title reaches Luke, it goes through every gate,
+in a table, in the file: **in what?** (P180), **photograph** (P58),
+**now** (P179, or a Briar-sized stake only ours, P181), **their goal**
+(P181), **collision** (P87, P94), **new** (P175), **cost of scrolling**
+(P54), **not a gimmick** (P167). Any fail is cut and listed under "cut,
+and why". Also: use ERN's own counter-position (P44), the 30 minutes
+before you run or play, and keep the matches in the pool (best skip
+ever, 26.2%).
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
