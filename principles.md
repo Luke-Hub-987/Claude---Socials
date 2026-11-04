@@ -5799,6 +5799,24 @@ audio ("17 have raced and emailed back"), and keep the big number away from
 the result (it can be the reach of the offer in line one). Say "hit their
 goal" when first marathons are in the count, not "PB".
 
+## P188 — Every layer says something new: the frame, the title and line one never repeat each other (Luke, 4 Nov)
+
+Luke on the 16 / 10 / 2 scoreboard cover: "It's literally saying the exact
+same thing as the on-screen text... people can read quicker than they
+listen... they don't complement each other, they say the exact same thing,
+and we're wasting space." Right, and it's Briar's rule: the eye reads the
+title in a second, so a picture that repeats it adds nothing and burns the
+top third of the screen.
+
+**The rule:** before any cover or frame one, write one line for each layer,
+the job it does and what it adds:
+- **Title:** the claim (the score, the result, the question).
+- **Picture (cover / frame one):** what the title can't say. Proof only we
+  have, the stake as a scene, or the moment the dream happens. Never the
+  title's words or numbers again.
+- **Line one:** the gap (P186).
+If two layers say the same thing, change one.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

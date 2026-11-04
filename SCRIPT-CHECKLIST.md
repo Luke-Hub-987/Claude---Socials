@@ -282,6 +282,9 @@ twice without being checked against the winners (P99).
       out, which line holds it shut (the named concept), which stage closes
       it, and the rehook that reopens it before the last stage. Line one's
       last words leave "how?" or "which?". No gap line, no script.
+- [ ] **Layers don't repeat (P188):** one line each for the title, the
+      picture and line one; each adds something new. A cover that restates
+      the title fails (the 16 / 10 / 2 scoreboard, Luke caught).
 - [ ] **Denominator test (P187):** divide every number on screen by the
       biggest number next to it. If the rate reads as failure (10 PBs of
       200 plans = 5%), use the true base (results back) and say it aloud.

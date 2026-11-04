@@ -170,6 +170,7 @@ a new cause becomes a new row in the same turn.**
 | 26 | **Advice they already know** | Match reel v1: our race-morning clock ported to football (Luke caught, 3 Nov, before filming); the carousel stopped at 1.6 of 5 photos (consistent, not proof) | Name the belief we overturn and what they learn that they didn't know; known advice is one short stage at most (P175). Rows 24 and 25 were withdrawn on 1 Nov |
 | 27 | **A general title: no number, no deadline, nothing new** | Long run 55.5% skip (4 Nov); where it goes wrong 52.1%; last marathon 52.4%; taper 43.1%; heavy legs 0.5% saves | Two of five in the title: number or race, deadline, constraint, proof, our own method (P178) |
 | 28 | **Numbers that read as failure** | 200 plans / 10 PBs read as 5% (Luke caught, 4 Nov, before filming) | Divide each number on screen by the biggest one next to it; the true base, said aloud (P187) |
+| 29 | **A picture that repeats the title** | 200 plans cover: the 16 / 10 / 2 scoreboard under the same numbers in the title (Luke caught, 4 Nov, before posting) | One line per layer (title, picture, line one); each says something new (P188) |
 
 ## The rules that matter most (quick reference; the checklist has all)
 
@@ -254,6 +255,8 @@ a new cause becomes a new row in the same turn.**
 ## Current state (update this every session)
 
 **As of 4 November 2026.**
+
+**200 plans cover v2 (4 Nov, P188, ledger row 29):** Luke: the scoreboard cover just repeats the title. Now **one real message from a plan user (beat her own plan by about 10 minutes), cropped to that one line, big, name and photo hidden; needs her OK.** The words stay in Luke's phone, not the repo. Title = the score, picture = one runner's own proof, line one = the 10-word gap. Fallback: a real licensed photo of one runner glancing at their watch late in a race.
 
 **200 plans v4, ready to film (4 Nov, same files):** counted from Luke's screenshots: 14 runners + 2 inbox misses = **16 results, 10 PBs (4 first marathons), 2 misses**. Title **16 MARATHON RESULTS. / 10 PBs, 2 MISSES**; the 10-words runner ran a sub-4 PB (stage 3 ends on it); one ran the same time for both halves into the wind (stage 1). 326 words, 1,628 characters, hook 94, CTA 0:39. Only the stage 4 last line waits on Luke's OK. Frame one: 16 / 10 / 2.
 
