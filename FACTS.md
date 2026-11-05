@@ -219,3 +219,18 @@ with the date.
   at about 35K. 3:45: 5:25-5:30 then 5:15-5:20 (10K 54:35, half 1:53:18, 32K
   2:51:00, 40K 3:33:20, finish 3:44:57). 4:30: 6:30-6:35 then 6:15-6:20 (10K
   1:05:25, half 2:15:14, 32K 3:23:50, 40K 4:14:10, finish 4:27:59).
+
+## Sub-4 at every 10K sign (Luke's 14 Oct plan, ideas/engine-room-nutrition/2026-10-14-script-sub-4.md)
+- **Watch paces carry a GPS buffer** (the watch reads about 1% long): 5:42 on
+  the watch to 10K, then 5:35. Time on the watch at each sign (watch 1% long,
+  typical): 10K about 57:30, 20K about 1:54, 30K about 2:50, 40K about 3:47.
+  Within about 30 seconds is on plan; if the watch pace and the sign disagree,
+  trust the sign. Inside 4 hours even with the watch 1.5% long.
+- **Already posted (14 Oct, 30.4K lifetime, best TikTok 9.5K).** The sign
+  times, the GPS buffer and "trust the sign" are not new to our audience.
+- Even sub-4 pace on the watch (5:41) with the watch 1% long finishes about
+  4:02:20. Answer only, never the sum (P155).
+- **Correction, 5 Nov:** the "5:45-5:50 then 5:35-5:40" bands in the 200 plans
+  script and in the Valencia block above are course pace with no GPS buffer.
+  Read on a watch that's 1% long, they finish about 4:01. Any new sub-4 script
+  uses the 14 Oct watch numbers, or states that its bands are course pace.

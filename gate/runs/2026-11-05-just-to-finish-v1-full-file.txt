@@ -1,0 +1,120 @@
+---
+type: script (gated)
+gate: v1
+generated_at: 2026-11-05
+teleprompter: 2026-11-05-teleprompter-just-to-finish.txt
+basis: idea #9 in ideas/engine-room-nutrition/2026-11-05-ideas-so-me-v2.md (Luke said yes; the brief file named in the request was never committed, so this file carries the brief); FACTS (sub-4 bands, the watch reads about 1% long, C22 gels, C24 the time at each 10K sign)
+format: IG trial reel from ERN (trial on, auto-share off) + ERN TikTok, same file
+---
+
+# 'JUST TO FINISH'? / YOUR SUB-4 MARATHON
+
+## Gate fields
+- OST: 'JUST TO FINISH'? / YOUR SUB-4 MARATHON
+- Markers: START TO 10K / 10K TO 30K / 30K TO THE FINISH
+- Gap phrase: the pace on your watch
+- Gap held by: "I'll give you the 4 numbers that tell you the truth on the day, so write them down and save this."
+- Gap closed by: 30K TO THE FINISH
+- Frame one: Luke in the car in the ERN running top, the title; no picture; subtitles start at 0:03
+- Frame one words: title only
+- Mockup: ideas/engine-room-nutrition/mockups/2026-11-05-just-to-finish-frame-one.png
+- Layer title: what they say out loud ("just to finish") against the goal they don't (sub-4)
+- Layer picture: none, on screen or as the cover (Luke and the title)
+- Layer line one: the gap, the pace on their own watch can still land them a 4:02
+- Worked example goal: sub-4
+- Forecast: IG trial at 24 hours, 300 to 3,500 views, skip 26% to 55%, saves 0.4% to 2.5%. Base: our last 4 trial reels (the wall repost 3,537 views and 33.3% skip; the long run 290 and 55.5%; the match 242 and 26.2% at 2h; 16 results 459 and 44.4% at 1h); sub-4 at every 10K (14 Oct) saved at 2.5%
+
+## Brief (P138, in place of the missing brief file)
+- **Who:** a runner who's told everyone their marathon is "just to finish" and wants sub-4 (idea #9, Luke's yes).
+- **The belief we overturn (P175):** "if my watch says sub-4 pace, I'm on for sub-4". The watch reads about 1% long, so even sub-4 pace on it finishes about 4:02.
+- **The method in numbers:** watch bands (5:45 to 5:50 to 10K, then 5:35 to 5:40), and the time on the watch at each 10K sign as the check (C24): about 58:00, 1:54, 2:50, 3:47. Gels on the clock (C22).
+
+## The gap
+Waiting for: why the pace on their own watch can land them a 4:02, and
+what to trust instead. Held by "4 numbers that tell you the truth". The
+numbers arrive stage by stage; the rehook ("So why can't you just trust the
+pace on your watch?") reopens line one; 30K TO THE FINISH shuts it.
+
+## Line-one gap test (P186)
+| Test | Answer |
+|---|---|
+| Line one alone: what does a stranger ask? | "How can sub-4 pace on my watch end up 4:02?" |
+| One specific question? | Yes |
+| Can they guess it? | No: they trust the watch; that it reads long over 42K is the part they don't know |
+| About them or a stranger? | Them: their watch, their finish time |
+| Which stage answers it? | 30K TO THE FINISH |
+| Anything earlier give it away? | No: stages 1 and 2 give the sign times without the reason |
+
+## Stack (shapes the last 3 didn't use)
+| Beat | Line | Shape | What the last 3 used (200 plans, long run v4, match v2) |
+|---|---|---|---|
+| Gate + gap | "If you secretly want a sub-4 marathon, the pace on your watch can still walk you into a 4:02 finish." | Their trusted tool, against them | A stranger's 10 words; "your voice knows... before your watch does"; legs decided standing still |
+| Pain | "You told everyone it was just to finish, so you can't even tell anyone why crossing in 4:02 has you gutted." | **The secret you can't share** (the cost, with the feeling) | What's riding on it + find out at 32K; walking home, watch running; legs won't go |
+| Dream | "After watching this, you'll go under 4 hours and get to tell the people you said just to finish to." | **The message they send** (the morning after) | A 40K split on your watch; past your own front door; getting to the ball |
+| Hold + save | "I'll give you the 4 numbers that tell you the truth on the day, so write them down and save this." | Names the shape, not the numbers | "3 things, and the 10 words are one" |
+| Rehook | "So why can't you just trust the pace on your watch?" | Line one's question asked back | "Which leaves the 2 who missed" |
+| Send | "Send this to the friend you're running with who also says it's just to finish." | Who, and the in-joke | "Send this to whoever you're running your next marathon with" |
+
+## Script
+
+"If you secretly want a sub-4 marathon, the pace on your watch can still walk you into a 4:02 finish."
+
+"You told everyone it was just to finish, so you can't even tell anyone why crossing in 4:02 has you gutted."
+
+"After watching this, you'll go under 4 hours and get to tell the people you said just to finish to."
+
+"I'll give you the 4 numbers that tell you the truth on the day, so write them down and save this."
+
+**[START TO 10K]**
+
+"Run the first 10K between 5:45 and 5:50 a K on your watch, and let people go past. Your first 30 gram gel goes in at 20 minutes. When you pass the 10K sign, look at the time on your watch. It should say about 58 minutes."
+
+"If sub-4 isn't your goal, email us your race and goal time through the link in the bio for your own plan."
+
+**[10K TO 30K]**
+
+"Now settle between 5:35 and 5:40. Take a gel every 30 minutes, and grab a bottle of water if you're passing a station. At the 20K sign, your watch should say about 1:54. At the 30K sign, about 2:50."
+
+"So why can't you just trust the pace on your watch?"
+
+**[30K TO THE FINISH]**
+
+"Your watch reads a bit long, a little more on every bend. Run sub-4 pace on it all day and you finish in about 4:02. That's why the time at each sign is the number to trust. If it's later than it should be, run the quicker end of your band. At the 40K sign, your watch should say about 3:47, and sub-4 is yours."
+
+"Send this to the friend you're running with who also says it's just to finish."
+
+## Caption
+Told everyone your marathon is just to finish, but you want sub-4? Here's the plan, with the 4 numbers to check on the day.
+
+Run the first 10K between 5:45 and 5:50 a K on your watch (9:15 to 9:23 a mile). Then settle between 5:35 and 5:40 (8:59 to 9:07 a mile) all the way home.
+
+The 4 numbers are the time on your watch at each 10K sign: about 58:00 at 10K, 1:54 at 20K, 2:50 at 30K and 3:47 at 40K. Your watch reads a bit long over a marathon, so the pace on it can look like sub-4 and still bring you in around 4:02. The signs are measured on the course, so they're the check. If you're behind at a sign, run the quicker end of the band until you're back on.
+
+Gels: a 30g gel at 20 minutes, then one every 30 minutes on the clock. If you're passing a water station, grab a bottle and take a few sips with it. That's about 60g of carbs an hour.
+
+Want the same plan for your own goal? Email us your race and goal time through the link in the bio and we'll send it to you for free.
+
+## Pinned comment
+What did you tell people your goal was, and what is it really? Email us your race and goal time through the link in the bio and we'll send you your plan for free.
+
+## Facts check
+| Claim | Source | Status |
+|---|---|---|
+| Sub-4 pace on a watch that reads long finishes about 4:02 | FACTS: the watch reads about 1% long; worked: 5:41 x 42.195K x 1.01 = 4:02:20 (FACTS, sub-4 at every 10K sign) | Pass |
+| "Your watch reads a bit long, a little more on every bend" | FACTS (about 1% long); P155's own plain line; tangents (weaving adds distance) | Pass |
+| The first 10K between 5:45 and 5:50; then 5:35 to 5:40 | FACTS pacing (first 10K 5-10 s/K slower; sub-4 = 5:41); the sub-4 plan | Pass |
+| Watch time at the signs: about 58:00, 1:54, 2:50, 3:47 | FACTS, sub-4 at every 10K sign (worked from the bands) | Pass |
+| The sign is the check; if you're behind, run the quicker end of the band | FACTS pacing; Luke C24 (5 Nov) | Pass |
+| A 30 gram gel at 20 minutes, then one every 30; grab a bottle if you're passing a station | FACTS fuel; Luke C22 (5 Nov) | Pass |
+| The runner who says "just to finish" and wants sub-4 | Idea #9 (ideas chat, 5 Nov); Luke's yes | Luke to OK: is it a habit you've seen in the inbox or your club? (P183) |
+
+## Humanizer (P169)
+| Check | Result |
+|---|---|
+| check.py | 0 flags (see the gate run) |
+| AI vocabulary, puffed-up significance, "is" dodges, signposting | None on a line-by-line read, audio and caption |
+| Negative parallelism, "X, not Y" | None in the audio or the caption |
+| Template lines from the last 3 scripts | None: new rehook, new send line, no "Which leaves", no "Get it wrong" |
+| Second meanings, read aloud | "walk you into a 4:02" means lead you into it (no walking); "gutted" is the everyday word |
+| Mockery | None: the "just to finish" runner is the viewer talking about themselves, and the send line is between friends |
+| Contractions, sentence length | Contractions throughout; no sentence over 22 words |

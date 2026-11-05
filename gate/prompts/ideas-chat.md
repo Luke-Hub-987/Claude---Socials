@@ -29,8 +29,14 @@ plus the ERN TikTok.
    in chat.
 
 HARD RULES (each one is a fail I've already made, and the evidence is in the repo):
-- No repeats. Leave out the 10-word talk test as the payoff (the last 3 reels
-  used it), the 16 results, the long run and anything from the last 3 posts.
+- No repeats, of any reel ever posted, not just the last 3. Before you offer
+  a title, grep ideas/engine-room-nutrition/*script* for its method and its
+  numbers (5 Nov: idea #9 was the 14 Oct sub-4 reel with a new hook, and it
+  failed the gate). Also out: the 10-word talk test as the payoff, the 16
+  results, the long run.
+- Every premise about the viewer ("they tell everyone it's just to finish")
+  needs a source in the repo or Luke's yes to the premise itself, not just to
+  the title (P183).
 - No marathon content unless the viewer's race is within about 4 weeks (the
   only one now is Valencia on 6 Dec, which the script chat is doing for 15 to
   22 Nov). Otherwise use a deadline they have this week, or a result only we

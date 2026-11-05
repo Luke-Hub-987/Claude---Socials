@@ -220,6 +220,12 @@ the clock vs 100m before a station, which never line up on this course), C23
 clock time). The official 2026 map is in `research/`; Valencia facts in FACTS.md.
 Post window stays 15 to 22 Nov. Today's post: the weekly winner repost (no filming).
 
+**Gate run 3: "Just to finish" (idea #9). Not ready** (`gate/runs/2026-11-05-just-to-finish.md`).
+Reviewer: 13 FAILs. It's the 14 Oct sub-4 reel renamed (G8), with no deadline
+(G5) and an unconfirmed premise (G9). My sub-4 bands lacked the GPS buffer
+(FACTS corrected). G8 and the ideas-chat prompt now catch repeats of any
+posted reel. Recommendation for today: repost the 14 Oct sub-4 reel as a trial.
+
 **Two chats (Luke, 5 Nov, P191):** this chat writes scripts and owns GATE.md
 and gate/; a second chat does ideas, topics and OST from `gate/prompts/ideas-chat.md`
 and touches only ideas/. C22 to C24 settled (gels on the clock, grab water when

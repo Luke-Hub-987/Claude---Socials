@@ -129,8 +129,10 @@ story: 44.1% skip, 0 saves.
 
 ### G8 · New, and not a repeat · REVIEWER
 **Test:** Name the belief the viewer holds now and what they'll learn that a
-PE teacher, physio or club coach wouldn't say. It isn't one of the last 3
-posts renamed. It doesn't reopen a number the comments argued with. It has
+PE teacher, physio or club coach wouldn't say. It isn't a reel we've
+already posted, renamed: search every script in ideas/engine-room-nutrition/
+for the same method and numbers, not just the last 3 (gate run 3: idea #9
+was the 14 Oct sub-4 reel with a new hook). It doesn't reopen a number the comments argued with. It has
 one aha that solves their actual complaint.
 **Evidence:** Match v1 ported our race-morning clock (Luke: "nothing new or
 novel"); the long run told them "run easy" (55.5%); "eleven gels" drew 25
