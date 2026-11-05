@@ -6,21 +6,27 @@ basis: Luke 5 Nov ("marathon is the safe stuff... we can't always rely on it... 
 
 # v2: the thing they think and never say
 
+**Fixed 5 Nov (Luke: "does the event need to be in the title?"): yes.** 4 of
+these 10 titles didn't name the event (#1, #2, #5, #9), which is G11 / P180
+("in what?"), a test already in the gate: my miss. Trial reels go to people
+who don't know us, so the title is all the context they get. Every title
+below now names its event.
+
 Each title is a private moment: the exact numbers on their watch, the thing
 they do and don't admit. The marathon ones are the safe slot; the rest
 widen the pond (parkrun, 5-a-side, Sunday league, the evening run).
 
 | # | Pond | OST | Line one | Fix needs |
 |---|---|---|---|---|
-| 1 | Parkrun | **25:04. 25:11. 25:02. / WHY NOT 24:59?** | "If you keep running 25-something at parkrun, you're losing the seconds in the one place you never check." | Luke's 5K numbers |
-| 2 | Parkrun | **SAME PERSON BEATS YOU / EVERY SATURDAY?** | "If the same person finishes just ahead of you at parkrun every week, they're not fitter than you." | Luke's 5K numbers |
+| 1 | Parkrun | **25:04. 25:11. 25:02. / STUCK AT PARKRUN?** | "If you keep running 25-something at parkrun, you're losing the seconds in the one place you never check." | Luke's 5K numbers |
+| 2 | Parkrun | **SAME PERSON BEATS YOU / AT PARKRUN EVERY WEEK?** | "If the same person finishes just ahead of you at parkrun every week, they're not fitter than you." | Luke's 5K numbers |
 | 3 | Parkrun | **YOU CAN SPRINT THE / LAST 100M AT PARKRUN?** | "If you can still sprint the last 100m at parkrun, you've left time somewhere behind you." | Luke's 5K numbers |
 | 4 | 5-a-side + fuel (C8, trial only) | **LAST ATE AT 1PM. / 5-A-SIDE AT 8PM.** | "If you last ate at 1 and kick off 5-a-side at 8, the blowing at 10 minutes isn't your fitness." | Luke's pre-game food numbers (the bar's window, P44) |
-| 5 | Sunday league (C8, trial only) | **STOPPED TRACKING YOUR / MAN AT 70 MINUTES?** | "If you've let your man go at 70 minutes on a Sunday, it wasn't your legs that decided it." | Luke's OK on half-time carbs (the match v2 claims) |
+| 5 | Sunday league (C8, trial only) | **SUNDAY LEAGUE, 70 MIN / AND YOUR MAN'S GONE?** | "If you've let your man go at 70 minutes on a Sunday, it wasn't your legs that decided it." | Luke's OK on half-time carbs (the match v2 claims) |
 | 6 | Evening run + fuel | **A BISCUIT IN THE CAR / BEFORE YOUR 6PM RUN?** | "If you eat a biscuit in the car before a 6pm run, you've got the right idea at the wrong time." | Luke's pre-run numbers (P44) |
 | 7 | Long run + fuel | **ATE THE WHOLE KITCHEN / AFTER A LONG RUN?** | "If you eat everything in the house after a long run, that hunger started during the run." | Luke's science |
 | 8 | Every run (gut: G6 to settle) | **THE TOILET STOP AT / 4K, EVERY SINGLE RUN?** | "If you need a toilet 4K into every run, it's down to what you had 2 hours before." | Luke's science; G6 bars the gut as subject |
-| 9 | Marathon (safe) | **SAID 'JUST TO FINISH'. / SECRETLY WANT SUB-4?** | "If you've told everyone your marathon goal is just to finish, but you want sub-4, here's the plan you won't say out loud." | **Ready: FACTS** (sub-4 bands; the clock at the 10K sign, C24) |
+| 9 | Marathon (safe) | **SAID 'JUST TO FINISH'. / WANT A SUB-4 MARATHON?** | "If you've told everyone your marathon goal is just to finish, but you want sub-4, here's the plan you won't say out loud." | **Ready: FACTS** (sub-4 bands; the clock at the 10K sign, C24) |
 | 10 | Marathon (safe) | **4-HOUR MARATHON PACE / TILL 30K. THEN 6:30?** | "Your clock at the 10K sign already knows if 32K is going to fall apart." | **Ready: FACTS** (C24) |
 
 Premises to check before a brief (P183): the car biscuit (#6) and the
