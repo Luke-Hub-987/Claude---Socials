@@ -55,3 +55,21 @@ a stories poll can confirm either in a day.
   point on #9 goes to the gate (G29, no mockery).
 - **Chairman:** **#9 today; parkrun #1 on Friday; 5-a-side #4 as the first
   non-running trial.**
+
+## Repeat check against every posted script (5 Nov, after gate run 3)
+The script chat gated #9 and it failed 13 tests, mainly G8: it's the 14 Oct
+sub-4 reel (the GPS buffer and the sign times) with a new hook. **My miss: I
+didn't search the old scripts before offering it.** Searched now
+(`grep` across `ideas/engine-room-nutrition/*script*`):
+| # | Idea | Repeat? |
+|---|---|---|
+| 1-3 | Parkrun | Clean (no parkrun script) |
+| 4 | 5-a-side | Clean |
+| 5 | Sunday league | Clean (the match v2 trial used half-time: the fix must be new) |
+| 6 | Car biscuit, 6pm run | Clean |
+| 7 | Hunger after a long run | Clean (20 Sep "not hungry" is race morning) |
+| 8 | Toilet at 4K | Close to the portaloo lines in 11 race-morning scripts: cut |
+| 9 | Just to finish / sub-4 | **Repeat of 14 Oct sub-4: cut** |
+| 2, 10 | Watch vs clock, 10K clock time | **Repeat of 14 Oct sub-4 (the GPS buffer, the sign times): cut** |
+So every clean idea left needs one set of numbers from Luke. Today's post is
+the script chat's call: the 14 Oct sub-4 reel reposted as a trial reel.
