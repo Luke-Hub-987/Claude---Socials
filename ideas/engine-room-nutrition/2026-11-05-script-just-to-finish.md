@@ -20,8 +20,9 @@ format: IG trial reel from ERN (trial on, auto-share off) + ERN TikTok, same fil
 - Frame one words: title only
 - Mockup: ideas/engine-room-nutrition/mockups/2026-11-05-just-to-finish-frame-one.png
 - Layer title: their goal in plain words (a marathon under 4 hours) and the constraint in their own words (said just to finish) and the goal (a sub-4 marathon)
-- Layer picture: none on screen (Luke and the title). **Cover (Luke 5 Nov, "cover photos in our theme"):** `motion/covers/just-to-finish-cover-watch.png` (recommended: a watch reading FINISH 4:02, line one's number as the cost; passes rows 1, 14, 29) or `...-cover-hand.png` (THE HAND PLAN, 4 numbered blanks: the gap, not the answer). Page `motion/covers/just-to-finish.html`.
+- Layer picture: none on screen for 0:00 to 0:03 (Luke and the title). The cover is separate: **Cover (Luke 5 Nov, "cover photos in our theme"):** `motion/covers/just-to-finish-cover-watch.png` (recommended: a watch reading FINISH 4:02, line one's number as the cost; passes rows 1, 14, 29) or `...-cover-hand.png` (THE HAND PLAN, 4 numbered blanks: the gap, not the answer). Page `motion/covers/just-to-finish.html`.
 - Layer line one: the claim they'd argue with (sub-4 pace on the watch gets you 4:02); the hold line opens the gap (which 4 numbers fix it)
+- Top-band frames from 0:03 (Luke 5 Nov, 16:9 like New York): `motion/plan-frames/jtf-*.png`; cuts at about 0:03 the 4:02 watch (line one's number), 0:24 start to 10K, 0:48 10K to 30K, 1:08 30K to the finish, 1:29 the hand plan (retime to the edit). Every number is from the script or the caption.
 - Worked example goal: sub-4
 - Forecast: IG trial at 24 hours, 300 to 3,500 views, skip 26% to 55%, saves 0.4% to 2.5%. Base: our last 4 trial reels (the wall repost 3,537 views and 33.3% skip; the long run 290 and 55.5%; the match 242 and 26.2% at 2h; 16 results 459 and 44.4% at 1h); sub-4 at every 10K (14 Oct) saved at 2.5%
 

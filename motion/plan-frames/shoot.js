@@ -7,7 +7,7 @@ const [page, out, prefix, ...names] = process.argv.slice(2);
   const b = await chromium.launch(); const p = await b.newPage({ viewport: { width: 1920, height: 1080 } });
   p.on('pageerror', e => console.log('ERR', e.message));
   await p.goto('file://' + path.resolve(page));
-  await p.evaluate(() => Promise.all(['800 30px Barlow', '700 30px Barlow', '60px "DM Serif Display"', 'italic 60px "DM Serif Display"'].map(f => document.fonts.load(f))));
+  await p.evaluate(() => Promise.all(['800 30px Barlow', '700 30px Barlow', '60px "DM Serif Display"', 'italic 60px "DM Serif Display"', '700 60px Caveat'].map(f => document.fonts.load(f))));
   for (const [i, name] of names.entries()) {
     await p.evaluate(n => window.render(n), i + 1);
     await p.evaluate(() => document.fonts.ready);
