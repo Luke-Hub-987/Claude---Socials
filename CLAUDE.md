@@ -220,6 +220,11 @@ the clock vs 100m before a station, which never line up on this course), C23
 clock time). The official 2026 map is in `research/`; Valencia facts in FACTS.md.
 Post window stays 15 to 22 Nov. Today's post: the weekly winner repost (no filming).
 
+**Two chats (Luke, 5 Nov, P191):** this chat writes scripts and owns GATE.md
+and gate/; a second chat does ideas, topics and OST from `gate/prompts/ideas-chat.md`
+and touches only ideas/. C22 to C24 settled (gels on the clock, grab water when
+passing a station; the clock at every 10K sign).
+
 **Live and waiting on Luke:**
 - 16 results: is Luke's own 3:44:13 one of the 16? How many results came
   with splits, and how many held the second half? Read the first trial

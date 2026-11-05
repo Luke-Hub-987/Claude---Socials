@@ -498,9 +498,9 @@ recommendation. The full list with evidence is in `gate/contradictions.md`.
 | C18 | A winner at most once a month vs a weekly repost | Weekly repost as a trial |
 | C19 | Forecast from type median vs last 3-5 reels | Last 3 to 5 reels (P171) |
 | C20 | One number per sentence vs bands and the gel clock | At most 2; a band is one; K markers don't count |
-| C22 | Gels: the clock vs 100m before a station (found on run 2) | Station first when 4 to 5K apart, no carrying |
-| C23 | Course videos: is a map fact enough for G17? (run 2) | Yes, if the action with it is new |
-| C24 | Watch pace vs clock time (run 2) | Bands on the watch + the 10K sign time as the check |
+| C22 | Gels: the clock vs 100m before a station | **SETTLED (Luke, 5 Nov):** 20 minutes, then every 30 on the clock; grab a bottle at a station when you pass one |
+| C23 | Course videos: is a map fact enough for G17? | **SETTLED (left to the recommendation, 5 Nov):** yes, if the action with it is new |
+| C24 | Watch pace vs clock time | **SETTLED (Luke, 5 Nov):** bands on the watch; the clock time at every 10K sign is the check |
 | C21 | Re-testing an aha from the last 3 posts (found by the gate on its first run) | G8 fails it; allowed only as a strict one-change A/B on a trial reel |
 
 ---

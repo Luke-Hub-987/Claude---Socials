@@ -5856,6 +5856,21 @@ stamped with the script's hash so an edit forces a re-review), and
 sent to Luke in one list (`gate/contradictions.md`); the gate uses my
 recommendation on each until he settles them.
 
+## P191 — Luke's first decisions on the gate, and two chats with one gate (Luke, 5 Nov)
+
+Luke settled three contradictions: **C22** gels stay on the clock (20 minutes,
+then every 30) and water is rough (grab a bottle when you pass a station);
+**C23** left to the recommendation (a map fact the viewer can't know passes
+G17 when its action is new); **C24** the clock time at every 10K sign is the
+check. He split the work: this chat writes scripts, a second chat generates
+ideas, topics and OST.
+
+**The rule:** both chats work from the same repo, so the gate (hooks, checker,
+reviewer) binds both. The ideas chat touches only ideas/ and its briefs; the
+script chat owns GATE.md, gate/ and principles.md. A brief only becomes a
+script after Luke's yes, and only reaches him through the gate. The ideas
+chat's prompt is `gate/prompts/ideas-chat.md`.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

@@ -1,7 +1,7 @@
 ---
 type: decision list for Luke (P190)
 generated_at: 2026-11-04
-status: OPEN. GATE.md uses the recommendation on each until Luke settles it. Answer by number ("C1 yes, C8 keep the gate...").
+status: OPEN except C22, C23, C24 (settled by Luke, 5 Nov). GATE.md uses the recommendation on each until Luke settles it. Answer by number ("C1 yes, C8 keep the gate...").
 ---
 
 # 24 contradictions in the rules, one list
@@ -37,6 +37,14 @@ ideas/. Ordered by how much they change a script.
 | **C22** | **Gels on a water-station course:** "a 30g gel every 30 minutes on the clock (20 and 50 past)" against "every gel with 3 or 4 sips of water, about 100m before a station". On Valencia the clock never lands at a station (sub-4: 3.5, 8.6, 13.9K... against water at 5.5, 10, 14.5K...) | FACTS fuel, P137 vs FACTS "100m before a station", the 21 Oct gel reel | **Station first when they're 4 to 5K apart:** take each gel 100m before the station nearest its clock time, never more than about 35 minutes apart. No carrying, no new method, and the clock stays the guide. Your call: would you carry a bottle from the pen or between stations instead? |
 | **C23** | **Course videos and "a line one they'd argue with":** a course video's aha is a map fact (where the course goes), which the reviewer fails as "a coach would say it" or "guessable" | G8, G17 vs P161, the New York reel (saves 2.3%), the Valencia brief | **Course videos pass G17 on a map fact the viewer can't know without the map** (for example, 31K to 34K runs away from the finish), as long as the action it comes with is new. Otherwise no course video can pass |
 | **C24** | **Watch pace vs clock time:** paces are given as watch bands, but the watch reads about 1% long, so the clock times at halfway and 40K drift about a minute | FACTS pacing ("the times at the 10K signs are the real check") vs every goal-time script | **Bands on the watch, plus one clock time at the 10K sign as the check;** halfway and 40K times only in the caption, marked "by the clock" |
+
+## Settled by Luke (5 Nov)
+- **C22:** first gel at 20 minutes, then every 30 minutes on the clock. Water is
+  rough, not a method: if you're passing a station, grab a bottle and take a few
+  sips. No carrying from the start pen, no "100m before a station" rule.
+- **C23:** Luke left it; the recommendation stands (a map fact the viewer can't
+  know without the map passes G17 when the action with it is new).
+- **C24:** the clock time at each 10K sign is the check; paces stay as watch bands.
 
 ## Already settled, so not on the list
 Whisper vs no whisper (dropped, P91); cards on screen (corrected 24 Sep);

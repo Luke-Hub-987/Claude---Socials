@@ -42,6 +42,10 @@ with the date.
   sips first to make room, squeeze the whole gel in, shake, sip it over
   the next 2K, finish before the next gel; no sports drink on top. Cup
   races: gel 100m before the station, then 3-4 sips.
+- **Luke, 5 Nov (C22): the clock wins.** First gel at 20 minutes, then every 30
+  minutes. Water is rough: if you're passing a station, grab a bottle and take
+  a few sips with the gel. Don't move gels to the stations or carry bottles.
+  The "100m before the station" lines above and below are superseded.
 - Every gel with 3 or 4 sips (100-150ml) of plain water, about 100m before
   a station. Never washed down with sports drink. Sports drink between gels.
 - Never 2 or more gels together (out of the wall). Missed one: let it go.
@@ -53,7 +57,8 @@ with the date.
 ## Pacing: the numbers we use
 - First 10K 5-10 s/K slower than goal; up to a minute behind at halfway.
 - Watch reads about 1% long; watch paces a few seconds quicker than real
-  goal pace; the times at the 10K signs are the real check.
+  goal pace; the times at the 10K signs are the real check. **Luke, 5 Nov (C24):
+  give the clock time at every 10K sign (10K, 20K, 30K, 40K) as the check.**
 - Paces as 5-second bands; numerals in scripts (P131, P132).
 - Talk test: "I am running a marathon today and I feel good": 10 words in
   one breath, 10 breathy, about 5, then 2-3.
