@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Just To Finish Covers</title>
+<!-- Covers for SAID JUST TO FINISH. / WANT SUB-4 MARATHON? (5 Nov), 1080 x 1920, all inside the 4:5 grid crop (y 285 to 1635).
+     ?v=watch : the watch that reads 4:02 (line one's number, the cost, not the answer)
+     ?v=hand  : the hand plan with its 4 numbers left blank (the gap, not the answer) -->
+<style>
+@font-face{font-family:'DM Serif Display';src:url(../fonts/DMSerifDisplay-400-normal.woff2) format('woff2');}
+@font-face{font-family:Barlow;font-weight:600;src:url(../fonts/Barlow-600-normal.woff2) format('woff2');}
+@font-face{font-family:Barlow;font-weight:700;src:url(../fonts/Barlow-700-normal.woff2) format('woff2');}
+@font-face{font-family:'Barlow Condensed';font-weight:800;src:url(../fonts/BarlowCondensed-800-normal.woff2) format('woff2');}
+@font-face{font-family:Caveat;font-weight:700;src:url(../fonts/Caveat-700-normal.woff2) format('woff2');}
+:root{--navy:#0d1726;--navy2:#14253d;--cream:#f4efe6;--blue:#1f7ae0;--gold:#f5b52e;--muted:#9fb0c6;--red:#ff8a80}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{background:var(--navy)}
+.frame{position:relative;width:1080px;height:1920px;background:var(--navy);overflow:hidden;color:var(--cream)}
+.title{position:absolute;left:0;right:0;top:360px;text-align:center;font-family:Barlow,sans-serif;font-weight:700;font-size:84px;line-height:1.1;letter-spacing:.01em}
+.title .hi{color:var(--gold)}
+.logo{position:absolute;left:50%;transform:translateX(-50%);top:1500px;width:140px}
+
+/* the watch */
+.strap{position:absolute;left:50%;width:330px;margin-left:-165px;background:var(--navy2)}
+.strap.top{top:640px;height:120px;border-radius:40px 40px 0 0}
+.strap.bot{top:1300px;height:120px;border-radius:0 0 40px 40px}
+.case{position:absolute;left:50%;top:720px;width:640px;height:620px;margin-left:-320px;border-radius:120px;background:#223149}
+.screen{position:absolute;inset:26px;border-radius:96px;background:#05080d;display:flex;flex-direction:column;align-items:center;justify-content:center}
+.screen .lab{font-family:Barlow,sans-serif;font-weight:600;font-size:46px;letter-spacing:.16em;color:var(--muted)}
+.screen .time{font-family:'Barlow Condensed',sans-serif;font-weight:800;font-size:300px;line-height:.9;color:var(--red);margin-top:10px;font-variant-numeric:tabular-nums}
+
+/* the hand plan */
+.card{position:absolute;left:50%;top:680px;width:620px;height:720px;margin-left:-310px;border-radius:44px;background:var(--cream);color:#1a2333;padding:56px 70px}
+.card .head{font-family:Barlow,sans-serif;font-weight:700;font-size:44px;letter-spacing:.14em;color:var(--blue);text-align:center;margin-bottom:26px}
+.row{display:flex;align-items:flex-end;height:130px}
+.row .n{font-family:Caveat,cursive;font-weight:700;font-size:118px;line-height:1;width:96px}
+.row .blank{flex:1;height:0;border-bottom:7px solid #1a2333;margin-bottom:26px;border-radius:4px}
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script>
+const v = new URLSearchParams(location.search).get('v') === 'hand' ? 'hand' : 'watch';
+const title = `<div class="title">SAID JUST TO FINISH.<br>WANT <span class="hi">SUB-4</span> MARATHON?</div>`;
+const watch = `<div class="strap top"></div><div class="strap bot"></div>
+  <div class="case"><div class="screen"><div class="lab">FINISH</div><div class="time">4:02</div></div></div>`;
+const hand = `<div class="card"><div class="head">THE HAND PLAN</div>
+  ${[1, 2, 3, 4].map(n => `<div class="row"><div class="n">${n}</div><div class="blank"></div></div>`).join('')}</div>`;
+document.getElementById('root').innerHTML =
+  `<div class="frame">${title}${v === 'hand' ? hand : watch}<img class="logo" src="../brand/ern-logo-white.png" alt="Engine Room Nutrition"></div>`;
+</script>
+</body>
+</html>
