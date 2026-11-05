@@ -4,7 +4,7 @@ generated_at: 2026-11-04
 status: OPEN. GATE.md uses the recommendation on each until Luke settles it. Answer by number ("C1 yes, C8 keep the gate...").
 ---
 
-# 21 contradictions in the rules, one list
+# 24 contradictions in the rules, one list
 
 Found reading principles.md (P1 to P190), SCRIPT-CHECKLIST.md, the CLAUDE.md
 ledger and quick reference, FACTS.md, PLAN-winners.md and every review in
@@ -33,6 +33,10 @@ ideas/. Ordered by how much they change a script.
 | **C19** | **Forecasts:** a range from the type median; the median of the last 3 to 5 reels at the same hour plus one reason; lifetime 1.6 to 2.1 times day one | P145 vs P171 vs CLAUDE.md | **P171 for every forecast** (the base reels named, a range, never "confident"); the multiplier only for lifetime |
 | **C20** | **One number per sentence** against 5-second bands ("between 5:45 and 5:50") and the gel clock ("a 30 gram gel at 20 minutes, then one every 30"), which have 2 or 3 | P155, P157 vs P132, P137 | **At most 2 numbers a sentence; a band counts as one; a K marker doesn't count.** The gel clock gets split into two sentences. This is what the checker enforces now |
 | **C21** | **Re-testing an aha:** "never the video just posted, renamed" and "no line from the last three scripts" against "trial reels A/B the same video's opening" and "repost winners weekly". The 16 results refilm (v2) uses the 10-word test, which was the payoff of the long run reel (3 Nov) and the 16 results trial (4 Nov); the reviewer failed it on G8 | P119, P125, G8 vs P156, P174, tests review 2 Nov | **My recommendation: don't film v2 now.** The same aha has opened two flops in two days (55.5% and 44.4% skip); a third go mostly tests our patience, not a new idea. Allow a re-test only as a strict A/B (one change, same body) on a trial reel. Put the filming time into Valencia, the one marathon pond with a race inside 4 weeks |
+
+| **C22** | **Gels on a water-station course:** "a 30g gel every 30 minutes on the clock (20 and 50 past)" against "every gel with 3 or 4 sips of water, about 100m before a station". On Valencia the clock never lands at a station (sub-4: 3.5, 8.6, 13.9K... against water at 5.5, 10, 14.5K...) | FACTS fuel, P137 vs FACTS "100m before a station", the 21 Oct gel reel | **Station first when they're 4 to 5K apart:** take each gel 100m before the station nearest its clock time, never more than about 35 minutes apart. No carrying, no new method, and the clock stays the guide. Your call: would you carry a bottle from the pen or between stations instead? |
+| **C23** | **Course videos and "a line one they'd argue with":** a course video's aha is a map fact (where the course goes), which the reviewer fails as "a coach would say it" or "guessable" | G8, G17 vs P161, the New York reel (saves 2.3%), the Valencia brief | **Course videos pass G17 on a map fact the viewer can't know without the map** (for example, 31K to 34K runs away from the finish), as long as the action it comes with is new. Otherwise no course video can pass |
+| **C24** | **Watch pace vs clock time:** paces are given as watch bands, but the watch reads about 1% long, so the clock times at halfway and 40K drift about a minute | FACTS pacing ("the times at the 10K signs are the real check") vs every goal-time script | **Bands on the watch, plus one clock time at the 10K sign as the check;** halfway and 40K times only in the caption, marked "by the clock" |
 
 ## Already settled, so not on the list
 Whisper vs no whisper (dropped, P91); cards on screen (corrected 24 Sep);

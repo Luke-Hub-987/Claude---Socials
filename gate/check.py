@@ -241,7 +241,7 @@ def run(path):
         probs.append(f"script {total_words} spoken words (280 to 330) [C3]")
     if not re.search(r"\bsave this\b", " ".join(hook), re.I):
         probs.append("no 'save this' in the hook [C10]")
-    if not re.search(r"\bsend (?:this|it)\b", spoken, re.I):
+    if not re.search(r"\bsend (?:\w+ ){0,2}(?:this|it)\b", spoken, re.I):
         probs.append("no send line in the audio")
     if cta_idx is None:
         probs.append("no CTA (link in the bio)")

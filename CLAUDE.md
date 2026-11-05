@@ -24,7 +24,7 @@ every posted video.
    "blocked on X", never as ready.
 3. Frame one mocked up at phone size: `node gate/shoot_frame.js <out.png> "<query>"`.
 4. Forecasts are ranges from the last 3 to 5 comparable reels, never "confident".
-**GATE.md is v0.9 until Luke settles the 21 contradictions in
+**GATE.md is v0.9 until Luke settles the 24 contradictions in
 `gate/contradictions.md`; the [C#] lines use the recommendation till then.**
 A new script file copies the layout of
 `ideas/engine-room-nutrition/2026-11-04-script-16-results-refilm.md`.
@@ -201,7 +201,7 @@ a new cause becomes a new row in the same turn.**
 (P189) on top, every principle mapped (end of GATE.md). Checker
 `gate/check.py`, hooks in `.claude/settings.json` and `.githooks/`, reviewer
 `.claude/agents/gate-reviewer.md`, phone-size frame tool `gate/shoot_frame.js`.
-**Waiting on Luke: the 21 contradictions (`gate/contradictions.md`).** Then
+**Waiting on Luke: the 24 contradictions (`gate/contradictions.md`).** Then
 GATE.md goes to v1 and the [C#] lines change to his answers.
 
 **First gate run: the 16 results refilm. Verdict: don't film it**
@@ -212,6 +212,13 @@ payoff of 3 reels (G8, C21), no race inside 4 weeks (G5), the title names no
 event (G11), and "every good result with splits" isn't a real count (G22).
 The hook wouldn't commit the failing script, so it's kept as a record and its
 teleprompter was removed. Recommendation: put the filming time into Valencia.
+
+**Gate run 2: Valencia (5 Nov). Not ready to film** (`gate/runs/2026-11-05-valencia.md`).
+v1 to v3 failed the reviewer on 11, 9 and 10 tests. Blocked on Luke's C22 (gels:
+the clock vs 100m before a station, which never line up on this course), C23
+(is a map fact enough for a course video's line one) and C24 (watch pace vs
+clock time). The official 2026 map is in `research/`; Valencia facts in FACTS.md.
+Post window stays 15 to 22 Nov. Today's post: the weekly winner repost (no filming).
 
 **Live and waiting on Luke:**
 - 16 results: is Luke's own 3:44:13 one of the 16? How many results came

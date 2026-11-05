@@ -190,3 +190,27 @@ with the date.
 - Patterns: finished faster than they started; 2 beat their own
   expectation by about 10 minutes; 4 mention the wind.
 
+
+## Valencia Marathon 2026 (official course map, read 5 Nov; research/valencia-2026-official-course.pdf)
+- Sunday 6 Dec 2026, 8:15. Starts at Plaça de la Marató; finishes on "the
+  spectacular blue carpet, floating over the water at the City of Arts and
+  Sciences" (valenciaciudaddelrunning.com, official route page).
+- Flat: altitude 1.8m to 18m, maximum difference 16.2m (map profile). The
+  official site calls it "the world's fastest and flattest circuit".
+- Route unchanged from previous editions (runnea.com).
+- 27K to 31K: a loop of tight, twisting streets round the old town (Torres de
+  Serranos, Plaça de la Reina on the map).
+- 31K to 34K: the course runs away from the finish, out west to the Bioparc /
+  Parc de Capçalera at 34K. From 34K it heads back towards the finish (35K and
+  36K south, then 37K, 38K east, 39K Estació del Nord, 40K Porta de la Mar).
+- Aid stations: 5.5, 10, 14.5, 18.7, 23, 28.3, 33.1, 37.1, 40.4K and the
+  finish: water in 33cl bottles, Aquarius in cups; fruit from 23K.
+- Gels handed out (Enervit, with and without caffeine): 16.2K, 25.8K, 34K.
+- Not confirmed: spectator numbers on any stretch; any climb at 30-34K (the
+  2025 blog's "gentle rise" isn't visible on a 16m profile). Don't use either.
+- Sub-4 worked plan (5 Nov, our numbers): first 10K 5:45-5:50 (about 58:00),
+  then 5:35-5:40 to the finish: halfway about 2:00:20, 32K 3:01:40, 40K 3:46:40,
+  finish about 3:59. Own gel at 20 min then every 30: the 200-minute gel lands
+  at about 35K. 3:45: 5:25-5:30 then 5:15-5:20 (10K 54:35, half 1:53:18, 32K
+  2:51:00, 40K 3:33:20, finish 3:44:57). 4:30: 6:30-6:35 then 6:15-6:20 (10K
+  1:05:25, half 2:15:14, 32K 3:23:50, 40K 4:14:10, finish 4:27:59).

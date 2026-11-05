@@ -1,0 +1,134 @@
+---
+type: script (gated)
+gate: v1
+version: v3 (v1 failed the reviewer on 11 tests, v2 on 9: gate/reviews/2026-11-05-script-valencia.v1-review.txt and .v2-review.txt)
+generated_at: 2026-11-05
+teleprompter: 2026-11-05-teleprompter-valencia.txt
+basis: Luke's yes to Valencia (4 Nov); the official 2026 course map (research/valencia-2026-official-course.pdf, in FACTS.md 5 Nov); FACTS fuel and pacing
+---
+
+# SUB-4 IN VALENCIA? / EVERY K, PLANNED
+
+## Gate fields
+- OST: SUB-4 IN VALENCIA? / EVERY K, PLANNED
+- Markers: THE START PEN / 5.5K TO 34K / 34K: THE FREE GEL
+- Gap phrase: your gels
+- Gap held by: "I'll go through where every one of them lands on this course, K by K, so save this."
+- Gap closed by: 34K: THE FREE GEL
+- Frame one: Luke in the car in the ERN running top, the title; no picture; subtitles start at 0:03
+- Frame one words: title only
+- Mockup: ideas/engine-room-nutrition/mockups/2026-11-05-valencia-frame-one.png
+- Layer title: their goal on their race (sub-4 in Valencia), and a full plan
+- Layer picture: none, on screen or as the cover (Luke and the title); no organiser artwork
+- Layer line one: the gap, most of your gels fall due on a stretch with no water
+- Worked example goal: sub-4
+- Forecast: IG trial at 24 hours, 300 to 3,500 views, skip 33% to 55%, saves 1% to 2.5%. Base: our last 4 trial reels (the wall repost 3,537 views and 33.3% skip; the long run 290 and 55.5%; the match 242 and 26.2% at 2h; 16 results 459 and 44.4% at 1h); New York, our last course reel, 43.2% skip and 2.3% saves
+
+## The gap
+Waiting for: how you get your gels down on a course where most of them fall
+due between water stations. Held by "I'll go through where every one of
+them lands... K by K". THE START PEN closes it for gel 1; 5.5K TO 34K
+closes it for the middle gels; the rehook reopens it ("every gel but one,
+and the course hands that one to you"); 34K: THE FREE GEL shuts it.
+
+## Line-one gap test (P186)
+| Test | Answer |
+|---|---|
+| Line one alone: what does a stranger ask? | "Then how am I meant to take them?" |
+| One specific question? | Yes |
+| Can they guess it? | No: they'd expect 9 stations to be plenty; that the clock and the stations don't line up is a fact about this course they can't know |
+| About them or a stranger? | Them: their gels, their race |
+| Which stage answers it? | A piece at a time; 34K: THE FREE GEL shuts it |
+| Anything earlier give it away? | No: the pain and dream show the cost and the result; the hold names nothing |
+
+## Stack (shapes the last 3 didn't use)
+| Beat | Line | Shape | What the last 3 used |
+|---|---|---|---|
+| Gate + gap | "If you're running Valencia, most of your gels will be due on a stretch of road with no water." | A course fact they'd dispute | 200 plans: a stranger's 10 words. Long run v4: "your voice knows... before your watch does". Match v2: legs decided standing still |
+| Pain | "Take one without water and you're hacking down a thick, sickly gel, with your stomach sloshing and 10K still to go." | **The moment itself, in our inbox's words** ("had to hack the third one down", FACTS) | 200 plans: what's riding on it, find out at 32K. Long run v4: walking the last 2K home. Match v2: the ball 5 yards away, legs won't go |
+| Dream | "After watching this, you'll reach the blue carpet over the water with every gel taken on time. And your stomach won't have turned once." | **The finish they'll see, and how they'll feel on it** (not a watch number, not passing people) | 200 plans: a 40K split on your watch. Long run v4: past your own front door. Match v2: getting to the ball while everyone else walks |
+| Hold + save | "I'll go through where every one of them lands on this course, K by K, so save this." | Announces the shape, names nothing | 200 plans: "3 things, and the 10 words are one" |
+| Rehook | "That works for every gel but one, and the course hands that one to you." | A new problem, made by the course | 200 plans: "Which leaves the 2 who missed" |
+| Send | "If someone you train with is running Valencia, send them this before they pack." | Who and when | 200 plans: "Send this to whoever you're running your next marathon with" |
+
+## Script
+
+"If you're running Valencia, most of your gels will be due on a stretch of road with no water."
+
+"Take one without water and you're hacking down a thick, sickly gel, with your stomach sloshing and 10K still to go."
+
+"After watching this, you'll reach the blue carpet over the water with every gel taken on time. And your stomach won't have turned once."
+
+"I'll go through where every one of them lands on this course, K by K, so save this."
+
+**[THE START PEN]**
+
+"Take a bottle of water into the start pen and keep hold of it. Your first 30 gram gel is due at 20 minutes, about 2K before the first water. Take it with that bottle, then bin it. Keep your watch between 5:45 and 5:50 a K to the 10K sign."
+
+"If sub-4 isn't your goal, email us your race and goal time through the link in the bio for your own plan."
+
+**[5.5K TO 34K]**
+
+"From 5.5K, the water comes in small bottles, not cups. Most of your gels come due between the stations, not at them. So take a bottle at every station, sip it, and carry it with you. When a gel's due, take it with 3 or 4 sips from that bottle. Settle between 5:35 and 5:40, and you'll pass halfway at about 2:00:20."
+
+"That works for every gel but one, and the course hands that one to you."
+
+**[34K: THE FREE GEL]**
+
+"At 34K the course hands out gels, with and without caffeine, that you've never trained with. For a sub-4, your own is due at about 35K, so leave theirs and wait 1K. That's your last gel, and 2 or 3 words between breaths is right on plan by now. Hold between 5:35 and 5:40 and you'll reach 40K at about 3:47."
+
+"If someone you train with is running Valencia, send them this before they pack."
+
+## Caption
+Running Valencia on 6 December? Here's where every gel lands for sub-4, 3:45 and 4:30, and the paces in km and miles.
+
+The water comes in 33cl bottles at 5.5, 10, 14.5, 18.7, 23, 28.3, 33.1, 37.1 and 40.4K, plus the finish. Your gels go on the clock: a 30g gel at 20 minutes, then one every 30 minutes, with 3 or 4 sips of water. That's about 60g of carbs an hour, and none in the last 20 minutes. Take a bottle into the start pen for your first gel, then take a bottle at every station and carry it until your next gel is due.
+
+Sub-4: the first 10K between 5:45 and 5:50 a K (9:15 to 9:23 a mile), about 58:00 at 10K. Then between 5:35 and 5:40 (8:59 to 9:07 a mile) to the finish: halfway about 2:00:20, 40K about 3:46:40, finish about 3:59. Your gels land at about 3.5, 8.6, 13.9, 19.3, 24.6, 29.9 and 35.3K.
+
+3:45: the first 10K between 5:25 and 5:30 a K (8:43 to 8:51 a mile), about 54:35 at 10K. Then between 5:15 and 5:20 (8:27 to 8:35 a mile): halfway about 1:53:20, 40K about 3:33:20, finish about 3:45. Your gels land at about 3.7, 9.2, 14.8, 20.5, 26.1, 31.8 and 37.5K.
+
+4:30: the first 10K between 6:30 and 6:35 a K (10:28 to 10:36 a mile), about 1:05:25 at 10K. Then between 6:15 and 6:20 (10:03 to 10:12 a mile): halfway about 2:15:15, 40K about 4:14:10, finish about 4:28. Your gels land at about 3.1, 7.6, 12.3, 17.1, 21.9, 26.6, 31.4 and 36.2K.
+
+The course hands out its own gels at about 16K, 26K and 34K, with and without caffeine. Leave them and take the ones you've trained with.
+
+Want a plan for your own goal? Email us your race and goal time through the link in the bio and we'll send it to you for free.
+
+Course facts from the official Maratón Valencia 2026 course map.
+
+## Pinned comment
+Running Valencia? Email us your goal time through the link in the bio and we'll send you your own K-by-K plan for free. What's your goal?
+
+## Facts check
+| Claim | Source | Status |
+|---|---|---|
+| Most of your gels fall due between stations, on a stretch with no water | Our gel clock (FACTS fuel) against the official station Ks (FACTS.md, Valencia): sub-4 gels at 3.5, 8.6, 13.9, 19.3, 24.6, 29.9, 35.3K; none at a station | Pass |
+| "Hacking down" a thick, sickly gel; sloshing | FACTS: the email answers ("had to hack the third one down"); real complaints (thick and sickly sweet, sloshing) | Pass |
+| The blue carpet over the water at the finish | Official route page (FACTS.md) | Pass |
+| Take a bottle into the start pen and keep it for the first gel | The first gel at 20 minutes (FACTS) lands about 2K before the first station at 5.5K (official map). The bottle is our fix | Luke to OK: would you carry one in the pen? |
+| Water in small 33cl bottles, not cups | Official site: "Aquabona water (33 cl bottle) and Aquarius in cups" (FACTS.md) | Pass |
+| Take a bottle at every station and carry it to the next gel; 3 or 4 sips with each gel | FACTS: every gel with 3 or 4 sips of plain water; station bottles (Dublin) | Luke to OK: would you carry the bottle between stations? |
+| A 30 gram gel at 20 minutes, then every 30; none in the last 20 minutes | FACTS fuel | Pass |
+| Sub-4: 5:45 to 5:50 to 10K; 5:35 to 5:40 after; halfway about 2:00:20; 40K about 3:47 | FACTS pacing; worked in FACTS.md (Valencia) | Pass |
+| The course hands out gels at 34K, with and without caffeine | Official map and site (FACTS.md) | Pass |
+| Sub-4's own gel due at about 35K, and it's the last | The 200-minute gel at about 35.3K; the 230-minute gel falls in the last 20 minutes (FACTS) | Pass |
+| 2 or 3 words between breaths late on | FACTS talk test; the Valencia brief | Pass |
+| 3:45 and 4:30 gel Ks, bands and times; miles | Worked from FACTS fuel and pacing against the official map; 1 mile = 1.609 km | Pass |
+
+## Humanizer (P169)
+| Check | Result |
+|---|---|
+| check.py | 0 flags (see the gate run) |
+| AI vocabulary, puffed-up significance, "is" dodges, signposting | None on a line-by-line read, audio and caption |
+| Negative parallelism | "in small bottles, not cups" and "between the stations, not at them" are plain contrasts of two facts; neither is the "it's not X, it's Y" reveal shape. Flag for Luke if they read as one |
+| Template lines from the last 3 scripts | None: the rehook and send line are new; no "Which leaves", no "Send this to whoever" |
+| Second meanings, read aloud | None found; "turned" (the stomach) is the everyday phrase |
+| Contractions, sentence length | Contractions throughout; no sentence over 22 words |
+| Caption | Plain prose, no fragments, no "isn't X. It's Y" |
+
+## What changed from v2, and why (the reviewer's fails)
+- **G8, G20:** the stages are now Valencia-only facts with an action each: the first gel before the first water, the 33cl bottles against a 30-minute clock, the course's own gels at 34K. The start band is one line.
+- **G16, G17, G13:** line one is a fact about this course runners would dispute ("9 stations is plenty"), outside the wall zone; the title (their goal, sub-4) and line one (the gels and the water) no longer share words or numbers. The "decide your race" claim is gone, so nothing waits on Luke there.
+- **G22, G23:** the gel is said with its grams, and the way to take it is one they can do on this course (the bottle).
+- **G18, G29:** the pain is the moment the inbox described ("hack it down"); the dream is the finish, not a watch number; new rehook and send lines.
+- **G9, G24:** "stop looking up the road" and "take you away from the finish" are gone.
