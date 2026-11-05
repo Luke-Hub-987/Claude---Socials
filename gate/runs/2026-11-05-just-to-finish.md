@@ -28,3 +28,21 @@ reel (no filming). It's the content idea #9 was reaching for, already
 approved and already proven (30.4K lifetime; 9.5K on TikTok, our best then).
 If Luke wants the "just to finish" hook tested, it's a one-change A/B (C21):
 a new first 15 seconds on the 14 Oct body, and the premise confirmed first.
+
+## Update: Luke said "Just write the script" (5 Nov)
+Recorded as his call on C21 (the repeat), G9 (the premise) and G5 (no
+deadline). v2 to v6 then fixed every writing fail. Reviewer FAILs by version:
+13, 5, 4, 4, 2, 2. v6 passes the checker and 18 of 20 reviewer tests.
+**Still failing: G16 and G17.** The answer is the GPS buffer and the 10K-sign
+check, which we taught on 14 Oct, so a runner who's seen that reel can guess
+it however line one is worded. The reviewer's suggestions went round in a
+circle between v3 and v6. That's a consequence of the repeat Luke allowed, so
+it's his call: film v6 as it is, or don't. v6 is in
+gate/runs/2026-11-05-just-to-finish-v6-full-file.txt (review .v6-review.txt).
+
+## Faster reviews (Luke, 5 Nov: "10 minutes is way too long")
+`check.py --packet` builds one ~11K-token packet; the reviewer reads only that
+and the phone frame, re-grades only FAILs, changed lines and G13/G16/G18, and
+replies in one line. Before: 4.5 to 8 minutes, 95K to 145K tokens, 20 tests
+every round. After: 1:46 to 3:14, 49K to 66K tokens, 4 to 12 tests on a
+re-review.

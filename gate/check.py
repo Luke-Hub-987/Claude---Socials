@@ -454,7 +454,98 @@ def report(path, res, brief=False):
     return not fails
 
 
+# ---------- the review packet (fast reviews, 5 Nov) ----------
+ALWAYS_REGRADE = ["G13", "G16", "G18"]  # whole-script tests: re-graded on every version
+
+
+def gate_tests():
+    g = read(os.path.join(ROOT, "GATE.md"))
+    out = {}
+    for m in re.finditer(r"^### (G\d+) · (.+?) · (\w+)\n\*\*Test:\*\* (.*?)\n\*\*Evidence", g, re.M | re.S):
+        out[m.group(1)] = (m.group(2), " ".join(m.group(4).split()))
+    return out
+
+
+def script_files(exclude):
+    fs = sorted(glob.glob(os.path.join(ROOT, "ideas/engine-room-nutrition/2026-*-script-*.md")))
+    return [f for f in fs if os.path.abspath(f) != os.path.abspath(exclude)]
+
+
+def stack_of(path):
+    t = read(path)
+    title = (re.search(r"^# (.+)$", t, re.M) or re.search(r"\*\*OST:\*\*\s*(.+)", t) or [None, "?"])[1]
+    items = script_items(t) or [("para", m.group(1)) for m in re.finditer(r'^"(.+)"\s*$', t, re.M)]
+    paras = [x for k, x in items if k == "para"]
+    mk = [i for i, (k, _) in enumerate(items) if k == "marker"]
+    rehook = items[mk[-1] - 1][1] if mk and mk[-1] > 0 and items[mk[-1] - 1][0] == "para" else ""
+    return title.strip(), paras, rehook
+
+
+def previous_review(path, h):
+    rp = os.path.join(REVIEW_DIR, os.path.basename(path))
+    if not os.path.exists(rp):
+        return None
+    rv = read(rp)
+    m = re.search(r"Script hash:\s*([0-9a-f]+)", rv)
+    if m and m.group(1) == h:
+        return None
+    return dict((r[0], (r[1], r[2])) for r in re.findall(r"^\|\s*(G\d+)\s*\|\s*(PASS|FAIL)[^|]*\|\s*(.*?)\s*\|", rv, re.M))
+
+
+def packet(path):
+    """One file with everything the reviewer grades against, instead of ~15 reads."""
+    text = read(path)
+    h = script_hash(text)
+    items = script_items(text)
+    spoken = " ".join(t for k, t in items if k == "para")
+    tests = gate_tests()
+    prev = previous_review(path, h)
+    regrade, carried = list(REVIEWER_TESTS), []
+    if prev:
+        regrade = []
+        for t in REVIEWER_TESTS:
+            v, quote = prev.get(t, ("FAIL", ""))
+            quotes = re.findall(r'"([^"]{12,})"', quote)
+            still = all(q.rstrip(".?!…").split("...")[0] in spoken + text for q in quotes) if quotes else False
+            if v == "FAIL" or t in ALWAYS_REGRADE or not still:
+                regrade.append(t)
+            else:
+                carried.append(t)
+    con = read(os.path.join(ROOT, "gate", "contradictions.md"))
+    settled = (re.search(r"## Settled by Luke.*?(?=\n## )", con, re.S) or [""])[0]
+    claude = read(os.path.join(ROOT, "CLAUDE.md"))
+    ledger = (re.search(r"\| # \| Failure .*?(?=\n\n## )", claude, re.S) or [""])[0]
+    out = [f"# Review packet: {os.path.basename(path)}", f"Script hash: {h}", "",
+           "## Grade these tests (PASS or FAIL, quote the line)" + (" (re-review: the rest carry over)" if prev else "")]
+    for t in regrade:
+        name, body = tests.get(t, ("?", "?"))
+        out.append(f"- **{t} {name}:** {body}")
+    if carried:
+        out += ["", "## Carried over from the last review (their quoted lines are unchanged): copy these rows as PASS"]
+        out += [f"- {t}: {prev[t][1][:160]}" for t in carried]
+    out += ["", "## Luke's settled decisions", settled.strip(), "",
+            "## The script file (as written)", text.split("## Humanizer")[0].strip(), "",
+            "## The last 3 scripts' hook lines (for G18 shapes and G8 repeats)"]
+    others = script_files(path)
+    for f in others[-3:]:
+        title, paras, rehook = stack_of(f)
+        out.append(f"- **{os.path.basename(f)}** {title}: line one \"{paras[0] if paras else ''}\" / pain \"{paras[1] if len(paras) > 1 else ''}\" / dream \"{paras[2] if len(paras) > 2 else ''}\" / rehook \"{rehook}\" / send \"{paras[-1] if paras else ''}\"")
+    out += ["", "## Every script we've written: title and line one (G8 repeats; grep the file if one looks close)"]
+    for f in others:
+        title, paras, _ = stack_of(f)
+        out.append(f"- {os.path.basename(f)[:10]} {title[:60]} | {paras[0][:110] if paras else ''}")
+    out += ["", "## The failure ledger (repeats)", ledger.strip(), "", "## FACTS.md", read(os.path.join(ROOT, "FACTS.md"))]
+    pdir = os.path.join(ROOT, "gate", "packets")
+    os.makedirs(pdir, exist_ok=True)
+    pp = os.path.join(pdir, os.path.basename(path))
+    open(pp, "w", encoding="utf-8").write("\n".join(out) + "\n")
+    print(f"{os.path.relpath(pp, ROOT)}: grade {len(regrade)} ({', '.join(regrade)}), carried {len(carried)}; {len(open(pp).read())//4} tokens approx")
+    return 0
+
+
 def main(argv):
+    if argv[:1] == ["--packet"]:
+        return packet(os.path.abspath(argv[1]))
     brief = "--brief" in argv
     argv = [a for a in argv if a != "--brief"]
     if argv[:1] == ["--hash"]:

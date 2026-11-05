@@ -1,0 +1,35 @@
+# Gate review: 2026-11-05-script-just-to-finish.md
+Script hash: d47224e3e5ce9d31
+Reviewed: 2026-11-05, independent (gate-reviewer)
+
+| Test | Verdict | The line it rests on (quoted) | Why, and what would pass |
+|---|---|---|---|
+| G2 | PASS | Mockup: "SAID JUST TO FINISH. / WANT UNDER 4 HOURS?" over Luke, nothing else | At phone size the only words before 0:03 are the title, with no subtitles, tiles or picture. "0:00 TO 0:03" and "LUKE · car · ERN running top (placeholder)" are mockup labels and must not appear in the real frame. |
+| G4 | PASS | "WANT UNDER 4 HOURS?" | It has a numeral and it's the viewer's own goal, not our result. |
+| G5 | PASS | "you can't even tell anyone why a 4:02 has you gutted" | Luke settled the missing deadline for this trial reel only (5 Nov). It passes "who cares" because the fear (just missing sub-4) is real and the 4 sign times are numbers a spring runner will use. |
+| G6 | PASS (carried) | "START TO 10K / 10K TO 30K / 30K TO THE FINISH" | Carried over. |
+| G7 | PASS (carried) | "Run the first 10K between 5:40 and 5:45 a K on your watch" / "If sub-4 isn't your goal, email us" | Carried over. |
+| G8 | PASS | "Number 1 is about 57:30." / "Your watch reads a bit long, so sub-4 pace on it brings you in at 4:02." | This is the 14 Oct sub-4 method and numbers again (sign times, GPS buffer, trust the sign), which would fail on its own. Luke's 5 Nov decision (C21) allows it for this trial reel only. |
+| G9 | PASS (carried) | "And if you told everyone it was just to finish" | Carried over. |
+| G11 | FAIL | "SAID JUST TO FINISH. / WANT UNDER 4 HOURS?" | Read cold, the title never says what is being finished. "Marathon" isn't in it, so a non-runner has to ask "under 4 hours in what?" Would pass: "SAID JUST TO FINISH. / WANT A SUB-4 MARATHON?" (a race word and a number, plus their constraint). |
+| G12 | PASS | "SAID JUST TO FINISH. / WANT UNDER 4 HOURS?" | Title plus frame one is a question with no answer on screen, so skipping it loses the plan. The only number is 4, with nothing beside it to divide by. |
+| G13 | FAIL | Title "WANT UNDER 4 HOURS?" / line one "If you secretly want a marathon under 4 hours" | Line one repeats the title's words and number ("want ... under 4 hours"), so the first half of the spoken layer adds nothing new. Would pass: put the goal in the title only (see G11) and open line one on what is new, e.g. "If that's secretly you, ..." |
+| G14 | PASS (carried) | "Layer picture: none, on screen or as the cover (Luke and the title)" | Carried over. |
+| G16 | PASS | "4 numbers on your hand tell you you've got it by 40K." | The stranger asks one question, "which 4 numbers?", about their own race. The exact times can't be guessed, the hand plan line gives nothing away, the rehook "number 4 is the one that tells you you're under 4 hours" reopens it, and 30K TO THE FINISH closes it. This needs grading again if line one changes for G17. |
+| G17 | FAIL | "If you secretly want a marathon under 4 hours, 4 numbers on your hand tell you you've got it by 40K." | It's a promise and a familiar tip: a runner in the start pen with a pace band on their wrist would say "obviously". It claims nothing they'd argue with. Would pass: line one carries the claim they'd dispute and can't explain, e.g. "If that's secretly you, sub-4 pace on your watch gets you a 4:02." (traced in FACTS: 5:41 with the watch 1% long gives about 4:02:20). |
+| G18 | FAIL | "you can't even tell anyone why a 4:02 has you gutted" | The cost shown is finishing a couple of minutes over the goal. Two of the last 3 scripts used that same picture: "finish a few minutes off their goal" (1 Nov) and "as the 4-hour flag goes" (4 Nov). Only the secret is new, and the author's "last 3" column checks match v2 instead of the 1 Nov script. Would pass: make the secret itself the cost, e.g. smiling for the finish photo and telling everyone you're delighted when you're not. The dream ("run the finish straight already knowing you're under 4 hours") is fine. |
+| G20 | PASS (carried) | "Number 1 is about 57:30." / "run 5:30 until you're back." / "Number 4 is 3:46 or less at the 40K sign. Get there and you're under 4 hours." | Carried over. |
+| G21 | PASS (carried) | Caption: "On your hand: about 57:30 at 10K, 1:54 at 20K, 2:50 at 30K and 3:46 at 40K." | Carried over. |
+| G22 | PASS (carried) | "Number 2 is about 1:54 at the 20K sign. Number 3 is about 2:50 at the 30K sign." | Carried over. |
+| G23 | PASS | "Your first 30 gram gel goes in at 20 minutes. Then take one every 30 minutes on the clock." / "grab a bottle of water if you're passing a station" | Every action uses what they already carry and do: their own gels on the clock, station water as Luke set it (C22), the watch and a pen on the hand. There are no apps, alerts or new kit. |
+| G24 | PASS | "If you're more than 30 seconds behind, run 5:30 until you're back." | It reads aloud as plain speech, with no sentence over about 21 words and no jargon. The cues can be measured (watch bands, sign times, "2 or 3 words between breaths"). |
+| G29 | PASS (carried) | "Send this to the friend you're running with who's also saying it's just to finish." | Carried over. |
+
+## Stranger's question (G16)
+"Which 4 numbers on my hand?" Stages 1 and 2 answer it a piece at a time (57:30, 1:54, 2:50), and 30K TO THE FINISH closes it ("Number 4 is 3:46 or less at the 40K sign").
+
+## FAILs, in the order to fix them
+1. G17: rebuild line one around the claim they'd argue with (sub-4 pace on the watch gets you a 4:02), not the promise of 4 numbers. Then grade G16 again: the stranger's question becomes "so what do I run?", and the hand plan has to stay unguessable until the stages.
+2. G11: put "marathon" in the title, e.g. "SAID JUST TO FINISH. / WANT A SUB-4 MARATHON?"
+3. G13: once the goal is in the title, line one must not say it again ("want a marathon under 4 hours"). Open on the viewer ("If that's secretly you, ...") and go straight to what's new.
+4. G18: rebuild the pain so the cost is the secret, not another near miss on the 4-hour line. Fix the stack table's "last 3 used" column to the real last 3 (1 Nov where it goes wrong, 3 Nov long run v4, 4 Nov 200 plans).

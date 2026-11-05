@@ -19,8 +19,13 @@ pass (P190). They stay as the evidence; this is the test.
 1. `python3 gate/check.py <script file>` runs every AUTO test. The git
    pre-commit hook and the Claude Code hooks run it too, so a failing script
    can't be committed, and the session can't end quietly on one.
-2. An independent reviewer agent (`.claude/agents/gate-reviewer.md`, run
-   cold, no access to my reasoning) grades every REVIEWER test, quotes the
+2. `python3 gate/check.py --packet <script>` builds one review packet (the
+   tests to grade, Luke's decisions, the script, the last 3 hook stacks, every
+   script's title and line one, the ledger, FACTS: about 11K tokens). Then an
+   independent reviewer agent (`.claude/agents/gate-reviewer.md`, run
+   cold, no access to my reasoning) reads only that packet and the phone frame,
+   grades every REVIEWER test (on a re-review: every FAIL, every PASS whose
+   quoted line changed, and G13, G16, G18 always; the rest carry over), quotes the
    line for each verdict, and writes `gate/reviews/<script>.md` stamped with
    a hash of the script. Edit the script after the review and the hash
    breaks: the review has to run again.

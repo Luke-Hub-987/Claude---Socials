@@ -46,6 +46,11 @@ ideas/. Ordered by how much they change a script.
   know without the map passes G17 when the action with it is new).
 - **C24:** the clock time at each 10K sign is the check; paces stay as watch bands.
 
+- **Luke, 5 Nov ("Just write the script"), for the "just to finish" reel only:**
+  C21 allowed (re-test the 14 Oct sub-4 idea with a new hook, as a trial reel);
+  the "just to finish" premise confirmed by Luke (G9); posted as a trial with no
+  race deadline (G5). Any other topic still has to pass G5, G8 and G9.
+
 ## Already settled, so not on the list
 Whisper vs no whisper (dropped, P91); cards on screen (corrected 24 Sep);
 the ERN how-to ban (P68 and the data); motion graphics on the main post

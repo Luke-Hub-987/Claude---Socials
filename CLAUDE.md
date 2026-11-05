@@ -16,8 +16,10 @@ every posted video.
 1. `python3 gate/check.py <script file>`: the AUTO tests. Hooks run it on every
    edit, on every commit (`.githooks/pre-commit`, set by the SessionStart hook)
    and when a turn ends, so a failing script can't be committed or slip out.
-2. The independent reviewer (`.claude/agents/gate-reviewer.md`, run cold as an
-   agent) grades the judgement tests, quotes the line for each verdict, and
+2. Build the packet (`python3 gate/check.py --packet <script>`), then run the
+   independent reviewer (`gate-reviewer` agent, cold) on it: it reads one
+   packet, not 15 files (about 2 minutes, not 10; Luke 5 Nov), re-grades only
+   FAILs and changed lines on a re-review, replies in one line, and grades the judgement tests, quotes the line for each verdict, and
    writes `gate/reviews/<script>.md` stamped with the script's hash. Any edit
    after the review means it runs again. **Fix every FAIL; never overrule it.**
    If a FAIL needs Luke's fact or decision, the script goes to him as

@@ -1,0 +1,32 @@
+# Gate review: 2026-11-05-script-just-to-finish.md
+Script hash: 45941cfcfa530ba0
+Reviewed: 2026-11-05, independent (gate-reviewer)
+
+| Test | Verdict | The line it rests on (quoted) | Why, and what would pass |
+|---|---|---|---|
+| G2 | PASS | Mockup: "SAID JUST TO FINISH. / WANT SUB-4 MARATHON?" over Luke in the car, nothing else | At phone size the title is the only thing to read before 0:03, with no subtitles, tiles or labelled picture. "0:00 TO 0:03" and "LUKE · car · ERN running top (placeholder)" are mockup labels and must not be in the real frame. |
+| G4 | PASS | "WANT SUB-4 MARATHON?" | It has a numeral and it's the viewer's own goal for their own race, not our result. |
+| G5 | PASS | "Then you smile for the finish photo and tell everyone you're delighted, when really you're gutted inside." | Luke settled the missing deadline for this trial reel only (5 Nov). It passes "who cares": the fear of just missing sub-4 is real, and the 4 sign times are numbers a runner will use. |
+| G6 | PASS (carried) | "START TO 10K / 10K TO 30K / 30K TO THE FINISH" | Carried over. |
+| G7 | PASS (carried) | "Run the first 10K between 5:40 and 5:45 a K on your watch" / "If sub-4 isn't your goal, email us" | Carried over. |
+| G8 | PASS (carried) | "Number 1 is about 57:30." / "Your watch reads a bit long, so sub-4 pace on it brings you in at 4:02." | Carried over (allowed by Luke's C21 for this trial only). |
+| G9 | PASS | "If that's secretly you" / "tell everyone you're delighted, when really you're gutted inside" | Luke confirmed the "just to finish" premise (5 Nov), and faking delight follows directly from it. No viewer is named or identifiable, and nothing is said about Luke or Jamie. |
+| G11 | PASS | "SAID JUST TO FINISH. / WANT SUB-4 MARATHON?" | "Marathon" now answers "in what?", and a non-runner gets it in one read. Two of five: a specific number (sub-4) and a constraint on their life (they've told everyone it's just to finish). "WANT A SUB-4 MARATHON?" would read more naturally if the line length allows. |
+| G12 | PASS | "SAID JUST TO FINISH. / WANT SUB-4 MARATHON?" | Title plus frame one asks a question and gives no answer, so skipping it loses the whole plan. The only number is 4, with nothing beside it to divide by. |
+| G13 | PASS | Title "WANT SUB-4 MARATHON?" / line one "sub-4 pace on your watch can still get you a 4:02" | Line one no longer repeats the goal. It uses "sub-4" for the pace on the watch, not the goal, and adds something new (the 4:02). There's no picture layer, and together they don't hand over the answer. |
+| G14 | PASS (carried) | "Layer picture: none, on screen or as the cover (Luke and the title)" | Carried over. |
+| G16 | FAIL | "If that's secretly you, sub-4 pace on your watch can still get you a 4:02." | Read alone, it leaves "why would sub-4 pace give me a 4:02?", and most marathoners can guess the answer (the watch reads long; FACTS: "not new to our audience"; the file's own table says "They may guess the watch"). The question that can't be guessed, "which 4 numbers?", is raised by the hold line, not line one. It would pass if line one ended on that question, e.g. "...can still get you a 4:02, and 4 numbers on your hand stop it", with the hold line no longer repeating "4 numbers". |
+| G17 | FAIL | "sub-4 pace on your watch can still get you a 4:02" | It can be photographed and most runners do the opposite (pace by the watch), but anyone who has seen 42.6K on their Garmin can guess why, so the claim stands on a reason they already know. It would pass with the same fix as G16: keep the 4:02 claim and end the line on what they can't work out (which 4 numbers stop it). |
+| G18 | PASS | Pain "Then you smile for the finish photo and tell everyone you're delighted, when really you're gutted inside." / dream "you'll run the finish straight already knowing you're under 4 hours, and soak up every step of it" | Pain shape: the hidden disappointment you can't share, which is the cost with the feeling. It's new against the real last 3: "can't work out where the minutes went" (1 Nov), "walking the last 2K home" (3 Nov) and "as the 4-hour flag goes" (4 Nov). Dream shape: certainty enjoyed on the finish straight, seen in their own race and not the 4 Nov "split on the watch" (the stack table's "last 3" column still lists match v2 instead of 1 Nov). |
+| G20 | PASS (carried) | "Number 1 is about 57:30." / "run 5:30 until you're back." / "Number 4 is 3:46 or less at the 40K sign. Get there and you're under 4 hours." | Carried over. |
+| G21 | PASS (carried) | Caption: "On your hand: about 57:30 at 10K, 1:54 at 20K, 2:50 at 30K and 3:46 at 40K." | Carried over. |
+| G22 | PASS (carried) | "Number 2 is about 1:54 at the 20K sign. Number 3 is about 2:50 at the 30K sign." | Carried over. Line one's "4:02" also traces: 5:41/K on a watch 1% long gives about 4:02:20 (FACTS). |
+| G23 | PASS (carried) | "Your first 30 gram gel goes in at 20 minutes. Then take one every 30 minutes on the clock." / "grab a bottle of water if you're passing a station" | Carried over. |
+| G24 | PASS (carried) | "If you're more than 30 seconds behind, run 5:30 until you're back." | Carried over. |
+| G29 | PASS (carried) | "Send this to the friend you're running with who's also saying it's just to finish." | Carried over. |
+
+## Stranger's question (G16)
+"Why would sub-4 pace on my watch give me a 4:02?" 30K TO THE FINISH answers it ("Your watch reads a bit long"), but it's guessable. The question that can't be guessed ("which 4 numbers?") only appears in the hold line.
+
+## FAILs, in the order to fix them
+1. G16 and G17 (one fix): end line one on the question they can't answer. Keep the 4:02 claim and add the fix in the same sentence, e.g. "If that's secretly you, sub-4 pace on your watch can still get you a 4:02, and 4 numbers on your hand stop it." Then cut "4 numbers on your hand fix it" from the hold line so it only names the hand plan and asks for the save. Keep the hook at 80 to 95 words and recheck G1/G3 (the question inside 10 words).

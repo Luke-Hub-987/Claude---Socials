@@ -234,3 +234,17 @@ with the date.
   script and in the Valencia block above are course pace with no GPS buffer.
   Read on a watch that's 1% long, they finish about 4:01. Any new sub-4 script
   uses the 14 Oct watch numbers, or states that its bands are course pace.
+
+## Watch bands with the GPS buffer, by goal (worked 5 Nov for the "just to finish" reel)
+Watch reads about 1% long, so each band is about 3 s/K quicker than course
+pace. Time on the watch at each sign (watch 1% long). Within about 30
+seconds = on plan; more than 30 seconds behind = run the quicker end.
+- Sub-4: 5:40-5:45 to 10K (9:07-9:15/mi), then 5:30-5:35 (8:51-8:59/mi).
+  Signs: 10K about 57:30 (57:39), 20K about 1:54, 30K about 2:50, 40K about
+  3:46. Finish about 3:58.
+- 3:45: 5:20-5:25 (8:35-8:43/mi), then 5:10-5:15 (8:19-8:27/mi). Signs: 10K
+  about 54:15, 20K about 1:47, 30K about 2:39:30, 40K about 3:32. Finish
+  about 3:44.
+- 4:30: 6:25-6:30 (10:20-10:28/mi), then 6:10-6:15 (9:55-10:04/mi). Signs: 10K
+  about 1:05, 20K about 2:08, 30K about 3:10:30, 40K about 4:13. Finish about
+  4:27.
