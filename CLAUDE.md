@@ -226,7 +226,7 @@ Post window stays 15 to 22 Nov. Today's post: the weekly winner repost (no filmi
 SAID JUST TO FINISH. / WANT SUB-4 MARATHON? Luke's "just write the script" covered
 the repeat (C21), the premise and no deadline. Under P192's two tiers: 0 BLOCK
 fails; known risks G17 (guessable for anyone who saw 14 Oct) and G18 (dream shape
-near long run v4), in the file's box. IG trial from ERN + ERN TikTok.
+near long run v4), in the file's box. IG trial from ERN + ERN TikTok. **Covers (5 Nov):** `motion/covers/just-to-finish-cover-watch.png` (FINISH 4:02 on a watch, recommended) and `-cover-hand.png` (the hand plan, 4 blanks).
 
 **P192 (Luke 5 Nov, "too strict"):** BLOCK tests must pass; RISK fails get one round,
 then a Known risks box Luke sees before filming; 2 reviewer rounds at most;
