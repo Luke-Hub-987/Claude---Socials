@@ -39,6 +39,28 @@ pass (P190). They stay as the evidence; this is the test.
 4. The opening frame is mocked up at phone size (G15) and Luke sees it
    before filming.
 
+## Two tiers (Luke, 5 Nov: "I fear we may be too strict")
+
+18 review rounds over 4 topics in two days showed the problem: the judgement
+tests looped (one round's fix became the next round's fail), while the
+failures our data proves were never what held a script up. So:
+
+- **BLOCK:** proven by repeated data, or a matter of truth, safety or the
+  first 3 seconds. Must pass. Every AUTO test, plus the reviewer's G2, G6, G8,
+  G9, G12, G16, G21, G22, G23, G29.
+- **RISK:** judgement calls where good scripts can disagree: G4 (the "their
+  goal" part), G5, G7, G11, G13, G14, G17, G18 (shape freshness), G20, G24
+  (the read-aloud part). The reviewer still grades them. **One round of fixes,
+  then whatever's left goes in the script's "Known risks" box**, and Luke sees
+  it next to the forecast before he films.
+- **At most 2 reviewer rounds.** After the second, a BLOCK fail is fixed or
+  goes to Luke as "blocked on X"; a RISK fail goes in the box.
+- **After posting (no more "I missed it"):** the review checks the box first.
+  If the flop's cause is in it, it was an accepted risk, not a miss. If the
+  cause is a BLOCK test the gate passed, the gate has a bug, and the test gets
+  fixed. If it's new, it becomes a test only once it repeats in 3 posts or a
+  trial-reel A/B (P174).
+
 **Order of tests:** the first 3 seconds (P189) first, because that's where
 80% of the 16 results viewers went. Then topic, title, frame, hook, body,
 words, proof.
@@ -235,7 +257,7 @@ first second.
 **Test:** The file states what the viewer is waiting for, the line that
 holds it shut, and the stage that closes it (AUTO: the fields exist and the
 closing stage is one of the markers). Line one, read alone, leaves one
-specific question a stranger would ask; they can't guess the answer; it's
+specific question a stranger would ask; it's
 about them, not a stranger's result; nothing before the closing stage gives
 it away, including the named concept; the rehook reopens it before the last
 stage (REVIEWER). [C2]
@@ -248,7 +270,7 @@ v1 all gave it away or left no gap (Luke caught each).
 ### G17 · Line one is a picture they'd argue with · REVIEWER
 **Test:** You could photograph line one (a watch, a scale, a K marker, a
 lamppost). Most runners would disagree with it or do the opposite, and
-can't guess why (a tip fails). A runner in the start pen wouldn't say
+can't guess why or what answers it (a tip fails). A runner in the start pen wouldn't say
 "obviously". It's in the method's own unit (clock or distance).
 **Evidence:** "It all comes down to what you cut" (taper): 43.1%. "You should
 weigh more on race morning": 34.3%. "Your first K should be the slowest K of

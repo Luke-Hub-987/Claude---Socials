@@ -38,6 +38,10 @@ Each verdict quotes the exact words it rests on.
 - For a FAIL that only Luke can fix (a fact or a decision), say "needs Luke"
   in the row. Otherwise keep Luke's name out of it.
 
+Each test in the packet is tagged [BLOCK] or [RISK]. Grade both the same way,
+equally strictly. For a RISK FAIL, put the risk in one plain sentence Luke can
+read before he films (what might happen to the video, not the rule number).
+
 Rows under "Carried over" are copied as PASS, with "(carried)" after PASS.
 Don't re-grade them.
 
@@ -62,5 +66,5 @@ Reviewed: <date>, independent (gate-reviewer)
 ```
 
 Keep each "why" to two sentences at most. Then reply with **one line only**:
-`<n> FAIL: <test ids>` (or `0 FAIL`). Don't repeat the table in the reply;
+`BLOCK <n>: <ids>; RISK <m>: <ids>` (or `0 FAIL`). Don't repeat the table in the reply;
 it's in the file.

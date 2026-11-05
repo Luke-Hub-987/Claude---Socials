@@ -5871,6 +5871,21 @@ script chat owns GATE.md, gate/ and principles.md. A brief only becomes a
 script after Luke's yes, and only reaches him through the gate. The ideas
 chat's prompt is `gate/prompts/ideas-chat.md`.
 
+## P192 — Two tiers: block what the data proves, show Luke the judgement calls (Luke, 5 Nov)
+
+Luke: "I fear that we may be too strict in terms of where the scripts pass...
+it really frustrates me when a video doesn't work and then it comes back
+saying, oh, it's because I missed this." Both are true: 18 review rounds in
+two days looped on judgement tests, and post-hoc "misses" erode trust.
+
+**The rule:** the gate has a BLOCK tier (repeated data, truth, safety, the
+first 3 seconds: must pass) and a RISK tier (judgement: one round of fixes,
+then a "Known risks" box Luke sees before filming). At most 2 reviewer rounds.
+After posting, the review checks the box first: a cause in it was an accepted
+risk; a cause in a passed BLOCK test is a gate bug and gets fixed; a new cause
+becomes a test only when it repeats (P174). Never "I missed this" for
+something the gate already held.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

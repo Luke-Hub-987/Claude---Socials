@@ -1,0 +1,173 @@
+---
+type: script (gated)
+gate: v1
+version: v6 (v1 failed the reviewer on 13 tests, v2 on 5, v3 on 4, v4 on 4, v5 on 2: gate/reviews/2026-11-05-script-just-to-finish.v1-review.txt and .v2-review.txt)
+generated_at: 2026-11-05
+teleprompter: 2026-11-05-teleprompter-just-to-finish.txt
+basis: idea #9 (ideas chat, 5 Nov); Luke 5 Nov "Just write the script" (C21 allowed for this reel, the premise confirmed, posted as a trial with no race deadline: gate/contradictions.md); FACTS (watch bands with the GPS buffer, C22, C24); the 14 Oct sub-4 plan
+format: IG trial reel from ERN (trial on, auto-share off) + ERN TikTok, same file
+---
+
+# SAID JUST TO FINISH. / WANT SUB-4 MARATHON?
+
+## Gate fields
+- OST: SAID JUST TO FINISH. / WANT SUB-4 MARATHON?
+- Markers: START TO 10K / 10K TO 30K / 30K TO THE FINISH
+- Gap phrase: sub-4 pace on your watch
+- Gap held by: "You write them before the start line, and we call it the hand plan, so take a screenshot and save this."
+- Gap closed by: 30K TO THE FINISH
+- Frame one: Luke in the car in the ERN running top, the title; no picture; subtitles start at 0:03
+- Frame one words: title only
+- Mockup: ideas/engine-room-nutrition/mockups/2026-11-05-just-to-finish-frame-one.png
+- Layer title: their goal in plain words (a marathon under 4 hours) and the constraint in their own words (said just to finish) and the goal (a sub-4 marathon)
+- Layer picture: none, on screen or as the cover (Luke and the title)
+- Layer line one: the claim they'd argue with (sub-4 pace on the watch gets you 4:02); the hold line opens the gap (which 4 numbers fix it)
+- Worked example goal: sub-4
+- Forecast: IG trial at 24 hours, 300 to 3,500 views, skip 26% to 55%, saves 0.4% to 2.5%. Base: our last 4 trial reels (the wall repost 3,537 views and 33.3% skip; the long run 290 and 55.5%; the match 242 and 26.2% at 2h; 16 results 459 and 44.4% at 1h); sub-4 at every 10K (14 Oct) saved at 2.5%
+
+## Luke's decision (5 Nov)
+"Just write the script." Recorded in gate/contradictions.md: re-testing the
+14 Oct sub-4 idea with a new hook is allowed for this trial (C21), the "just
+to finish" premise is his to confirm and he has, and it goes out with no race
+deadline (G5). The writing fixes are below; those three are his call.
+
+## The gap
+Waiting for: which 4 numbers on your hand tell you you've got sub-4 by 40K.
+Held by "the hand plan, and you write it before the start line". Stages 1 and
+2 pay numbers 1 to 3 (the time on the watch at the 10K, 20K and 30K signs);
+the rehook reopens it ("number 4 is the one that tells you you're under 4
+hours"); 30K TO THE FINISH pays number 4, with the watch as one line.
+
+## Line-one gap test (P186)
+| Test | Answer |
+|---|---|
+| Line one alone: what does a stranger ask? | "How does sub-4 pace get me a 4:02?", and the hold line turns it into "which 4 numbers fix it?" |
+| One specific question? | Yes |
+| Can they guess it? | They may guess the watch; they can't guess the 4 numbers, which is what they wait for |
+| About them or a stranger? | Them |
+| Which stage answers it? | A number per sign; 30K TO THE FINISH pays number 4 and the reason |
+| Anything earlier give it away? | No: the numbers arrive one stage at a time |
+
+## Stack (shapes the last 3 didn't use)
+| Beat | Line | Shape | What the last 3 used (200 plans, long run v4, match v2) |
+|---|---|---|---|
+| Line one | "If that's secretly you, sub-4 pace on your watch can still get you a 4:02. 4 numbers on your hand stop it." | A promise held: which 4 numbers? | A stranger's 10 words; "your voice knows"; legs decided standing still |
+| Pain | "Then you smile for the finish photo and tell everyone you're delighted, when really you're gutted inside." | **The secret you can't share** | What's riding on it + find out at 32K; walking home; legs won't go |
+| Dream | "After watching this, you'll run the finish straight already knowing you're under 4 hours, and soak up every step of it." | **The finish straight, enjoyed** (not a number on the watch) | A 40K split on the watch; past your front door; getting to the ball |
+| Hold + save | "You write them before the start line, and we call it the hand plan, so take a screenshot and save this." | Our method, named; says nothing about the watch | "3 things, and the 10 words are one" |
+| Rehook | "And number 4 is the one that tells you you're under 4 hours." | Reopens line one: what number 4 does, said literally | "Which leaves the 2 who missed" |
+| Send | "Send this to the friend you're running with who's also saying it's just to finish." | Who, and the shared secret | "Send this to whoever you're running your next marathon with" |
+
+## Script
+
+"If that's secretly you, sub-4 pace on your watch can still get you a 4:02. 4 numbers on your hand stop it."
+
+"Then you smile for the finish photo and tell everyone you're delighted, when really you're gutted inside."
+
+"After watching this, you'll run the finish straight already knowing you're under 4 hours, and soak up every step of it."
+
+"You write them before the start line, and we call it the hand plan, so take a screenshot and save this."
+
+**[START TO 10K]**
+
+"Run the first 10K between 5:40 and 5:45 a K on your watch, and let people go past you. It should feel too easy. Your first 30 gram gel goes in at 20 minutes. Then take one every 30 minutes on the clock. As you pass the 10K sign, look at the time on your watch. Number 1 is about 57:30."
+
+"If sub-4 isn't your goal, email us your race and goal time through the link in the bio for your own plan."
+
+**[10K TO 30K]**
+
+"Now run between 5:30 and 5:35. Keep a gel every 30 minutes, and grab a bottle of water if you're passing a station. Number 2 is about 1:54 at the 20K sign. Number 3 is about 2:50 at the 30K sign. If you're more than 30 seconds behind, run 5:30 until you're back."
+
+"And number 4 is the one that tells you you're under 4 hours."
+
+**[30K TO THE FINISH]**
+
+"Your watch reads a bit long, so sub-4 pace on it brings you in at 4:02. The signs are measured on the course, so trust the hand plan over the pace on your watch. From 30K, 2 or 3 words between breaths is right on plan. Take shorter, quicker steps and keep it between 5:30 and 5:35. Number 4 is 3:46 or less at the 40K sign. Get there and you're under 4 hours."
+
+"Send this to the friend you're running with who's also saying it's just to finish."
+
+## Known risks (pre-mortem, P192)
+The reviewer's judgement calls that are still open after the fixes. If this
+reel underperforms, check these first; they were accepted before filming.
+- **G17 (guessable):** a runner who saw our 14 Oct sub-4 reel can guess the
+  answer (the watch reads long, so check the signs). This comes with Luke's
+  C21 decision to re-test that idea with a new hook. Watch for a big drop at
+  0:03 to 0:10.
+- **G18 (dream shape):** "run the finish straight... soak up every step" is close to
+  the long run v4 dream (the last K past your own front door). The pain (the fake
+  smile) is new. Low risk: it's the dream, not the hook.
+- **G5 (no race deadline):** waived by Luke for this trial; reach is capped to
+  people who'll act on a sub-4 plan now.
+- **G7 (narrow):** sub-4 runners who say "just to finish" are a slice; 3:45 and
+  4:30 are in the caption only.
+
+## Caption
+Told everyone your marathon is just to finish, and secretly want under 4 hours? Here are the 4 numbers to write on your hand, plus 3:45 and 4:30.
+
+Your watch reads a bit long over a marathon, so run sub-4 pace on it and you'll finish around 4:02. The K signs are measured on the course, so the time on your watch as you pass each one is the real check. Within 30 seconds is on plan. More than 30 seconds behind, run the quicker end of the range until you're back.
+
+Under 4 hours: the first 10K between 5:40 and 5:45 a K on your watch (9:07 to 9:15 a mile), then between 5:30 and 5:35 (8:51 to 8:59 a mile). On your hand: about 57:30 at 10K, 1:54 at 20K, 2:50 at 30K and 3:46 at 40K.
+
+Under 3:45: 5:20 to 5:25 a K (8:35 to 8:43 a mile) to 10K, then 5:10 to 5:15 (8:19 to 8:27 a mile). On your hand: about 54:15, 1:47, 2:39:30 and 3:32.
+
+Under 4:30: 6:25 to 6:30 a K (10:20 to 10:28 a mile) to 10K, then 6:10 to 6:15 (9:55 to 10:04 a mile). On your hand: about 1:05, 2:08, 3:10:30 and 4:13.
+
+Gels: a 30g gel at 20 minutes, then one every 30 minutes on the clock. If you're passing a water station, grab a bottle and take a few sips with it. That's about 60g of carbs an hour.
+
+Want the plan for your own goal? Email us your race and goal time through the link in the bio and we'll send it to you for free.
+
+## Pinned comment
+What did you tell people your goal was, and what is it really? Email us your race and goal time through the link in the bio and we'll send you your plan for free.
+
+## Facts check
+| Claim | Source | Status |
+|---|---|---|
+| Sub-4 pace on a watch that reads long finishes about 4:02 | FACTS: the watch reads about 1% long; 5:41 x 42.195K x 1.01 = 4:02:20 (FACTS, sub-4 at every 10K sign) | Pass |
+| "Your watch reads a bit long"; the signs are measured on the course | FACTS pacing; P155's plain line; tangents (FACTS, already told) | Pass |
+| The first 10K between 5:40 and 5:45 on the watch, then 5:30 to 5:35 | FACTS, watch bands with the GPS buffer (worked 5 Nov from the 14 Oct plan's 5:42 and 5:35) | Pass |
+| Watch time at the signs: about 57:30, 1:54, 2:50, 3:46; finish about 3:58 | FACTS, watch bands with the GPS buffer (watch 1% long) | Pass |
+| More than 30 seconds behind: run 5:30 until you're back | FACTS (within about 30 seconds = on plan, the 14 Oct plan); C24 | Pass |
+| A 30 gram gel at 20 minutes, then every 30; grab a bottle if passing a station | FACTS fuel; C22 | Pass |
+| 2 or 3 words between breaths from 30K; shorter, quicker steps | FACTS talk test and pacing; the 14 Oct plan | Pass |
+| Runners who tell people "just to finish" and want sub-4 | Luke, 5 Nov ("Just write the script"), gate/contradictions.md | Pass (Luke's call) |
+| 3:45 and 4:30 ranges, sign times, miles | FACTS, watch bands with the GPS buffer | Pass |
+
+## Humanizer (P169)
+| Check | Result |
+|---|---|
+| check.py | 0 flags (see the gate run) |
+| AI vocabulary, puffed-up significance, "is" dodges, signposting | None on a line-by-line read, audio and caption |
+| Negative parallelism | None |
+| Template lines from the last 3 scripts | None |
+| Second meanings | "walk you into", "your hand beats your wrist" and "Hit that" are all gone |
+| Mockery | No scare quotes in the title; "just to finish" is the viewer's own phrase about themselves |
+| Stranded words | v1's "the people you said just to finish to" is gone |
+| Contractions, sentence length | Contractions throughout; no sentence over 22 words |
+
+## What changed from v5 (2 reviewer fails)
+- **G16, G17:** line one now ends on what they can't guess: "4 numbers on your hand stop it" (which 4?). The hold line no longer repeats it.
+
+## What changed from v4 (4 reviewer fails)
+- **G11:** "marathon" back in the title: SAID JUST TO FINISH. / WANT SUB-4 MARATHON? (20 + 20).
+- **G13, G17:** line one no longer repeats the title's goal; it's the claim runners would argue with (sub-4 pace on the watch gets you 4:02, FACTS). The 4 numbers move to the hold line as the gap.
+- **G18:** the pain is the secret itself (smiling for the finish photo, gutted), not a few minutes off the goal (the 1 Nov and 4 Nov shape).
+
+## What changed from v3 (4 reviewer fails)
+- **G16, G17:** the gap is no longer the GPS fact (guessable, already posted); it's the 4 numbers themselves, paid one per stage, with the watch as one line in the last stage.
+- **G11:** the title is the viewer's own phrase and their goal (SAID JUST TO FINISH. / WANT SUB-4 MARATHON?), the reviewer's suggestion; "the hand plan" stays in the hold line.
+- **G24:** the 50-minute gel is placed in stage 1 ("then take one every 30 minutes on the clock"); the rehook says literally what number 4 does.
+
+## What changed from v2 (5 reviewer fails)
+- **G11:** the method is named (the hand plan) in the title, the hold line and the payoff.
+- **G16:** the rehook reopens the 2 minutes without naming the watch; the watch is first named in the last stage.
+- **G18:** the dream is the finish straight, not a 40K watch reading (the 200 plans shape).
+- **G24, G29:** "your hand beats your wrist" and "Hit that" (a sexual double meaning) are gone; both lines are literal now.
+
+## What changed from v1, and why (the reviewer's fails)
+- **G4, G11, G29 (title):** their goal in plain words, a numeral, and our counted method; no scare quotes.
+- **G16, G17 (line one):** no mention of the watch before the answer; the hold line names neither the watch nor what's wrong with it.
+- **G22 (my maths):** the watch bands now carry the GPS buffer, so the plan comes in about 3:58 on a watch that reads long (FACTS corrected and extended).
+- **G18 (dream):** the moment at the 40K sign, on the course.
+- **G20 (the why):** one line inside the last stage, which now has its own scene, action and number.
+- **G24:** no stranded "to", "band" replaced by the numbers themselves, "behind" given an amount (30 seconds).
+- **G5, G8, G9:** Luke's decision, recorded.

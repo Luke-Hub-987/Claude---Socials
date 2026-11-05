@@ -20,6 +20,10 @@ HUMANIZER = os.path.join(ROOT, ".claude", "skills", "humanizer", "check.py")
 # Tests the independent reviewer must grade (REVIEWER and BOTH in GATE.md).
 REVIEWER_TESTS = ["G2", "G4", "G5", "G6", "G7", "G8", "G9", "G11", "G12", "G13", "G14",
                   "G16", "G17", "G18", "G20", "G21", "G22", "G23", "G24", "G29"]
+# Two tiers (Luke, 5 Nov): a reviewer FAIL on a BLOCK test stops the script;
+# a FAIL on a RISK test goes in the script's "Known risks" box for Luke.
+BLOCK_REVIEWER = ["G2", "G6", "G8", "G9", "G12", "G16", "G21", "G22", "G23", "G29"]
+RISK_REVIEWER = [x for x in REVIEWER_TESTS if x not in BLOCK_REVIEWER]
 
 WORDS = dict(
     jargon=r"zone ?\d|threshold|glycogen|lactate|vo2|negative split|protocol|strategy|optimal|cadence|tempo|taper|splanchnic|anaerobic",
@@ -393,8 +397,17 @@ def run(path):
         rows = dict(re.findall(r"^\|\s*(G\d+)\b([^\n]*)$", rv, re.M))
         held = [t for t in fails if t in blocked_on and "luke" in rows.get(t, "").lower()]
         fails = [t for t in fails if t not in held]
+        risks = [t for t in fails if t in RISK_REVIEWER]
+        fails = [t for t in fails if t not in RISK_REVIEWER]
         if fails:
-            probs.append(f"reviewer FAIL on {fails}")
+            probs.append(f"reviewer FAIL on {fails} (BLOCK tier)")
+        if risks:
+            box = section(text, "Known risks") or ""
+            missing_box = [t for t in risks if t not in box]
+            if missing_box:
+                probs.append(f"RISK fails {missing_box} aren't in the script's '## Known risks' box for Luke")
+            for t in risks:
+                add(t, True, "RISK (reviewer FAIL on a judgement test): in the Known risks box for Luke", "RISK")
         for t in held:
             add(t, True, "BLOCKED on Luke (the reviewer says this needs his decision); NOT ready to film", "BLKD")
     tp = fm.get("teleprompter")
@@ -449,7 +462,8 @@ def report(path, res, brief=False):
         print(f"  {t:4} {lv:4}  {msg}")
     blk = sorted({r[0] for r in res if r[1] == "BLKD"})
     verdict = ('FAIL on ' + ', '.join(sorted({r[0] for r in fails}, key=lambda x: int(x[1:])))) if fails else (
-        f"BLOCKED on Luke ({', '.join(blk)}): every other test passes; NOT ready to film" if blk else "PASS")
+        f"BLOCKED on Luke ({', '.join(blk)}): every other test passes; NOT ready to film" if blk else (
+        "PASS, with known risks for Luke: " + ", ".join(sorted({r[0] for r in res if r[1] == "RISK"}, key=lambda x: int(x[1:]))) if any(r[1] == "RISK" for r in res) else "PASS"))
     print(f"  -> {verdict}")
     return not fails
 
@@ -486,9 +500,6 @@ def previous_review(path, h):
     if not os.path.exists(rp):
         return None
     rv = read(rp)
-    m = re.search(r"Script hash:\s*([0-9a-f]+)", rv)
-    if m and m.group(1) == h:
-        return None
     return dict((r[0], (r[1], r[2])) for r in re.findall(r"^\|\s*(G\d+)\s*\|\s*(PASS|FAIL)[^|]*\|\s*(.*?)\s*\|", rv, re.M))
 
 
@@ -519,7 +530,7 @@ def packet(path):
            "## Grade these tests (PASS or FAIL, quote the line)" + (" (re-review: the rest carry over)" if prev else "")]
     for t in regrade:
         name, body = tests.get(t, ("?", "?"))
-        out.append(f"- **{t} {name}:** {body}")
+        out.append(f"- **{t} {name}** [{'BLOCK' if t in BLOCK_REVIEWER else 'RISK'}]: {body}")
     if carried:
         out += ["", "## Carried over from the last review (their quoted lines are unchanged): copy these rows as PASS"]
         out += [f"- {t}: {prev[t][1][:160]}" for t in carried]

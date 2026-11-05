@@ -31,6 +31,8 @@ twice without being checked against the winners (P99).
 
 ## 0. The failure ledger (P148, Luke 24 Oct)
 
+- [ ] **Two tiers (P192, Luke 5 Nov):** BLOCK tests must pass; RISK fails get one round of fixes, then go in the "Known risks" box Luke sees before filming; at most 2 reviewer rounds; reviews check the box before naming a cause.
+
 - [ ] **80/20 (P173):** safe slots use the top-reel mechanics and go to the profile; tests go out as trial reels first with a stated measure; every reel connects to the bar's job or the plan.
 - [ ] **Forecast from base rates (P171):** the median of the last 3 to 5 reels at the same hour, stated, plus one named reason at most; forecast against actual in every review.
 - [ ] **No identifiable viewer (P172):** no subscriber's email on screen and no details that point to one runner, unless they asked to be featured with a story they're proud of.
