@@ -199,6 +199,8 @@ a new cause becomes a new row in the same turn.**
 
 **As of 4 November 2026.**
 
+**Posted 6 Nov 7:13am: HOW TO RUN A SUB-4 / MARATHON (SECRETLY)** (the just-to-finish script, profile collab + FB, not a trial; `ideas/2026-11-06-sub-4-secretly-review.md`). At ~1h: IG 1,034 views (731 IG), **skip 18.5% (our best ever), 21s, saves 2.3% Higher**, shares 0, follows 0; TikTok 293, 18.2s, 5.5% full. Formula: HOW TO [outcome + number] / [EVENT] ([TWIST]). Next topics: `ideas/engine-room-nutrition/2026-11-06-ideas-formula.md` (parkrun #1 for Saturday, needs Luke's 5K numbers).
+
 **GATE.md built (4 Nov, P190).** 30 tests, the 4-line first-3-seconds gate
 (P189) on top, every principle mapped (end of GATE.md). Checker
 `gate/check.py`, hooks in `.claude/settings.json` and `.githooks/`, reviewer
