@@ -199,6 +199,8 @@ a new cause becomes a new row in the same turn.**
 
 **As of 4 November 2026.**
 
+**14h read (6 Nov 21:10): 7,199 views (3,818 IG), skip 44.5% (Lower; the 1h 18.5% was mostly followers), 23s, saves 2.3% and shares 0.4% Higher, 0 follows. Next: HOW TO RUN A SUB-4:30 / MARATHON (SECRETLY); Valencia from 15 Nov as VALENCIA MARATHON / SUB-4 (THE 31K TRAP); parkrun blocked on Luke.**
+
 **Posted 6 Nov 7:13am: HOW TO RUN A SUB-4 / MARATHON (SECRETLY)** (the just-to-finish script, profile collab + FB, not a trial; `ideas/2026-11-06-sub-4-secretly-review.md`). At ~1h: IG 1,034 views (731 IG), **skip 18.5% (our best ever), 21s, saves 2.3% Higher**, shares 0, follows 0; TikTok 293, 18.2s, 5.5% full. Formula: HOW TO [outcome + number] / [EVENT] ([TWIST]). Next topics: `ideas/engine-room-nutrition/2026-11-06-ideas-formula.md` (parkrun #1 for Saturday, needs Luke's 5K numbers).
 
 **GATE.md built (4 Nov, P190).** 30 tests, the 4-line first-3-seconds gate

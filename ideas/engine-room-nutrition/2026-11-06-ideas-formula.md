@@ -54,3 +54,39 @@ Forecast for #1 as an IG trial at 24h: 250 to 3,500 views, skip 18% to 45%
 - **Blind cross-review:** All agree #1 next; the Contrarian's point stands:
   test the formula on a new pond rather than repeat it.
 - **Chairman:** **#1 parkrun for Saturday; #8 only if the numbers don't come.**
+
+---
+
+## Next, after the 14h read (6 Nov, 21:10)
+The parkrun script is blocked in the script chat (G8: "if you can still
+sprint, you had more to give" is a known coaching saying; G9: 3 premises
+Luke hasn't confirmed). It waits for Luke's answers.
+
+**Next post: HOW TO RUN A SUB-4:30 / MARATHON (SECRETLY)** (21 / 19)
+- The sequel: same twist, the next goal. Same body, the 4:30 hand plan (already
+  in the sub-4 caption, from FACTS). A one-change test (C21): the goal.
+- Why 4:30: our best goal-time skip (37.0%) and a bigger group than sub-4
+  (the emails ask most for 3:45 to 4:00, the comments and DMs for 3:30 and
+  4:30); the sub-4 version saved at 2.3% and shared at 0.4%.
+- Line one: "If that's secretly you, 4:30 pace on your watch can still get
+  you a 4:33." (4:30 x 1.01 = 4:32:42)
+- Fix from the 14h read: a send line with a real reason (shares came only
+  after the first hour) and something that earns a follow (0 follows): "the
+  next goal's hand plan is coming, follow so you get it".
+**Then, from 15 Nov: VALENCIA MARATHON / SUB-4 (THE 31K TRAP)** (17 / 20).
+The race named, the goal, a number, and the twist: from 31K to 34K the course
+runs away from the finish (FACTS, official map). Script chat; C22 to C24 are
+settled now.
+
+## LLM Council (P150)
+- **Contrarian:** A sequel is the same video; Luke wants things never seen.
+- **Assumption-ripper:** A sequel to a reel that saved at 2.3% and shared at
+  0.4% is a safe slot (P75, C18), and it's labelled as a one-change test. The
+  new ideas are parkrun (waiting on Luke) and Valencia (from 15 Nov).
+- **Expansionist:** A goal-time "secretly" series (4:30, 3:45, 3:30) with a
+  follow line turns saves into follows.
+- **Outsider:** "Sub-4:30 secretly? That's my goal. I'd save it."
+- **Executor:** The script chat swaps the goal and numbers in the sub-4 file,
+  gates it, Luke films and posts it as an IG trial reel from ERN plus TikTok.
+- **Chairman:** **HOW TO RUN A SUB-4:30 / MARATHON (SECRETLY) next; Valencia
+  from 15 Nov; parkrun when Luke answers the 3 premises.**
