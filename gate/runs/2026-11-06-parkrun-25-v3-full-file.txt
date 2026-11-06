@@ -1,0 +1,136 @@
+---
+type: script (gated)
+gate: v1
+version: v3, BLOCKED on Luke: G8, G9, G16 (the hook is a known coaching saying; 3 premises). v2 review: G8, G9, G16, G29 BLOCK; G29 fixed with the reviewer's own wording. (v1: BLOCK G8, G9, G16, G22; RISK G11, G13, G17, G18, G20, G24: gate/reviews/2026-11-06-script-parkrun-25.v1-review.txt)
+generated_at: 2026-11-06
+teleprompter: 2026-11-06-teleprompter-parkrun-25.txt
+basis: brief ideas/engine-room-nutrition/2026-11-06-brief-parkrun-25.md (Luke: yes, 6 Nov); the formula from the sub-4 trial (18.5% skip)
+ost_final_by_luke: 6 Nov, "OST is final" (42 characters; each line fits at phone size)
+format: film Friday; post Saturday about 7am, IG trial reel from ERN (trial on, auto-share off) + ERN TikTok
+---
+
+# HOW TO BREAK 25 MINS / AT PARKRUN (NO SPRINT)
+
+## Gate fields
+- OST: HOW TO BREAK 25 MINS / AT PARKRUN (NO SPRINT)
+- Markers: THE FIRST K / K2 TO K4 / THE 4K BEEP / THE LAST 100M
+- Gap phrase: kick for the line
+- Gap held by: "It all comes down to 3 pace ranges and the beep on your watch, so save this one before your next parkrun."
+- Gap closed by: THE LAST 100M
+- Frame one: Luke in the car in the ERN running top, the title; no picture; subtitles start at 0:03
+- Frame one words: title only
+- Mockup: ideas/engine-room-nutrition/mockups/2026-11-06-parkrun-25-frame-one.png
+- Layer title: their goal with a number (under 25 minutes), the event (parkrun) and the twist (no sprint)
+- Layer picture: none, on screen or as the cover (Luke and the title)
+- Layer line one: the gap, if you can still sprint at the end, the time was in your legs all along: where should it have gone?
+- Worked example goal: none
+- Forecast: IG trial at 24 hours, 300 to 3,500 views, skip 18% to 55%. Base: our last 5 trial reels (the sub-4 "secretly" reel 18.5% skip at about 1h; the wall repost 3,537 views and 33.3%; the long run 290 and 55.5%; the match 242 and 26.2% at 2h; 16 results 459 and 44.4% at 1h). First parkrun reel, so no base for this pond yet
+
+## The gap
+Waiting for: where the seconds you sprint with at the end should have
+gone. Held by "3 pace ranges and the beep on your watch". THE FIRST K is the
+surprise (slower, not faster); K2 TO K4 is where the seconds go; the rehook
+("Which changes what happens in the last 100m") reopens line one; THE LAST
+100M shuts it: nothing left to sprint with is the proof.
+
+## Line-one gap test (P186)
+| Test | Answer |
+|---|---|
+| Line one alone: what does a stranger ask? | "Where were those seconds meant to go, then?" |
+| One specific question? | Yes |
+| Can they guess it? | They'll guess "start faster", which is wrong: the first K is the slowest |
+| About them or a stranger? | Them: their parkrun, their sprint |
+| Which stage answers it? | K2 TO K4, proved at THE LAST 100M |
+| Anything earlier give it away? | No: the hold names the tools, not where the time goes |
+
+## Stack (shapes the last 3 didn't use)
+| Beat | Line | Shape | What the last 3 used (long run v4, 200 plans, just to finish) |
+|---|---|---|---|
+| Line one | "If you can still kick for the line in the last 100m, that time was in your legs all along." | The thing they're proud of, turned against them | "Your voice knows..."; a stranger's 10 words; sub-4 pace gets you 4:02 |
+| Pain | "Then the email comes in at 25:04, 4 seconds off, and the next Saturday you go and run it the same way." | **The loop: the same text every week** | Walking the last 2K home; what's riding on it + 32K; the fake smile |
+| Dream | "After watching this, the friend who always out-sprints you at the end is behind you at the 4K beep." | **The results text** | Past your front door; a 40K split on the watch; the finish straight |
+| Hold + save | "It all comes down to 3 pace ranges and the beep on your watch, so save this one before your next parkrun." | The tools, counted | The race-day sentence; "3 things"; the hand plan |
+| Rehook | "Which changes what happens in the last 100m." | Points at line one's own moment | "5 words at 20-30K"; "Which leaves the 2"; "number 4" |
+| Send | "Send this to whoever you run parkrun with." | The rival, not the training partner | Whoever you're running with (x2); the friend saying "just to finish" |
+
+## Script
+
+"If you can still kick for the line in the last 100m, that time was in your legs all along."
+
+"Then the email comes in at 25:04, 4 seconds off, and the next Saturday you go and run it the same way."
+
+"After watching this, the friend who always out-sprints you at the end is behind you at the 4K beep."
+
+"It all comes down to 3 pace ranges and the beep on your watch, so save this one before your next parkrun."
+
+**[THE FIRST K]**
+
+"Let the crowd go in the first 500m, even when it feels like you're losing ground. Your first K is the slowest of the 5, on purpose. Your watch beeps every K, and that first beep should read between 4:55 and 5:00."
+
+"If you're training for a marathon, email us your race and goal time through the link in the bio."
+
+**[K2 TO K4]**
+
+"Now hold between 4:50 and 4:55, every K, all the way to the 4K beep. That's 3 beeps, and each one is a check. If a beep reads quicker than 4:50, ease off. If it's slower than 4:55, push until it reads 4:55 again."
+
+**[THE 4K BEEP]**
+
+"At the 4K beep, go. That last K takes about 5 minutes, and you'll want to stop in every one of them. Push between 4:45 and 4:50 all the way to the line."
+
+"Which changes what happens in the last 100m."
+
+**[THE LAST 100M]**
+
+"There's nothing left to kick with, and that's where your sub-25 was hiding. The seconds you used to keep for the last 100m went into the middle 3K. Run those 3 ranges and the email should say about 24:37. That's your 4 seconds back, and 23 more."
+
+"Send this to whoever you run parkrun with."
+
+## Caption
+If you can still sprint the last 100m at parkrun, those seconds belonged earlier. Here's the K-by-K plan for under 25 minutes, and every other common goal.
+
+Your watch beeps every K. Run the first K a little slower than goal pace while the crowd goes, hold a touch quicker than goal pace from the first beep to the 4K beep, then push from 4K to the line so there's nothing left to sprint with. GPS watches read a bit long, so these ranges sit a few seconds under goal pace and the times below are your official parkrun time.
+
+Under 25: the first K between 4:55 and 5:00 a K (7:55 to 8:03 a mile), K2 to K4 between 4:50 and 4:55 (7:47 to 7:55), the last K between 4:45 and 4:50 (7:39 to 7:47). About 24:37.
+
+Under 20: 3:55 to 4:00 a K (6:18 to 6:26 a mile), then 3:50 to 3:55 (6:10 to 6:18), then 3:45 to 3:50 (6:02 to 6:10). About 19:34.
+
+Under 22: 4:20 to 4:25 (6:58 to 7:06), then 4:15 to 4:20 (6:50 to 6:58), then 4:10 to 4:15 (6:42 to 6:50). About 21:40.
+
+Under 28: 5:30 to 5:35 (8:51 to 8:59), then 5:25 to 5:30 (8:43 to 8:51), then 5:20 to 5:25 (8:35 to 8:43). About 27:34.
+
+Under 30: 5:55 to 6:00 (9:31 to 9:39), then 5:50 to 5:55 (9:23 to 9:31), then 5:45 to 5:50 (9:15 to 9:23). About 29:40.
+
+Building up to a marathon? Email us your race and goal time through the link in the bio and we'll send you your own plan for free.
+
+## Pinned comment
+What does your Saturday text usually say? Tell us your parkrun time and we'll tell you your first-K number.
+
+## Facts check
+| Claim | Source | Status |
+|---|---|---|
+| 25:00 is 5:00 a K | Arithmetic | Pass |
+| Watch reads a bit long, so the ranges sit about 5 seconds under goal pace | FACTS (watch about 1% long), applied to 5K | Luke to OK: does it hold on a parkrun? |
+| First K 4:55 to 5:00, K2 to K4 4:50 to 4:55, last K 4:45 to 4:50; about 24:37 official | Worked from the above (checked 6 Nov: 24:37) | Luke to OK |
+| The other goals' ranges and finish times (19:34, 21:40, 27:34, 29:40); miles | Worked the same way (checked 6 Nov) | Luke to OK |
+| Let the crowd go in the first 500m | Premise from the brief (P183) | Luke to OK from his own parkruns |
+| A sprint left at the end means seconds unspent earlier | Coaching claim | Luke to OK |
+| The last K takes about 5 minutes ("a horrible 5 minutes") | 4:47 a K on the watch: about 4.8 minutes | Pass |
+| The watch beeps every K | Auto-lap is on by default on GPS watches | Luke to OK |
+| Results arrive by email (and in the app) after the run | Parkrun's own system | Luke to OK |
+| CTA: the plan is for a marathon (5K plans not confirmed) | Brief: "Luke to confirm, or keep the marathon CTA" | Pass (marathon CTA kept) |
+
+## Humanizer (P169)
+| Check | Result |
+|---|---|
+| check.py | 0 flags (see the gate run) |
+| AI vocabulary, puffed-up significance, "is" dodges, signposting | None on a line-by-line read, audio and caption |
+| Negative parallelism | "You can't win parkrun in the first K, but you can lose it there" is a plain contrast of two facts, not the "not X, it's Y" reveal |
+| Template lines from the last 3 scripts | None: no "hand", no "4 numbers", no "Which leaves", no "whoever you're running with" |
+| Second meanings, read aloud | "go" and "push" are race words; none found |
+| Contractions, sentence length | Contractions throughout; no sentence over 22 words |
+
+## Known risks (pre-mortem, P192)
+- **First parkrun reel:** new pond, no base; the forecast range is wide on purpose.
+- **G11 (title):** "25" and "parkrun" count as one element; "(NO SPRINT)" is a twist, not a constraint. Luke's final OST, so it stays; it may read like other "break 25" tips.
+- **G17 (line one):** "if you can kick at the end, the time was in your legs" is a saying some runners know; they may nod and scroll.
+- **Six 5K facts and three premises wait on Luke's OK** (the facts table). They go into FACTS.md once he OKs them.

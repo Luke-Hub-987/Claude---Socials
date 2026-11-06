@@ -190,7 +190,11 @@ def run(path):
         if len(l) > 22:
             probs.append(f"'{l}' is {len(l)} characters (max 22)")
     if sum(len(l) for l in ost_lines) > 40:
-        probs.append(f"{sum(len(l) for l in ost_lines)} characters in total (max 40)")
+        if fm.get("ost_final_by_luke"):
+            # Luke's call on the title (e.g. 6 Nov): each line must still fit; the total is shown, not blocked
+            res.append(("G10", "INFO", f"{sum(len(l) for l in ost_lines)} characters in total (over 40): Luke's final title ({fm['ost_final_by_luke']}); each line fits"))
+        else:
+            probs.append(f"{sum(len(l) for l in ost_lines)} characters in total (max 40)")
     for name in ("title_jargon", "gimmick", "dated"):
         m = rx(name).search(ost)
         if m:
@@ -500,7 +504,7 @@ def previous_review(path, h):
     if not os.path.exists(rp):
         return None
     rv = read(rp)
-    return dict((r[0], (r[1], r[2])) for r in re.findall(r"^\|\s*(G\d+)\s*\|\s*(PASS|FAIL)[^|]*\|\s*(.*?)\s*\|", rv, re.M))
+    return dict((r[0], (r[1], r[2])) for r in re.findall(r"^\|\s*(G\d+)\b[^|]*\|\s*(PASS|FAIL)[^|]*\|\s*(.*?)\s*\|", rv, re.M))
 
 
 def packet(path):
