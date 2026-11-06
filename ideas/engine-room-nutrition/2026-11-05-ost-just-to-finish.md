@@ -57,3 +57,63 @@ show the race clock without giving the numbers. Keep START TO 10K / 10K TO
 - **Blind cross-review:** All agree on the pick; the Contrarian's point is
   covered by the cover and line one.
 - **Chairman:** **THE SUB-4 MARATHON / YOU WON'T SAY OUT LOUD.**
+
+---
+
+## v2 (6 Nov, Luke: "only people with that secret get it... look at every one of Briar's OSTs, pick out the patterns, he wouldn't pick this one")
+Luke's right. THE SUB-4 MARATHON / YOU WON'T SAY OUT LOUD is a riddle for
+insiders: a runner without that secret reads it and doesn't know what the
+video is. None of Briar's titles work that way.
+
+### Briar's patterns, counted (research/briar-cochran-hook-titles-and-swipefile.txt, his ~46 titles)
+| Pattern | Count | Examples |
+|---|---|---|
+| **"How to [the outcome]"**, the outcome in plain words | ~16 | How to improve your hook rate in 23 seconds; How to make content with ZERO credibility; How to post 3x/day |
+| **A whisper in brackets** after the title: the method's name, the objection removed, or a twist | ~11 | (without losing quality); (Counter Positioning); (Common beginner mistake); (3 practical tips) |
+| **An exact number** | ~18 | 1000 videos, 100K+, $3K to $40K, 1.7M, 23 seconds, 2 years |
+| **The identity named** (who it's for) | most | creators, personal brand |
+| **Contrarian or "mistake"** | ~5 | Biggest mistake...; Stop posting talking heads |
+| **A riddle or secret only insiders get** | **0** | none |
+The same shapes in his swipe file: "How to Become Noticeably More Athletic
+in 90 Days (It only takes 3 Hours a Week)", "How To Become So Fast It Feels
+Illegal (It's NOT running)". Our own data agrees: our two early winners were
+a how-to plus a whisper ("What to do in the 3 hours before a marathon (hour
+by hour)" 18K; "...the last 30 minutes... (the part nobody plans)" 13.8K),
+and "how to... sub-4 marathon" is our best TikTok family (9.5K). P80: the
+whisper may raise the stakes, never settle them.
+
+### The constraint from the recording
+Line one is recorded: "If that's secretly you, sub-4 pace on your watch can
+still get you a 4:02." The title has to give "that" a meaning, and
+"secretly" has something to land on.
+
+### Options through Briar's patterns
+| Option | Pattern | For | Against |
+|---|---|---|---|
+| **HOW TO RUN A SUB-4 / MARATHON (SECRETLY)** (18/19) | How-to + outcome + whisper twist | Anyone reads "how to run a sub-4 marathon"; the whisper is the twist and line one picks it up ("if that's secretly you") | "Secretly" asks a beat of thought |
+| HOW TO ACTUALLY RUN / A SUB-4 MARATHON (19/18) | How-to + ACTUALLY (our winners' word) | Plainest; proven word | No twist; close to the 14 Oct title |
+| 4 NUMBERS ON YOUR HAND / FOR A SUB-4 MARATHON (22/20) | Count + tangible + outcome | A picture; the structure | Repeats line one's words; "if that's secretly you" has nothing to land on |
+| 4:02 OR 3:58 MARATHON / (ON THE SAME PACE) (21/18) | Two numbers + paradox whisper | Strongest curiosity | No "sub-4"; line one's "that" has nothing to land on |
+
+### LLM Council, with Briar's lens as a sixth seat (P150)
+- **Briar's lens:** Outcome first, in plain words, then a whisper that adds
+  a twist. "How to run a sub-4 marathon (secretly)" is his commonest shape
+  with his favourite device. He'd never title a video with a feeling only
+  some viewers have.
+- **Contrarian:** "(SECRETLY)" could read as "run it without anyone
+  knowing". That's the joke, and it's true to the video.
+- **Assumption-ripper:** Is "sub-4" readable to non-runners? Next to
+  "marathon" it is, and it's the exact search phrase. "Under 4 hours" won't
+  fit 22 characters with the whisper.
+- **Expansionist:** The shape repeats: HOW TO BREAK 25 MINUTES / AT PARKRUN
+  (WITHOUT TRAINING MORE), with the whisper doing the work each time.
+- **Outsider:** "How to run a sub-4 marathon, secretly? What does secretly mean? I'll
+  watch the first bit." Line one answers that in 2 seconds and opens the
+  real gap (the 4:02).
+- **Executor:** The script chat swaps the OST, reruns the gate, reshoots
+  the frame-one mockup. Cover: the 4:02 watch still adds the cost (it isn't
+  in the title).
+- **Blind cross-review:** All agree the riddle title goes; the how-to plus
+  whisper passes every pattern; the 4:02/3:58 paradox is the best idea for a
+  video whose line one isn't already recorded.
+- **Chairman:** **HOW TO RUN A SUB-4 / MARATHON (SECRETLY).**
