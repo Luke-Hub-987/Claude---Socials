@@ -5886,6 +5886,12 @@ risk; a cause in a passed BLOCK test is a gate bug and gets fixed; a new cause
 becomes a test only when it repeats (P174). Never "I missed this" for
 something the gate already held.
 
+## P193 — Every frame in a set uses one layout, the first one included (Luke, 6 Nov)
+
+Luke on the parkrun frames: "The cover photo sucks make it more like the rest of them." Frame 1 was a white mock email card with no race strip, while frames 2 to 5 shared the strip, the logo, the navy body and the cream card. Same miss as the New York frame 1 (P161, 28 Oct).
+
+**The rule:** a set of top-band frames shares one layout: the cream race strip with the logo, the eyebrow and headline, the big number, and the same right-hand card (here the 3 ranges, blank in frame 1). Frame 1 changes the content, never the template. No mock emails, apps or screenshots in a designed set; a real screenshot is its own frame with the real thing in it.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

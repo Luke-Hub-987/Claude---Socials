@@ -518,3 +518,4 @@ twice without being checked against the winners (P99).
       two-option question ("which wall got you last time, fuel or
       legs?": 25 comments against 3 to 5 before).
 - [ ] **Read the rates on day one and reach at day three** (P90, P92).
+- [ ] **One layout across a frame set, frame 1 included (P193):** strip, logo, eyebrow, big number, the same card; frame 1 changes the content, not the template.
