@@ -86,12 +86,13 @@ const NS='http://www.w3.org/2000/svg';
 function el(t,a,p){const n=document.createElementNS(NS,t);for(const k in a)n.setAttribute(k,a[k]);p.appendChild(n);return n}
 const KM=5, X0=110, X1=1540, X=k=>X0+(X1-X0)*k/KM, Y=62;
 const MARKS=[[0,'START'],[1,'1K'],[2,'2K'],[3,'3K'],[4,'4K'],[KM,'FINISH']];
-function strip(a,b){const s=document.getElementById('strip');s.innerHTML='';
+function strip(a,b,hot){hot=hot||'#1f7ae0';const s=document.getElementById('strip');s.innerHTML='';
   el('line',{x1:X0,y1:Y,x2:X1,y2:Y,stroke:'#c3cbd6','stroke-width':12,'stroke-linecap':'round'},s);
-  el('line',{x1:X(a),y1:Y,x2:X(b),y2:Y,stroke:'#1f7ae0','stroke-width':20,'stroke-linecap':'round'},s);
+  el('line',{x1:X(a),y1:Y,x2:X(b),y2:Y,stroke:hot,'stroke-width':20,'stroke-linecap':'round'},s);
   for(const [k,t] of MARKS){const on=k>=a-0.01&&k<=b+0.01;
-    el('circle',{cx:X(k),cy:Y,r:11,fill:on?'#1f7ae0':'#0d1726',stroke:'#f4efe6','stroke-width':4},s);
+    el('circle',{cx:X(k),cy:Y,r:11,fill:on?hot:'#0d1726',stroke:'#f4efe6','stroke-width':4},s);
     const fin=k===KM;const tx=el('text',{x:k===0?X0-10:fin?X1+24:X(k),y:fin?Y+11:122,'text-anchor':k===0||fin?'start':'middle',class:'tk'+(on?' on':'')},s);
+    if(on)tx.setAttribute('fill',hot);
     tx.textContent=t}}
 
 /* the 3 ranges card: filled = how many ranges have been given so far, now = the one this stage adds */
@@ -100,16 +101,15 @@ function ranges(filled,now){return `<div class="ranges"><div class="t">THE 3 RAN
   ${RANGES.map(([k,v],i)=>`<div class="r${now.includes(i)?' now':''}"><div class="k">${k}</div>${i<filled?`<div class="v">${v}</div>`:'<div class="v blank"></div>'}</div>`).join('')}</div>`}
 
 const FRAMES={
- 1:{nostrip:true,h:`
-   <div class="email" style="left:130px;top:300px;width:820px">
-     <div class="bar"><div class="dot"></div>Your 5K result</div>
-     <div class="b"><div class="s">Your time this week</div><div class="time">25:04</div></div>
+ 1:{s:[4.9,5],hot:'#ff8a80',h:`
+   <div style="position:absolute;left:0;top:0;width:1000px">
+     <div class="eyebrow">YOUR RESULT</div>
+     <div class="head">4 SECONDS OFF</div>
+     <div class="pace"><span class="n" style="color:#ff8a80">25:04</span></div>
+     <div class="mi">and you still ran hard for the line</div>
    </div>
-   <div style="position:absolute;left:1040px;top:330px;width:800px">
-     <div class="head" style="font-size:150px;color:#ff8a80">4 SECONDS</div>
-     <div class="head" style="font-size:150px">OFF</div>
-     <div class="serif" style="font-size:52px;margin-top:34px;color:#9fb0c6">and you still ran hard for the line</div>
-   </div>`},
+   ${ranges(0,[])}
+   <div class="card line" style="position:absolute;left:0;right:690px;bottom:0;font-size:46px"><span class="lab" style="color:#ff8a80">THE LAST 100M</span><span>that time was in your legs all along</span></div>`},
  2:{s:[0,1],h:`
    <div style="position:absolute;left:0;top:0;width:1000px">
      <div class="eyebrow">THE FIRST K</div>
@@ -155,7 +155,7 @@ const FRAMES={
 };
 window.render=function(n){const fr=FRAMES[n];
   document.getElementById('stripbox').style.display=fr.nostrip?'none':'';
-  if(!fr.nostrip)strip(fr.s[0],fr.s[1]);
+  if(!fr.nostrip)strip(fr.s[0],fr.s[1],fr.hot);
   const b=document.getElementById('b');b.style.top=fr.nostrip?'0':'196px';b.innerHTML=fr.h};
 const q=new URLSearchParams(location.search);if(q.has('f'))render(+q.get('f'));else render(1);
 </script>
