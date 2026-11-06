@@ -51,6 +51,11 @@ ideas/. Ordered by how much they change a script.
   the "just to finish" premise confirmed by Luke (G9); posted as a trial with no
   race deadline (G5). Any other topic still has to pass G5, G8 and G9.
 
+- **Luke, 6 Nov: the sub-4:30 sequel of the "just to finish" reel is a one-change
+  test (C21).** It may repeat its parent's lines, hook shapes and method (G8,
+  G18, G29's repeat check); only the goal, its numbers, the send line and a
+  follow line change. Declared in the script with `sequel_of:`.
+
 ## Already settled, so not on the list
 Whisper vs no whisper (dropped, P91); cards on screen (corrected 24 Sep);
 the ERN how-to ban (P68 and the data); motion graphics on the main post

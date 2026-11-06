@@ -274,8 +274,9 @@ def run(path):
     cap = section(text, "Caption")
     has_pace = bool(re.search(r"\b[3-9]:[0-5]\d\b.{0,25}\b(?:a K|a mile|per K)|between [3-9]:[0-5]\d and", spoken, re.I))
     probs = []
-    if not re.match(r"(sub-4|3:45|3:50|3:55|4:00|4-hour|none)\b", we):
-        probs.append(f"worked example goal '{we or 'MISSING'}' isn't sub-4 or 3:45 to 4:00 (row 23)")
+    every_goal = bool(cap) and all(g in cap for g in ("sub-4", "3:45", "4:30")) if "every common goal" in we else False
+    if not (re.match(r"(sub-4|3:45|3:50|3:55|4:00|4-hour|none)\b", we) or every_goal):
+        probs.append(f"worked example goal '{we or 'MISSING'}' isn't sub-4 or 3:45 to 4:00, and the caption doesn't carry every common goal (row 23)")
     if not cap or len(cap.strip()) < 100:
         probs.append("no caption carrying the full table")
     elif has_pace and "mile" not in cap.lower():

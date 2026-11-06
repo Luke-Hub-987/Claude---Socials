@@ -47,8 +47,16 @@ def main(paths):
     flags = 0
     for path in paths:
         lines = spoken_lines(path)
+        # A declared one-change sequel (Luke's C21) may repeat its parent's lines; every other script still counts.
+        src = open(path, encoding="utf-8").read()
+        m = re.search(r"^sequel_of:\s*(\S+)", src, re.M)
+        parent_tp = ""
+        if m:
+            pm = re.search(r"^teleprompter:\s*(\S+)", open(os.path.join(os.path.dirname(path), m.group(1)), encoding="utf-8").read(), re.M)
+            parent_tp = pm.group(1) if pm else ""
         others = [t for t in tele if os.path.abspath(t) != os.path.abspath(path)
-                  and os.path.basename(t)[:10] != os.path.basename(path)[:10]][-3:]
+                  and os.path.basename(t)[:10] != os.path.basename(path)[:10]
+                  and os.path.basename(t) != parent_tp][-3:]
         old = set()
         for t in others:
             old |= set(sentences(spoken_lines(t)))

@@ -248,3 +248,8 @@ seconds = on plan; more than 30 seconds behind = run the quicker end.
 - 4:30: 6:25-6:30 (10:20-10:28/mi), then 6:10-6:15 (9:55-10:04/mi). Signs: 10K
   about 1:05, 20K about 2:08, 30K about 3:10:30, 40K about 4:13. Finish about
   4:27.
+- 3:30 (worked 6 Nov for the sub-4:30 caption): 5:00-5:05 to 10K (8:03-8:11/mi),
+  then 4:45-4:50 (7:39-7:47/mi). Signs: 10K about 51:00 (50:55), 20K about
+  1:39:30 (1:39:19), 30K about 2:28 (2:27:43), 40K about 3:16 (3:16:06).
+  Finish about 3:27 (3:26:44). Same shape as sub-4: first 10K a touch over
+  goal pace on the watch, then about 8 s/K under.
