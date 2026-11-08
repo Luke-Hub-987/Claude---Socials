@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 960" preserveAspectRatio="xMidYMid slice">
+  <!-- Placeholder for the real photo Luke shoots: his wrist mid-run, glancing at the watch, face out of frame, screen unreadable. No words. -->
+  <defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b9c4cc"/><stop offset="1" stop-color="#8d979e"/></linearGradient></defs>
+  <rect width="1080" height="960" fill="url(#sky)"/>
+  <polygon points="0,620 1080,520 1080,960 0,960" fill="#55595d"/>
+  <rect x="0" y="560" width="1080" height="18" fill="#6b7a5c" transform="rotate(-5 540 560)"/>
+  <!-- torso edge in a running top -->
+  <path d="M760,0 C700,250 720,520 820,960 L1080,960 L1080,0 Z" fill="#1f4f8f"/>
+  <!-- forearm raised across the frame -->
+  <path d="M1080,520 C900,560 640,600 380,560 L360,470 C620,500 880,460 1080,400 Z" fill="#d7ad91"/>
+  <!-- hand, fist -->
+  <ellipse cx="330" cy="515" rx="95" ry="70" fill="#cfa385"/>
+  <!-- watch -->
+  <rect x="520" y="440" width="190" height="170" rx="34" fill="#15191d" transform="rotate(-8 615 525)"/>
+  <rect x="545" y="462" width="140" height="126" rx="22" fill="#2b3a46" transform="rotate(-8 615 525)"/>
+  <path d="M552,470 L680,452 L690,500 L560,520 Z" fill="#ffffff" opacity=".18"/>
+  <rect x="560" y="380" width="110" height="70" fill="#15191d" transform="rotate(-8 615 525)"/>
+  <rect x="575" y="600" width="110" height="70" fill="#15191d" transform="rotate(-8 615 525)"/>
+</svg>

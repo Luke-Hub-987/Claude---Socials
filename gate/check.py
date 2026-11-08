@@ -475,6 +475,7 @@ def report(path, res, brief=False):
 
 # ---------- the review packet (fast reviews, 5 Nov) ----------
 ALWAYS_REGRADE = ["G13", "G16", "G18"]  # whole-script tests: re-graded on every version
+FRAME_TESTS = ["G2", "G14"]  # re-graded whenever the mockup is new to the last review
 
 
 def gate_tests():
@@ -519,11 +520,15 @@ def packet(path):
     regrade, carried = list(REVIEWER_TESTS), []
     if prev:
         regrade = []
+        # a new frame one (a mockup the last review never saw) re-grades the frame tests
+        mock = os.path.basename(fields(text).get("mockup", "")).replace(".png", "")
+        rp_text = read(os.path.join(ROOT, "gate", "reviews", os.path.basename(path)))
+        new_frame = bool(mock) and mock not in rp_text
         for t in REVIEWER_TESTS:
             v, quote = prev.get(t, ("FAIL", ""))
             quotes = re.findall(r'"([^"]{12,})"', quote)
             still = all(q.rstrip(".?!…").split("...")[0] in spoken + text for q in quotes) if quotes else False
-            if v == "FAIL" or t in ALWAYS_REGRADE or not still:
+            if v == "FAIL" or t in ALWAYS_REGRADE or not still or (t in FRAME_TESTS and new_frame):
                 regrade.append(t)
             else:
                 carried.append(t)
