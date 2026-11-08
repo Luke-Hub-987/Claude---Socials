@@ -52,6 +52,7 @@ Write `gate/reviews/<script file name>`:
 # Gate review: <script file name>
 Script hash: <the hash at the top of the packet>
 Reviewed: <date>, independent (gate-reviewer)
+Mockup: <the mockup file named in the Gate fields, so a new frame re-grades G2 and G14>
 
 | Test | Verdict | The line it rests on (quoted) | Why, and what would pass |
 |---|---|---|---|
