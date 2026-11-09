@@ -76,6 +76,11 @@ ideas/. Ordered by how much they change a script.
   - **Placements are Luke's (C17):** S Seville; A Manchester; B Barcelona,
     Paris, London; C Rome, Brighton; D Belfast. A race the course facts say
     should move is flagged for Luke, never moved.
+  - **Luke, 9 Nov, after round 2: "Just give me the script."** Delivered as
+    the v2 record (`gate/runs/2026-11-09-spring-ranking-v2-full-file.txt`)
+    with BLOCKs G8, G16, G31 open, and the G22 and G29 fixes not re-reviewed.
+    Filming it is his call; a post-hoc review treats these as accepted risks,
+    not misses.
 
 ## Already settled, so not on the list
 Whisper vs no whisper (dropped, P91); cards on screen (corrected 24 Sep);
