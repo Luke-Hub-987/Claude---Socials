@@ -207,6 +207,8 @@ a new cause becomes a new row in the same turn.**
 
 **As of 4 November 2026.**
 
+**9 Nov:** SUB-4:30 (SECRETLY) v2 ready to film (0 BLOCK; known risks G5, G13, G17; Luke allowed the 20 Oct repeat; frames `motion/plan-frames/s430-*.png`); its follow line promises sub-3:45 next. P194 the turn (G31) added. Spring ranking v2 blocked after 2 rounds (`gate/runs/2026-11-09-spring-ranking.md`): G8 needs Luke (the start-slow payoff repeats 1 Nov), G16 and G31 follow from it. Spring 2027 dates, entry routes and course facts in FACTS.
+
 **Parkrun posted 7 Nov (blocked on G8 in the gate): 8,267 views, skip 44.9%, 14s, saves 0.2%, shares 0.1%, 0 follows (`ideas/2026-11-08-parkrun-25-review.md`); front held, body didn't (known advice). Sub-4 (secretly) at 3 days: 10.4K, 15 shares. Next: Monday the gated 4:30 sequel; this week IF YOUR SPLITS LOOK / LIKE THIS, DO THIS (needs Luke's 3 shapes); `ideas/engine-room-nutrition/2026-11-08-ideas-watch-time.md`.**
 
 **14h read (6 Nov 21:10): 7,199 views (3,818 IG), skip 44.5% (Lower; the 1h 18.5% was mostly followers), 23s, saves 2.3% and shares 0.4% Higher, 0 follows. Next: HOW TO RUN A SUB-4:30 / MARATHON (SECRETLY); Valencia from 15 Nov as VALENCIA MARATHON / SUB-4 (THE 31K TRAP); parkrun blocked on Luke.**
