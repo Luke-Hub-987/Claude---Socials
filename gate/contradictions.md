@@ -56,6 +56,27 @@ ideas/. Ordered by how much they change a script.
   G18, G29's repeat check); only the goal, its numbers, the send line and a
   follow line change. Declared in the script with `sequel_of:`.
 
+- **Luke, 9 Nov, for the sub-4:30 sequel (under the 6 Nov line, C21):** it may
+  also repeat the 20 Oct 4:30 reel's numbers (the 4 times at the 10K signs and
+  the 6:10 to 6:15 band). G8 passes on that repeat. Posted to the profile as
+  the collab plus a fresh ERN TikTok upload, not a trial.
+
+- **Luke, 9 Nov, for the spring ranking (v2):**
+  - **G9, who it's for:** runners already entered in one of the 8 (each has
+    thousands), plus anyone getting in by transfer, waiting list or charity
+    place. Line one speaks to them ("If you're running one of these 8
+    marathons in spring,"). The booked audience is Luke's yes.
+  - **Closed races stay in:** Seville, Manchester, Paris, London and Brighton
+    are in although entry is closed or sold out; the caption says how to get
+    in now, using only routes the official site offers (open, waiting list,
+    official transfer, charity).
+  - **G21:** the thing to keep is the caption table (each race's date, its one
+    change on the day, how to get in now). "Count 16 weeks back" goes in the
+    caption only.
+  - **Placements are Luke's (C17):** S Seville; A Manchester; B Barcelona,
+    Paris, London; C Rome, Brighton; D Belfast. A race the course facts say
+    should move is flagged for Luke, never moved.
+
 ## Already settled, so not on the list
 Whisper vs no whisper (dropped, P91); cards on screen (corrected 24 Sep);
 the ERN how-to ban (P68 and the data); motion graphics on the main post

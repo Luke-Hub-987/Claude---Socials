@@ -1,12 +1,11 @@
 ---
 type: script (gated)
-gate: blocked
-blocked_on: G8 (Luke: does the one-change test also cover repeating the 20 Oct 4:30 reel's 4 wrist times and 6:10 to 6:15 band?)
+gate: v2
 sequel_of: 2026-11-05-script-just-to-finish.md
 generated_at: 2026-11-08
 teleprompter: 2026-11-06-teleprompter-sub-430-secretly.txt
 basis: brief ideas/engine-room-nutrition/2026-11-08-brief-sub-430-v2.md (Luke said yes, 8 Nov); v1 gated 6 Nov (0 BLOCK); the sub-4 (secretly) review (10.4K, 44.5% skip, 23s, 2.3% saves) and the parkrun review (8.3K, 44.9%, 14s, 0.2%: known advice)
-format: profile post as the collab with luke_morrison_er (+ FB) + ERN TikTok
+format: profile post as the collab with luke_morrison_er (+ FB) + a fresh ERN TikTok upload (not a trial)
 ---
 
 # HOW TO RUN A SUB-4:30 / MARATHON (SECRETLY), v2
@@ -26,16 +25,13 @@ format: profile post as the collab with luke_morrison_er (+ FB) + ERN TikTok
 Kept word for word: the title, line one, the pain, the dream, the hold line,
 the CTA, the rehook, the send line and the follow line.
 
-## Blocked on Luke (G8, BLOCK)
-The 20 Oct reel "How to pace a 4:30 marathon at every 10K" (14.6K views,
-37.0% skip, 1.3% saves) already gave this goal 4 times on the wrist (1:05,
-2:08, 3:11, 4:14) and the same 6:10 to 6:15 band. Luke's 6 Nov one-change
-decision covers repeating the parent (the sub-4 secretly reel), not this one.
-The v1 review carried a G8 PASS and missed it: my miss, and the reason v2
-graded G8 fresh. Also, the numbers differ slightly: 20 Oct had 6:20 to 6:25
-to 10K and 3:11 and 4:14 with walks at every station; this has 6:25 to 6:30,
-3:10:30 and 4:13 with the GPS buffer. Anyone who saw both sees two plans for
-one goal.
+## Luke's decision (9 Nov, G8)
+The 20 Oct reel "How to pace a 4:30 marathon at every 10K" (14.6K views)
+already gave this goal 4 times on the wrist (1:05, 2:08, 3:11, 4:14) and the
+6:10 to 6:15 band. Luke allowed the repeat under the 6 Nov one-change test
+(gate/contradictions.md). The numbers differ by a few seconds (20 Oct walked
+every station; this runs through with the GPS buffer), so the caption says
+why.
 
 ## Gate fields
 - OST: HOW TO RUN A SUB-4:30 / MARATHON (SECRETLY)
@@ -43,6 +39,7 @@ one goal.
 - Gap phrase: 4:30 pace on your watch
 - Gap held by: "You write them before the start line, and we call it the hand plan, so take a screenshot and save this."
 - Gap closed by: 30K TO THE FINISH
+- Turn: "If that's secretly you, 4:30 pace on your watch can still get you a 4:33."
 - Frame one: top half one wordless picture (a runner's wrist raised to glance at the watch, mid-run, face out of frame, the watch screen angled so no digits read); bottom half Luke in the car in the ERN running top; the title across the middle. Subtitles from 0:03
 - Frame one words: title only
 - Frame one picture: Luke shoots it on his next run (his own wrist and watch, phone at chest height, 3 to 5 seconds, a road or path, daylight). Real, new, free, no credit needed. Fallback: a free-licence photo (Pexels or Unsplash, "runner checking watch"), credited in the caption, with no readable digits, logo, bib or face
@@ -52,7 +49,7 @@ one goal.
 - Layer line one: the claim they'd argue with (4:30 pace on the watch gets you 4:33) and the gap (which 4 numbers stop it)
 - Top-band frames from 0:03 (P193, one layout): `motion/plan-frames/s430-*.png` (page `motion/plan-frames/sub-430-secretly.html`): about 0:03 the 4:33 watch with the hand plan blank, 0:20 start to 10K (number 1), 0:38 10K to 30K (numbers 2 and 3), 0:55 30K to the finish (number 4), 1:12 the hand plan to save. Retime to the edit. Every number is from the script or the caption
 - Worked example goal: 4:30, every common goal in the caption
-- Forecast: profile collab at 3 days, 5,000 to 11,000 views, skip 40% to 50%, average watch 15s to 25s, saves 0.5% to 2.5%. Base: the last 2 profile reels (sub-4 secretly 10.4K, 44.5%, 23s, 2.3%; parkrun 8.3K, 44.9%, 14s, 0.2%) and November profile reels (2K to 6K at 5h)
+- Forecast: profile collab at 3 days, 7,000 to 10,500 views, skip 44% to 50%, average watch 14s to 23s, saves 0.2% to 2.3%, shares 0.1% to 0.4%. Base: the last 3 profile reads (sub-4 secretly at 14h: 7,199, 44.5%, 23s, 2.3% saves, 0.4% shares; sub-4 secretly at 3 days: 10.4K, 15 shares; parkrun at about a day: 8,267, 44.9%, 14s, 0.2% saves, 0.1% shares). A sequel of a reel some followers saw could land under the range (Known risks)
 
 ## The gap
 Waiting for: how 4:30 pace on their own watch can still get them a 4:33,
@@ -69,6 +66,14 @@ THE FINISH opens on number 4 and then names the watch, which shuts it.
 | About them or a stranger? | Them |
 | Which stage answers it? | A number per sign; 30K TO THE FINISH pays number 4 and the reason |
 | Anything earlier give it away? | No |
+
+## The 4 questions (P194)
+| Question | Answer |
+|---|---|
+| A moment they recognise? | Told everyone it's just to finish, secretly wanting under 4:30, glancing at 4:30 pace on the watch |
+| Why it matters? | The finish photo smile while they're gutted inside at 4:33 |
+| What changed? | The turn: 4:30 pace on your own watch can still get you a 4:33 (they believe watch pace is finish time; the reason, the watch reading long, stays in the last stage) |
+| Something to do tonight? | Write the 4 numbers on the hand: about 1:05, 2:08, 3:10:30, 4:13 |
 
 ## Stack
 The parent's stack, kept on purpose (C21): the claim and the 4 numbers, the
@@ -120,6 +125,8 @@ Under 3:30: 5:00 to 5:05 a K (8:03 to 8:11 a mile) to 10K, then 4:45 to 4:50 (7:
 
 Gels: a 30g gel at 20 minutes, then one every 30 minutes on the clock. If you're passing a water station, grab a bottle and take a few sips with it. That's about 60g of carbs an hour.
 
+Saved our 4:30 plan from October? That one walked every drink station. This one runs straight through and allows for your watch reading long, so the numbers are up to a minute apart by 40K. Either works; pick one and stick to it.
+
 Want the plan for your own goal? Email us your race and goal time through the link in the bio and we'll send it to you for free.
 
 ## Pinned comment
@@ -146,9 +153,9 @@ What did you tell people your goal was, and what is it really? The sub-3:45 hand
 | Contractions, sentence length | Contractions throughout; no sentence over 22 words |
 
 ## Known risks (pre-mortem, P192)
-- **G20 (stage 2 is numbers, not a scene):** it opens on "Number 2 is about 2:08", as the brief asks (each stage leads with its number). The reviewer's fix (open on the moment at the 20K sign) would undo that, so it stays as Luke's call. Risk: some drop off between about 0:38 and 0:55, before number 4.
+- **G13 (line one repeats the title):** "secretly" and "4:30" are heard straight after they're read. Kept word for word on purpose: it's the parent's line, the formula behind its 18.5% first-hour skip (brief row 1: keep the hook). Risk: the first second adds nothing new to hear.
 - **G5 (no race deadline):** nothing ties this to a race in the next 4 weeks; it leans on year-round interest in sub-4:30. Luke waived this for the parent; the v2 brief didn't say, so it's still his call.
 - **G11 (title):** passed on the v2 round 2 review (number + constraint), after failing on v1 and v2 round 1. Two reviewers read SECRETLY differently, so treat the title as unproven on the five, proven on reach (10.4K for the sub-4).
 - **G17 (guessable):** some viewers will guess "the watch reads long" before the last stage.
-- **A one-change sequel (C21):** the hook, pain, dream and method repeat the parent by design. Followers who saw the sub-4 reel may skip.
+- **A one-change sequel (C21), and the 20 Oct numbers again (Luke 9 Nov):** the hook, pain, dream and method repeat the parent by design, and the 4:30 numbers repeat October's. Followers who saw either may skip, and views could land under the forecast.
 - **The follow line promises the sub-3:45 reel next.** It has to be the next one in the series.
