@@ -7,6 +7,17 @@ status: waiting on Luke's placements (C17: every placement is his call); dates t
 
 # Brief: RANKING 8 SPRING / MARATHONS FOR A PB
 
+## Final OST and markers (Luke, 9 Nov: "as if Briar were writing it")
+**RANKING 8 SPRING / MARATHONS FOR A PB** (16 / 18)
+Markers: D TIER / C TIER / B TIER / A TIER / S TIER (the S tier held to the end).
+Checked against Briar's grid: his top tier = the biggest question in the
+niche, an exact number, a format with a held answer; his flops (26K to 30K) =
+generic process words and opinion without a method. This title is the
+biggest question runners have right now (which race?), an exact number (8),
+their goal (a PB), and the answer held (S tier last). Rejected: "...FOR A
+SUB-4" (narrows it to one goal; a PB is everyone's), a bracket whisper (the
+tier format already holds the answer; a third line breaks G10).
+
 ## Why today, and not the others
 - The sub-4:30 sequel v2 is blocked (G8): it repeats the 20 Oct 4:30 reel's
   4 times and bands almost number for number, and parkrun showed what known
