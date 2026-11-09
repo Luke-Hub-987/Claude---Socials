@@ -253,3 +253,24 @@ seconds = on plan; more than 30 seconds behind = run the quicker end.
   1:39:30 (1:39:19), 30K about 2:28 (2:27:43), 40K about 3:16 (3:16:06).
   Finish about 3:27 (3:26:44). Same shape as sub-4: first 10K a touch over
   goal pace on the watch, then about 8 s/K under.
+
+## Spring 2027 marathons: dates and entry status (checked 9 Nov 2026, web search; confirm on each official site before the caption)
+| Race | Date | Entry status (9 Nov) | 16-week block starts (Mon) | Longest run (about 3 weeks out) |
+|---|---|---|---|---|
+| Seville | Sun 21 Feb 2027 | Open (17,000 cap) | 2 Nov 2026 (already started) | about 31 Jan |
+| Barcelona | Sun 14 Mar 2027 (official site; not 21 Mar) | Open until 37,000 or 7 Mar | 23 Nov | about 21 Feb |
+| Rome | Sun 14 Mar 2027 (official rules; 21 Mar listings are wrong) | Open | 23 Nov | about 21 Feb |
+| Paris | Sun 4 Apr 2027 (50th edition; 11 Apr listings are old) | **Closed: first lottery, sold out** | 14 Dec | about 14 Mar |
+| Brighton | Sun 4 Apr 2027 (11 Apr charity listings are wrong) | Check | 14 Dec | about 14 Mar |
+| Manchester | Sun 18 Apr 2027 | **Closed: at capacity (40,000 in about 10 days)** | 28 Dec (Christmas week) | about 28 Mar |
+| London | Sat 24 and Sun 25 Apr 2027 (two days, one-off) | **Closed: ballot shut 1 May 2026; charity places only** | 4 Jan (for the Sunday) | about 4 Apr |
+| Belfast | Sun 2 May 2027 | Open | 11 Jan | about 11 Apr |
+Correction to the 9 Nov ranking brief: no race on the list puts the longest
+runs in Christmas week. The date decides when the block **starts** (Christmas
+week for Manchester; already started for Seville) and where the longest runs
+land (late January for Seville, mid to late March for the April races).
+Sources: London (endurancesportswire, athleticsweekly), Rome (official
+regulations PDF), Brighton (Cancer Research UK, realbuzz guide), Belfast
+(belfastcitymarathon.com), Seville (finishers.com, planomato), Manchester
+(manchestermarathon.co.uk), Paris (sortiraparis, marathons.com), Barcelona
+(zurichmaratobarcelona.es).
