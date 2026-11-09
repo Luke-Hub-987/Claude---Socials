@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Spring Ranking Frames</title>
+<!-- RANKING 8 SPRING / MARATHONS FOR A PB (9 Nov): 6 frames, one layout (P193). The board fills in one tier per stage;
+     the courses still to rank stay face down, so nothing is given away before Luke says it. Every course line is from the
+     script, worded as FACTS.md has it. -->
+<style>
+:root{--navy:#0c1828;--navy-2:#14253d;--cream:#f4efe6;--blue:#1f7ae0;--blue-l:#6fb2ff;--gold:#f5b52e;--muted:#9fb0c6;--red:#ff8a80;--ink:#0d1726}
+@font-face{font-family:'DM Serif Display';src:url(../fonts/DMSerifDisplay-400-normal.woff2) format('woff2');}
+@font-face{font-family:Barlow;font-weight:700;src:url(../fonts/BarlowCondensed-700-normal.woff2) format('woff2');}
+@font-face{font-family:Barlow;font-weight:800;src:url(../fonts/BarlowCondensed-800-normal.woff2) format('woff2');}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1920px;height:1080px;overflow:hidden;background:var(--navy)}
+#f{position:relative;width:1920px;height:1080px;overflow:hidden;background:var(--navy);color:#fff;font-family:Barlow,sans-serif}
+
+/* the top band: the same in every frame */
+.top{position:absolute;left:0;top:0;right:0;height:150px;background:var(--cream);display:flex;align-items:center;padding:0 56px 0 96px}
+.top .t{font-weight:800;font-size:58px;letter-spacing:2px;color:var(--ink)}
+.top .t span{color:var(--blue)}
+.top img{margin-left:auto;height:106px;border-radius:6px}
+
+/* the board */
+.board{position:absolute;left:96px;top:196px;width:1060px;display:flex;flex-direction:column;gap:14px}
+.row{display:flex;height:154px;border-radius:20px;overflow:hidden;background:var(--navy-2);outline:5px solid transparent;outline-offset:-5px}
+.row .l{width:150px;flex:none;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:104px;color:var(--ink)}
+.row .chips{flex:1;display:flex;align-items:center;gap:18px;padding:0 26px}
+.row.empty .l{opacity:.35}
+.row.now{outline-color:var(--c)}
+.chip{background:var(--cream);color:var(--ink);font-weight:800;font-size:50px;letter-spacing:1.5px;border-radius:14px;padding:12px 26px 8px;line-height:1}
+.row.now .chip{outline:6px solid var(--c);outline-offset:0}
+
+/* the right panel */
+.panel{position:absolute;left:1210px;right:96px;top:196px;bottom:56px;display:flex;flex-direction:column;gap:22px}
+.card{background:var(--navy-2);border-radius:28px;padding:34px 40px}
+.card .h{display:flex;align-items:center;gap:20px;font-weight:800;font-size:38px;letter-spacing:4px;color:var(--blue-l)}
+.save{font-weight:800;font-size:28px;letter-spacing:3px;color:var(--gold);border:3px solid var(--gold);border-radius:999px;padding:4px 16px 2px}
+.e{margin-top:24px}
+.e+.e{border-top:2px solid rgba(255,255,255,.1);padding-top:22px}
+.e .n{font-weight:800;font-size:var(--nf,60px);line-height:1;color:var(--gold);letter-spacing:1px}
+.e .fct{font-weight:700;font-size:var(--ff,36px);color:var(--muted);margin-top:8px;line-height:1.15}
+.e .chg{font-weight:700;font-size:var(--cf,42px);color:#fff;margin-top:10px;line-height:1.15}
+.e .chg b{color:var(--gold);font-weight:700}
+.serif{font-family:'DM Serif Display',serif;font-size:56px;line-height:1.12;margin-top:26px}
+.pool{margin-top:auto}
+.pool .h{font-weight:800;font-size:34px;letter-spacing:4px;color:var(--muted)}
+.tiles{display:flex;flex-wrap:wrap;gap:14px;margin-top:16px}
+.tile{width:110px;height:84px;border-radius:14px;background:var(--navy-2);border:3px dashed #3a4f6e;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:52px;color:var(--muted)}
+.tile.hot{border:3px solid var(--gold);color:var(--gold);width:auto;padding:0 26px;font-size:40px;letter-spacing:2px}
+.cta{background:var(--blue);border-radius:16px;padding:18px 26px 14px;font-weight:800;font-size:32px;letter-spacing:1px;line-height:1.2}
+</style>
+</head>
+<body>
+<div id="f">
+  <div class="top"><div class="t">RANKING 8 SPRING MARATHONS <span>FOR A PB</span></div><img src="../brand/ern-logo.png" alt="ERN"></div>
+  <div class="board" id="board"></div>
+  <div class="panel" id="panel"></div>
+</div>
+<script>
+const TIERS=[['S','#f5b52e'],['A','#6fb2ff'],['B','#1f7ae0'],['C','#9fb0c6'],['D','#ff8a80']];
+const PLACED={D:['BELFAST'],C:['ROME','BRIGHTON'],B:['BARCELONA','PARIS','LONDON'],A:['MANCHESTER'],S:['SEVILLE']};
+const ORDER=['D','C','B','A','S'];   // the order the video reveals them
+const CHANGES={
+  D:{entries:[['BELFAST','A steep drop out of Stormont, the hardest climb near 30K',"Don't let the drop pull you quicker than your plan for the <b>first 10K</b>"]]},
+  C:{entries:[['ROME','About 6K of cobbles','Shorten your steps there, and let the watch pace go'],
+              ['BRIGHTON','Short, sharp climbs, mostly done by 18K','Same effort on the climbs, and let the pace drop']],nf:'54px',ff:'32px',cf:'38px'},
+  B:{entries:[['BARCELONA','Peaks near 14K','Hold the effort up to <b>14K</b>, not the pace'],
+              ['PARIS','Tunnels by the river cut the GPS',"Ignore your watch's pace in there"],
+              ['LONDON','Canary Wharf scrambles the GPS past 30K','Trust the clock at the <b>30K sign</b>']],nf:'48px',ff:'32px',cf:'36px'},
+  A:{entries:[['MANCHESTER','About 54 metres of climbing all race','Let the rise into Altrincham go, and check the clock at the <b>20K sign</b>']]},
+  S:{entries:[['SEVILLE','Nothing slows you early','First 10K about <b>5 seconds a K slower</b> than goal pace, then check the clock at the <b>10K sign</b>']]},
+};
+
+function board(revealed,now){
+  return TIERS.map(([t,c])=>{const on=revealed.includes(t);
+    return `<div class="row${on?'':' empty'}${t===now?' now':''}" style="--c:${c}"><div class="l" style="background:${c}">${t}</div>
+      <div class="chips">${on?PLACED[t].map(n=>`<div class="chip">${n}</div>`).join(''):''}</div></div>`}).join('')}
+
+function panel(n){
+  const revealed=ORDER.slice(0,n-1), now=ORDER[n-2];
+  const left=8-revealed.reduce((a,t)=>a+PLACED[t].length,0);
+  let card;
+  if(!now) card=`<div class="card"><div class="h">YOUR ONE CHANGE</div><div class="serif">Every course on this list has one.</div></div>`;
+  else{const c=CHANGES[now];
+    card=`<div class="card" style="--nf:${c.nf||'60px'};--ff:${c.ff||'36px'};--cf:${c.cf||'42px'}">
+      <div class="h">${now} TIER &middot; YOUR ONE CHANGE</div>
+      ${c.entries.map(([nm,f,ch])=>`<div class="e"><div class="n">${nm}</div><div class="fct">${f}</div><div class="chg">${ch}</div></div>`).join('')}</div>`}
+  let pool;
+  if(left===0) pool=`<div class="pool"><div class="save" style="display:inline-block;font-size:34px;margin-bottom:18px">SAVE THIS</div><div class="cta">Email us your spring race and goal time, link in bio</div></div>`;
+  else if(left===1) pool=`<div class="pool"><div class="h">STILL TO RANK</div><div class="tiles"><div class="tile hot">THE FLATTEST</div></div></div>`;
+  else pool=`<div class="pool"><div class="h">STILL TO RANK: ${left}</div><div class="tiles">${'<div class="tile">?</div>'.repeat(left)}</div></div>`;
+  document.getElementById('board').innerHTML=board(revealed,now);
+  document.getElementById('panel').innerHTML=card+pool;
+}
+window.render=n=>panel(n);
+const q=new URLSearchParams(location.search);render(q.has('f')?+q.get('f'):1);
+</script>
+</body>
+</html>
