@@ -257,11 +257,11 @@ seconds = on plan; more than 30 seconds behind = run the quicker end.
 ## Spring 2027 marathons: dates and entry status (checked 9 Nov 2026, web search; confirm on each official site before the caption)
 | Race | Date | Entry status (9 Nov) | 16-week block starts (Mon) | Longest run (about 3 weeks out) |
 |---|---|---|---|---|
-| Seville | Sun 21 Feb 2027 | Open (17,000 cap) | 2 Nov 2026 (already started) | about 31 Jan |
+| Seville | Sun 21 Feb 2027 (official site) | **Closed: sold out at 20,000 (official site); waiting list from cancellations** | 2 Nov 2026 (already started) | about 31 Jan |
 | Barcelona | Sun 14 Mar 2027 (official site; not 21 Mar) | Open until 37,000 or 7 Mar | 23 Nov | about 21 Feb |
 | Rome | Sun 14 Mar 2027 (official rules; 21 Mar listings are wrong) | Open | 23 Nov | about 21 Feb |
 | Paris | Sun 4 Apr 2027 (50th edition; 11 Apr listings are old) | **Closed: first lottery, sold out** | 14 Dec | about 14 Mar |
-| Brighton | Sun 4 Apr 2027 (11 Apr charity listings are wrong) | Check | 14 Dec | about 14 Mar |
+| Brighton | Sun 4 Apr 2027 (official: londonmarathonevents.co.uk; 11 Apr charity listings are wrong) | **General entry sold out (official page); charity places** | 14 Dec | about 14 Mar |
 | Manchester | Sun 18 Apr 2027 | **Closed: at capacity (40,000 in about 10 days)** | 28 Dec (Christmas week) | about 28 Mar |
 | London | Sat 24 and Sun 25 Apr 2027 (two days, one-off) | **Closed: ballot shut 1 May 2026; charity places only** | 4 Jan (for the Sunday) | about 4 Apr |
 | Belfast | Sun 2 May 2027 | Open | 11 Jan | about 11 Apr |
@@ -274,3 +274,13 @@ regulations PDF), Brighton (Cancer Research UK, realbuzz guide), Belfast
 (belfastcitymarathon.com), Seville (finishers.com, planomato), Manchester
 (manchestermarathon.co.uk), Paris (sortiraparis, marathons.com), Barcelona
 (zurichmaratobarcelona.es).
+
+## Spring 2027 courses: one reason each (checked 9 Nov 2026; figures differ by source, so the script says the reason, not a contested number, except where the organiser gives one)
+- Seville: the organisers and AIMS call it the flattest marathon course in Europe (lowest climbing of any European marathon, per AIMS). February in Seville is mild (about 7 to 18°C, per race guides).
+- Manchester: about 54 m of climbing in the whole race (official race page, UK Athletics certified); one of the flattest in the UK.
+- Barcelona: 134 m of climbing (organiser), 76 m in the first half and 58 m in the second; long straight roads (organiser).
+- Paris: rolling, with short dips through the tunnels along the Seine (course guides; climbing figures differ, 144 to 292 m).
+- London: three starts merge after about 4K, where it gets crowded (course guides); our tangents video: a crowded start costs weaving.
+- Rome: about 6 km of cobbles (official FAQ).
+- Brighton: short, sharp climbs, most of them done by mile 11 (about 18K) (race guides; 137 to 167 m of climbing).
+- Belfast: short, sharp hills (the official site's 3-hour pacer), and wind off the Lough on exposed stretches (race guide).
