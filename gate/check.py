@@ -19,10 +19,10 @@ HUMANIZER = os.path.join(ROOT, ".claude", "skills", "humanizer", "check.py")
 
 # Tests the independent reviewer must grade (REVIEWER and BOTH in GATE.md).
 REVIEWER_TESTS = ["G2", "G4", "G5", "G6", "G7", "G8", "G9", "G11", "G12", "G13", "G14",
-                  "G16", "G17", "G18", "G20", "G21", "G22", "G23", "G24", "G29"]
+                  "G16", "G17", "G18", "G20", "G21", "G22", "G23", "G24", "G29", "G31"]
 # Two tiers (Luke, 5 Nov): a reviewer FAIL on a BLOCK test stops the script;
 # a FAIL on a RISK test goes in the script's "Known risks" box for Luke.
-BLOCK_REVIEWER = ["G2", "G6", "G8", "G9", "G12", "G16", "G21", "G22", "G23", "G29"]
+BLOCK_REVIEWER = ["G2", "G6", "G8", "G9", "G12", "G16", "G21", "G22", "G23", "G29", "G31"]
 RISK_REVIEWER = [x for x in REVIEWER_TESTS if x not in BLOCK_REVIEWER]
 
 WORDS = dict(
@@ -231,6 +231,24 @@ def run(path):
     ok = bool(gp and held and closed) and closed in markers and bool(in_line_one)
     add("G16", ok, f"closed by '{closed or 'MISSING'}'" + ("" if closed in markers else " (not one of the markers)")
         + ("" if in_line_one else "; gap phrase not in line one") + ("" if held else "; no 'Gap held by'"))
+
+    # G31 the turn (mechanical part; Luke 9 Nov, P194): named, spoken before the first marker, the 4 questions answered
+    fm_i = next((i for i, (k, _) in enumerate(items) if k == "marker"), len(items))
+    hook_text = " ".join(norm_tokens(" ".join(t for k, t in items[:fm_i] if k == "para")))
+    turn = re.sub(r'^["\u201c]|["\u201d]$', "", f.get("turn", "").strip())
+    turn_toks = " ".join(norm_tokens(turn))
+    turn_ok = bool(turn_toks) and turn_toks in hook_text
+    q4 = section(text, "The 4 questions") or ""
+    q_rows = [r for r in re.findall(r"^\|(.+)\|\s*$", q4, re.M) if not re.match(r"\s*-+\s*\|", r) and not re.match(r"\s*Question", r)]
+    answered = [r for r in q_rows if len([c for c in r.split("|") if c.strip()]) >= 2]
+    probs31 = []
+    if not turn_toks:
+        probs31.append("no 'Turn:' in the Gate fields")
+    elif not turn_ok:
+        probs31.append("the Turn line isn't spoken before the first marker")
+    if len(answered) < 4:
+        probs31.append(f"'## The 4 questions' has {len(answered)} of 4 answered")
+    add("G31", not probs31, "; ".join(probs31) or "turn named and spoken before the method; the 4 questions answered (the reviewer judges if it's new)")
 
     # G18 retired templates
     m = rx("templates").search(spoken)

@@ -8,7 +8,7 @@ reviewer: .claude/agents/gate-reviewer.md (the REVIEWER tests)
 mockup: gate/frame.html + gate/shoot_frame.js (G15)
 ---
 
-# GATE.md: 30 tests every script passes before Luke sees it
+# GATE.md: 31 tests every script passes before Luke sees it
 
 Luke, 4 Nov: "Every video has to pass every principle we've learnt BEFORE I
 see it." This file replaces the self-graded ledger table, the 151-line
@@ -47,7 +47,7 @@ failures our data proves were never what held a script up. So:
 
 - **BLOCK:** proven by repeated data, or a matter of truth, safety or the
   first 3 seconds. Must pass. Every AUTO test, plus the reviewer's G2, G6, G8,
-  G9, G12, G16, G21, G22, G23, G29.
+  G9, G12, G16, G21, G22, G23, G29, G31.
 - **RISK:** judgement calls where good scripts can disagree: G4 (the "their
   goal" part), G5, G7, G11, G13, G14, G17, G18 (shape freshness), G20, G24
   (the read-aloud part). The reviewer still grades them. **One round of fixes,
@@ -306,6 +306,27 @@ of emails. Dublin km by km, sent to running partners: 1.8% shares.
 
 ---
 
+### G31 · The turn: what changed, before the method · BOTH
+**Test:** Before the first stage marker, one spoken line shows the moment
+something changed: what the viewer was doing wrong, or what they (or Luke)
+realised, said as a moment they can picture, not a rule. It must be
+something the viewer **didn't already believe**: read it to a runner of this
+goal; if they'd nod along, there's no turn. It can be line one itself. It
+shows what was wrong, never the fix the closing stage pays (G16 still holds:
+the sub-4 turn was "sub-4 pace on your watch can still get you a 4:02"; the
+reason, the watch reading long, stayed in the last stage). AUTO: the Gate
+fields name it ("Turn:" with the line in quotes), the line is spoken before
+the first marker, and the file has "## The 4 questions" with all 4 answered.
+**Evidence:** Sub-4 (secretly) had a turn (the pace on your watch lies): 23s
+watched, 2.3% saves. Parkrun had the method with no turn ("don't sprint,
+spread it out", which they already believed): 14s, 0.2% saves. 16 results
+had neither a moment nor a turn: 44.4% skip.
+**Passes:** "If that's secretly you, sub-4 pace on your watch can still get you a 4:02."
+**Fails:** "Most runners go off too fast." (They'd nod along.)
+**From:** P194 (Luke 9 Nov, the 4-step story), P175, P186
+
+---
+
 ## E. The body
 
 ### G20 · Stages on one clock, each ending on an action · BOTH
@@ -468,7 +489,7 @@ stay in CLAUDE.md and the files named.
 ## How a script file is laid out for the gate
 
 The checker reads these. Copy the block from
-`ideas/engine-room-nutrition/2026-11-04-script-16-results-refilm.md`.
+`ideas/engine-room-nutrition/2026-11-06-script-sub-430-secretly.md` (the 16 results file it used to name is a record in gate/runs/).
 
 ```
 ---
@@ -481,6 +502,7 @@ gate: v1
 - Gap phrase: <the words in line one they'll wait for>
 - Gap held by: <the named concept line>
 - Gap closed by: <one of the markers>
+- Turn: "<the spoken line before the first marker that shows what changed>"
 - Frame one: <what's on screen 0:00 to 0:03>
 - Frame one words: title only
 - Mockup: <path to the 1080 x 1920 PNG>
@@ -493,6 +515,7 @@ gate: v1
 "spoken paragraph"
 **[STAGE ONE]**
 "spoken paragraph"
+## The 4 questions   (a table: a moment they recognise? why it matters? what changed? something to do tonight?)
 ## Caption
 ## Facts check   (a table; Status: Pass / Luke to OK / Cut)
 ## Humanizer     (the table)

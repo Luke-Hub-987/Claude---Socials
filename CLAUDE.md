@@ -29,11 +29,11 @@ every posted video.
 **GATE.md is v0.9 until Luke settles the 24 contradictions in
 `gate/contradictions.md`; the [C#] lines use the recommendation till then.**
 A new script file copies the layout of
-`ideas/engine-room-nutrition/2026-11-04-script-16-results-refilm.md`.
+`ideas/engine-room-nutrition/2026-11-06-script-sub-430-secretly.md`.
 
 ## Read before writing anything (in this order)
 
-0. **`GATE.md`: the 30 tests. It replaces the old quick reference and the
+0. **`GATE.md`: the 31 tests. It replaces the old quick reference and the
    checklist audit as the thing a script passes.**
 1. **`FACTS.md`: every number and practical detail in a script comes from
    here. Do the maths (grams an hour) before writing.**
@@ -93,6 +93,14 @@ stage, the last stage shuts it.** Every script file starts with a "The gap:"
 line (what they're waiting for, what holds it, what closes it). **Every beat
 is a scene they've lived, Ogilvy-specific (P177):** never "eat 3 hours
 before"; always the ball 5 yards away and your legs won't go.
+
+**P194 (Luke 9 Nov): the turn.** Before the first stage, one spoken line
+shows the moment something changed (what they were doing wrong, what they
+realised), and it's something they didn't already believe (if they'd nod
+along, it isn't a turn). It can be line one; it never gives away the fix the
+last stage pays. Every script file has a "Turn:" gate field and "## The 4
+questions" (a moment they recognise? why it matters? what changed? something
+to do tonight?). Gate test G31, BLOCK.
 
 **P186 (Luke 4 Nov, "every single time", a repeat): two checks in every
 script file before Luke sees it.** (a) **The line-one gap test:** read line

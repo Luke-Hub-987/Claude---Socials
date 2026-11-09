@@ -35,6 +35,10 @@ Each verdict quotes the exact words it rests on.
   numbers. A repeat fails unless Luke's settled decisions allow it.
 - **G22:** check every spoken number against FACTS in the packet. Work the
   maths yourself when a number comes from a calculation.
+- **G31 (the turn):** find the line named "Turn:" in the spoken hook. Is it
+  a moment (not a rule)? Would a runner of this goal nod along (FAIL), or is it
+  something they didn't believe (PASS)? Does it give away the fix the closing
+  stage pays (FAIL)?
 - For a FAIL that only Luke can fix (a fact or a decision), say "needs Luke"
   in the row. Otherwise keep Luke's name out of it.
 

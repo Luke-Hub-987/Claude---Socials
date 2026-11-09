@@ -68,3 +68,5 @@ FILES: only touch ideas/ files and your brief, plus CLAUDE.md "Current state"
 when something posts. Don't edit GATE.md, gate/ or principles.md: they belong
 to the script chat. Pull before you start and before every commit, and push
 to the same branch.
+
+**The turn (P194, Luke 9 Nov):** every brief names its turn, the moment something changed (what they were doing wrong, what they realised), and says why the viewer doesn't already believe it. If they'd nod along, find another topic or another turn. The script chat's gate fails a script without one (G31).

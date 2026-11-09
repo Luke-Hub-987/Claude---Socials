@@ -5892,6 +5892,28 @@ Luke on the parkrun frames: "The cover photo sucks make it more like the rest of
 
 **The rule:** a set of top-band frames shares one layout: the cream race strip with the logo, the eyebrow and headline, the big number, and the same right-hand card (here the 3 ranges, blank in frame 1). Frame 1 changes the content, never the template. No mock emails, apps or screenshots in a designed set; a real screenshot is its own frame with the real thing in it.
 
+## P194 — The turn: show what changed before the method, and make it something they didn't believe (Luke, 9 Nov)
+
+Luke shared a creator's 4-step story formula (a moment they recognise, why it
+matters, what changed, something to do tonight) and made step 3 a rule:
+`ideas/engine-room-nutrition/2026-11-09-four-step-story.md`. Three of the four
+steps were already our stack (P177, P176/P186, P127). Step 3 wasn't a beat:
+we named the belief we overturn (P175, G8) but never showed the moment.
+
+**The evidence:** sub-4 (secretly) had a turn, the pace on your watch lies:
+23s watched, 2.3% saves. Parkrun had a method and no turn ("don't sprint,
+spread it out", which runners already believed): 14s, 0.2% saves.
+
+**The rule:** every script has "the turn", a spoken line before the first
+stage that shows the moment something changed (what the viewer was doing
+wrong, or what they or Luke realised), as a moment, not a rule. It must be
+something the viewer didn't already believe: if a runner of this goal would
+nod along, it isn't a turn. It can be line one. It shows what was wrong and
+never the fix the last stage pays, so the held reveal (G16) stays: the sub-4
+turn was "sub-4 pace on your watch can still get you a 4:02", and the reason
+stayed in the last stage. Every script file names it (Gate fields "Turn:")
+and carries the 4 questions with answers. Gate test G31 (BOTH, BLOCK).
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
