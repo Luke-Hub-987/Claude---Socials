@@ -99,3 +99,13 @@ the viewer didn't already believe) before anything else.
 **Parked.** A ranking only comes back as "what each open course does to your
 pace at 30K, and the one change each needs": a turn per race and a table to
 keep.
+
+## Luke's call (9 Nov, later): the ranking goes ahead
+"There is value in filming the tiering": runners already entered, plus those
+getting in by transfer, waiting list, charity place or entry on the day,
+and each race has thousands of them. So the audience is **runners who are
+running one of these 8** (his yes on G9). v2 fixes the topic fails: a turn
+per race (what that course does to your pace at 30K, from the official
+course profile and map) and the one change each needs, as a table to keep
+(G8, G21, G31); the 16-week start date goes to the caption only. Tomorrow,
+after the sub-4:30 posts today.
