@@ -83,3 +83,19 @@ Luke knows Irish and UK courses first-hand; any line he changes, changes.
   chat writes and gates it today; film this afternoon, post tonight.
 - **Chairman:** **Today: RANKING 8 SPRING / MARATHONS FOR A PB, once Luke
   gives his placements.**
+
+---
+
+## Gate result (9 Nov): not ready, 7 BLOCK fails (gate/runs/2026-11-09-spring-ranking-v1-full-file.txt)
+**My miss:** I never checked whether the 8 races were open. 5 are closed
+(Seville, Manchester, Paris, London, Brighton), so the S tier was a race the
+viewer can't enter, and line one ("haven't entered either") wasn't true
+(P183, a premise I didn't check). The reviewer also found the topic itself
+thin: "count 16 weeks back" is known (G8), each viewer keeps one date (G21),
+the S tier is guessable (G16), and "the date matters" isn't a turn (G31).
+**For the ideas chat from now on:** before a brief names a race, check its
+entry is open on the official site, and every brief states its turn (what
+the viewer didn't already believe) before anything else.
+**Parked.** A ranking only comes back as "what each open course does to your
+pace at 30K, and the one change each needs": a turn per race and a table to
+keep.
