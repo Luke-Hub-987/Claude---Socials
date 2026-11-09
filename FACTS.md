@@ -284,3 +284,13 @@ regulations PDF), Brighton (Cancer Research UK, realbuzz guide), Belfast
 - Rome: about 6 km of cobbles (official FAQ).
 - Brighton: short, sharp climbs, most of them done by mile 11 (about 18K) (race guides; 137 to 167 m of climbing).
 - Belfast: short, sharp hills (the official site's 3-hour pacer), and wind off the Lough on exposed stretches (race guide).
+
+## Spring 2027 courses: where each one costs you, and how to get in now (checked 9 Nov 2026, web search; for the ranking v2)
+- Seville: flattest in Europe (AIMS, organisers), so nothing slows the first 10K. Our method: first 10K 5 to 10 s a K slower than goal pace (the 1 Nov reel; the watch bands), then the clock at the 10K sign. Get in: waiting list (official site; sold out at 20,000).
+- Manchester: about 54 m of climbing (official page); the only real rise is into Altrincham just before halfway, then the road falls on the way back (race reviews; official supporter guide: halfway in Altrincham). Get in: charity places (official page: general entry at capacity).
+- Barcelona: the highest point is near 14K by the Sagrada Familia (several course analyses); 76 m of climbing in the first half and 58 m in the second (organiser). Get in: open (official, until 37,000 or 7 Mar).
+- Paris: the course goes through tunnels along the Seine (race reports; km disputed); GPS loses the satellites in a tunnel, so watch pace jumps (runner reports; a course-measurement article names tunnels as a cause of watches reading long). Most-cited climbing 292 m (2026 course analysis). Get in: charity bibs (from about 420 euros raised) and an official resale platform reported from 1 Dec (marathons.com; not confirmed on the official site, which blocks lookups).
+- London: crowded until the starts merge (about 4K); Canary Wharf's tall buildings and short tunnels make GPS unreliable around miles 19 to 21, about 30 to 34K (runner reports, several sources). Get in: charity places only (ballot shut 1 May 2026; charity places can't be transferred).
+- Rome: about 6 km of cobbles (official FAQ); the official FAQ gives about 20 m between the lowest and highest points. Where the cobbles fall is disputed (30 to 40K in one source, 20 to 26K in another), so the script doesn't place them. Get in: open.
+- Brighton: short, sharp climbs, most done by mile 11 (about 18K) (race guides); seafront headwinds in race reports. The power station loop was dropped in 2023. Get in: charity places (official: general entry sold out; no transfers, LME FAQ).
+- Belfast: starts with a steep downhill out of Stormont (race guide); the steepest climb is Old Park Road (official site's pacer), around miles 18 to 19, about 29 to 31K (race guide). Get in: open.
