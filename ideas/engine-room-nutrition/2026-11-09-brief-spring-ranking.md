@@ -27,6 +27,13 @@ tier last). Briar's "Ranking Content Formats" (80.4K) shape.
 metres of climbing flatter than the rest." (Only if Seville's figure holds;
 otherwise: "...the date on the entry page matters more than the course.")
 
+## The 4 steps (Luke, 9 Nov: ideas/engine-room-nutrition/2026-11-09-four-step-story.md)
+1. Moment: "If you've got 2 spring marathons open in 2 tabs and still haven't entered either, one of them starts your training before Christmas."
+2. Consequence: pick by the medal or the city break and your 16 weeks go into a course, a month or a crowd that hands back minutes your training earned.
+3. What changed (the turn): the date matters as much as the course: it decides whether your longest runs land in Christmas week or in March light (Luke to OK as his own observation).
+4. Something to do: the tier list, each race's one reason and the week its 16-week block starts, S tier last.
+This replaces the line one above.
+
 ## Structure
 Tier by tier, D to S, one race at a time, the reason in one line each (the
 course, the usual weather that month, when your 16-week block starts, the
