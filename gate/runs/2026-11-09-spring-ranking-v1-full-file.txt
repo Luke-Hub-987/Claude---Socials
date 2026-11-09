@@ -1,0 +1,171 @@
+---
+type: script (gated)
+gate: v1
+generated_at: 2026-11-09
+teleprompter: 2026-11-09-teleprompter-spring-ranking.txt
+basis: brief ideas/engine-room-nutrition/2026-11-09-brief-spring-ranking.md; Luke 9 Nov (OST, markers, placements, the 4 steps, the turn OK'd); the 4-step story (ideas/engine-room-nutrition/2026-11-09-four-step-story.md); FACTS (spring 2027 dates, entry status and courses, checked 9 Nov)
+format: profile post as the collab with luke_morrison_er (+ FB) + ERN TikTok
+---
+
+# RANKING 8 SPRING / MARATHONS FOR A PB
+
+## Changed from Luke's brief, and why (vetted 9 Nov)
+1. **Line one and the consequence are for runners who've booked, not
+   runners choosing.** The official sites show 5 of the 8 closed: Seville
+   (sold out at 20,000, waiting list only), Manchester (at capacity), Paris
+   (lottery, sold out), London (ballot shut 1 May), Brighton (general entry
+   sold out). "Haven't entered either" and an S tier you can't enter don't
+   hold. Most people with these 5 races in their feed already have a place,
+   and they need the start Monday most. **Luke to OK.** The 3 open races
+   (Barcelona, Rome, Belfast) say "still open".
+2. **The turn, corrected:** "your longest runs land in Christmas week" isn't
+   true for any of the 8 (the longest run is about 3 weeks out: late January
+   for Seville, March for the April races). What's true: the date decides
+   whether your 16 weeks **start** in Christmas week (Manchester, 28 Dec) and
+   whether your longest runs are in January dark or March light.
+3. **Send line:** "the friend you're running it with" (they've booked)
+   instead of "the friend you're choosing a race with".
+Kept as Luke gave them: the OST, the markers, every placement, the turn's
+realisation ("the date matters as much as the course"), one reason and a
+start Monday per race, the CTA after the first tier.
+
+## Gate fields
+- OST: RANKING 8 SPRING / MARATHONS FOR A PB
+- Markers: D TIER / C TIER / B TIER / A TIER / S TIER
+- Gap phrase: your 16 weeks
+- Gap held by: "Each race gets one reason and its start Monday, when your 16 weeks begin. Save this."
+- Gap closed by: S TIER
+- Turn: "Writing spring plans, we found the date matters as much as the course."
+- Frame one: Luke in the car in the ERN running top, the title; no picture; subtitles from 0:03
+- Frame one words: title only
+- Mockup: ideas/engine-room-nutrition/mockups/2026-11-09-spring-ranking-frame-one.png
+- Layer title: the event (spring marathons), a number (8), their goal (a PB), the answer held back (where each lands)
+- Layer picture: none, on screen or as the cover (Luke and the title)
+- Layer line one: their own race and its start (the 16 weeks might start before Christmas, or already have)
+- Worked example goal: none (a ranking); every race's date, start Monday and longest-run week in the caption
+- Forecast: profile collab at 3 days, 4,000 to 11,000 views, skip 40% to 55%, saves 0.5% to 2.5%. Base: the last 2 profile reels (sub-4 secretly 10.4K, 44.5%, 2.3% saves; parkrun 8.3K, 44.9%, 0.2%) and November profile reels (2K to 6K at 5h). Wide because a ranking is a new format for us
+
+## The gap
+Waiting for: whether their own race's 16 weeks start before Christmas or
+have already started, and where it ranks. Held by "its start Monday". Each
+tier pays a date and a start Monday; the rehook reopens the one already
+started; S TIER shuts it.
+
+## Line-one gap test (P186)
+| Test | Answer |
+|---|---|
+| Line one alone: what does a stranger ask? | "Has mine already started?" |
+| One specific question? | Yes: when do my 16 weeks start |
+| Can they guess it? | Not without counting back from their race date |
+| About them or a stranger? | Them (their booked race) |
+| Which stage answers it? | Every tier gives a start Monday; S TIER is the one already started |
+| Anything earlier give it away? | No: the rehook says one has started, not which |
+
+## The 4 questions (P194)
+| Question | Answer |
+|---|---|
+| A moment they recognise? | A spring marathon booked, and training "after Christmas" in their head |
+| Why it matters? | Start late and 16 weeks become 12; race day takes back minutes they earned |
+| What changed? | Writing spring plans, we found the date matters as much as the course |
+| Something to do tonight? | Find their race, put its start Monday in the calendar, email for the free plan |
+
+## Stack
+Moment (line one), consequence (16 into 12), the turn (the date matters as
+much as the course), the named concept (the start Monday) and save; tiers D
+to S, rehook before S. No dream line: Luke's 4 steps put the turn in that
+slot.
+
+## Script
+
+"If you've got a spring marathon booked, your 16 weeks might start before Christmas, or might have started already."
+
+"Start a few weeks late and you squeeze 16 weeks into 12, and race day takes back minutes your training earned."
+
+"Writing spring plans, we found the date matters as much as the course. It decides if your 16 weeks start in Christmas week, and if your longest runs are in January dark or March light."
+
+"Each race gets one reason and its start Monday, when your 16 weeks begin. Save this."
+
+**[D TIER]**
+
+"Belfast on 2 May is still open. It's got short, sharp hills and wind off the Lough. Start Monday 11 January."
+
+"Email us your spring race and goal time through the link in the bio for your free plan."
+
+**[C TIER]**
+
+"Rome on 14 March is still open, and about 6K of the course is cobbles. Start Monday 23 November. Brighton on 4 April has short, sharp climbs, most of them done by 18K. Start Monday 14 December."
+
+**[B TIER]**
+
+"Barcelona on 14 March is still open, on long straight roads with more of the climbing in the first half. Start Monday 23 November. Paris on 4 April rolls, with short dips through the tunnels by the river. Start Monday 14 December. London on 25 April gets crowded once the starts merge, so you'll weave. Start Monday 4 January."
+
+**[A TIER]**
+
+"Manchester on 18 April has about 54 metres of climbing in the whole race, one of the flattest in the UK. Start Monday 28 December, Christmas week."
+
+"And S tier is the only one where your 16 weeks have already started."
+
+**[S TIER]**
+
+"Seville on 21 February is the flattest course in Europe, on a mild February morning. Your 16 weeks started on 2 November, so if you've got a place, start from the week you're in."
+
+"Send this to the friend you're running it with, so you both start on the same Monday."
+
+## Caption
+Got a spring marathon booked? Count 16 weeks back from race day: that Monday is when your training starts, and for some of these it's before Christmas.
+
+Here's all 8, with the date, the Monday your 16 weeks start, and when your longest run lands (about 3 weeks out).
+
+S tier, Seville: Sunday 21 February. The flattest course in Europe. Your 16 weeks started on Monday 2 November; longest run about 31 January. Sold out (waiting list only).
+
+A tier, Manchester: Sunday 18 April. About 54 metres of climbing. Start Monday 28 December; longest run about 28 March. Sold out.
+
+B tier, Barcelona: Sunday 14 March. Long straight roads, more of the climbing in the first half. Start Monday 23 November; longest run about 21 February. Still open.
+
+B tier, Paris: Sunday 4 April. Rolling, with short tunnel dips by the Seine. Start Monday 14 December; longest run about 14 March. Sold out.
+
+B tier, London: Saturday 24 or Sunday 25 April (two days in 2027). Crowded once the starts merge. Start Monday 4 January; longest run about 4 April. Ballot closed, charity places only.
+
+C tier, Rome: Sunday 14 March. About 6K of cobbles. Start Monday 23 November; longest run about 21 February. Still open.
+
+C tier, Brighton: Sunday 4 April. Short, sharp climbs, most done by 18K. Start Monday 14 December; longest run about 14 March. General entry sold out, charity places.
+
+D tier, Belfast: Sunday 2 May. Short, sharp hills and wind off the Lough. Start Monday 11 January; longest run about 11 April. Still open.
+
+Dates and entry status checked on 9 November; check your race's own site before you book travel.
+
+Want a free plan for your race? Email us your spring race and goal time through the link in the bio.
+
+## Pinned comment
+Which spring marathon have you got, and is your start Monday before or after Christmas? Email us your race and goal time through the link in the bio for your free plan.
+
+## Facts check
+| Claim | Source | Status |
+|---|---|---|
+| Dates: Seville 21 Feb, Barcelona 14 Mar, Rome 14 Mar, Paris 4 Apr, Brighton 4 Apr, Manchester 18 Apr, London 24/25 Apr, Belfast 2 May | FACTS, spring 2027 table (official sites for Seville, Barcelona, Rome, Brighton, Manchester, Belfast; organiser press for London; Paris from sortiraparis, the official site blocks lookups) | Pass (Paris: Luke to glance at the official site) |
+| Start Mondays (16 weeks back) and longest runs (about 3 weeks out) | FACTS table; arithmetic | Pass |
+| Seville sold out; Manchester, Paris, London closed; Brighton general entry sold out; Barcelona, Rome, Belfast open | FACTS table, 9 Nov | Pass |
+| Seville the flattest course in Europe; mild February | FACTS courses (organisers, AIMS; race guides 7 to 18°C) | Pass |
+| Manchester about 54 m of climbing, one of the UK's flattest | FACTS courses (official page, UKA certified) | Pass |
+| Barcelona long straights, more climbing in the first half | FACTS courses (organiser: 76 m then 58 m) | Pass |
+| Paris rolling, tunnel dips by the river | FACTS courses | Pass |
+| London crowded once the starts merge | FACTS courses; our tangents video | Pass |
+| Rome about 6K of cobbles | FACTS courses (official FAQ) | Pass |
+| Brighton short, sharp climbs, most done by 18K | FACTS courses (race guides) | Pass |
+| Belfast short, sharp hills, wind off the Lough | FACTS courses (official site's pacer; race guide) | Pass |
+| Start late and 16 weeks become 12 | Arithmetic (4 weeks late) | Pass |
+| Writing spring plans, the date matters as much as the course | Luke's observation, OK'd 9 Nov | Pass |
+| Every placement | Luke, 9 Nov (C17) | Pass |
+
+## Humanizer (P169)
+| Check | Result |
+|---|---|
+| check.py | See the gate run |
+| AI vocabulary, negative parallelism, signposting | None; no "here's", no "game-changer", no rule of three in the reasons |
+| Second meanings | "start Monday" is said with its meaning the first time ("when your 16 weeks begin") |
+| Contractions, sentence length | Contractions throughout; short sentences, one race fact each |
+
+## Known risks (pre-mortem, P192)
+- **Line one changed from the brief (Luke to OK):** if you'd rather keep "2 tabs open, haven't entered either", 5 of the 8 (your S tier included) have to be swapped for races that are still open.
+- **No dream line:** the 4 steps put the turn where the dream used to go. The sub-4 reel had both.
+- **A ranking can start arguments** ("my race in C?"). Each tier gives a reason, never a dig.
