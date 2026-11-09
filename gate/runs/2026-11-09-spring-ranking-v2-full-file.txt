@@ -1,0 +1,182 @@
+---
+type: script (gated)
+gate: v2
+generated_at: 2026-11-09
+teleprompter: 2026-11-09-teleprompter-spring-ranking-v2.txt
+basis: Luke 9 Nov (overruled "parked"; G9 audience, closed races in, the G21 caption table, placements: gate/contradictions.md); brief ideas/engine-room-nutrition/2026-11-09-brief-spring-ranking.md; v1 record and review (gate/runs/2026-11-09-spring-ranking.md); FACTS (spring 2027 dates, courses, where each costs you, how to get in)
+format: profile post as the collab with luke_morrison_er (+ FB) + ERN TikTok; filming 10 Nov
+---
+
+# RANKING 8 SPRING / MARATHONS FOR A PB (v2)
+
+## What changed from v1 (7 BLOCKs), and why
+- **G8, G31:** the method is now each course's one change on the day (where
+  it costs you by 30K, from the course facts, and what to do, from FACTS:
+  the first-10K band, the clock at the K signs). The turn: one number on your
+  watch for all 42K is the mistake. "Count 16 weeks back" is caption only.
+- **G9:** Luke's yes: the audience is runners entered in one of the 8, plus
+  transfers, waiting lists and charity places. Line one speaks to them.
+- **G16:** ranked by course, not date; the gap is "which stretch on mine",
+  paid by its own tier; S tier's change (slower on the flattest course) is
+  the one they won't guess.
+- **G21:** the caption table: date, one change, how to get in now (official
+  routes only), start Monday.
+- **G22, G29, G24:** "takes back minutes" cut; a new send line; no "Christmas
+  week" (the caption says 28 Dec).
+
+## Flag for Luke (placements, not moved)
+- **Paris at B, above Rome and Brighton at C:** on the course facts alone,
+  Paris has the most climbing of the three (most-cited 292 m, against about
+  145 m for Brighton and about 20 m from lowest to highest point in Rome) and
+  the tunnels scramble the watch. The facts would put Paris at or below them.
+  Your call; the script keeps your tiers.
+
+## Gate fields
+- OST: RANKING 8 SPRING / MARATHONS FOR A PB
+- Markers: D TIER / C TIER / B TIER / A TIER / S TIER
+- Gap phrase: the flattest course here
+- Gap held by: "Every course on this list has one, and we call it your one change, so save this."
+- Gap closed by: S TIER
+- Turn: "The K that costs you most is the one where you feel best."
+- Frame one: Luke in the car in the ERN running top, the title; no picture; subtitles from 0:03
+- Frame one words: title only
+- Mockup: ideas/engine-room-nutrition/mockups/2026-11-09-spring-ranking-frame-one.png
+- Layer title: the event (spring marathons), a number (8), their goal (a PB), the answer held back (where each lands)
+- Layer picture: none, on screen or as the cover (Luke and the title)
+- Layer line one: a claim they'd argue with (the flattest course needs a change you'd never make on a flat road) and the gap (what change), shut only at S TIER
+- Worked example goal: none (a ranking); each race's one change, date, start Monday and how to get in are in the caption
+- Forecast: profile collab at 3 days, 4,000 to 10,500 views, skip 44% to 55%, saves 0.2% to 2.3%. Base: the last 3 profile reads (sub-4 secretly at 14h 7,199, 44.5%, 2.3% saves; at 3 days 10.4K; parkrun 8,267, 44.9%, 0.2% saves). The floor is lower because a ranking is new for us and the last "spring" gate (1 Nov) skipped 52.1%
+
+## The gap
+
+Waiting for: the change the flattest course needs that you'd never make on a
+flat road. Held by "your one change". Each tier gives its course's change as a
+step (none of them the flat-road one); the rehook repeats the question; S TIER
+names Seville and pays it (slower for the first 10K).
+
+## Line-one gap test (P186)
+
+| Test | Answer |
+|---|---|
+| Line one alone: what does a stranger ask? | "What change would I never make on a flat road?" |
+| One specific question? | Yes |
+| Can they guess it? | Not easily: on a flat road people expect to run even or bank time |
+| About them or a stranger? | Them (their spring race) |
+| Which stage answers it? | S TIER |
+| Anything earlier give it away? | The turn says the costly K is the one where you feel best, not what to do about it |
+
+## The 4 questions (P194)
+
+| Question | Answer |
+|---|---|
+| A moment they recognise? | Picking a flat spring course for a PB |
+| Why it matters? | Brilliant at 10K, paying for it at 35K |
+| What changed? | The K that costs you most is the one where you feel best |
+| Something to do tonight? | Find their course's one change, and write the 10K-sign times for their goal from the caption on the plan |
+
+## Stack
+
+Line one (a claim about the flattest course), pain (brilliant at 10K, paying
+at 35K: cruel timing), dream (turning for the finish with the goal time still
+on the clock), the turn (the costly K is the one where you feel best), the
+named concept (your one change) and save; tiers D to S; rehook repeats line
+one's question; S TIER pays it.
+
+## Script
+
+"If you're running a spring marathon, the flattest course here needs the one change you'd never make on a flat road."
+
+"You pick it for the PB, you feel brilliant at 10K, and you pay for it at 35K."
+
+"Do it once, and you turn for the finish with your goal time still on the clock."
+
+"The K that costs you most is the one where you feel best."
+
+"Every course on this list has one, and we call it your one change, so save this."
+
+**[D TIER]**
+
+"Belfast drops steeply out of Stormont and climbs hardest near 30K. Don't let the drop pull you quicker than your plan for the first 10K."
+
+"Email us your spring race and goal time through the link in the bio for your free plan."
+
+**[C TIER]**
+
+"Rome is flat, but about 6K is cobbles. Shorten your steps there, and let the watch pace go. Brighton's short, sharp climbs are mostly done by 18K. Climb them at the same effort, and let the pace drop."
+
+**[B TIER]**
+
+"Barcelona peaks near 14K, with less climbing in the second half. Hold the effort up to 14K, not the pace. In Paris, the tunnels by the river cut your watch's GPS, so ignore its pace in there. London crowds you till the starts merge. Then Canary Wharf scrambles your watch past 30K, so trust the clock at the 30K sign."
+
+**[A TIER]**
+
+"Manchester has about 54 metres of climbing all race. Let the rise into Altrincham go, and check the clock at the 20K sign."
+
+"And the flattest course needs the change you'd never make on a flat road."
+
+**[S TIER]**
+
+"It's Seville. Nothing slows you early, so run the first 10K about 5 seconds a K slower than goal pace. Then check the clock at the 10K sign."
+
+"Know someone running Barcelona or Rome? Send this before their training starts on 23 November."
+
+## Caption
+
+Running a spring marathon? Here's each course's one change on the day, how to get in now if you haven't got a place, and the Monday your 16 weeks of training start.
+
+S tier, Seville, Sunday 21 February. The flattest course in Europe, so nothing slows you early: run the first 10K about 5 seconds a K slower than goal pace, then check the clock at the 10K sign. Get in: the official waiting list (sold out at 20,000). 16 weeks started Monday 2 November.
+
+A tier, Manchester, Sunday 18 April. About 54 metres of climbing all race; let the rise into Altrincham before halfway go, and check the clock at the 20K sign. Get in: charity places (general entry full). 16 weeks start Monday 28 December.
+
+B tier, Barcelona, Sunday 14 March. The highest point is near 14K, with less climbing in the second half; hold the effort up to 14K, not the pace. Get in: open on the official site (until 37,000 or 7 March). 16 weeks start Monday 23 November.
+
+B tier, Paris, Sunday 4 April. The tunnels by the Seine cut your watch's GPS, so ignore its pace in there and go by the clock at the next 10K sign. Get in: charity places. 16 weeks start Monday 14 December.
+
+B tier, London, Saturday 24 or Sunday 25 April. Crowded till the starts merge, then Canary Wharf scrambles your watch past 30K; trust the clock at the 30K sign. Get in: charity places only (the ballot's closed, and places can't be transferred). 16 weeks start Monday 4 January.
+
+C tier, Rome, Sunday 14 March. About 6K of cobbles; shorten your steps there and let the watch pace go. Get in: open on the official site. 16 weeks start Monday 23 November.
+
+C tier, Brighton, Sunday 4 April. Short, sharp climbs, mostly done by 18K; hold the effort up them, not the pace. Get in: charity places (general entry sold out, no transfers). 16 weeks start Monday 14 December.
+
+D tier, Belfast, Sunday 2 May. A steep drop out of Stormont and the hardest climb near 30K; don't let the drop pull you quicker than your plan for the first 10K. Get in: open on the official site. 16 weeks start Monday 11 January.
+
+The time on your watch at the 10K, 20K, 30K and 40K signs, by goal: under 3:30, about 51:00, 1:39:30, 2:28 and 3:16. Under 3:45, about 54:15, 1:47, 2:39:30 and 3:32. Under 4, about 57:30, 1:54, 2:50 and 3:46. Under 4:30, about 1:05, 2:08, 3:10:30 and 4:13. Within 30 seconds is on plan.
+
+Dates and entry routes checked on 9 November; check your race's own site before you book anything.
+
+Want a free plan for your race? Email us your spring race and goal time through the link in the bio.
+
+## Pinned comment
+Which of the 8 are you running, and did you know about your one change? Email us your race and goal time through the link in the bio for your free plan.
+
+## Facts check
+
+| Claim | Source | Status |
+|---|---|---|
+| Dates and start Mondays (16 weeks back) | FACTS spring 2027 table (official sites; Paris from sortiraparis) | Pass (Paris date: Luke to glance at the official site) |
+| Belfast: steep drop out of Stormont; hardest climb near 30K | FACTS courses (race guide; official site's pacer) | Pass |
+| Rome flat, about 6K of cobbles | FACTS (official FAQ) | Pass |
+| Brighton's climbs mostly done by 18K | FACTS (race guides) | Pass |
+| Barcelona peaks near 14K; less climbing in the second half | FACTS (course analyses; organiser 76 m / 58 m) | Pass |
+| Paris tunnels cut GPS | FACTS (race and runner reports) | Pass |
+| London crowded till the starts merge; Canary Wharf scrambles GPS past 30K | FACTS (course guides; runner reports, miles 19 to 21) | Pass |
+| Manchester about 54 m of climbing; the rise into Altrincham | FACTS (official page; race reviews) | Pass |
+| Seville flattest in Europe | FACTS (AIMS, organisers) | Pass |
+| First 10K 5 to 10 s a K slower than goal pace; feel best, pay at 34 to 35K | The 1 Nov reel (where it goes wrong); FACTS watch bands | **Luke to OK the repeat (G8)** |
+| The clock at the 10K signs (C24); the sign times by goal in the caption | FACTS watch bands with the GPS buffer | Pass |
+| Entry routes (waiting list, charity, open) | FACTS how to get in (official sites). Paris resale cut: not confirmed on the official site | Pass |
+| Placements | Luke, 9 Nov (C17) | Pass |
+
+## Humanizer (P169)
+| Check | Result |
+|---|---|
+| check.py | See the gate run |
+| AI vocabulary, negative parallelism, signposting | None |
+| Second meanings | "one change" is defined in the hook (one change on the day) |
+| Contractions, sentence length | Contractions throughout; no sentence over 22 words |
+
+## Known risks (pre-mortem, P192)
+- **No race inside 4 weeks:** the nearest is Seville, 15 weeks out. The last reel gated on "spring" (1 Nov) skipped 52.1%.
+- **Each tier speaks to its own runners (sorting viewers, ledger row 10):** people may leave once their race has gone by. The S tier sits last and its change runs against what a flat course suggests, which should hold the rest.
+- **A ranking starts arguments** ("Paris above Rome?"). Every tier gives a course reason, never a dig. Paris above Rome and Brighton is flagged above.
+- **The Paris date** came from press, not the official site, which blocks lookups. Glance at it before posting.
