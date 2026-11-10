@@ -8,7 +8,7 @@ reviewer: .claude/agents/gate-reviewer.md (the REVIEWER tests)
 mockup: gate/frame.html + gate/shoot_frame.js (G15)
 ---
 
-# GATE.md: 31 tests every script passes before Luke sees it
+# GATE.md: 32 tests every script passes before Luke sees it
 
 Luke, 4 Nov: "Every video has to pass every principle we've learnt BEFORE I
 see it." This file replaces the self-graded ledger table, the 151-line
@@ -47,7 +47,7 @@ failures our data proves were never what held a script up. So:
 
 - **BLOCK:** proven by repeated data, or a matter of truth, safety or the
   first 3 seconds. Must pass. Every AUTO test, plus the reviewer's G2, G6, G8,
-  G9, G12, G16, G21, G22, G23, G29, G31.
+  G9, G12, G16, G21, G22, G23, G29, G31, G32.
 - **RISK:** judgement calls where good scripts can disagree: G4 (the "their
   goal" part), G5, G7, G11, G13, G14, G17, G18 (shape freshness), G20, G24
   (the read-aloud part). The reviewer still grades them. **One round of fixes,
@@ -327,6 +327,24 @@ had neither a moment nor a turn: 44.4% skip.
 
 ---
 
+### G32 · A profile sequel is a new reel · BOTH
+**Test:** A script with `sequel_of:` (a sequel of a posted reel) either goes
+out as a **trial reel** (strangers, so a one-change test is allowed), or, on
+the profile, has a **new twist** in the title, a **new line-one shape** and a
+**new frame-one picture**, and posts **at least 7 days after the parent**.
+AUTO: if the format isn't a trial, the front matter has `parent_posted:` and
+`post_date:` (YYYY-MM-DD) at least 7 days apart. REVIEWER: the title twist,
+line one's shape and the frame-one picture are each new against the parent.
+A script that isn't a sequel passes.
+**Evidence:** Sub-4:30 (secretly), 9 Nov: the parent's twist, line one and
+method with the goal changed, on the profile 3 days later: skip 51.3%, 10s
+watched against the parent's 23s, reach stopped at followers (Feed top
+source). One post (P174), but the mechanism is plain: followers had seen it.
+**Passes:** a sequel as a trial reel; or a profile sequel 7+ days on with a new twist, line one and picture.
+**From:** P195 (Luke 10 Nov), ledger row 31, C21
+
+---
+
 ## E. The body
 
 ### G20 · Stages on one clock, each ending on an action · BOTH
@@ -462,6 +480,7 @@ wall repost 3,537 / 33.3%; long run 290 / 55.5%; match 242 at 2h / 26.2%)."
 
 These are standing instructions that aren't about a script's content. They
 stay in CLAUDE.md and the files named.
+- **Frame one as mocked up** (10 Nov, the sub-4:30 posted with a finish-line crowd, not the wordless picture the gate passed): the posted frame one is the mockup's picture, or one that meets the same spec (no words, no numbers, no crowd). The review checks it after posting.
 - **Brief first on a new topic** (P138): method in numbers, line one, pain
   and dream, every fact with its source. Luke says yes, then the script.
 - **Ideation** (P168, P182, P184, P6, P18, P17, P22, P8): titles come from

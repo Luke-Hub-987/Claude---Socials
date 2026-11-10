@@ -5914,6 +5914,21 @@ turn was "sub-4 pace on your watch can still get you a 4:02", and the reason
 stayed in the last stage. Every script file names it (Gate fields "Turn:")
 and carries the 4 questions with answers. Gate test G31 (BOTH, BLOCK).
 
+## P195 — A sequel to the same followers needs to be a new reel, or a trial (Luke, 10 Nov)
+
+The sub-4:30 (secretly) went to the profile 3 days after its parent with the
+same title twist, line one and method, the goal changed (the one-change test,
+C21): skip 51.3% (Higher), 10s watched against 23s, reach stopped at
+followers (Feed the top source). `ideas/2026-11-10-sub-430-secretly-review.md`.
+The risk was in its Known risks box (G17, the one-change sequel), so it was an
+accepted risk, not a miss; but the box doesn't stop a repeat, a rule does.
+
+**The rule:** a one-change test is a trial reel (it goes to strangers). On the
+profile, a sequel gets a new twist, a new line-one shape and a new frame-one
+picture, and posts at least 7 days after the parent. Gate test G32 (BOTH,
+BLOCK). One post so far (P174): if a trial-reel sequel holds and a profile one
+doesn't again, it's confirmed.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

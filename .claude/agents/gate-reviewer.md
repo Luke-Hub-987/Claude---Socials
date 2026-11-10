@@ -39,6 +39,9 @@ Each verdict quotes the exact words it rests on.
   a moment (not a rule)? Would a runner of this goal nod along (FAIL), or is it
   something they didn't believe (PASS)? Does it give away the fix the closing
   stage pays (FAIL)?
+- **G32 (a sequel):** only if the script has `sequel_of:`. If it's a trial
+  reel, PASS. On the profile: are the title twist, line one's shape and the
+  frame-one picture each new against the parent? Any one the same is a FAIL.
 - For a FAIL that only Luke can fix (a fact or a decision), say "needs Luke"
   in the row. Otherwise keep Luke's name out of it.
 

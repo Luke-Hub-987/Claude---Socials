@@ -61,6 +61,11 @@ ideas/. Ordered by how much they change a script.
   the 6:10 to 6:15 band). G8 passes on that repeat. Posted to the profile as
   the collab plus a fresh ERN TikTok upload, not a trial.
 
+- **Luke, 10 Nov (P195, G32): a one-change test (C21) is a trial reel only.**
+  The sub-4:30 on the profile 3 days after its parent: 51.3% skip, 10s. On the
+  profile, a sequel needs a new twist, line one and frame-one picture, and 7+
+  days after the parent.
+
 - **Luke, 9 Nov, for the spring ranking (v2):**
   - **G9, who it's for:** runners already entered in one of the 8 (each has
     thousands), plus anyone getting in by transfer, waiting list or charity

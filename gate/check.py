@@ -19,10 +19,10 @@ HUMANIZER = os.path.join(ROOT, ".claude", "skills", "humanizer", "check.py")
 
 # Tests the independent reviewer must grade (REVIEWER and BOTH in GATE.md).
 REVIEWER_TESTS = ["G2", "G4", "G5", "G6", "G7", "G8", "G9", "G11", "G12", "G13", "G14",
-                  "G16", "G17", "G18", "G20", "G21", "G22", "G23", "G24", "G29", "G31"]
+                  "G16", "G17", "G18", "G20", "G21", "G22", "G23", "G24", "G29", "G31", "G32"]
 # Two tiers (Luke, 5 Nov): a reviewer FAIL on a BLOCK test stops the script;
 # a FAIL on a RISK test goes in the script's "Known risks" box for Luke.
-BLOCK_REVIEWER = ["G2", "G6", "G8", "G9", "G12", "G16", "G21", "G22", "G23", "G29", "G31"]
+BLOCK_REVIEWER = ["G2", "G6", "G8", "G9", "G12", "G16", "G21", "G22", "G23", "G29", "G31", "G32"]
 RISK_REVIEWER = [x for x in REVIEWER_TESTS if x not in BLOCK_REVIEWER]
 
 WORDS = dict(
@@ -249,6 +249,23 @@ def run(path):
     if len(answered) < 4:
         probs31.append(f"'## The 4 questions' has {len(answered)} of 4 answered")
     add("G31", not probs31, "; ".join(probs31) or "turn named and spoken before the method; the 4 questions answered (the reviewer judges if it's new)")
+
+    # G32 a profile sequel is a new reel (Luke 10 Nov, P195): one-change only as a trial; on the profile, 7+ days after the parent
+    if fm.get("sequel_of"):
+        fmt = fm.get("format", "").lower()
+        if "trial" in fmt and "not a trial" not in fmt:
+            add("G32", True, "a sequel posted as a trial reel (a one-change test is allowed)")
+        else:
+            import datetime as _dt
+            try:
+                gap = (_dt.date.fromisoformat(fm.get("post_date", "")) - _dt.date.fromisoformat(fm.get("parent_posted", ""))).days
+            except ValueError:
+                gap = None
+            add("G32", gap is not None and gap >= 7,
+                (f"profile sequel {gap} days after the parent" if gap is not None else "profile sequel: no `parent_posted:` and `post_date:` (YYYY-MM-DD) in the front matter")
+                + ("" if gap is not None and gap >= 7 else " (needs 7+ days, or post it as a trial)") + "; the reviewer checks the twist, line one and picture are new")
+    else:
+        add("G32", True, "not a sequel")
 
     # G18 retired templates
     m = rx("templates").search(spoken)

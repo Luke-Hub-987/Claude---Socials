@@ -520,3 +520,4 @@ twice without being checked against the winners (P99).
 - [ ] **Read the rates on day one and reach at day three** (P90, P92).
 - [ ] **One layout across a frame set, frame 1 included (P193):** strip, logo, eyebrow, big number, the same card; frame 1 changes the content, not the template.
 - [ ] **The turn (P194, G31):** a spoken line before the first stage shows what changed (what they were doing wrong, what they realised), as a moment, and it's something they didn't already believe; the file has the Turn field and the 4 questions answered (a moment they recognise? why it matters? what changed? something to do tonight?).
+- [ ] **A sequel is new or a trial (P195, G32):** a one-change sequel goes out as a trial reel; on the profile it needs a new twist, a new line-one shape, a new frame-one picture, and 7+ days after the parent (`parent_posted:` and `post_date:` in the front matter).
