@@ -55,7 +55,7 @@ it describes. Frame: 3 famous faces above a title box.
 | # | OST | From | Basis | Needs |
 |---|---|---|---|---|
 | 1 | **HOW TO BUILD AN ENGINE / THAT LASTS 42K** (22 / 14) | Brandon's "Unlimited Gas Tank" (1.1M); our name is Engine Room | Luke's plans; easy running and the long run | Luke's method in numbers; vetting for any claim about easy pace; C17 if "explained simply" goes in |
-| 2 | **RANKING LONG RUN / FUEL, D TO S TIER** (15 / 18) | "S Tier Carbmaxxing" (290K) + our ranking's 17s watch | The gel clock (C22); what runners actually carry | Luke's placements (C17: every placement his); the bar's place declared honestly |
+| 2 | **RANKING LONG RUN / FUEL, D TO S TIER** (16 / 17) | "S Tier Carbmaxxing" (290K) + our ranking's 17s watch | The gel clock (C22); what runners actually carry | Luke's placements (C17: every placement his); the bar's place declared honestly |
 | 3 | **THE AMBITIOUS RUNNER / PARADOX** (20 / 7) | "The High Achiever Paradox" (94.6K likes, 49.4K saves) | The busy, driven runner who runs every easy run too hard | The evidence for "easy runs too fast" (to vet before use); line one can't use "you're the one who" (P186) |
 
 ## Council (P150)
