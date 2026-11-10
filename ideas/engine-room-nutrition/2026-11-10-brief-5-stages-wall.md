@@ -61,8 +61,8 @@ then, the time to stop it has passed." Needs Luke's yes (it's a premise).
 
 ## Council (P150), the points that changed something
 - Contrarian: "Another wall video; followers have seen four." Cross-review:
-  the last wall reel was 31 Oct's hidden-wall repost as a trial (strangers);
-  the profile hasn't had a new wall reel since October, and the shape is new.
+  the last wall post was the 2 Nov repost, a trial reel (strangers),
+  and it beat every new reel that week; the stages shape is new.
 - Expansionist: the stages are a save: "which stage did you get to?" in the
   caption invites comments, our weakest number (0 on the last 4).
 - Executor: Luke sends the 5 stage names today; the gate chat scripts Wed;
