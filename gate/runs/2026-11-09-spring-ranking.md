@@ -36,3 +36,5 @@ Luke), G16, G22, G29, G31; RISK 7: G5, G7, G11, G17, G18, G20, G24.
   Rome, whose training starts 23 Nov; "about 5 seconds a K slower" to match the
   caption's sign times; "Get this right" cut). Not re-reviewed (2 rounds max).
 Record: `2026-11-09-spring-ranking-v2-full-file.txt` and `-v2-teleprompter.txt`.
+
+## v3 (10 Nov): S tier is now Seville's start pen (official 2026 guide). Round 1: BLOCK 5 (G8, G16, G21, G23, G31), all fixed in the record; round 2 stopped by Luke ("too many turns and levels of review"). Not re-reviewed.
