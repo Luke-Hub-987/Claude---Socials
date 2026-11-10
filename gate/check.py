@@ -25,6 +25,21 @@ REVIEWER_TESTS = ["G2", "G4", "G5", "G6", "G7", "G8", "G9", "G11", "G12", "G13",
 BLOCK_REVIEWER = ["G2", "G6", "G8", "G9", "G12", "G16", "G21", "G22", "G23", "G29", "G31", "G32"]
 RISK_REVIEWER = [x for x in REVIEWER_TESTS if x not in BLOCK_REVIEWER]
 
+# One review (Luke 10 Nov, P196): the reviewer grades only these, once per script.
+WORD_TESTS = ["G2", "G12", "G21", "G22", "G23", "G29"]   # words, truth, safety, frame one: always graded
+TOPIC_TESTS = ["G8", "G9", "G16", "G31"]                  # the idea: settled on the brief when `brief_ok:` is set
+
+
+def tests_for(text):
+    """The tests the single reviewer pass grades for this script."""
+    fm = front_matter(text)
+    t = list(WORD_TESTS)
+    if not fm.get("brief_ok"):
+        t = TOPIC_TESTS + t
+    if fm.get("sequel_of"):
+        t.append("G32")
+    return t
+
 WORDS = dict(
     jargon=r"zone ?\d|threshold|glycogen|lactate|vo2|negative split|protocol|strategy|optimal|cadence|tempo|taper|splanchnic|anaerobic",
     title_jargon=r"taper|zone|heart rate|threshold|tempo|cadence|glycogen|vo2",
@@ -414,40 +429,38 @@ def run(path):
     has_table = section(text, "Humanizer") is not None
     add("G29", flags == 0 and has_table, f"humanizer {flags} flags" + ("" if has_table else "; no '## Humanizer' table") + (f": {detail}" if flags else ""))
 
-    # G30 independent review, current hash, teleprompter, forecast
+    # G30 one independent review (P196): graded once; fixes after it are listed, not re-reviewed
     probs = []
     h = script_hash(text)
+    graded = tests_for(text)
+    fixed = re.findall(r"G\d+", fm.get("fixed_after_review", ""))
+    override = fm.get("luke_override", "")
     rpath = os.path.join(REVIEW_DIR, os.path.basename(path))
     if not os.path.exists(rpath):
         probs.append(f"no independent review at gate/reviews/{os.path.basename(path)}")
     else:
         rv = read(rpath)
         m = re.search(r"Script hash:\s*([0-9a-f]+)", rv)
-        if not m or m.group(1) != h:
-            probs.append(f"review is for another version (hash {m.group(1) if m else 'none'}, script {h}): re-run the reviewer")
+        if not m or (m.group(1) != h and not fixed and not override):
+            probs.append(f"review is for another version (hash {m.group(1) if m else 'none'}, script {h}): list the fixes in `fixed_after_review:` or re-run the reviewer")
         verdicts = dict(re.findall(r"^\|\s*(G\d+)\b[^|]*\|\s*(PASS|FAIL)\b", rv, re.M))
-        missing = [t for t in REVIEWER_TESTS if t not in verdicts]
-        fails = [t for t, v in verdicts.items() if v == "FAIL"]
+        missing = [t for t in graded if t not in verdicts]
         if missing:
             probs.append(f"review has no verdict for {missing}")
-        # A reviewer FAIL can be held as BLOCKED only when the front matter says `gate: blocked`,
-        # lists the test in `blocked_on:`, and the reviewer's own row says it needs Luke.
-        # AUTO fails can never be held. A blocked script is never "ready to film".
+        fails = [t for t in graded if verdicts.get(t) == "FAIL"]
         blocked_on = re.findall(r"G\d+", fm.get("blocked_on", "")) if fm.get("gate") == "blocked" else []
         rows = dict(re.findall(r"^\|\s*(G\d+)\b([^\n]*)$", rv, re.M))
         held = [t for t in fails if t in blocked_on and "luke" in rows.get(t, "").lower()]
-        fails = [t for t in fails if t not in held]
-        risks = [t for t in fails if t in RISK_REVIEWER]
-        fails = [t for t in fails if t not in RISK_REVIEWER]
-        if fails:
-            probs.append(f"reviewer FAIL on {fails} (BLOCK tier)")
-        if risks:
-            box = section(text, "Known risks") or ""
-            missing_box = [t for t in risks if t not in box]
-            if missing_box:
-                probs.append(f"RISK fails {missing_box} aren't in the script's '## Known risks' box for Luke")
-            for t in risks:
-                add(t, True, "RISK (reviewer FAIL on a judgement test): in the Known risks box for Luke", "RISK")
+        done = [t for t in fails if t in fixed and t not in held]
+        left = [t for t in fails if t not in held and t not in done]
+        for t in done:
+            add(t, True, "reviewer FAIL, fixed after the review (listed in fixed_after_review)", "FIXD")
+        if left and override:
+            for t in left:
+                add(t, True, f"reviewer FAIL accepted by Luke ({override})", "LUKE")
+            left = []
+        if left:
+            probs.append(f"reviewer FAIL on {left}: fix and list them in `fixed_after_review:`, or mark blocked on Luke")
         for t in held:
             add(t, True, "BLOCKED on Luke (the reviewer says this needs his decision); NOT ready to film", "BLKD")
     tp = fm.get("teleprompter")
@@ -545,28 +558,11 @@ def previous_review(path, h):
 
 
 def packet(path):
-    """One file with everything the reviewer grades against, instead of ~15 reads."""
+    """One file, one pass (P196): only the tests in tests_for(), plus what they need."""
     text = read(path)
     h = script_hash(text)
-    items = script_items(text)
-    spoken = " ".join(t for k, t in items if k == "para")
     tests = gate_tests()
-    prev = previous_review(path, h)
-    regrade, carried = list(REVIEWER_TESTS), []
-    if prev:
-        regrade = []
-        # a new frame one (a mockup the last review never saw) re-grades the frame tests
-        mock = os.path.basename(fields(text).get("mockup", "")).replace(".png", "")
-        rp_text = read(os.path.join(ROOT, "gate", "reviews", os.path.basename(path)))
-        new_frame = bool(mock) and mock not in rp_text
-        for t in REVIEWER_TESTS:
-            v, quote = prev.get(t, ("FAIL", ""))
-            quotes = re.findall(r'"([^"]{12,})"', quote)
-            still = all(q.rstrip(".?!…").split("...")[0] in spoken + text for q in quotes) if quotes else False
-            if v == "FAIL" or t in ALWAYS_REGRADE or not still or (t in FRAME_TESTS and new_frame):
-                regrade.append(t)
-            else:
-                carried.append(t)
+    regrade, carried, prev = tests_for(text), [], None
     con = read(os.path.join(ROOT, "gate", "contradictions.md"))
     settled = (re.search(r"## Settled by Luke.*?(?=\n## )", con, re.S) or [""])[0]
     claude = read(os.path.join(ROOT, "CLAUDE.md"))
@@ -575,7 +571,7 @@ def packet(path):
            "## Grade these tests (PASS or FAIL, quote the line)" + (" (re-review: the rest carry over)" if prev else "")]
     for t in regrade:
         name, body = tests.get(t, ("?", "?"))
-        out.append(f"- **{t} {name}** [{'BLOCK' if t in BLOCK_REVIEWER else 'RISK'}]: {body}")
+        out.append(f"- **{t} {name}**: {body}")
     if carried:
         out += ["", "## Carried over from the last review (their quoted lines are unchanged): copy these rows as PASS"]
         out += [f"- {t}: {prev[t][1][:160]}" for t in carried]
@@ -586,11 +582,12 @@ def packet(path):
     for f in others[-3:]:
         title, paras, rehook = stack_of(f)
         out.append(f"- **{os.path.basename(f)}** {title}: line one \"{paras[0] if paras else ''}\" / pain \"{paras[1] if len(paras) > 1 else ''}\" / dream \"{paras[2] if len(paras) > 2 else ''}\" / rehook \"{rehook}\" / send \"{paras[-1] if paras else ''}\"")
-    out += ["", "## Every script we've written: title and line one (G8 repeats; grep the file if one looks close)"]
-    for f in others:
-        title, paras, _ = stack_of(f)
-        out.append(f"- {os.path.basename(f)[:10]} {title[:60]} | {paras[0][:110] if paras else ''}")
-    out += ["", "## The failure ledger (repeats)", ledger.strip(), "", "## FACTS.md", read(os.path.join(ROOT, "FACTS.md"))]
+    if "G8" in regrade:
+        out += ["", "## Every script we've written: title and line one (G8 repeats; grep the file if one looks close)"]
+        for f in others:
+            title, paras, _ = stack_of(f)
+            out.append(f"- {os.path.basename(f)[:10]} {title[:60]} | {paras[0][:110] if paras else ''}")
+    out += ["", "## FACTS.md", read(os.path.join(ROOT, "FACTS.md"))]
     pdir = os.path.join(ROOT, "gate", "packets")
     os.makedirs(pdir, exist_ok=True)
     pp = os.path.join(pdir, os.path.basename(path))

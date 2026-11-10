@@ -16,14 +16,13 @@ every posted video.
 1. `python3 gate/check.py <script file>`: the AUTO tests. Hooks run it on every
    edit, on every commit (`.githooks/pre-commit`, set by the SessionStart hook)
    and when a turn ends, so a failing script can't be committed or slip out.
-2. Build the packet (`python3 gate/check.py --packet <script>`), then run the
-   independent reviewer (`gate-reviewer` agent, cold) on it: it reads one
-   packet, not 15 files (about 2 minutes, not 10; Luke 5 Nov), re-grades only
-   FAILs and changed lines on a re-review, replies in one line, and grades the judgement tests, quotes the line for each verdict, and
-   writes `gate/reviews/<script>.md` stamped with the script's hash. Any edit
-   after the review means it runs again. **Fix every FAIL; never overrule it.**
-   If a FAIL needs Luke's fact or decision, the script goes to him as
-   "blocked on X", never as ready.
+2. **One review (P196, Luke 10 Nov):** settle the idea on the brief (repeats,
+   premises, the gap, the turn: `brief_ok:` in the front matter), then build the
+   packet (`python3 gate/check.py --packet <script>`) and run the `gate-reviewer`
+   agent **once** on the words (G2, G12, G21, G22, G23, G29). Fix every FAIL and
+   list it in `fixed_after_review:`; no second round. Luke's `luke_override:` ends
+   it; a FAIL that needs his fact goes to him as "blocked on X" with the exact
+   question. Judgement tests go in the Known risks box, ungraded.
 3. Frame one mocked up at phone size: `node gate/shoot_frame.js <out.png> "<query>"`.
 4. Forecasts are ranges from the last 3 to 5 comparable reels, never "confident".
 **GATE.md is v0.9 until Luke settles the 24 contradictions in

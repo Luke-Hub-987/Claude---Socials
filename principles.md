@@ -5929,6 +5929,21 @@ picture, and posts at least 7 days after the parent. Gate test G32 (BOTH,
 BLOCK). One post so far (P174): if a trial-reel sequel holds and a profile one
 doesn't again, it's confirmed.
 
+## P196 — One review per script; the idea is settled on the brief (Luke, 10 Nov)
+
+Luke: "There are too many turns and levels of review required here it takes
+far too long and too many tokens." The spring ranking took 6 reviewer runs
+(v1 to v3), the sub-4:30 4, each 50,000 to 70,000 tokens, because idea-level
+fails (repeats, a guessable payoff, the turn) were found at script stage,
+round after round, and every one-word fix restarted the review.
+
+**The rule:** the idea is checked once, on the brief, and Luke's yes settles it
+(`brief_ok:`). The reviewer grades the script once, on the words (G2, G12, G21,
+G22, G23, G29, plus G32 for a sequel). The author fixes the FAILs and lists
+them (`fixed_after_review:`); no second round. Luke's override ends it. The
+judgement tests are the author's checklist, written into the Known risks box.
+Supersedes P192's two rounds and graded RISK tier.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

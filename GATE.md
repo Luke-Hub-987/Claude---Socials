@@ -39,27 +39,30 @@ pass (P190). They stay as the evidence; this is the test.
 4. The opening frame is mocked up at phone size (G15) and Luke sees it
    before filming.
 
-## Two tiers (Luke, 5 Nov: "I fear we may be too strict")
+## One review (Luke, 10 Nov: "too many turns and levels of review")
 
-18 review rounds over 4 topics in two days showed the problem: the judgement
-tests looped (one round's fix became the next round's fail), while the
-failures our data proves were never what held a script up. So:
+Six reviewer runs on one ranking (50,000 to 70,000 tokens each) cost more than
+the problems they caught. So:
 
-- **BLOCK:** proven by repeated data, or a matter of truth, safety or the
-  first 3 seconds. Must pass. Every AUTO test, plus the reviewer's G2, G6, G8,
-  G9, G12, G16, G21, G22, G23, G29, G31, G32.
-- **RISK:** judgement calls where good scripts can disagree: G4 (the "their
-  goal" part), G5, G7, G11, G13, G14, G17, G18 (shape freshness), G20, G24
-  (the read-aloud part). The reviewer still grades them. **One round of fixes,
-  then whatever's left goes in the script's "Known risks" box**, and Luke sees
-  it next to the forecast before he films.
-- **At most 2 reviewer rounds.** After the second, a BLOCK fail is fixed or
-  goes to Luke as "blocked on X"; a RISK fail goes in the box.
-- **After posting (no more "I missed it"):** the review checks the box first.
-  If the flop's cause is in it, it was an accepted risk, not a miss. If the
-  cause is a BLOCK test the gate passed, the gate has a bug, and the test gets
-  fixed. If it's new, it becomes a test only once it repeats in 3 posts or a
-  trial-reel A/B (P174).
+1. **The idea is checked once, on the brief.** Repeats (G8), premises (G9),
+   the gap (G16) and the turn (G31) are settled when Luke says yes to the
+   brief; the script's front matter says `brief_ok: Luke <date>` and the
+   reviewer doesn't grade them again. No brief OK'd: they're graded with the
+   rest, in the same pass.
+2. **One reviewer pass per script, on the words:** G2 (frame one), G12
+   (actions with numbers), G21 (the caption plan), G22 (facts), G23 (safety
+   mid-race), G29 (repeats and AI tells), plus G32 for a sequel. About a
+   minute and 25,000 tokens.
+3. **No second round.** The author fixes every FAIL and lists them in the
+   front matter (`fixed_after_review: G22, G29`); check.py re-runs the AUTO
+   tests. The review stays valid for that version.
+4. **Luke's call ends it.** `luke_override: <date> "<his words>"` accepts what's
+   left, shown as such; a FAIL that needs his fact or decision is "blocked on X"
+   with the exact question.
+5. **The judgement tests (G4, G5, G7, G11, G13, G14, G17, G18, G20, G24)** are
+   the author's checklist, not graded: anything that fails goes in one line in
+   the script's "Known risks" box.
+Every AUTO test still blocks. Posted reels are reviewed against the box first.
 
 **Order of tests:** the first 3 seconds (P189) first, because that's where
 80% of the 16 results viewers went. Then topic, title, frame, hook, body,
