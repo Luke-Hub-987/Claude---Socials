@@ -39,11 +39,11 @@ is the dream **plus** an exact number, a forbidden verb or a famous name.
 ## The bank, ranked (each needs what the last column says)
 | # | OST | Pattern | Basis | Needs |
 |---|---|---|---|---|
-| 1 | **HOW TO RUN SUB-4 ON / 4 RUNS A WEEK** (18 / 15) | Dream + exact number + the busy reader (Ogilvy's prospect) | The plans Luke sends (200 so far) | Luke's yes that a 4-run week is his plan for sub-4; spring blocks start 23 Nov, so post by then |
-| 2 | **HOW TO OUTRUN THE / 4-HOUR PACER** (17 / 13) | A famous benchmark to beat (the "Dethrone Hormozi" shape); every runner has seen the balloon | FACTS: pacers at the front of each pen | A mechanism we haven't posted (the 3:45 reel used the mat gap); Luke's call |
-| 3 | **HOW TO 'STEAL' BACK / 400M IN A MARATHON** (20 / 19) | A forbidden verb in quotes + an exact number | FACTS: courses measured on the shortest line; weaving adds distance | The 400m has to come from FACTS, or the number changes; the tangents lines in Sept scripts (G8) |
-| 4 | **WHAT PRO FOOTBALLERS / EAT BEFORE KICK-OFF** (19 / 20) | A borrowed authority ("Huberman Method" shape) + the reader's want | UEFA's expert statement on football nutrition (to vet) | Vetting, and Luke's version for a club player |
-| 5 | **THE GEL MISTAKE THAT / COSTS YOU 30K** (19 / 15) | A mistake (64K shape) | The gel clock (C22) | A new payoff: gel reels have been posted (G8) |
+| 1 | **HOW TO RUN SUB-4 ON / 4 RUNS A WEEK** (19 / 13) | Dream + exact number + the busy reader (Ogilvy's prospect) | The plans Luke sends (200 so far) | Luke's yes that a 4-run week is his plan for sub-4; spring blocks start 23 Nov, so post by then |
+| 2 | **HOW TO OUTRUN THE / 4-HOUR PACER** (17 / 12) | A famous benchmark to beat (the "Dethrone Hormozi" shape); every runner has seen the balloon | FACTS: pacers at the front of each pen | A mechanism we haven't posted (the 3:45 reel used the mat gap); Luke's call |
+| 3 | **HOW TO 'STEAL' BACK / 400M IN A MARATHON** (19 / 18) | A forbidden verb in quotes + an exact number | FACTS: courses measured on the shortest line; weaving adds distance | The 400m has to come from FACTS, or the number changes; the tangents lines in Sept scripts (G8) |
+| 4 | **WHAT PRO FOOTBALLERS / EAT BEFORE KICK-OFF** (20 / 19) | A borrowed authority ("Huberman Method" shape) + the reader's want | UEFA's expert statement on football nutrition (to vet) | Vetting, and Luke's version for a club player |
+| 5 | **THE GEL MISTAKE THAT / COSTS YOU 30K** (20 / 13) | A mistake (64K shape) | The gel clock (C22) | A new payoff: gel reels have been posted (G8) |
 
 ## Council (P150), the points that changed something
 - Contrarian: "Steal" and "die" in quotes on every post becomes a template
