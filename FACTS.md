@@ -294,3 +294,10 @@ regulations PDF), Brighton (Cancer Research UK, realbuzz guide), Belfast
 - Rome: about 6 km of cobbles (official FAQ); the official FAQ gives about 20 m between the lowest and highest points. Where the cobbles fall is disputed (30 to 40K in one source, 20 to 26K in another), so the script doesn't place them. Get in: open.
 - Brighton: short, sharp climbs, most done by mile 11 (about 18K) (race guides); seafront headwinds in race reports. The power station loop was dropped in 2023. Get in: charity places (official: general entry sold out; no transfers, LME FAQ).
 - Belfast: starts with a steep downhill out of Stormont (race guide); the steepest climb is Old Park Road (official site's pacer), around miles 18 to 19, about 29 to 31K (race guide). Get in: open.
+
+## Seville: the official 2026 runner's guide (Guía del Corredor 2026, organiser's PDF, read 10 Nov 2026; check the 2027 guide when it's out)
+- Start 8:30 on Avenida María Luisa; 6-hour limit, finish closes 14:30.
+- Start pens: sub 3h, sub 3h15, sub 3h30, sub 3h45, sub 4h and over 4h. To get a pen you tell the organisers, when you register, the pen you want and a time that proves it: a marathon or half in an approved race in the last 2 years, equal to or under the pen's time. Half equivalents: under 1:35 for sub 3:30, under 1:40 for sub 3:45, under 1:45 for sub 4. No time, no pen: over 4h is the back.
+- Pacers (balloons and shirts) at the front of their pens: 2:45, 3:00, 3:15, 3:30, 3:45, 4:00, 4:30 and 5:00.
+- Drink stations (water and isotonic) at 5, 7, 9.2, 11.5, 15.7, 17.6, 20.4, 23.3, 25.3, 27.5, 29.7, 32.7, 34.4, 37.2 and 40.3K and the finish; gels at some (20.4K among them); sponges at 23.3 and 32.7K. The organisers ask runners not to take drinks from the first tables at the early stations.
+- Whether runners already entered for 2027 can still add a time to change pens isn't in the guide (it says "at the time of registering"): **Luke to check**, or say "check which pen your entry has you in".
