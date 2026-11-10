@@ -2,14 +2,15 @@
 type: script (gated)
 gate: v3
 brief_ok: Luke 9 Nov (the brief, his placements and decisions; G8 fixed 10 Nov with Seville's start pen)
-fixed_after_review: G8, G16, G21, G23, G31
+fixed_after_review: G22, G29
+ost_final_by_luke: 10 Nov (8 SPRING MARATHONS: / 1 CHANGE EACH FOR A PB, Ogilvy headlines file)
 generated_at: 2026-11-10
 teleprompter: 2026-11-10-teleprompter-spring-ranking-v3.txt
 basis: Luke 9 Nov (overruled "parked"; G9 audience, closed races in, the G21 caption table, placements: gate/contradictions.md); brief ideas/engine-room-nutrition/2026-11-09-brief-spring-ranking.md; v1 record and review (gate/runs/2026-11-09-spring-ranking.md); FACTS (spring 2027 dates, courses, where each costs you, how to get in)
 format: profile post as the collab with luke_morrison_er (+ FB) + ERN TikTok; filming 10 Nov
 ---
 
-# RANKING 8 SPRING / MARATHONS FOR A PB (v3)
+# 8 SPRING MARATHONS: / 1 CHANGE EACH FOR A PB (v3)
 
 ## What changed from v2, and why (Luke 10 Nov: fix G8 before filming)
 - **G8:** the S tier's change is no longer "start slower" (the 1 Nov reel).
@@ -31,18 +32,18 @@ format: profile post as the collab with luke_morrison_er (+ FB) + ERN TikTok; fi
   Your call; the script keeps your tiers.
 
 ## Gate fields
-- OST: RANKING 8 SPRING / MARATHONS FOR A PB
+- OST: 8 SPRING MARATHONS: / 1 CHANGE EACH FOR A PB
 - Markers: D TIER / C TIER / B TIER / A TIER / S TIER
-- Gap phrase: the flattest course here
-- Gap held by: "Every course has one, and we call it your one change, so save this."
+- Gap phrase: the flattest course
+- Gap held by: "We call it your one change, so save this."
 - Gap closed by: S TIER
-- Turn: "Reading all 8 course guides, we found the flattest course's catch isn't on its map at all."
+- Turn: "Going through all 8 courses, we found the flattest course's catch isn't on its map at all."
 - Frame one: Luke in the car in the ERN running top, the title; no picture; subtitles from 0:03
 - Frame one words: title only
-- Mockup: ideas/engine-room-nutrition/mockups/2026-11-09-spring-ranking-frame-one.png
-- Layer title: the event (spring marathons), a number (8), their goal (a PB), the answer held back (where each lands)
+- Mockup: ideas/engine-room-nutrition/mockups/2026-11-10-spring-ranking-v3-frame-one.png
+- Layer title: what they get (a PB) and the scale (8 marathons, 1 change each); no format word (P197)
 - Layer picture: none, on screen or as the cover (Luke and the title)
-- Layer line one: a claim they'd argue with (the flattest course can cost you before you've run a step) and the gap (how), shut only at S TIER
+- Layer line one: who they are in their words (full-time job, a family, a spring marathon booked), the gap (how the flattest course costs you before a step) and the promise (no extra runs)
 - Worked example goal: none (a ranking); each race's one change, date, start Monday and how to get in are in the caption
 - Forecast: profile collab at 3 days, 4,000 to 10,000 views, skip 44% to 55%, saves 0.2% to 2.3%. Base: the last 3 profile posts (sub-4 secretly 10.4K at 3 days, 44.5%, 2.3% saves; parkrun 8,267, 44.9%, 0.2%; sub-4:30 secretly about 3.6K at 10h heading for 6K to 8K, 51.3%, 1.0%). The floor is lower: a ranking is new for us and the last "spring" gate (1 Nov) skipped 52.1%
 
@@ -70,7 +71,7 @@ Seville and pays it (the start pen).
 |---|---|
 | A moment they recognise? | 16 weeks into training for a spring marathon |
 | Why it matters? | Losing the PB on a bit of the course they never thought about |
-| What changed? | Reading all 8 course guides: the flattest course's catch isn't on its map at all |
+| What changed? | Going through all 8 courses: the flattest course's catch isn't on its map at all |
 | Something to do tonight? | Find their course's one change; for Seville, check which start pen their entry has them in |
 
 ## Stack
@@ -83,15 +84,15 @@ change) and save; tiers D to S; rehook repeats line one; S TIER pays it.
 
 ## Script
 
-"If you're running a spring marathon, the flattest course here can cost you before you've run a step."
+"Full-time job, a family, and a spring marathon booked? The flattest course here can cost you before you've run a step. Each course has one change on the day, and this won't add a single run to your week."
 
-"You give it 16 weeks, then lose your PB on a bit of the course you never thought about."
+"16 weeks of training, and your PB slips away on a bit you never planned for."
 
-"Know it before race day, and you'll run your course like you've run it before."
+"Know it before race day, and you'll run it like you've done it before."
 
-"Reading all 8 course guides, we found the flattest course's catch isn't on its map at all."
+"Going through all 8 courses, we found the flattest course's catch isn't on its map at all."
 
-"Every course has one, and we call it your one change, so save this."
+"We call it your one change, so save this."
 
 **[D TIER]**
 
@@ -101,11 +102,11 @@ change) and save; tiers D to S; rehook repeats line one; S TIER pays it.
 
 **[C TIER]**
 
-"Rome is flat, but about 6K is cobbles. Shorten your steps on them, and let the watch pace go. Brighton's short, sharp climbs are mostly done by 18K. Climb them at the same effort, and let the pace drop."
+"Rome is flat, but about 6K is cobbles. Shorten your steps on them, and let the watch pace go. Brighton's short, sharp climbs are mostly done by 18K. Climb them on effort, not pace."
 
 **[B TIER]**
 
-"Barcelona peaks near 14K, with less climbing in the second half. Don't fight for pace on the way up to 14K. In Paris, the tunnels by the river cut your watch's GPS, so ignore its pace in there. In London, Canary Wharf scrambles your watch past 30K, so trust the clock at the 30K sign."
+"Barcelona peaks near 14K. Don't fight for pace on the way up. In Paris, the tunnels by the river cut your watch's GPS, so ignore its pace in there. In London, Canary Wharf scrambles your watch past 30K, so trust the clock at the 30K sign."
 
 **[A TIER]**
 
@@ -176,6 +177,7 @@ Which of the 8 are you running, and did you know about your one change? Email us
 | Contractions, sentence length | Contractions throughout; no sentence over 22 words |
 
 ## Known risks (pre-mortem, P196: the judgement calls, ungraded)
+- **Line one echoes the title (G13):** "Each course has one change" says the title's "1 CHANGE EACH" again, in its third sentence. Kept: it's Luke's line, and the gap comes first.
 - **Judgement calls:** no race inside 4 weeks is spoken except the 23 Nov start in the send line (G5); each tier speaks to its own runners (G7); the title has one of five (G11); the tiers jump around the calendar, not one race clock (G20).
 - **Seville's pen rule is from the 2026 guide.** If the 2027 guide changes it, or entrants can't add a time after registering, the S tier's action becomes "check your pen" only. Luke to check before posting.
 - **No race inside 4 weeks:** the nearest is Seville, 15 weeks out. The last reel gated on "spring" (1 Nov) skipped 52.1%.

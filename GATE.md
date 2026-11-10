@@ -78,7 +78,7 @@ part, the reviewer the rest.
 
 ### G1 · The first words are the viewer · AUTO
 **Test:** The first spoken word isn't "we", "I", "our" or "my", and "you"
-or "your" is in the first 8 words. The gate names the viewer's event and is
+or "your" is in the first 8 words. Or line one opens with a short question naming the viewer in their own words ("Full-time job, a family, and a spring marathon booked?", P197). The gate names the viewer's event and is
 true for them now. [C1] Default for a marathon video: "If you've got a
 marathon coming up,"; a named race when the title names it ("If you're
 running Valencia,"); another sport names theirs.

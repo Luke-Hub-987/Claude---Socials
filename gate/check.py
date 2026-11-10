@@ -174,6 +174,10 @@ def run(path):
     first = norm_tokens(paras[0])
     bad_first = first[0] in ("we", "we've", "weve", "i", "i'm", "im", "our", "my", "us")
     you_early = any(w in ("you", "your", "you've", "you're", "youve", "youre") for w in first[:8])
+    # P197 (Luke 10 Nov): line one may name the viewer in their own words as a question to them
+    first_sent = sentences(paras[0])[0] if sentences(paras[0]) else paras[0]
+    names_viewer = first_sent.strip().endswith("?") and len(first_sent.split()) <= 14
+    you_early = you_early or names_viewer
     add("G1", (not bad_first) and you_early,
         f"first words: '{' '.join(first[:8])}'" + ("" if not bad_first else " (starts on us)") + ("" if you_early else " (no 'you' in the first 8 words)"))
 

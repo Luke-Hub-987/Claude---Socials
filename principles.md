@@ -5944,6 +5944,21 @@ them (`fixed_after_review:`); no second round. Luke's override ends it. The
 judgement tests are the author's checklist, written into the Known risks box.
 Supersedes P192's two rounds and graded RISK tier.
 
+## P197 — The OST and line one name who the viewer is and what they get (Luke, 10 Nov; Ogilvy)
+
+Luke, after his run, on Ogilvy (`ideas/engine-room-nutrition/2026-11-10-ogilvy-headlines.md`):
+every headline appeals to the reader's self-interest and gives a benefit.
+"RANKING 8 SPRING MARATHONS" led with our format.
+
+**The rule:** every OST and line one names who the viewer is, in their own
+words (a full-time job, a family, a spring marathon booked), and what they get
+(a PB, 1 change each, no extra runs). Never the format first (ranking, tier
+list, 3 tips), a negative first ("this won't..."), or someone else first (us,
+a stranger's result). Line one may name them as a question to them ("Full-time
+job, a family, and a spring marathon booked?"); check.py's G1 accepts that as
+naming the viewer. The question the video answers still lands inside 12 words
+(G3), so the gap comes before any promise.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
