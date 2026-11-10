@@ -207,6 +207,8 @@ a new cause becomes a new row in the same turn.**
 
 **As of 4 November 2026.**
 
+**Posted 10 Nov ~1:16pm: 8 SPRING MARATHONS: / 1 CHANGE FOR YOUR PB** (profile collab + FB + ERN TikTok). At ~5h: 1,406 views (1,065 IG, 341 FB), **skip 48.0% Lower, 17s, shares 0.2% Higher, saves 0.5% Lower, 0 follows**; TikTok 700, 9.7s, most left at 0:02 (`ideas/2026-11-10-spring-ranking-review.md`). Frame one was the busy tier board, not the planned title-only frame (row 22 repeat; second post running). Next: THE 5 STAGES OF THE / MARATHON WALL, Fri 7am (brief `ideas/engine-room-nutrition/2026-11-10-brief-5-stages-wall.md`, needs Luke's stage names); frame one screenshot checked before posting.
+
 **Posted 9 Nov 8:30pm: HOW TO RUN A SUB-4:30 / MARATHON (SECRETLY)** (profile collab + FB + ERN TikTok). At ~10h: 3,616 views (793 IG, 2,823 FB), **skip 51.3% Higher, 10s, saves 1.0%, shares 0, 0 follows**; Feed top source (it stopped at followers); TikTok 787, 10.1s, 1.5% full (`ideas/2026-11-10-sub-430-secretly-review.md`). The one-change test answer: the same title, line one and method don't carry a second goal 3 days later on the profile. No third (SECRETLY) reel; the 3:45 row goes in a caption or story. New ledger cause for the gate chat: a sequel to the same followers within days.
 
 **9 Nov:** SUB-4:30 (SECRETLY) v2 ready to film (0 BLOCK; known risks G5, G13, G17; Luke allowed the 20 Oct repeat; frames `motion/plan-frames/s430-*.png`); its follow line promises sub-3:45 next. P194 the turn (G31) added. Spring ranking v2 blocked after 2 rounds (`gate/runs/2026-11-09-spring-ranking.md`): G8 needs Luke (the start-slow payoff repeats 1 Nov), G16 and G31 follow from it. Spring 2027 dates, entry routes and course facts in FACTS.
