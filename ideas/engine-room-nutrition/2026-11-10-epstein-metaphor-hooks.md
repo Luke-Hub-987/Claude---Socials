@@ -33,7 +33,7 @@ someone else.
 ## Applied to the next three posts
 | Post | OST | Metaphor line one | Proof | Why it holds |
 |---|---|---|---|---|
-| 10% rule (Wed 18) | **YOUR LEGS HAVE A / 30-DAY MEMORY** (16 / 13) | "Building up for a spring marathon? Your legs have a 30-day memory, and the 10% rule never checks it." | 5,200 runners' watch data (Frandsen 2025, BJSM) | The study compares each run with the longest of the last 30 days; the payoff: "stay within 10% of the longest run your legs remember" |
+| 10% rule (Wed 18) | **YOUR LEGS HAVE A / 30-DAY MEMORY** (16 / 13) | "Building up for a spring marathon? There's one run your legs remember, and the 10% rule never checks it." (the title holds the metaphor, so line one adds the gap: which run?) | 5,200 runners' watch data (Frandsen 2025, BJSM) | The study compares each run with the longest of the last 30 days; the payoff: "stay within 10% of the longest run your legs remember" |
 | Match (Sat 14 or 21) | **WHY YOUR LEGS DIE IN / THE LAST 20 MINUTES** (20 / 19) | "Desk job, match at the weekend? Your legs are a string of fairy lights, and by the final whistle about half the bulbs can be out." | Biopsies after real matches (Krustrup 2006) | Fibres empty unevenly, not all at once: bulbs going out one by one is the mechanism; the payoff: what keeps bulbs on for the last 20 |
 | 5 stages of the wall (Fri 13) | **THE 5 STAGES OF THE / MARATHON WALL** (unchanged) | "The wall is like your phone at 20%: it warns you first, and most runners ignore it till it dies." | The out-of-the-wall reel's steps (FACTS) | The 5 stages are the warnings; stage 2 is the 20% moment you can still charge |
 
