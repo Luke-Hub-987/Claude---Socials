@@ -4,7 +4,7 @@ gate: v1
 brief_ok: Luke 11 Nov ("Script for today", Luke's pick from ideas/engine-room-nutrition/2026-11-10-brief-10-percent-and-match.md)
 ost_final_by_luke: 11 Nov
 fixed_after_review: G21, G22, G29
-post_review_edits: Luke 11 Nov (P199 but/so and figures; P200 urgent, opinionated, memorable): stage 1 opinion line and the 'But' turn, 'far longer', 'your lungs say yes while your tendons say no', 'your ceiling, not a target', the 'So' rehook. Not re-reviewed (P196)
+post_review_edits: Luke 11 Nov (P199, P200, then "dull": a full Ogilvy rewrite of every paragraph, same facts, method, stages and caption). Not re-reviewed (P196)
 stats_ok_by_luke: 11 Nov (the 10% rule is the title, and the study is the turn Luke wrote)
 generated_at: 2026-11-11
 teleprompter: 2026-11-11-teleprompter-10-percent-rule.txt
@@ -20,7 +20,7 @@ format: profile post as the collab with luke_morrison_er (+ FB) + a fresh ERN Ti
 - Gap phrase: a 30-day memory
 - Gap held by: "We call it the 30-day check, so save this."
 - Gap closed by: YOUR NEXT LONG RUN
-- Turn: "a study of about 5,200 runners' watch data found the weekly jump wasn't linked to who got hurt"
+- Turn: "a study of about 5,200 runners' watch data found what was linked to injuries"
 - Frame one: Luke and the title only; no graphics or subtitles until stage 1
 - Frame one words: title only
 - Mockup: ideas/engine-room-nutrition/mockups/2026-11-11-10-percent-rule-frame-one.png
@@ -64,27 +64,27 @@ stage 1.
 
 "Building up for a spring marathon? Your legs have a 30-day memory, and the 10% rule never checks it."
 
-"It's the difference between a sore shin in week 10 and a start line where nothing hurts."
+"One long run too far can leave you on the sofa in March, but this keeps you on the start line."
 
 "We call it the 30-day check, so save this."
 
 **[WHAT THE RULE MISSES]**
 
-"The 10% rule counts your week, and that's the wrong thing to count. The one trial of it found about 1 in 5 runners got hurt either way. But a study of about 5,200 runners' watch data found the weekly jump wasn't linked to who got hurt. One run more than 10% longer than anything in the last 30 days was. So forget your week, and count your longest run in the last 30 days."
+"Everyone's heard of the 10% rule, but it's been properly tested once. That trial put 532 new runners on it. About 1 in 5 still got hurt. So it protected them no better than a normal plan. But a study of about 5,200 runners' watch data found what was linked to injuries. It wasn't the week. It was one run more than 10% longer than anything in the last 30 days. So stop counting weeks, and start counting your longest run in the last 30 days."
 
 "Email us your race and goal time through the link in the bio for your free spring plan."
 
 **[WHAT LEGS REMEMBER]**
 
-"Your heart and lungs catch up in a few weeks. But your tendons take far longer, so they're only ready for what you've done lately. The study counted that as the last 30 days. Jump past it, and your lungs say yes while your tendons say no. Before your next long run, look back 30 days on your watch and find your longest run."
+"Your heart and lungs get fitter in a few weeks. But your tendons are far slower, so they're only ready for what you've done lately. The study drew that line at 30 days. Jump past it, and your lungs say yes, but your tendons say no. Before your next long run, open your watch and find your longest run in the last 30 days."
 
-"So that one run gives you the only number your next long run needs."
+"That one run sets the number your next long run can't beat."
 
 **[YOUR NEXT LONG RUN]**
 
-"Add 10% to it. That's your ceiling, not a target. If your longest was 18K, your next one tops out at 19.8K. Run that, and the one after can go to 21.8K. Each time you go longer, it becomes the new number. Spring plans start from 23 November, so your long runs start growing now."
+"Add 10% to it. That's your ceiling, not your target. If your longest was 18K, your next one stops at 19.8K. Run that, and the one after can reach 21.8K. Every long run that goes further moves the ceiling up. But spring plans start on 23 November, so your long runs start climbing now. Do the check before every one."
 
-"Send this to whoever's adding 10% a week for spring."
+"Send this to the friend still adding 10% a week."
 
 ## Caption
 Building up for a spring marathon on the 10% rule? It counts your week. The research says it's one run that matters.
@@ -105,8 +105,9 @@ What's your longest run in the last 30 days? Add 10% and that's your next one. E
 ## Facts check
 | Claim | Source | Status |
 |---|---|---|
-| The one trial of the rule: about 1 in 5 got hurt either way (20.8% vs 20.3%) | FACTS (Buist 2008, PEDro) | Pass |
-| 5,200 runners' watch data: week-to-week jump not linked; one run 10% past the last 30 days' longest was | FACTS (Frandsen 2025, BJSM; "linked", not "causes") | Pass |
+| Properly tested once: 532 new runners, about 1 in 5 still got hurt; no better than a normal plan (20.8% vs 20.3%) | FACTS (Buist 2008, PEDro; the one trial) | Pass |
+| One run past the sofa in March | The pain picture (a stress injury from one run too far, linked in Frandsen); March is when the April races' longest runs land (FACTS spring table) | Pass |
+| About 5,200 runners' watch data: the week wasn't linked; one run 10% past the last 30 days' longest was | FACTS (Frandsen 2025, BJSM; "linked", not "causes") | Pass |
 | Heart and lungs catch up in weeks; tendons take a lot longer | FACTS (Kjær et al.: tendon adapts more slowly than muscle or heart) | Pass |
 | Next long run up to 10% over the longest in 30 days; 18K to 19.8K, then 21.8K; the caption ladder 24K, 26.4K, 29K, 31.9K | FACTS method; arithmetic (x 1.1 each step) | Pass |
 | Spring plans start from 23 November | FACTS spring 2027 table (Barcelona and Rome) | Pass |
@@ -119,10 +120,11 @@ What's your longest run in the last 30 days? Add 10% and that's your next one. E
 | AI vocabulary, signposting | None; no "rubbish" or "lie" (FACTS) |
 | Contractions, sentence length | Contractions throughout; short sentences |
 
-## Urgent, opinionated, memorable (P200)
-- Urgency: spring plans start from 23 November.
-- Opinion: "that's the wrong thing to count"; "forget your week".
-- Memorable: "your lungs say yes while your tendons say no"; "your ceiling, not a target".
+## Urgent, opinionated, memorable (P200), written for Ogilvy
+- Urgency: spring plans start on 23 November; "do the check before every one".
+- Opinion: "it's been properly tested once"; "it protected them no better than a normal plan"; "stop counting weeks".
+- Memorable: "your lungs say yes, but your tendons say no"; "your ceiling, not your target"; "the number your next long run can't beat".
+- Turns: 11 "but" or "so" against 7 "and".
 
 ## Known risks (pre-mortem, P196: judgement calls, ungraded)
 - **Ledger row 3 (training topics):** off the race clock (training weeks 4.4K to 5.3K, cold 0.9% saves). Why this is different: it overturns a rule they follow and hands over one number for the next long run.

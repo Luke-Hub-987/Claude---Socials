@@ -6009,6 +6009,13 @@ line they remember.
 - **Not dull:** if a line could be in any running video, rewrite it or cut it.
 The script file names the memorable line in its notes.
 
+**Repeat (Luke 11 Nov, the same day): "This whole script is dull, boring...
+write these as if David Ogilvy is reviewing them."** My miss: the first P200
+pass changed four lines instead of rewriting for it. Now every line is
+written for Ogilvy's red pen: a figure or a fact in each, a turn (but, so)
+between beats, an opinion said plainly, the date to act on. The humanizer
+checker flags a script with more "and" than "but" and "so" put together.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

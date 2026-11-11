@@ -86,6 +86,13 @@ def main(paths):
                 if s in old:
                     print(f"  line {i}: repeated from a recent script: '{s[:70]}'")
                     flags += 1
+        # P199/P200 (Luke 11 Nov, said twice): more buts than ands across the whole script
+        alltext = " ".join(lines)
+        n_and = len(re.findall(r"\band\b", alltext, re.I))
+        n_turn = len(re.findall(r"\b(but|so)\b", alltext, re.I))
+        if lines and n_and > n_turn:
+            print(f"  whole script: {n_and} 'and' against {n_turn} 'but'/'so' (P199: more buts than ands)")
+            flags += 1
     print(f"{flags} flags")
 
 if __name__ == "__main__":
