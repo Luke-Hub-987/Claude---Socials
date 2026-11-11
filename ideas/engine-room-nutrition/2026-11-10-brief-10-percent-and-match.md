@@ -171,3 +171,10 @@ reads as "stop tracking volume", past what the study shows); YOUR WEEK PASSES TH
 that was a cohort, not a trial of the rule; "trial" is exact. Outsider: "the 10%
 rule failed its only trial": I'd stop, and I'd want to know what works instead.
 Chairman: v3.
+
+## Caption for OST v3 (the gate chat's caption, first two paragraphs reworded to open on the failed trial)
+The 10% rule failed its only trial, and it checks the wrong thing anyway: your week. The run that gets runners hurt is the one long run that goes past anything from the last 30 days.
+
+In that trial (Buist 2008, 532 new runners), 20.8% were injured on a 13-week plan built on the rule and 20.3% on a standard 8-week plan, so the rule made no difference. A 2025 study of 5,205 runners' Garmin data over 18 months (Frandsen, BJSM) found no link between the week-to-week jump and injury. It compared every run with the longest in the previous 30 days: runs 10% to 30% longer came with a 64% higher injury rate, and runs more than double came with a 128% higher rate. It's an observational study, so it shows a link, not a cause.
+
+(The rest unchanged from the script file's caption: the 30-day check and its table, the worked example, why, the start dates, the email line.)
