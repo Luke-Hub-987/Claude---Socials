@@ -88,7 +88,7 @@ named concept (the 30-day check) and save; the turn opens stage 1 (P198).
 "Got a running mate still adding 10% a week? This is their Sunday, so send it on."
 
 ## Caption
-Spring marathon on the 10% rule? Stop. It checks your week, but the run that gets runners hurt is the one long run that goes past anything from the last 30 days.
+Spring marathon on the 10% rule? It checks your week, but the run that gets runners hurt is the one long run that goes past anything from the last 30 days.
 
 The rule's one trial (Buist 2008, 532 new runners) found injuries in 20.8% on a 13-week plan built on it and 20.3% on a standard 8-week plan: no difference. A 2025 study of 5,205 runners' Garmin data over 18 months (Frandsen, BJSM) found no link between the week-to-week jump and injury. It compared every run with the longest in the previous 30 days: runs 10% to 30% longer came with a 64% higher injury rate, and runs more than double came with a 128% higher rate. It's an observational study, so it shows a link, not a cause.
 
