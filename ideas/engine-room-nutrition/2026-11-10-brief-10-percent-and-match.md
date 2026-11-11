@@ -103,3 +103,10 @@ last 20. Caption table: the same plan with each sport's minutes.
   leave one question.
 - Chairman: 10% rule by Wed 18 Nov (before the 23 Nov blocks); the match Sat 14
   if Luke's numbers arrive by Thursday, otherwise Sat 21.
+
+## Luke's pick (11 Nov): the 10% rule posts today
+OST changed to **STOP USING THE / 10% RULE** (14 / 8), from the packaging
+playbook ("Stop doing zone 2", 309K). Line one carries the 30-day memory. The
+hook follows Luke's 11 Nov call: value faster, 40 to 55 words before stage 1
+(line one, one sentence of pain and dream together, the named concept with
+"save this", then stage 1). Prompt to the gate chat sent in chat.
