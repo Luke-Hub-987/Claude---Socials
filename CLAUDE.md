@@ -124,6 +124,7 @@ table shows it.
   rewrites, then the Humanizer table in the file. Words only: the hook
   stack, Briar's frameworks, the numbers and the length stay as they are.
 - **Every beat turns (P199, Luke 11 Nov, Ogilvy):** but or so, never and then; every word counts; figures, not atmosphere; facts, not clichés. The humanizer checker flags them.
+- **Even sentences (P202, Luke 11 Nov):** no 3- or 4-word sentence, and no short one straight after a long one (the AI tell); join it on with but, so or because. A study reel walks one runner through the study's numbers. The humanizer checker flags it.
 - **Urgent, opinionated, memorable (P200, Luke 11 Nov):** a real date to act on, a plain opinion backed by a fact, one line they'd repeat; nothing that could be in any running video.
 - **Scripts:** never in a code box or a block quote (both break when
   pasted into the teleprompter). Each spoken paragraph in straight

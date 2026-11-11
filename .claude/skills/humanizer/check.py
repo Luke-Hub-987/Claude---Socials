@@ -77,6 +77,13 @@ def main(paths):
             if len(short) >= 2:
                 print(f"  line {i}: staccato fragments: {short}")
                 flags += 1
+            # P202 (Luke 11 Nov): no short sentence straight after a long one, none of 4 words or fewer
+            sl = [s for s in re.split(r"(?<=[.?!])\s+", l) if s.strip()]
+            for a, b in zip([""] + sl, sl):
+                nb, na = len(b.split()), len(a.split())
+                if nb <= 4 or (nb <= 6 and na >= 12):
+                    print(f"  line {i}: short sentence after a long one (P202): '{b}'")
+                    flags += 1
             if len(re.findall(r"\band\b", l, re.I)) >= 3 and not re.search(r"\b(but|so)\b", l, re.I):
                 print(f"  line {i}: and-chain (P199: 3+ 'and', no 'but' or 'so'): '{l[:60]}...'")
                 flags += 1

@@ -527,3 +527,5 @@ twice without being checked against the winners (P99).
 - [ ] **Beats turn, words count (P199):** beats joined with but or so, not and then; every word earns its place; figures, not atmosphere; facts, not clichés.
 - [ ] **Urgent, opinionated, memorable (P200):** a real date to act on; a plain opinion backed by the fact (strong, never past the source); one line they'd repeat; no line that could be in any running video.
 - [ ] **Payoff agrees with the title (P201):** read the title, line one and the last stage together; the fix never does what the title says to stop.
+- [ ] **Fix never phrased as the attacked thing (P201 amended):** no "add 10%" or "same number" when the title attacks the 10% rule; give the cut-off as distances.
+- [ ] **Even sentences, a study scene (P202):** no sentence of 6 words or fewer after one of 12+, none of 4 or fewer; one runner walked through the study's numbers.

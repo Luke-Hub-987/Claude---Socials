@@ -6030,6 +6030,30 @@ title attacks, the title attacks how it's used ("THE 10% RULE IS / COUNTING THE
 WRONG RUN"), and the script says it out loud ("the number isn't the problem.
 What it counts is."). The reviewer checks this under G22, every time.
 
+**Amended (Luke, 11 Nov, the next round):** "We're still saying in a way that
+the 10% rule is kind of correct." "Keep the number, change what it counts"
+still sold the old rule. So the fix is never phrased as the thing the title
+attacks: no "add 10%", no "same number as the old rule". If the study's
+cut-off happens to match, the audio gives it as distances (16K, then 17.6K)
+and the caption says once where the line comes from. The title can then attack
+the rule outright (STOP USING THE 10% RULE).
+
+## P202 — Even sentences, and the example from the study (Luke, 11 Nov)
+
+Luke on the 10% script: "Do not give me these short one word or 3 or 4 word
+sentences after a big long one. It's so clearly obvious that it's written by
+AI." Also "no real specific examples", a repeat of P199 (figures, not
+atmosphere) on the same day.
+
+**The rule:** (a) no sentence of 6 words or fewer after a sentence of 12 or
+more, and no sentence of 4 words or fewer anywhere ("It wasn't the week.",
+"What it counts is."). Join the point onto the sentence before it with but,
+so or because, and keep sentences in a steady 9 to 20 words. The humanizer
+checker flags it. (b) A study reel walks one runner through the study's own
+numbers: the run the old rule lets through (16K longest, a 20K Sunday, the
+week up under 10%) and what the study found for runs like it (a 64% higher
+injury rate). The finding is said once, as a scene, not as a summary.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
