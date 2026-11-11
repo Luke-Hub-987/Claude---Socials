@@ -254,6 +254,8 @@ the repeat (C21), the premise and no deadline. Under P192's two tiers: 0 BLOCK
 fails; known risks G17 (guessable for anyone who saw 14 Oct) and G18 (dream shape
 near long run v4), in the file's box. IG trial from ERN + ERN TikTok. **Top-band frames (5 Nov):** `motion/plan-frames/jtf-*.png` (5 frames, 16:9, the hand plan fills in per stage). **Covers (5 Nov):** `motion/covers/just-to-finish-cover-watch.png` (FINISH 4:02 on a watch, recommended) and `-cover-hand.png` (the hand plan, 4 blanks).
 
+**10% rule motion (11 Nov):** `motion/ten-percent/` (3 MP4 scenes, one per stage, 16:9, plus stills of each last frame; page `motion/ten-percent.html`).
+
 **Spring ranking top-band frames (9 Nov):** `motion/plan-frames/spring-*.png` (6 frames, 16:9; the tier board fills in D to S, unranked courses face down). The script is still blocked (`gate/runs/2026-11-09-spring-ranking.md`).
 
 **Parkrun 25 top-band frames (6 Nov):** `motion/plan-frames/pr25-*.png` (5 frames, 16:9; the 3 ranges card fills in per stage). The script is still blocked on Luke (G8, G9, G16; `gate/runs/2026-11-06-parkrun-25-v3-full-file.txt`).

@@ -31,6 +31,7 @@ a stage tag, a condensed headline and a diagram).
   markers, numbers and labels of two or three words.
 - Keep one open loop visible on screen until the payoff (the 32K pin,
   the blank text bubble).
+- `ten-percent.html`: SPRING MARATHON? STOP / USING THE 10% RULE (11 Nov), 3 scenes, one per stage marker (16:9, 10 s each: builds in about 6 to 8 s, then holds). MP4s and a still of each last frame in `ten-percent/`. Graphics start at stage 1; frame one stays Luke and the title.
 - `render.js`: renders each scene to its own MP4.
   `node motion/render.js motion/goal-gone.html <out dir> [scene numbers]`
 - Brand colours are the `:root` block at the top of each HTML file. Swap them

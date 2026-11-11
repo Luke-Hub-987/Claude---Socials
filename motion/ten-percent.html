@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Ten Percent Rule Motion</title>
+<!-- SPRING MARATHON? STOP / USING THE 10% RULE (11 Nov). Three 16:9 scenes, one per stage marker, one layout (P193).
+     Frame one stays Luke and the title (gate field), so the graphics start at stage 1.
+     Render: node motion/render.js motion/ten-percent.html <out dir>. Preview: open with ?s=1 (2, 3) to loop one scene.
+     Every number is from the script, its caption or FACTS (the 10% rule). -->
+<style>
+:root{--navy:#0c1828;--navy-2:#14253d;--cream:#f4efe6;--blue:#1f7ae0;--blue-l:#6fb2ff;--gold:#f5b52e;--muted:#9fb0c6;--red:#ff8a80;--ink:#0d1726}
+@font-face{font-family:'DM Serif Display';src:url(fonts/DMSerifDisplay-400-normal.woff2) format('woff2');}
+@font-face{font-family:Barlow;font-weight:700;src:url(fonts/BarlowCondensed-700-normal.woff2) format('woff2');}
+@font-face{font-family:Barlow;font-weight:800;src:url(fonts/BarlowCondensed-800-normal.woff2) format('woff2');}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1920px;height:1080px;overflow:hidden;background:var(--navy)}
+#f{position:relative;width:1920px;height:1080px;overflow:hidden;background:var(--navy);color:#fff;font-family:Barlow,sans-serif}
+.top{position:absolute;left:0;top:0;right:0;height:150px;background:var(--cream);display:flex;align-items:center;padding:0 56px 0 96px}
+.top .t{font-weight:800;font-size:58px;letter-spacing:2px;color:var(--ink)}
+.top .t span{color:var(--red)}
+.top img{margin-left:auto;height:106px;border-radius:6px}
+.body{position:absolute;left:96px;right:96px;top:190px;bottom:52px}
+.eyebrow{font-weight:800;font-size:44px;letter-spacing:4px;color:var(--blue-l)}
+.head{font-weight:800;font-size:92px;line-height:.95;letter-spacing:1px;margin-top:4px}
+.card{position:absolute;background:var(--navy-2);border-radius:28px;padding:34px 42px}
+.ct{font-weight:800;font-size:36px;letter-spacing:3px;color:var(--blue-l)}
+.cs{font-weight:700;font-size:40px;color:var(--muted);margin-top:6px}
+.bar{position:relative;height:74px;margin-top:22px}
+.bar .lab{position:absolute;left:0;top:-4px;font-weight:800;font-size:32px;letter-spacing:2px;color:var(--muted)}
+.bar .track{position:absolute;left:0;right:0;top:36px;height:38px;border-radius:19px;background:#0c1828}
+.bar .fill{position:absolute;left:0;top:0;bottom:0;border-radius:19px;width:0}
+.bar .val{position:absolute;right:0;top:-8px;font-weight:800;font-size:44px}
+.big{font-weight:800;line-height:.9}
+.row{display:flex;justify-content:space-between;align-items:center;gap:24px;padding:22px 0;border-top:2px solid rgba(255,255,255,.08)}
+.row .k{font-weight:700;font-size:40px;line-height:1.1}
+.row .v{font-weight:800;font-size:46px;letter-spacing:2px;white-space:nowrap}
+.strip{position:absolute;left:0;right:0;bottom:0;background:var(--blue);border-radius:20px;padding:24px 36px 20px;font-weight:800;font-size:46px;letter-spacing:.5px}
+.strip b{color:var(--ink);background:var(--gold);border-radius:10px;padding:0 12px}
+.chip{display:inline-block;font-weight:800;font-size:32px;letter-spacing:3px;color:var(--gold);border:3px solid var(--gold);border-radius:999px;padding:6px 22px 4px;vertical-align:middle}
+.serif{font-family:'DM Serif Display',serif;font-weight:400;line-height:1.12}
+[data-in]{opacity:0}
+</style>
+</head>
+<body>
+<div id="f">
+  <div class="top"><div class="t">STOP USING THE <span>10% RULE</span></div><img src="brand/ern-logo.png" alt="ERN"></div>
+  <div class="body" id="b"></div>
+</div>
+<script>
+/* data-in="a,b": fade and rise between a and b seconds; data-grow="a,b" with data-w: a bar grows to data-w %;
+   data-count="a,b" with data-to (and data-dp, data-suf): a number counts up. */
+const SCENES=[
+ {id:'ten-1-what-the-rule-misses',dur:10,h:`
+   <div class="eyebrow" data-in="0.1,0.6">WHAT THE RULE MISSES</div>
+   <div class="card" style="left:0;top:90px;width:830px;height:630px" data-in="0.4,1.0">
+     <div class="ct">THE ONE TRIAL OF THE 10% RULE</div>
+     <div class="cs">532 new runners</div>
+     <div class="bar" style="margin-top:40px"><div class="lab">PLAN BUILT ON THE 10% RULE</div><div class="track"><div class="fill" style="background:var(--blue)" data-grow="1.0,2.4" data-w="83.2"></div></div><div class="val" data-count="1.0,2.4" data-to="20.8" data-dp="1" data-suf="%">0</div></div>
+     <div class="bar" style="margin-top:34px"><div class="lab">STANDARD PLAN</div><div class="track"><div class="fill" style="background:var(--muted)" data-grow="1.2,2.6" data-w="81.2"></div></div><div class="val" data-count="1.2,2.6" data-to="20.3" data-dp="1" data-suf="%">0</div></div>
+     <div class="big" style="font-size:60px;color:var(--gold);margin-top:56px" data-in="2.8,3.3">ABOUT 1 IN 5 HURT,<br>EITHER WAY</div>
+   </div>
+   <div class="card" style="left:898px;right:0;top:90px;height:630px" data-in="3.4,4.0">
+     <div class="ct">5,200 RUNNERS' WATCH DATA</div>
+     <div class="cs">what came before the injuries</div>
+     <div style="margin-top:34px">
+       <div class="row" data-in="4.2,4.7"><div class="k">The weekly jump</div><div class="v" style="color:var(--muted)">NOT LINKED</div></div>
+       <div class="row" data-in="5.0,5.5"><div class="k">One run more than a tenth past your 30&#8209;day longest</div><div class="v" style="color:var(--red)">LINKED</div></div>
+     </div>
+   </div>
+   <div class="strip" data-in="6.0,6.6">Stop checking your week. Start checking <b>one run</b>.</div>`},
+ {id:'ten-2-what-legs-remember',dur:10,h:`
+   <div class="eyebrow" data-in="0.1,0.6">WHAT LEGS REMEMBER</div>
+   <div class="card" style="left:0;top:90px;width:1080px;height:630px" data-in="0.4,1.0">
+     <div class="ct">YOUR LONG RUNS</div>
+     <div class="bar" style="margin-top:30px;height:104px"><div class="lab" style="font-size:36px">LONGEST IN THE LAST 30 DAYS</div><div class="track" style="top:48px;height:56px;border-radius:28px"><div class="fill" style="background:var(--cream);border-radius:28px" data-grow="1.0,2.0" data-w="72"></div></div><div class="val" style="font-size:56px;color:var(--cream)" data-count="1.0,2.0" data-to="16" data-suf="K">0</div></div>
+     <div class="bar" style="margin-top:22px;height:104px"><div class="lab" style="font-size:36px;color:var(--red)">THIS SUNDAY</div><div class="track" style="top:48px;height:56px;border-radius:28px"><div class="fill" style="background:var(--red);border-radius:28px" data-grow="2.3,3.6" data-w="90"></div></div><div class="val" style="font-size:56px;color:var(--red)" data-count="2.3,3.6" data-to="20" data-suf="K">0</div></div>
+          <div style="display:flex;gap:22px;margin-top:30px">
+       <div style="flex:1;background:#0c1828;border-radius:18px;padding:14px 24px" data-in="3.9,4.4"><div class="ct" style="color:var(--muted);font-size:30px">THE 10% RULE</div><div style="font-weight:800;font-size:40px;margin-top:4px">Week of 45K, up under 10%: <span style="color:var(--blue-l)">WAVED THROUGH</span></div></div>
+     </div>
+     <div style="display:flex;gap:22px;margin-top:18px">
+       <div style="flex:1;background:#0c1828;border-radius:18px;padding:14px 24px" data-in="4.7,5.2"><div class="ct" style="color:var(--muted);font-size:30px">THE 30-DAY CHECK</div><div style="font-weight:800;font-size:40px;margin-top:4px">A quarter longer than anything in 30 days: <span style="color:var(--red)">STOP</span></div></div>
+     </div>
+   </div>
+   <div class="card" style="left:1148px;right:0;top:90px;height:630px" data-in="5.6,6.2">
+     <div class="ct">RUNS LIKE THAT</div>
+     <div class="big" style="font-size:210px;color:var(--red);margin-top:18px"><span data-count="5.8,7.0" data-to="64" data-suf="%">0</span></div>
+     <div style="font-weight:700;font-size:40px;line-height:1.15;margin-top:8px">came with a higher injury rate</div>
+     <div class="serif" style="font-size:38px;color:var(--muted);margin-top:28px" data-in="7.2,7.7">Lungs adapt in weeks. Tendons take far longer.</div>
+   </div>
+   <div class="strip" data-in="8.0,8.6">Before your next long run, find your <b>longest from the last 30 days</b>.</div>`},
+ {id:'ten-3-your-next-long-run',dur:10,h:`
+   <div style="display:flex;align-items:baseline;gap:26px" data-in="0.1,0.6"><div class="eyebrow">YOUR NEXT LONG RUN</div><div class="chip">SAVE THIS</div></div>
+   <div class="card" style="left:0;top:90px;width:1080px;height:630px" data-in="0.4,1.0">
+     <div class="ct">THE 30-DAY CHECK, FROM 16K</div>
+     ${[['YOUR 30-DAY LONGEST','16K',60,'var(--cream)',1.0],['NEXT LONG RUN, UP TO','17.6K',66,'var(--gold)',2.0],['THEN, UP TO','19.4K',72.6,'var(--gold)',3.0]].map(([l,v,w,c,a])=>`
+     <div class="bar" style="margin-top:34px;height:112px" data-in="${a},${a+0.4}"><div class="lab" style="font-size:34px">${l}</div><div class="track" style="top:50px;height:56px;border-radius:28px"><div class="fill" style="background:${c};border-radius:28px" data-grow="${a+0.1},${a+0.9}" data-w="${w}"></div></div><div class="val" style="font-size:60px;color:${c}">${v}</div></div>`).join('')}
+     <div style="font-weight:700;font-size:38px;color:var(--muted);margin-top:30px" data-in="4.0,4.5">...and on, up to your plan's longest run</div>
+   </div>
+   <div class="card" style="left:1148px;right:0;top:90px;height:630px" data-in="4.6,5.2">
+     <div class="row" style="border-top:0;padding-top:0" data-in="4.8,5.3"><div class="k">Every longest run from 10K to 28K</div><div class="v" style="color:var(--gold)">CAPTION</div></div>
+     <div class="row" data-in="5.4,5.9"><div class="k">Barcelona and Rome plans start</div><div class="v" style="color:var(--gold)">23 NOV</div></div>
+     <div class="row" data-in="6.0,6.5"><div class="k">Check it before</div><div class="v" style="color:var(--gold)">EVERY ONE</div></div>
+   </div>
+   <div class="strip" data-in="7.0,7.6">Your free spring plan: email us your race and goal time, <b>link in bio</b></div>`},
+];
+const clamp=x=>Math.max(0,Math.min(1,x)), ease=x=>1-Math.pow(1-clamp(x),3);
+function span(el,attr,t){const [a,b]=el.getAttribute(attr).split(',').map(Number);return ease((t-a)/(b-a))}
+let cur=0;
+function load(i){cur=i;document.getElementById('b').innerHTML=SCENES[i].h;frame(0)}
+function frame(t){
+  for(const el of document.querySelectorAll('[data-in]')){const p=span(el,'data-in',t);el.style.opacity=p;el.style.transform=`translateY(${(1-p)*28}px)`}
+  for(const el of document.querySelectorAll('[data-grow]')){el.style.width=(span(el,'data-grow',t)*+el.dataset.w)+'%'}
+  for(const el of document.querySelectorAll('[data-count]')){const p=span(el,'data-count',t),dp=+(el.dataset.dp||0);el.textContent=(p*+el.dataset.to).toFixed(dp)+(el.dataset.suf||'')}
+}
+window.SCENES=SCENES;window.load=load;window.frame=frame;
+/* still of the last frame: ?still=N */
+const q=new URLSearchParams(location.search);
+if(q.has('still')){load(+q.get('still')-1);frame(SCENES[+q.get('still')-1].dur)}
+else if(!q.has('render')){let i=q.has('s')?+q.get('s')-1:0;load(i);let t0=performance.now();
+  (function loop(now){let t=(now-t0)/1000;if(t>SCENES[i].dur){if(!q.has('s'))i=(i+1)%SCENES.length;load(i);t0=now;t=0}frame(t);requestAnimationFrame(loop)})(t0)}
+</script>
+</body>
+</html>
