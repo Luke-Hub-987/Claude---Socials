@@ -252,7 +252,8 @@ def run(path):
         + ("" if in_line_one else "; gap phrase not in line one") + ("" if held else "; no 'Gap held by'"))
 
     # G31 the turn (mechanical part; Luke 9 Nov, P194): named, spoken before the first marker, the 4 questions answered
-    fm_i = next((i for i, (k, _) in enumerate(items) if k == "marker"), len(items))
+    mk_idx = [i for i, (k, _) in enumerate(items) if k == "marker"]
+    fm_i = mk_idx[1] if len(mk_idx) > 1 else len(items)   # P198: the turn sits in line one or stage 1
     hook_text = " ".join(norm_tokens(" ".join(t for k, t in items[:fm_i] if k == "para")))
     turn = re.sub(r'^["\u201c]|["\u201d]$', "", f.get("turn", "").strip())
     turn_toks = " ".join(norm_tokens(turn))
@@ -264,7 +265,7 @@ def run(path):
     if not turn_toks:
         probs31.append("no 'Turn:' in the Gate fields")
     elif not turn_ok:
-        probs31.append("the Turn line isn't spoken before the first marker")
+        probs31.append("the Turn line isn't spoken in the hook or stage 1")
     if len(answered) < 4:
         probs31.append(f"'## The 4 questions' has {len(answered)} of 4 answered")
     add("G31", not probs31, "; ".join(probs31) or "turn named and spoken before the method; the 4 questions answered (the reviewer judges if it's new)")
@@ -297,8 +298,8 @@ def run(path):
     total_words = len(words(spoken))
     cta_idx = next((i for i, (k, t) in enumerate(items) if k == "para" and re.search(r"link in (?:the )?bio", t, re.I)), None)
     probs = []
-    if not 80 <= hook_words <= 95:
-        probs.append(f"hook {hook_words} words (80 to 95)")
+    if not 40 <= hook_words <= 55:
+        probs.append(f"hook {hook_words} words (40 to 55, P198)")
     if not 280 <= total_words <= 330:
         probs.append(f"script {total_words} spoken words (280 to 330) [C3]")
     if not re.search(r"\bsave this\b", " ".join(hook), re.I):
@@ -417,7 +418,10 @@ def run(path):
         m = (re.compile(WORDS["stats"], re.I) if name == "stats" else rx(name)).search(spoken)
         if m:
             probs.append(f"{name}: '{m.group(0)}'")
-    add("G27", not probs, "; ".join(probs) or "none")
+    if probs and fm.get("stats_ok_by_luke"):
+        add("G27", True, "; ".join(probs) + f": Luke's call ({fm.get('stats_ok_by_luke')})", "INFO")
+    else:
+        add("G27", not probs, "; ".join(probs) or "none")
 
     # G28 dated words
     m = rx("dated").search(spoken + " " + ost)

@@ -5959,6 +5959,21 @@ job, a family, and a spring marathon booked?"); check.py's G1 accepts that as
 naming the viewer. The question the video answers still lands inside 12 words
 (G3), so the gap comes before any promise.
 
+## P198 — Get to the value in 15 seconds: a 40 to 55 word hook (Luke, 11 Nov)
+
+Luke: "we take too long to get to the value." On the last two posts retention
+dropped 70 to 80% by 0:10 while the body held flat: the hook, not the method,
+is where they leave.
+
+**The rule:** everything before stage 1 is 40 to 55 words (about 15 seconds),
+replacing 80 to 95 (C4, P147). The order: line one (the viewer and the gap);
+ONE sentence that does pain and dream together; the named concept with "save
+this"; then stage 1. The turn goes inside line one or stage 1, not its own
+paragraph. The CTA stays one sentence after stage 1. The shape Luke liked: "If
+you've got a marathon coming up, the last 10K is where you get passed or do the
+passing. What you do at 32K decides which. We call it the chase plan, so save
+this." G19 checks the count; G31 finds the turn in line one or stage 1.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

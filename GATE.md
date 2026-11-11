@@ -297,8 +297,11 @@ being retired (Luke, 17 Oct and 4 Nov: "every single time"). Gels "smell"
 
 ### G19 · The hook is short and the CTA comes early · AUTO
 **Test:** The whole script is 280 to 330 spoken words and the finished
-cut 1:35 or less. Hook (everything before the first marker) 80 to 95
-words, with "save this" in it. The CTA is one sentence offering the free plan,
+cut 1:35 or less. Hook (everything before the first marker) 40 to 55
+words, about 15 seconds (P198, Luke 11 Nov; was 80 to 95), in this order:
+line one (the viewer and the gap), one sentence that does pain and dream
+together, the named concept with "save this". The turn goes inside line one
+or stage 1, never its own paragraph. The CTA is one sentence offering the free plan,
 straight after stage 1, starting within the first 150 spoken words (about
 0:45). The audio says who to send it to. [C3] [C4] [C10]
 **Evidence:** Sleep's 116-word hook pushed the CTA to 0:49, where half of

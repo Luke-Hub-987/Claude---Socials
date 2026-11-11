@@ -93,6 +93,8 @@ line (what they're waiting for, what holds it, what closes it). **Every beat
 is a scene they've lived, Ogilvy-specific (P177):** never "eat 3 hours
 before"; always the ball 5 yards away and your legs won't go.
 
+**P198 (Luke 11 Nov): 40 to 55 words before stage 1** (about 15 seconds): line one (viewer + gap), one pain-and-dream sentence, the named concept + save this. The turn sits in line one or stage 1.
+
 **P194 (Luke 9 Nov): the turn.** Before the first stage, one spoken line
 shows the moment something changed (what they were doing wrong, what they
 realised), and it's something they didn't already believe (if they'd nod
@@ -181,7 +183,7 @@ a new cause becomes a new row in the same turn.**
 | 6 | **Abstract line one, or no reframe** | Taper 43.1%; without the wall 39.3% | Photograph test plus a reframe in new words (P116, P136) |
 | 7 | **Too long** | How hard 1:48; cramp 1:31 on 300 words | About 300 to 320 words, 1,550 to 1,670 characters |
 | 8 | **A "why" stage after the method** | Goal gone, half gone at 1:13 | The why is one line inside the payoff stage |
-| 9 | **CTA late or long** | Sleep 0:49 (116-word hook); 4:30 0:40; enjoy 0:42 (38% to 26%); thread line plus CTA cliff (out of the wall) | Hook 80 to 95 words; one-sentence CTA after stage 1, back into the video. **Count the emails per video** so the step can be judged against what it brings in |
+| 9 | **CTA late or long** (hook now 40 to 55 words, P198) | Sleep 0:49 (116-word hook); 4:30 0:40; enjoy 0:42 (38% to 26%); thread line plus CTA cliff (out of the wall) | Hook 80 to 95 words; one-sentence CTA after stage 1, back into the video. **Count the emails per video** so the step can be judged against what it brings in |
 | 10 | **Sorting viewers** | Who hits the wall ~7.5K | Every viewer is the subject of every stage (P103) |
 | 11 | **A problem few viewers have** | Gel 5.8K; narrow gates on IG (sub-4, Dublin) | What share of viewers have this problem? |
 | 12 | **Mixed timelines in the stages** | Stomach | One clock |

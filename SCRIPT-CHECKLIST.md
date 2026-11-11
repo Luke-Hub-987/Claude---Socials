@@ -523,3 +523,4 @@ twice without being checked against the winners (P99).
 - [ ] **A sequel is new or a trial (P195, G32):** a one-change sequel goes out as a trial reel; on the profile it needs a new twist, a new line-one shape, a new frame-one picture, and 7+ days after the parent (`parent_posted:` and `post_date:` in the front matter).
 - [ ] **One review (P196):** idea settled on the brief (`brief_ok:`); one reviewer pass on the words; fixes listed in `fixed_after_review:`, no second round; judgement calls in the Known risks box.
 - [ ] **Who and what they get (P197):** the OST and line one name the viewer in their words and the benefit; never the format, a negative or someone else first; the gap still inside 12 words.
+- [ ] **15-second hook (P198):** 40 to 55 words before stage 1: line one (viewer + gap), one pain-and-dream sentence, the named concept + save this; the turn in line one or stage 1.

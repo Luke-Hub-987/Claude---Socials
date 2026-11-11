@@ -87,6 +87,8 @@ ideas/. Ordered by how much they change a script.
     Filming it is his call; a post-hoc review treats these as accepted risks,
     not misses.
 
+- **Luke, 11 Nov (P198): C4 settled.** The hook is 40 to 55 words before stage 1 (was 80 to 95).
+
 ## Already settled, so not on the list
 Whisper vs no whisper (dropped, P91); cards on screen (corrected 24 Sep);
 the ERN how-to ban (P68 and the data); motion graphics on the main post
