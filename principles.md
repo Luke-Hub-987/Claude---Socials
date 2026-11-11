@@ -6054,6 +6054,15 @@ numbers: the run the old rule lets through (16K longest, a 20K Sunday, the
 week up under 10%) and what the study found for runs like it (a 64% higher
 injury rate). The finding is said once, as a scene, not as a summary.
 
+## P203 — Orders, not suggestions (Luke, 11 Nov, via the ideas chat)
+
+Luke asked for the 10% reel to be "opinionated, forceful and urgent". The
+ideas chat logged the voice for this chat (brief commit 2240980): orders, not
+suggestions ("stop", "do this", "before your next long run"); no softeners
+("might", "could", "try to", "you may want to"); the deadline said out loud.
+Forceful on what to do, exact on what the evidence says ("linked to" or "came
+with", never "causes").
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

@@ -529,3 +529,4 @@ twice without being checked against the winners (P99).
 - [ ] **Payoff agrees with the title (P201):** read the title, line one and the last stage together; the fix never does what the title says to stop.
 - [ ] **Fix never phrased as the attacked thing (P201 amended):** no "add 10%" or "same number" when the title attacks the 10% rule; give the cut-off as distances.
 - [ ] **Even sentences, a study scene (P202):** no sentence of 6 words or fewer after one of 12+, none of 4 or fewer; one runner walked through the study's numbers.
+- [ ] **Orders, not suggestions (P203):** stop, do this, before your next long run; no might, could, try to, you may want to; the deadline out loud; exact on the evidence.
