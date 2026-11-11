@@ -25,7 +25,7 @@ the author's notes and tables.
 ## How to grade
 Grade only the tests listed under "Grade these tests". PASS or FAIL. Quote the
 words each verdict rests on.
-- **G22:** check every spoken number and claim against FACTS; work the maths.
+- **G22:** check every spoken number and claim against FACTS; work the maths. Also read the title, line one and the last stage together: if the payoff does what the title says to stop, FAIL (P201).
 - **G29:** check the hook lines and send line against the last 3 scripts'.
 - **G8, G9, G16, G31** (only when listed, i.e. the brief wasn't OK'd): a
   repeat of a posted reel, an unsourced premise, a guessable gap, a turn

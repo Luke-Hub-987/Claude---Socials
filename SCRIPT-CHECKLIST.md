@@ -526,3 +526,4 @@ twice without being checked against the winners (P99).
 - [ ] **15-second hook (P198):** 40 to 55 words before stage 1: line one (viewer + gap), one pain-and-dream sentence, the named concept + save this; the turn in line one or stage 1.
 - [ ] **Beats turn, words count (P199):** beats joined with but or so, not and then; every word earns its place; figures, not atmosphere; facts, not clichés.
 - [ ] **Urgent, opinionated, memorable (P200):** a real date to act on; a plain opinion backed by the fact (strong, never past the source); one line they'd repeat; no line that could be in any running video.
+- [ ] **Payoff agrees with the title (P201):** read the title, line one and the last stage together; the fix never does what the title says to stop.

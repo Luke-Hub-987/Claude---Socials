@@ -206,6 +206,7 @@ a new cause becomes a new row in the same turn.**
 | 29 | **A picture that repeats the title** | 200 plans cover: the 16 / 10 / 2 scoreboard under the same numbers in the title (Luke caught, 4 Nov, before posting) | One line per layer (title, picture, line one); each says something new (P188) |
 | 30 | **Line one about us, not them** | 16 results trial: "We've sent over 200 free marathon plans" first, gate second, title = our result; 44.4% skip, 80% gone by 0:05 (4 Nov) | The first-3-seconds gate (P189): first words the viewer, one thing on screen, the question inside 10 words, the title their goal |
 | 31 | **A sequel to the same followers within days** | Sub-4:30 (secretly), 9 Nov: the parent's title twist, line one and method with the goal changed, posted to the profile 3 days after the parent: skip 51.3% (Higher), 10s watched against 23s, reach stopped at followers (Feed the top source). A repeat in part: the known risks G17 and the one-change sequel were in its box, and ledger row 16 | On the profile, a sequel gets a new twist, a new line-one shape and a new frame-one picture, and posts at least 7 days after the parent; a one-change test only as a trial reel (G32, P195) |
+| 32 | **A payoff that contradicts the title** | 10% rule, 11 Nov: title STOP USING THE 10% RULE, method "add 10% to your longest run" (Luke caught, before filming) | Title, line one and last stage read together: the fix never does what the title says to stop (P201; reviewer, under G22) |
 
 ## Current state (update this every session; older entries in `ideas/state-archive.md`)
 

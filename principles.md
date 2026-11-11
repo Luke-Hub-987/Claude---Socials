@@ -6016,6 +6016,20 @@ written for Ogilvy's red pen: a figure or a fact in each, a turn (but, so)
 between beats, an opinion said plainly, the date to act on. The humanizer
 checker flags a script with more "and" than "but" and "so" put together.
 
+## P201 — The payoff can't contradict the title (Luke, 11 Nov)
+
+Luke on the 10% script: "We're saying the 10% rule is rubbish, but then at the
+very end we're saying add 10% to it. That makes no sense." The title said
+STOP USING THE 10% RULE; the method added 10% to the longest run. Caught
+before filming; my miss, and the reviewer's (it graded the words, not the
+argument).
+
+**The rule:** read the title, line one and the last stage together: does the
+payoff do what the title told them to stop? If the fix reuses the thing the
+title attacks, the title attacks how it's used ("THE 10% RULE IS / COUNTING THE
+WRONG RUN"), and the script says it out loud ("the number isn't the problem.
+What it counts is."). The reviewer checks this under G22, every time.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

@@ -2,7 +2,7 @@
 type: script (gated)
 gate: v1
 brief_ok: Luke 11 Nov ("Script for today", Luke's pick from ideas/engine-room-nutrition/2026-11-10-brief-10-percent-and-match.md)
-ost_final_by_luke: 11 Nov
+ost_changed: 11 Nov, from STOP USING THE / 10% RULE (Luke: the payoff adds 10%, so "stop using" contradicts it); back to the brief's own title. Luke to OK
 fixed_after_review: G21, G22, G29
 post_review_edits: Luke 11 Nov (P199, P200, then "dull": a full Ogilvy rewrite of every paragraph, same facts, method, stages and caption). Not re-reviewed (P196)
 stats_ok_by_luke: 11 Nov (the 10% rule is the title, and the study is the turn Luke wrote)
@@ -12,10 +12,10 @@ basis: the brief (10% section and Luke's pick); packaging ideas/engine-room-nutr
 format: profile post as the collab with luke_morrison_er (+ FB) + a fresh ERN TikTok upload, about 7am
 ---
 
-# STOP USING THE / 10% RULE
+# THE 10% RULE IS / COUNTING THE WRONG RUN
 
 ## Gate fields
-- OST: STOP USING THE / 10% RULE
+- OST: THE 10% RULE IS / COUNTING THE WRONG RUN
 - Markers: WHAT THE RULE MISSES / WHAT LEGS REMEMBER / YOUR NEXT LONG RUN
 - Gap phrase: a 30-day memory
 - Gap held by: "We call it the 30-day check, so save this."
@@ -23,8 +23,8 @@ format: profile post as the collab with luke_morrison_er (+ FB) + a fresh ERN Ti
 - Turn: "a study of about 5,200 runners' watch data found what was linked to injuries"
 - Frame one: Luke and the title only; no graphics or subtitles until stage 1
 - Frame one words: title only
-- Mockup: ideas/engine-room-nutrition/mockups/2026-11-11-10-percent-rule-frame-one.png
-- Layer title: the rule they follow, and to stop using it
+- Mockup: ideas/engine-room-nutrition/mockups/2026-11-11-10-percent-rule-v2-frame-one.png
+- Layer title: the rule they follow is counting the wrong run (which run? the gap)
 - Layer picture: none (Luke and the title)
 - Layer line one: who they are (building up for a spring marathon) and the gap (what's the 30-day memory, and what does the rule miss)
 - Worked example goal: none (a long-run rule); worked example 18K to 19.8K, every common longest run in the caption
@@ -70,7 +70,7 @@ stage 1.
 
 **[WHAT THE RULE MISSES]**
 
-"Everyone's heard of the 10% rule, but it's been properly tested once. That trial put 532 new runners on it. About 1 in 5 still got hurt. So it protected them no better than a normal plan. But a study of about 5,200 runners' watch data found what was linked to injuries. It wasn't the week. It was one run more than 10% longer than anything in the last 30 days. So stop counting weeks, and start counting your longest run in the last 30 days."
+"Everyone's heard of the 10% rule, but it's been properly tested once. That trial put 532 new runners on it. About 1 in 5 still got hurt. So it protected them no better than a normal plan. But a study of about 5,200 runners' watch data found what was linked to injuries. It wasn't the week. It was one run more than 10% longer than anything in the last 30 days. So the number isn't the problem. What it counts is. Take it off your week, and put it on your longest run in the last 30 days."
 
 "Email us your race and goal time through the link in the bio for your free spring plan."
 
@@ -82,12 +82,12 @@ stage 1.
 
 **[YOUR NEXT LONG RUN]**
 
-"Add 10% to it. That's your ceiling, not your target. If your longest was 18K, your next one stops at 19.8K. Run that, and the one after can reach 21.8K. Every long run that goes further moves the ceiling up. But spring plans start on 23 November, so your long runs start climbing now. Do the check before every one."
+"Add 10% to it. Same number as the old rule, but now it's guarding the right thing. That's your ceiling, not your target. If your longest was 18K, your next one stops at 19.8K. Run that, and the one after can reach 21.8K. Every long run that goes further moves the ceiling up. But spring plans start on 23 November, so your long runs start climbing now. Do the check before every one."
 
-"Send this to the friend still adding 10% a week."
+"Send this to the friend still adding 10% to their week."
 
 ## Caption
-Building up for a spring marathon on the 10% rule? It counts your week. The research says it's one run that matters.
+Building up for a spring marathon on the 10% rule? Keep the number, but change what it counts: not your week, one run.
 
 The one trial of the 10% rule (Buist 2008, 532 new runners) found injuries in 20.8% on a 13-week plan built on the rule and 20.3% on a standard 8-week plan: no difference. A 2025 study of about 5,200 runners' watch data (Frandsen, BJSM) found the week-to-week jump wasn't linked to injury, while one run more than 10% longer than the longest in the last 30 days was. It's an observational study, so it shows a link, not a cause.
 
@@ -122,11 +122,11 @@ What's your longest run in the last 30 days? Add 10% and that's your next one. E
 
 ## Urgent, opinionated, memorable (P200), written for Ogilvy
 - Urgency: spring plans start on 23 November; "do the check before every one".
-- Opinion: "it's been properly tested once"; "it protected them no better than a normal plan"; "stop counting weeks".
+- Opinion: "it's been properly tested once"; "it protected them no better than a normal plan"; "the number isn't the problem. What it counts is."
 - Memorable: "your lungs say yes, but your tendons say no"; "your ceiling, not your target"; "the number your next long run can't beat".
 - Turns: 11 "but" or "so" against 7 "and".
 
 ## Known risks (pre-mortem, P196: judgement calls, ungraded)
 - **Ledger row 3 (training topics):** off the race clock (training weeks 4.4K to 5.3K, cold 0.9% saves). Why this is different: it overturns a rule they follow and hands over one number for the next long run.
-- **The OST starts with "STOP"**, a negative first, against P197 (yesterday). It's your final title; the line one names who they are and what they get.
+- **The title changed** from STOP USING THE 10% RULE, because the payoff adds 10% (Luke caught the contradiction). Luke to OK the new title before filming.
 - **"30-day memory" is a picture, not a measured fact:** the study used a 30-day window; tendons adapting slowly is the reason. The caption says it's a link, not a cause.
