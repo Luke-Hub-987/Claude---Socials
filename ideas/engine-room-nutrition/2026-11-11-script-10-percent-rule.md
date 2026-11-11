@@ -92,7 +92,7 @@ The one trial of the 10% rule (Buist 2008, 532 new runners) found injuries in 20
 
 The 30-day check: find your longest run in the last 30 days and add 10%. That's the most your next long run should be. Longest 10K, next one up to 11K. Longest 14K, up to 15.4K. Longest 16K, up to 17.6K. Longest 18K, up to 19.8K. Longest 20K, up to 22K. Longest 24K, up to 26.4K. Longest 28K, up to 30.8K. Each time you go longer, that becomes the new number. So from an 18K, the most your long runs can climb is 19.8K, then 21.8K, 24K, 26.4K, 29K and 31.9K, one long run at a time, up to the longest run in your plan.
 
-Why: your heart and lungs catch up in a few weeks, but tendons take much longer to adapt to load, so they only trust what you've done lately.
+Why: your heart and lungs catch up in a few weeks, but tendons take much longer to adapt to load, so they're only ready for what you've done lately.
 
 When your 16 weeks start: Barcelona and Rome on 23 November, Manchester on 28 December, London on 4 January.
 
