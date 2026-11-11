@@ -5993,6 +5993,22 @@ both are about earning the next second.)
 The humanizer checker flags "Then"/"And then" sentence starts, a line with 3+
 "and" and no "but" or "so", and atmosphere words. It runs inside G29.
 
+## P200 — Urgent, opinionated, memorable; never dull (Luke, 11 Nov)
+
+Luke, adding to P199: every script has urgency, takes a side, and leaves a
+line they remember.
+
+**The rule:**
+- **Urgency:** a real date or deadline they act on (a block that starts on 23
+  November), never a dated word ("this week", "tomorrow": P153).
+- **Opinion:** say what we think plainly ("that's the wrong thing to count"),
+  then back it with the fact. Strong, never a slur on the old way ("rubbish",
+  "a lie"), and never past what the source says ("linked", not "causes").
+- **Memorable:** one line they could repeat to a friend ("your lungs say yes
+  while your tendons say no"; "your ceiling, not a target").
+- **Not dull:** if a line could be in any running video, rewrite it or cut it.
+The script file names the memorable line in its notes.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

@@ -4,6 +4,7 @@ gate: v1
 brief_ok: Luke 11 Nov ("Script for today", Luke's pick from ideas/engine-room-nutrition/2026-11-10-brief-10-percent-and-match.md)
 ost_final_by_luke: 11 Nov
 fixed_after_review: G21, G22, G29
+post_review_edits: Luke 11 Nov (P199 but/so and figures; P200 urgent, opinionated, memorable): stage 1 opinion line and the 'But' turn, 'far longer', 'your lungs say yes while your tendons say no', 'your ceiling, not a target', the 'So' rehook. Not re-reviewed (P196)
 stats_ok_by_luke: 11 Nov (the 10% rule is the title, and the study is the turn Luke wrote)
 generated_at: 2026-11-11
 teleprompter: 2026-11-11-teleprompter-10-percent-rule.txt
@@ -69,19 +70,19 @@ stage 1.
 
 **[WHAT THE RULE MISSES]**
 
-"The 10% rule counts your week. The one trial of it found about 1 in 5 runners got hurt either way. Then a study of about 5,200 runners' watch data found the weekly jump wasn't linked to who got hurt. One run more than 10% longer than anything in the last 30 days was. So stop counting your week, and start counting your longest run in the last 30 days."
+"The 10% rule counts your week, and that's the wrong thing to count. The one trial of it found about 1 in 5 runners got hurt either way. But a study of about 5,200 runners' watch data found the weekly jump wasn't linked to who got hurt. One run more than 10% longer than anything in the last 30 days was. So forget your week, and count your longest run in the last 30 days."
 
 "Email us your race and goal time through the link in the bio for your free spring plan."
 
 **[WHAT LEGS REMEMBER]**
 
-"Your heart and lungs catch up in a few weeks. Your tendons take a lot longer, so they're only ready for what you've done lately. The study counted that as the last 30 days. Go well past your longest recent run, and your lungs are ready but your tendons aren't. Before your next long run, look back 30 days on your watch and find your longest run."
+"Your heart and lungs catch up in a few weeks. But your tendons take far longer, so they're only ready for what you've done lately. The study counted that as the last 30 days. Jump past it, and your lungs say yes while your tendons say no. Before your next long run, look back 30 days on your watch and find your longest run."
 
-"And that one run gives you the only number your next long run needs."
+"So that one run gives you the only number your next long run needs."
 
 **[YOUR NEXT LONG RUN]**
 
-"Add 10% to it. That's the most your next long run can be. If your longest was 18K, your next one tops out at 19.8K. Run that, and the one after can go to 21.8K. Each time you go longer, it becomes the new number. Spring plans start from 23 November, so your long runs start growing now."
+"Add 10% to it. That's your ceiling, not a target. If your longest was 18K, your next one tops out at 19.8K. Run that, and the one after can go to 21.8K. Each time you go longer, it becomes the new number. Spring plans start from 23 November, so your long runs start growing now."
 
 "Send this to whoever's adding 10% a week for spring."
 
@@ -117,6 +118,11 @@ What's your longest run in the last 30 days? Add 10% and that's your next one. E
 | check.py | See the gate run |
 | AI vocabulary, signposting | None; no "rubbish" or "lie" (FACTS) |
 | Contractions, sentence length | Contractions throughout; short sentences |
+
+## Urgent, opinionated, memorable (P200)
+- Urgency: spring plans start from 23 November.
+- Opinion: "that's the wrong thing to count"; "forget your week".
+- Memorable: "your lungs say yes while your tendons say no"; "your ceiling, not a target".
 
 ## Known risks (pre-mortem, P196: judgement calls, ungraded)
 - **Ledger row 3 (training topics):** off the race clock (training weeks 4.4K to 5.3K, cold 0.9% saves). Why this is different: it overturns a rule they follow and hands over one number for the next long run.
