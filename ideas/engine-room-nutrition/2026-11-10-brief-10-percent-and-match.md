@@ -133,3 +133,41 @@ not suggestions ("stop", "do this", "before your next long run"); no softeners
 ("might", "could", "try to", "you may want to"); the deadline said out loud.
 Forceful on what to do, exact on what the evidence says ("linked to", never
 "causes", for Frandsen).
+
+## OST v3: the pre-mortem (Luke, 11 Nov: why would it fail on the OST alone?)
+**Forecast for SPRING MARATHON? STOP / USING THE 10% RULE, read alone:**
+1. **It contradicts the payoff (row 32, P201).** The last stage says the next run
+   "stops at 17.6K": a tenth past the longest. The title says stop using 10%.
+   The comments write themselves ("so... use 10%?"), and trust and saves go with it.
+2. **"STOP" lands on the wrong line.** Line 1 ends "SPRING MARATHON? STOP", so the
+   first read is "spring marathon? Stop." The order is split from its object.
+3. **The strongest word is fourth.** The first thing read is a question, so the
+   pulse arrives late in a 1-second scroll.
+4. **Not memorable.** An instruction, not a fact anyone repeats; no news in it
+   (Ogilvy: news and facts sell, opinion alone doesn't).
+
+**OST v3: THE 10% RULE FAILED / ITS ONLY TRIAL** (19 / 21)
+| Test | Result |
+|---|---|
+| Opinionated | A verdict on a rule every runner has heard |
+| Memorable (P200) | A fact they'd repeat on a club run: "the 10% rule failed its only trial" |
+| News, not atmosphere (Ogilvy, P199) | The one trial of the rule (Buist 2008: 20.8% vs 20.3%) |
+| True | "Trial", not "test": one randomised trial; the script already says "properly tested once" |
+| Doesn't contradict the payoff (P201) | The trial tested the weekly 10%; the fix measures one run against the last 30 days |
+| Doesn't answer itself (G12) | Says it failed, not what works: the gap |
+| Two of five (P178) | Number (10%) + proof (its only trial) |
+| Urgent (P200) | Not in the title: line one names the spring marathon, the body says 23 November |
+| Lines of 22 or fewer | Yes |
+
+**Line one to go with it** (names the event for G11, keeps the gap): "Building for
+a spring marathon? Your week can pass the 10% rule while one run in it gets you
+hurt."
+
+Rejected: STOP COUNTING YOUR / WEEKLY MILEAGE (drops the rule everyone knows, and
+reads as "stop tracking volume", past what the study shows); YOUR WEEK PASSES THE
+/ 10% RULE. YOU DON'T (repeats line one, row 29).
+
+**Council:** Contrarian: "failed" invites "what about Nielsen 2014?" Cross-review:
+that was a cohort, not a trial of the rule; "trial" is exact. Outsider: "the 10%
+rule failed its only trial": I'd stop, and I'd want to know what works instead.
+Chairman: v3.
