@@ -110,3 +110,26 @@ playbook ("Stop doing zone 2", 309K). Line one carries the 30-day memory. The
 hook follows Luke's 11 Nov call: value faster, 40 to 55 words before stage 1
 (line one, one sentence of pain and dream together, the named concept with
 "save this", then stage 1). Prompt to the gate chat sent in chat.
+
+## OST v2 (Luke, 11 Nov: "opinionated, forceful and urgent")
+**SPRING MARATHON? STOP / USING THE 10% RULE** (21 / 18)
+
+Checked against our rules and data:
+| Test | STOP USING THE / 10% RULE | SPRING MARATHON? STOP / USING THE 10% RULE |
+|---|---|---|
+| Names the event (P180, G11 "in what?") | No | Yes: marathon |
+| Their goal / who it's for (P189, P197) | No | Yes: the spring marathon they've booked |
+| Two of five (P178) | Number only | Number (10%) + deadline (spring blocks start 23 Nov) |
+| Never answers itself (G12, Briar's B+) | Yes | Yes: says stop, not what instead |
+| Forceful | An order | A callout, then an order in the same breath |
+| G1 (first words the viewer) | No | Yes: a question naming the viewer (P197) |
+| Lines of 22 or fewer (G10) | Yes | Yes |
+
+Rejected: MARATHONERS: STOP / USING THE 10% RULE (no deadline); THE 10% RULE WON'T /
+SAVE YOUR MARATHON (a negative with no order; the voice Luke asked for is the order).
+
+**The voice, script-wide (Luke's correction, for the gate chat to log):** orders,
+not suggestions ("stop", "do this", "before your next long run"); no softeners
+("might", "could", "try to", "you may want to"); the deadline said out loud.
+Forceful on what to do, exact on what the evidence says ("linked to", never
+"causes", for Frandsen).
