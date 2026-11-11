@@ -524,3 +524,4 @@ twice without being checked against the winners (P99).
 - [ ] **One review (P196):** idea settled on the brief (`brief_ok:`); one reviewer pass on the words; fixes listed in `fixed_after_review:`, no second round; judgement calls in the Known risks box.
 - [ ] **Who and what they get (P197):** the OST and line one name the viewer in their words and the benefit; never the format, a negative or someone else first; the gap still inside 12 words.
 - [ ] **15-second hook (P198):** 40 to 55 words before stage 1: line one (viewer + gap), one pain-and-dream sentence, the named concept + save this; the turn in line one or stage 1.
+- [ ] **Beats turn, words count (P199):** beats joined with but or so, not and then; every word earns its place; figures, not atmosphere; facts, not clichés.

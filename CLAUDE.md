@@ -123,6 +123,7 @@ table shows it.
   checker, then a full read against the Wikipedia catalog, then the
   rewrites, then the Humanizer table in the file. Words only: the hook
   stack, Briar's frameworks, the numbers and the length stay as they are.
+- **Every beat turns (P199, Luke 11 Nov, Ogilvy):** but or so, never and then; every word counts; figures, not atmosphere; facts, not clichés. The humanizer checker flags them.
 - **Scripts:** never in a code box or a block quote (both break when
   pasted into the teleprompter). Each spoken paragraph in straight
   double quotes on its own line, a blank line between paragraphs, and

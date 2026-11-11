@@ -24,6 +24,9 @@ PATTERNS = [
     ("colon list", re.compile(r"\b[A-Za-z ]{2,20}: [0-9]")),
     ("retired hook template (P186)", re.compile(r"\b(get (it|race week|the \w+) (wrong|right)|you'?re the one (who|passing|still|sending)|that's your race going to plan)\b", re.I)),
     ("generic ending", re.compile(r"(you've got this|possibilities are endless|the rest is history)", re.I)),
+    # P199 (Luke 11 Nov, Ogilvy): beats turn on "but" or "so", not "and then"; figures, not atmosphere
+    ("and-then link (P199: turn it with but or so)", re.compile(r"(?:^|[.?!]\s)(?:And then|Then)\b")),
+    ("atmosphere word (P199: give the figure)", re.compile(r"\b(amazing|incredible|massive|insane|crazy|literally|honestly|absolutely|totally|a lot|so much|really|super|huge|tons of|loads of)\b", re.I)),
 ]
 # The talk-test sentence is a quote, not a missing contraction.
 ALLOWED = ["I am running a marathon today and I feel good"]
@@ -73,6 +76,9 @@ def main(paths):
             short = [f for f in frags if len(f.split()) <= 3]
             if len(short) >= 2:
                 print(f"  line {i}: staccato fragments: {short}")
+                flags += 1
+            if len(re.findall(r"\band\b", l, re.I)) >= 3 and not re.search(r"\b(but|so)\b", l, re.I):
+                print(f"  line {i}: and-chain (P199: 3+ 'and', no 'but' or 'so'): '{l[:60]}...'")
                 flags += 1
             if re.search(r"\b\w+, \w+(?: \w+)?,? and \w+", l):
                 print(f"  line {i}: possible list of three (check it's the real count): '{l[:70]}...'")

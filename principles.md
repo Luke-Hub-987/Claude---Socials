@@ -5974,6 +5974,25 @@ you've got a marathon coming up, the last 10K is where you get passed or do the
 passing. What you do at 32K decides which. We call it the chase plan, so save
 this." G19 checks the count; G31 finds the turn in line one or stage 1.
 
+## P199 — Every beat turns, and every word counts (Luke, 11 Nov; Ogilvy)
+
+Luke, on Ogilvy's copy rules: keep people engaged throughout; more "buts",
+fewer "ands"; human and very simple; every word counts; concrete figures in
+place of atmosphere; facts in place of clichés. (The "but, not and then" rule
+is the South Park writers' storytelling rule; it sits with Ogilvy's because
+both are about earning the next second.)
+
+**The rule:**
+- **Beats turn.** Join beats with "but" or "so", never "and then": "The 10%
+  rule counts your week. But a study of 5,200 runners found..." Each turn is a
+  small gap that pulls them to the next line.
+- **Every word counts.** Cut any word the line works without.
+- **Figures, not atmosphere.** "Your tendons take months", not "a lot longer";
+  if FACTS has no figure, find one or cut the claim to what's true.
+- **Facts, not clichés.** No "amazing", "massive", "game-changer", "really".
+The humanizer checker flags "Then"/"And then" sentence starts, a line with 3+
+"and" and no "but" or "so", and atmosphere words. It runs inside G29.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
