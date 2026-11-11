@@ -21,7 +21,7 @@ against-the-grain frame on top of a practical plan.
 |---|---|---|---|---|
 | 1 | **ESCAPE THE WALL LIKE / A KILLER'S BEHIND YOU** (20 / 21) | Luke's: you're being hunted | The way out in stages: sugar in, slow 15 to 20 s a K for 10 minutes, shorter quicker steps, one lamppost at a time | The out-of-the-wall reel (FACTS); the 5 stages could carry this title |
 | 2 | **RUN YOUR LAST 10K LIKE / YOU'RE BEING CHASED** (22 / 19) | The chase, and you're the one passing | 32K to 42K in 5K blocks: the gel on the clock, the 10K-sign check, the lamppost | FACTS; Luke's "passing people at 32K" |
-| 3 | **YOUR MARATHON IS 4 / FIGHTS, NOT ONE RACE** (18 / 19) | Four rounds | 0-10K, 10-21K, 21-32K, 32K-finish, one rule each | The race clock (our winners' structure) |
+| 3 | **YOUR MARATHON IS 4 / FIGHTS, NOT ONE RACE** (18 / 20) | Four rounds | 0-10K, 10-21K, 21-32K, 32K-finish, one rule each | The race clock (our winners' structure) |
 | 4 | **FUEL A MARATHON LIKE / AN F1 PIT CREW** (20 / 14) | Pit stops on a planned lap, never when the tyres go | The gel clock: 30g at 20 minutes, then every 30, whatever you feel | C22; the gel clock |
 | 5 | **PLAY THE LAST 20 LIKE / IT'S THE FIRST 20** (21 / 17) | The dream, said as the opposite of what happens | The match clock: the hour before, the warm-up, half-time, the last 20 | Krustrup 2006; Luke's numbers |
 | 6 | **MARATHON AUTOPSY: / WHERE 3:44 WAS WON** (17 / 18) | An autopsy: cut the race open | Luke's 3:44:13 splits, K by K: what he did at each sign | Luke's own result (his OK) |
@@ -42,7 +42,7 @@ hook runs 80 to 95 words (about 28 seconds) before stage 1.
 - The turn goes inside line one or stage 1, not as its own paragraph.
 - The CTA stays after stage 1, one sentence.
 - Example on #2: "If you've got a marathon coming up, the last 10K is where you get
-  passed or do the passing. Most of it's decided by what you do at 32K. We call
+  passed or do the passing. What you do at 32K decides which. We call
   it the chase plan, so save this." Then [32K TO 37K].
 
 ## New formats (still structural, not talking head)
