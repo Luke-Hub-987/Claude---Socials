@@ -6063,6 +6063,28 @@ suggestions ("stop", "do this", "before your next long run"); no softeners
 Forceful on what to do, exact on what the evidence says ("linked to" or "came
 with", never "causes").
 
+## P204 — The asks move: save after stage 1, send after stage 2, email at the end (Luke, 12 Nov)
+
+From the 10% rule's retention (`ideas/2026-11-12-10-percent-rule-review.md`): the
+email ask straight after stage 1 lost half the viewers left at 0:38 to 0:45
+(ledger row 9, a repeat), and the send line at 1:26 reached about 3%.
+
+**The rule:** no email ask in the body: the last spoken line or the pinned
+comment only. "Save this" goes straight after stage 1's action (the first thing
+worth keeping), not in the hook. The send line goes straight after stage 2
+(about 0:45), naming who to send it to. Gate G19 checks all three from 12 Nov.
+
+## P205 — A title you can read in one second (Luke, 12 Nov)
+
+The 10% title was small, mid-frame, blue on a blue T-shirt. Every example Luke
+sent puts the title in the top band. **The rule:** the title in the top band,
+full width less the 16px edges, black bold on a white box (or white bold on
+dark), as big as the longest line allows, checked at phone size in one second:
+`node gate/shoot_frame.js <out> "spec=white&fit=line&t1=...&t2=..."` (the tool
+prints the type size against the 10% title's 6.1% of frame width). Luke and
+the title only until stage 1. A 22-character line caps the type at about 6.4%
+of the width, so short lines are what make a title big.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

@@ -304,6 +304,11 @@ together, the named concept with "save this". The turn goes inside line one
 or stage 1, never its own paragraph. The CTA is one sentence offering the free plan,
 straight after stage 1, starting within the first 150 spoken words (about
 0:45). The audio says who to send it to. [C3] [C4] [C10]
+**From 12 Nov (P204, Luke, the 10% rule data):** no email ask in the body: the last
+spoken line or the pinned comment only (the ask at 0:38 lost half the viewers left).
+"Save this" goes straight after stage 1's action, not in the hook. The send line
+goes straight after stage 2 (about 0:45; the 10% send line at 1:26 reached about 3%).
+A title can run 3 lines only as Luke's final title (`ost_final_by_luke:`).
 **Evidence:** Sleep's 116-word hook pushed the CTA to 0:49, where half of
 those left went. 3:45 moved the CTA a third of the way in: "an awful lot"
 of emails. Dublin km by km, sent to running partners: 1.8% shares.

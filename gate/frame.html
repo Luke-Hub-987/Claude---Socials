@@ -21,6 +21,8 @@ html,body{width:100vw;height:100vh;overflow:hidden;background:#000;font-family:I
 /* title boxes */
 .ost{position:absolute;left:50%;top:var(--ost-top,30%);transform:translate(-50%,-50%);text-align:center;width:100%}
 .ost span{display:inline-block;background:#2b8fff;color:#fff;font-weight:800;font-size:6.1vw;line-height:1.18;padding:.6vw 2.2vw;white-space:nowrap;margin:.25vw 0;letter-spacing:.1vw}
+.ost.white{transform:translate(-50%,0);padding:0 4.1vw}
+.ost.white span{background:#fff;color:#000;font-weight:900;letter-spacing:0;padding:.4vw 2vw;margin:.4vw 0}
 .subs{position:absolute;left:50%;top:69%;transform:translateX(-50%);color:#fff;font-size:4.6vw;font-weight:700;text-shadow:0 .3vw 1vw #000;white-space:nowrap}
 /* Instagram's overlays: caption, name and buttons */
 .ui{position:absolute;left:0;bottom:0;width:100%;height:22%;background:repeating-linear-gradient(135deg,rgba(255,0,0,.16) 0 2.4vw,rgba(255,0,0,.06) 2.4vw 4.8vw);border-top:.5vw dashed #ff4d4d}
@@ -35,9 +37,18 @@ const f=document.getElementById('f');f.className='f '+layout;
 let h='<div class="car"><div class="win"></div><div class="seat"></div></div>';
 if(layout==='half'){const pic=q.get('pic')||'';h+='<div class="top">'+(pic.startsWith('label:')?'<div class="ph">'+pic.slice(6)+'</div>':(pic?'<img src="'+pic+'">':''))+'</div>';}
 h+='<div class="head"></div><div class="body"></div><div class="who">'+(q.get('who')||'LUKE · car · ERN running top (placeholder)')+'</div>';
-h+='<div class="ost" style="--ost-top:'+(q.get('ostTop')||(layout==='half'?'45%':'30%'))+'"><span>'+(q.get('t1')||'')+'</span><br><span>'+(q.get('t2')||'')+'</span></div>';
+const spec=q.get('spec')==='white';  // P205 (Luke 12 Nov): top band, full width less 16px edges, black bold on a white box
+const tl=[q.get('t1')||'',q.get('t2')||'',q.get('t3')||''].filter(Boolean);
+h+='<div class="ost'+(spec?' white':'')+'" style="--ost-top:'+(q.get('ostTop')||(spec?'4%':(layout==='half'?'45%':'30%')))+'">'+tl.map(t=>'<span>'+t+'</span>').join('<br>')+'</div>';
 if(q.get('subs'))h+='<div class="subs">'+q.get('subs')+'</div>';
 if(q.get('zones')!=='0')h+='<div class="ui"></div><div class="uir"></div>';
 if(q.get('tag'))h+='<div class="tag">'+q.get('tag')+'</div>';
 f.innerHTML=h;
+
+if(spec){const spans=[...document.querySelectorAll('.ost.white span')];const max=window.innerWidth-2*16*window.innerWidth/390;
+ const cap=parseFloat(q.get('cap')||'14');
+ const fit=els=>{let fs=cap;for(;fs>4;fs-=0.1){els.forEach(e=>e.style.fontSize=fs+'vw');if(Math.max(...els.map(e=>e.getBoundingClientRect().width))<=max)break;}return fs;};
+ // fit=line: each line as wide as it can go (short lines bigger); default: one size for all lines
+ const sizes=q.get('fit')==='line'?spans.map(e=>fit([e])):[fit(spans)];
+ document.title='fs='+sizes.map(x=>x.toFixed(1)).join('/');}
 </script></body></html>

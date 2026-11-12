@@ -14,6 +14,7 @@ const path = require('path');
     await page.goto(url);
     await page.waitForTimeout(300);
     await page.screenshot({ path: file });
+    const t = await page.title(); if (t.startsWith("fs=")) console.log(`title font ${t.slice(3)}vw (the 10% title was 6.1vw)`);
     console.log('wrote', file, w + 'x' + h);
   }
   await browser.close();

@@ -1,0 +1,16 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Wall stages</title>
+<style>
+@font-face{font-family:Inter;src:url(../fonts/Inter-400-normal.woff2) format('woff2');font-weight:100 900}
+*{box-sizing:border-box;margin:0;padding:0}
+body{width:1920px;height:1080px;background:#f4f1ea;font-family:Inter,Arial,sans-serif;display:flex;align-items:flex-end;justify-content:center;padding-bottom:70px}
+.wall{display:flex;flex-direction:column-reverse;gap:14px;width:1500px}
+.b{height:150px;border-radius:10px;background:#b9483a;color:#fff;display:flex;align-items:center;justify-content:space-between;padding:0 48px;font-weight:900;font-size:64px;box-shadow:inset 0 -10px 0 rgba(0,0,0,.18)}
+.b .k{font-weight:800;font-size:48px;opacity:.85}
+.b.old{background:#8f6e66;opacity:.55}
+.b:nth-child(even){margin-left:60px;margin-right:-60px}
+</style></head><body><div class="wall" id="w"></div>
+<script>
+const S=[["23K","THE WHISPER"],["27K","THE NEGOTIATION"],["32K","WET CEMENT"],["36K","THE TUNNEL"],["40K","THE CLIFF"]];
+const n=+new URLSearchParams(location.search).get('n')||1;
+document.getElementById('w').innerHTML=S.slice(0,n).map((s,i)=>'<div class="b'+(i<n-1?' old':'')+'"><span>'+s[1]+'</span><span class="k">'+s[0]+'</span></div>').join('');
+</script></body></html>

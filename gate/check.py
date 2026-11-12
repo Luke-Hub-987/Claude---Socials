@@ -203,8 +203,8 @@ def run(path):
 
     # G10 title shape
     probs = []
-    if len(ost_lines) != 2:
-        probs.append(f"{len(ost_lines)} lines, not 2")
+    if len(ost_lines) != 2 and not (fm.get("ost_final_by_luke") and len(ost_lines) == 3):
+        probs.append(f"{len(ost_lines)} lines, not 2 (3 only as Luke's final title)")
     for l in ost_lines:
         if len(l) > 22:
             probs.append(f"'{l}' is {len(l)} characters (max 22)")
@@ -302,11 +302,34 @@ def run(path):
         probs.append(f"hook {hook_words} words (40 to 55, P198)")
     if not 280 <= total_words <= 330:
         probs.append(f"script {total_words} spoken words (280 to 330) [C3]")
-    if not re.search(r"\bsave this\b", " ".join(hook), re.I):
+    new_rules = str(fm.get("generated_at", "")) >= "2026-11-12"
+    if new_rules:
+        # P204 (Luke 12 Nov, the 10% rule data): save straight after stage 1's action, the send line
+        # straight after stage 2, no email ask in the body (last spoken line, or the pinned comment only)
+        mk_pos = [i for i, (k, _) in enumerate(items) if k == "marker"]
+        def between(a, b):
+            return " ".join(t for k, t in items[a:b] if k == "para")
+        if re.search(r"\bsave this\b", " ".join(hook), re.I):
+            probs.append("'save this' is in the hook (P204: straight after stage 1's action)")
+        if len(mk_pos) < 3 or not re.search(r"\bsave this\b", between(mk_pos[0], mk_pos[1]), re.I):
+            probs.append("no 'save this' in stage 1 or straight after it (P204)")
+        if len(mk_pos) < 3 or not re.search(r"\bsend (?:\w+ ){0,2}(?:this|it)\b", between(mk_pos[1], mk_pos[2]), re.I):
+            probs.append("no send line straight after stage 2 (P204)")
+        paras_only = [t for k, t in items if k == "para"]
+        body_cta = [t for t in paras_only[:-1] if re.search(r"link in (?:the )?bio", t, re.I)]
+        if body_cta:
+            probs.append(f"email ask in the body (P204, row 9): '{body_cta[0][:50]}...'")
+        pinned = section(text, "Pinned comment")
+        if not (re.search(r"link in (?:the )?bio", paras_only[-1] if paras_only else "", re.I) or re.search(r"link in (?:the )?bio", pinned or "", re.I)):
+            probs.append("no email ask in the last line or the pinned comment (P204)")
+        add("G19", not probs, "; ".join(probs) or f"hook {hook_words} words, script {total_words}, save after stage 1, send after stage 2, email ask at the end or pinned (P204)")
+    if not new_rules and not re.search(r"\bsave this\b", " ".join(hook), re.I):
         probs.append("no 'save this' in the hook [C10]")
-    if not re.search(r"\bsend (?:\w+ ){0,2}(?:this|it)\b", spoken, re.I):
+    if not new_rules and not re.search(r"\bsend (?:\w+ ){0,2}(?:this|it)\b", spoken, re.I):
         probs.append("no send line in the audio")
-    if cta_idx is None:
+    if new_rules:
+        pass
+    elif cta_idx is None:
         probs.append("no CTA (link in the bio)")
     else:
         mk_pos = [i for i, (k, _) in enumerate(items) if k == "marker"]
@@ -318,7 +341,8 @@ def run(path):
             probs.append(f"CTA is {len(sentences(cta))} sentences")
         if before > 150:
             probs.append(f"CTA starts at spoken word {before} (by 150, about 0:45)")
-    add("G19", not probs, "; ".join(probs) or f"hook {hook_words} words, script {total_words}, CTA after stage 1, save and send in")
+    if not new_rules:
+        add("G19", not probs, "; ".join(probs) or f"hook {hook_words} words, script {total_words}, CTA after stage 1, save and send in")
 
     # G20 stages
     ok = 3 <= len(markers) <= 5 and markers == markers_in_script
@@ -451,7 +475,10 @@ def run(path):
         m = re.search(r"Script hash:\s*([0-9a-f]+)", rv)
         if not m or (m.group(1) != h and not fixed and not override):
             probs.append(f"review is for another version (hash {m.group(1) if m else 'none'}, script {h}): list the fixes in `fixed_after_review:` or re-run the reviewer")
-        verdicts = dict(re.findall(r"^\|\s*(G\d+)\b[^|]*\|\s*(PASS|FAIL)\b", rv, re.M))
+        verdicts = {}
+        for t, v in re.findall(r"^\|\s*(G\d+)\b[^|]*\|\s*(PASS|FAIL)\b", rv, re.M):
+            if verdicts.get(t) != "FAIL":  # a FAIL on any row for a test stands (e.g. a G22 (P201) PASS row after a G22 FAIL)
+                verdicts[t] = v
         missing = [t for t in graded if t not in verdicts]
         if missing:
             probs.append(f"review has no verdict for {missing}")

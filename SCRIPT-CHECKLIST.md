@@ -530,3 +530,5 @@ twice without being checked against the winners (P99).
 - [ ] **Fix never phrased as the attacked thing (P201 amended):** no "add 10%" or "same number" when the title attacks the 10% rule; give the cut-off as distances.
 - [ ] **Even sentences, a study scene (P202):** no sentence of 6 words or fewer after one of 12+, none of 4 or fewer; one runner walked through the study's numbers.
 - [ ] **Orders, not suggestions (P203):** stop, do this, before your next long run; no might, could, try to, you may want to; the deadline out loud; exact on the evidence.
+- [ ] **The asks (P204):** save this straight after stage 1's action; the send line straight after stage 2; no email ask in the body (last line or pinned only).
+- [ ] **Title in one second (P205):** top band, full width, black bold on white, shot at phone size with spec=white; Luke and the title only until stage 1.
