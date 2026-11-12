@@ -32,7 +32,7 @@ A new script file copies the layout of
 
 ## Read before writing anything (in this order)
 
-0. **`GATE.md`: the 32 tests. It replaces the old quick reference and the
+0. **`GATE.md`: the 33 tests. It replaces the old quick reference and the
    checklist audit as the thing a script passes.**
 1. **`FACTS.md`: every number and practical detail in a script comes from
    here. Do the maths (grams an hour) before writing.**
@@ -125,6 +125,7 @@ table shows it.
   stack, Briar's frameworks, the numbers and the length stay as they are.
 - **Every beat turns (P199, Luke 11 Nov, Ogilvy):** but or so, never and then; every word counts; figures, not atmosphere; facts, not clichés. The humanizer checker flags them.
 - **Even sentences (P202, Luke 11 Nov):** no 3- or 4-word sentence, and no short one straight after a long one (the AI tell); join it on with but, so or because. A study reel walks one runner through the study's numbers. The humanizer checker flags it.
+- **Captivating (P206 to P208, Luke 12 Nov):** open on the myth killed or a goal-time call-out; one `Repeat line:` contrast pair (G33); the runner's own words aloud; the honest cost; the identity follow last; on screen, a count + escalation tag, the feeling word in red, the myth struck through per stage. The 60-second 3-item format is a trial reel only (`trial_format: 60s`).
 - **Urgent, opinionated, memorable (P200, Luke 11 Nov):** a real date to act on, a plain opinion backed by a fact, one line they'd repeat; nothing that could be in any running video.
 - **Scripts:** never in a code box or a block quote (both break when
   pasted into the teleprompter). Each spoken paragraph in straight

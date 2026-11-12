@@ -39,7 +39,9 @@ if(layout==='half'){const pic=q.get('pic')||'';h+='<div class="top">'+(pic.start
 h+='<div class="head"></div><div class="body"></div><div class="who">'+(q.get('who')||'LUKE · car · ERN running top (placeholder)')+'</div>';
 const spec=q.get('spec')==='white';  // P205 (Luke 12 Nov): top band, full width less 16px edges, black bold on a white box
 const tl=[q.get('t1')||'',q.get('t2')||'',q.get('t3')||''].filter(Boolean);
-h+='<div class="ost'+(spec?' white':'')+'" style="--ost-top:'+(q.get('ostTop')||(spec?'4%':(layout==='half'?'45%':'30%')))+'">'+tl.map(t=>'<span>'+t+'</span>').join('<br>')+'</div>';
+const red=(q.get('red')||'').split(',').filter(Boolean);  // P207: the feeling word in red
+const paint=t=>red.reduce((a,w)=>a.split(w).join('<b style="color:#d7261e;font-weight:900">'+w+'</b>'),t);
+h+='<div class="ost'+(spec?' white':'')+'" style="--ost-top:'+(q.get('ostTop')||(spec?'4%':(layout==='half'?'45%':'30%')))+'">'+tl.map(t=>'<span>'+paint(t)+'</span>').join('<br>')+'</div>';
 if(q.get('subs'))h+='<div class="subs">'+q.get('subs')+'</div>';
 if(q.get('zones')!=='0')h+='<div class="ui"></div><div class="uir"></div>';
 if(q.get('tag'))h+='<div class="tag">'+q.get('tag')+'</div>';

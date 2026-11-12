@@ -6085,6 +6085,53 @@ prints the type size against the 10% title's 6.1% of frame width). Luke and
 the title only until stage 1. A 22-character line caps the type at about 6.4%
 of the width, so short lines are what make a title big.
 
+## P206 — What captivates, the script half (Luke, 12 Nov, via the ideas chat)
+
+From Luke's 15 transcripts and 7 OSTs (`ideas/engine-room-nutrition/2026-11-12-captivating-patterns.md`).
+The evidence is other creators' winners (survivorship) plus one same-script,
+two-title pair (29.7K against 1,227 likes, dates unknown), so these are craft
+rules, not proven causes. Copy the structure, not the swagger (the Council).
+
+**The rules:**
+1. **Open on the myth said as if true, then kill it** ("Bank time while you
+   feel good. That's the worst advice in the marathon."), or on a call-out with
+   a goal time. Never on us (row 30, G1).
+2. **One repeat line: a contrast pair they'd say on a club run** ("tired isn't
+   injured"; "the runner passing at 35K, not the one being passed"). It's P200's
+   memorable line, made specific. Gate field `Repeat line:`, G33 AUTO.
+3. **One lived scene in tiny detail per stage** (P177, a repeat in their words:
+   the gel wrapper stuck to your hand, the watch you keep checking).
+4. **The exact words the runner says to themselves, said aloud** ("just walk
+   through this station").
+5. **The honest cost** of the advice ("people will pass you at 10K, and it'll
+   sting"): it makes the fix believable.
+6. **The identity follow is the last line:** "Follow if you want to be the one
+   passing people at 35K." Luke's name and credentials never open a video.
+7. **Proof from Luke goes inside stage 1 as one clause, never in line one and
+   never dated** ("this morning" dates the reel, row 19; Luke first breaks row 30).
+
+## P207 — What captivates, the screen half (Luke, 12 Nov)
+
+1. **A count plus an escalation tag beats a plain "how to"** (the 29.7K / 1,227
+   pair): (EACH ONE MORE BRUTAL), (PROGRESSIVELY HARDER).
+2. **One feeling word in the title in red** (BRUTAL): `shoot_frame.js "...&red=BRUTAL"`.
+3. **On a myth-and-truth script, the top band crosses the myth out in red and
+   writes the truth under it, one per stage** (`motion/plan-frames/wall-myths.html`).
+
+## P208 — The 60-second trial (Luke, 12 Nov): trial reels only
+
+Their tightest reels run 51 to 65 seconds: a 15 to 25 word hook, item 1 by
+0:07, 3 named items of about 15 seconds (plain name, who uses it, extreme and
+true; the exact instruction with a number; what changes, as an identity).
+**Trial it once, to strangers, not on the profile:** front matter
+`trial_format: 60s` sets G19 to a 20 to 30 word hook and 140 to 190 spoken
+words, and requires a trial-reel format. P198 (40 to 55) stays the profile rule
+until the trial reads. First candidate: 3 'LAZY' HABITS OF / SUB-4 MARATHONERS /
+(AND YES, LAZY), once Luke sends his 3 habits.
+
+**Not ours:** swearing or "stupidest" (brand list), famous faces, jargon method
+names (P157), unnamed studies (FACTS), the "promise me" bit.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

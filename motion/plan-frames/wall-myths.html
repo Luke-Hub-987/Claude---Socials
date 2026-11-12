@@ -1,0 +1,21 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Wall myths</title>
+<style>
+@font-face{font-family:Inter;src:url(../fonts/Inter-400-normal.woff2) format('woff2');font-weight:100 900}
+*{box-sizing:border-box;margin:0;padding:0}
+body{width:1920px;height:1080px;background:#18222f;font-family:Inter,Arial,sans-serif;color:#fff;display:flex;flex-direction:column;justify-content:center;padding:0 140px}
+.lab{font-size:54px;font-weight:800;color:#9fb0c4;letter-spacing:2px;margin-bottom:46px}
+.myth{position:relative;display:inline-block;align-self:flex-start;font-size:104px;font-weight:900;color:#c9d1db;opacity:.9}
+.myth:after{content:"";position:absolute;left:-14px;right:-14px;top:52%;height:16px;background:#e0261f;border-radius:8px;transform:rotate(-2deg)}
+.arrow{font-size:80px;font-weight:900;color:#e0261f;margin:24px 0 10px}
+.truth{display:inline-block;align-self:flex-start;background:#fff;color:#000;font-size:118px;font-weight:900;padding:6px 28px;border-radius:8px}
+</style></head><body>
+<div class="lab" id="l"></div><div class="myth" id="m"></div><div class="arrow">&darr;</div><div class="truth" id="t"></div>
+<script>
+const S=[["STAGE 1 · 23K · THE WHISPER","BANK TIME","BACK OFF 5 SECONDS"],
+["STAGE 2 · 27K · THE NEGOTIATION","LISTEN TO YOUR BODY","TIRED ISN'T INJURED"],
+["STAGE 3 · 32K · WET CEMENT","CHUG A SPORTS DRINK","GEL, THEN EASE OFF"],
+["STAGE 4 · 36K · THE TUNNEL","REMEMBER YOUR WHY","NEXT LAMPPOST"],
+["STAGE 5 · 40K · THE CLIFF","EMPTY THE TANK","ONE FOOT AT A TIME"]];
+const s=S[(+new URLSearchParams(location.search).get('n')||1)-1];
+l.textContent=s[0];m.textContent=s[1];t.textContent=s[2];
+</script></body></html>

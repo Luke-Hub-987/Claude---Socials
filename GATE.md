@@ -8,7 +8,7 @@ reviewer: .claude/agents/gate-reviewer.md (the REVIEWER tests)
 mockup: gate/frame.html + gate/shoot_frame.js (G15)
 ---
 
-# GATE.md: 32 tests every script passes before Luke sees it
+# GATE.md: 33 tests every script passes before Luke sees it
 
 Luke, 4 Nov: "Every video has to pass every principle we've learnt BEFORE I
 see it." This file replaces the self-graded ledger table, the 151-line
@@ -355,6 +355,17 @@ source). One post (P174), but the mechanism is plain: followers had seen it.
 **From:** P195 (Luke 10 Nov), ledger row 31, C21
 
 ---
+
+
+### G33 · One line they'd repeat · AUTO (from 12 Nov)
+**Test:** The Gate fields carry `Repeat line:`, one contrast pair a runner would
+say on a club run ("tired isn't injured"), and it's spoken word for word.
+**Evidence:** every captivating script in Luke's pack has one ("You respond when
+you are ready, not when you are triggered"); P200's "one line they'd repeat"
+was in the rules but nothing checked it.
+**From:** P206, P200
+**60-second trial (P208):** with `trial_format: 60s` (trial reels only), G19 takes a
+20 to 30 word hook and 140 to 190 spoken words.
 
 ## E. The body
 

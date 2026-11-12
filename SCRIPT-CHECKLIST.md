@@ -532,3 +532,6 @@ twice without being checked against the winners (P99).
 - [ ] **Orders, not suggestions (P203):** stop, do this, before your next long run; no might, could, try to, you may want to; the deadline out loud; exact on the evidence.
 - [ ] **The asks (P204):** save this straight after stage 1's action; the send line straight after stage 2; no email ask in the body (last line or pinned only).
 - [ ] **Title in one second (P205):** top band, full width, black bold on white, shot at phone size with spec=white; Luke and the title only until stage 1.
+- [ ] **Captivating script (P206):** myth said as if true then killed, or a goal-time call-out (never us); a `Repeat line:` contrast pair spoken word for word (G33); a tiny lived scene per stage; the runner's own words aloud; the honest cost; the identity follow last; Luke's proof one clause in stage 1, undated.
+- [ ] **Captivating screen (P207):** count + escalation tag in the title where it's true; the feeling word in red; myth struck through in red with the truth under it, per stage.
+- [ ] **60-second trial (P208):** only with `trial_format: 60s` on a trial reel; 20 to 30 word hook, item 1 by 0:07, 3 named items, 140 to 190 words.

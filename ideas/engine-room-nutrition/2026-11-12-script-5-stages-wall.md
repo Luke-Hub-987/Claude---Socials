@@ -3,6 +3,7 @@ type: script (gated)
 gate: v1
 brief_ok: Luke 12 Nov ("brief_ok: yes", the section "Luke's stages (12 Nov), vetted" in ideas/engine-room-nutrition/2026-11-10-brief-5-stages-wall.md)
 fixed_after_review: G21, G22, G23. G21 (caption band is sub-4 from FACTS, with miles), G22 ("since the start"; dizziness "is more than the wall"), G23 (the next gel with some water)
+post_review_edits: 12 Nov after the review: the identity follow as the last line (P206, Luke), two trims to fit ("with water", "emptied")
 luke_override: G29 ("Stage 5 is the one nobody warns you about." is Luke's rehook, word for word, 12 Nov)
 ost_final_by_luke: 12 Nov (THE MARATHON WALL / HITS YOU IN 5 STAGES / (EACH ONE MORE BRUTAL), 3 lines; changed from THE 5 STAGES OF THE / MARATHON WALL the same day)
 stats_ok_by_luke: 12 Nov (his stage Ks, said as stages, not a study)
@@ -18,13 +19,14 @@ format: profile post as the collab with luke_morrison_er (+ FB) + a fresh ERN Ti
 - OST: THE MARATHON WALL / HITS YOU IN 5 STAGES / (EACH ONE MORE BRUTAL)
 - Markers: 23K: THE WHISPER / 27K: THE NEGOTIATION / 32K: WET CEMENT / 36K: THE TUNNEL / 40K: THE CLIFF
 - Gap phrase: it didn't hit you at 32K
+- Repeat line: tired isn't injured
 - Gap held by: "We call the first one the Whisper."
 - Gap closed by: 40K: THE CLIFF
 - Turn: "If you've ever hit the wall, it didn't hit you at 32K, it came in 5 stages."
 - Frame one: Luke and the title only, the title in the top band, full width, black bold on a white box (P205); nothing else until stage 1. From stage 1, one brick per stage in the top band with the stage name
 - Frame one words: title only
-- Top-band frames from stage 1: `motion/plan-frames/wall-1.png` to `wall-5.png` (page `motion/plan-frames/wall-stages.html`, 16:9): the wall builds a brick per stage, the current stage red, the K on each brick
-- Mockup: ideas/engine-room-nutrition/mockups/2026-11-14-5-stages-wall-frame-one.png
+- Top-band frames from stage 1 (P207, recommended): `motion/plan-frames/wall-myth-1.png` to `wall-myth-5.png` (page `motion/plan-frames/wall-myths.html`, 16:9): the myth struck through in red, the truth under it (BANK TIME / BACK OFF 5 SECONDS; LISTEN TO YOUR BODY / TIRED ISN'T INJURED; CHUG A SPORTS DRINK / GEL, THEN EASE OFF; REMEMBER YOUR WHY / NEXT LAMPPOST; EMPTY THE TANK / ONE FOOT AT A TIME). The brick build (`wall-1.png` to `wall-5.png`) stays as the fallback
+- Mockup: ideas/engine-room-nutrition/mockups/2026-11-14-5-stages-wall-v2-frame-one.png
 - Layer title: the wall comes in 5 stages, each worse (which stages? the gap)
 - Layer picture: none (Luke and the title)
 - Layer line one: new to the title (row 29): not 32K, and the first stage at 23K while you can still stop it
@@ -84,7 +86,7 @@ stage 1. New shape: no "spot it and" or "after watching this" (row 16).
 
 **[32K: WET CEMENT]**
 
-"At 32K, your legs answer half a second late, so runners drift past in slow motion. Everyone says chug a sports drink, but one drink won't refill a tank you've been emptying since the start. So take your next gel with some water, and ease off by 15 to 20 seconds a K. Hold that for 10 minutes with short, quick steps."
+"At 32K, your legs answer half a second late, so runners drift past in slow motion. Everyone says chug a sports drink, but one drink won't refill a tank you've emptied since the start. So take your next gel with water, and ease off 15 to 20 seconds a K. Hold that for 10 minutes with short, quick steps."
 
 **[36K: THE TUNNEL]**
 
@@ -97,6 +99,8 @@ stage 1. New shape: no "spot it and" or "after watching this" (row 16).
 "After 40K, every K gets slower while it feels like a sprint. Everyone says empty the tank and kick, but it's already empty, so it's one foot after the other to the foil blanket. But shivering, dizziness or weaving across the road is more than the wall, so go to the medical tent."
 
 "Hear the Whisper at 23K and you never meet the Tunnel."
+
+"Follow if you want to be the one passing people at 35K."
 
 ## Caption
 If you've hit the wall, it didn't come out of nowhere at 32K. It came in 5 stages, and the first one shows up at 23K, while a small change still stops it.
@@ -143,7 +147,8 @@ Want a plan that keeps you out of all 5? Email us your race and goal time throug
 ## Urgent, opinionated, memorable (P200)
 - Urgency: 23K is the last place a small change works; spring blocks start 23 November (caption-free, the reel is evergreen).
 - Opinion: "it's a loan the wall collects"; "tired isn't injured"; "your why is 6K away".
-- Memorable: "Hear the Whisper at 23K and you never meet the Tunnel."
+- Memorable: "Hear the Whisper at 23K and you never meet the Tunnel." Repeat line: "tired isn't injured" (G33).
+- Identity follow (P206): "Follow if you want to be the one passing people at 35K." Luke's credentials never open it.
 
 ## Known risks (pre-mortem, P196: judgement calls, ungraded)
 - **G8 (repeats):** the wall is our most-covered topic. What's new: the stages, the Whisper at 23K, the myth per stage. Start slow isn't said at all; the sugar-and-slow fix repeats the out-of-the-wall reel on purpose (one sentence).

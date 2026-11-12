@@ -270,6 +270,16 @@ def run(path):
         probs31.append(f"'## The 4 questions' has {len(answered)} of 4 answered")
     add("G31", not probs31, "; ".join(probs31) or "turn named and spoken before the method; the 4 questions answered (the reviewer judges if it's new)")
 
+    # G33 the repeat line (Luke 12 Nov, P206): one contrast pair they'd say on a club run, named and spoken
+    if str(fm.get("generated_at", "")) >= "2026-11-12":
+        rep = re.sub(r'^["\u201c]|["\u201d]$', "", f.get("repeat line", "").strip())
+        rep_toks = " ".join(norm_tokens(rep))
+        all_toks = " ".join(norm_tokens(" ".join(paras)))
+        if not rep_toks:
+            add("G33", False, "no 'Repeat line:' in the Gate fields (one contrast pair they'd repeat, P206)")
+        else:
+            add("G33", rep_toks in all_toks, f"repeat line '{rep}'" + ("" if rep_toks in all_toks else " isn't spoken word for word"))
+
     # G32 a profile sequel is a new reel (Luke 10 Nov, P195): one-change only as a trial; on the profile, 7+ days after the parent
     if fm.get("sequel_of"):
         fmt = fm.get("format", "").lower()
@@ -298,10 +308,15 @@ def run(path):
     total_words = len(words(spoken))
     cta_idx = next((i for i, (k, t) in enumerate(items) if k == "para" and re.search(r"link in (?:the )?bio", t, re.I)), None)
     probs = []
-    if not 40 <= hook_words <= 55:
-        probs.append(f"hook {hook_words} words (40 to 55, P198)")
-    if not 280 <= total_words <= 330:
-        probs.append(f"script {total_words} spoken words (280 to 330) [C3]")
+    sixty = "60s" in str(fm.get("trial_format", ""))   # P208: the 60-second 3-item trial, trial reels only
+    lo, hi = (20, 30) if sixty else (40, 55)
+    if not lo <= hook_words <= hi:
+        probs.append(f"hook {hook_words} words ({lo} to {hi}, {'P208 trial' if sixty else 'P198'})")
+    tlo, thi = (140, 190) if sixty else (280, 330)
+    if not tlo <= total_words <= thi:
+        probs.append(f"script {total_words} spoken words ({tlo} to {thi}) [C3]")
+    if sixty and "trial" not in str(fm.get("format", "")).lower():
+        probs.append("trial_format: 60s posts as a trial reel only (P208)")
     new_rules = str(fm.get("generated_at", "")) >= "2026-11-12"
     if new_rules:
         # P204 (Luke 12 Nov, the 10% rule data): save straight after stage 1's action, the send line
