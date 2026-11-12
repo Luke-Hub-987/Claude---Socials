@@ -3,7 +3,7 @@ type: script (gated)
 gate: v1
 brief_ok: Luke 12 Nov ("brief_ok: yes", the section "Luke's stages (12 Nov), vetted" in ideas/engine-room-nutrition/2026-11-10-brief-5-stages-wall.md)
 fixed_after_review: G21, G22, G23. G21 (caption band is sub-4 from FACTS, with miles), G22 ("since the start"; dizziness "is more than the wall"), G23 (the next gel with some water)
-post_review_edits: 12 Nov after the review: the identity follow as the last line (P206, Luke), two trims to fit ("with water", "emptied")
+post_review_edits: 12 Nov, P206 pass: line one no longer repeats the title (row 29), the honest cost at the Whisper, the lawyer's own words aloud, ONE FOOT AT A TIME to match the top band; earlier: the identity follow as the last line (P206, Luke), two trims to fit ("with water", "emptied")
 luke_override: G29 ("Stage 5 is the one nobody warns you about." is Luke's rehook, word for word, 12 Nov)
 ost_final_by_luke: 12 Nov (THE MARATHON WALL / HITS YOU IN 5 STAGES / (EACH ONE MORE BRUTAL), 3 lines; changed from THE 5 STAGES OF THE / MARATHON WALL the same day)
 stats_ok_by_luke: 12 Nov (his stage Ks, said as stages, not a study)
@@ -22,7 +22,7 @@ format: profile post as the collab with luke_morrison_er (+ FB) + a fresh ERN Ti
 - Repeat line: tired isn't injured
 - Gap held by: "We call the first one the Whisper."
 - Gap closed by: 40K: THE CLIFF
-- Turn: "If you've ever hit the wall, it didn't hit you at 32K, it came in 5 stages."
+- Turn: "If you've ever hit the wall, it didn't hit you at 32K."
 - Frame one: Luke and the title only, the title in the top band, full width, black bold on a white box (P205); nothing else until stage 1. From stage 1, one brick per stage in the top band with the stage name
 - Frame one words: title only
 - Top-band frames from stage 1 (P207, recommended): `motion/plan-frames/wall-myth-1.png` to `wall-myth-5.png` (page `motion/plan-frames/wall-myths.html`, 16:9): the myth struck through in red, the truth under it (BANK TIME / BACK OFF 5 SECONDS; LISTEN TO YOUR BODY / TIRED ISN'T INJURED; CHUG A SPORTS DRINK / GEL, THEN EASE OFF; REMEMBER YOUR WHY / NEXT LAMPPOST; EMPTY THE TANK / ONE FOOT AT A TIME). The brick build (`wall-1.png` to `wall-5.png`) stays as the fallback
@@ -66,21 +66,21 @@ stage 1. New shape: no "spot it and" or "after watching this" (row 16).
 
 ## Script
 
-"If you've ever hit the wall, it didn't hit you at 32K, it came in 5 stages. The first one shows up at 23K, while you can still stop it."
+"If you've ever hit the wall, it didn't hit you at 32K. The first stage shows up at 23K, while you can still stop it."
 
-"Miss it, and by 36K you're walking while runners who caught it pass you."
+"Miss it, and by 36K you're walking while others pass you."
 
 "We call the first one the Whisper."
 
 **[23K: THE WHISPER]**
 
-"At 23K, the same pace takes effort, and you're staring at the road 3 metres ahead. Everyone says bank time early, but it's a loan the wall collects. So back off one 5-second band now, while a small change still works."
+"At 23K, the same pace takes effort, so you stare at the road 3 metres ahead. Everyone says bank time early, but it's a loan the wall collects. So back off one 5-second band now, while a small change works. It'll sting when people pass you, but you're trading seconds for minutes."
 
 "Save this, so you know what to listen for at 23K."
 
 **[27K: THE NEGOTIATION]**
 
-"By 27K, your brain's a crooked lawyer, selling you a walk through this station. Everyone says listen to your body, but tired isn't injured, so drink on the move instead of the walk you didn't plan."
+"By 27K, your brain's a crooked lawyer saying, just walk this station. Everyone says listen to your body, but tired isn't injured, so drink on the move instead of the walk you didn't plan."
 
 "Send this to whoever you're running the spring with, so one of you hears the Whisper."
 
@@ -96,7 +96,7 @@ stage 1. New shape: no "spot it and" or "after watching this" (row 16).
 
 **[40K: THE CLIFF]**
 
-"After 40K, every K gets slower while it feels like a sprint. Everyone says empty the tank and kick, but it's already empty, so it's one foot after the other to the foil blanket. But shivering, dizziness or weaving across the road is more than the wall, so go to the medical tent."
+"After 40K, every K gets slower while it feels like a sprint. Everyone says empty the tank and kick, but it's empty, so it's one foot at a time to the foil blanket. But shivering, dizziness or weaving across the road is more than the wall, so go to the medical tent."
 
 "Hear the Whisper at 23K and you never meet the Tunnel."
 
