@@ -72,3 +72,55 @@ script: ideas/engine-room-nutrition/2026-11-11-script-10-percent-rule.md (filmed
 TikTok: 600 to 900 lifetime (flat after the first batch, as the last three were).
 Instagram + Facebook: no read until Luke sends the screenshots; November profile
 reels have landed at 2K to 6K at 5h.
+
+## Instagram + Facebook at about 13.5 hours (Luke's screenshots 10:19, 12 Nov)
+| | Views | Skip | Avg watch | Saves | Shares | Likes | Follows | Top source |
+|---|---|---|---|---|---|---|---|---|
+| **10% rule (1:31), ~13.5h** | **7,238** (2,260 IG, 4,978 FB), 1,833 viewers | **41.1% (Lower)** | 16s | 7, 0.4% (Lower) | 0.1% (Lower) | 15, 0.5% (Lower) | 0 | **Reels tab, about 50%** |
+| Sub-4 (secretly), 14h | 7,199 (3,818 IG) | 44.5% | 23s | 2.3% | 0.4% | 1.3% | 0 | n/a |
+| Ranking, 5h | 1,406 (1,065 IG) | 48.0% | 17s | 0.5% | 0.2% | n/a | 0 | n/a |
+| Sub-4:30 (secretly), 10h | 3,616 (793 IG) | 51.3% (Higher) | 10s | 1.0% | 0.0% | 1.1% | 0 | Feed |
+
+- **Total views match our best this month at the same hour** (the sub-4 parent,
+  7,199 at 14h), but Facebook carried 69% of them, and IG has 2,260 against the
+  parent's 3,818.
+- **The IG curve kept up with a typical reel for 2 hours (about 1.6K), then went
+  flat overnight:** 2,260 at about 13h against a typical 3.2K.
+- **Retention (IG):** half gone by about 0:04, about a quarter left at 0:14, then
+  **a step down at about 0:38 to 0:45, to about 10%**, and about 3% at the end.
+
+## What the IG numbers change
+1. **I was wrong to read the TikTok drop as the title losing everyone.** On IG,
+   41.1% skip is the lowest of our last four at this stage, the reading was
+   "Lower", and the Reels tab was the top source, so it reached strangers (the
+   sub-4:30 stopped at followers). TikTok's 0:01 drop happens on every ERN
+   TikTok (0:02 on the ranking), so it's the account as much as the title. The
+   title spec stays because it's free and every example uses it, but the title
+   wasn't the main cause.
+2. **The step at 0:38 to 0:45 is the CTA.** In the teleprompter, "Email us your
+   race and goal time..." runs from about 0:32 to 0:36, and the worked example
+   starts after it. That's ledger row 9 (a CTA cliff) again: half of the people
+   still there left at the ask. **A repeat, and my miss:** the brief kept the CTA
+   after stage 1 without checking it against the last cliff.
+3. **The reason to send came at 1:26, when about 3% were left.** "Got a running
+   mate still adding 10% a week?... send it on" was the last line, so almost
+   nobody heard it: shares 0.1%, 0 reposts. Saves at 0.4% for the same reason:
+   "save this" came at 0:10, before they knew what the 30-day check was worth.
+4. **Evening posts flatten overnight, now 2 for 2.** Sub-4:30 (8:30pm Sunday) and
+   this (8:47pm Wednesday) both stopped climbing after the first hours; the
+   sub-4 parent (7:13am) kept climbing all day. It's consistent, not proof
+   (P174), but posting at 7am costs nothing.
+
+## So what changes (added to the list above)
+- **The CTA moves to the end, or off the reel into the pinned comment.** Nothing
+  between stage 1 and the worked example asks them to leave.
+- **The send line goes in the middle, straight after the worked example**
+  (about 0:45 to 0:50, where about 10% are left, not 3%).
+- **"Save this" goes after the first number they'd want to keep** (the 17.6K),
+  not at 0:10.
+- **7am posting, every post.**
+
+## Forecast, revised (P171)
+The sub-4 parent went from 7,199 at 14h to 10.4K at 3 days. This one, from the
+same start with weaker saves and shares: **9K to 12K lifetime, mostly
+Facebook.** TikTok 600 to 900.
