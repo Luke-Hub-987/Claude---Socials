@@ -6129,8 +6129,23 @@ words, and requires a trial-reel format. P198 (40 to 55) stays the profile rule
 until the trial reads. First candidate: 3 'LAZY' HABITS OF / SUB-4 MARATHONERS /
 (AND YES, LAZY), once Luke sends his 3 habits.
 
-**Not ours:** swearing or "stupidest" (brand list), famous faces, jargon method
+**Not ours:** "stupidest" and insults (swearing itself is fine since P209), famous faces, jargon method
 names (P157), unnamed studies (FACTS), the "promise me" bit.
+
+## P209 — Swearing is OK, in moderation (Luke, 12 Nov)
+
+Luke: "We can swear, it's okay." It replaces the brand-list line (playbook rule
+5) and P206's "not ours: swearing". **The rule:** mild swearing in the audio is
+fine when it's how Luke talks ("piss away 16 weeks of training"): one a script,
+about the cost, never at the viewer or at other people. Keep it out of the OST
+and the caption's first line: TikTok and IG can hold back text they read as
+profanity, and that's the part they rank. Still not ours: insults ("garbage",
+"stupidest") aimed at people or their advice.
+
+Also Luke's call on the same line: it opens on a negative ("If you don't want
+to..."), against P197's "never a negative first". It's Briar's pain-first
+shape, so it's allowed for line one when the second sentence gives the turn
+and the number (the wall starts at 23K).
 
 ## Open questions for Luke
 

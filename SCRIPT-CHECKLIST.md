@@ -535,3 +535,4 @@ twice without being checked against the winners (P99).
 - [ ] **Captivating script (P206):** myth said as if true then killed, or a goal-time call-out (never us); a `Repeat line:` contrast pair spoken word for word (G33); a tiny lived scene per stage; the runner's own words aloud; the honest cost; the identity follow last; Luke's proof one clause in stage 1, undated.
 - [ ] **Captivating screen (P207):** count + escalation tag in the title where it's true; the feeling word in red; myth struck through in red with the truth under it, per stage.
 - [ ] **60-second trial (P208):** only with `trial_format: 60s` on a trial reel; 20 to 30 word hook, item 1 by 0:07, 3 named items, 140 to 190 words.
+- [ ] **Swearing (P209):** mild, one a script, in the audio about the cost; never in the OST or caption line one; never at people.
