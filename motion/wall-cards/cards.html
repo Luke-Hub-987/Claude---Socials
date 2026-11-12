@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Wall Text Cards</title>
+<!-- THE MARATHON WALL / HITS YOU IN 5 STAGES / (EACH ONE MORE BRUTAL) (12 Nov): on-screen text cards in the style Luke sent (a dark box, heavy white capitals,
+     one word on a colour block, one plain line under), in ERN colours. Transparent PNGs, 1048 wide (1080 less the 16px edges, P205).
+     The highlight gets hotter each stage (each one more brutal): blue, gold, coral, red, deep red. ?c=title or ?c=1..5 -->
+<style>
+@font-face{font-family:'Barlow Condensed';font-weight:800;src:url(../fonts/BarlowCondensed-800-normal.woff2) format('woff2');}
+@font-face{font-family:Inter;src:url(../fonts/Inter-400-normal.woff2) format('woff2');font-weight:100 900;}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{background:transparent}
+.card{width:1048px;background:rgba(12,24,40,.95);border-radius:30px;padding:34px 40px 36px}
+.l{font-family:'Barlow Condensed',sans-serif;font-weight:800;color:#fff;line-height:1.02;letter-spacing:.5px;white-space:nowrap}
+.eb{font-family:'Barlow Condensed',sans-serif;font-weight:800;font-size:44px;letter-spacing:4px;color:#9fb0c6;margin-bottom:6px}
+.hl{display:inline-block;border-radius:10px;padding:2px 18px 0;margin-top:8px}
+.sub{font-family:Inter,sans-serif;font-weight:600;color:#fff;font-size:44px;line-height:1.25;margin-top:22px}
+</style>
+</head>
+<body>
+<div class="card" id="card"></div>
+<script>
+const C={
+  title:{lines:['THE MARATHON <span class="hl" style="background:#1f7ae0">WALL</span>','HITS YOU IN 5 STAGES'],sub:'(Each one more brutal)'},
+  1:{eb:'STAGE 1 · 23K',lines:['THE <span class="hl" style="background:#1f7ae0">WHISPER</span>'],sub:'Back off one 5-second band, now.'},
+  2:{eb:'STAGE 2 · 27K',lines:['THE <span class="hl" style="background:#f5b52e;color:#0c1828">NEGOTIATION</span>'],sub:'Drink on the move instead of walking.'},
+  3:{eb:'STAGE 3 · 32K',lines:['WET <span class="hl" style="background:#ff8a80;color:#0c1828">CEMENT</span>'],sub:'Gel with water, then 15 to 20 seconds a K slower for 10 minutes.'},
+  4:{eb:'STAGE 4 · 36K',lines:['THE <span class="hl" style="background:#d9473f">TUNNEL</span>'],sub:'Shrink the race to the next lamppost.'},
+  5:{eb:'STAGE 5 · 40K',lines:['THE <span class="hl" style="background:#9e1f17">CLIFF</span>'],sub:'One foot after the other. Shivering, dizzy or weaving: medical tent.'},
+};
+const k=new URLSearchParams(location.search).get('c')||'title',d=C[k];
+const card=document.getElementById('card');
+card.innerHTML=(d.eb?`<div class="eb">${d.eb}</div>`:'')+d.lines.map(l=>`<div class="l">${l}</div>`).join('')+`<div class="sub">${d.sub}</div>`;
+/* as big as the longest line allows (P205) */
+window.fit=()=>{let s=k==='title'?150:144;const ls=[...card.querySelectorAll('.l')];
+  const w=968;ls.forEach(l=>l.style.fontSize=s+'px');
+  while(ls.some(l=>l.scrollWidth>w)&&s>40){s-=2;ls.forEach(l=>l.style.fontSize=s+'px')}return s};
+</script>
+</body>
+</html>

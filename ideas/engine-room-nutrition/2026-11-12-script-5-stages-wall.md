@@ -4,7 +4,7 @@ gate: v1
 brief_ok: Luke 12 Nov ("brief_ok: yes", the section "Luke's stages (12 Nov), vetted" in ideas/engine-room-nutrition/2026-11-10-brief-5-stages-wall.md)
 fixed_after_review: G21, G22, G23. G21 (caption band is sub-4 from FACTS, with miles), G22 ("since the start"; dizziness "is more than the wall"), G23 (the next gel with some water)
 luke_override: G29 ("Stage 5 is the one nobody warns you about." is Luke's rehook, word for word, 12 Nov)
-ost_final_by_luke: 12 Nov (THE 5 STAGES OF THE / MARATHON WALL / (EACH ONE MORE BRUTAL), 3 lines)
+ost_final_by_luke: 12 Nov (THE MARATHON WALL / HITS YOU IN 5 STAGES / (EACH ONE MORE BRUTAL), 3 lines; changed from THE 5 STAGES OF THE / MARATHON WALL the same day)
 stats_ok_by_luke: 12 Nov (his stage Ks, said as stages, not a study)
 generated_at: 2026-11-12
 teleprompter: 2026-11-12-teleprompter-5-stages-wall.txt
@@ -12,10 +12,10 @@ basis: the brief (Luke's stages, vetted); the 10% rule review (ideas/2026-11-12-
 format: profile post as the collab with luke_morrison_er (+ FB) + a fresh ERN TikTok upload, Fri 14 Nov 7am. Filmed 12 Nov
 ---
 
-# THE 5 STAGES OF THE / MARATHON WALL / (EACH ONE MORE BRUTAL)
+# THE MARATHON WALL / HITS YOU IN 5 STAGES / (EACH ONE MORE BRUTAL)
 
 ## Gate fields
-- OST: THE 5 STAGES OF THE / MARATHON WALL / (EACH ONE MORE BRUTAL)
+- OST: THE MARATHON WALL / HITS YOU IN 5 STAGES / (EACH ONE MORE BRUTAL)
 - Markers: 23K: THE WHISPER / 27K: THE NEGOTIATION / 32K: WET CEMENT / 36K: THE TUNNEL / 40K: THE CLIFF
 - Gap phrase: it didn't hit you at 32K
 - Gap held by: "We call the first one the Whisper."
