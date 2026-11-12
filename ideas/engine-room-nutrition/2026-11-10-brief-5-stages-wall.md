@@ -156,3 +156,9 @@ turn (P199).
 - **Chairman:** go, with Luke's names and pictures, the changes above (the
   enemy, fuel kept, walk "you didn't plan", the safety line, the payoff at the
   Whisper), and the pinned comment "Which stage did you get to?"
+
+## OST v2 after the pre-mortem (12 Nov)
+**THE MARATHON WALL / HITS YOU IN 5 STAGES / (EACH ONE MORE BRUTAL)** (17 / 20 / 22).
+Line one: "If you've ever hit the wall at 32K, the first warning came at 23K, and
+that's the only stage where you can still stop it." Why: `2026-11-12-wall-ost-premortem.md`.
+These replace the OST and line one above.
