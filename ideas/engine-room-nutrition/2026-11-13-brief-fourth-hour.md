@@ -170,3 +170,37 @@ minutes. That's wrong, but the truth is worse, because the hour they don't cover
 is the one with the finish line in it." (37 words)
 
 The repeat line, the method and the facts above stay as they are.
+
+## OST v3 after the pre-mortem (Luke, 13 Nov: "really strong... like the nerves of steel difference")
+**4-HOUR MARATHONS DIE / IN HOUR 4 / (EVEN THE FIT ONES)** (20 / 9 / 19), DIE in red.
+
+### Why v2 (4-HOUR MARATHONER? / YOUR BODY QUITS / AT 3 HOURS) would flop
+| Critic | What they'd pick out |
+|---|---|
+| **Ogilvy** | The top line is a filter, not a headline: "4-HOUR MARATHONER?" spends the most-read words asking a question. "Quits" is blind: quits what? Nothing tells you it's fuel, so it reads as mood or injury. No news and no stake for the reader beyond a vague threat |
+| **Briar** | The call-out is the spoken gate, not the OST. "Quits" is a word you're told, not a picture you see. No count, no stages, nothing that promises the video gets better as it goes |
+| **The nerves of steel pair** | The 24x title had a reason to stay to the end (the escalation in brackets). v2 is a flat statement: read it, done |
+| **Morning Coffee** | No visible enemy belief. His titles kill something people believe; v2 doesn't say what belief is wrong |
+| **"Cold" behaviours** | No unexpected word; "quits" is what you'd expect |
+| **The runner in the feed** | "I've run 3 hours in training and been fine": "AT 3 HOURS" invites disbelief before the reason arrives |
+
+### What v3 changes
+- **The top line is the verdict, with the pulse word in it:** 4-HOUR MARATHONS
+  DIE. No question, no "why", no filter.
+- **IN HOUR 4 repeats the 4** (memorable, the pub test) and is exactly true: at
+  4-hour pace the stores run short at about 3:02 (Rapoport), so the fade comes
+  in hour 4.
+- **(EVEN THE FIT ONES) is the sting and the fight:** it names the belief it
+  overturns (training will save me) and gives the reason to stay (why would
+  fitness not be enough?). The answer is the vetted fact: fitness doesn't add a
+  fourth hour of carbs; the pocket does.
+- **Truth check:** "die" means the fade in hour 4 for a runner who leaves it to
+  the body; line one gates it ("if you leave it to your body"). Trained runners
+  store more and burn more fat, but at 4-hour pace for a 4-hour runner the
+  stores are still finite, so "even the fit ones" holds. The payoff (the gels
+  carry the fourth hour) doesn't contradict it (row 32).
+
+### Line one (new to the title, G13)
+"Everyone says your carbs run out at 90 minutes. That's wrong, but leave it to
+your body and it's worse, because you carry about 3 hours, so the fourth is the
+one you have to bring." (38 words)
