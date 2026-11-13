@@ -154,3 +154,19 @@ hours, so the fourth hour is the one you have to bring." (42 words)
   Wed 19 Nov, 7am.
 - **Chairman:** go with YOU CARRY 3 HOURS OF / CARBS. YOUR RACE IS / 4 HOURS, the
   90-minute myth killed in line one, and "about" in front of every number.
+
+## OST v2 (Luke, 13 Nov: "that on-screen text absolutely sucks")
+**4-HOUR MARATHONER? / YOUR BODY QUITS / AT 3 HOURS** (18 / 15 / 10), QUITS in red.
+Scored 8 of 8 on `OST-SCORECARD.md` (v1 scored 2: a sum, no pulse word, no fight).
+- QUITS is betrayal: the thing they trust gives up on them. The call-out is the
+  biggest goal in our audience. 3 HOURS is the exact number, true at 4-hour pace
+  (Rapoport about 32K, about 3:02; Coyle about 3 hours). The fight: everyone
+  thinks they're fine, or that it's 90 minutes.
+- Doesn't contradict the payoff (row 32): the body's stores quit; the pocket
+  carries the fourth hour.
+
+**Line one (new to the title, G13):** "Everyone says your carbs run out at 90
+minutes. That's wrong, but the truth is worse, because the hour they don't cover
+is the one with the finish line in it." (37 words)
+
+The repeat line, the method and the facts above stay as they are.
