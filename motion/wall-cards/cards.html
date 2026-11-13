@@ -22,7 +22,7 @@ html,body{background:transparent}
 <div class="card" id="card"></div>
 <script>
 const C={
-  title:{lines:['THE MARATHON <span class="hl" style="background:#1f7ae0">WALL</span>','HITS YOU IN 5 STAGES'],sub:'(Each one more brutal)'},
+  title:{lines:['THE MARATHON WALL','HITS YOU IN 5 STAGES'],tail:'(EACH ONE MORE <span class="hl" style="background:#d9473f">BRUTAL</span>)'},
   1:{eb:'STAGE 1 · 23K',lines:['THE <span class="hl" style="background:#1f7ae0">WHISPER</span>'],sub:'Back off one 5-second band, now.'},
   2:{eb:'STAGE 2 · 27K',lines:['THE <span class="hl" style="background:#f5b52e;color:#0c1828">NEGOTIATION</span>'],sub:'Drink on the move instead of walking.'},
   3:{eb:'STAGE 3 · 32K',lines:['WET <span class="hl" style="background:#ff8a80;color:#0c1828">CEMENT</span>'],sub:'Gel with water, then 15 to 20 seconds a K slower for 10 minutes.'},
@@ -31,11 +31,11 @@ const C={
 };
 const k=new URLSearchParams(location.search).get('c')||'title',d=C[k];
 const card=document.getElementById('card');
-card.innerHTML=(d.eb?`<div class="eb">${d.eb}</div>`:'')+d.lines.map(l=>`<div class="l">${l}</div>`).join('')+`<div class="sub">${d.sub}</div>`;
+card.innerHTML=(d.eb?`<div class="eb">${d.eb}</div>`:'')+d.lines.map(l=>`<div class="l">${l}</div>`).join('')+(d.tail?`<div class="l t">${d.tail}</div>`:'')+(d.sub?`<div class="sub">${d.sub}</div>`:'');
 /* as big as the longest line allows (P205) */
-window.fit=()=>{let s=k==='title'?150:144;const ls=[...card.querySelectorAll('.l')];
+window.fit=()=>{let s=k==='title'?150:144;const ls=[...card.querySelectorAll('.l:not(.t)')];const tl=card.querySelector('.t');
   const w=968;ls.forEach(l=>l.style.fontSize=s+'px');
-  while(ls.some(l=>l.scrollWidth>w)&&s>40){s-=2;ls.forEach(l=>l.style.fontSize=s+'px')}return s};
+  while(ls.some(l=>l.scrollWidth>w)&&s>40){s-=2;ls.forEach(l=>l.style.fontSize=s+'px')}if(tl)tl.style.fontSize=Math.round(s*.62)+'px';return s};
 </script>
 </body>
 </html>
