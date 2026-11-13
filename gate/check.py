@@ -218,6 +218,13 @@ def run(path):
         m = rx(name).search(ost)
         if m:
             probs.append(f"{name.replace('_', ' ')}: '{m.group(0)}'")
+    if str(fm.get("generated_at", "")) >= "2026-11-13":
+        # P210 (Luke 13 Nov): every OST scores 9 or more of 10 on OST-SCORECARD.md before Luke sees it
+        m = re.search(r"(\d+)\s*/\s*10", f.get("ost score", ""))
+        if not m:
+            probs.append("no 'OST score: N/10' in the Gate fields (OST-SCORECARD.md, P210)")
+        elif int(m.group(1)) < 9:
+            probs.append(f"OST scores {m.group(1)}/10 (9 to show Luke, P210)")
     for mk in markers:
         if len(mk) > 22:
             probs.append(f"marker '{mk}' is {len(mk)} characters")

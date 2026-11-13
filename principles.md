@@ -6147,6 +6147,22 @@ to..."), against P197's "never a negative first". It's Briar's pain-first
 shape, so it's allowed for line one when the second sentence gives the turn
 and the number (the wall starts at 23K).
 
+## P210 — The OST scorecard: 9 of 10 or it doesn't reach Luke (Luke, 13 Nov)
+
+Luke: "You keep reverting to the mean... playing it safe, plain, boring... I
+have to push you every bloody time." YOU CARRY 3 HOURS OF / CARBS. YOUR RACE IS
+/ 4 HOURS scored 2 and he called it "absolutely sucks"; 4-HOUR MARATHONS DIE /
+IN HOUR 4 / (EVEN THE FIT ONES) scores 10.
+
+**The rule:** every OST is scored on `ideas/engine-room-nutrition/OST-SCORECARD.md`
+(10 tests: a pulse word; the viewer or their goal; read in one second; it picks
+a fight; one exact number or place; the Outsider stops; only we could post it;
+the pub test; a reason to stay to the end; the top line carries the pulse).
+**9 or more to show Luke, and the score goes next to every OST in chat.** The
+most aggressive true version goes first, every time: the facts make it careful,
+not the words. A title that's a sum fails "read in one second". Gate: the
+`OST score: N/10` field, checked in G10 from 13 Nov.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

@@ -16,6 +16,7 @@ const S=[["STAGE 1 · 23K · THE WHISPER","BANK TIME","BACK OFF 5 SECONDS"],
 ["STAGE 3 · 32K · WET CEMENT","CHUG A SPORTS DRINK","GEL, THEN EASE OFF"],
 ["STAGE 4 · 36K · THE TUNNEL","REMEMBER YOUR WHY","NEXT LAMPPOST"],
 ["STAGE 5 · 40K · THE CLIFF","EMPTY THE TANK","ONE FOOT AT A TIME"]];
-const s=S[(+new URLSearchParams(location.search).get('n')||1)-1];
+const Q=new URLSearchParams(location.search);
+const s=Q.get('myth')?[Q.get('lab')||'',Q.get('myth'),Q.get('truth')||'']:S[(+Q.get('n')||1)-1];  // any script: ?lab=&myth=&truth=
 l.textContent=s[0];m.textContent=s[1];t.textContent=s[2];
 </script></body></html>

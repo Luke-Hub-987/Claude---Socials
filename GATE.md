@@ -196,6 +196,8 @@ words (hacks, cheat code, maxxing, like you're 10), no dated words. Markers
 **Passes:** WHERE THE MARATHON / WALL ACTUALLY STARTS (18 + 22)
 **From:** P170, P89, P116, P167, P47, P61, P58, P15
 
+**From 13 Nov (P210, Luke):** the Gate fields carry `OST score: N/10` from `ideas/engine-room-nutrition/OST-SCORECARD.md`; under 9 fails.
+
 ### G11 · "In what?", and two of five · REVIEWER
 **Test:** Read cold, the title names the race, event or object in words
 people already say, and a non-runner gets it in one read. It carries at
