@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Hour Four Cards</title>
+<!-- 4-HOUR MARATHONS DIE / IN HOUR 4 / (EVEN THE FIT ONES) (13 Nov): text cards in the style Luke sent, ERN colours, DIE in red. Transparent PNGs, 1048 wide. ?c=title or ?c=1..5 -->
+<style>
+@font-face{font-family:'Barlow Condensed';font-weight:800;src:url(../fonts/BarlowCondensed-800-normal.woff2) format('woff2');}
+@font-face{font-family:Inter;src:url(../fonts/Inter-400-normal.woff2) format('woff2');font-weight:100 900;}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{background:transparent}
+.card{width:1048px;background:rgba(12,24,40,.95);border-radius:30px;padding:34px 40px 36px}
+.l{font-family:'Barlow Condensed',sans-serif;font-weight:800;color:#fff;line-height:1.02;letter-spacing:.5px;white-space:nowrap}
+.eb{font-family:'Barlow Condensed',sans-serif;font-weight:800;font-size:44px;letter-spacing:4px;color:#9fb0c6;margin-bottom:6px}
+.hl{display:inline-block;border-radius:10px;padding:2px 18px 0;margin-top:8px}
+.sub{font-family:Inter,sans-serif;font-weight:600;color:#fff;font-size:44px;line-height:1.25;margin-top:22px}
+</style>
+</head>
+<body>
+<div class="card" id="card"></div>
+<script>
+const C={
+  title:{lines:['4-HOUR MARATHONS <span class="hl" style="background:#d9473f">DIE</span>','IN HOUR 4'],tail:'(EVEN THE FIT ONES)'},
+  1:{eb:'STAGE 1 · 0:00',lines:['WHAT YOU <span class="hl" style="background:#1f7ae0">CARRY</span>'],sub:'About 500g stored. At 4-hour pace it runs short at about 3:02.'},
+  2:{eb:'STAGE 2 · 0:20',lines:['THE FIRST <span class="hl" style="background:#1f7ae0">GEL</span>'],sub:'Your first 30g gel at 20 minutes, before you feel you need it.'},
+  3:{eb:'STAGE 3',lines:['EVERY <span class="hl" style="background:#1f7ae0">30</span> MINUTES'],sub:'A 30g gel on the clock, not your stomach: 60g an hour.'},
+  4:{eb:'STAGE 4 · 3:02',lines:['THE POCKET <span class="hl" style="background:#f5b52e;color:#0c1828">HOUR</span>'],sub:'Your body carries 3 hours. Your pocket carries the fourth.'},
+  5:{eb:'STAGE 5',lines:['THE LAST <span class="hl" style="background:#1f7ae0">20</span> MINUTES'],sub:'No gel. Your last one goes in at about 3:20.'},
+};
+const k=new URLSearchParams(location.search).get('c')||'title',d=C[k];
+const card=document.getElementById('card');
+card.innerHTML=(d.eb?`<div class="eb">${d.eb}</div>`:'')+d.lines.map(l=>`<div class="l">${l}</div>`).join('')+(d.tail?`<div class="l t">${d.tail}</div>`:'')+(d.sub?`<div class="sub">${d.sub}</div>`:'');
+/* as big as the longest line allows (P205) */
+window.fit=()=>{let s=k==='title'?150:144;const ls=[...card.querySelectorAll('.l:not(.t)')];const tl=card.querySelector('.t');
+  const w=968;ls.forEach(l=>l.style.fontSize=s+'px');
+  while(ls.some(l=>l.scrollWidth>w)&&s>40){s-=2;ls.forEach(l=>l.style.fontSize=s+'px')}if(tl)tl.style.fontSize=Math.round(s*.62)+'px';return s};
+</script>
+</body>
+</html>
