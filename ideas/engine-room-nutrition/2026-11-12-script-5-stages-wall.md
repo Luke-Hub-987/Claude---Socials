@@ -103,17 +103,19 @@ stage 1. New shape: no "spot it and" or "after watching this" (row 16).
 "Follow if you want to be the one passing people at 35K."
 
 ## Caption
-If you've hit the wall, it didn't come out of nowhere at 32K. It came in 5 stages, and the first one shows up at 23K, while a small change still stops it.
+You trained 16 weeks for this, and the wall doesn't wait for 32K. It comes in 5 stages, and the first one shows up at 23K, while a small change still stops it.
 
-Stage 1, the Whisper, 23K to 27K: the same pace takes effort, you stop high-fiving kids and stare at the road 3 metres ahead. Everyone says bank time while you feel good. The truth is it's a loan, and the wall collects it with interest. Back off one 5-second band on your watch: on sub-4 pace that's between 5:30 and 5:35 a K (8:51 to 8:59 a mile), so make it between 5:35 and 5:40 (8:59 to 9:07 a mile). This is the only stage where a change that small works.
+Stage 1, the Whisper, 23K to 27K: the same pace takes effort, you stop high-fiving kids and stare at the road 3 metres ahead. Everyone says bank time while you feel good, but it's a loan, and the wall collects it with interest. Back off one 5-second band on your watch: on sub-4 pace that's between 5:30 and 5:35 a K (8:51 to 8:59 a mile), so make it between 5:35 and 5:40 (8:59 to 9:07 a mile). This is the only stage where a change that small works.
 
-Stage 2, the Negotiation, 27K to 32K: your brain turns into a crooked lawyer, with a deal at every drink station and every hill. Everyone says listen to your body. The truth is that tired isn't injured, and the walk you didn't plan stiffens your legs so the pace doesn't come back. A walk through the stations that was in your plan from the start is a plan; the one you bargain for at 28K is the trap. Drink on the move.
+Stage 2, the Negotiation, 27K to 32K: your brain turns into a crooked lawyer, with a deal at every drink station and every hill. Everyone says listen to your body, but tired isn't injured, and the walk you didn't plan stiffens your legs so the pace doesn't come back. A walk through the stations that was in your plan from the start is a plan; the one you bargain for at 28K is the trap. Drink on the move.
 
-Stage 3, Wet Cement, 32K to 36K: your legs answer half a second late, your feet land flat and runners pass you in slow motion. Everyone says chug a sports drink and a salt tablet. The truth is that one drink won't refill a tank you've been emptying since the start. Take your next gel with some water, ease off by 15 to 20 seconds a K for 10 minutes with short, quick steps, then come back to your pace one K at a time.
+Stage 3, Wet Cement, 32K to 36K: your legs answer half a second late, your feet land flat and runners pass you in slow motion. Everyone says chug a sports drink and a salt tablet, but one drink won't refill an empty tank. Take your next gel, ease off by 15 to 20 seconds a K for 10 minutes with short, quick steps, then come back to your pace one K at a time.
 
-Stage 4, the Tunnel, 36K to 40K: your vision narrows, the crowd you wanted now irritates you, and you swear it's your last marathon. Everyone says remember your why and force a smile. The truth is that your why is 6K away. Shrink the race to the next lamppost, the heels 5 metres ahead, the next 60 seconds.
+Stage 4, the Tunnel, 36K to 40K: your vision narrows, the crowd you wanted now irritates you, and you swear it's your last marathon. Everyone says remember your why and force a smile, but your why is 6K away. Shrink the race to the next lamppost, the heels 5 metres ahead, the next 60 seconds.
 
-Stage 5, the Cliff, 40K to the finish: every K gets slower while it feels like a sprint, and everything says sit on the kerb. Everyone says empty the tank and kick. The truth is there's nothing left to empty, so it's one foot after the other till the foil blanket.
+Stage 5, the Cliff, 40K to the finish: every K gets slower while it feels like a sprint, and everything says sit on the kerb. Everyone says empty the tank and kick, but there's nothing left to empty, so it's one foot at a time to the foil blanket.
+
+The fuel that keeps stages 3 to 5 small: first gel at 20 minutes, then one on the clock for the rest of the race, sized to your gel. With 30 g gels, one every 30 minutes. With smaller 20 to 25 g gels, like most Maurten, GU and High5 gels, one every 20 minutes. With 40 g gels, one every 40 minutes. Each way that's about 60 g of carbs an hour. None in the last 20 minutes, never two at once, and never with sports drink: take a few sips of water with it when you're passing a station. For a 4:00 marathon that's 7 gels of 30 g (carry 8), 10 of 20 to 25 g (carry 11), or 5 of 40 g (carry 6).
 
 Safety first: shivering, dizziness or weaving across the road is more than the wall. Those are signs to stop and go to the medical tent, whatever your watch says.
 
@@ -134,6 +136,7 @@ Want a plan that keeps you out of all 5? Email us your race and goal time throug
 | 36K, your why is 6K away | Arithmetic (42.2K finish) | Pass |
 | The next lamppost (caption: the heels 5 metres ahead, the next 60 seconds) | FACTS (one K or one lamppost at a time); Luke's pictures | Pass |
 | Shivering, dizziness or weaving is more than the wall: the medical tent | Standard race medical advice (the brief: low blood sugar, heat illness, low sodium); no number | Pass |
+| Caption gel clock by size: 30 g every 30, 20 to 25 g every 20, 40 g every 40, about 60 g an hour; 4:00 counts 7/8, 10/11, 5/6; water from a station (C22) | FACTS (Fuel; The fourth hour) | Pass |
 | Caption band: sub-4 5:30 to 5:35 (8:51 to 8:59/mi), back off to 5:35 to 5:40 (8:59 to 9:07/mi) | FACTS (sub-4: 5:30-5:35 after 10K); one band slower, P132 | Pass |
 
 ## Humanizer (P169, P202)
