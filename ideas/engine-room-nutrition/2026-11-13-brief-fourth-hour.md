@@ -234,3 +234,7 @@ upload a 1080 x 1920 still of 0:00 as the custom cover and check the 3:4 crop ke
 all three lines. On TikTok pick the 0:00 frame, no added text.
 
 **Posting:** Wed 19 Nov, 7am; the 0:00 screenshot to the ideas chat first.
+
+**The overlay file (15 Nov):** `overlays/2026-11-19-fourth-hour-title-overlay.png`,
+1080 x 1920, transparent, the title block from y = 250 to 674 (inside the 3:4 grid
+crop). Lay it over 0:00 to 0:03 unchanged; the cover is the 0:00 still with it on.
