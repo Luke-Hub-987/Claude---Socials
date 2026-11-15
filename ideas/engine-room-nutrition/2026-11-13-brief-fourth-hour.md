@@ -204,3 +204,33 @@ The repeat line, the method and the facts above stay as they are.
 "Everyone says your carbs run out at 90 minutes. That's wrong, but leave it to
 your body and it's worse, because you carry about 3 hours, so the fourth is the
 one you have to bring." (38 words)
+
+## Final OST, frame one and cover directions (15 Nov, for Luke's edit)
+**OST:** 4-HOUR MARATHONS DIE / IN HOUR 4 / (EVEN THE FIT ONES), DIE in red. Score 10/10.
+
+**Frame one (0:00 to 0:03), exactly the gate chat's mockup**
+(`mockups/2026-11-19-fourth-hour-frame-one-phone.png`):
+- The title in white strips with black heavy capitals, edge to edge (about 1,000
+  of the 1,080 pixels wide, 16 px gutters), DIE in red. Line 2 (IN HOUR 4) the
+  biggest.
+- The block's top edge at about y = 250 and its bottom at about y = 620: below
+  TikTok's top tabs and inside Instagram's 3:4 grid crop (which cuts about 240 px
+  off the top and bottom).
+- Nothing else for 3 seconds: no subtitles, no logo, no gauge, no photo.
+- Luke centred, eyes about y = 850 to 950, looking into the lens on the first word,
+  plain background, light on his face.
+
+**Don't use `motion/covers/hour4-cover-16x9.png` for frame one or the cover.** Its
+title sits in the left half beside the gauge picture: the exact layout that took
+the wall to 60.5% skip.
+
+**From 0:03:** the gauge scene (`motion/hour4-cards/hour4-0-empty.png`) replaces the
+title in the top band; at stage 1 the myth frame (90 MINUTES struck through in red,
+ABOUT 3 HOURS under it).
+
+**Grid cover (Instagram) and TikTok cover:** frame one itself, Luke's face plus the
+title block, so the grid and the feed show the same readable thing. On Instagram
+upload a 1080 x 1920 still of 0:00 as the custom cover and check the 3:4 crop keeps
+all three lines. On TikTok pick the 0:00 frame, no added text.
+
+**Posting:** Wed 19 Nov, 7am; the 0:00 screenshot to the ideas chat first.
