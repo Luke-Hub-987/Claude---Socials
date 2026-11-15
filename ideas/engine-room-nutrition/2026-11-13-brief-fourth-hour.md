@@ -238,3 +238,17 @@ all three lines. On TikTok pick the 0:00 frame, no added text.
 **The overlay file (15 Nov):** `overlays/2026-11-19-fourth-hour-title-overlay.png`,
 1080 x 1920, transparent, the title block from y = 250 to 674 (inside the 3:4 grid
 crop). Lay it over 0:00 to 0:03 unchanged; the cover is the 0:00 still with it on.
+
+## The pictures, line by line (15 Nov; supersedes "gauge at 0:03, myth at stage 1" above)
+Each one full width in the top band (16:9 above the video), one at a time, changing on the line it matches.
+| When (the line) | Picture |
+|---|---|
+| 0:00 to 0:03 | `overlays/2026-11-19-fourth-hour-title-16x9.jpg` (the title) |
+| "Everyone says your carbs run out at 90 minutes..." | `motion/plan-frames/fourth-hour-myth-1.png` (90 MINUTES struck through, ABOUT 3 HOURS) |
+| "That last hour is the pocket hour..." | `motion/hour4-cards/hour4-0-empty.png` (gauge on E at the 32K sign) |
+| "You start with about 500 grams..." (to "Save this") | `motion/hour4-cards/hour4-1-what-you-carry.png` |
+| "Take your first gel at 20 minutes..." (to "Send this") | `motion/hour4-cards/hour4-2-the-first-gel.png` |
+| "After that, it's one every 30 minutes..." | `motion/hour4-cards/hour4-3-every-30-minutes.png` |
+| "At 3:02, around 32K..." and the rehook ("The last 20 minutes has one rule...") | `motion/hour4-cards/hour4-4-the-pocket-hour.png` (hold it through the rehook) |
+| "In the last 20 minutes, don't take a gel..." to the end | `motion/hour4-cards/hour4-5-the-last-20-minutes.png` |
+Not used in the video: the navy text cards (`hour4-card-*`): two graphics per stage is clutter, and card 5 would give away the rehook. Not used anywhere: `hour4-cover-16x9.png`.
