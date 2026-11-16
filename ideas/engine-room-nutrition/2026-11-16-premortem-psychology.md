@@ -186,6 +186,15 @@ tests pass that shouldn't have.
   fix. So the shoes didn't make them slower; the pacing did. The title blames
   the shoes and the last stage blames the pacing.
 
+- **And the stronger, newer study points the other way.** The gate chat found
+  Bolliger and others, 2026 (14 recreational runners, randomised crossover):
+  about 2.4% saved at 10.5 km/h, the nearest to 4-hour pace, with no drop at
+  slower speeds. That's roughly 1.5 to 2% of pace: **3.5 to 5 minutes off a 4:00
+  marathon.** Joubert's "a third used more energy" is real but smaller and older.
+  So the title says the opposite of what the best evidence says for most 4-hour
+  runners, and the script's own honest line ("for some, worth minutes; for
+  others, almost nothing") doesn't match it.
+
 ## TAM, uniqueness, memorability
 - **TAM:** narrower than any winner. The wall, fuel and the first 10K touch every
   marathoner; this touches the ones buying or defending one product, this week.
