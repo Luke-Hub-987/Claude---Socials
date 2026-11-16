@@ -35,3 +35,5 @@ why: Luke, 13 Nov: "you keep reverting to the mean... playing it safe, plain, bo
 | THE HOUR THAT KILLS / 4-HOUR MARATHONS | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 1 | **7** (guessable: "the last one") |
 | THE MARATHON WALL / HITS YOU IN 5 STAGES / (EACH ONE MORE BRUTAL) | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | **9** |
 | **4-HOUR MARATHONS DIE / IN HOUR 4 / (EVEN THE FIT ONES)** | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | **10** |
+| YOU'LL GAIN 1.5KG / IN RACE WEEK / (MOST RUNNERS PANIC) (carousel cover) | 1 | 1 | 1 | 0 | 1 | 1 | 0 | 0 | 1 | 1 | **7** |
+| **GAIN 1.5KG BEFORE / YOUR MARATHON / (OR RUN SLOWER)** (carousel cover) | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | **10** |

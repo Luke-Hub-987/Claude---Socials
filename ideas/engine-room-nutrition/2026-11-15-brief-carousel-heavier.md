@@ -139,3 +139,23 @@ the easiest comment to leave).
 - **Timing (16 Nov):** the fourth-hour reel (fuel) went to 15K in 12 hours; the
   carousel keeps the fuel lane with a different twist (the scales), not a sequel.
   TikTok photo mode first.
+
+## Cover review (16 Nov): the gate chat's slide 1
+Drawn: YOU'LL GAIN 1.5KG / IN RACE WEEK / (MOST RUNNERS PANIC), GAIN in red, the
+runner worried on the scales (81.5), the coach smug. **Scorecard 7/10, below the
+9 bar:** no fight (it states a fact nobody argues with), not only-us (any running
+account), no pub line; "most runners panic" is unsourced; the scale says 81.5
+while the slides say 70 to 71.5.
+
+**Cover v2: GAIN 1.5KG BEFORE / YOUR MARATHON / (OR RUN SLOWER)** (17 / 13 / 15),
+GAIN in red. 10/10: an order that sounds wrong (gain weight to run faster?), the
+viewer, the number, the threat in brackets as the reason to swipe; true (loading
+adds about 1 to 2 kg; runners who loaded ran faster, Atkinson 2011). Keep the
+picture; the scale reads 71.5.
+
+**Because the cover now makes the claim, slides 2 to 5 turn the quiz into the why:**
+2. Same runner. Monday: 70kg. Race morning: 71.5kg. (two readouts; no question)
+3. The runner: Heavier is faster? That's backwards.
+4. The coach: Race morning wins. Every time.
+5. The runner: Why?
+Slides 6 onwards unchanged.
