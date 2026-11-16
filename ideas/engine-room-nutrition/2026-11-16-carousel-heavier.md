@@ -6,23 +6,23 @@ format: TikTok photo mode (ERN) tonight, 1080 x 1440 (3:4); Instagram carousel (
 images: motion/carousel-heavier/tiktok-3x4/slide-01..19.png, motion/carousel-heavier/instagram-4x5/slide-01..19.png (page motion/carousel-heavier/carousel.html, ?n=&h=)
 ---
 
-# YOU'LL GAIN 1.5KG / IN RACE WEEK / (MOST RUNNERS PANIC)
+# GAIN 1.5KG BEFORE / YOUR MARATHON / (OR RUN SLOWER)
 
 ## Gate fields
-- Cover OST: YOU'LL GAIN 1.5KG / IN RACE WEEK / (MOST RUNNERS PANIC), GAIN in red, in the fourth-hour title style. v1 (YOU'LL BE 1.5KG HEAVIER / ON RACE MORNING / (AND FASTER FOR IT)) answered slide 2's quiz on the cover (ledger row 1, my miss); the cover now shows the problem, as the yogurt cover does
-- OST score: 9/10 (P210): pulse words GAIN and PANIC, you, one second, a fight (weight gain is bad), a number, the Outsider stops, the pub test, the bracket sting, the verdict up top. Arguable: only we could post it. MOST RUNNERS PANIC is Luke's coaching read, not a statistic
+- Cover OST: GAIN 1.5KG BEFORE / YOUR MARATHON / (OR RUN SLOWER), GAIN in red (Luke 16 Nov, from the ideas chat's cover review: v2 scored 7/10, no fight, not only-us, "most runners panic" unsourced, scale 81.5 against the brief's 70 to 71.5). Earlier: v1 answered the quiz (row 1)
+- OST score: 10/10 (the ideas chat's score, P210): an order that sounds wrong, the viewer, the number, the threat in brackets as the reason to swipe; true (loading adds about 1 to 2 kg; loaded runners ran faster, Atkinson 2011)
 - Repeat line: The scales say heavier. Your legs say full.
 - Characters: our own. The runner (bib 214, blue vest, navy shorts, yellow shoes, brown hair, a watch); the coach (ERN navy jacket, grey hair, round glasses, a whistle on a red lanyard). Luke 16 Nov: the coach is drawn with light skin
-- Weights: Monday 80kg, race morning 81.5kg (Luke 16 Nov: start at the base weight)
+- Weights: Monday 70kg, race morning 71.5kg (Luke 16 Nov, the cover review; replaces his earlier 80kg). Every readout, the scales and the caption match
 
 ## The slides (one beat each; P211)
 | # | Picture | Text |
 |---|---|---|
-| 1 | Both: the runner on the scales (81.5), worried; the coach beside, hand on chin | **YOU'LL GAIN 1.5KG / IN RACE WEEK / (MOST RUNNERS PANIC)** (GAIN in a red box) |
-| 2 | Runner (waist-up close-up) | Same runner. 80kg on Monday, 81.5kg on race morning. Which one runs faster? |
-| 3 | Runner (waist-up close-up) | Monday, obviously. Lighter is faster. |
-| 4 | Coach (waist-up close-up) | Race morning. |
-| 5 | Runner (waist-up close-up) | Wait. Why? |
+| 1 | Both: the runner on the scales (71.5), worried; the coach beside, hand on chin | **GAIN 1.5KG BEFORE / YOUR MARATHON / (OR RUN SLOWER)** (GAIN in a red box) |
+| 2 | Both, closer; the two readouts (70kg, 71.5kg) | Same runner. Monday: 70kg. Race morning: 71.5kg. |
+| 3 | Runner (waist-up close-up) | Heavier is faster? That's backwards. |
+| 4 | Coach (waist-up close-up) | Race morning wins. Every time. |
+| 5 | Runner (waist-up close-up) | Why? |
 | 6 | Coach (waist-up close-up) | Because that 1.5kg is fuel. |
 | 7 | Coach (waist-up close-up) | Every gram of fuel you store brings about 3 grams of water. That's your 1.5kg. |
 | 8 | Both (both, closer) | Same runner. One of them just packed the fuel. |
@@ -39,7 +39,7 @@ images: motion/carousel-heavier/tiktok-3x4/slide-01..19.png, motion/carousel-hea
 | 19 | Both (both, closer) | Follow if you want to start Sunday with a full tank. |
 
 ## Caption
-Same runner, 80kg on Monday and 81.5kg on race morning, but faster on race morning. That extra weight is the fuel you packed.
+Same runner, 70kg on Monday and 71.5kg on race morning, but faster on race morning. That extra weight is the fuel you packed.
 
 Every gram of carbs your muscles store holds about 3 grams of water with it (2.7 to 4 g in a 2016 study), so the scales go up in race week. About 1 to 2 kg is typical, but that's a coaching estimate built on the water ratio, because no study has weighed runners through a load, so your number may differ.
 
@@ -58,9 +58,9 @@ How much did the scales go up in your race week?
 | Claim | Source | Status |
 |---|---|---|
 | About 3 grams of water with each gram of stored carbs | FACTS (carb loading and the scales: 2.7 to 4 g, 2016 J Appl Physiol; "about") | Pass |
-| 1.5kg heavier (80 to 81.5kg) | An example inside "about 1 to 2 kg is typical" (coaching estimate, said as one in the caption) | Pass |
-| The loaded runner runs faster | FACTS (Atkinson 2011; Hawley 1997) | Pass |
-| One dinner can't fit 700 grams; two days of meals can (Friday and Saturday) | FACTS (8 to 10 g/kg a day: 640 to 800 g at 80 kg; our 36 to 48 hour load, the carb load script) | Pass |
+| 1.5kg heavier (70 to 71.5kg) | An example inside "about 1 to 2 kg is typical" (coaching estimate, said as one in the caption) | Pass |
+| The loaded runner runs faster; "Race morning wins. Every time." (slide 4) | FACTS (Atkinson 2011: significantly faster on average; Hawley 1997) | Luke to OK: "every time" goes past the studies, which show an average |
+| One dinner can't fit 700 grams; two days of meals can (Friday and Saturday) | FACTS (8 to 10 g/kg a day: 560 to 700 g at 70 kg, the top of the range; our 36 to 48 hour load, the carb load script) | Pass |
 | Every meal from Friday, not one pasta dinner | The carb load script (Friday and Saturday meal plan; Saturday's last meal a normal plate at 5pm) | Pass |
 | Caption: 480 to 600 / 560 to 700 / 640 to 800 g; white, low fibre and fat; last meal 5pm; breakfast 3 hours out | The carb load script (16 Oct), arithmetic checked there | Pass |
 

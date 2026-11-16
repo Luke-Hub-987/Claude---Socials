@@ -1,5 +1,5 @@
 <!doctype html><html><head><meta charset="utf-8"><title>Heavier carousel</title>
-<!-- YOU'LL GAIN 1.5KG / IN RACE WEEK / (MOST RUNNERS PANIC): 19 slides, our own runner and coach.
+<!-- GAIN 1.5KG BEFORE / YOUR MARATHON / (OR RUN SLOWER): 19 slides, our own runner and coach.
      ?n=1..19, ?h=1440 (TikTok photo mode, 3:4) or ?h=1350 (Instagram, 4:5). -->
 <style>
 @font-face{font-family:'Barlow Condensed';font-weight:800;src:url(../fonts/BarlowCondensed-800-normal.woff2) format('woff2');}
@@ -154,19 +154,19 @@ function panel(x,y,w,h,label){ return `<g><rect x="${x}" y="${y+6}" width="${w}"
 
 // ---- slides ----
 const R='runner', C='coach', cy=CARDY;
-const twoCards=(red)=>card(300,cy,400,160,'MONDAY','80kg')+card(780,cy,400,160,'RACE MORNING','81.5kg',red?RED:OL);
+const twoCards=(red)=>card(300,cy,400,160,'MONDAY','70kg')+card(780,cy,400,160,'RACE MORNING','71.5kg',red?RED:OL);
 const SL=[
- ['COVER', ()=>scales(380,FLOOR-6,'81.5',1.02)+person(R,380,.9,'worried',{gy:8,gx:4,y:FLOOR-58})+person(C,780,.86,'calm',{gx:-8,gy:4,l:'chin'})],
- ["Same runner. 80kg on Monday, 81.5kg on race morning. Which one runs faster?", ()=>twoCards(false)+person(R,290,1.1,'ask',{r:'chin',gx:6,y:H+180})+person(C,790,1.1,'calm',{gx:-6,y:H+180})],
- ["Monday, obviously. Lighter is faster.", ()=>card(540,cy,420,160,'MONDAY','80kg')+person(R,540,1.25,'sure',{l:'hip',r:'thumb',y:H+250})],
- ["Race morning.", ()=>card(540,cy,420,160,'RACE MORNING','81.5kg',RED)+person(C,540,1.25,'calm',{l:'hip',y:H+250})],
- ["Wait. Why?", ()=>person(R,540,1.45,'wide',{l:'out',r:'out',y:H+330})],
+ ['COVER', ()=>scales(380,FLOOR-6,'71.5',1.02)+person(R,380,.9,'worried',{gy:8,gx:4,y:FLOOR-58})+person(C,780,.86,'calm',{gx:-8,gy:4,l:'chin'})],
+ ["Same runner. Monday: 70kg. Race morning: 71.5kg.", ()=>twoCards(false)+person(R,290,1.1,'ask',{r:'chin',gx:6,y:H+180})+person(C,790,1.1,'calm',{gx:-6,y:H+180})],
+ ["Heavier is faster? That's backwards.", ()=>card(540,cy,420,160,'MONDAY','70kg')+person(R,540,1.25,'ask',{l:'hip',r:'chin',gx:6,y:H+250})],
+ ["Race morning wins. Every time.", ()=>card(540,cy,420,160,'RACE MORNING','71.5kg',RED)+person(C,540,1.25,'calm',{l:'hip',y:H+250})],
+ ["Why?", ()=>person(R,540,1.45,'wide',{l:'out',r:'out',y:H+330})],
  ["Because that 1.5kg is fuel.", ()=>gauge(540,cy,1,'+1.5kg OF FUEL',.95)+person(C,500,1.35,'calm',{r:'out',gy:-4,y:H+300})],
  ["Every gram of fuel you store brings about 3 grams of water. That's your 1.5kg.", ()=>water(560,cy+70)+person(C,500,1.35,'neutral',{r:'out',gx:4,gy:-6,y:H+300})],
  ["Same runner. One of them just packed the fuel.", ()=>twoCards(true)+person(R,290,1.1,'wide',{gx:8,y:H+180})+person(C,790,1.1,'happy',{l:'thumb',y:H+180})],
  ["So I shouldn't cut carbs on Friday?", ()=>person(R,540,1.45,'ask',{r:'chin',gx:8,gy:-5,y:H+330})],
  ["Cut them and you'll start Sunday lighter. And emptier.", ()=>gauge(540,cy,.2,'EMPTIER',.95)+person(C,540,1.35,'serious',{l:'hip',y:H+300})],
- ["That's carb loading. The scales say heavier. Your legs say full.", ()=>scales(300,cy+80,'81.5',.9)+gauge(770,cy,1,'FULL',.85)+person(C,540,1.3,'happy',{l:'thumb',y:H+290})],
+ ["That's carb loading. The scales say heavier. Your legs say full.", ()=>scales(300,cy+80,'71.5',.9)+gauge(770,cy,1,'FULL',.85)+person(C,540,1.3,'happy',{l:'thumb',y:H+290})],
  ["OK. What else am I getting wrong?", ()=>person(R,540,1.45,'ask',{l:'hip',gx:-6,y:H+330})],
  ["Pasta party on Saturday night, or carbs at every meal from Friday?", ()=>panel(70,cy-10,450,250,'SATURDAY NIGHT')+plate(295,cy+150,150,'pasta')+panel(560,cy-10,450,250,'EVERY MEAL, FRI + SAT')+plate(650,cy+120,52,'bagel')+plate(770,cy+120,52,'rice')+juice(880,cy+150,74)+plate(700,cy+190,46,'toast')+banana(840,cy+200,.75)+person(R,300,1.0,'neutral',{gx:-6,gy:-6,y:H+150})+person(C,780,1.0,'calm',{gx:6,gy:-6,y:H+150})],
  ["The pasta party, surely. Everyone does it.", ()=>plate(810,cy+90,160,'pasta')+person(R,380,1.35,'sure',{r:'out',y:H+300})],
@@ -180,7 +180,7 @@ const sl=SL[n-1];
 const t=document.getElementById('t');
 if(sl[0]==='COVER'){
   t.style.display='none'; const cv=document.getElementById('cv'); cv.style.display='block';
-  cv.innerHTML=`<div class="l1">YOU'LL <span class="hl">GAIN</span> 1.5KG</div><div class="l2">IN RACE WEEK</div><div class="l3">(MOST RUNNERS PANIC)</div>`;
+  cv.innerHTML=`<div class="l1"><span class="hl">GAIN</span> 1.5KG BEFORE</div><div class="l2">YOUR MARATHON</div><div class="l3">(OR RUN SLOWER)</div>`;
 } else {
   t.style.top=TXT[0]+'px'; t.style.height=(TXT[1]-TXT[0])+'px'; t.textContent=sl[0];
   let fs=50; while(t.scrollHeight>TXT[1]-TXT[0] && fs>36){fs-=2;t.style.fontSize=fs+'px';}
