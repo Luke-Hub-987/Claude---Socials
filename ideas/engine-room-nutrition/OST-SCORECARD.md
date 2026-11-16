@@ -37,4 +37,4 @@ why: Luke, 13 Nov: "you keep reverting to the mean... playing it safe, plain, bo
 | **4-HOUR MARATHONS DIE / IN HOUR 4 / (EVEN THE FIT ONES)** | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | **10** |
 | YOU'LL GAIN 1.5KG / IN RACE WEEK / (MOST RUNNERS PANIC) (carousel cover) | 1 | 1 | 1 | 0 | 1 | 1 | 0 | 0 | 1 | 1 | **7** |
 | **GAIN 1.5KG BEFORE / YOUR MARATHON / (OR RUN SLOWER)** (carousel cover) | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | **10** |
-| **WATER IS POISONING / 4-HOUR MARATHONERS / (1 IN 8 AT BOSTON)** (17 Nov) | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | **10** |
+| **WATER IS POISONING / 4-HOUR MARATHONERS / (1 IN 8 AT BOSTON)** (17 Nov) | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | **10** (shelved: Luke, the fight is against our own gel-with-water advice; scores don't catch that) |

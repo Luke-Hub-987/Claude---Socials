@@ -216,7 +216,7 @@ a new cause becomes a new row in the same turn.**
 
 **As of 4 November 2026.**
 
-**Next (Tue 17 Nov): WATER IS POISONING / 4-HOUR MARATHONERS / (1 IN 8 AT BOSTON)** (10/10; Almond 2005 Boston: 13% hyponatremic, over 4:00 odds 7.4x; brief `ideas/engine-room-nutrition/2026-11-16-brief-water-poisoning.md`, needs Luke's yes; carousel on IG Wed or Thu).
+**Tue 17 Nov: the heavier carousel on Instagram** if TikTok photo mode clears half the photos viewed by the afternoon; else two trial reels of the fourth hour (P156). The water reel (WATER IS POISONING...) was shelved by Luke: it contradicts our gel-with-water advice (check FACTS and past scripts before killing a myth). Next filmed: £250 shoes (Black Friday, 23 to 25 Nov; needs Luke's Dublin shoes and the price) or the 5 aggressive tactics (needs Luke's five).
 
 **Posted 15 Nov 7:43pm: 4-HOUR MARATHONS DIE / IN HOUR 4 / (EVEN THE FIT ONES).** At ~12h: IG + FB **14,995 (8,724 IG, 6,271 FB), skip 27.0%, 29s, saves 1.7%, shares 0.4%, likes 1.5%**, still climbing; TikTok 3,812, 14.9s, **8 follows**. Our best since September. Frame one on the brief for the first time in five posts (white title card full width, DIE in red, Luke alone, eyes on the lens): skip 60.5% (wall) to 27.0% in the same week. Luke's line one killed the 90-minute myth with proof. The evening rule was wrong (P144 already said time doesn't predict views). Template: this frame one; the myth killed first; the fuel lane with new twists. `ideas/2026-11-16-fourth-hour-review.md`.
 

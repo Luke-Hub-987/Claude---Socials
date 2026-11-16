@@ -2,7 +2,7 @@
 type: brief (ideas chat): the next filmed reel after the fourth hour
 generated_at: 2026-11-16
 post: Tue 17 Nov, profile collab + FB + ERN TikTok, when frame one is checked (no set hour: the fourth hour went up at 7:43pm)
-status: needs Luke's yes; one fact to confirm (drink to thirst, wording); the gate chat writes the script
+status: SHELVED by Luke, 16 Nov (see the end); not for the profile
 ---
 
 # WATER IS POISONING / 4-HOUR MARATHONERS / (1 IN 8 AT BOSTON)
@@ -97,3 +97,21 @@ for the test (the carousel's scales, the callback).
   hour, 2 days later (row 31).
 - **£250 SHOES**: needs Luke's shoes and the price; 23 to 25 Nov.
 - **5 AGGRESSIVE TACTICS**: needs Luke's five.
+
+## Shelved (Luke, 16 Nov)
+"I wouldn't say poison, I'd say sabotage or ruining, but we have put out past
+videos saying that you should grab water at the aid station and have it with
+every gel, so it goes against our advice from the past."
+- **He's right on both.** FACTS and the gel reels say every gel with 3 or 4
+  sips (100 to 150 ml) of water, grabbed at a station, and sports drink between
+  gels. Line one ("drink at every station... the medical tent") reads as us
+  reversing that, and the comments would quote our own reel back at us.
+- **The only consistent version** is "the sips with your gels are the plan;
+  the extra cups are the risk". That needs a vetted ml-per-hour number I don't
+  have, and it repeats the fourth hour's gel clock as the fix (row 31). With
+  SABOTAGING or RUINING the title also drops a point on the pulse test.
+- **Banked** until a vetted hourly number exists, then trial reels only, framed
+  as the gel clock's water being enough. The Boston facts stay here.
+- **New check for the ideas chat:** before a brief kills a myth, search FACTS
+  and the past scripts for our own advice on it. If we said it, it's not the
+  myth.
