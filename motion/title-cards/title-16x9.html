@@ -1,0 +1,20 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Title card 16:9</title>
+<!-- The fourth-hour title-card template (white, Barlow Condensed 800, the pulse word in a red box), any title:
+     ?l1=&l2=&l3=&red=WORD  (each line fitted to the width; line 2 the biggest) -->
+<style>
+@font-face{font-family:'Barlow Condensed';font-weight:800;src:url(../fonts/BarlowCondensed-800-normal.woff2) format('woff2');}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1920px;height:1080px;background:#fff;overflow:hidden}
+.w{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px}
+.l{font-family:'Barlow Condensed',sans-serif;font-weight:800;color:#000;line-height:1.02;white-space:nowrap;text-align:center}
+.hl{background:#d9473f;color:#fff;padding:0 .12em;display:inline-block;line-height:1.1}
+</style></head><body><div class="w" id="w"></div>
+<script>
+const Q=new URLSearchParams(location.search), red=Q.get('red')||'';
+const lines=[Q.get('l1')||'',Q.get('l2')||'',Q.get('l3')||''].filter(Boolean), caps=[300,300,260];
+const w=document.getElementById('w');
+const els=lines.map((t,i)=>{const d=document.createElement('div');d.className='l';d.innerHTML=red&&t.includes(red)?t.replace(red,`<span class="hl">${red}</span>`):t;w.appendChild(d);return d;});
+document.fonts.load("800 100px 'Barlow Condensed'").then(()=>{   // fit after the font loads, or the fallback's width shrinks it
+  els.forEach((d,i)=>{let fs=caps[i]; d.style.fontSize=fs+'px'; while(d.getBoundingClientRect().width>1780&&fs>40){fs-=2;d.style.fontSize=fs+'px';}});
+  document.title='fitted';});
+</script></body></html>

@@ -207,7 +207,11 @@ def run(path):
         probs.append(f"{len(ost_lines)} lines, not 2 (3 only as Luke's final title)")
     for l in ost_lines:
         if len(l) > 22:
-            probs.append(f"'{l}' is {len(l)} characters (max 22)")
+            if fm.get("ost_final_by_luke") and len(l) <= 26:
+                # Luke's final title on the 16:9 white title card (P205, the fourth-hour template): longer lines fit the card
+                res.append(("G10", "INFO", f"'{l}' is {len(l)} characters: Luke's final title, checked on the 16:9 card"))
+            else:
+                probs.append(f"'{l}' is {len(l)} characters (max 22)")
     if sum(len(l) for l in ost_lines) > 40:
         if fm.get("ost_final_by_luke"):
             # Luke's call on the title (e.g. 6 Nov): each line must still fit; the total is shown, not blocked

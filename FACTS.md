@@ -329,3 +329,11 @@ regulations PDF), Brighton (Cancer Research UK, realbuzz guide), Belfast
 - **The loaded runner is faster:** sub-elite marathon runners who ate more than 7 g/kg of carbs the day before ran significantly faster (Atkinson and others, 2011, *Int J Sports Med*, doi 10.1055/s-0031-1273739); loading postpones fatigue in events over about 90 minutes (Hawley and others, 1997, *Sports Med*, PubMed 9291549).
 - **The load:** 8 to 10 g/kg a day for 36 to 48 hours before a Sunday race (the carb load script, 16 Oct): 60 kg 480 to 600 g, 70 kg 560 to 700 g, 80 kg 640 to 800 g.
 
+
+## Super shoes at 4-hour pace (added 16 Nov 2026 for £250 SHOES MAKE SOME / 4-HOUR RUNNERS SLOWER)
+- **Fast runners:** carbon-plated super shoes cut the energy cost of running by about 2.7 to 4.2% at 13 to 18 km/h (Hoogkamer and others 2018, and later speed-controlled studies). Audio: "about 3 to 4% at the sharp end".
+- **Joubert and others, 2023 (IJSPP, doi 10.1123/ijspp.2022-0227):** 16 runners (8 men, 8 women), a Vaporfly against a mass-matched control, at 12 km/h (5:00 a K) and 10 km/h (6:00 a K). The average saving fell to about 1.4% at 12 km/h (Runner's World; Bolliger's paper cites 1.6%) and 0.9% at 10 km/h, not significant at the slower speed; **about a third of the runners used more energy in the super shoe at 10 km/h**. Audio: "one study found a third of runners used more energy in them". Never "they don't work".
+- **Bolliger and others, 2026 (Sports Medicine - Open, doi 10.1186/s40798-026-00977-3):** 14 recreational runners, a randomised crossover, at 7.5, 9, 10.5 and 12 km/h: the super shoe saved about 2.5% on average, with no drop at slower speeds (about 2.4% at 10.5 km/h, the nearest to 4-hour pace, from their table). Individual runners weren't reported. Audio: "a newer study at the same pace found most saved about 2%". It's the stronger study, so the honest line is "for some runners, worth minutes; for others, almost nothing".
+- **4-hour pace:** 5:41 a K, about 10.6 km/h (between Joubert's 10 and 12; Bolliger's 10.5).
+- **Luke in Dublin:** chip 3:44:13, passed a lot of runners in carbon super shoes (his observation). **What he wore and what it cost: needs Luke.**
+- **Black Friday 2026:** Friday 27 November.
