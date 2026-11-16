@@ -6188,6 +6188,10 @@ cover shows the problem. Solo slides are waist-up close-ups so the eyes and
 eyebrows read at phone size; the acting is in the face and the hands, not the
 outfit.
 
+**Amended (16 Nov, Luke):** the actual ERN logo on everything: the corner mark
+is `motion/brand/ern-logo.png`, and any logo drawn into a picture (the coach's
+jacket) is the logo file (`ern-logo-white.png` on dark), never "ERN" typed in a font.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
