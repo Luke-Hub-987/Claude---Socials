@@ -322,3 +322,10 @@ regulations PDF), Brighton (Cancer Research UK, realbuzz guide), Belfast
 - **Gel sizes (Luke's notes, vetted):** Maurten Gel 100 25 g, GU about 22 g, High5 Energy Gel 23 g, Precision PF 30 is 30 g, SiS Beta Fuel gel 40 g (not 30 g, as the notes said). Our clock stays: 30 g every 30 minutes, 20 to 25 g every 20 minutes, 40 g every 40 (about 60 g an hour). The notes' "2 standard gels an hour for about 50 g" contradicts our clock and is cut.
 - **4:00 on our clock:** gels at 0:20, 0:50, 1:20, 1:50, 2:20, 2:50, 3:20 (7); 3:50 falls in the last 20 minutes, so none. Carry 8. With 20 to 25 g gels: 0:20, then every 20 minutes to 3:20 (10), carry 11. With 40 g gels: 0:20, 1:00, 1:40, 2:20, 3:00 (5), carry 6. 3:30: 6 gels, carry 7 (last at 2:50). 4:30: 8 gels, carry 9 (last at 3:50). Totals in the caption only.
 - **No gel in the last 20 minutes:** it won't do much before the finish (our rule since Oct). Don't say "it never reaches the blood": absorption starts within minutes; the point is the benefit comes too late.
+
+## Carb loading and the scales (added 16 Nov 2026 for the heavier carousel)
+- **About 3 g of water stored with each gram of glycogen:** 2.7 to 4 g in a 2016 *J Appl Physiol* study (https://pubmed.ncbi.nlm.nih.gov/27231310/); a 2020 review calls the link inconclusive, so always "about".
+- **About 1 to 2 kg gained in a load:** coaching sources only (Topend Sports, Styrkr), built on the water ratio; no study weighed runners. Say "about 1 to 2 kg is typical", as an estimate.
+- **The loaded runner is faster:** sub-elite marathon runners who ate more than 7 g/kg of carbs the day before ran significantly faster (Atkinson and others, 2011, *Int J Sports Med*, doi 10.1055/s-0031-1273739); loading postpones fatigue in events over about 90 minutes (Hawley and others, 1997, *Sports Med*, PubMed 9291549).
+- **The load:** 8 to 10 g/kg a day for 36 to 48 hours before a Sunday race (the carb load script, 16 Oct): 60 kg 480 to 600 g, 70 kg 560 to 700 g, 80 kg 640 to 800 g.
+

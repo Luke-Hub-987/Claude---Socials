@@ -1,0 +1,183 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Heavier carousel</title>
+<!-- YOU'LL BE 1.5KG HEAVIER / ON RACE MORNING / (AND FASTER FOR IT): 19 slides, our own runner and coach.
+     ?n=1..19, ?h=1440 (TikTok photo mode, 3:4) or ?h=1350 (Instagram, 4:5). -->
+<style>
+@font-face{font-family:'Barlow Condensed';font-weight:800;src:url(../fonts/BarlowCondensed-800-normal.woff2) format('woff2');}
+@font-face{font-family:Inter;src:url(../fonts/Inter-400-normal.woff2) format('woff2');font-weight:100 900}
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;background:#fff;font-family:Inter,Arial,sans-serif;overflow:hidden;position:relative}
+.t{position:absolute;left:90px;right:90px;display:flex;align-items:center;justify-content:center;text-align:center;font-weight:700;color:#14181f;font-size:50px;line-height:1.22;letter-spacing:-.3px}
+.cover{position:absolute;left:40px;right:40px;top:110px;text-align:center;font-family:'Barlow Condensed',sans-serif;font-weight:800;color:#0b0b0b;line-height:1.0}
+.cover .l1{font-size:104px}.cover .l2{font-size:132px}.cover .l3{font-size:84px;margin-top:6px}
+.hl{background:#d9473f;color:#fff;padding:0 16px;border-radius:12px;display:inline-block;line-height:1.08}
+svg{position:absolute;left:0;top:0}
+.logo{position:absolute;right:42px;height:50px;opacity:.85}
+</style></head><body>
+<div class="t" id="t"></div><div class="cover" id="cv" style="display:none"></div>
+<svg id="s" width="1080"></svg>
+<img class="logo" id="logo" src="../brand/ern-logo.png">
+<script>
+const Q=new URLSearchParams(location.search);
+const H=+Q.get('h')||1440, n=+Q.get('n')||1;
+document.body.style.height=H+'px';
+const s=document.getElementById('s'); s.setAttribute('height',H); s.setAttribute('viewBox',`0 0 1080 ${H}`);
+document.getElementById('logo').style.top=(H-86)+'px';
+const OL='#1d2433', NAVY='#14213d', BLUE='#2f80ed', RED='#d9473f', YEL='#f5b52e', GREEN='#2fae66', SOFT='#f3f5f8', GREY='#8a94a3';
+const FLOOR=H-70;                 // characters stand here
+const TXT=[Math.round(H*.13),Math.round(H*.32)]; // text band (top third)
+const CARDY=Math.round(H*.34);    // comparison cards and props
+const K={runner:{skin:'#f6d0b1',top:BLUE,bottom:NAVY,hair:'#7a4e2d',shoe:YEL,brow:'#5a3a22'},
+         coach:{skin:'#efc3a2',top:NAVY,bottom:'#5d6676',hair:'#a3a9b3',shoe:'#ffffff',brow:'#6f747d'}};
+const sw=3.2;
+
+function face(e,k,gx=0,gy=0){
+  const c=K[k], ey=-612, ex=34; let s='';
+  const lid=(e==='calm'||e==='serious');
+  if(e==='happy'){
+    for(const sx of[-1,1]) s+=`<path d="M${sx*ex-15} ${ey+4} Q${sx*ex} ${ey-14} ${sx*ex+15} ${ey+4}" stroke="${OL}" stroke-width="6.5" fill="none" stroke-linecap="round"/>`;
+  } else for(const sx of[-1,1]){
+    const rx=e==='wide'?19:16, ry=e==='wide'?24:19;
+    s+=`<ellipse cx="${sx*ex}" cy="${ey}" rx="${rx}" ry="${ry}" fill="#fff" stroke="${OL}" stroke-width="${sw}"/>`;
+    const lidded = lid || (e==='sure' && sx===1);
+    s+=`<circle cx="${sx*ex+gx}" cy="${ey+gy+(lidded?7:1)}" r="${e==='wide'?6.5:8.5}" fill="${OL}"/><circle cx="${sx*ex+gx+3}" cy="${ey+gy+(lidded?4:-2)}" r="2.6" fill="#fff"/>`;
+    if(lidded) s+=`<path d="M${sx*ex-rx-1} ${ey+(e==='serious'?-3:1)} A${rx+1} ${ry+1} 0 0 1 ${sx*ex+rx+1} ${ey+(e==='serious'?-3:1)} Z" fill="${c.skin}" stroke="${OL}" stroke-width="${sw}"/>`;
+  }
+  if(k==='coach') for(const sx of[-1,1]) s+=`<circle cx="${sx*ex}" cy="${ey}" r="27" fill="none" stroke="${OL}" stroke-width="4"/>`+(sx<0?`<path d="M-7 ${ey-2} Q0 ${ey-8} 7 ${ey-2}" stroke="${OL}" stroke-width="4" fill="none"/>`:'');
+  // brows
+  const by={neutral:[-650,-650],worried:[-664,-648],wide:[-674,-670],calm:[-646,-646],happy:[-658,-654],serious:[-642,-656]};
+  const brow=(sx,i,o)=>`<path d="M${sx*12} ${i} Q${sx*36} ${(i+o)/2-5} ${sx*58} ${o}" stroke="${c.brow}" stroke-width="8.5" fill="none" stroke-linecap="round"/>`;
+  if(e==='sure') s+=brow(-1,-650,-650)+brow(1,-664,-676);
+  else if(e==='ask') s+=brow(-1,-646,-656)+brow(1,-668,-682);
+  else { const [i,o]=by[e]; s+=brow(-1,i,o)+brow(1,i,o); }
+  // nose, cheeks
+  s+=`<path d="M-4 -592 Q6 -582 -2 -574" stroke="${OL}" stroke-width="3.5" fill="none" stroke-linecap="round" opacity=".55"/>`;
+  s+=`<circle cx="-56" cy="-578" r="11" fill="#f19a8f" opacity=".35"/><circle cx="56" cy="-578" r="11" fill="#f19a8f" opacity=".35"/>`;
+  const my=-552;
+  const M={neutral:`M-18 ${my} Q0 ${my+4} 18 ${my}`,worried:`M-20 ${my+7} Q0 ${my-8} 20 ${my+7}`,sure:`M-20 ${my} Q6 ${my+13} 26 ${my-8}`,
+    calm:`M-20 ${my} Q0 ${my+11} 20 ${my}`,ask:`M-17 ${my+3} Q2 ${my-2} 19 ${my-4}`,serious:`M-18 ${my+2} L18 ${my+2}`};
+  if(e==='wide') s+=`<ellipse cx="0" cy="${my+3}" rx="11" ry="14" fill="${OL}"/>`;
+  else if(e==='happy') s+=`<path d="M-30 ${my-6} Q0 ${my+30} 30 ${my-6} Z" fill="${OL}"/><path d="M-18 ${my+9} Q0 ${my+20} 18 ${my+9} Q0 ${my+4} -18 ${my+9} Z" fill="#e8796f"/>`;
+  else s+=`<path d="${M[e]}" stroke="${OL}" stroke-width="6" fill="none" stroke-linecap="round"/>`;
+  return s;
+}
+function arm(k,sx,pose){
+  const c=K[k], sh=[sx*92,-480]; let el,hd;
+  ({down:()=>{el=[sx*116,-385];hd=[sx*118,-290]},hip:()=>{el=[sx*178,-390];hd=[sx*104,-312]},
+    out:()=>{el=[sx*176,-420];hd=[sx*262,-470]},thumb:()=>{el=[sx*150,-370];hd=[sx*88,-438]},
+    chin:()=>{el=[sx*158,-400];hd=[sx*52,-528]},wave:()=>{el=[sx*170,-520];hd=[sx*190,-630]}}[pose])();
+  const sleeve = k==='runner'? c.skin : c.top, w = k==='runner'? 34 : 42;
+  let s=`<path d="M${sh} Q${el} ${hd}" stroke="${OL}" stroke-width="${w+2*sw}" fill="none" stroke-linecap="round"/>`+
+        `<path d="M${sh} Q${el} ${hd}" stroke="${sleeve}" stroke-width="${w}" fill="none" stroke-linecap="round"/>`;
+  if(k==='coach') s+=`<circle cx="${hd[0]*.94}" cy="${hd[1]*.97}" r="20" fill="${c.top}"/>`;
+  if(k==='runner' && sx===-1) s+=`<rect x="${hd[0]-17}" y="${hd[1]-38}" width="34" height="14" rx="5" fill="${OL}"/>`; // watch
+  s+=`<circle cx="${hd[0]}" cy="${hd[1]}" r="22" fill="${c.skin}" stroke="${OL}" stroke-width="${sw}"/>`;
+  if(pose==='thumb') s+=`<rect x="${hd[0]-7}" y="${hd[1]-46}" width="15" height="32" rx="7.5" fill="${c.skin}" stroke="${OL}" stroke-width="${sw}"/>`;
+  return s;
+}
+function person(k,x,sc,e,o={}){
+  const c=K[k], L=o.l||'down', R=o.r||'down', front=['chin','thumb','wave'], y=o.y||FLOOR;
+  let s=`<g transform="translate(${x},${y}) scale(${sc})"><ellipse cx="0" cy="-4" rx="125" ry="15" fill="#1d2433" opacity=".07"/>`;
+  for(const sx of[-1,1]) s+=`<rect x="${sx>0?12:-68}" y="-262" width="56" height="232" rx="24" fill="${k==='runner'?c.skin:c.bottom}" stroke="${OL}" stroke-width="${sw}"/>`;
+  for(const sx of[-1,1]) s+=`<path d="M${sx*40-44} -22 Q${sx*40-44} -52 ${sx*40} -50 Q${sx*40+52} -50 ${sx*40+50} -22 Z" fill="${c.shoe}" stroke="${OL}" stroke-width="${sw}"/>`;
+  if(k==='runner') s+=`<path d="M-88 -300 L88 -300 L94 -186 L10 -186 L0 -210 L-10 -186 L-94 -186 Z" fill="${c.bottom}" stroke="${OL}" stroke-width="${sw}"/>`;
+  s+=(front.includes(L)?'':arm(k,-1,L))+(front.includes(R)?'':arm(k,1,R));
+  s+=`<path d="M-100 -470 Q-104 -502 -66 -508 L66 -508 Q104 -502 100 -470 L92 -292 Q0 -278 -92 -292 Z" fill="${c.top}" stroke="${OL}" stroke-width="${sw}"/>`;
+  if(k==='runner'){
+    s+=`<path d="M-36 -508 Q0 -474 36 -508" fill="${c.skin}" stroke="${OL}" stroke-width="${sw}"/>`;
+    s+=`<rect x="-58" y="-446" width="116" height="90" rx="10" fill="#fff" stroke="${OL}" stroke-width="${sw}"/><path d="M-58 -436 Q-58 -446 -48 -446 L48 -446 Q58 -446 58 -436 L58 -428 L-58 -428 Z" fill="${RED}"/>`;
+    s+=`<text x="0" y="-372" text-anchor="middle" font-family="Inter" font-weight="900" font-size="46" fill="${OL}">214</text>`;
+  } else {
+    s+=`<path d="M0 -508 L0 -292" stroke="#2c3a5c" stroke-width="5"/><path d="M-34 -508 L0 -476 L34 -508" fill="#e8ecf2" stroke="${OL}" stroke-width="${sw}"/>`;
+    s+=`<text x="-52" y="-432" text-anchor="middle" font-family="Inter" font-weight="900" font-style="italic" font-size="28" fill="#fff">ERN</text>`;
+    s+=`<path d="M-26 -503 Q0 -440 26 -503" stroke="${RED}" stroke-width="5" fill="none"/><rect x="-9" y="-448" width="18" height="26" rx="5" fill="#c9d1db" stroke="${OL}" stroke-width="3"/>`;
+  }
+  s+=`<rect x="-20" y="-526" width="40" height="28" fill="${c.skin}"/>`;
+  s+=`<circle cx="-92" cy="-604" r="18" fill="${c.skin}" stroke="${OL}" stroke-width="${sw}"/><circle cx="92" cy="-604" r="18" fill="${c.skin}" stroke="${OL}" stroke-width="${sw}"/>`;
+  s+=`<circle cx="0" cy="-610" r="94" fill="${c.skin}" stroke="${OL}" stroke-width="${sw}"/>`;
+  if(k==='runner') s+=`<path d="M-94 -626 Q-102 -716 -6 -716 Q40 -740 76 -706 Q100 -684 94 -628 Q74 -668 30 -668 Q20 -650 -4 -662 Q-50 -682 -94 -626 Z" fill="${c.hair}" stroke="${OL}" stroke-width="${sw}"/>`;
+  else s+=`<path d="M-93 -632 Q-92 -708 0 -708 Q92 -708 93 -632 Q86 -664 50 -668 Q0 -676 -50 -668 Q-86 -664 -93 -632 Z" fill="${c.hair}" stroke="${OL}" stroke-width="${sw}"/>`;
+  s+=face(e,k,o.gx||0,o.gy||0);
+  s+=(front.includes(L)?arm(k,-1,L):'')+(front.includes(R)?arm(k,1,R):'');
+  return s+'</g>';
+}
+// ---- props ----
+const T=(x,y,txt,sz,col=OL,w=800,anchor='middle',ls=0)=>`<text x="${x}" y="${y}" text-anchor="${anchor}" font-family="Inter" font-weight="${w}" font-size="${sz}" fill="${col}" letter-spacing="${ls}">${txt}</text>`;
+function scales(x,y,read,sc=1){
+  return `<g transform="translate(${x},${y}) scale(${sc})"><ellipse cx="0" cy="12" rx="180" ry="14" fill="#1d2433" opacity=".07"/>
+  <rect x="-165" y="-48" width="330" height="58" rx="26" fill="#f7f9fb" stroke="${OL}" stroke-width="${sw}"/>
+  <rect x="-150" y="-44" width="300" height="10" rx="5" fill="#e3e8ef"/>
+  <rect x="-58" y="-36" width="116" height="38" rx="10" fill="#1b2433"/>${T(0,-8,read,28,'#ff6b5f',800)}</g>`;
+}
+function card(x,y,w,h,label,big,col=OL){
+  return `<g transform="translate(${x},${y})"><rect x="${-w/2}" y="6" width="${w}" height="${h}" rx="26" fill="#1d2433" opacity=".06"/>
+  <rect x="${-w/2}" y="0" width="${w}" height="${h}" rx="26" fill="${SOFT}"/>${T(0,46,label,26,GREY,800,'middle',3)}${T(0,h-28,big,72,col,900)}</g>`;
+}
+function gauge(x,y,f,label,sc=1){
+  const segs=5, on=Math.round(f*segs); let s=`<g transform="translate(${x},${y}) scale(${sc})"><rect x="-120" y="0" width="240" height="104" rx="22" fill="#fff" stroke="${OL}" stroke-width="5"/><rect x="120" y="34" width="18" height="36" rx="5" fill="${OL}"/>`;
+  for(let i=0;i<segs;i++) s+=`<rect x="${-106+i*44}" y="14" width="38" height="76" rx="9" fill="${i<on?(f>.5?GREEN:RED):'#eef1f5'}"/>`;
+  if(label) s+=T(0,150,label,40,f>.5?GREEN:RED,900);
+  return s+'</g>';
+}
+function plate(x,y,r,food){
+  let s=`<g transform="translate(${x},${y})"><ellipse cx="0" cy="${r*.16}" rx="${r*1.02}" ry="${r*.6}" fill="#1d2433" opacity=".08"/><ellipse cx="0" cy="0" rx="${r}" ry="${r*.6}" fill="#fff" stroke="#c7cfd9" stroke-width="3"/><ellipse cx="0" cy="0" rx="${r*.74}" ry="${r*.43}" fill="#f6f8fa"/>`;
+  if(food==='pasta'){
+    s+=`<ellipse cx="0" cy="${-r*.06}" rx="${r*.6}" ry="${r*.33}" fill="#f2c45a"/>`;
+    for(let i=0;i<14;i++){const a=i/14*Math.PI*2, rr=r*(.18+.32*((i*7)%5)/5); s+=`<path d="M${Math.cos(a)*rr} ${Math.sin(a)*rr*.55-r*.06} q${r*.12} ${-r*.1} ${r*.24} 0" stroke="#e0a93b" stroke-width="${r*.035}" fill="none" stroke-linecap="round"/>`;}
+    s+=`<ellipse cx="${-r*.05}" cy="${-r*.14}" rx="${r*.28}" ry="${r*.15}" fill="#d64a37"/><ellipse cx="${-r*.1}" cy="${-r*.18}" rx="${r*.1}" ry="${r*.05}" fill="#ef7a5f"/>`;
+    s+=`<path d="M${r*.12} ${-r*.22} q${r*.08} ${-r*.1} ${r*.16} ${-r*.02} q${-r*.06} ${r*.08} ${-r*.16} ${r*.02}Z" fill="#3e9b52"/><path d="M${r*.02} ${-r*.26} q${r*.02} ${-r*.12} ${r*.12} ${-r*.1} q${-r*.02} ${r*.1} ${-r*.12} ${r*.1}Z" fill="#4fb463"/>`;
+  }
+  if(food==='bagel'){ s+=`<ellipse cx="0" cy="${-r*.04}" rx="${r*.5}" ry="${r*.29}" fill="#d99a4e" stroke="#b97a34" stroke-width="3"/><ellipse cx="0" cy="${-r*.08}" rx="${r*.15}" ry="${r*.08}" fill="#f6f8fa"/>`; for(let i=0;i<8;i++){const a=i/8*6.28; s+=`<ellipse cx="${Math.cos(a)*r*.33}" cy="${Math.sin(a)*r*.18-r*.06}" rx="3" ry="1.8" fill="#fff6dc"/>`;}
+    s+=`<path d="M${r*.1} ${-r*.2} q${r*.2} ${-r*.04} ${r*.3} ${r*.08}" stroke="#c0392b" stroke-width="${r*.09}" stroke-linecap="round" fill="none" opacity=".85"/>`; }
+  if(food==='rice'){ s+=`<path d="M${-r*.55} ${-r*.08} Q${-r*.5} ${-r*.5} 0 ${-r*.52} Q${r*.5} ${-r*.5} ${r*.55} ${-r*.08} Z" fill="#fdfdfd" stroke="#d5dbe3" stroke-width="3"/>`; for(let i=0;i<12;i++) s+=`<ellipse cx="${(i%6-2.5)*r*.15}" cy="${-r*.2-(i>5?r*.14:0)}" rx="4" ry="2.4" fill="#e6eaef"/>`;
+    s+=`<rect x="${r*.08}" y="${-r*.34}" width="${r*.26}" height="${r*.14}" rx="6" fill="#c9773f"/><rect x="${-r*.32}" y="${-r*.3}" width="${r*.22}" height="${r*.12}" rx="6" fill="#c9773f"/>`; }
+  if(food==='toast'){ s+=`<path d="M${-r*.4} ${r*.1} L${-r*.4} ${-r*.25} Q${-r*.4} ${-r*.45} ${-r*.2} ${-r*.45} L${r*.2} ${-r*.45} Q${r*.4} ${-r*.45} ${r*.4} ${-r*.25} L${r*.4} ${r*.1} Z" fill="#e8b765" stroke="#c38d3d" stroke-width="3"/><rect x="${-r*.3}" y="${-r*.34}" width="${r*.6}" height="${r*.36}" rx="8" fill="#f6d08b"/><path d="M${-r*.2} ${-r*.2} q${r*.2} ${-r*.08} ${r*.4} 0" stroke="#f0a92a" stroke-width="7" stroke-linecap="round" fill="none"/>`; }
+  return s+'</g>';
+}
+function juice(x,y,h=90){ return `<g transform="translate(${x},${y})"><ellipse cx="0" cy="4" rx="${h*.36}" ry="7" fill="#1d2433" opacity=".08"/><path d="M${-h*.3} ${-h} L${h*.3} ${-h} L${h*.24} 0 L${-h*.24} 0 Z" fill="#fff" stroke="#c7cfd9" stroke-width="3"/><path d="M${-h*.27} ${-h*.75} L${h*.27} ${-h*.75} L${h*.23} -3 L${-h*.23} -3 Z" fill="#f5a623"/><rect x="${h*.04}" y="${-h*1.22}" width="7" height="${h*.6}" rx="3" fill="${RED}" transform="rotate(12 ${h*.04} ${-h})"/></g>`;}
+function banana(x,y,sc=1){ return `<g transform="translate(${x},${y}) scale(${sc})"><path d="M-46 -6 Q0 34 50 -18 Q56 -26 48 -28 Q0 10 -40 -16 Z" fill="#f7d24a" stroke="#c9a12d" stroke-width="3"/><path d="M48 -28 l8 -6" stroke="#7a5b25" stroke-width="5" stroke-linecap="round"/></g>`;}
+function clock(x,y,r){
+  return `<g transform="translate(${x},${y})"><circle r="${r+8}" fill="#1d2433" opacity=".06" cy="6"/><circle r="${r}" fill="#fff" stroke="${OL}" stroke-width="6"/><circle r="${r-14}" fill="${SOFT}"/>${[...Array(12)].map((_,i)=>`<line x1="0" y1="${-r+16}" x2="0" y2="${-r+(i%3?26:34)}" stroke="${OL}" stroke-width="${i%3?3:6}" transform="rotate(${i*30})" stroke-linecap="round"/>`).join('')}
+  <line x1="0" y1="0" x2="0" y2="${-r*.5}" stroke="${OL}" stroke-width="9" stroke-linecap="round" transform="rotate(300)"/><line x1="0" y1="0" x2="0" y2="${-r*.72}" stroke="${RED}" stroke-width="6" stroke-linecap="round" transform="rotate(120)"/><circle r="9" fill="${OL}"/></g>`;
+}
+function water(x,y){
+  let s=`<g transform="translate(${x},${y})"><rect x="-290" y="-50" width="96" height="96" rx="18" fill="${YEL}" stroke="${OL}" stroke-width="${sw}"/><path d="M-270 -30 L-240 -30" stroke="#fff" stroke-width="6" stroke-linecap="round" opacity=".7"/>${T(-242,100,'1g CARBS',28,OL,900)}${T(-140,18,'+',70,OL,900)}`;
+  for(let i=0;i<3;i++){const cx=-40+i*100; s+=`<path d="M${cx} -56 Q${cx-40} 0 ${cx} 44 Q${cx+40} 0 ${cx} -56 Z" fill="#5aa7ff" stroke="${OL}" stroke-width="${sw}"/><ellipse cx="${cx-10}" cy="6" rx="7" ry="13" fill="#fff" opacity=".6"/>`;}
+  return s+T(60,100,'ABOUT 3g WATER',28,OL,900)+'</g>';
+}
+function panel(x,y,w,h,label){ return `<g><rect x="${x}" y="${y+6}" width="${w}" height="${h}" rx="28" fill="#1d2433" opacity=".06"/><rect x="${x}" y="${y}" width="${w}" height="${h}" rx="28" fill="${SOFT}"/>${T(x+w/2,y+46,label,24,GREY,800,'middle',3)}</g>`;}
+
+// ---- slides ----
+const R='runner', C='coach', cy=CARDY;
+const twoCards=(red)=>card(300,cy,400,160,'MONDAY','80kg')+card(780,cy,400,160,'RACE MORNING','81.5kg',red?RED:OL);
+const SL=[
+ ['COVER', ()=>scales(380,FLOOR-6,'81.5',1.02)+person(R,380,.9,'worried',{gy:8,gx:4,y:FLOOR-58})+person(C,780,.86,'calm',{gx:-8,gy:4,l:'chin'})],
+ ["Same runner. 80kg on Monday, 81.5kg on race morning. Which one runs faster?", ()=>twoCards(false)+person(R,300,.84,'ask',{r:'chin',gx:6})+person(C,780,.84,'calm',{gx:-6})],
+ ["Monday, obviously. Lighter is faster.", ()=>card(540,cy,420,160,'MONDAY','80kg')+person(R,540,.86,'sure',{l:'hip',r:'thumb'})],
+ ["Race morning.", ()=>card(540,cy,420,160,'RACE MORNING','81.5kg',RED)+person(C,540,.86,'calm',{l:'hip'})],
+ ["Wait. Why?", ()=>person(R,540,1.02,'wide',{l:'out',r:'out'})],
+ ["Because that 1.5kg is fuel.", ()=>gauge(540,cy,1,'+1.5kg OF FUEL',.95)+person(C,540,.86,'calm',{r:'out',gy:-4})],
+ ["Every gram of carbs your muscles store holds about 3 grams of water.", ()=>water(560,cy+70)+person(C,540,.84,'neutral',{r:'out',gx:4,gy:-6})],
+ ["Same runner. One of them just packed the fuel.", ()=>twoCards(true)+person(R,300,.84,'wide',{gx:8})+person(C,780,.84,'happy',{l:'thumb'})],
+ ["So I shouldn't cut carbs on Friday?", ()=>person(R,540,1.0,'ask',{r:'chin',gx:8,gy:-5})],
+ ["Cut them and you'll start Sunday lighter. And emptier.", ()=>gauge(540,cy,.2,'EMPTIER',.95)+person(C,540,.86,'serious',{l:'hip'})],
+ ["That's carb loading. The scales say heavier. Your legs say full.", ()=>scales(300,cy+80,'81.5',.9)+gauge(770,cy,1,'FULL',.85)+person(C,540,.84,'happy',{l:'thumb'})],
+ ["OK. What else are we getting wrong?", ()=>person(R,540,1.0,'ask',{l:'hip',gx:-6})],
+ ["One huge pasta dinner on Saturday night, or carbs at every meal from Friday morning?", ()=>panel(70,cy-10,450,250,'SATURDAY NIGHT')+plate(295,cy+150,150,'pasta')+panel(560,cy-10,450,250,'EVERY MEAL, FRI + SAT')+plate(650,cy+120,52,'bagel')+plate(770,cy+120,52,'rice')+juice(880,cy+150,74)+plate(700,cy+190,46,'toast')+banana(840,cy+200,.75)+person(R,300,.74,'neutral',{gx:-6,gy:-6})+person(C,780,.74,'calm',{gx:6,gy:-6})],
+ ["The pasta party, surely. Everyone does it.", ()=>plate(810,cy+90,160,'pasta')+person(R,430,.92,'sure',{r:'out'})],
+ ["Every meal from Friday.", ()=>plate(700,cy+60,62,'bagel')+plate(860,cy+60,62,'rice')+plate(720,cy+170,56,'toast')+juice(880,cy+200,80)+person(C,400,.92,'calm',{r:'out',gx:8,gy:-4})],
+ ["One dinner can't hold 700 grams of carbs. Spread it over 36 to 48 hours.", ()=>`<line x1="120" y1="${cy+120}" x2="960" y2="${cy+120}" stroke="#d5dbe3" stroke-width="6" stroke-linecap="round"/>`+T(300,cy+178,'FRIDAY',30,GREY,900,'middle',3)+T(780,cy+178,'SATURDAY',30,GREY,900,'middle',3)+plate(180,cy+80,40,'bagel')+plate(300,cy+80,40,'rice')+plate(420,cy+80,40,'toast')+plate(660,cy+80,40,'bagel')+plate(780,cy+80,40,'rice')+plate(900,cy+80,40,'pasta')+person(C,540,.78,'neutral',{r:'out',gy:-6})],
+ ["Same pasta. Different clock.", ()=>clock(800,cy+110,110)+plate(800,cy+300,90,'pasta')+person(C,400,.92,'calm',{r:'out',gx:8,gy:-4})],
+ ["The runner never changed. Just what they ate, and when.", ()=>person(R,300,.86,'calm',{gx:8})+person(C,780,.86,'neutral',{l:'out',gx:-8})],
+ ["Follow if you want to start Sunday with a full tank.", ()=>gauge(540,cy,1,'',.9)+person(R,300,.86,'happy',{r:'thumb'})+person(C,780,.86,'happy',{l:'thumb'})],
+];
+const sl=SL[n-1];
+const t=document.getElementById('t');
+if(sl[0]==='COVER'){
+  t.style.display='none'; const cv=document.getElementById('cv'); cv.style.display='block';
+  cv.innerHTML=`<div class="l1">YOU'LL BE 1.5KG <span class="hl">HEAVIER</span></div><div class="l2">ON RACE MORNING</div><div class="l3">(AND FASTER FOR IT)</div>`;
+} else {
+  t.style.top=TXT[0]+'px'; t.style.height=(TXT[1]-TXT[0])+'px'; t.textContent=sl[0];
+  let fs=50; while(t.scrollHeight>TXT[1]-TXT[0] && fs>36){fs-=2;t.style.fontSize=fs+'px';}
+}
+s.innerHTML=sl[1]();
+</script></body></html>

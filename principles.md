@@ -6163,6 +6163,25 @@ most aggressive true version goes first, every time: the facts make it careful,
 not the words. A title that's a sum fails "read in one second". Gate: the
 `OST score: N/10` field, checked in G10 from 13 Nov.
 
+## P211 — Carousels: one beat a slide, and the look (Luke, 16 Nov)
+
+P202 (even sentences, no 3- or 4-word sentences) can't apply to a carousel,
+where each slide is one beat and the swipe is the rhythm (the yogurt carousel:
+"Why?" is a slide). **The rule:** on carousel slides, one beat each (2 to 18
+words), the runner asks and the coach answers, no slide repeats the last, and
+the humanizer still runs (no AI vocabulary, no "and then"). The caption follows
+P202 like any caption.
+
+**The look (Luke's corrections, 16 Nov):** TikTok photo mode at 1080 x 1440 (3:4,
+the yogurt carousel's shape); Instagram gets its own 1080 x 1350 (4:5) set, drawn,
+not cropped. White, simple, one line of text in the top third. The cover (slide
+1) carries the headline in our title-card style (Barlow Condensed 800, black on
+white, the pulse word in a red box, as on 4-HOUR MARATHONS DIE) and both
+characters. Our characters only: the runner (bib 214, blue vest) and the coach
+(ERN navy jacket, grey hair, glasses, light skin, as Luke asked). Real-looking
+props (plates of food, scales, a fuel gauge). Example weights start at the base
+(80kg, then 81.5kg). Page: `motion/carousel-heavier/carousel.html` (?n=&h=).
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
