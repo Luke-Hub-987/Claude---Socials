@@ -146,3 +146,77 @@ not the shoes.
 - **Executor:** Luke sends his shoe and its price; the gate chat confirms
   Joubert, writes it, makes the overlay; film and post Tue.
 - **Chairman:** go with the shoes. The arc is dead in this form.
+
+# Pre-mortem 2 (Luke, 16 Nov): £250 SHOES MAKE SOME / 4-HOUR RUNNERS SLOWER / (I PASSED THEM IN DUBLIN)
+**Verdict: it would not do well. Not tomorrow, not in this form.** Forecast if
+posted: about 3K to 7K on IG + FB, below the fourth hour and the carousel's
+lane. I scored it 10; honestly it's a 6, and the scorecard's wording let two
+tests pass that shouldn't have.
+
+## The first second, from each viewer
+- **Owns carbon shoes** (a big share of 4-hour marathoners now): "you wasted
+  £250". The enemy is their own judgement, so the must-pass "enemy outside the
+  viewer" fails for them. Sunk cost makes people defend the purchase, not watch
+  the evidence: they comment "mine work", then swipe.
+- **Doesn't own them:** "not about me". The title is about a purchase they
+  haven't made.
+- **Everyone:** reads **SOME** and exempts themselves ("not mine"). It's the
+  better-than-average effect from the last pre-mortem: a hedge word in a title
+  is a door out. The fourth hour said EVEN THE FIT ONES, which shut that door;
+  SOME opens it.
+
+## Against the five levers
+| Lever | The fourth hour | The shoes |
+|---|---|---|
+| 1. Enemy outside | The body and the 90-minute myth: everyone off the hook | The marketing for non-owners; **the viewer's own purchase for owners** |
+| 2. A belief broken | Nobody knew it was about 3 hours, not 90 minutes | **Most runners already suspect super shoes are overhyped for them.** Runner's World, RunnersConnect, Marathon Handbook and others have all run "do super shoes work for slower runners?": it's a known debate, not news |
+| 3. A moment they fear | Dying in hour 4 of your own race | **About 1% of running economy.** There's no scene: nobody can picture 1% |
+| 4. Their number | 4-HOUR, 4 | £250 and 4-hour, fine |
+| 5. A peak | (EVEN THE FIT ONES) | (I PASSED THEM IN DUBLIN): an anecdote about Luke (row 30's direction) |
+
+## The truth problem (the one that would hurt the brand)
+- **The study measured oxygen cost, not race times**, in 16 runners; at the
+  slower pace the gain wasn't significant, and "some were worse" is one small
+  lab sample. MAKE...SLOWER claims a race result the study never measured.
+  Commenters who know the Kipp paper (a small economy gain can be a bigger share
+  of a slower runner's time) would take it apart, and our edge is that our
+  science holds.
+- **The payoff contradicts the title (row 32's shape).** The runners Luke passed
+  in Dublin slowed because they went out too fast, which is the video's own
+  fix. So the shoes didn't make them slower; the pacing did. The title blames
+  the shoes and the last stage blames the pacing.
+
+## TAM, uniqueness, memorability
+- **TAM:** narrower than any winner. The wall, fuel and the first 10K touch every
+  marathoner; this touches the ones buying or defending one product, this week.
+- **Unique:** no. Every running channel has made it. Only the Dublin bracket is
+  ours, and it's an anecdote.
+- **Opinionated:** yes, but on the wrong thing for us: a carb bar brand picking a
+  fight with shoes, then landing on known advice (hold back, the gel clock:
+  row 26).
+- **Unforgettable:** "The shoes buy you seconds. The first 10K costs you
+  minutes" is decent; the title isn't quotable because of SOME.
+- **Not dull:** the price stops people for a second; nothing holds them after.
+
+## What the scorecard got wrong, and the fix
+- **Test 7 (only us)** passed on the bracket. New wording: **fails if the topic is
+  already a common video on other running accounts**, whatever bracket is added.
+- **Test 4 (a belief broken)** passed on "shoes make you faster". New wording:
+  **the belief has to be one they hold confidently, not one they already doubt.**
+- **New check: no hedge word in the title** (SOME, MAY, CAN, MOST). If the title
+  needs one to be true, the claim isn't strong enough. Find a stronger true claim
+  or a different topic.
+- **New check: the title's cause and the payoff's cause are the same thing.**
+
+## What to do
+- **Tomorrow:** no new profile reel. Post the fourth hour as two trial reels to
+  strangers (P156: the week's reach reel gets two). It's still climbing, it's
+  proven, and it costs nothing to film. I've killed three ideas today (water,
+  the arc, the shoes), and the evidence from this month is that a rushed title
+  is the one that reverts to the mean. One that passes the five levers beats one
+  for the sake of the date.
+- **The shoes, for Black Friday (23 to 25 Nov), only if it can be rebuilt** on a
+  claim that's true without SOME and makes the race the enemy, not the purchase.
+  Otherwise drop it.
+- **The next filmed reel (Wed or Thu)** is built from the five levers first, then
+  the title.

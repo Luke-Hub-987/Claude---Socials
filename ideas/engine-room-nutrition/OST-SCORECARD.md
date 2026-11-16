@@ -26,6 +26,14 @@ why: Luke, 13 Nov: "you keep reverting to the mean... playing it safe, plain, bo
 - **First, one question:** can the viewer answer the title about themselves in
   one second ("which one are you?")? If yes, it's dead before it's scored.
 
+**Tighter wording (16 Nov, pre-mortem 2):**
+- Test 7 fails if the topic is already a common video on other running
+  accounts, whatever bracket is added.
+- Test 4: the belief is one they hold confidently, not one they already doubt.
+- No hedge word in the title (SOME, MAY, CAN, MOST). If it needs one to be
+  true, find a stronger true claim.
+- The title's cause and the payoff's cause are the same thing.
+
 **Rules that come with it**
 - The most aggressive **true** version goes first, every time. Never a safe one
   "to be careful": the facts make it careful, not the words.
@@ -48,4 +56,4 @@ why: Luke, 13 Nov: "you keep reverting to the mean... playing it safe, plain, bo
 | 5 AGGRESSIVE MARATHON / TACTICS FIRST-TIMERS / SHOULD NEVER TRY | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 0 | 1 | 1 | **8** |
 | **5 TACTICS THAT RUIN / YOUR FIRST MARATHON / (AND MAKE YOUR SECOND)** (April: Luke, "pretty generic") | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | **9** |
 | FINISHER → RACER → HUNTER / (ONLY THE LAST ONE / PASSES YOU AT 35K) (the arc device) | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 1 | 1 | 1 | **9, dead** (fails both must-passes: sorts the viewer, blames their character; the pre-mortem, 16 Nov) |
-| **£250 SHOES MAKE SOME / 4-HOUR RUNNERS SLOWER / (I PASSED THEM IN DUBLIN)** (17 Nov) | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | **10**, both must-passes |
+| £250 SHOES MAKE SOME / 4-HOUR RUNNERS SLOWER / (I PASSED THEM IN DUBLIN) | 1 | 1 | 1 | 0 | 1 | 1 | 0 | 0 | 1 | 1 | **7, dead** (re-scored after pre-mortem 2: a known debate, SOME lets everyone out, the enemy is the owner's purchase, the title's cause isn't the payoff's) |
