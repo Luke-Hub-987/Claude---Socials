@@ -1,7 +1,7 @@
 ---
 type: brief (ideas chat): the reel for Tue 17 Nov
 generated_at: 2026-11-16
-status: needs Luke's yes; no new facts (everything is in FACTS or past scripts); the gate chat writes the script
+status: DEAD (pre-mortem 16 Nov: `2026-11-16-premortem-psychology.md`); no new facts (everything is in FACTS or past scripts); the gate chat writes the script
 why: Luke, 16 Nov, on 5 TACTICS THAT RUIN: "Pretty generic video... would do well close to marathon in April but need to be more creative like all those other recent OSTs and cover photos I showed you, you know what worked in each". The tactics go to April (spring race week)
 ---
 

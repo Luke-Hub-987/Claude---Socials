@@ -19,6 +19,13 @@ why: Luke, 13 Nov: "you keep reverting to the mean... playing it safe, plain, bo
 | 9 | **A reason to stay to the end** | An escalation or sting in brackets, or a count | Nerves of steel: the tag was the 24x |
 | 10 | **The top line carries the pulse** | No question, filter or "why" up top; the verdict first | Ogilvy: the first words are the most read (v2 wasted them on "4-HOUR MARATHONER?") |
 
+**Must-pass, whatever the total (16 Nov, after the arc scored 9 and the pre-mortem killed it):**
+- **Test 4 passes as "a belief they hold, broken"**: every winner did it.
+- **The enemy is outside the viewer** (the advice, the myth, the body, the
+  industry), never their character or their rank.
+- **First, one question:** can the viewer answer the title about themselves in
+  one second ("which one are you?")? If yes, it's dead before it's scored.
+
 **Rules that come with it**
 - The most aggressive **true** version goes first, every time. Never a safe one
   "to be careful": the facts make it careful, not the words.
@@ -40,4 +47,5 @@ why: Luke, 13 Nov: "you keep reverting to the mean... playing it safe, plain, bo
 | **WATER IS POISONING / 4-HOUR MARATHONERS / (1 IN 8 AT BOSTON)** (17 Nov) | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | **10** (shelved: Luke, the fight is against our own gel-with-water advice; scores don't catch that) |
 | 5 AGGRESSIVE MARATHON / TACTICS FIRST-TIMERS / SHOULD NEVER TRY | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 0 | 1 | 1 | **8** |
 | **5 TACTICS THAT RUIN / YOUR FIRST MARATHON / (AND MAKE YOUR SECOND)** (April: Luke, "pretty generic") | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | **9** |
-| **FINISHER → RACER → HUNTER / (ONLY THE LAST ONE / PASSES YOU AT 35K)** (17 Nov; the arc device) | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 1 | 1 | 1 | **9** |
+| FINISHER → RACER → HUNTER / (ONLY THE LAST ONE / PASSES YOU AT 35K) (the arc device) | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 1 | 1 | 1 | **9, dead** (fails both must-passes: sorts the viewer, blames their character; the pre-mortem, 16 Nov) |
+| **£250 SHOES MAKE SOME / 4-HOUR RUNNERS SLOWER / (I PASSED THEM IN DUBLIN)** (17 Nov) | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | **10**, both must-passes |
