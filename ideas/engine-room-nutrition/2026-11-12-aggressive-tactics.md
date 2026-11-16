@@ -78,3 +78,35 @@ if it's your first, don't touch them." (22 words)
 - **Chairman:** go with 5 AGGRESSIVE MARATHON / TACTICS FIRST-TIMERS / SHOULD
   NEVER TRY once the 5 are real. Don't film it until every tactic would make a
   second-timer say "I'd never have tried that".
+
+## For Tue 17 Nov (16 Nov): the post after the carousel
+Luke posted the heavier carousel on 16 Nov and needs a reel for 17 Nov. The water
+reel was shelved (it contradicted our gel-with-water advice), so this goes next:
+it was planned for this week, it's Luke's own idea, and it's off the fuel-only
+run (fourth hour, carousel) without leaving it.
+
+**OST v2: 5 TACTICS THAT RUIN / YOUR FIRST MARATHON / (AND MAKE YOUR SECOND)**
+(19 / 19 / 22), RUIN in red. **9/10.** v1 (5 AGGRESSIVE MARATHON / TACTICS
+FIRST-TIMERS / SHOULD NEVER TRY) scores 8: any account could post it and nobody
+says it to a mate. v2 is a contrast pair people repeat, uses Luke's word (ruin),
+has "your", and the bracket is the reason to stay. Test 7 (only us) is still the
+weak one: what makes it ours is inside (the fuel dose, the gel clock, Luke's
+Dublin passing).
+
+**The check against our own advice (new rule, 16 Nov):**
+| Tactic | What we've said before | Clash? |
+|---|---|---|
+| The hunt from 30K | Hold back, pass people from 35K (10 Oct) | No: the advanced version; the first-timer line is our old advice |
+| The pro dose, 90 g an hour | FACTS: 60 g an hour; "90 g, too much" | No: that's why it's banned for first-timers. Up to 90 g an hour (glucose plus fructose) in events over 2.5 hours, only with a trained gut (Jeukendrup, *Sports Med* 2014). "Practise it on 3 long runs first" |
+| The caffeine ambush, last 10K | Out of the wall (28 Sep): caffeine at the wall, for the last few K, only if tested | No: the same advice, sharper |
+| The downhill drop | No past advice found | Honest cost: downhill running loads the thighs as they lengthen, the classic cause of sore, damaged quads |
+| Luke's fifth | | Needs Luke |
+
+**Needs from Luke tonight:** his fifth tactic, and (optional, the proof for the
+hunt) his positions at 30K and at the finish in Dublin. Fallback fifth if he has
+none: **the max load**, 12 g per kilo the day before (IOC's top end; ours is 8
+to 10), honest cost bloated and the toilet queue. It sits near today's carousel,
+so it's the fallback, not the pick.
+
+**Frame one:** the fourth-hour template (white 16:9 title card full width, RUIN
+in red, Luke alone, eyes on the lens, 3 seconds, the overlay file).
