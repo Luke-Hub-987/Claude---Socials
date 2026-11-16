@@ -57,3 +57,4 @@ why: Luke, 13 Nov: "you keep reverting to the mean... playing it safe, plain, bo
 | **5 TACTICS THAT RUIN / YOUR FIRST MARATHON / (AND MAKE YOUR SECOND)** (April: Luke, "pretty generic") | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | **9** |
 | FINISHER → RACER → HUNTER / (ONLY THE LAST ONE / PASSES YOU AT 35K) (the arc device) | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 1 | 1 | 1 | **9, dead** (fails both must-passes: sorts the viewer, blames their character; the pre-mortem, 16 Nov) |
 | £250 SHOES MAKE SOME / 4-HOUR RUNNERS SLOWER / (I PASSED THEM IN DUBLIN) | 1 | 1 | 1 | 0 | 1 | 1 | 0 | 0 | 1 | 1 | **7, dead** (re-scored after pre-mortem 2: a known debate, SOME lets everyone out, the enemy is the owner's purchase, the title's cause isn't the payoff's) |
+| **ULTRARUNNERS WALK / ON PURPOSE. / MARATHONERS WALK AT 32K** (17 Nov; built from the five levers first) | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | **10**, both must-passes, no hedge, title and payoff blame the same thing |
