@@ -538,3 +538,4 @@ twice without being checked against the winners (P99).
 - [ ] **Swearing (P209):** mild, one a script, in the audio about the cost; never in the OST or caption line one; never at people.
 - [ ] **OST scorecard (P210):** 9 or more of 10 on OST-SCORECARD.md, the score shown next to the OST in chat; the most aggressive true version first (G10 field).
 - [ ] **Carousels (P211):** one beat a slide (P202 exempt on slides, not the caption); 3:4 for TikTok and a drawn 4:5 set for Instagram; cover headline in the title-card style with both characters; our runner and coach only; weights from the base.
+- [ ] **Carousel cover (P211 amended):** the cover shows the problem, never the quiz's answer; solo slides as waist-up close-ups.

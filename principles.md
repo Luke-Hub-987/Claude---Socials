@@ -6182,6 +6182,12 @@ characters. Our characters only: the runner (bib 214, blue vest) and the coach
 props (plates of food, scales, a fuel gauge). Example weights start at the base
 (80kg, then 81.5kg). Page: `motion/carousel-heavier/carousel.html` (?n=&h=).
 
+**Amended (16 Nov, the review pass):** the cover never answers the quiz (row 1:
+v1's cover said AND FASTER FOR IT, then slide 2 asked which one is faster). The
+cover shows the problem. Solo slides are waist-up close-ups so the eyes and
+eyebrows read at phone size; the acting is in the face and the hands, not the
+outfit.
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
