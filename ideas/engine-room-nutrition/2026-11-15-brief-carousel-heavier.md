@@ -125,3 +125,17 @@ the easiest comment to leave).
   19 slides and writes the caption; TikTok Fri 21 Nov.
 - **Chairman:** go, TikTok first, Instagram on 30 Nov if over half the photos get
   seen.
+
+## Facts update (16 Nov)
+- **The loaded runner runs faster:** sub-elite marathon runners who ate more than
+  7 g/kg of carbs the day before ran significantly faster (Atkinson and others,
+  2011, *Int J Sports Med*, doi 10.1055/s-0031-1273739); loading postpones fatigue
+  in events over about 90 minutes (Hawley and others, 1997, *Sports Med*,
+  PubMed 9291549). Slide 4 holds.
+- **About 1 to 2 kg gained:** only coaching sources (Topend Sports, Styrkr), built
+  on 2.7 to 4 g of water per gram of glycogen. No study weighed runners. So the
+  1.5 kg on the slides stays as an example, and the caption says "about 1 to 2 kg
+  is typical", not a study.
+- **Timing (16 Nov):** the fourth-hour reel (fuel) went to 15K in 12 hours; the
+  carousel keeps the fuel lane with a different twist (the scales), not a sequel.
+  TikTok photo mode first.
