@@ -216,6 +216,8 @@ a new cause becomes a new row in the same turn.**
 
 **As of 4 November 2026.**
 
+**Next (Tue 17 Nov): WATER IS POISONING / 4-HOUR MARATHONERS / (1 IN 8 AT BOSTON)** (10/10; Almond 2005 Boston: 13% hyponatremic, over 4:00 odds 7.4x; brief `ideas/engine-room-nutrition/2026-11-16-brief-water-poisoning.md`, needs Luke's yes; carousel on IG Wed or Thu).
+
 **Posted 15 Nov 7:43pm: 4-HOUR MARATHONS DIE / IN HOUR 4 / (EVEN THE FIT ONES).** At ~12h: IG + FB **14,995 (8,724 IG, 6,271 FB), skip 27.0%, 29s, saves 1.7%, shares 0.4%, likes 1.5%**, still climbing; TikTok 3,812, 14.9s, **8 follows**. Our best since September. Frame one on the brief for the first time in five posts (white title card full width, DIE in red, Luke alone, eyes on the lens): skip 60.5% (wall) to 27.0% in the same week. Luke's line one killed the 90-minute myth with proof. The evening rule was wrong (P144 already said time doesn't predict views). Template: this frame one; the myth killed first; the fuel lane with new twists. `ideas/2026-11-16-fourth-hour-review.md`.
 
 **Posted 13 Nov 6:20pm (not Fri 7am): THE MARATHON WALL / HITS YOU IN 5 STAGES / (EACH ONE MORE BRUTAL).** At ~43h: IG + FB **2,002 (1,278 IG, 724 FB), skip 60.5% (our worst ever), 15s, saves 1.1% (best since 6 Nov), shares 0, 0 follows**; body flat at ~20% from 0:10 to 1:20; TikTok 954, 11.9s, 2 follows. Frame one: the title squeezed into the left half of a dark 16:9 card beside a finish-line photo (rows 33, 22, 4 repeated two days after row 33; fourth post running off the brief). Fixes: frame one delivered as a finished 9:16 overlay PNG; no post without the 0:00 screenshot matched; 7am; the wall off the profile until January (trial reels only). `ideas/2026-11-15-wall-5-stages-review.md`.
