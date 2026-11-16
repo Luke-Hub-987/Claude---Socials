@@ -110,3 +110,5 @@ so it's the fallback, not the pick.
 
 **Frame one:** the fourth-hour template (white 16:9 title card full width, RUIN
 in red, Luke alone, eyes on the lens, 3 seconds, the overlay file).
+
+**Moved to April (Luke, 16 Nov): "pretty generic... would do well close to marathon in April".** Tue 17 Nov is `2026-11-16-brief-finisher-racer-hunter.md`.

@@ -216,7 +216,7 @@ a new cause becomes a new row in the same turn.**
 
 **As of 4 November 2026.**
 
-**16 Nov: the heavier carousel posted.** **Tue 17 Nov: 5 TACTICS THAT RUIN / YOUR FIRST MARATHON / (AND MAKE YOUR SECOND)** (9/10; `ideas/engine-room-nutrition/2026-11-12-aggressive-tactics.md`, "For Tue 17 Nov"); needs Luke's fifth tactic and his Dublin positions. The water reel was shelved by Luke (contradicts our gel-with-water advice): check FACTS and past scripts before killing a myth.
+**16 Nov: the heavier carousel posted.** **Tue 17 Nov: FINISHER → RACER → HUNTER / (ONLY THE LAST ONE / PASSES YOU AT 35K)** (9/10; the arc device from Luke's pack, unused till now; `ideas/engine-room-nutrition/2026-11-16-brief-finisher-racer-hunter.md`). 5 TACTICS moved to April (Luke: generic). The water reel was shelved (contradicts our gel-with-water advice): check FACTS and past scripts before killing a myth.
 
 **Posted 15 Nov 7:43pm: 4-HOUR MARATHONS DIE / IN HOUR 4 / (EVEN THE FIT ONES).** At ~12h: IG + FB **14,995 (8,724 IG, 6,271 FB), skip 27.0%, 29s, saves 1.7%, shares 0.4%, likes 1.5%**, still climbing; TikTok 3,812, 14.9s, **8 follows**. Our best since September. Frame one on the brief for the first time in five posts (white title card full width, DIE in red, Luke alone, eyes on the lens): skip 60.5% (wall) to 27.0% in the same week. Luke's line one killed the 90-minute myth with proof. The evening rule was wrong (P144 already said time doesn't predict views). Template: this frame one; the myth killed first; the fuel lane with new twists. `ideas/2026-11-16-fourth-hour-review.md`.
 

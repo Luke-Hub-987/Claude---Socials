@@ -39,4 +39,5 @@ why: Luke, 13 Nov: "you keep reverting to the mean... playing it safe, plain, bo
 | **GAIN 1.5KG BEFORE / YOUR MARATHON / (OR RUN SLOWER)** (carousel cover) | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | **10** |
 | **WATER IS POISONING / 4-HOUR MARATHONERS / (1 IN 8 AT BOSTON)** (17 Nov) | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | **10** (shelved: Luke, the fight is against our own gel-with-water advice; scores don't catch that) |
 | 5 AGGRESSIVE MARATHON / TACTICS FIRST-TIMERS / SHOULD NEVER TRY | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 0 | 1 | 1 | **8** |
-| **5 TACTICS THAT RUIN / YOUR FIRST MARATHON / (AND MAKE YOUR SECOND)** (17 Nov) | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | **9** |
+| **5 TACTICS THAT RUIN / YOUR FIRST MARATHON / (AND MAKE YOUR SECOND)** (April: Luke, "pretty generic") | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | **9** |
+| **FINISHER → RACER → HUNTER / (ONLY THE LAST ONE / PASSES YOU AT 35K)** (17 Nov; the arc device) | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 1 | 1 | 1 | **9** |
