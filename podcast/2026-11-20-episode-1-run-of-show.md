@@ -15,9 +15,7 @@ can say the bet before you're any fitter. Even if the sound is rough, it's the
 **Length:** 25 to 30 minutes.
 
 ## Fill these in before Friday (only you know them)
-1. **Which top 10 do you mean?** Last year, 10th overall was **8:29:15**. 10th
-   in the Ultra - Male class, the one in your screenshot, was **10:35:37**.
-   Say the one you're going for on air.
+1. **Settled: top 10 in the Ultra - Male class** (10:35:37 last year; 10th overall was 8:29:15). Always say "in my class".
 2. **Your honest guess for your time if the race were tomorrow.**
 3. **Your rough 8-week plan:** runs a week, the longest run, any night or
    mountain sessions.
@@ -35,8 +33,8 @@ quick-fire. Keep this card on a second screen or printed. When you finish,
 | Time | Part | What happens |
 |---|---|---|
 | 0:00 | **Cold open** | Picked in the edit. Most likely Jamie's first reaction to "top 10" |
-| 0:30 | **The bet + the question** (Luke, to the lens, one breath) | "It's 20 November. On 15 January I'm running the Art O'Neill: 62K from Dublin Castle, over the mountains to Glenmalure, through the night. I've said top 10. Last year, 10th was [8:29 / 10:35], and I'm not fit enough. So today: what can 8 weeks actually change, for my race and for your spring marathon?" Then one line on who you are: "I'm Luke, that's Jamie, we've both got jobs, we're building Engine Room, and we've written about 200 marathon plans this autumn." |
-| 1:00 | **The week** (loose, about 6 min) | Jamie asks: "Honestly, top 10? Where are you right now?" (blank 2). What each of you ran this week. **Agree the forfeit** (blank 4). **Jamie names his own bet:** Western Yards Backyard, top 10. A backyard ultra in one sentence: a 6.7K lap every hour, on the hour, until one runner is left. That's season 2's tease. Then how the week's running fitted around work (P215: fine to say, but no "it makes me better at my job") |
+| 0:30 | **The bet + the question** (Luke, to the lens, one breath) | "It's 20 November. On 15 January I'm running the Art O'Neill: 62K from Dublin Castle, over the mountains to Glenmalure, through the night. I've said top 10 in my class. Last year, 10th in my class was 10:35, and I'm not fit enough. So today: what can 8 weeks actually change, for my race and for your spring marathon?" Then one line on who you are: "I'm Luke, that's Jamie, we've both got jobs, we're building Engine Room, and we've written about 200 marathon plans this autumn." |
+| 1:00 | **The week** (loose, about 6 min) | Jamie asks: "Honestly, top 10? Where are you right now?" (Luke corrects it straight away: "top 10 in my class") (blank 2). What each of you ran this week. **Agree the forfeit** (blank 4). **Jamie names his own bet:** Western Yards Backyard, top 10. A backyard ultra in one sentence: a 6.7K lap every hour, on the hour, until one runner is left. That's season 2's tease. Then how the week's running fitted around work (P215: fine to say, but no "it makes me better at my job") |
 | 7:00 | **This week's question** (a conversation, about 12 min) | The four prompts below, in order. The one call to action lands about 10:00 |
 | 19:00 | **Quick-fire** (5 questions x 45 seconds, timer on) | Below. Jamie reads the question, Luke answers to the lens, a clap after each one |
 | 25:00 | **The one thing + next week** | Each of you gives one action for the listener, one number, to the lens. Next week's question goes out to them: "what went wrong at your last race?" Replies by email or the story box. Close: "See you next week. [X] weeks to go." |
