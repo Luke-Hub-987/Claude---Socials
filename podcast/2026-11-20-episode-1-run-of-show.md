@@ -26,7 +26,7 @@ spring marathons are 16 to 20 weeks away, so every round ends on what they
 should do at their own distance from race day.
 
 Working title: *8 weeks or 28: what can you actually change before a race?*
-25 to 30 minutes. Out Wed 2 December with episodes 2 and 3, if Friday goes well.
+25 to 30 minutes. Out Sunday 22 November (Luke, 17 Nov), then every Sunday.
 
 ## How it runs (both of us answer everything)
 1. **The open (first minute).** Each says his bet to the lens, then the stake: "Whoever misses does a forfeit, and you're picking it." Then together: "We've both got jobs, we're building Engine Room, and we've written about 200 marathon plans this autumn."
@@ -60,6 +60,15 @@ Working title: *8 weeks or 28: what can you actually change before a race?*
 - The loser runs a parkrun in an outfit the listeners choose.
 - The loser eats the listeners' most-hated gel flavour, live on the podcast.
 - The loser runs a week of the winner's training, the winner choosing the sessions.
+
+## Launch weekend
+| When | What |
+|---|---|
+| Fri 20 Nov | Record |
+| Sat 21 Nov | Edit in Riverside: trim, cut the cold open (best 30 seconds, usually round 2), captions, split screen; pick a thumbnail frame of both |
+| Sun 22 Nov | YouTube and Spotify. Description line one: the plan offer and link. Chapters per round. Story: forfeit poll, Team Luke or Team Jamie |
+| Mon to Sat | One myth-or-fact clip a day on TikTok and Shorts |
+| By Sun 29 Nov | Episode 2 recorded and out |
 
 ## Before you press record
 Separate rooms, wired headphones (not AirPods), Riverside shows the clip-on mic.
