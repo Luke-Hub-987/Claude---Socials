@@ -6,6 +6,8 @@ the numbers), `principles.md`, and the failure ledger in `CLAUDE.md`.
 Nothing said on the podcast may contradict a reel (the consistency points
 in CLAUDE.md).
 
+## Name (17 Nov): FASTER THAN YOU DESERVE, by Engine Room (plan 0.9)
+
 ## Next: Friday 20 Nov, record episode 1 (the bet)
 `podcast/2026-11-20-episode-1-run-of-show.md`. Out Sunday 22 Nov, then every Sunday (plan 0.8).
 

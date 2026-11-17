@@ -290,6 +290,55 @@ runner with a full-time job finish top 10 at [race]?*, comes out about 2 to 3
 weeks after 15 January for the edit (early February), so it takes February's
 slot. The Seville guide moves to the reels.
 
+
+## 0.9 The name (17 Nov): FASTER THAN YOU DESERVE
+**Recommended: *Faster Than You Deserve*, by Engine Room.** Subtitle: *race
+advice from two runners with jobs*.
+
+**Why (the Ogilvy test):** treat the name as a headline, because people read it
+before anything else. Ogilvy's rules: promise a benefit that's in the reader's
+self-interest, be specific, never be clever for the sake of it, and put the
+brand name in the headline.
+- **The benefit:** you finish faster than your training says you should. That's
+  our whole method (pacing, fuel, the carb load), and it's lever 1: your fitness
+  didn't fail you, your race plan did.
+- **It's the season's story too:** two runners who say they aren't fit enough,
+  both going for a top 10. Every episode is the title being tested.
+- **It's one idea across the channel:** the January flagship video is HOW TO RUN
+  A MARATHON FASTER THAN YOU DESERVE. The podcast and the video share the
+  promise, so each sells the other.
+- **The bar fits it** without a pitch: fuel is how you run faster than you
+  deserve.
+- **The brand is in the name:** "by Engine Room" on every episode, thumbnail
+  and listing.
+- **Clash check (17 Nov web search, P214):** no podcast found called Faster Than
+  You Deserve. "The Engine Room" is taken several times over (energy, transport,
+  marketing shows), so Engine Room on its own stays the brand, not the show name.
+  Social handles weren't checked; Luke to try @fasterthanyoudeserve on YouTube,
+  Instagram and TikTok.
+
+**Rejected:** *Engine Room Running* (safe, but it promises nothing, and the name is
+crowded); *Not Fit Enough (Yet)* (great for this season, but it's about us, and
+it dates after the races).
+
+**Council (P150):**
+- *Contrarian:* "deserve" can read as a dig ("you don't deserve to be fast"), or
+  as cheating.
+- *Assumption-ripper:* that one phrase can carry both a podcast and a flagship
+  video without the two blurring together.
+- *Expansionist:* it's a catchphrase. "That's faster than you deserve" becomes
+  the line when a listener's result comes in, and the result emails become
+  content.
+- *Outsider:* "Is it a running show?" The subtitle says so.
+- *Executor:* lock the name before Sunday; the artwork is the title-card style
+  (black on white) with both faces; check the handles.
+- *Cross-review:* the dig risk is real but small: said aloud with a grin, it
+  flatters ("you'll beat what your training earned"). Sharing the phrase with
+  the video is a strength, as long as the video stays THE framework and the
+  podcast stays the weekly show.
+- *Chairman:* **Faster Than You Deserve, by Engine Room.** Lock it before
+  Sunday's upload.
+
 ---
 
 # v1 below (still the reference for setup, packaging, topics and rules)
