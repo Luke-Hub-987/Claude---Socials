@@ -97,7 +97,8 @@ fast fitness comes needs a source in FACTS before the script.
 - **The podcast is the weekly, loose show; long-form is the full guide.** Say it
   once in each ("the full framework is on the channel"; "we talk about this
   every week on the podcast"). Same ERN channel, its own playlist.
-- **The podcast is THE RACE PLAN** (plan 0.10); "faster than you deserve" is
+- **The podcast's name lives in the podcast plan** (recommended 17 Nov: ON FUMES,
+  waiting on Luke); this file doesn't repeat it. "Faster than you deserve" is
   only this video's title. Engine Room is the brand, never a show or video title
   ("The Engine Room" is another endurance podcast). The video's description
   links the show; the 3 Jan episode gives the video one line and a link.
