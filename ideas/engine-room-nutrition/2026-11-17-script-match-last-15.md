@@ -25,6 +25,7 @@ format: Instagram trial reel from ERN (non-followers; auto-share off, no collabo
 - Turn: "When Danish fourth-division players had muscle taken from their legs after a match, about half the fibres were nearly empty."
 - Frame one: Luke and the title only, top band, full width, black bold on white, WON'T in red (P205, P207); nothing else until stage 1; Luke in a football top or plain top, not a running top
 - Frame one words: title only
+- Graphics for Luke's two trial titles (17 Nov, white): A ORANGES WON'T SAVE / YOUR LEGS AT 75 MINS / (SUNDAY LEAGUE) and B SUNDAY LEAGUE LEGS, / PREMIER LEAGUE FUEL / (STILL FLYING AT 85): `motion/match/match-{a,b}-title-16x9.png`, `-title-overlay-9x16.png`, `-cover-16x9.png`, `-frame-one-phone.png`
 - Graphics (17 Nov, gate chat): title cards `motion/match/match-title-{white,navy}-{2,3}line-16x9.png` and 9:16 overlays `...-overlay-9x16.png` (white recommended: the posted fourth-hour card was white); cover `motion/match/match-cover-{2,3}line-16x9.png`; stage cards `motion/match/match-card-{1a,1b,2,3,4,study}-16x9.png` (pages `motion/match/cards.html`, `motion/match/cover.html`)
 - Mockup: ideas/engine-room-nutrition/mockups/2026-11-17-match-oranges-frame-one.png
 - Mockup B: ideas/engine-room-nutrition/mockups/2026-11-17-match-fuel-frame-one.png
