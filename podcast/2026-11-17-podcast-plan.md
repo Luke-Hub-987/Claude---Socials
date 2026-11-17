@@ -236,6 +236,7 @@ shot. Get most of the story before and after.
 
 ## 0.8 The dates (Luke, 17 Nov): this overrides the seasons in 0.7
 **Launch (Luke, 17 Nov): episode 1 goes out Sunday 22 November, alone, then every Sunday.** This replaces the 3-at-once launch on 2 or 9 Dec. The trade: no back catalogue to binge, but the bet is public with 8 weeks still to go. Season 1 Sundays: 22 Nov, 29 Nov, 6 Dec, 13 Dec, 20 Dec, (27 Dec off or banked), 3 Jan, 10 Jan (race week), the race Fri 15 Jan, and the result Sun 17 Jan. Episode 2 is recorded by 29 Nov.
+**Sun 3 Jan episode:** the framework video (out Sat 2 Jan, YouTube chat) gets one line and a link, never a recap of the method, so the video keeps its reason to be watched.
 
 **Every episode from 1 (Luke, 17 Nov: two-way, fun, stakes):** a season scoreboard (myth-or-fact points, weekly side bets), a listener-picked forfeit for whoever misses his top 10, both predictions on record and replayed in the result episodes, Team Luke / Team Jamie in the comments.
 
