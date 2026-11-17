@@ -28,17 +28,46 @@ own chat (`podcast/`); the reels chats (ideas, the gate) stay as they are.
   black bold on white in the top band (P205); chapters with searchable names;
   description line one is the email reason.
 
-## The calendar (from plan 0.4; this chat owns it, and updates the plan if it changes)
+## The calendar (from plan 0.4 and 0.8; this chat owns it, and updates the plan if it changes)
+Race dates (FACTS, Luke 17 Nov): Luke's Art O'Neill **Fri 15 Jan 2027**, ranked;
+Luke's Norn Iron 100 and Jamie's Western Yards Backyard, **May 2027** (exact
+dates unconfirmed). Distances and formats are unconfirmed: never stated.
+
 | Out | Video | Why then | Status |
 |---|---|---|---|
 | **Sun 3 Jan 2027** | **How to run a marathon faster than you deserve: our 2027 framework** | London blocks start Mon 4 Jan; new-year planning | **Brief done** (`youtube/2027-framework-brief.md`), waiting on Luke |
-| Late Jan | The Seville Marathon, km by km, for a 4-hour runner | Seville is 21 Feb (sold out at 20,000, so it's for runners already in) | Not started |
+| **Sun 31 Jan 2027** (by Sun 7 Feb at the latest) | **The Art O'Neill documentary: Luke's top-10 attempt** | 16 days after the race: edit time, still fresh; takes February's slot | Shot list below; title to rewrite (see below) |
 | Late Feb or Mar | The bar: everything that failed before it worked | The launch | Needs the bar's dates |
 | Late Mar | The London Marathon, mile by mile, for a 4-hour runner | London 25 Apr | Not started |
-| After the race | The documentary: Luke's top-10 attempt (plan 0.7) | Released after the race; title leads with the stake | Needs the race facts |
+| June | May, head to head: the Norn Iron 100 and Western Yards (season 2's documentary) | After both races | Needs the May dates |
 
-Gate on the calendar (plan 0.6, Executor): the second long-form only once 4
+**Moved:** the Seville guide goes to the reels (the reels chats), not long-form.
+Gate on the calendar (plan 0.6, Executor): the documentary still goes out if
+the podcast slips, because the race won't wait; the London guide only once 4
 podcasts have gone out on time.
+
+## The Art O'Neill documentary: shot list
+**The rule (plan 0.7):** Luke's race is the story; the marathoner's lesson is
+what each chapter hands over. Never a distance, course or format on screen
+until Luke gives it.
+**Title: to rewrite.** The plan's "Can a runner with a full-time job finish top
+10..." breaks the voice.md hard rule (no job or career framing about Luke).
+Working title, leading with the stake: *I wasn't fit enough for the top 10. I
+had 8 weeks.* (Luke to OK; the number of weeks is from today to 15 Jan.)
+
+| Chapter | What to film | When | Owner |
+|---|---|---|---|
+| **1. Before** | The bet to the lens, 2 minutes ("15 January, the Art O'Neill, top 10, and I'm not fit enough"), plus the benchmark run: same route, same effort, the time and heart rate on the watch, filmed at the start and the finish | **This week** (it can't be filmed later) | Luke |
+| **2. The training** | One clip a week, same framing: the hardest session of the week, the watch at the end, one line on what went wrong. The carb load tried on a long run (the scales, the food on the table). The fuel clock on a long run (30 g every 30 minutes, the watch showing 20 and 50 past). A night or a dark-morning run if the race is at night (format unconfirmed) | Weekly, from now to 10 Jan | Luke, phone on a chest strap or held by Jamie |
+| **3. The benchmark, again** | The same route and effort as chapter 1, the two watch screens side by side | First week of January | Luke |
+| **4. Race week** | The last 7 days and the last 24 hours: the carb load, the kit laid out, the bet said again | 8 to 15 Jan | Luke and Jamie |
+| **5. Race night** | **Only where it's safe and the race allows it:** the start, any checkpoint footage the rules allow, a chest-pocket phone, a head torch in shot. Jamie films the start and the finish. Nothing that slows Luke or breaks a race rule; most of the story comes from before and after | 15 Jan | Jamie (Luke only if it's safe) |
+| **6. The result** | The finish, the ranking on the official results, Luke straight after (before he's had time to tidy the story), then a calm debrief in the car the next day: top 10 or not, and what he'd change, one number per thing | 15 to 17 Jan | Luke and Jamie |
+
+The lessons each chapter hands to a marathoner come from plan 0.7's table
+(how much fitter you can get by a race date, fuelling for many hours, walking
+on purpose, race week, what to do when the goal's gone). Any claim about how
+fast fitness comes needs a source in FACTS before the script.
 
 ## How it links to the podcast and the emails
 - **The podcast is the weekly, loose show; long-form is the full guide.** Say it
@@ -55,6 +84,7 @@ podcasts have gone out on time.
 
 ## Waiting on Luke
 1. The 2027 framework brief: yes, or what changes (questions at the end of the brief).
-2. The documentary: the race facts (date, distance, format, whether finishers
-   are ranked) before anything is planned; and a title without the job line.
+2. The documentary: OK the working title (no job line); start the "before"
+   video and benchmark this week; whether the race allows filming on the
+   course, and what's said about the race's distance and format.
 3. The bar's launch window, which sets the date of the bar film.

@@ -96,7 +96,8 @@ number there.
 - **The 4:02 cold open is the smallest of the four effects.** It's true and
   it's ours, but it's the watch, not the tank. It earns the first minute; the
   tank has to carry the rest. If it reads as a trick, open on the 32K instead.
-- **Release week may clash with Luke's race** (January, date unconfirmed).
+- **Filming falls in Luke's race block** (the Art O'Neill is Fri 15 Jan): the
+  two long-run shoots should be runs he's doing anyway, not extra ones.
 - **Everything is filmed in December**, in the dark and the cold, with
   Christmas in the middle: the two long-run shoots need dates this week.
 - **The bar isn't for sale in early January.** One line at the slot, no pitch,
@@ -135,8 +136,8 @@ number there.
   it on sign-ups from its own link.**
 
 ## Questions for Luke
-1. **Yes to the tank as the spine,** and to Sun 3 Jan? (Or a different week if
-   your race is that week: what's the date?)
+1. **Yes to the tank as the spine,** and to Sun 3 Jan? (12 days before the
+   Art O'Neill, so it's edited before race week.)
 2. **Two filming days in December:** which long runs can you film (the first
    10K, and a run with gels at 20 and 50 past), and one evening in the car?
 3. **Jamie in the car set**, asking the viewer's questions: is he in?
