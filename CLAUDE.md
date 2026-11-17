@@ -221,3 +221,9 @@ Klaviyo connector live (17 Nov). Review: `ideas/2026-11-17-klaviyo-campaigns-rev
 unsubs over 0.5% on the last two sends; plan tracking still 1 event).
 Next campaign: `emails/2026-11-17-block-start-campaign.html`, send Tue 1 Dec,
 subject "London 2027? Start training 4 Jan", reply by Sun 13 Dec.
+Two emails this week (18 Nov), replacing the 1 Dec block-start send:
+`emails/2026-11-18-email-1-where-your-marathon-starts.html` (Wed 8am,
+whole list minus Replied and new) and `emails/2026-11-18-email-2-where-will-it-go-wrong.html`
+(Sat 9am, Email 1 openers only, reply with one number; reply bank in
+`emails/2026-11-18-two-emails-this-week.md`). Count of each number = next
+video topic.
