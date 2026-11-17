@@ -1,7 +1,7 @@
 ---
 type: long-form YouTube brief (P138), not a script
 video: HOW TO RUN A MARATHON FASTER THAN YOU DESERVE: OUR 2027 FRAMEWORK
-out: Sun 3 Jan 2027 (London blocks start Mon 4 Jan, FACTS spring table)
+out: Sat 2 Jan 2027 (London blocks start Mon 4 Jan, FACTS spring table; Saturday so it doesn't land on a podcast Sunday)
 length: 16 to 20 minutes
 basis: podcast plan 0.4, 0.5, 0.7; FACTS (fuel, pacing, the fourth hour, carb loading, watch bands, plan results); P126, P127, P134, P138, P150, P158, P212, P213; PLAN-winners; ideas/2026-10-31-why-our-top-reels-won.md (the car set)
 status: waiting on Luke's yes and the 6 answers at the end
@@ -122,7 +122,7 @@ number there.
   the two days before" and never say "framework" in the audio after the title.
 - **Executor:** Luke's yes this week; two long runs filmed in December (the
   first 10K and the gel clock) and one car session; script by 14 Dec through
-  the facts check; edit over Christmas; out Sun 3 Jan with the trailer reel and
+  the facts check; edit over Christmas; out Sat 2 Jan with the trailer reel and
   an email the same morning. Judged on sign-ups from the YouTube link and
   average view duration, not views.
 - **Blind cross-review:** The compilation point stands, and the tank answers
@@ -133,11 +133,11 @@ number there.
 - **Chairman:** **Make it, built on the tank: four parts, each a number they
   do, sub-4 as the worked example, every goal on the page. Cold open on the
   4:02 finish, define "deserve" in the first minute, Luke and Jamie as
-  equal co-hosts in the car. Out Sun 3 Jan with a trailer reel and an email; judge
+  equal co-hosts in the car. Out Sat 2 Jan with a trailer reel and an email; judge
   it on sign-ups from its own link.**
 
 ## Questions for Luke (three, quick)
-1. **Yes to the tank as the spine, out Sun 3 Jan?**
+1. **Yes to the tank as the spine, out Sat 2 Jan?**
 2. **Is Jamie in for one evening in the car in December?** Two long runs you're
    doing anyway give the run clips.
 3. **Weight on the email form, or a table by weight instead?** (I'd skip the

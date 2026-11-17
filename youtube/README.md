@@ -37,8 +37,8 @@ one listing says Sat 5 June, to confirm.
 
 | Out | Video | Why then | Status |
 |---|---|---|---|
-| **Sun 3 Jan 2027** | **How to run a marathon faster than you deserve: our 2027 framework** | London blocks start Mon 4 Jan; new-year planning | **Brief done** (`youtube/2027-framework-brief.md`), waiting on Luke |
-| **Sun 31 Jan 2027** (by Sun 7 Feb at the latest) | **The Art O'Neill documentary: Luke's top 10 in his class** | 16 days after the race: edit time, still fresh; takes February's slot | Shot list below; title to rewrite (see below) |
+| **Sat 2 Jan 2027** | **How to run a marathon faster than you deserve: our 2027 framework** | London blocks start Mon 4 Jan; new-year planning | **Brief done** (`youtube/2027-framework-brief.md`), waiting on Luke |
+| **Sat 30 Jan 2027** (by Sat 6 Feb at the latest) | **The Art O'Neill documentary: Luke's top 10 in his class** | 15 days after the race: edit time, still fresh; takes February's slot | Shot list below; title to rewrite (see below) |
 | Late Feb or Mar | The bar: everything that failed before it worked | The launch | Needs the bar's dates |
 | Late Mar | The London Marathon, mile by mile, for a 4-hour runner | London 25 Apr | Not started |
 | Mid to late June | Head to head: the Norn Iron 100 and Western Yards (season 2's documentary) | After both races (Western Yards may be 5 June) | Needs Western Yards' date confirmed |
@@ -76,10 +76,13 @@ leans on the podcast footage instead. Four things, that's the list:
 | **The bets** | Fri 20 Nov, from the podcast episode 1 recording | Already being filmed; nothing extra |
 | **The benchmark** | Sat 21 Nov, and the same run again in the first week of January | Phone propped at the start: the watch to the lens before and after (time and heart rate) |
 | **A few training clips** | Any time, if there are two spare minutes | Watch to the lens at the end of a hard run or a night run, one line on how it went |
-| **Before and after the race** | 15 Jan | A selfie clip at the start, one at the finish; the result in the podcast episode of 20 Jan |
+| **Before and after the race** | 15 Jan | A selfie clip at the start, one at the finish; the result in the podcast episode of 17 Jan |
 
-**Shape:** about 10 to 12 minutes, not 18: the podcast's bet and result
-episodes carry most of it, the phone clips fill the gaps. Nothing filmed on
+**Shape:** about 10 to 12 minutes, not 18: the podcast's bet episode (out Sun
+22 Nov) and result episode (Sun 17 Jan) carry most of it, the phone clips fill the gaps. **The spine is the predictions on record in
+episode 1:** Jamie's guess at Luke's time, played against the clock at the
+finish, with 10:35:37 on screen. Luke's guess at Jamie's laps is the last line,
+the tease for May. Nothing filmed on
 the course unless it's safe, allowed and Luke wants to. Jamie is a co-host
 with his own bet (Western Yards, top 10), so the film ends on his race to come.
 
@@ -89,6 +92,8 @@ on purpose, race week, what to do when the goal's gone). Any claim about how
 fast fitness comes needs a source in FACTS before the script.
 
 ## How it links to the podcast and the emails
+- **Days:** the podcast goes out every Sunday from 22 Nov, so long-form goes
+  out on Saturdays and never competes with an episode.
 - **The podcast is the weekly, loose show; long-form is the full guide.** Say it
   once in each ("the full framework is on the channel"; "we talk about this
   every week on the podcast"). Same ERN channel, its own playlist.
