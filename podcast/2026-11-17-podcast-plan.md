@@ -235,6 +235,8 @@ shot. Get most of the story before and after.
 
 
 ## 0.8 The dates (Luke, 17 Nov): this overrides the seasons in 0.7
+**Open, Luke to decide:** brands/personal/voice.md has a hard rule against any job or career framing about Luke, "not even lightly", but on 17 Nov Luke himself put "we've both full-time jobs" forward as why listeners will relate. Every "full-time job" and "day job" line in this plan (the subtitle, episodes 1 and 5, Jamie's "7pm on a Tuesday after work") is on hold until he says whether the podcast is the exception. The documentary's working title already avoids it.
+
 **Art O'Neill: Fri 15 Jan 2027, ranked.** Luke also runs the **Norn Iron 100
 in May**, and Jamie runs **Western Yards Backyard around May**. That's 59
 days from today, and 37 days from the Wed 9 Dec launch.
