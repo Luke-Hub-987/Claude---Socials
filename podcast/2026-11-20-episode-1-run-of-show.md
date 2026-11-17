@@ -101,6 +101,10 @@ never met us", and the second take is the clip.
 - Jobs: "we've got jobs" is fine; "ultras make you better at work" is out (P215).
 - Nothing on air contradicts the reels.
 
+## For the documentary (the YouTube chat asked)
+- **Before or after the podcast: one extra take of the bet,** with the phone on a tripod a step or two back (head to waist, horizontal), Luke alone, saying the 0:30 line to the lens. The documentary can use it without the podcast layout.
+- Write down the time on the recording when the bet is said in the podcast.
+
 ## After recording
 1. **Saturday morning: the benchmark run.** A route you can repeat, at a set
    effort. Note the time and the average heart rate. Run it again in the first
