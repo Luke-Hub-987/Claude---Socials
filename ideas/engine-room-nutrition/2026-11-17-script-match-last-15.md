@@ -4,28 +4,31 @@ gate: v1
 brief_ok: Luke 17 Nov ("I'd like to also do that one I had about the matches today... give me both"); brief ideas/engine-room-nutrition/2026-11-16-brief-match-last-15.md
 generated_at: 2026-11-17
 teleprompter: 2026-11-17-teleprompter-match-last-15.txt
+ost_final_by_luke: 17 Nov (Luke picked HALF-TIME ORANGES WON'T / SAVE YOUR LEGS AT 75 MINS / (SUNDAY LEAGUE EDITION), tightened to fit the phone at 7.6vw: ORANGES WON'T SAVE / YOUR LEGS AT 75 MINS / (SUNDAY LEAGUE), WON'T in red, 3 lines; and SUNDAY LEAGUE LEGS, / PREMIER LEAGUE FUEL / (STILL FLYING AT 85) as the second trial reel)
 luke_note: 17 Nov, Luke (2nd): "reference the exact studies... the exact leagues"; the audio now names the Danish fourth division and the Premier League, and each stage shows its source on screen (Source tags). 17 Nov, Luke: "last 15 of what? pros in what? what sport?" Title repackaged to name the sport (Sunday league), the minute (75) and, on his yes, the Premier League bracket; line one and stage 1 changed to match
 fixed_after_review: G21 (caption plan for a 10:30am and a 2pm kick-off: meal times, about 2 g/kg for 60, 75 and 90 kg with the food, 30 g after the warm-up and at half-time), G22 (Premier League line cut: under 1.5 g/kg sits inside the 1 to 3 g/kg guideline; 'on a high-carb diet for 2 days'; 'just because you're unfit'; a 'Match day fuel, soccer' block added to FACTS), G23 ('a 30 gram gel or 6 jelly sweets'; porridge for a morning match, pasta in the afternoon), G29 (new line-one shape; new follow line)
 basis: the brief (the levers, the facts, the pre-mortem); UEFA expert group statement on nutrition in elite football (Collins and others, BJSM 2021: pre-match meal 1 to 3 g/kg 3 to 4 hours before kick-off; about 30 to 60 g after the warm-up and again at half-time; 6 to 8 g/kg a day around matches), read from the full text 17 Nov; Harper 2017 (60 g per 500 ml: 250 ml after the warm-up and 250 ml at half-time); Bradley 2009 (28 Premier League matches, read from the abstract 17 Nov); Mohr 2003 (caption only); Krustrup 2006; Balsom 1999; Anderson 2017; Wenger's first Arsenal away trip (1996)
 format: Instagram trial reel from ERN (non-followers; auto-share off, no collaborator), Tue 17 Nov. Not ERN TikTok (3 Nov: runners left at 0:03). Profile only if it beats 4K views and 40% skip at 24 hours, and not before 22 Nov (row 31: the fourth hour's twist)
 ---
 
-# SUNDAY LEAGUE LEGS DIE / AT 75 MINUTES
+# ORANGES WON'T SAVE / YOUR LEGS AT 75 MINS / (SUNDAY LEAGUE)
 
 ## Gate fields
-- OST: SUNDAY LEAGUE LEGS DIE / AT 75 MINUTES
-- OST score: 10/10 (OST-SCORECARD.md, P210; the 2-line rebuild of SUNDAY LEAGUE LEGS DIE / IN THE LAST 15 / (SO DO THE PROS) after the 17 Nov pre-mortem)
+- OST: ORANGES WON'T SAVE / YOUR LEGS AT 75 MINS / (SUNDAY LEAGUE)
+- OST B (second trial reel, same video): SUNDAY LEAGUE LEGS, / PREMIER LEAGUE FUEL / (STILL FLYING AT 85), FUEL in red, 8/10
+- OST score: 9/10 (OST-SCORECARD.md, P210; Luke's pick 17 Nov: the half-time oranges, a tradition every Sunday league player knows, killed; an orange slice is a few grams, FACTS)
 - Markers: THE DAY BEFORE / 3 HOURS BEFORE / WARM-UP AND HALF-TIME / THE LAST 15 MINUTES
 - Gap phrase: legs go at 75 minutes
 - Repeat line: fitness gets you to the last 15, but fuel gets you through it
 - Gap held by: "That's the empty 15, when the lad you skinned beats you to every ball, but you can fill it."
 - Gap closed by: THE LAST 15 MINUTES
 - Turn: "When Danish fourth-division players had muscle taken from their legs after a match, about half the fibres were nearly empty."
-- Frame one: Luke and the title only, top band, full width, black bold on white, DIE in red (P205, P207); nothing else until stage 1; Luke in a football top or plain top, not a running top
+- Frame one: Luke and the title only, top band, full width, black bold on white, WON'T in red (P205, P207); nothing else until stage 1; Luke in a football top or plain top, not a running top
 - Frame one words: title only
 - Graphics (17 Nov, gate chat): title cards `motion/match/match-title-{white,navy}-{2,3}line-16x9.png` and 9:16 overlays `...-overlay-9x16.png` (white recommended: the posted fourth-hour card was white); cover `motion/match/match-cover-{2,3}line-16x9.png`; stage cards `motion/match/match-card-{1a,1b,2,3,4,study}-16x9.png` (pages `motion/match/cards.html`, `motion/match/cover.html`)
-- Mockup: ideas/engine-room-nutrition/mockups/2026-11-17-match-frame-one.png
-- Layer title: Sunday league legs die at 75 minutes, and Premier League ones fade too (why? and what fixes it?)
+- Mockup: ideas/engine-room-nutrition/mockups/2026-11-17-match-oranges-frame-one.png
+- Mockup B: ideas/engine-room-nutrition/mockups/2026-11-17-match-fuel-frame-one.png
+- Layer title: half-time oranges won't save your Sunday league legs at 75 minutes (then what will?)
 - Layer picture: none (Luke and the title)
 - Layer line one: new to the title (row 29): it isn't your fitness; the legs are nearly empty
 - Source tags (small, under the stage marker, from stage 1; never in frame one): THE DAY BEFORE: 28 PREMIER LEAGUE MATCHES, 2005-06 (BRADLEY 2009), then 6 PLAYERS, 90-MIN 4-A-SIDE (BALSOM 1999); 3 HOURS BEFORE: UEFA EXPERT GROUP, 2021; WARM-UP AND HALF-TIME: ARSENAL, 1996; THE LAST 15 MINUTES: 15 PLAYERS, 90-MIN MATCH TEST (HARPER 2017). The hook's DANISH FOURTH DIVISION, 31 PLAYERS (KRUSTRUP 2006) goes on screen at 0:04 only if Luke's title has gone by then; otherwise in stage 1
