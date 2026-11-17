@@ -67,16 +67,23 @@ Luke in a head torch at night, top band black on white **BEAT 10:35**, with a
 watch showing the time so far. Say "last year's 10th place" every time it's
 used: this year's 10th could be faster or slower.
 
-| Chapter | What to film | When | Owner |
-|---|---|---|---|
-| **1. Before** | **The bet: from the podcast episode 1 recording, Fri 20 Nov** (ask the podcast chat for the timestamp; film a locked-off wide shot as well, so it works without the podcast set). **The benchmark run: Sat 21 Nov, morning**: the route, the effort, the watch at the start and the finish (time and heart rate) | Fri 20 and Sat 21 Nov | Luke |
-| **2. The training** | One clip a week, same framing: the hardest session of the week, the watch at the end, one line on what went wrong. The carb load tried on a long run (the scales, the food on the table). The fuel clock on a long run (30 g every 30 minutes, the watch showing 20 and 50 past). At least two night runs with a head torch (the race starts at night: 23:00 in 2026) | Weekly, from now to 10 Jan | Luke, phone on a chest strap or held by Jamie |
-| **3. The benchmark, again** | The same route and effort as chapter 1, the two watch screens side by side | First week of January | Luke |
-| **4. Race week** | The last 7 days and the last 24 hours: the carb load, the kit laid out, the bet said again | 8 to 15 Jan | Luke and Jamie |
-| **5. Race night** | **Only where it's safe and the race allows it:** the start, any checkpoint footage the rules allow, a chest-pocket phone, a head torch in shot. Jamie films the start and the finish. Nothing that slows Luke or breaks a race rule; most of the story comes from before and after | 15 Jan | Jamie (Luke only if it's safe) |
-| **6. The result** | The finish, the ranking on the official results, Luke straight after (before he's had time to tidy the story), then a calm debrief in the car the next day: top 10 in his class or not, and what he'd change, one number per thing | 15 to 17 Jan | Luke and Jamie |
+**No crew (P216).** Everything is phone video Luke or Jamie shoots, propped up
+or in hand, and all of it is optional. If a clip doesn't get filmed, the film
+leans on the podcast footage instead. Four things, that's the list:
 
-The lessons each chapter hands to a marathoner come from plan 0.7's table
+| What | When | How |
+|---|---|---|
+| **The bets** | Fri 20 Nov, from the podcast episode 1 recording | Already being filmed; nothing extra |
+| **The benchmark** | Sat 21 Nov, and the same run again in the first week of January | Phone propped at the start: the watch to the lens before and after (time and heart rate) |
+| **A few training clips** | Any time, if there are two spare minutes | Watch to the lens at the end of a hard run or a night run, one line on how it went |
+| **Before and after the race** | 15 Jan | A selfie clip at the start, one at the finish; the result in the podcast episode of 20 Jan |
+
+**Shape:** about 10 to 12 minutes, not 18: the podcast's bet and result
+episodes carry most of it, the phone clips fill the gaps. Nothing filmed on
+the course unless it's safe, allowed and Luke wants to. Jamie is a co-host
+with his own bet (Western Yards, top 10), so the film ends on his race to come.
+
+The lessons it hands to a marathoner come from plan 0.7's table
 (how much fitter you can get by a race date, fuelling for many hours, walking
 on purpose, race week, what to do when the goal's gone). Any claim about how
 fast fitness comes needs a source in FACTS before the script.
@@ -96,7 +103,7 @@ fast fitness comes needs a source in FACTS before the script.
 
 ## Waiting on Luke
 1. The 2027 framework brief: yes, or what changes (questions at the end of the brief).
-2. The documentary: OK the title *8 WEEKS TO BEAT 10:35 (A 62KM NIGHT RACE,
+2. The documentary (optional, phone only): OK the title *8 WEEKS TO BEAT 10:35 (A 62KM NIGHT RACE,
    WITH A FULL-TIME JOB)*? I'll check the race's own rules on filming before
    race week.
 3. The bar's launch window, which sets the date of the bar film.

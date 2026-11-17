@@ -43,10 +43,10 @@ worked example (the goal most viewers have, ledger row 23); 3:30, 3:45 and 4:30
 bands and sign times go in the description and on the page. No total gel count
 in the audio (P124). Paces in km with miles on screen (P129).
 
-## Jamie's role
-In the car set, Jamie asks what the viewer would ask ("what if I'm 80 kg?",
-"what if I miss the 10K sign?"), as on the podcast. Luke brings the numbers.
-That keeps it a conversation without turning it into the podcast.
+## Luke and Jamie (P216)
+Equal co-hosts in the car, a phone propped on the dash: each takes two of the
+four parts and the other pushes back where they'd do it differently. No
+interviewer, no doubter. Everything is filmed on your own phones; no crew.
 
 ## The email reason
 **"Your 2027 race page: tell us your race, goal time and weight, and we'll send
@@ -99,7 +99,8 @@ number there.
 - **Filming falls in Luke's race block** (the Art O'Neill is Fri 15 Jan): the
   two long-run shoots should be runs he's doing anyway, not extra ones.
 - **Everything is filmed in December**, in the dark and the cold, with
-  Christmas in the middle: the two long-run shoots need dates this week.
+  Christmas in the middle: the run clips come from long runs you're already
+  doing, phone in hand, so nothing extra goes in the diary.
 - **The bar isn't for sale in early January.** One line at the slot, no pitch,
   no claim that it makes anyone faster (UK and EU claims rules).
 
@@ -131,21 +132,16 @@ number there.
   Assumption-ripper said. "Framework" leaves the audio.
 - **Chairman:** **Make it, built on the tank: four parts, each a number they
   do, sub-4 as the worked example, every goal on the page. Cold open on the
-  4:02 finish, define "deserve" in the first minute, Jamie as the viewer's
-  questions in the car. Out Sun 3 Jan with a trailer reel and an email; judge
+  4:02 finish, define "deserve" in the first minute, Luke and Jamie as
+  equal co-hosts in the car. Out Sun 3 Jan with a trailer reel and an email; judge
   it on sign-ups from its own link.**
 
-## Questions for Luke
-1. **Yes to the tank as the spine,** and to Sun 3 Jan? (12 days before the
-   Art O'Neill, so it's edited before race week.)
-2. **Two filming days in December:** which long runs can you film (the first
-   10K, and a run with gels at 20 and 50 past), and one evening in the car?
-3. **Jamie in the car set**, asking the viewer's questions: is he in?
-4. **The bar on screen:** anything to show by late December (a sample, the
-   wrapper), or does the slot stay one spoken line?
-5. **The page:** OK for me to set up the separate YouTube link and the form
-   asking for race, goal time and weight in Klaviyo? (Weight is a new field, an extra
-   step on the form that P154 warns against; without it the carb load comes
-   as a table by weight instead. Your call.)
-6. **Do you want a race-morning breakfast number** at the bar's slot? If yes,
-   I'll source it into FACTS before the script.
+## Questions for Luke (three, quick)
+1. **Yes to the tank as the spine, out Sun 3 Jan?**
+2. **Is Jamie in for one evening in the car in December?** Two long runs you're
+   doing anyway give the run clips.
+3. **Weight on the email form, or a table by weight instead?** (I'd skip the
+   field: it's an extra step, P154.)
+
+I'll do the rest: the race-morning number, the Klaviyo link once you say yes,
+and the bar stays one spoken line unless there's something to show.
