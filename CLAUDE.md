@@ -215,3 +215,9 @@ work. Humaniser skill added (`.claude/skills/humaniser`).
 Spring splits campaign (send Tue 10 Nov): `ideas/engine-room-nutrition/emails/2026-11-02-spring-splits-campaign.html`
 and `.md`. Subjects A "Your spring marathon splits" / B "Sub-4 in spring?
 Your splits inside". Ask the 4:05 runner's permission before sending.
+
+Klaviyo connector live (17 Nov). Review: `ideas/2026-11-17-klaviyo-campaigns-review.md`
+(spring splits 3 Nov: 553 delivered, 73.1% open, 9 unsubs 1.6%, 7 replies;
+unsubs over 0.5% on the last two sends; plan tracking still 1 event).
+Next campaign: `emails/2026-11-17-block-start-campaign.html`, send Tue 1 Dec,
+subject "London 2027? Start training 4 Jan", reply by Sun 13 Dec.
