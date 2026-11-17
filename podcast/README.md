@@ -7,7 +7,14 @@ Nothing said on the podcast may contradict a reel (the consistency points
 in CLAUDE.md).
 
 ## The plan (17 Nov): read this first
-`podcast/2026-11-17-podcast-plan.md`: 20 to 25 minutes weekly, one searchable
+**v2 (Luke, 17 Nov, P212): section 0 of the plan overrides the rest.** A show we
+enjoy: 25 to 30 minutes, fixed opening, loose chat about the week, the question
+as a conversation, a 45-second quick-fire clip section, the Lab, the one thing;
+a Luke-against-Jamie spring rivalry. Long-form YouTube separate and monthly from
+early January (first: HOW TO RUN A MARATHON FASTER THAN YOU DESERVE: OUR 2027
+FRAMEWORK), not cut into clips, each with its own email reason.
+
+v1 summary: `podcast/2026-11-17-podcast-plan.md`: 20 to 25 minutes weekly, one searchable
 question an episode, the same 7 parts (cold open, promise, the runner from the
 inbox, the myth, the method, we tried it, the one thing), Luke hosts with the
 numbers, Jamie asks what it means for someone with a job. Riverside on two

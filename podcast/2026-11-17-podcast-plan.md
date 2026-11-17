@@ -2,11 +2,161 @@
 type: podcast plan (positioning, format, setup, season 1 topics, clip and email loop, council)
 generated_at: 2026-11-17
 basis: Luke's brief (17 Nov: weekly, Riverside on phones, 15 to 30 minutes, YouTube plus short-form clips, people only care what they get, two runners with day jobs, the aim is selling the bar); podcast/2026-10-27-episode-1-plan.md; PLAN-winners (lifetime grid); 2026-10-31 why our top reels won; 2026-11-16 the five levers; FACTS (audience, emails, inbox, spring 2027 dates, "sell the bar from January"); P138, P151, P154, P156, P158, P189, P205; ledger rows 9, 11, 20, 23, 28, 30
-status: v1 for Luke and Jamie. Waiting on the 6 answers at the end
+status: v2 (Luke, 17 Nov: a show we enjoy, loose, one section kept for clips; long-form YouTube separate and not chopped). Section 0 overrides anything below it. Waiting on the 6 answers at the end
 supersedes: the format section of the 27 Oct episode 1 plan (35 to 45 minutes, one race per episode). Its setup notes and "say it again" takes are kept
 ---
 
 # The podcast: the plan
+
+# 0. v2 (Luke, 17 Nov): a show you look forward to, plus separate long-form (P212)
+
+Luke: the podcast has to be something we both enjoy and look forward to every
+week, not a long version of a scripted reel. Chat about our week builds trust.
+Keep one section for clips. Long-form YouTube videos are separate (e.g. HOW TO
+RUN MARATHONS FASTER THAN YOU DESERVE: OUR 2027 FRAMEWORK, or a journey to a
+running capital), and they aren't cut into clips. The aim: so much value and so
+much time with us that they trust us enough to buy the bar.
+
+**What changes:** the 7 fixed parts become 3 fixed points with loose
+conversation between them. Section 1.2 ("the podcast is the long-form
+YouTube") is withdrawn; long-form runs monthly, separately (0.4).
+
+## 0.1 Where personal chat builds trust, and where it loses people
+Both things are true. Chat about your week builds trust **with people who
+already know you**, and the same chat loses people who don't. So it's about
+**where** it goes, not whether it's allowed:
+- **Not in the first minute.** A new viewer gives you about 30 seconds. They
+  get the cold open and one line on what this episode answers, then the chat.
+- **Chapters on YouTube** ("The week", "This week's question", "Quick-fire")
+  let a stranger skip to the answer and a regular stay for the chat. Both stay
+  on the video.
+- **Keep the chat about running.** "Jamie's long run went wrong at 26K" is
+  chat that's still about the listener. "What we did at the weekend" isn't.
+  Work and kids count when they're about fitting the running in, because
+  that's the life the listener has too.
+- How it grows: early episodes about 5 minutes of chat; as returning viewers
+  grow (YouTube shows it), let it run longer. The listeners decide this, not us.
+
+## 0.2 The show (25 to 30 minutes)
+| Part | Time | Fixed or loose | What |
+|---|---|---|---|
+| **Cold open + the question** | 0:00-1:00 | Fixed | The best 30 seconds, picked in the edit, then Luke: "this week: [the question]". One line, so a stranger knows what they'll get |
+| **The week** | 1:00-7:00 | Loose | What you ran, what went wrong, the rivalry (0.3), life around the running. Unscripted, no notes |
+| **This week's question** | 7:00-19:00 | Loose, with a page of notes | A conversation, not stages. Start from a real runner in the inbox; Luke brings the numbers, Jamie argues. The one spoken CTA lands here, once |
+| **Quick-fire (the clip section)** | 19:00-25:00 | **Fixed: built for clips** | 5 questions from the inbox or stories, **45 seconds each, a timer on the table**, each answered to the lens, one number per answer, starting with the runner ("If you're running sub-4 and..."). It's new content, not a repeat of the main part, so podcast listeners don't hear things twice, and it's fun under the clock. Each answer is a clip for TikTok, Shorts and trial reels |
+| **The Lab** (from Jan) | 25:00-27:00 | Loose | The bar, honestly: what changed, what failed, one vote for the story |
+| **The one thing + next week** | 27:00-28:00 | Fixed | One action each; next week's question, put to the listeners |
+
+The 7-part table in section 3 is still the guide for **what to cover** in the
+main question. The rules on the day (facts, grams an hour, claims, audio-first)
+all still apply.
+
+## 0.3 What makes it fun to do every week
+- **A rivalry with a stake: Luke against Jamie, for the season.** Each of you
+  names a spring goal; small bets along the way (carb load weigh-in, a parkrun,
+  who held the gel clock on the long run); the loser pays a forfeit on air.
+  That's the fun for you and the reason listeners come back, because they
+  want to know who wins. It needs the spring race answer (question 2 below).
+- **Jamie argues back.** Disagreeing is more fun to record and more fun to
+  listen to.
+- **Quick-fire on a timer.** The clock makes it a game, not a lecture.
+- **Listener live, monthly.** A real person in the conversation keeps it fresh.
+- **No script.** One page of notes for the main question; nothing for the week.
+- If either of you starts dreading Sunday, change the format before it goes
+  stale. Enjoying it is what keeps you making it to episode 30, which is when
+  this kind of trust actually pays off.
+
+## 0.4 Long-form YouTube, separate and not cut up: monthly, from January
+**Yes, but monthly, not weekly.** A produced long-form video (filmed on runs,
+voiceover, graphics) takes something like 10 to 15 hours between you; a
+podcast takes about 4. Weekly long-form on top of 4 reels, a podcast and two
+jobs breaks inside a month. One flagship a month is sustainable, and each one
+should be something people come back to for months.
+
+**Two exceptions to "not cut up":** (1) one 30-second trailer reel and a story
+on release day, because a small channel gets almost no browse traffic from
+YouTube on its own; and (2) the video's own link. **Every long-form needs a
+reason to give us an email**, tied to that video, because trust without an
+email address is trust you can't reach on launch day. Use a separate link in
+the YouTube descriptions so we can see if YouTube brings sign-ups (a different
+URL, not an extra step on the form, so P154 holds).
+
+**Your two ideas, tested:**
+1. **HOW TO RUN A MARATHON FASTER THAN YOU DESERVE: OUR 2027 FRAMEWORK.**
+   **Make this one first.** "Faster than you deserve" promises more than your
+   fitness gives you, and that's what our method does: how you pace, fuel and
+   load decides how much of your fitness reaches the finish. It's the
+   **cornerstone video**: the whole method in one place (the first 10K slower,
+   the clock at every 10K sign, 30 g every 30 minutes, the carb load), and
+   every reel and email can link to it. Out **in the first week of January**,
+   when London blocks start (4 Jan) and "2027" means something.
+   - Risk: "framework" is abstract. Each part has to be a thing they do, with a
+     number, shown on a real run or race. Shown on the bar slot too (before the
+     start), so the bar has a place in the framework without a pitch.
+   - The 2027 title dates it. That's fine: retitle it in 2028.
+   - Email hook: the framework as a one-page race plan for their goal time
+     (the plan offer they already ask for).
+2. **A RUNNER'S JOURNEY TO THE WORLD'S RUNNING CAPITAL: weak as it stands,
+   strong if it changes.** A city tour makes the city and us the subject (P158),
+   costs travel, and "running capital" doesn't promise anything. What does work
+   on YouTube for people nobody knows yet is **a challenge with a deadline and
+   an open question**: *Can a runner with a full-time job run sub-3:45 at
+   London?*, filmed across the block and released after the race, with the
+   framework tested live. The journey stays, but the question "will he make it,
+   and how?" is what makes a stranger watch. Needs one of you in a spring race.
+   - The cheaper version, and a proven one: **course guides** 3 to 5 weeks
+     before each big race (*The London Marathon, mile by mile, for a 4-hour
+     runner*). Our course reels won on saves and sends, and people search for
+     them in race month.
+
+**Long-form calendar (one a month):**
+| Out | Video | Why then |
+|---|---|---|
+| Early Jan | How to run a marathon faster than you deserve: our 2027 framework | London and Belfast blocks start; new-year planning |
+| Late Jan | The Seville Marathon, km by km, for a 4-hour runner | Seville is 21 Feb; race-month searches |
+| Late Feb or Mar | **The bar: everything that failed before it worked** (the Lab as a film) | The launch. The answer to "why does this exist", and it's honest |
+| Late Mar | The London Marathon, mile by mile, for a 4-hour runner | London 25 Apr |
+| May | The journey: did we make it? (if one of you races spring) | After the race |
+
+## 0.5 Trust into sales: what actually turns it into a purchase
+You're right that time spent builds trust. Two things to add:
+- **Trust comes from being right, not just being around.** The runner from the
+  inbox who used the plan and ran the PB, on the show, does more than ten hours
+  of chat. Results, said with the true base (ledger row 28).
+- **Trust has to be reachable.** A viewer who loves the show but never gave an
+  email can't hear about the launch. Each podcast and each long-form has one
+  email reason. By launch, the people who trust you should be on the list.
+- **Measure it:** returning viewers and watch hours on YouTube (the trust
+  numbers), email sign-ups from the YouTube link, and from launch, early-access
+  sign-ups from listeners.
+
+## 0.6 Council on v2 (P150)
+- **Contrarian:** "Chat builds trust" is how most podcasts by unknown people
+  end up with 40 listeners: the hosts enjoy it, nobody new stays. And monthly
+  long-form will still slip.
+- **Assumption-ripper:** That time spent turns into a sale on its own. It only
+  does if they're on the list and they've seen the bar's reason before launch.
+  Also, that Jamie enjoys being on camera as much as Luke does: ask him.
+- **Expansionist:** The rivalry gives the show a season-long story for free,
+  and the framework video becomes the hub every reel and email points to.
+- **Outsider:** "Which one do I watch?" Explain it once in each: the podcast
+  is weekly and casual, the videos are the full guides.
+- **Executor:** Podcast from 9 Dec as planned with the v2 shape; the framework
+  video filmed over Christmas and out in the first week of January; the next
+  long-form only once 4 podcasts have gone out on time.
+- **Cross-review:** everyone accepts the chat with a fixed opening and
+  chapters (it answers the Contrarian), and the rivalry. They accept long-form
+  monthly, gated on the podcast running on time. The journey idea is accepted
+  only as a challenge or a course guide.
+- **Chairman:** **Make it loose and enjoyable, but keep a fixed opening, the
+  quick-fire clip section and the one thing. Run a Luke-against-Jamie spring
+  rivalry as the season's story. Long-form monthly from early January, starting
+  with the 2027 framework, never cut into clips except a release-day trailer,
+  and every one with its own email reason.**
+
+---
+
+# v1 below (still the reference for setup, packaging, topics and rules)
 
 ## 1. Four things to settle first (where the current thinking is weak)
 
@@ -25,7 +175,7 @@ it comes from them, not from our finish times.
   most of the results that came back were PBs" holds up. "17 results" on its
   own sounds like a failure.
 
-**2. The podcast will eat the reels if we let it.** The scripted reels are
+**2. [Withdrawn in v2: long-form runs monthly, see 0.4. The time budget still holds.] The podcast will eat the reels if we let it.** The scripted reels are
 what bring the emails, and both of you have full-time jobs. Most podcasts stop
 before episode 10 because the time cost was never budgeted. The answer:
 - **For season 1 the podcast is the long-form YouTube.** Not a podcast plus

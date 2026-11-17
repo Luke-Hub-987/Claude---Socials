@@ -6192,6 +6192,30 @@ outfit.
 is `motion/brand/ern-logo.png`, and any logo drawn into a picture (the coach's
 jacket) is the logo file (`ern-logo-white.png` on dark), never "ERN" typed in a font.
 
+## P212 — The podcast is a show we enjoy; long-form is separate (Luke, 17 Nov)
+
+Luke, on the podcast plan: it has to be something we both look forward to every
+week, not a long version of a scripted reel. Chat about our week builds trust;
+keep one section built for clips. Long-form YouTube videos are separate (the
+2027 framework, a journey to a big race) and aren't cut into clips. The aim is
+value and time spent, so they trust us enough to buy the bar.
+
+**The rule:**
+- The podcast has 3 fixed points (cold open plus the question in the first
+  minute, the quick-fire clip section, the one thing) and loose conversation
+  between them. Chat goes after the first minute, under YouTube chapters, and
+  stays about running (life counts when it's about fitting the running in).
+- The clip section is quick-fire: new questions, 45 seconds each, to the lens,
+  one number, starting with the runner. Clips go to TikTok, Shorts and trial
+  reels; the profile gets a gated rewrite.
+- Long-form is monthly, separate, never cut into clips except a release-day
+  trailer, and each one carries its own email reason (a separate YouTube link,
+  no extra step on the form, P154).
+- Facts, grams an hour, the bar's slot and the claims rules apply on air as in
+  the reels.
+
+*Source: Luke, 17 Nov; `podcast/2026-11-17-podcast-plan.md` section 0.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /
