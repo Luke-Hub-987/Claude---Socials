@@ -97,10 +97,13 @@ fast fitness comes needs a source in FACTS before the script.
 - **The podcast is the weekly, loose show; long-form is the full guide.** Say it
   once in each ("the full framework is on the channel"; "we talk about this
   every week on the podcast"). Same ERN channel, its own playlist.
-- **The name (podcast plan 0.9, waiting on Luke):** if the podcast is FASTER THAN
-  YOU DESERVE, the January video stays *the framework* (the full method, once)
-  and the podcast *the weekly show*; the video's description links the show and
-  the show's first episode of January links the video.
+- **The podcast is THE RACE PLAN** (plan 0.10); "faster than you deserve" is
+  only this video's title. Engine Room is the brand, never a show or video title
+  ("The Engine Room" is another endurance podcast). The video's description
+  links the show; the 3 Jan episode gives the video one line and a link.
+- **Claims:** a long-form title or promise is about method and fitness, never
+  the bar (Regulation 1924/2006 Art. 1(3): a brand next to a promise can imply a
+  claim). The bar appears only in its own launch film, inside the claims rules.
 - **The framework video is the hub.** Every reel, podcast episode and email that
   touches pacing or fuel links to it from January.
 - **The race story is the podcast's; the lesson is the marathoner's** (plan 0.7).

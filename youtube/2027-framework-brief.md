@@ -31,7 +31,7 @@ that ties the four together, so they remember the system, not four rules.
 |---|---|---|---|
 | **Cold open: why sub-4 pace finishes in 4:02** | 0:00-1:00 | Run exactly 5:41 a K on the watch and you finish about 4:02, because the watch reads about 1% long. Then: "and that's the smallest of the four mistakes". One line of what they'll get | Luke on a run, watch to the lens; the number on screen |
 | **The tank: 500 grams** | 1:00-3:30 | About 500 g stored; at 4-hour pace it runs short at about 3 hours, around 32K. Even trained cyclists hit fatigue at about 3 hours without carbs, about 4 with them. The four parts, named once | Car set; one graphic, a tank draining against the race clock |
-| **1. Fill it: the carb load** | 3:30-7:00 | 8 to 10 g of carbs per kg a day for the 36 to 48 hours before a Sunday race: 70 kg is 560 to 700 g a day. The scales go up about 1 to 2 kg, and that's the load working. Runners who ate more than 7 g/kg the day before ran faster. **The bar's slot sits here:** the last thing eaten before the start, never in the race (one line, no claim) | Car set; a real day's food laid out on Luke's kitchen table, weighed |
+| **1. Fill it: the carb load** | 3:30-7:00 | 8 to 10 g of carbs per kg a day for the 36 to 48 hours before a Sunday race: 70 kg is 560 to 700 g a day. The scales go up about 1 to 2 kg, and that's the load working. Runners who ate more than 7 g/kg the day before ran faster. | Car set; a real day's food laid out on Luke's kitchen table, weighed |
 | **2. Spend it slower: the first 10K** | 7:00-10:00 | First 10K 5 to 10 seconds a K slower than goal pace. Sub-4 on the watch: between 5:40 and 5:45 to 10K, then between 5:30 and 5:35. The talk test: 10 words in one breath | Luke's real run: the first 10K of a December long run, watch and breath on mic |
 | **3. Top it up: 30 g every 30 minutes** | 10:00-13:00 | First gel at 20 minutes, then a 30 g gel every 30 (20 and 50 past on the clock), about 60 g an hour. 20 to 25 g gels every 20 minutes; 40 g gels every 40. Each with 3 or 4 sips of water if you're passing a station, never with sports drink. Never two at once; missed one, let it go. None in the last 20 minutes | Luke's long run: a gel at 20 and 50 past, filmed on the run; the clock on screen |
 | **4. Check it: the clock at every 10K sign** | 13:00-15:30 | Sub-4 on the watch at each sign: 10K about 57:30, 20K about 1:54, 30K about 2:50, 40K about 3:46. Within about 30 seconds, you're on plan; more than 30 behind, run the quicker end of the band. If the watch and the sign disagree, trust the sign | Car set; the four times written on a hand (the hand plan, shown once) |
@@ -78,7 +78,6 @@ link to the same form (P154). Count sign-ups by day.
 | 8 to 10 g/kg for 36 to 48 hours; 70 kg 560 to 700 g | FACTS, Carb loading and the scales |
 | About 1 to 2 kg gained (an estimate, coaching sources) | FACTS, Carb loading and the scales |
 | More than 7 g/kg the day before ran faster | FACTS (Atkinson 2011) |
-| The bar's slot: before the start, never in the race | P134 |
 | First 10K 5 to 10 s/K slower than goal | FACTS, Pacing |
 | Sub-4 watch bands 5:40-5:45, then 5:30-5:35 | FACTS, Watch bands |
 | Talk test, 10 words in one breath | FACTS, Pacing |
@@ -88,9 +87,12 @@ link to the same form (P154). Count sign-ups by day.
 | The wall exit: sugar, liquid, 15 to 20 s/K for 10 minutes | FACTS, What we've already told them |
 | **Not used:** the inbox results (about 17 back from about 200 plans, self-selected, so they can't prove the promise; row 28) and anything about Luke's ultras | FACTS; voice.md |
 
-**Gap:** there's no race-morning breakfast number in FACTS, so the bar's slot
-gets one line with no grams. I'll source one before the script, if Luke wants a
-number there.
+**The bar is out of this video (claims, Regulation 1924/2006 Art. 1(3)).** Next
+to a carb-bar brand, "faster than you deserve" could read as a promise the bar
+makes you faster. So the promise is only ever about the method and the fitness
+they already have: the bar isn't named in any chapter, the thumbnail or the
+title. Engine Room is said once at the end as who we are, with the email page,
+and nothing about what the bar does.
 
 ## Known risks
 - **The 4:02 cold open is the smallest of the four effects.** It's true and
@@ -101,8 +103,8 @@ number there.
 - **Everything is filmed in December**, in the dark and the cold, with
   Christmas in the middle: the run clips come from long runs you're already
   doing, phone in hand, so nothing extra goes in the diary.
-- **The bar isn't for sale in early January.** One line at the slot, no pitch,
-  no claim that it makes anyone faster (UK and EU claims rules).
+- **The title next to the brand.** "Faster than you deserve" stays about
+  method; if a viewer could link it to the bar, the bar comes out (it's out).
 
 ## LLM Council (P150)
 - **Contrarian:** It's a compilation. Anyone who follows us has seen all four
@@ -143,5 +145,5 @@ number there.
 3. **Weight on the email form, or a table by weight instead?** (I'd skip the
    field: it's an extra step, P154.)
 
-I'll do the rest: the race-morning number, the Klaviyo link once you say yes,
-and the bar stays one spoken line unless there's something to show.
+I'll do the rest: the Klaviyo link once you say yes. The bar stays out of this
+video; its own film is the launch one.
