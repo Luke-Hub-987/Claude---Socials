@@ -6254,6 +6254,28 @@ voice.md hard rule now means that angle only.
 
 *Source: Luke, 17 Nov, podcast chat.*
 
+## P216 — Two co-hosts, two bets, a light cue card, no crew (Luke, 17 Nov)
+
+Luke, on the episode 1 run of show: "it's just all me... Jamie's on the podcast
+as well. He's not interviewing me... he's going for the race as well... he's
+fully aware we're both going for top 10, so there won't be much of a shock...
+I'm not going to have a film crew... does all this make it as though this is a
+task to do?" **The rule:**
+- **Equal co-hosts.** Both of us answer every prompt; both have a bet, said
+  side by side in the open. No host/guest, interviewer or "doubter" roles, and
+  no fake surprise at a bet we both know about.
+- **Cue cards, not homework.** One page: the idea, three fixed bits (the open,
+  quick-fire, the close), a handful of talking points in any order. No
+  fill-in tables, no pre-work, no long checklists, no per-answer retakes.
+  If a podcast plan reads like a task list, cut it until it doesn't.
+- **No crew.** Anything for long-form is phone footage we shoot ourselves, and
+  optional ("if you've two spare minutes"). Never plan shots that need someone
+  else holding a camera.
+- Supersedes the roles in podcast plan sections 3, 7 and 0.7 (Jamie as the
+  listener's voice, the doubter, the coach).
+
+*Source: Luke, 17 Nov, podcast chat.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

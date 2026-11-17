@@ -544,3 +544,4 @@ twice without being checked against the winners (P99).
 - [ ] **Do it, don't tell (P213):** anything doable from here is done in the same turn (chats, files, pushes, briefs); Luke only gets the steps that need him.
 - [ ] **Look it up (P214):** event dates, distances, results and study numbers are searched and sourced in FACTS first; Luke is asked only for his goals, entries, history and OK.
 - [ ] **Jobs (P215):** "we've got jobs" is fine; never "ultras or hard things make you better at work".
+- [ ] **Podcast cue cards (P216):** both co-hosts answer every prompt and both bets open the show; one page, no pre-work or fill-in tables; any long-form footage is self-shot on phones and optional.

@@ -235,6 +235,8 @@ shot. Get most of the story before and after.
 
 
 ## 0.8 The dates (Luke, 17 Nov): this overrides the seasons in 0.7
+**P216 (Luke, 17 Nov) overrides the roles anywhere in this plan:** Luke and Jamie are equal co-hosts with a bet each, said side by side; no interviewer, doubter or coach roles. Episode plans are one-page cue cards. Long-form footage is self-shot on phones, optional, no crew.
+
 **Settled (Luke, 17 Nov, P215):** saying we have jobs is fine (the subtitle, episodes 1 and 5, Jamie's "after work" question stay). Out: "ultras make you better at your job".
 
 **Race facts are in FACTS (looked up, P214):** Art O'Neill 62km, Fri 15 Jan, night start; 10th overall in 2026 was 8:29:15, 10th in the Ultra - Male class 10:35:37 (Luke to say which). Norn Iron 100 29 to 30 May, about 106 miles. Western Yards: one listing says Sat 5 June, not May; to confirm.
