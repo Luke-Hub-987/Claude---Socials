@@ -205,8 +205,8 @@ CP1 (31km), CP2 (43km), Art's Cross (47km), then Glenmalure.
   **10th overall: 8:29:15** (three runners tied on it), which is also 10th in the
   Ultra Competitive - Male class (45 finishers). **10th in the Ultra - Male
   class: 10:35:37** (56 finishers; class winner 8:55:54, 23rd overall). Luke's
-  screenshot was the Ultra - Male class. **Which top 10 Luke means (overall or
-  his class) decides the target: about 8:30 or about 10:35. Luke to say.**
+  screenshot was the Ultra - Male class. **Luke's target (17 Nov): top 10 in the Ultra - Male class, 10:35:37 last
+  year.** Say "top 10 in my class", never "top 10" alone (10th overall was 8:29:15).
 
 **Norn Iron 100: 29 to 30 May 2027** (runningcalendar.ie, gotrail.run,
 worldsmarathons.com; organiser We Run Wild NI, werunwildni.com). Listings say

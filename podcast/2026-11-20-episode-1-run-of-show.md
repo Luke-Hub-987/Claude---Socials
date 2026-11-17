@@ -1,7 +1,7 @@
 ---
 type: podcast run of show, episode 1 (record Friday 20 Nov 2026)
 basis: plan sections 0.2 (the show), 0.3 (fun), 0.7 and 0.8 (the challenge, the dates); FACTS (race facts looked up 17 Nov, fuel, pacing, carb load, super shoes, the 10% rule, Milanović 2015); P212, P214, P215
-status: ready; 4 blanks only Luke can fill (top of the file)
+status: final (17 Nov). Target settled by Luke: top 10 in the Ultra - Male class, 10:35:37 last year. Shared copy for Jamie: Claude doc https://claude.ai/artifact/EW9WBoUzRLxujMCSU7U9a4
 ---
 
 # Episode 1, Friday 20 Nov: the bet
