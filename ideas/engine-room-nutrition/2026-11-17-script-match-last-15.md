@@ -4,9 +4,9 @@ gate: v1
 brief_ok: Luke 17 Nov ("I'd like to also do that one I had about the matches today... give me both"); brief ideas/engine-room-nutrition/2026-11-16-brief-match-last-15.md
 generated_at: 2026-11-17
 teleprompter: 2026-11-17-teleprompter-match-last-15.txt
-luke_note: 17 Nov, Luke: "last 15 of what? pros in what? what sport?" Title repackaged to name the sport (Sunday league), the minute (75) and, on his yes, the Premier League bracket; line one and stage 1 changed to match
+luke_note: 17 Nov, Luke (2nd): "reference the exact studies... the exact leagues"; the audio now names the Danish fourth division and the Premier League, and each stage shows its source on screen (Source tags). 17 Nov, Luke: "last 15 of what? pros in what? what sport?" Title repackaged to name the sport (Sunday league), the minute (75) and, on his yes, the Premier League bracket; line one and stage 1 changed to match
 fixed_after_review: G21 (caption plan for a 10:30am and a 2pm kick-off: meal times, about 2 g/kg for 60, 75 and 90 kg with the food, 30 g after the warm-up and at half-time), G22 (Premier League line cut: under 1.5 g/kg sits inside the 1 to 3 g/kg guideline; 'on a high-carb diet for 2 days'; 'just because you're unfit'; a 'Match day fuel, soccer' block added to FACTS), G23 ('a 30 gram gel or 6 jelly sweets'; porridge for a morning match, pasta in the afternoon), G29 (new line-one shape; new follow line)
-basis: the brief (the levers, the facts, the pre-mortem); UEFA expert group statement on nutrition in elite football (Collins and others, BJSM 2021: pre-match meal 1 to 3 g/kg 3 to 4 hours before kick-off; about 30 to 60 g after the warm-up and again at half-time; 6 to 8 g/kg a day around matches), read from the full text 17 Nov; Harper 2017 (60 g per 500 ml: 250 ml after the warm-up and 250 ml at half-time); Mohr 2003; Krustrup 2006; Balsom 1999; Anderson 2017; Wenger's first Arsenal away trip (1996)
+basis: the brief (the levers, the facts, the pre-mortem); UEFA expert group statement on nutrition in elite football (Collins and others, BJSM 2021: pre-match meal 1 to 3 g/kg 3 to 4 hours before kick-off; about 30 to 60 g after the warm-up and again at half-time; 6 to 8 g/kg a day around matches), read from the full text 17 Nov; Harper 2017 (60 g per 500 ml: 250 ml after the warm-up and 250 ml at half-time); Bradley 2009 (28 Premier League matches, read from the abstract 17 Nov); Mohr 2003 (caption only); Krustrup 2006; Balsom 1999; Anderson 2017; Wenger's first Arsenal away trip (1996)
 format: Instagram trial reel from ERN (non-followers; auto-share off, no collaborator), Tue 17 Nov. Not ERN TikTok (3 Nov: runners left at 0:03). Profile only if it beats 4K views and 40% skip at 24 hours, and not before 22 Nov (row 31: the fourth hour's twist)
 ---
 
@@ -20,13 +20,14 @@ format: Instagram trial reel from ERN (non-followers; auto-share off, no collabo
 - Repeat line: fitness gets you to the last 15, but fuel gets you through it
 - Gap held by: "That's the empty 15, when the lad you skinned beats you to every ball, but you can fill it."
 - Gap closed by: THE LAST 15 MINUTES
-- Turn: "When players had muscle taken from their legs after a match, about half the fibres were nearly empty."
+- Turn: "When Danish fourth-division players had muscle taken from their legs after a match, about half the fibres were nearly empty."
 - Frame one: Luke and the title only, top band, full width, black bold on white, DIE in red (P205, P207); nothing else until stage 1; Luke in a football top or plain top, not a running top
 - Frame one words: title only
 - Mockup: ideas/engine-room-nutrition/mockups/2026-11-17-match-frame-one.png
 - Layer title: Sunday league legs die at 75 minutes, and Premier League ones fade too (why? and what fixes it?)
 - Layer picture: none (Luke and the title)
 - Layer line one: new to the title (row 29): it isn't your fitness; the legs are nearly empty
+- Source tags (small, under the stage marker, from stage 1; never in frame one): THE DAY BEFORE: 28 PREMIER LEAGUE MATCHES, 2005-06 (BRADLEY 2009), then 6 PLAYERS, 90-MIN 4-A-SIDE (BALSOM 1999); 3 HOURS BEFORE: UEFA EXPERT GROUP, 2021; WARM-UP AND HALF-TIME: ARSENAL, 1996; THE LAST 15 MINUTES: 15 PLAYERS, 90-MIN MATCH TEST (HARPER 2017). The hook's DANISH FOURTH DIVISION, 31 PLAYERS (KRUSTRUP 2006) goes on screen at 0:04 only if Luke's title has gone by then; otherwise in stage 1
 - Worked example goal: none (a 75 kg player's pre-match meal in the caption)
 - Forecast: IG trial at 24h, 300 to 4,000 views, skip 26% to 45%. Base: IG trial reels since 2 Nov: the match 242 at 2h / 26.2%; the wall repost 3,537 / 33.3% (a day); the long run 290 / 55.5% (10h); 16 results 447 / 51.1% (Windsor, 17 Nov)
 
@@ -63,13 +64,13 @@ you can fill it"). No save in the hook (P204). New shape against the last three
 
 ## Script
 
-"If your legs go at 75 minutes in Sunday league football, it isn't just your fitness. When players had muscle taken from their legs after a match, about half the fibres were nearly empty."
+"If your legs go at 75 minutes in Sunday league football, it isn't just your fitness. When Danish fourth-division players had muscle taken from their legs after a match, about half the fibres were nearly empty."
 
 "That's the empty 15, when the lad you skinned beats you to every ball, but you can fill it."
 
 **[THE DAY BEFORE]**
 
-"Even Premier League players do about a fifth less hard running in their last 15 minutes than their first. So the fix starts the day before your game. Make half your plate pasta, rice or potatoes at every meal. Players on a high-carb diet for 2 days did about a third more hard running in a match."
+"Even in the Premier League, every position did about a fifth less hard running in the last 15 minutes than the first. So the fix starts the day before your game. Make half your plate pasta, rice or potatoes at every meal. In one trial, players on a high-carb diet for 2 days did about a third more hard running in a match."
 
 "Save this and check it the day before your next game."
 
@@ -87,20 +88,20 @@ you can fill it"). No save in the hook (P204). New shape against the last three
 
 **[THE LAST 15 MINUTES]**
 
-"From the hour mark, players who took carbs at half-time were quicker on the ball. So when it goes over the top at 80, you've still got the legs to chase it. Fitness gets you to the last 15, but fuel gets you through it."
+"In a 90-minute match test, players who took carbs at half-time were quicker on the ball from the hour mark. So when it goes over the top at 80, you've still got the legs to chase it. Fitness gets you to the last 15, but fuel gets you through it."
 
 "Follow, and be first to the ball at 85."
 
 ## Caption
-Your legs don't go in the last 15 minutes just because you're unfit. Danish players had muscle samples taken after a match, and about half the fibres in their legs were empty or almost empty of stored carbs (Krustrup and others, 2006). And it isn't just Sunday league: top professionals did 35 to 45% less high-intensity running in the last 15 minutes than in the first 15 (Mohr and others, 2003).
+Your legs don't go at 75 minutes just because you're unfit. When 31 Danish fourth-division players were tested in friendly matches, about half the fibres in their legs (47%) were empty or almost empty of stored carbs afterwards (Krustrup and others, Medicine & Science in Sports & Exercise, 2006). And it isn't just Sunday league: across 28 Premier League matches in the 2005-06 season, players in every position did about 20% less high-intensity running in the last 15 minutes than in the first 15 (Bradley and others, Journal of Sports Sciences, 2009). Top-class professionals faded even more, 35 to 45% (Mohr and others, 2003).
 
-The plan comes from the UEFA expert group statement on nutrition in elite football (2021), turned into food. The day before and on match day, eat carbs at every meal, about 6 to 8 g per kg you weigh across the day; half your plate pasta, rice or potatoes is the easy version. Players on a high-carb diet for 2 days did about 33% more high-intensity running than on a low-carb one (Balsom and others, 1999).
+The plan comes from the UEFA expert group statement on nutrition in elite football (2021), turned into food. The day before and on match day, eat carbs at every meal, about 6 to 8 g per kg you weigh across the day; half your plate pasta, rice or potatoes is the easy version. In a small trial, 6 players on a high-carb diet for 2 days did about 33% more high-intensity running in a 90-minute 4-a-side game than on a low-carb one (Balsom and others, International Journal of Sports Medicine, 1999).
 
 Kick-off 10:30am: breakfast at 7 to 7:30am. Kick-off 2pm: eat at 10:30 to 11am. Aim for about 2 g of carbs per kg: 120 g if you weigh 60 kg, 150 g at 75 kg, 180 g at 90 kg. For 150 g in the morning, that's a big bowl of porridge (100 g of oats), 2 slices of toast with jam and a banana. In the afternoon, a big bowl of pasta (about 400 g cooked) and a slice of bread. Lighter or heavier, scale it down or up a little. Not a fry-up, and not nothing.
 
-After the warm-up and again at half-time: 30 g of carbs each time, whatever you weigh. That's a 30 g gel, or about 6 jelly sweets, or 250 ml of a strong sports drink (60 g per 500 ml). In one trial, players who took 30 g after the warm-up and 30 g at half-time were faster dribbling from the hour mark on (Harper and others, 2017). Try it at training first so your stomach knows it.
+After the warm-up and again at half-time: 30 g of carbs each time, whatever you weigh. That's a 30 g gel, or about 6 jelly sweets, or 250 ml of a strong sports drink (60 g per 500 ml). In one trial, 15 players ran a 90-minute match simulation three times; when they took 30 g after the warm-up and 30 g at half-time, they dribbled faster from the hour mark on than on water or a dummy drink (Harper and others, Journal of Science and Medicine in Sport, 2017). Try it at training first so your stomach knows it.
 
-The Arsenal story: on Arsène Wenger's first away trip in 1996, he'd taken the chocolate away. The players chanted for their Mars bars on the bus, and at half-time his physio told him the silent dressing room was hungry.
+The Arsenal story (Premier League, 1996): on Arsène Wenger's first away trip, he'd taken the chocolate away. The players chanted for their Mars bars on the bus, and at half-time his physio told him the silent dressing room was hungry.
 
 Fitness gets you to the last 15. Fuel gets you through it.
 
@@ -114,15 +115,15 @@ Want your own match-day plan? Email us your sport and kick-off time through the 
 ## Facts check
 | Claim | Source | Status |
 |---|---|---|
-| Not just because you're unfit; after a match about half the fibres in players' legs were nearly empty | FACTS (Match day fuel: Krustrup 2006, about 47% empty or almost empty) | Pass |
-| Premier League players do about a fifth less hard running in their last 15 minutes than their first | FACTS (Bradley 2009, about 20% less high-intensity running, 28 Premier League matches, 2005-06) | Pass (gate chat: confirm the figure against the paper) |
-| Players on a high-carb diet for 2 days did about a third more hard running in a match | FACTS (Balsom 1999, 33%) | Pass |
+| Not just because you're unfit; after a match about half the fibres in Danish fourth-division players' legs were nearly empty | FACTS (Match day fuel: Krustrup 2006, about 47% empty or almost empty; 31 Danish fourth-division players) | Pass |
+| In the Premier League, every position did about a fifth less hard running in the last 15 minutes than the first | FACTS (Bradley 2009, about 20% less in each of the 5 positions, 28 Premier League matches, 2005-06; read from the abstract 17 Nov) | Pass |
+| In one trial, players on a high-carb diet for 2 days did about a third more hard running in a match | FACTS (Balsom 1999, 33%, 6 players, 4-a-side) | Pass |
 | Half your plate pasta, rice or potatoes at every meal the day before | Our translation of UEFA's 6 to 8 g/kg a day (FACTS) | Luke to OK |
 | Eat 3 to 4 hours before kick-off: porridge for a morning match, pasta in the afternoon | FACTS (UEFA 1 to 3 g/kg, 3 to 4 h before) | Pass |
 | Arsenal 1996: chocolate taken away; at half-time the physio said they were hungry | FACTS (the Arsenal story) | Pass |
 | A 30 gram gel or 6 jelly sweets after the warm-up and again at half-time | FACTS (UEFA about 30 to 60 g; Harper 30 g each time; jelly babies about 5 g each) | Pass |
 | The orange slices won't get you close | FACTS (a few grams a slice) | Pass |
-| From the hour mark, players who took carbs at half-time were quicker on the ball | FACTS (Harper 2017) | Pass |
+| In a 90-minute match test, players who took carbs at half-time were quicker on the ball from the hour mark | FACTS (Harper 2017, 15 players, a match simulation) | Pass |
 | Caption: 2 g/kg (120, 150, 180 g); 150 g = 100 g oats + 2 toast with jam + banana (about 60 + 40 + 25 = 125 to 150 g); 400 g cooked pasta + bread (about 120 + 20) | FACTS (food amounts) | Pass (about) |
 
 ## Humanizer (P169, P202)
