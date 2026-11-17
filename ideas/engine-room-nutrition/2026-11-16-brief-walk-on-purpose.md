@@ -26,7 +26,7 @@ thing**: the walk you don't plan.
 | 42 runners (22 men, 20 women), randomised: run the whole marathon, or run and walk | Hottenrott and others, *J Sci Med Sport* 2016;19(1):64-8, PubMed 25467199 |
 | Run/walk 4:14:25 against run-only 4:07:40, not significantly different (p = 0.377) | Same. **The honest cost: about 7 minutes slower on average.** Audio: "a similar time"; the caption gives both times |
 | The run/walk group had less muscle pain and fatigue after the race | Same (p = 0.006) |
-| The ratio: about 2.5K of running, then a minute of walking | Press reports of the study. **Gate chat: confirm against the paper** |
+| The ratio: about 2.5K of running, then a minute of walking | Checked 17 Nov: the news summaries (LiveScience, NBC) say a minute's walk every 1.5 miles, about 2.4K; the abstract doesn't give it and the full text wasn't reachable. Audio: "about every 2.5K" is fair. **Gate chat: one look at the full text if it can** |
 | Ultrarunners walk on purpose (the hills, the plan) | Luke's own races |
 | Walk without stopping dead; the station walk | Ours already (FACTS; the 4:30 reel; the walk reel, 27 Oct) |
 
