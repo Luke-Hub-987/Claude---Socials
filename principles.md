@@ -6216,6 +6216,18 @@ value and time spent, so they trust us enough to buy the bar.
 
 *Source: Luke, 17 Nov; `podcast/2026-11-17-podcast-plan.md` section 0.*
 
+## P213 — Do it, don't tell Luke how (Luke, 17 Nov)
+
+Luke, after I recommended "a long-form chat" without making it: "Still not 100%
+service based in your responses... can you make the relevant chats?" **The
+rule:** when something can be done from here (create the chat, rename it, push
+the file, set up the folder, write the brief), do it in the same turn and say
+it's done, with the link or path. Only hand Luke the steps for what needs him
+(his facts, his OK, something on his phone), and say exactly what.
+
+*Source: Luke, 17 Nov, podcast chat. If "service based" meant something else,
+Luke corrects it here.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

@@ -6,15 +6,16 @@ the numbers), `principles.md`, and the failure ledger in `CLAUDE.md`.
 Nothing said on the podcast may contradict a reel (the consistency points
 in CLAUDE.md).
 
-## How the chats are split (17 Nov)
-**One repo, one memory; separate chats by job.** The podcast and the long-form
-YouTube videos share one chat (the long-form chat): same channel, same
-challenge story, same calendar. It works in `podcast/` (and `youtube/` once
-the first video is planned), reads FACTS, principles and the ledger, and adds
-facts to FACTS like any chat. The reels chat (scripts, GATE.md) and the ideas
-chat (P191) stay as they are. **GATE.md is for reels:** on the podcast and
-long-form, only the facts, grams an hour, the bar's slot and the claims rules
-apply, not the hook word counts.
+## How the chats are split (Luke, 17 Nov)
+**One repo, one memory; a chat per job.** This chat ("Podcast - Riverside")
+does the podcast and works in `podcast/`. A separate **YouTube long-form**
+chat does the monthly long-form videos and works in `youtube/`. The reels
+chats (ideas, and the quality gate) stay as they are. All of them read FACTS,
+principles and the ledger, and add facts to FACTS. **GATE.md is for reels:** on
+the podcast and long-form only the facts, grams an hour, the bar's slot and the
+claims rules apply, not the hook word counts. The podcast and YouTube chats
+share the challenge story (plan 0.7) and the calendar (plan 0.4); whichever
+changes them updates the plan file.
 
 ## The challenge (17 Nov)
 Season 1: Luke's Art O'Neill (January, top 10). Season 2: Jamie's backyard
