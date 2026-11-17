@@ -38,7 +38,7 @@ one listing says Sat 5 June, to confirm.
 | Out | Video | Why then | Status |
 |---|---|---|---|
 | **Sun 3 Jan 2027** | **How to run a marathon faster than you deserve: our 2027 framework** | London blocks start Mon 4 Jan; new-year planning | **Brief done** (`youtube/2027-framework-brief.md`), waiting on Luke |
-| **Sun 31 Jan 2027** (by Sun 7 Feb at the latest) | **The Art O'Neill documentary: Luke's top-10 attempt** | 16 days after the race: edit time, still fresh; takes February's slot | Shot list below; title to rewrite (see below) |
+| **Sun 31 Jan 2027** (by Sun 7 Feb at the latest) | **The Art O'Neill documentary: Luke's top 10 in his class** | 16 days after the race: edit time, still fresh; takes February's slot | Shot list below; title to rewrite (see below) |
 | Late Feb or Mar | The bar: everything that failed before it worked | The launch | Needs the bar's dates |
 | Late Mar | The London Marathon, mile by mile, for a 4-hour runner | London 25 Apr | Not started |
 | Mid to late June | Head to head: the Norn Iron 100 and Western Yards (season 2's documentary) | After both races (Western Yards may be 5 June) | Needs Western Yards' date confirmed |
@@ -51,15 +51,21 @@ podcasts have gone out on time.
 ## The Art O'Neill documentary: shot list
 **The rule (plan 0.7):** Luke's race is the story; the marathoner's lesson is
 what each chapter hands over. Race facts on screen only from FACTS.
-**Title (recommended, P215 allows the job line):** *8 WEEKS TO A TOP-10 FINISH
-(WITH A FULL-TIME JOB)*. The bet is filmed Fri 20 Nov and the race is Fri 15
-Jan: exactly 8 weeks. It has a number, a deadline and a constraint (P178), and
-the job is the part our marathoners share; "Art O'Neill" goes in the
-description and chapters, since few people search it. Fallback: *I wasn't fit
-enough for the top 10. I had 8 weeks.*
-**The target on screen:** the 10th-place time from 2026, once Luke says which
-top 10 he means (overall, 8:29:15, or his class, 10:35:37). It turns "top 10"
-into one number the whole film chases, and it's the thumbnail.
+**The goal (Luke, 17 Nov): top 10 in his class (Ultra - Male).** 10th in that
+class in 2026 was **10:35:37**. Always "top 10 in my class", never "top 10"
+alone: 10th overall was 8:29:15, so "top 10" on its own claims a goal Luke
+hasn't set (FACTS).
+**Title (recommended):** *8 WEEKS TO BEAT 10:35 (A 62KM NIGHT RACE, WITH A
+FULL-TIME JOB)*. "Top-10 finish" in a title reads as overall, so the target
+time carries it instead: a number, a deadline and a constraint (P178), and
+nothing to misread. The bet is filmed Fri 20 Nov and the race is Fri 15 Jan:
+exactly 8 weeks. "Art O'Neill" and "top 10 in my class" go in the first line of
+the description and the spoken open. Fallback: *8 WEEKS TO A TOP 10 IN MY CLASS
+(WITH A FULL-TIME JOB)*.
+**The target on screen:** 10:35:37, the time the whole film chases. Thumbnail:
+Luke in a head torch at night, top band black on white **BEAT 10:35**, with a
+watch showing the time so far. Say "last year's 10th place" every time it's
+used: this year's 10th could be faster or slower.
 
 | Chapter | What to film | When | Owner |
 |---|---|---|---|
@@ -68,7 +74,7 @@ into one number the whole film chases, and it's the thumbnail.
 | **3. The benchmark, again** | The same route and effort as chapter 1, the two watch screens side by side | First week of January | Luke |
 | **4. Race week** | The last 7 days and the last 24 hours: the carb load, the kit laid out, the bet said again | 8 to 15 Jan | Luke and Jamie |
 | **5. Race night** | **Only where it's safe and the race allows it:** the start, any checkpoint footage the rules allow, a chest-pocket phone, a head torch in shot. Jamie films the start and the finish. Nothing that slows Luke or breaks a race rule; most of the story comes from before and after | 15 Jan | Jamie (Luke only if it's safe) |
-| **6. The result** | The finish, the ranking on the official results, Luke straight after (before he's had time to tidy the story), then a calm debrief in the car the next day: top 10 or not, and what he'd change, one number per thing | 15 to 17 Jan | Luke and Jamie |
+| **6. The result** | The finish, the ranking on the official results, Luke straight after (before he's had time to tidy the story), then a calm debrief in the car the next day: top 10 in his class or not, and what he'd change, one number per thing | 15 to 17 Jan | Luke and Jamie |
 
 The lessons each chapter hands to a marathoner come from plan 0.7's table
 (how much fitter you can get by a race date, fuelling for many hours, walking
@@ -90,7 +96,7 @@ fast fitness comes needs a source in FACTS before the script.
 
 ## Waiting on Luke
 1. The 2027 framework brief: yes, or what changes (questions at the end of the brief).
-2. The documentary: which top 10 (overall, 8:29:15 in 2026, or the Ultra -
-   Male class, 10:35:37)? OK the title *8 WEEKS TO A TOP-10 FINISH (WITH A
-   FULL-TIME JOB)*? I'll check the race's own rules on filming before race week.
+2. The documentary: OK the title *8 WEEKS TO BEAT 10:35 (A 62KM NIGHT RACE,
+   WITH A FULL-TIME JOB)*? I'll check the race's own rules on filming before
+   race week.
 3. The bar's launch window, which sets the date of the bar film.
