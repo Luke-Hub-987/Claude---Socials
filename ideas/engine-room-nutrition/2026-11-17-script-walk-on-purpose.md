@@ -1,5 +1,6 @@
 ---
 type: script (gated)
+status: KILLED by Luke 17 Nov ("walk at 2.5K of what? ... I don't walk from the very start, I run"). Not to be filmed. Kept as the record.
 gate: v1
 brief_ok: Luke 16-17 Nov ("give me the best OST with the pre-mortem... we have to post something"; 17 Nov "the two posts for today and the scripts"); brief ideas/engine-room-nutrition/2026-11-16-brief-walk-on-purpose.md
 generated_at: 2026-11-17

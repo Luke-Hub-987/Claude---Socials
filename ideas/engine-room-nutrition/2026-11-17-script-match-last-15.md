@@ -4,26 +4,27 @@ gate: v1
 brief_ok: Luke 17 Nov ("I'd like to also do that one I had about the matches today... give me both"); brief ideas/engine-room-nutrition/2026-11-16-brief-match-last-15.md
 generated_at: 2026-11-17
 teleprompter: 2026-11-17-teleprompter-match-last-15.txt
+luke_note: 17 Nov, Luke: "last 15 of what? pros in what? what sport?" Title repackaged to name the sport (Sunday league), the minute (75) and, on his yes, the Premier League bracket; line one and stage 1 changed to match
 fixed_after_review: G21 (caption plan for a 10:30am and a 2pm kick-off: meal times, about 2 g/kg for 60, 75 and 90 kg with the food, 30 g after the warm-up and at half-time), G22 (Premier League line cut: under 1.5 g/kg sits inside the 1 to 3 g/kg guideline; 'on a high-carb diet for 2 days'; 'just because you're unfit'; a 'Match day fuel, soccer' block added to FACTS), G23 ('a 30 gram gel or 6 jelly sweets'; porridge for a morning match, pasta in the afternoon), G29 (new line-one shape; new follow line)
 basis: the brief (the levers, the facts, the pre-mortem); UEFA expert group statement on nutrition in elite football (Collins and others, BJSM 2021: pre-match meal 1 to 3 g/kg 3 to 4 hours before kick-off; about 30 to 60 g after the warm-up and again at half-time; 6 to 8 g/kg a day around matches), read from the full text 17 Nov; Harper 2017 (60 g per 500 ml: 250 ml after the warm-up and 250 ml at half-time); Mohr 2003; Krustrup 2006; Balsom 1999; Anderson 2017; Wenger's first Arsenal away trip (1996)
 format: Instagram trial reel from ERN (non-followers; auto-share off, no collaborator), Tue 17 Nov. Not ERN TikTok (3 Nov: runners left at 0:03). Profile only if it beats 4K views and 40% skip at 24 hours, and not before 22 Nov (row 31: the fourth hour's twist)
 ---
 
-# YOUR LEGS DIE IN THE / LAST 15 (PROS' TOO)
+# SUNDAY LEAGUE LEGS DIE / AT 75 MINUTES
 
 ## Gate fields
-- OST: YOUR LEGS DIE IN THE / LAST 15 (PROS' TOO)
+- OST: SUNDAY LEAGUE LEGS DIE / AT 75 MINUTES
 - OST score: 10/10 (OST-SCORECARD.md, P210; the 2-line rebuild of SUNDAY LEAGUE LEGS DIE / IN THE LAST 15 / (SO DO THE PROS) after the 17 Nov pre-mortem)
-- Markers: THE DAY BEFORE / 3 HOURS BEFORE / WARM-UP AND HALF-TIME / THE LAST 15
-- Gap phrase: go in the last 15 minutes
+- Markers: THE DAY BEFORE / 3 HOURS BEFORE / WARM-UP AND HALF-TIME / THE LAST 15 MINUTES
+- Gap phrase: legs go at 75 minutes
 - Repeat line: fitness gets you to the last 15, but fuel gets you through it
 - Gap held by: "That's the empty 15, when the lad you skinned beats you to every ball, but you can fill it."
-- Gap closed by: THE LAST 15
+- Gap closed by: THE LAST 15 MINUTES
 - Turn: "When players had muscle taken from their legs after a match, about half the fibres were nearly empty."
 - Frame one: Luke and the title only, top band, full width, black bold on white, DIE in red (P205, P207); nothing else until stage 1; Luke in a football top or plain top, not a running top
 - Frame one words: title only
 - Mockup: ideas/engine-room-nutrition/mockups/2026-11-17-match-frame-one.png
-- Layer title: your legs die in the last 15, and the pros' legs too (why? and what do the pros do?)
+- Layer title: Sunday league legs die at 75 minutes, and Premier League ones fade too (why? and what fixes it?)
 - Layer picture: none (Luke and the title)
 - Layer line one: new to the title (row 29): it isn't your fitness; the legs are nearly empty
 - Worked example goal: none (a 75 kg player's pre-match meal in the caption)
@@ -62,13 +63,13 @@ you can fill it"). No save in the hook (P204). New shape against the last three
 
 ## Script
 
-"Your legs don't go in the last 15 minutes of a Sunday league match just because you're unfit. When players had muscle taken from their legs after a match, about half the fibres were nearly empty."
+"If your legs go at 75 minutes in Sunday league football, it isn't just your fitness. When players had muscle taken from their legs after a match, about half the fibres were nearly empty."
 
 "That's the empty 15, when the lad you skinned beats you to every ball, but you can fill it."
 
 **[THE DAY BEFORE]**
 
-"Even top pros do over a third less hard running in their last 15 than their first. So the fix starts the day before your game. Make half your plate pasta, rice or potatoes at every meal. Players on a high-carb diet for 2 days did about a third more hard running in a match."
+"Even Premier League players do about a fifth less hard running in their last 15 minutes than their first. So the fix starts the day before your game. Make half your plate pasta, rice or potatoes at every meal. Players on a high-carb diet for 2 days did about a third more hard running in a match."
 
 "Save this and check it the day before your next game."
 
@@ -84,7 +85,7 @@ you can fill it"). No save in the hook (P204). New shape against the last three
 
 "Here's what the last 15 looks like when your legs aren't empty."
 
-**[THE LAST 15]**
+**[THE LAST 15 MINUTES]**
 
 "From the hour mark, players who took carbs at half-time were quicker on the ball. So when it goes over the top at 80, you've still got the legs to chase it. Fitness gets you to the last 15, but fuel gets you through it."
 
@@ -114,7 +115,7 @@ Want your own match-day plan? Email us your sport and kick-off time through the 
 | Claim | Source | Status |
 |---|---|---|
 | Not just because you're unfit; after a match about half the fibres in players' legs were nearly empty | FACTS (Match day fuel: Krustrup 2006, about 47% empty or almost empty) | Pass |
-| Top pros do over a third less hard running in their last 15 than their first | FACTS (Mohr 2003, 35 to 45%) | Pass |
+| Premier League players do about a fifth less hard running in their last 15 minutes than their first | FACTS (Bradley 2009, about 20% less high-intensity running, 28 Premier League matches, 2005-06) | Pass (gate chat: confirm the figure against the paper) |
 | Players on a high-carb diet for 2 days did about a third more hard running in a match | FACTS (Balsom 1999, 33%) | Pass |
 | Half your plate pasta, rice or potatoes at every meal the day before | Our translation of UEFA's 6 to 8 g/kg a day (FACTS) | Luke to OK |
 | Eat 3 to 4 hours before kick-off: porridge for a morning match, pasta in the afternoon | FACTS (UEFA 1 to 3 g/kg, 3 to 4 h before) | Pass |

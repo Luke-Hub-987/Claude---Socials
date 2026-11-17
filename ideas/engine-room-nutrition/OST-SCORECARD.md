@@ -26,6 +26,11 @@ why: Luke, 13 Nov: "you keep reverting to the mean... playing it safe, plain, bo
 - **First, one question:** can the viewer answer the title about themselves in
   one second ("which one are you?")? If yes, it's dead before it's scored.
 
+**The stranger's questions, must-pass (Luke 17 Nov, "last 15 of what? pros in what? what sport? I've told you 100 times"; a repeat of G11 "in what?" and P180, my miss):**
+- Read the title as a stranger and write every "of what? in what? where? who?" it raises. Each must be answered **on screen**, not in line one: the event or sport named (MARATHON, SUNDAY LEAGUE), every number with its unit and its thing (75 MINUTES, 32K, 2.5K OF A MARATHON), every group named exactly (PREMIER LEAGUE, not PROS).
+- WALK AT 2.5K (of what? a parkrun?) and LAST 15 (of what?) / PROS (in what?) both failed this and scored 10. Any unanswered question = 0 on test 3.
+- Never put a habit in Luke's mouth he hasn't told us ("I walk from the start": he runs). His own practice is "Luke to OK" before it reaches a title or line one.
+
 **Tighter wording (16 Nov, pre-mortem 2):**
 - Test 7 fails if the topic is already a common video on other running
   accounts, whatever bracket is added.
@@ -64,3 +69,6 @@ why: Luke, 13 Nov: "you keep reverting to the mean... playing it safe, plain, bo
 | COUNTY PLAYERS EAT / HALF THE CARBS THEY / NEED BEFORE A MATCH (GAA) | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 0 | 1 | **8** (banked for the championship; needs the paper) |
 | **WALK AT 2.5K / OR YOU'LL WALK AT 32K** (17 Nov, replaces ULTRARUNNERS WALK / ON PURPOSE. / MARATHONERS WALK AT 32K) | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | **10**. The 17 Nov pre-mortem: the old title's first word was us (ULTRARUNNERS), its first line needed the third to make sense, and 3 lines need Luke's sign-off under G10. Now an order that sounds mad first, the threat second, 2 lines (12 + 21). Risk: run/walk is known in the US; ours is a race plan tied to the gel clock. The 32K claim is ours (reviewer G22): Luke to OK |
 | **YOUR LEGS DIE IN THE / LAST 15 (PROS' TOO)** (17 Nov, the 2-line rebuild of SUNDAY LEAGUE LEGS DIE / IN THE LAST 15 / (SO DO THE PROS)) | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | **10**. YOUR in place of SUNDAY LEAGUE (line one names Sunday league), DIE on the top line, the sting kept, 2 lines (20 + 19). "AT 75 MINS" was cut: "your legs die at 75" reads as an age |
+| ~~WALK AT 2.5K / OR YOU'LL WALK AT 32K~~ | | | 0 | | | | | | | | **dead** (Luke 17 Nov: 2.5K of what? confusing; and he doesn't walk from the start) |
+| ~~YOUR LEGS DIE IN THE / LAST 15 (PROS' TOO)~~ | | | 0 | | | | | | | | **dead** (Luke 17 Nov: last 15 of what? pros in what sport?) |
+| **SUNDAY LEAGUE LEGS DIE / AT 75 MINUTES / (EVEN IN THE PREMIER LEAGUE)** (17 Nov) | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | **10**. Stranger's questions: in what? Sunday league football. 75 of what? minutes of the match. Pros where? the Premier League (Bradley 2009: about 20% less high-intensity running in the last 15 than the first 15). 3 lines need Luke's yes; without the bracket it's 9 |
