@@ -88,3 +88,18 @@ Goal-time bands (first 10K / then): 3:30 5:05-5:10 / 4:50-4:55;
 Replies per 100 delivered (Email 1 target 5+; Email 2 target 10+ of
 openers), unsubscribes (under 0.8% on Email 1, under 0.5% on Email 2),
 and the count of each number (it tells us the next video topic).
+
+## In Klaviyo (pushed 17 Nov, drafts only, nothing scheduled)
+- Email 1: campaign "ERN 18 Nov - Email 1 - Where your marathon starts"
+  (https://www.klaviyo.com/campaign/01M7MAW4JM6X0NF2CM9QXCG6KH/wizard),
+  template XrwRzw. Audience: Email List, excluding segment "ERN - Joined
+  in last 14 days (in welcome flow)". Local time zone, Smart Sending on,
+  from "Luke".
+- Email 2: campaign "ERN 21 Nov - Email 2 - Where will your marathon go
+  wrong" (https://www.klaviyo.com/campaign/01M7MAXAAP19GDF6GG4VV5KECT/wizard),
+  template WAZ469. Audience: segment "ERN - Opened Email 1" (opened that
+  exact message at least once). It fills up only after Email 1 sends.
+- No "Replied" list exists in Klaviyo yet, so neither audience leaves out
+  people who already have a plan.
+- Email 2 copy change: "finished five minutes over her goal" became "over
+  goal" (no assumed pronoun for the Dublin runner).
