@@ -233,6 +233,51 @@ shot. Get most of the story before and after.
   marathoner's lesson. Episode 1 opens on the bet and answers "how much fitter
   can you get by then with a full-time job".**
 
+
+## 0.8 The dates (Luke, 17 Nov): this overrides the seasons in 0.7
+**Art O'Neill: Fri 15 Jan 2027, ranked.** Luke also runs the **Norn Iron 100
+in May**, and Jamie runs **Western Yards Backyard around May**. That's 59
+days from today, and 37 days from the Wed 9 Dec launch.
+
+**Season 1: TOP 10 BY 15 JANUARY (8 episodes, launch to result).**
+| Out (Wed) | Episode | The marathoner's lesson |
+|---|---|---|
+| 9 Dec (1 to 3 together) | 1. The bet: "I'm not fit enough for the top 10, and I've got until 15 January" | How much fitter can you get by your race with a full-time job? (needs a source in FACTS first) |
+| 9 Dec | 2. Why marathons fall apart after 30K | The wall starts at 10K: Luke's Dublin splits as the example |
+| 9 Dec | 3. How to actually carb load | 8 to 10 g/kg for 36 to 48 hours; tried on a long run, the scales |
+| 16 Dec | 4. 4-hour marathons die in hour 4 | 30 g every 30 minutes; fuelling a night in the mountains is the extreme version |
+| 23 Dec (recorded early) | 5. Training with a full-time job, at Christmas | Luke's real week; what got cut |
+| 6 Jan | 6. Walking on purpose | Walking the climbs vs being forced to walk at 32K |
+| 13 Jan (race week) | 7. Race week: the last 7 days and the last 24 hours | The countdown every marathoner lives |
+| **20 Jan** | **8. The result: top 10 or not, honestly** | What I'd change, as one number per stage |
+There's no episode on 30 Dec (Christmas week). Episodes 6 and 7 can be
+recorded together on Sun 3 Jan.
+
+**Season 2: MAY, HEAD TO HEAD (Feb to May).** Both of you race in May: Luke
+at the Norn Iron 100, Jamie at Western Yards. So the rivalry is a real
+head-to-head, not taking turns. Both train on air, the bets run all season
+(who held the gel clock, who got the long run done), and the finale is both
+results. The backyard ultra's start every hour is still the bar's window
+acted out (0.7), if samples exist by then.
+
+**Record now, before anything else (this week):** a 2-minute phone video
+of Luke, before he's fitter, for the documentary and episode 1. Say the bet
+to the lens ("15 January, the Art O'Neill, top 10, and I'm not fit enough"),
+plus one measurable starting point: a benchmark run you'll repeat before
+the race (same route, same effort, the time and the heart rate). That's the
+"before" picture, and it can't be filmed later. Repeat the benchmark in the
+first week of January for episode 6 or 7.
+
+**The target number:** last year's 10th-place time from the official results
+turns "top 10" into a number, which makes episode 1 specific (P115). The web
+search found nothing; Luke to send it.
+
+**Long-form (the YouTube chat owns it; told on 17 Nov):** the framework video
+in the first week of January stays first. The Art O'Neill documentary, *Can a
+runner with a full-time job finish top 10 at [race]?*, comes out about 2 to 3
+weeks after 15 January for the edit (early February), so it takes February's
+slot. The Seville guide moves to the reels.
+
 ---
 
 # v1 below (still the reference for setup, packaging, topics and rules)

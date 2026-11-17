@@ -17,9 +17,10 @@ claims rules apply, not the hook word counts. The podcast and YouTube chats
 share the challenge story (plan 0.7) and the calendar (plan 0.4); whichever
 changes them updates the plan file.
 
-## The challenge (17 Nov)
-Season 1: Luke's Art O'Neill (January, top 10). Season 2: Jamie's backyard
-ultra championship (May, top 10). Your race is the story; their marathon is
+## The challenge (17 Nov; dates in plan 0.8)
+Season 1, TOP 10 BY 15 JANUARY: Luke's Art O'Neill (Fri 15 Jan 2027, ranked),
+8 episodes from 9 Dec, the result on Wed 20 Jan. Season 2, MAY HEAD TO HEAD:
+Luke's Norn Iron 100 and Jamie's Western Yards Backyard, both in May. Your race is the story; their marathon is
 the lesson. Plan section 0.7; race facts unconfirmed (FACTS).
 
 ## The plan (17 Nov): read this first

@@ -190,12 +190,16 @@ with the date.
   and Belfast (2 May).
 
 ## Luke and Jamie's next races (Luke, 17 Nov, for the podcast)
-- Luke: the Art O'Neill, January ("or sometime"), goal top 10; Luke says he
-  isn't fit enough for the top 10 now, or maybe even by then.
-- Jamie: a backyard ultra championship, around May, goal the same.
-- **Not confirmed: dates, distances, format, whether finishers are ranked,
-  the name of Jamie's race. Say none of them on air or in a script until
-  Luke gives them** (brands/personal/voice.md, the ultra rule).
+- **Luke: the Art O'Neill, Friday 15 January 2027.** Goal: top 10.
+  Finishers are ranked (Luke). Luke says he isn't fit enough for the top 10
+  now, or maybe even by then.
+- **Luke: the Norn Iron 100, May 2027.** Goal not given yet.
+- **Jamie: Western Yards Backyard, around May 2027** (a backyard ultra
+  championship). Goal: the same as Luke's (top 10), to confirm with Jamie.
+- **Not confirmed:** distances, courses and formats, the exact May dates,
+  last year's 10th-place time at the Art O'Neill. Say none of them on air
+  or in a script until Luke gives them (brands/personal/voice.md, the ultra
+  rule). The "100" in Norn Iron 100 is its name: never say miles or km.
 
 ## Plan results after Dublin (counts only, 4 Nov)
 - **About 200 plans sent** (Luke confirmed, 4 Nov);
