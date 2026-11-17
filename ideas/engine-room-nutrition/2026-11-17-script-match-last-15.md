@@ -98,6 +98,8 @@ you can fill it"). No save in the hook (P204). New shape against the last three
 "Follow, and be first to the ball at 85."
 
 ## Caption
+Half-time oranges won't save your legs at 75 minutes. A slice is a few grams of carbs, and your legs need about 30 g at half-time.
+
 Your legs don't go at 75 minutes just because you're unfit. When 31 Danish fourth-division players were tested in friendly matches, about half the fibres in their legs (47%) were empty or almost empty of stored carbs afterwards (Krustrup and others, Medicine & Science in Sports & Exercise, 2006). And it isn't just Sunday league: across 28 Premier League matches in the 2005-06 season, players in every position did about 20% less high-intensity running in the last 15 minutes than in the first 15 (Bradley and others, Journal of Sports Sciences, 2009). Top-class professionals faded even more, 35 to 45% (Mohr and others, 2003).
 
 The plan comes from the UEFA expert group statement on nutrition in elite football (2021), turned into food. The day before and on match day, eat carbs at every meal, about 6 to 8 g per kg you weigh across the day; half your plate pasta, rice or potatoes is the easy version. In a small trial, 6 players on a high-carb diet for 2 days did about 33% more high-intensity running in a 90-minute 4-a-side game than on a low-carb one (Balsom and others, International Journal of Sports Medicine, 1999).
