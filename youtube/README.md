@@ -97,6 +97,10 @@ fast fitness comes needs a source in FACTS before the script.
 - **The podcast is the weekly, loose show; long-form is the full guide.** Say it
   once in each ("the full framework is on the channel"; "we talk about this
   every week on the podcast"). Same ERN channel, its own playlist.
+- **The name (podcast plan 0.9, waiting on Luke):** if the podcast is FASTER THAN
+  YOU DESERVE, the January video stays *the framework* (the full method, once)
+  and the podcast *the weekly show*; the video's description links the show and
+  the show's first episode of January links the video.
 - **The framework video is the hub.** Every reel, podcast episode and email that
   touches pacing or fuel links to it from January.
 - **The race story is the podcast's; the lesson is the marathoner's** (plan 0.7).
