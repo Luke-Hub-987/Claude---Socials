@@ -65,3 +65,15 @@ first second), but we can't prove it from one post.
 Still climbing at 12h. The sub-4 parent went from 7.2K at 14h to 10.4K at 3
 days (1.44x); this one is climbing faster: **20K to 28K lifetime on IG + FB.**
 TikTok 5K to 8K.
+
+## Day 2 (17 Nov, ~42h), pulled through Windsor (Instagram only; Facebook and TikTok not connected yet)
+| | 12h (screenshot) | ~42h (Windsor) |
+|---|---|---|
+| IG views | 8,724 | **18,023** (reach 14,202) |
+| Skip | 27.0% (IG + FB) | **26.9%** |
+| Avg watch | 29s | **31.6s** |
+| Saves | 1.7% | **277 (1.5% of views)** |
+| Shares | 0.4% | **75 (0.4%)** |
+| Likes | 1.5% | 338 (1.9%) |
+Still our best since September by a distance: the next best reel in the last 14 days is sub-4 (secretly) at 5,463 IG views, skip 46.1%, 23.6s, 111 saves.
+The API gives views, reach, skip, average watch, saves, shares, likes and comments per reel. It doesn't give the retention curve, traffic sources or follows per reel (Meta doesn't support follows for reels), so those still come from screenshots.
