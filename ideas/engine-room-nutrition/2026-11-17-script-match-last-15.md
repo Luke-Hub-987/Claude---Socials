@@ -100,15 +100,15 @@ you can fill it"). No save in the hook (P204). New shape against the last three
 ## Caption
 Half-time oranges won't save your legs at 75 minutes. A slice is a few grams of carbs, and your legs need about 30 g at half-time.
 
-Your legs don't go at 75 minutes just because you're unfit. When 31 Danish fourth-division players were tested in friendly matches, about half the fibres in their legs (47%) were empty or almost empty of stored carbs afterwards (Krustrup and others, Medicine & Science in Sports & Exercise, 2006). And it isn't just Sunday league: across 28 Premier League matches in the 2005-06 season, players in every position did about 20% less high-intensity running in the last 15 minutes than in the first 15 (Bradley and others, Journal of Sports Sciences, 2009). Top-class professionals faded even more, 35 to 45% (Mohr and others, 2003).
+The day before: carbs at every meal, about 6 to 8 g per kg you weigh across the day. Half your plate pasta, rice or potatoes is the easy version.
 
-The plan comes from the UEFA expert group statement on nutrition in elite football (2021), turned into food. The day before and on match day, eat carbs at every meal, about 6 to 8 g per kg you weigh across the day; half your plate pasta, rice or potatoes is the easy version. In a small trial, 6 players on a high-carb diet for 2 days did about 33% more high-intensity running in a 90-minute 4-a-side game than on a low-carb one (Balsom and others, International Journal of Sports Medicine, 1999).
+Kick-off 10:30am: breakfast at 7 to 7:30am. Kick-off 2pm: eat at 10:30 to 11am. Aim for about 2 g of carbs per kg: 120 g if you weigh 60 kg, 150 g at 75 kg, 180 g at 90 kg. In the morning, a big bowl of porridge (100 g of oats), 2 slices of toast with jam and a banana. In the afternoon, a big bowl of pasta (about 400 g cooked) and a slice of bread. Not a fry-up, and not nothing.
 
-Kick-off 10:30am: breakfast at 7 to 7:30am. Kick-off 2pm: eat at 10:30 to 11am. Aim for about 2 g of carbs per kg: 120 g if you weigh 60 kg, 150 g at 75 kg, 180 g at 90 kg. For 150 g in the morning, that's a big bowl of porridge (100 g of oats), 2 slices of toast with jam and a banana. In the afternoon, a big bowl of pasta (about 400 g cooked) and a slice of bread. Lighter or heavier, scale it down or up a little. Not a fry-up, and not nothing.
+After the warm-up and again at half-time: 30 g of carbs each time, whatever you weigh. A 30 g gel, about 6 jelly sweets, or 250 ml of a strong sports drink (60 g per 500 ml). Try it at training first.
 
-After the warm-up and again at half-time: 30 g of carbs each time, whatever you weigh. That's a 30 g gel, or about 6 jelly sweets, or 250 ml of a strong sports drink (60 g per 500 ml). In one trial, 15 players ran a 90-minute match simulation three times; when they took 30 g after the warm-up and 30 g at half-time, they dribbled faster from the hour mark on than on water or a dummy drink (Harper and others, Journal of Science and Medicine in Sport, 2017). Try it at training first so your stomach knows it.
+Why: 31 Danish fourth-division players had about half their leg muscle fibres (47%) empty or almost empty of stored carbs after a match (Krustrup 2006). Across 28 Premier League matches, every position did about 20% less high-intensity running in the last 15 minutes than the first 15 (Bradley 2009). 6 players on a high-carb diet for 2 days did about 33% more high-intensity running (Balsom 1999). 15 players who took 30 g after the warm-up and at half-time dribbled faster from the hour mark (Harper 2017). The amounts follow UEFA's expert statement on nutrition in elite football (2021).
 
-The Arsenal story (Premier League, 1996): on Arsène Wenger's first away trip, he'd taken the chocolate away. The players chanted for their Mars bars on the bus, and at half-time his physio told him the silent dressing room was hungry.
+Arsenal, 1996: Wenger took the chocolate away, and at half-time his physio told him the silent dressing room was hungry.
 
 Fitness gets you to the last 15. Fuel gets you through it.
 
@@ -156,6 +156,9 @@ Want your own match-day plan? Email us your sport and kick-off time through the 
 | Score | 9 | 8 |
 
 Council: **Contrarian:** A's oranges may be a cliché more than a habit; B has no fight. **Assumption-ripper:** we assume the orange is universal (test it: the pinned comment asks what the team eats); B's claim isn't ours to make. **Expansionist:** A has a send built in, the person who brings the oranges; B is a series name for later (county fuel, rugby fuel). **Outsider:** A, "oranges?", then line 3 says football; B, "is this an ad?". **Executor:** A is built, measured at 7.6vw and matches stage 3. Blind cross-review: the claim against B is a fact problem, the risk against A is a habit problem the comments can test. **Chairman: A**, with the send line "Send this to whoever brings the oranges at half-time" and the pinned comment "What does your team eat at half-time? Comment it." Killed on the way: NOR WILL FITNESS as a bracket (FACTS: "it isn't just your fitness", never "it isn't your fitness"); SUNDAY LEAGUE LEGS DIE / AT 75 MINS. PREMIER / LEAGUE ONES DON'T (untrue: Bradley).
+
+## Posted (IG trial reel, Tue 17 Nov 6:04pm)
+At about 2h (Windsor, 20:14): 613 views, reach 465, skip 27.8%, 14.2s watched, 1 save, 3 shares (0.65% of reach), 6 likes. Beats the last match trial (242 at 2h, 26.2%) and 16 results (459 at 1h). **The caption was 2,651 characters: Instagram cuts at 2,200, so the kick-off plan and the 30 g were missing while the audio says "the caption has the times and amounts".** Rewritten plan-first at 1,774 characters (above); Luke edits the live caption. For the gate chat: a caption-length check (2,200) in check.py.
 
 ## Known risks (pre-mortem, P196: judgement calls, ungraded)
 - **G27 (named people and brands):** Arsenal is named because Luke asked for an elite team example (16 Nov). No player or coach is named in the audio; Wenger is in the caption.
