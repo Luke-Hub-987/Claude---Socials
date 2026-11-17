@@ -6,7 +6,18 @@ the numbers), `principles.md`, and the failure ledger in `CLAUDE.md`.
 Nothing said on the podcast may contradict a reel (the consistency points
 in CLAUDE.md).
 
-## Episode 1 (record Fri 30 Oct)
+## The plan (17 Nov): read this first
+`podcast/2026-11-17-podcast-plan.md`: 20 to 25 minutes weekly, one searchable
+question an episode, the same 7 parts (cold open, promise, the runner from the
+inbox, the myth, the method, we tried it, the one thing), Luke hosts with the
+numbers, Jamie asks what it means for someone with a job. Riverside on two
+vertical phones. Season 1 ROAD TO SPRING, 10 episodes, launch Wed 9 Dec with 3,
+ends at Seville. Replaces separate long-form YouTube in season 1. Clips to
+TikTok, Shorts and IG trial reels; the best one rewritten as a profile reel.
+The bar from January through the Lab, inside the health-claims rules.
+**Waiting on Luke's 6 answers** at the end of the plan.
+
+## Episode 1 of 27 Oct (record Fri 30 Oct; no sign it was recorded)
 **The Dublin marathon, both of us, at every 10K:** the surprise, the start,
 what we did at each 10K (pace, gels, the talk test, 32K), what went wrong
 and what we'd change. Facts needed: both sets of splits, gel times, what
