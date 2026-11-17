@@ -1,0 +1,43 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Match cards</title>
+<!-- SUNDAY LEAGUE LEGS DIE / AT 75 MINUTES / (EVEN IN THE PREMIER LEAGUE) (17 Nov): title cards and stage cards, 16:9.
+     ?c=title&theme=white|navy&lines=2|3   or   ?c=stage&n=1a|1b|2|3|4|study -->
+<style>
+@font-face{font-family:'Barlow Condensed';font-weight:800;src:url(../fonts/BarlowCondensed-800-normal.woff2) format('woff2');}
+@font-face{font-family:Inter;src:url(../fonts/Inter-400-normal.woff2) format('woff2');font-weight:100 900;}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1920px;height:1080px;overflow:hidden}
+body.navy{background:#0c1828;color:#fff} body.white{background:#fff;color:#000}
+.w{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;padding:0 150px}
+.white .w{align-items:center;padding:0 70px}
+.l{font-family:"Barlow Condensed",sans-serif;font-weight:800;line-height:1.02;white-space:nowrap;width:max-content}
+.hl{background:#d9473f;color:#fff;padding:0 .12em;display:inline-block;line-height:1.1;border-radius:.06em}
+.navy .hl{border-radius:.1em}
+.blue{background:#1f7ae0;color:#fff;padding:0 .14em;border-radius:.1em;display:inline-block;line-height:1.1}
+.eb{font-family:'Barlow Condensed',sans-serif;font-weight:800;font-size:72px;letter-spacing:6px;color:#9fb0c6;margin-bottom:18px}
+.src{font-family:Inter,sans-serif;font-weight:600;font-size:62px;line-height:1.3;color:#c9d3e0;margin-top:34px;letter-spacing:.5px}
+</style></head><body><div class="w" id="w"></div>
+<script>
+const Q=new URLSearchParams(location.search), c=Q.get('c')||'title', theme=Q.get('theme')||'navy';
+document.body.className=c==='title'?theme:'navy';
+const w=document.getElementById('w'); const fits=[];
+function line(html,cap,maxW){const d=document.createElement('div');d.className='l';d.innerHTML=html;w.appendChild(d);fits.push([d,cap,maxW]);return d}
+if(c==='title'){
+  const n=+(Q.get('lines')||3), maxW=theme==='white'?1780:1620;
+  line('SUNDAY LEAGUE LEGS <span class="hl">DIE</span>',210,maxW);
+  line('AT 75 MINUTES',300,maxW);
+  if(n===3) line('(EVEN IN THE PREMIER LEAGUE)',150,maxW);
+} else {
+  const S={ '1a':['STAGE 1','THE DAY <span class="blue">BEFORE</span>','28 PREMIER LEAGUE MATCHES, 2005-06 (BRADLEY 2009)'],
+            '1b':['STAGE 1','THE DAY <span class="blue">BEFORE</span>','6 PLAYERS, 90-MIN 4-A-SIDE (BALSOM 1999)'],
+            '2':['STAGE 2','3 HOURS <span class="blue">BEFORE</span>','UEFA EXPERT GROUP, 2021'],
+            '3':['STAGE 3','WARM-UP AND <span class="blue">HALF-TIME</span>','ARSENAL, 1996'],
+            '4':['STAGE 4','THE <span class="blue">LAST 15</span> MINUTES','15 PLAYERS, 90-MIN MATCH TEST (HARPER 2017)'],
+            'study':['THE STUDY','DANISH <span class="blue">FOURTH DIVISION</span>','31 PLAYERS (KRUSTRUP 2006)']}[Q.get('n')||'1a'];
+  const e=document.createElement('div');e.className='eb';e.textContent=S[0];w.appendChild(e);
+  line(S[1],230,1620);
+  const s=document.createElement('div');s.className='src';s.textContent=S[2];w.appendChild(s);
+}
+document.fonts.load("800 100px 'Barlow Condensed'").then(()=>document.fonts.load("600 40px Inter")).then(()=>{
+  fits.forEach(([d,cap,maxW])=>{let fs=cap;d.style.fontSize=fs+'px';while(d.getBoundingClientRect().width>maxW&&fs>40){fs-=2;d.style.fontSize=fs+'px';}});
+  document.title='fitted';});
+</script></body></html>
