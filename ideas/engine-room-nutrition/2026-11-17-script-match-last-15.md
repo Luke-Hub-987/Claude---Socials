@@ -82,7 +82,7 @@ you can fill it"). No save in the hook (P204). New shape against the last three
 
 "Eat 3 to 4 hours before kick-off, a big bowl of porridge for a morning match or pasta for an afternoon one. Not a fry-up, and not nothing because you're running late. The caption has the times and amounts for your weight."
 
-"Send this to your team's group chat before the next match."
+"Send this to whoever brings the oranges at half-time."
 
 **[WARM-UP AND HALF-TIME]**
 
@@ -112,7 +112,7 @@ Fitness gets you to the last 15. Fuel gets you through it.
 Want the plan for your own match day? Email us your sport, kick-off time and weight through the link in the bio and we'll send it free.
 
 ## Pinned comment
-What minute do your legs go? Comment the number.
+What does your team eat at half-time? Comment it.
 
 Want your own match-day plan? Email us your sport and kick-off time through the link in the bio and we'll send it free.
 
@@ -144,6 +144,15 @@ Want your own match-day plan? Email us your sport and kick-off time through the 
 - The honest cost: a gel at half-time when you feel fine; the caption says try it at training first.
 - A lived scene: the ball over the top at 80.
 - Identity follow last.
+
+## Title pre-mortem and council (17 Nov, Luke: "out of the two titles, the final title")
+| | A: ORANGES WON'T SAVE / YOUR LEGS AT 75 MINS / (SUNDAY LEAGUE) | B: SUNDAY LEAGUE LEGS, / PREMIER LEAGUE FUEL / (STILL FLYING AT 85) |
+|---|---|---|
+| Why it flops | Adult teams may not eat oranges ("not me"); nobody believes oranges save them, so the belief broken is a tradition, not a conviction; the bracket names the sport but isn't a peak | No belief broken and no enemy (must-pass fails); reads like a supplement ad; "Premier League fuel" overclaims: the plan is UEFA's elite guidance, and Premier League players under-eat the pre-match meal (Anderson 2017) |
+| What it has | WON'T on the top line, a picture every footballer knows, the enemy outside the player, 75 MINS, the payoff in stage 3 says the same thing | The most memorable line; a series name |
+| Score | 9 | 8 |
+
+Council: **Contrarian:** A's oranges may be a cliché more than a habit; B has no fight. **Assumption-ripper:** we assume the orange is universal (test it: the pinned comment asks what the team eats); B's claim isn't ours to make. **Expansionist:** A has a send built in, the person who brings the oranges; B is a series name for later (county fuel, rugby fuel). **Outsider:** A, "oranges?", then line 3 says football; B, "is this an ad?". **Executor:** A is built, measured at 7.6vw and matches stage 3. Blind cross-review: the claim against B is a fact problem, the risk against A is a habit problem the comments can test. **Chairman: A**, with the send line "Send this to whoever brings the oranges at half-time" and the pinned comment "What does your team eat at half-time? Comment it." Killed on the way: NOR WILL FITNESS as a bracket (FACTS: "it isn't just your fitness", never "it isn't your fitness"); SUNDAY LEAGUE LEGS DIE / AT 75 MINS. PREMIER / LEAGUE ONES DON'T (untrue: Bradley).
 
 ## Known risks (pre-mortem, P196: judgement calls, ungraded)
 - **G27 (named people and brands):** Arsenal is named because Luke asked for an elite team example (16 Nov). No player or coach is named in the audio; Wenger is in the caption.
