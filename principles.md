@@ -6276,6 +6276,21 @@ task to do?" **The rule:**
 
 *Source: Luke, 17 Nov, podcast chat.*
 
+## P217 — Names: memorable first, risk second; built for more sports (Luke, 17 Nov)
+
+Luke, on The Race Plan: "the name sucks - so generic and we will be talking about
+more sports than just running eventually - be creative, not dull... Doesn't make
+sense that Faster Than You Deserve doesn't pass but a dull and boring barely
+specific title The Race Plan does." I graded names on risk, so the safest and
+dullest won. **The rule:** a name (show, series, product line) is judged in this
+order: (1) remembered after one hearing, a picture in the head; (2) true for
+every sport we'll cover, not just running; (3) tied to what Engine Room sells
+(fuel) without claiming anything; (4) fits the show's personality; (5) nobody
+else has it. Risks are fixed in the subtitle, the artwork or the handle, never
+by choosing a duller name. A generic name fails test 1 and goes no further.
+
+*Source: Luke, 17 Nov, podcast chat.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

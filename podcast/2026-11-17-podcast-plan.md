@@ -292,6 +292,16 @@ weeks after 15 January for the edit (early February), so it takes February's
 slot. The Seville guide moves to the reels.
 
 
+## 0.11 The name (Luke rejected The Race Plan, 17 Nov, P217): ON FUMES
+**Overrides 0.9 and 0.10.** Listing title: *On Fumes: running, sport and fuel,
+by Engine Room*. It's the moment every sport shares (hour 4, the last 15 of a
+match, 3am in the mountains, lap 20 of a backyard), it's two lads with jobs
+training on little, and it's the problem Engine Room fixes, with no claim.
+Pairs with the January video (On Fumes = the problem, Faster Than You Deserve =
+the fix). Runner-up: Dead Legs. No podcast found under either name. The Race
+Plan was my mistake: I graded on risk, so the dullest name won. Master doc:
+https://claude.ai/artifact/6LftEYohSrQKg6iTE96QpG.
+
 ## 0.10 The name, after the pre-mortem (Luke asked, 17 Nov): THE RACE PLAN
 **Overrides 0.9.** Listing title: *The Race Plan: a running podcast by Engine Room*.
 The pre-mortem on Faster Than You Deserve as a forever name: (1) half the show

@@ -545,3 +545,4 @@ twice without being checked against the winners (P99).
 - [ ] **Look it up (P214):** event dates, distances, results and study numbers are searched and sourced in FACTS first; Luke is asked only for his goals, entries, history and OK.
 - [ ] **Jobs (P215):** "we've got jobs" is fine; never "ultras or hard things make you better at work".
 - [ ] **Podcast cue cards (P216):** both co-hosts answer every prompt and both bets open the show; one page, no pre-work or fill-in tables; any long-form footage is self-shot on phones and optional.
+- [ ] **Names (P217):** remembered after one hearing first, then true for every sport, tied to fuel without a claim, fits the show, not taken; fix risks in the subtitle, never with a duller name.
