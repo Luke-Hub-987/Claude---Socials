@@ -292,6 +292,25 @@ weeks after 15 January for the edit (early February), so it takes February's
 slot. The Seville guide moves to the reels.
 
 
+## 0.10 The name, after the pre-mortem (Luke asked, 17 Nov): THE RACE PLAN
+**Overrides 0.9.** Listing title: *The Race Plan: a running podcast by Engine Room*.
+The pre-mortem on Faster Than You Deserve as a forever name: (1) half the show
+isn't about speed (Jamie's backyard rewards lasting; the Norn Iron 100 is about
+106 miles); (2) next to a carb bar it reads as an implied performance claim
+(Regulation 1924/2006 Art. 1(3): a name in a food's advertising that can be read
+as a health claim needs an authorised claim with it); (3) no "running" word, so
+nothing to search; (4) "deserve" can read as a dig or a hint at shortcuts;
+(5) it promises a method every week while the show is two mates and their bets.
+Also: "The Engine Room" is already an endurance podcast (Andrew Celle and Ryan
+Hoffman, also listed as Built Different), so Engine Room stays the brand, never
+the show name. The Race Plan fits every race, claims nothing, has the search
+words in its listing, and is the same idea as the sign-up line ("want your race
+planned?"). "Faster than you deserve" stays as the January video title and as a
+line on air. Full write-up and the final plan: Claude doc
+https://claude.ai/artifact/6LftEYohSrQKg6iTE96QpG (tabs: Plan, Episode
+template, Name pre-mortem). **That doc is now the master plan; this file is the
+history.**
+
 ## 0.9 The name (17 Nov): FASTER THAN YOU DESERVE
 **Recommended: *Faster Than You Deserve*, by Engine Room.** Subtitle: *race
 advice from two runners with jobs*.

@@ -6,7 +6,10 @@ the numbers), `principles.md`, and the failure ledger in `CLAUDE.md`.
 Nothing said on the podcast may contradict a reel (the consistency points
 in CLAUDE.md).
 
-## Name (17 Nov): FASTER THAN YOU DESERVE, by Engine Room (plan 0.9)
+## The master plan is a Claude doc (17 Nov)
+https://claude.ai/artifact/6LftEYohSrQKg6iTE96QpG (tabs: Plan, Episode template, Name pre-mortem). Episode 1 cue card: https://claude.ai/artifact/EW9WBoUzRLxujMCSU7U9a4. The .md files here are the history.
+
+## Name (17 Nov, after the pre-mortem): THE RACE PLAN, a running podcast by Engine Room (plan 0.10; Faster Than You Deserve rejected as the show name, kept for the January video)
 
 ## Next: Friday 20 Nov, record episode 1 (the bet)
 `podcast/2026-11-20-episode-1-run-of-show.md`. Out Sunday 22 Nov, then every Sunday (plan 0.8).
