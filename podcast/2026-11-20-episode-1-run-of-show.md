@@ -1,71 +1,77 @@
 ---
 type: podcast cue card, episode 1 (record Friday 20 Nov 2026)
-status: v2 (Luke, 17 Nov, P216): two co-hosts, two bets, a light cue card, no crew. Shared copy for Jamie: Claude doc https://claude.ai/artifact/EW9WBoUzRLxujMCSU7U9a4 (the doc is the master; this mirrors it)
+status: v3 (Luke, 17 Nov: more two-way, more fun, more stakes, more value): two bets, a listener-picked forfeit, a season scoreboard, four rounds. Shared copy for Jamie: Claude doc https://claude.ai/artifact/EW9WBoUzRLxujMCSU7U9a4 (the doc is the master; this mirrors it)
 basis: plan 0.2, 0.8; FACTS (race facts, fuel, pacing, carb load, super shoes, the 10% rule, Milanović 2015); P212, P214, P215, P216
 ---
 
 # Episode 1: the bets
 
-Two bets, one conversation. This is a cue card, not homework: glance at it,
-and ignore it when the chat's good.
+Two bets, one forfeit, and a scoreboard that runs all season. A cue card:
+glance at it, ignore it when the chat's good.
 
 ## The idea
-We both say our bet on air: top 10 at our next race, and neither of us is fit
-enough yet. Then we talk about what you can actually change before a race,
-with 8 weeks to go (Luke) and about 28 weeks to go (Jamie). Anyone with a
-spring marathon sits somewhere between us.
+We each bet on air that we'll finish top 10 at our next race, and neither of us
+is fit enough yet. Whoever misses does a forfeit the listeners pick. Every
+episode we play for points, so there's always a score to come back for.
 
-| | |
-|---|---|
-| Luke | The Art O'Neill, Fri 15 January. 62K from Dublin Castle over the mountains to Glenmalure, through the night. Top 10 in his class: last year 10th was 10:35:37 |
-| Jamie | Western Yards Backyard (one listing says Sat 5 June: Jamie to check). A 6.7K lap every hour, on the hour, until one runner is left. Top 10 |
-| Length | 25 to 30 minutes |
-| Working title | 8 weeks or 28: what can you actually change before a race? |
-| Goes out | Wed 2 December with episodes 2 and 3, if Friday goes well |
-
-## How it runs
-Three fixed bits; the rest is just the two of us talking.
-1. **The open (first minute, fixed).** One line each, to the lens.
-   - Luke: "15 January, the Art O'Neill: 62K over the mountains, through the night. Top 10 in my class. Last year that was 10:35, and I'm not fit enough yet."
-   - Jamie: "Western Yards Backyard: a 6.7K lap every hour until one person's left. Top 10, and I'm not there yet either."
-   - Then one line together: "We've both got jobs, we're building Engine Room, and we've written about 200 marathon plans this autumn."
-2. **The middle (loose, about 18 minutes).** Get to these in whatever order the chat goes. Both of us answer every one.
-   - Where each of us honestly is right now. One number each.
-   - The forfeit for whoever misses.
-   - What 8 weeks can't change, and what 28 can: the fitter you already are, the less a few weeks adds, and tendons catch up more slowly than heart and lungs.
-   - What can change fast: pacing, fuel (about 60 g of carbs an hour), practising the ground and the dark. For the backyard: running each lap slow enough to still be fine at hour 10, and eating in the minutes between laps.
-   - Back to them: if your spring marathon is 16 to 20 weeks away, you're between us. What would each of us work on now?
-   - How the running fits around work at the moment.
-   - The one ask, once, wherever it fits: "If you've a spring marathon and want it planned, email us your race and goal time. The link's in the description."
-3. **Quick-fire (about 5 minutes, fixed).** Timer on, 45 seconds each. Take turns: one reads, the other answers, then swap. Clap when an answer lands, so the edit can find it.
-4. **The close (fixed).** One thing each for the listener, with a number. Next week's question for them: "What went wrong at your last race?"
-
-## Quick-fire questions
-| # | Question | The answer |
+| | Luke | Jamie |
 |---|---|---|
-| 1 | When should I take my first gel in a marathon? | At 20 minutes, then 30 g every 30 minutes: about 60 g an hour. Grams, never a count of gels |
-| 2 | How slow should my first 10K be? | 5 to 10 seconds a K slower than goal pace. Up to a minute behind at halfway is fine |
-| 3 | Do I really need to carb load? | 8 to 10 g of carbs per kilo a day for 36 to 48 hours. A 70 kg runner eats 560 to 700 g a day. About 1 to 2 kg heavier on race morning is the point |
-| 4 | Will £250 super shoes make me faster at 4-hour pace? | One study found a third of runners at that pace used more energy in them; a newer one found most saved about 2%. Minutes for some, almost nothing for others |
-| 5 | My long run jumped from 16K to 20K. Is that OK? | Count from your longest run in the last 30 days: from 16K, the next is 17.6K. Runs 10 to 30% longer came with a 64% higher injury rate |
+| Race | The Art O'Neill, Fri 15 January | Western Yards Backyard (one listing says Sat 5 June: Jamie to check) |
+| What it is | 62K from Dublin Castle over the mountains to Glenmalure, through the night | A 6.7K lap every hour, on the hour, until one runner is left |
+| The bet | Top 10 in his class (last year 10th was 10:35:37) | Top 10 |
+| Time to get there | 8 weeks | About 28 weeks |
+
+**What listeners get:** whatever's between 8 and 28 weeks out is them. Most
+spring marathons are 16 to 20 weeks away, so every round ends on what they
+should do at their own distance from race day.
+
+Working title: *8 weeks or 28: what can you actually change before a race?*
+25 to 30 minutes. Out Wed 2 December with episodes 2 and 3, if Friday goes well.
+
+## How it runs (both of us answer everything)
+1. **The open (first minute).** Each says his bet to the lens, then the stake: "Whoever misses does a forfeit, and you're picking it." Then together: "We've both got jobs, we're building Engine Room, and we've written about 200 marathon plans this autumn."
+2. **Round 1: on the record (about 5 min).** One honest number each for where you are now. Predictions, replayed in the result episodes: your own finish, and the other's (Luke guesses Jamie's laps, Jamie guesses Luke's time).
+3. **Round 2: why you won't make it (about 8 min).** Each tells the other the one thing that'll stop him; he answers with his plan.
+   - Jamie on Luke: you'll fly the road section out to Kippure (25K) on fresh legs; you'll stop eating in the middle of the night because you're not hungry; the mountain in the dark.
+   - Luke on Jamie: the first laps feel too easy, so you'll run them too fast; you'll skip eating in the minutes between laps; the laps that run into the night.
+   - The marathon twins: going out too fast in the first 10K; not fuelling because you don't feel hungry.
+4. **Round 3: 8 weeks or 28 (about 6 min).** What each will change from here, then the listener's version (table below). The one ask, once: "If you've a spring marathon and want it planned, email us your race and goal time. The link's in the description."
+5. **Round 4: myth or fact (about 6 min, for points).** 45 seconds each, take turns reading. Right call plus the number = a point; the score carries to next week. Clap when an answer lands.
+6. **The close.** The score. Three forfeit options for the story poll. "Team Luke or Team Jamie: tell us in the comments who's making it." One thing each, with a number. Next week's question: "What went wrong at your last race?"
+
+## Round 3: what to work on at your distance from race day
+| Weeks to go | Who | What to work on |
+|---|---|---|
+| About 8 | Luke | Rehearse the race plan on every long run: the pace for the first section and about 60 g of carbs an hour. No big jumps: each long run within 10% of your longest in the last 30 days |
+| 16 to 20 | Most spring marathoners | Build the long run within that same 10%, and take your gels on long runs now so race day isn't the first time |
+| About 28 | Jamie | Build slowly: heart and lungs catch up in weeks, tendons take a lot longer |
+
+## Round 4: myth or fact (five myths, one fact)
+| # | Claim | Call | The number |
+|---|---|---|---|
+| 1 | Take your first gel when you start to feel tired, around 90 minutes | Myth | First at 20 minutes, then 30 g every 30: about 60 g an hour |
+| 2 | Your first 10K should be your quickest, so you bank time | Myth | 5 to 10 seconds a K slower than goal pace; up to a minute behind at halfway is fine |
+| 3 | Carb loading means a big bowl of pasta the night before | Myth | 8 to 10 g per kilo a day for 36 to 48 hours; 70 kg: 560 to 700 g a day |
+| 4 | Your heart and lungs get fitter faster than your tendons get stronger | Fact | So big jumps in mileage catch you out even when you feel fit |
+| 5 | Heavier on race morning means you've overdone it | Myth | About 1 to 2 kg heavier is typical: the stored carbs and water |
+| 6 | Stick to the 10% rule and you won't get injured | Myth | In its one trial about 1 in 5 got hurt either way; what came with injuries was one run more than 10% longer than your longest in 30 days |
+
+## Forfeit ideas for the poll (pick three you'd both do)
+- The loser runs a parkrun in an outfit the listeners choose.
+- The loser eats the listeners' most-hated gel flavour, live on the podcast.
+- The loser runs a week of the winner's training, the winner choosing the sessions.
 
 ## Before you press record
-Separate rooms, wired headphones (not AirPods), and check Riverside shows the
-clip-on mic. Phone vertical at eye level, facing a window, Do Not Disturb on.
-When you're done, don't close Riverside until both uploads show 100%.
-
-On the day: say numbers out loud (people listen on runs), never guess one, no
-bar talk yet, and "we've got jobs" is fine but "ultras make you better at work"
-is out.
-
-## Only if you've two spare minutes
-No crew needed. If you feel like it, each of us props our phone up and says our
-bet once on our own, and does a run this week we can repeat in January to see
-what changed. That's all the later video would need.
+Separate rooms, wired headphones (not AirPods), Riverside shows the clip-on mic.
+Phone vertical at eye level, facing a window, Do Not Disturb on. Don't close
+Riverside until both uploads show 100%. On the day: numbers out loud, never
+guess one, no bar talk yet, "we've got jobs" fine, "ultras make you better at
+work" out. Optional, no crew: each props his phone up and says his bet once,
+and does a run this week he can repeat later.
 
 ## Sources
 - Art O'Neill 2027: https://www.artoneill.ie/ and https://www.runningcalendar.ie/event/art-oneill-challenge/
 - 2026 results: https://results.primaltracking.com/event/aon2026
 - Backyard format: https://en.wikipedia.org/wiki/Backyard_ultra
 - Milanović 2015: https://pmc.ncbi.nlm.nih.gov/articles/PMC4536283
-- Gels, pacing, carb load, shoes and long runs: FACTS.md
+- Gels, pacing, carb load, tendons, the 10% rule: FACTS.md

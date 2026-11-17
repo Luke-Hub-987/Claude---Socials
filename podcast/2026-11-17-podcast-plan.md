@@ -235,6 +235,8 @@ shot. Get most of the story before and after.
 
 
 ## 0.8 The dates (Luke, 17 Nov): this overrides the seasons in 0.7
+**Every episode from 1 (Luke, 17 Nov: two-way, fun, stakes):** a season scoreboard (myth-or-fact points, weekly side bets), a listener-picked forfeit for whoever misses his top 10, both predictions on record and replayed in the result episodes, Team Luke / Team Jamie in the comments.
+
 **P216 (Luke, 17 Nov) overrides the roles anywhere in this plan:** Luke and Jamie are equal co-hosts with a bet each, said side by side; no interviewer, doubter or coach roles. Episode plans are one-page cue cards. Long-form footage is self-shot on phones, optional, no crew.
 
 **Settled (Luke, 17 Nov, P215):** saying we have jobs is fine (the subtitle, episodes 1 and 5, Jamie's "after work" question stay). Out: "ultras make you better at your job".
