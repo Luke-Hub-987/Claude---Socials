@@ -189,6 +189,14 @@ with the date.
   (21 Feb), Rome (14 Mar), Barcelona, Athlone (11 Apr), Brighton (4 Apr)
   and Belfast (2 May).
 
+## Luke and Jamie's next races (Luke, 17 Nov, for the podcast)
+- Luke: the Art O'Neill, January ("or sometime"), goal top 10; Luke says he
+  isn't fit enough for the top 10 now, or maybe even by then.
+- Jamie: a backyard ultra championship, around May, goal the same.
+- **Not confirmed: dates, distances, format, whether finishers are ranked,
+  the name of Jamie's race. Say none of them on air or in a script until
+  Luke gives them** (brands/personal/voice.md, the ultra rule).
+
 ## Plan results after Dublin (counts only, 4 Nov)
 - **About 200 plans sent** (Luke confirmed, 4 Nov);
   about 17 results back. Most PBs or first-marathon goals; 2 missed.

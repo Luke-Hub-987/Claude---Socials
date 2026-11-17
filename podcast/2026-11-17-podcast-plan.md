@@ -154,6 +154,85 @@ You're right that time spent builds trust. Two things to add:
   with the 2027 framework, never cut into clips except a release-day trailer,
   and every one with its own email reason.**
 
+
+## 0.7 The challenge (Luke, 17 Nov): top 10, and we're not fit enough yet
+**Luke:** the Art O'Neill, January ("or sometime": date to confirm), aiming
+for the top 10, "definitely not fit enough to finish in the top 10 currently,
+or maybe even by then". **Jamie:** a backyard ultra championship around May,
+aiming for the same. Distances, dates and how each race ranks finishers are
+**not stated anywhere until Luke confirms them** (brands/personal/voice.md:
+never state a race or distance for Luke's ultras unconfirmed).
+
+**Why it's the right spine:** a stretch goal with a date and an honest "we're
+not good enough yet" is the open question that brings people back every week
+(will he make it?). It's fun to do, it's real, and it's the "day job" angle
+with real stakes. It also gives the long-form its documentary (0.4).
+
+**The weak point: these aren't our audience's races.** The audience is road
+marathoners aiming for 3:30 to 4:30 (FACTS; P126; ledger row 11, a problem
+few viewers have). Nobody listening is running a night mountain race or a
+backyard ultra. If episodes become ultra advice, we lose the people who buy.
+**The rule: your race is the story; their marathon is the lesson.** Each
+episode the challenge brings up a question, and the answer is for a
+marathoner:
+| What your race throws up | The marathoner's question it answers |
+|---|---|
+| How much fitter can you get by January with a full-time job? | Every spring marathoner's question, right now |
+| Walking the climbs on purpose | Walking on purpose beats being forced to walk at 32K (the walk reel, ULTRARUNNERS WALK ON PURPOSE) |
+| Fuelling for many hours | Grams an hour, and hour 4 (the fourth-hour reel, our best since September) |
+| A backyard ultra's hourly clock (a lap every hour, a few minutes between) | Pacing slow enough to hold, and the clock as the plan (our 10K signs) |
+| Eating in the minutes before each lap | **The bar's window, every hour.** The bar's slot is before the start (P134); a backyard ultra has a start every hour. That's Jamie's season, if the bar or samples exist by May. Claims rules apply |
+| Missing the goal | What to do when your goal's gone (a reel that already exists) |
+
+**Seasons:**
+- **Season 1 (Dec to the Art O'Neill): Luke's go.** Jamie is the doubter and
+  the coach. The race is the season finale; the episode after it is the
+  result, honestly.
+- **Season 2 (to May): Jamie's go,** Luke the doubter. The roles swap, so
+  each of you gets a season as the underdog.
+- A running bet across both: who gets closer to their top 10. The loser pays
+  a forfeit on air.
+
+**Episode 1: the bet in the first minute, a listener's question for the rest.**
+Don't make episode 1 "here's our challenge": that's us as the subject (P158,
+the surprise reel). Open on the bet ("I'm not fit enough to finish top 10, and
+I've got [weeks] to change that"), then make the episode's question theirs:
+**"How much fitter can you get in [weeks] with a full-time job?"**, with Luke's
+plan as the worked example. Any claim about how fast fitness comes needs a
+source in FACTS before recording; there isn't one yet.
+
+**Long-form:** the documentary, *Can a runner with a full-time job finish
+top 10 at [race]?*, filmed through the block and released after the race. The
+title leads with the stake, not the event name, because few people outside
+Ireland search "Art O'Neill". The 2027 framework stays the first video
+(January); the documentary is the one after.
+
+**Filming in the race:** it's a mountain race at night (Luke to confirm the
+format), so safety and the race's rules come before footage. Plan the shots
+for checkpoints and the finish, a phone in a chest pocket, a head torch in
+shot. Get most of the story before and after.
+
+**Council (P150), short:**
+- *Contrarian:* ultras pull the show away from the marathoners who'll buy
+  the bar, and a public top-10 miss on episode 8 is a flop on camera.
+- *Assumption-ripper:* that "top 10" exists in these races (are finishers
+  ranked and published?); that the dates fit the season; that Jamie wants the
+  same goal.
+- *Expansionist:* the backyard ultra's start every hour is the bar's
+  use case acted out live; the roles swapping gives two seasons for free.
+- *Outsider:* "What's a backyard ultra?" Explain it in one sentence the first
+  time.
+- *Executor:* confirm the 4 race facts; record episode 1 on the bet plus the
+  fitness question; start filming Luke's block this week for the documentary.
+- *Cross-review:* everyone accepts the bet as the spine with the rule "your
+  race is the story, their marathon is the lesson". The flop risk is accepted
+  as the point: missing it honestly and saying what you'd change is still a
+  finale, and it's more believable than a win.
+- *Chairman:* **Do it. Season 1 is Luke's Art O'Neill, season 2 Jamie's
+  backyard ultra, with roles swapped. Every episode turns the race into a
+  marathoner's lesson. Episode 1 opens on the bet and answers "how much fitter
+  can you get by then with a full-time job".**
+
 ---
 
 # v1 below (still the reference for setup, packaging, topics and rules)
@@ -498,7 +577,7 @@ on clips, replies, sign-ups and hours, not plays.
 
 ## Needed from Luke (before episode 0)
 1. **Same room or separate rooms** for recording? (This changes the mic setup.)
-2. **Does either of you have a spring marathon and goal time?** If yes,
+2. **[Answered 17 Nov: Luke, the Art O'Neill in January, top 10; Jamie, a backyard ultra championship around May, the same. Still to confirm: dates, distances, whether finishers are ranked, the name of Jamie's race.]** Does either of you have a spring marathon and goal time? If yes,
    season 1 follows it. If no, the "tried it" segment becomes long runs only,
    and the season is weaker. Say which race.
 3. **Jamie:** is he happy with the sceptic role, on camera every week, and

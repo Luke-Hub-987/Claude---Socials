@@ -6,6 +6,21 @@ the numbers), `principles.md`, and the failure ledger in `CLAUDE.md`.
 Nothing said on the podcast may contradict a reel (the consistency points
 in CLAUDE.md).
 
+## How the chats are split (17 Nov)
+**One repo, one memory; separate chats by job.** The podcast and the long-form
+YouTube videos share one chat (the long-form chat): same channel, same
+challenge story, same calendar. It works in `podcast/` (and `youtube/` once
+the first video is planned), reads FACTS, principles and the ledger, and adds
+facts to FACTS like any chat. The reels chat (scripts, GATE.md) and the ideas
+chat (P191) stay as they are. **GATE.md is for reels:** on the podcast and
+long-form, only the facts, grams an hour, the bar's slot and the claims rules
+apply, not the hook word counts.
+
+## The challenge (17 Nov)
+Season 1: Luke's Art O'Neill (January, top 10). Season 2: Jamie's backyard
+ultra championship (May, top 10). Your race is the story; their marathon is
+the lesson. Plan section 0.7; race facts unconfirmed (FACTS).
+
 ## The plan (17 Nov): read this first
 **v2 (Luke, 17 Nov, P212): section 0 of the plan overrides the rest.** A show we
 enjoy: 25 to 30 minutes, fixed opening, loose chat about the week, the question
