@@ -6228,6 +6228,32 @@ it's done, with the link or path. Only hand Luke the steps for what needs him
 *Source: Luke, 17 Nov, podcast chat. If "service based" meant something else,
 Luke corrects it here.*
 
+## P214 — Look it up yourself, then ask only what only Luke knows (Luke, 17 Nov)
+
+Luke, after I asked him for the race distances, dates and last year's top-10
+time: "you look up the events yourself, stop being lazy here." **The rule:**
+public facts (race dates, distances, courses, formats, past results, study
+numbers) are searched and read from the source, then go into FACTS with the
+link, before anything goes to Luke. Luke is asked only for what nobody else
+has: his goals, his entries, his history, his numbers, his OK. If a search
+fails, try the organiser's or the timer's page directly before asking, and say
+what was tried. The ultra rule in voice.md still covers Luke's own race
+history.
+
+*Source: Luke, 17 Nov, podcast chat.*
+
+## P215 — Jobs: say we have them; never "running makes you better at work" (Luke, 17 Nov)
+
+Luke: "we can say we have jobs and stuff but not being like, oh by doing the
+ultras and hard things you get better at the job... that was the content stuff
+but didn't perform well." **The rule:** "we've both got jobs", fitting runs
+around work, and "advice that fits a normal week" are fine on the podcast, the
+long-form and the reels. Out: the career angle (ultras or hard things make you
+better at your job, discipline that transfers to work, productivity). The
+voice.md hard rule now means that angle only.
+
+*Source: Luke, 17 Nov, podcast chat.*
+
 ## Open questions for Luke
 
 - Is "Brian" in the notes (P5, and the "Brian at the desk ranting" /

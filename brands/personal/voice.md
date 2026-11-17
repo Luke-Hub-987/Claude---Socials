@@ -78,7 +78,7 @@ topic:
 - Marathons and ultra marathons. **CORRECTION, 2026-11-04, Luke
   directly: "I did not run 60 kilometres in Connemara."** The Connemara
   60k line was wrong too. **Never state a race, distance or count for
-  Luke's ultras until he gives the list in chat.** Seven Sisters 55k is
+  Luke's ultras until he gives the list in chat.** **[P214, 17 Nov: this is about Luke's own race history. Once Luke names an event he's entering, its public facts (date, distance, course, past results) are looked up and stated with a source, without asking him.]** Seven Sisters 55k is
   also unconfirmed until he says so.
 - **CORRECTION, 2026-09-02, flagged by Luke directly: Connemara 100k
   was wrong and had been in this file since it was drafted. He has not
@@ -94,6 +94,7 @@ Job title deliberately left out here — see Hard rules below.
 
 ## Hard rules
 
+- **[Clarified by Luke, 17 Nov, P215] Saying we have jobs is fine** ("we've both got jobs", fitting runs around work). **What's out:** the career angle, i.e. "ultras and doing hard things make you better at your job". That was the old content, and it didn't perform. The rule below now means that angle only.
 - **No career/workplace framing anywhere, texture included.** Luke
   reviewed an earlier version that kept "busy full-time job" alive as
   quiet counter-positioning texture and pushed back on that too — the

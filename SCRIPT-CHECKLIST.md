@@ -542,3 +542,5 @@ twice without being checked against the winners (P99).
 - [ ] **Real logo (P211 amended):** every ERN mark is the logo file (corner and on clothing), never typed text.
 - [ ] **Podcast and long-form (P212):** the question in the first minute, chat after it under chapters and about running; quick-fire clip section (45 s, to the lens, one number); long-form monthly, uncut except a trailer, its own email reason.
 - [ ] **Do it, don't tell (P213):** anything doable from here is done in the same turn (chats, files, pushes, briefs); Luke only gets the steps that need him.
+- [ ] **Look it up (P214):** event dates, distances, results and study numbers are searched and sourced in FACTS first; Luke is asked only for his goals, entries, history and OK.
+- [ ] **Jobs (P215):** "we've got jobs" is fine; never "ultras or hard things make you better at work".

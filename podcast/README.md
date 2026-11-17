@@ -6,6 +6,9 @@ the numbers), `principles.md`, and the failure ledger in `CLAUDE.md`.
 Nothing said on the podcast may contradict a reel (the consistency points
 in CLAUDE.md).
 
+## Next: Friday 20 Nov, record episode 1 (the bet)
+`podcast/2026-11-20-episode-1-run-of-show.md`. Launch Wed 2 Dec with 1 to 3 if Friday goes well.
+
 ## How the chats are split (Luke, 17 Nov)
 **One repo, one memory; a chat per job.** This chat ("Podcast - Riverside")
 does the podcast and works in `podcast/`. A separate **YouTube long-form**

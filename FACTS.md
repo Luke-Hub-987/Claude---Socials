@@ -189,17 +189,49 @@ with the date.
   (21 Feb), Rome (14 Mar), Barcelona, Athlone (11 Apr), Brighton (4 Apr)
   and Belfast (2 May).
 
-## Luke and Jamie's next races (Luke, 17 Nov, for the podcast)
-- **Luke: the Art O'Neill, Friday 15 January 2027.** Goal: top 10.
-  Finishers are ranked (Luke). Luke says he isn't fit enough for the top 10
-  now, or maybe even by then.
-- **Luke: the Norn Iron 100, May 2027.** Goal not given yet.
-- **Jamie: Western Yards Backyard, around May 2027** (a backyard ultra
-  championship). Goal: the same as Luke's (top 10), to confirm with Jamie.
-- **Not confirmed:** distances, courses and formats, the exact May dates,
-  last year's 10th-place time at the Art O'Neill. Say none of them on air
-  or in a script until Luke gives them (brands/personal/voice.md, the ultra
-  rule). The "100" in Norn Iron 100 is its name: never say miles or km.
+## Luke and Jamie's next races (Luke, 17 Nov; event facts looked up 17 Nov, P214)
+**Luke's goals (Luke):** top 10 at the Art O'Neill and top 10 at the Norn Iron
+100. **Jamie's (Luke):** top 10 at Western Yards Backyard. Luke says he isn't fit
+enough for the top 10 at the Art O'Neill now, or maybe even by then.
+
+**Art O'Neill Challenge 2027: Friday 15 January 2027** (official site
+https://www.artoneill.ie/ and runningcalendar.ie). Dublin Castle to Glenmalure,
+**62km on road and open mountain** (official site; some reports say about 60km),
+through the night: the 2026 start was 23:00 on Friday 16 Jan (official results).
+Capped at 200, places by ballot. Checkpoints in 2026: Kippure Estate (25km),
+CP1 (31km), CP2 (43km), Art's Cross (47km), then Glenmalure.
+- **2026 results** (results.primaltracking.com/event/aon2026, read 17 Nov; times
+  only, no names in this repo): 166 finishers across all classes. Winner 6:13:14.
+  **10th overall: 8:29:15** (three runners tied on it), which is also 10th in the
+  Ultra Competitive - Male class (45 finishers). **10th in the Ultra - Male
+  class: 10:35:37** (56 finishers; class winner 8:55:54, 23rd overall). Luke's
+  screenshot was the Ultra - Male class. **Which top 10 Luke means (overall or
+  his class) decides the target: about 8:30 or about 10:35. Luke to say.**
+
+**Norn Iron 100: 29 to 30 May 2027** (runningcalendar.ie, gotrail.run,
+worldsmarathons.com; organiser We Run Wild NI, werunwildni.com). Listings say
+106 miles point to point (one says 170.55km, another 173.8km), from Ballintoy on
+the North Antrim coast to Gortin, Co. Tyrone, along the Ulster Way (Causeway
+Coast, Portrush, the Sperrins, the Glenshane Pass). Self-navigation from a GPX
+file: no route signs or marshals. Entrants should be self-sufficient for 26
+miles; previous ultra experience over 50 miles is asked for. **Say "about 106
+miles" until the organiser's page confirms it.**
+
+**Western Yards Backyard Ultra:** Kilcornan (county to confirm). **One listing
+gives Sat 5 June 2027, not May, and no source found calls it a championship.**
+Luke or Jamie to confirm the date and whether it's the event they mean. Format
+(every backyard ultra): a 4.167-mile (6.706km) loop started every hour, on the
+hour, until one runner is left (Wikipedia, "Backyard ultra"); results are ranked
+by laps.
+
+**How much 8 weeks can change (for podcast episode 1):** a meta-analysis of
+controlled trials (Milanović, Sporiš and Weston, *Sports Med* 2015; 723 healthy
+adults, average starting VO2max about 40.8) found endurance training lifted
+VO2max by about 4.9 mL/kg/min against no training, with **bigger gains in the
+less fit and with longer programmes** (PMC4536283). Audio: "the fitter you
+already are, the less a few weeks adds". Never a percentage for Luke himself.
+With the tendon line in "The 10% rule": heart and lungs catch up in weeks,
+tendons take longer, so 8 weeks can't be crammed.
 
 ## Plan results after Dublin (counts only, 4 Nov)
 - **About 200 plans sent** (Luke confirmed, 4 Nov);

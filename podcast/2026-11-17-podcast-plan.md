@@ -235,7 +235,11 @@ shot. Get most of the story before and after.
 
 
 ## 0.8 The dates (Luke, 17 Nov): this overrides the seasons in 0.7
-**Open, Luke to decide:** brands/personal/voice.md has a hard rule against any job or career framing about Luke, "not even lightly", but on 17 Nov Luke himself put "we've both full-time jobs" forward as why listeners will relate. Every "full-time job" and "day job" line in this plan (the subtitle, episodes 1 and 5, Jamie's "7pm on a Tuesday after work") is on hold until he says whether the podcast is the exception. The documentary's working title already avoids it.
+**Settled (Luke, 17 Nov, P215):** saying we have jobs is fine (the subtitle, episodes 1 and 5, Jamie's "after work" question stay). Out: "ultras make you better at your job".
+
+**Race facts are in FACTS (looked up, P214):** Art O'Neill 62km, Fri 15 Jan, night start; 10th overall in 2026 was 8:29:15, 10th in the Ultra - Male class 10:35:37 (Luke to say which). Norn Iron 100 29 to 30 May, about 106 miles. Western Yards: one listing says Sat 5 June, not May; to confirm.
+
+**Friday 20 Nov: record episode 1 for real** (`podcast/2026-11-20-episode-1-run-of-show.md`). The "before" can't be filmed later, so it isn't an episode 0. If it goes well, record 2 and 3 on Sun 29 Nov and **launch Wed 2 Dec** (a week earlier than planned: one more week of the build-up before the race).
 
 **Art O'Neill: Fri 15 Jan 2027, ranked.** Luke also runs the **Norn Iron 100
 in May**, and Jamie runs **Western Yards Backyard around May**. That's 59
