@@ -19,6 +19,8 @@ why: Luke, 13 Nov: "you keep reverting to the mean... playing it safe, plain, bo
 | 9 | **A reason to stay to the end** | An escalation or sting in brackets, or a count | Nerves of steel: the tag was the 24x |
 | 10 | **The top line carries the pulse** | No question, filter or "why" up top; the verdict first | Ogilvy: the first words are the most read (v2 wasted them on "4-HOUR MARATHONER?") |
 
+**P220 (Luke, 18 Nov): "too rigid".** Test 4 passes on ANY route in `TITLE-EXAMPLES.md` (a belief broken, HOW TO + number + constraint, identity, a named method, a journey with numbers, the problem with, scare quotes, a tier list), not only a fight. **New must-pass above all others: the viewer already knows it's their problem** (the 22g gel title failed it: nobody knows their gel's grams). The must-passes below still apply to fear titles.
+
 **Must-pass, whatever the total (16 Nov, after the arc scored 9 and the pre-mortem killed it):**
 - **Test 4 passes as "a belief they hold, broken"**: every winner did it.
 - **The enemy is outside the viewer** (the advice, the myth, the body, the

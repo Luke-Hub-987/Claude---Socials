@@ -50,3 +50,30 @@ adding more: when Luke sends a new example, save it to research/title-examples/N
 1. **The 3-image strip** above our white card, our own pictures, against the title alone. Same video.
 2. **Title case in a box** against our capitals.
 3. **The comment-word CTA** ("Comment GELS and I'll send you your clock") against the email line: comments and leads per 1,000 views.
+
+## Briar's grid (TikTok, 18 Nov screenshots 13 to 17): the creator whose stack we copy
+| Views | Title | The move |
+|---|---|---|
+| 562.8K | How To Have Top 1% On-Screen Hooks (I Coded My Mind Into An App) | HOW TO + Top 1% + a bracket that's a wild proof |
+| 502.4K | I think I just got rich / Here's a lesson from the last 60 days ($3K to $40K) | A confession + a time window + before-and-after numbers |
+| 435.2K | Understanding "view distribution" when posting 2-3x/day | A named idea in quotes + the exact situation |
+| 429.3K / 409.7K / 138.9K | How to build a personal brand / (new) / (2026) | The plain search phrase, refreshed with a tag |
+| 387K | The 5 Stages Of Success ($3K to $60K in 24 months) | A count of stages + the journey in numbers |
+| 366.7K | Hook stacking | A named method, 2 words |
+| 350.1K | 5 Content "Quick Tips" Rooted In Mass Psychology | A count + scare quotes + the authority |
+| 263.8K | The MOST IMPORTANT Mindset Shift To Go From $3K/mo to $40K/mo | The one thing + from X to Y |
+| 226.8K | 3 underrated traits of a top 1% creator | A count + underrated + top 1% |
+| 224K | The Problem With "Building in Public" (+ Solution) | The problem with [what everyone does] |
+| 205.1K | How to post 3x/day (without losing quality) | HOW TO + a number + the cost removed in brackets |
+| 204.3K | How to Read Books Like a 7-Figure Entrepreneur | HOW TO + like [the identity they want] |
+| 187.4K | Brutally Realistic Creator Journey to 1.7M Views | Brutally realistic + a journey + a number |
+| 172K | How to make the Perfect Video (10-min masterclass) | Perfect + a format tag |
+| 123.2K | The DNA of a Top 1% Content Creator | The DNA of + identity |
+| 101.1K | How to Dethrone Alex Hormozi | Beat the giant |
+| 80.4K | Ranking Content Formats | A tier list |
+| 73.6K | How to make content with ZERO credibility | HOW TO + the obstacle they think stops them, in capitals |
+| 68.4K | When to quit, pivot, or work 80+ hrs/wk ($3k to $40k) | A decision with three choices + numbers |
+| 59.1K | The Accordion Method | A named method |
+| 56.6K / 50.5K | How to "Copy" Content To Get Your First 10K Video / How to "Steal" Credibility As a Creator | A bad word in quotes |
+
+**What Briar shows that our scorecard missed (Luke, 18 Nov, P220):** most of his biggest titles break no belief and threaten nothing. They promise the outcome the viewer already wants, in the niche's own keywords (personal brand, hooks, content, creator), with a number, an identity (top 1%, 7-figure), a named method or a format tag. Every title names a problem or goal the viewer already knows they have.

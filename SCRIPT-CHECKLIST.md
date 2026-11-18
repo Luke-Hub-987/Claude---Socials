@@ -550,3 +550,4 @@ twice without being checked against the winners (P99).
 - [ ] **Title first, in code (P219):** the title-producer skill ran (levers, 20 titles, 8+ devices); `python3 gate/ost_check.py --file <titles>` PASS; the ost-reviewer ran cold; the hook says the title's keywords in its first 20 words.
 - [ ] **Caption under the cut (G21 from 18 Nov):** 2,200 characters or fewer, the plan first (Instagram cuts the rest; the oranges caption lost its plan, 17 Nov).
 - [ ] **Names, amended (P217, 18 Nov):** concrete and in the audience's own words (what they say mid-race), memorable, through the full council; close calls go to a story poll.
+- [ ] **Titles, wide open (P220):** any route from TITLE-EXAMPLES.md (HOW TO + number + constraint, identity, named method, journey, the problem with, scare quotes, tier list, format tag), not only a belief broken; the viewer already knows it's their problem; it promises something we can send (comment word -> email).

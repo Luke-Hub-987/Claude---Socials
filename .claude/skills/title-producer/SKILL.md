@@ -28,7 +28,8 @@ Write the five levers for the topic (`ideas/engine-room-nutrition/2026-11-16-pre
 Then the facts: every claim the title makes is in FACTS.md, or it's flagged before
 any title is written. Anything about Luke needs his own words (`luke_said:`).
 
-### 2. Twenty titles, at least eight devices
+### 2. Twenty titles, at least eight devices (P220: wide open)
+At least half from routes that aren't fear: HOW TO + number + constraint, identity, a named method, a journey, the problem with, scare quotes, a tier list, a format tag (Briar's grid in TITLE-EXAMPLES.md). Every title names a problem they already know they have, and promises something we can send (comment word -> email).
 Write 20. The most aggressive **true** version first. Spread them across the
 devices below, at least eight, and never three in a row from one device.
 

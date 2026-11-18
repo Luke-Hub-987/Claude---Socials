@@ -6356,3 +6356,33 @@ Windsor data.
 - **Graphics are one command:** `node motion/title-cards/make_title.js`.
 - **A weekly results loop** reads Windsor every Monday and proposes rule
   changes for Luke to approve; it never changes the rules itself.
+
+## P220 — Titles: throw off the training wheels (Luke, 18 Nov)
+
+Luke, 18 Nov, after the cold review rejected every title for the week: "you
+are being too rigid in your selection of OSTs... none of the OSTs you have are
+reminiscent of [Briar's, Brandon's, Cian's]... our goal is to get people on the
+email list... be creative... incredibly specific, key words, strong language,
+opinionated... the 22g gels: people who use those gels don't even know how many
+carbs are in them, so it's a video for no one."
+
+**The rule:**
+- **"A belief broken" is one route, not a must-pass.** Equal routes, all from
+  the library (`TITLE-EXAMPLES.md`): HOW TO + the outcome + a number + a
+  constraint bracket (Even while working a 9-5); identity (top 1%, like an
+  elite, the DNA of, harder to break, a lethal gas tank); a named method; a
+  journey with real numbers (4:30 to sub-4 in 16 weeks); the problem with
+  [what everyone does]; scare quotes ("cheat", "steal"); a count + underrated;
+  beat the giant; a tier list; a format tag (masterclass, 2026, new).
+- **The new must-pass: they already know it's their problem.** The title uses
+  what the viewer knows and says today (sub-4, 4:30, the 4-hour pacer, 30K,
+  carb loading, a 9-5), never a fact they'd have to learn first (the grams in
+  their gel). A title about something they don't know they have is for no one.
+- **Every title is built for the email list:** it promises something we can
+  send them (their plan, pace bands, carb load by weight, their clock), and the
+  CTA can be a comment word ("Comment SUB4").
+- **Specific and strong:** the niche keyword (MARATHON) on screen, a number, a
+  strong word or opinion. Nothing that could sit on any account.
+- **The checker still counts** (lines, phone size, "of what / in what", hedges,
+  repeats); the reviewer judges against the library, not against our fear
+  template.

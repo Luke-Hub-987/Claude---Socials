@@ -25,7 +25,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 EVENTS = r"MARATHONS?|MARATHONERS?|HALF[- ]MARATHONS?|PARKRUNS?|(?<![\d.])5K\b|(?<![\d.])10K\b|ULTRAS?|ULTRARUNNERS?|SUNDAY LEAGUE|FOOTBALL|SOCCER|\bMATCH(ES)?\b|\bGAA\b|HURLING|RUGBY|PREMIER LEAGUE|LONG RUNS?|RACE DAY|RACE WEEK|SEVILLE|VALENCIA|LONDON|DUBLIN|BERLIN|MANCHESTER"
 PULSE = r"\bDIES?\b|\bDEAD\b|\bQUITS?\b|\bKILLS?\b|\bBRUTAL\b|\bSTOP\b|\bWON'T\b|\bNEVER\b|\bSECRETLY\b|\bACTUALLY\b|\bLI(E|ES|ING)\b|\bTRAP\b|\bSTARVES?\b|\bEMPTY\b|\bRUINS?\b|\bWRONG\b|\bLAZY\b|\bSLOWER\b|\bPANIC\b|\bCRASH(ES)?\b|\bWALL\b|\bBREAKS?\b|\bCOSTS?\b|\bSTEAL\b|\bAGGRESSIVE\b|\bRARE\b|\bFAIL(S|ED)?\b|\bSHOT\b|\bGONE\b|\bWASTED?\b|\bLETHAL\b|\bNOBODY\b|\bSLOWS?\b|\bLATE\b|\bSHORT\b"
-HEDGES = r"\bSOME\b|\bMOST\b|\bMAY\b|\bMIGHT\b|\bCAN\b|\bCOULD\b|\bOFTEN\b|\bSOMETIMES\b|\bPROBABLY\b|\bMAYBE\b|\bPERHAPS\b"
+HEDGES = r"\bSOME\b|\bMOST\b(?!\s+(IMPORTANT|OVERLOOKED|UNDERRATED|COMMON|BRUTAL|DANGEROUS))|\bMAY\b|\bMIGHT\b|\bCAN\b|\bCOULD\b|\bOFTEN\b|\bSOMETIMES\b|\bPROBABLY\b|\bMAYBE\b|\bPERHAPS\b"
 VAGUE_GROUPS = r"\bPROS'?\b|\bEXPERTS\b|\bTHEY\b|\bPEOPLE\b|\bSCIENCE\b|\bSTUDIES\b|\bRESEARCH\b"
 VIEWER = r"\bYOU\b|\bYOUR\b|\bYOU'LL\b|\bYOU'RE\b|\b\d+(:\d\d)?-HOUR\b|\bSUB-\d|MARATHONERS?|\bRUNNERS?\b|SUNDAY LEAGUE|\bPLAYERS?\b|FIRST-TIMERS?"
 # a number is fine when it carries its unit or counts a plural noun ("3 HABITS", "5 STAGES")
@@ -130,6 +130,10 @@ def check(title, red=None, stranger=None, luke_said=None, hook=None, render=True
             continue
         if re.match(r"\s+(A|AN|PER|EVERY)\s+(HOUR|DAY|WEEK|GAME|MATCH|RACE)\b", after):
             continue  # 2 AN HOUR
+        if re.match(r"-\d", after) or re.search(r"\d-$", body[:m.start()]):
+            continue  # 9-5, 3-4
+        if re.match(r"\s+(JAN|FEB|MAR|APR|MAY|JUN|JUL|AUG|SEP|OCT|NOV|DEC)[A-Z]*\b", after):
+            continue  # 6 DECEMBER
         if prev in ("HOUR", "STAGE", "PART", "WEEK", "DAY", "SUB-", "MILE", "KM", "K") or re.search(r"SUB-$|-$", prev):
             continue
         if nxt and nxt.group(1).endswith("S") and not nxt.group(1).startswith("MIN") and m.start() < len(body) and not re.match(r"(AT|IN|BY)$", prev):

@@ -30,9 +30,14 @@ test, and you say what would pass.
 2. **The stranger's questions.** Every "of what? in what? who? which?" the
    title raises. Each must be answered on screen. Any unanswered one is 0 on
    test 3, whatever the author wrote.
-3. **The must-passes:** a belief they hold confidently, broken; the enemy
-   outside the viewer (never their character or rank); they can't answer the
-   title about themselves in one second.
+3. **The must-passes (P220, Luke 18 Nov: don't be rigid):** first, **they
+   already know it's their problem** (it uses what they know and say today,
+   never a fact they'd have to learn first). Then any one route from
+   TITLE-EXAMPLES.md counts as the hook: a belief broken, HOW TO + a number +
+   a constraint, identity (top 1%, like an elite), a named method, a journey
+   with numbers, the problem with, scare quotes, a tier list. Fear titles
+   still need the enemy outside the viewer. Judge against Briar's and the
+   other creators' titles: would this sit in their grid?
 4. **The 10 tests,** 1 or 0 each, one line of evidence each.
 5. **The five levers:** which are present.
 6. **The hook (if given):** does line one say the title's keywords back
