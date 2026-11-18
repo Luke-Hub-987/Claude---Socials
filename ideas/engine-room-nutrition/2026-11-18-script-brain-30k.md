@@ -2,7 +2,7 @@
 type: script (gated)
 gate: v1
 brief_ok: Luke 18 Nov ("the script for the 30K reel today"), brief ideas/engine-room-nutrition/2026-11-18-brief-brain-30k.md (stages from 30K, P218)
-ost_final_by_luke: 18 Nov (YOUR BRAIN QUITS AT / 30K OF A MARATHON / (IT'S NOT WEAKNESS), QUITS in red, 3 lines)
+ost_final_by_luke: 18 Nov (Luke: "update the 30K OST" with P220 and P221; the ost-reviewer's first pick from 14: NEVER DECIDE TO WALK / AT 30K OF A MARATHON / (WAIT 10 MINUTES), NEVER in red, 3 lines; replaces YOUR BRAIN QUITS AT / 30K OF A MARATHON / (IT'S NOT WEAKNESS))
 stats_ok_by_luke: 18 Nov (the cyclists' blood sugar is the turn)
 generated_at: 2026-11-18
 fixed_after_review: G21 (by-goal card on screen in stage 2, motion/brain-30k/brain-30k-card-goals-16x9.png, and the same table in the caption with 3:45; "for a 4-hour marathon, that's the 2:50 gel"), G22 (the last gel said for a 4-hour marathon only), G29 (new line-one shape; the "isn't ..., it's" line gone; "every turn of the pedals")
@@ -11,24 +11,24 @@ basis: the brief (the levers, the stages from 30K); the oranges trial review (th
 format: Instagram trial reel from ERN (non-followers), filmed and posted Wed 18 Nov. Not the profile: the fourth hour (15 Nov) has the same title shape (row 31). Profile Mon 23 Nov at the earliest if it clears 4K views and under 40% skip at 24h
 ---
 
-# YOUR BRAIN QUITS AT / 30K OF A MARATHON / (IT'S NOT WEAKNESS)
+# NEVER DECIDE TO WALK / AT 30K OF A MARATHON / (WAIT 10 MINUTES)
 
 ## Gate fields
-- OST: YOUR BRAIN QUITS AT / 30K OF A MARATHON / (IT'S NOT WEAKNESS)
-- OST score: 10/10 (OST-SCORECARD.md, the ideas chat's score; both must-passes: a belief broken, the enemy outside the viewer)
+- OST: NEVER DECIDE TO WALK / AT 30K OF A MARATHON / (WAIT 10 MINUTES)
+- OST score: 9/10 (the ost-reviewer's first pick, 18 Nov, `2026-11-18-titles-brain-30k-v2-review.md`: a rule only we give, names no cause, so it dodges the 28 Sep and 4 Oct payoffs; the gap is why 10 minutes and what you do in them)
 - Markers: THE 30K VOICE / THE GEL THAT'S DUE / THE 10-MINUTE RULE / THE LAST 10K
 - Gap phrase: telling you to walk at 30K
 - Repeat line: The gel you least want at 30K is the one your head needs most.
 - Gap held by: "As less of it reached their brains, every turn of the pedals felt harder."
 - Gap closed by: THE LAST 10K
 - Turn: "Cyclists who rode about that long without carbs, 3 hours, saw their blood sugar fall by almost half."
-- Frame one: Luke alone, eyes on the lens, the white 16:9 title card full width in the top band, QUITS in red (the fourth-hour template); nothing else until stage 1
+- Frame one: Luke alone, eyes on the lens, the white 16:9 title card full width in the top band, NEVER in red (the fourth-hour template); nothing else until stage 1
 - Frame one words: title only
-- Mockup: ideas/engine-room-nutrition/mockups/2026-11-18-brain-30k-frame-one.png
+- Mockup: ideas/engine-room-nutrition/mockups/2026-11-18-brain-30k-v2-frame-one.png
 - Overlay: motion/brain-30k/brain-30k-title-overlay-9x16.png (card motion/brain-30k/brain-30k-title-16x9.png; cover motion/brain-30k/brain-30k-cover-16x9.png, text only)
 - Stage 2 card from 0:30 or so: `motion/brain-30k/brain-30k-card-goals-16x9.png` (30K time, the gel due, the last gel, for 3:30, 3:45, 4:00, 4:30)
 - Keep these when ad-libbing line one (Luke said the oranges opening his own way): the viewer ("your head"), 30K, "not weakness", and the turn (cyclists, 3 hours, blood sugar almost halved). Everything else in the hook can be his words
-- Layer title: your brain quits at 30K, and it isn't weakness (then what is it? what do I do?)
+- Layer title: never decide to walk at 30K of a marathon; wait 10 minutes (why 10? what do I do in them?)
 - Layer picture: none (Luke and the title)
 - Layer line one: new to the title (row 29): the voice that says walk, and the cyclists' blood sugar
 - Worked example goal: 4:00 (30K at about 2:51; every common goal's 30K time in the caption)
@@ -140,7 +140,8 @@ Want your own race clock? Email us your race and goal time through the link in t
 - Repeat line: "The gel you least want at 30K is the one your head needs most." (G33)
 - Identity follow last.
 
-## Known risks (pre-mortem, P196: judgement calls, ungraded)
+## Known risks
+- **The payoff partly repeats 28 Sep (out of the wall: get sugar in, then the next 10 minutes) and 4 Oct (the urge to quit arrives as fuel runs low).** The title leads on what's new, the 10-minute rule, and names no cause (the ost-reviewer, 18 Nov). Graphics: `motion/brain-30k/brain-30k-v2-*` (white card, NEVER red, 9:16 overlay, text-only cover). (pre-mortem, P196: judgement calls, ungraded)
 - **G8, the out-of-the-wall reel (28 Sep):** it said "sugar in, slow 15 to 20 s a K for 10 minutes". This one frames the voice as the signal to fuel, with no pace cut (hold your pace), and 10 minutes as a decision rule. Most viewers came after 15 Nov.
 - **Cyclists, not runners; 6 men; the abstract only:** said aloud as cyclists, a small study in the caption. The full text wasn't read.
 - **"Mental toughness matters" comments:** the fight we want; the audio says "not weakness", not "it's never your head".
