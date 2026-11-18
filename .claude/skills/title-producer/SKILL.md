@@ -52,6 +52,13 @@ devices below, at least eight, and never three in a row from one device.
 Specific beats clever: the event, the number with its unit, the group named
 exactly (PREMIER LEAGUE, not PROS), a picture they've lived.
 
+### 2b. Push every title further before checking (P221: never revert to safe)
+- **Bold first, Luke trims:** at least 5 of the 20 should feel like too much (the strongest true word, the flip, the paradox, the identity taken away). Luke pulls back more easily than he pushes forward, and he's had to push every time.
+- **The 24x edit on every title** (TITLE-EXAMPLES.md, dull → bold pairs): a count? a stronger verb? a bracket that escalates, adds a constraint or a number? the feeling word, not the report word (brutal, not effective)?
+- **Original, not copied:** take the creator's move, write our own line in runners' words.
+- **The swap test:** if any running account could post it unchanged, rewrite it.
+- **The pub test:** would a runner say it to a mate after one read?
+
 ### 3. The code check
 Write the 20 into `ideas/engine-room-nutrition/YYYY-MM-DD-titles-<topic>.md`,
 one block each:

@@ -6386,3 +6386,29 @@ carbs are in them, so it's a video for no one."
 - **The checker still counts** (lines, phone size, "of what / in what", hedges,
   repeats); the reviewer judges against the library, not against our fear
   template.
+
+## P221 — Never revert to safe titles (Luke, 18 Nov: "how do I ensure you don't revert back to boring dull headlines?")
+
+Luke, 18 Nov: "doesn't just have to be Briar's... don't be so rigid to copy
+directly, be creative, not dull, memorable and specific, and don't fall back
+into playing it safe with headlines."
+
+**Why it happens:** left alone, I drift to clear, safe and forgettable,
+because those never look wrong. Rules on paper don't stop it; checks that run
+every time do.
+
+**The rule (built into the tools, not left to memory):**
+1. **Code floor:** `gate/ost_check.py` T13 fails a title with nothing a
+   stranger would remember, or a safe fallback shape (how to pace, what to do,
+   tips, guide, the X trap). It warns, never blocks, on a flip or contradiction
+   carried by its shape, so it can't become a new template.
+2. **Bold first, Luke trims:** the title-producer writes at least 5 of 20 that
+   feel like too much, and puts every title through the 24x edit (a count, a
+   stronger verb, an escalating bracket, the feeling word) before checking.
+3. **Original, not copied:** the creator's move, our own words.
+4. **The reviewer's first questions:** would it sit in the top row of the best
+   creators' grids? Could any running account post it unchanged? Would a
+   runner remember it an hour later?
+5. **Every "dull" from Luke becomes a dull → bold pair** in
+   `TITLE-EXAMPLES.md` in the same turn, and the weekly loop checks which title
+   moves win on our own numbers.

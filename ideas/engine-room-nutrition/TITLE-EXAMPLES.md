@@ -77,3 +77,22 @@ adding more: when Luke sends a new example, save it to research/title-examples/N
 | 56.6K / 50.5K | How to "Copy" Content To Get Your First 10K Video / How to "Steal" Credibility As a Creator | A bad word in quotes |
 
 **What Briar shows that our scorecard missed (Luke, 18 Nov, P220):** most of his biggest titles break no belief and threaten nothing. They promise the outcome the viewer already wants, in the niche's own keywords (personal brand, hooks, content, creator), with a number, an identity (top 1%, 7-figure), a named method or a format tag. Every title names a problem or goal the viewer already knows they have.
+
+## Added 18 Nov (Luke: "doesn't just have to be Briar's... don't copy directly, be creative")
+| # | Creator | Title | Numbers | The move |
+|---|---|---|---|---|
+| 19 | thecianlinehan | 3 Habits To Build A Commanding Presence (progressively more effective) | 5,642 likes, 2,227 saves | The nerves-of-steel template again, with a softer tag: it did a fifth as well. The tag's word matters: "brutal" beat "effective" |
+| 20 | thecianlinehan | How To Develop Nerves Of Steel | 1,227 likes, 546 saves | **The dull version of #6, the same video: the contrast pair to remember** |
+| 21 | ryan santos | 3 ways to develop **photographic** memory (the key word in yellow) | 10.9K likes, 6,984 saves | A count + a superpower word, the one word coloured |
+| 22 | diewithoutregretss | The High Achiever Paradox | 94.6K likes, 28.2K sends, 49.4K saves | Identity + PARADOX: a named contradiction they want explained ("one foot in peace, the other in greatness") |
+| 23 | davidepstein | Why Task-Switching Is Destroying Your Productivity | 4,543 likes, 3,959 sends, 5,690 saves | A habit they have + DESTROYING + their goal; a named researcher in the first line |
+| 18 | ERN (us), TikTok | 4-HOUR MARATHONS DIE / IN HOUR 4 / (EVEN THE FIT ONES) | 5,171 views on TikTok in a day (18.4K on IG) | Ours: the death word + their number + the "not your fault" bracket |
+
+## Dull → bold: the pairs to learn from (the producer rewrites every title through these before checking)
+| Dull | Bold | What changed |
+|---|---|---|
+| How To Develop Nerves Of Steel (1,227) | 3 Habits To Create Nerves Of Steel (progressively more brutal) (29.7K) | A count, a stronger verb, an escalating bracket |
+| 3 Habits To Build A Commanding Presence (progressively more effective) (5,642) | (same template, 29.7K) | "Effective" is a report word; "brutal" is a feeling |
+| THE 10% MILEAGE RULE / FAILED ITS ONLY TRIAL (41% skip, 0.4% saves) | 4-HOUR MARATHONS DIE / IN HOUR 4 / (EVEN THE FIT ONES) (26.8% skip, 278 saves) | About a study → about them; a report word → a death word; their number |
+| HOW TO PACE A MARATHON | HOW TO RUN A SUB-4 MARATHON (SECRETLY) (18.5% skip) | The goal number + a one-word twist |
+| YOUR 22G GELS WILL STARVE YOUR MARATHON | (dead: nobody knows their gel's grams) | Bold about a problem they don't know they have is still for no one |

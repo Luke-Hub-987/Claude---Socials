@@ -43,6 +43,7 @@ test, and you say what would pass.
 6. **The hook (if given):** does line one say the title's keywords back
    within the first 20 words, open one question the title promised, and reach
    something usable by about 0:15? Does it give away the payoff?
+6b. **The grid test, the swap test, the memory test:** would it sit in the top row of Briar's, Cian's or diewithoutregretss' grid? Could any running account post it unchanged (then 0 on test 7)? Would a runner remember it an hour later? A safe, clear, forgettable title is a flop, not a pass.
 7. **One line on why it would flop** (the strongest reason, not a list).
 
 ## Write `<candidates file without .md>-review.md`

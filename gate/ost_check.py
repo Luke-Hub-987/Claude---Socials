@@ -24,12 +24,14 @@ import argparse, glob, os, re, subprocess, sys, tempfile
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 EVENTS = r"MARATHONS?|MARATHONERS?|HALF[- ]MARATHONS?|PARKRUNS?|(?<![\d.])5K\b|(?<![\d.])10K\b|ULTRAS?|ULTRARUNNERS?|SUNDAY LEAGUE|FOOTBALL|SOCCER|\bMATCH(ES)?\b|\bGAA\b|HURLING|RUGBY|PREMIER LEAGUE|LONG RUNS?|RACE DAY|RACE WEEK|SEVILLE|VALENCIA|LONDON|DUBLIN|BERLIN|MANCHESTER"
-PULSE = r"\bDIES?\b|\bDEAD\b|\bQUITS?\b|\bKILLS?\b|\bBRUTAL\b|\bSTOP\b|\bWON'T\b|\bNEVER\b|\bSECRETLY\b|\bACTUALLY\b|\bLI(E|ES|ING)\b|\bTRAP\b|\bSTARVES?\b|\bEMPTY\b|\bRUINS?\b|\bWRONG\b|\bLAZY\b|\bSLOWER\b|\bPANIC\b|\bCRASH(ES)?\b|\bWALL\b|\bBREAKS?\b|\bCOSTS?\b|\bSTEAL\b|\bAGGRESSIVE\b|\bRARE\b|\bFAIL(S|ED)?\b|\bSHOT\b|\bGONE\b|\bWASTED?\b|\bLETHAL\b|\bNOBODY\b|\bSLOWS?\b|\bLATE\b|\bSHORT\b"
+PULSE = r"\bDIES?\b|\bDEAD\b|\bQUITS?\b|\bKILLS?\b|\bBRUTAL\b|\bSTOP\b|\bWON'T\b|\bNEVER\b|\bSECRETLY\b|\bACTUALLY\b|\bLI(E|ES|ING)\b|\bTRAP\b|\bSTARVES?\b|\bEMPTY\b|\bRUINS?\b|\bWRONG\b|\bLAZY\b|\bSLOWER\b|\bPANIC\b|\bCRASH(ES)?\b|\bWALL\b|\bBREAKS?\b|\bCOSTS?\b|\bSTEAL\b|\bAGGRESSIVE\b|\bRARE\b|\bFAIL(S|ED)?\b|\bSHOT\b|\bGONE\b|\bWASTED?\b|\bKILLING\b|\bAMAZING\b|\bUNDERFED\b|\bMEANER\b|\bLETHAL\b|\bNOBODY\b|\bSLOWS?\b|\bLATE\b|\bSHORT\b"
 HEDGES = r"\bSOME\b|\bMOST\b(?!\s+(IMPORTANT|OVERLOOKED|UNDERRATED|COMMON|BRUTAL|DANGEROUS))|\bMAY\b|\bMIGHT\b|\bCAN\b|\bCOULD\b|\bOFTEN\b|\bSOMETIMES\b|\bPROBABLY\b|\bMAYBE\b|\bPERHAPS\b"
 VAGUE_GROUPS = r"\bPROS'?\b|\bEXPERTS\b|\bTHEY\b|\bPEOPLE\b|\bSCIENCE\b|\bSTUDIES\b|\bRESEARCH\b"
 VIEWER = r"\bYOU\b|\bYOUR\b|\bYOU'LL\b|\bYOU'RE\b|\b\d+(:\d\d)?-HOUR\b|\bSUB-\d|MARATHONERS?|\bRUNNERS?\b|SUNDAY LEAGUE|\bPLAYERS?\b|FIRST-TIMERS?"
 # a number is fine when it carries its unit or counts a plural noun ("3 HABITS", "5 STAGES")
 UNIT_AFTER = r"(K|KM|KG|G|M|MI|MILES?|MINS?|MINUTES?|HOURS?|HRS?|H|SECONDS?|SECS?|S|%|WEEKS?|DAYS?|YEARS?|-HOUR|-MIN|ST|ND|RD|TH|')"
+SPICE = r"\bTOP 1%|\bELITE\b|\bDNA\b|\bPARADOX\b|\bMETHOD\b|\bLETHAL\b|\bDISGUSTINGLY\b|\bBRUTAL(LY)?\b|\bPERFECT\b|\bMOST IMPORTANT\b|\bUNDERRATED\b|\bOVERLOOKED\b|\bSECRET(LY)?\b|\bNOBODY\b|\bNEVER\b|\bSTOP\b|\bACTUALLY\b|\bREAL\b|\bHARDER\b|\bBEAT\b|\bRANKING\b|\bTIER\b|\bMASTERCLASS\b|\bDESTROY(ING|S)?\b|\bPROOF\b|\bFREAK\b|\bGAS TANK\b|\bUNFIT\b|\bUNDERFED\b|\bRARE\b|\bYET\b|\bEVEN\b|\bWITHOUT\b"
+SAFE = r"^(HOW TO (PACE|TRAIN|PREPARE|FUEL|RUN) (A|YOUR) MARATHON$|WHAT TO (DO|EAT)\b|.*\bTIPS\b|.*\bGUIDE\b|WHERE .* GOES WRONG|THE [A-Z0-9 ]+ TRAP$)"
 STOP = set("THE A AN AND OR OF IN AT ON TO FOR IS IT ITS IT'S YOUR YOU YOU'LL YOU'RE WITH BY FROM THIS THAT ARE BE NOT NO EVEN SO BUT ONE ONES HOW WHY WHAT".split())
 
 def norm(t):
@@ -180,6 +182,22 @@ def check(title, red=None, stranger=None, luke_said=None, hook=None, render=True
         add("T11 repeat", False, "close to " + "; ".join(f"'{p}' ({f})" for p, f in near), "WARN")
     else:
         add("T11 repeat", True, "no close past title")
+
+    # T13 the dull floor (P221): at least 2 things a stranger would remember
+    spice = []
+    if re.search(r"\d", body): spice.append("a number")
+    if "(" in body: spice.append("a bracket")
+    if re.search(r"(^|\s)['\"‘“]\w", body): spice.append("quotes")
+    sp = sorted({m.group(0) for m in re.finditer(SPICE + "|" + PULSE, body)})
+    if sp: spice.append("strong words " + ", ".join(sp[:3]))
+    if len(sp) >= 2: spice.append("a second strong word")
+    safe = re.match(SAFE, body) is not None
+    if len(spice) >= 2:
+        add("T13 not dull", True, "spice: " + ", ".join(spice))
+    elif safe or not spice:
+        add("T13 not dull", False, f"dull: {'a safe fallback shape (how to pace, what to do, tips, guide, the X trap)' if safe else 'nothing a stranger would remember'}; add a number, an identity or strong word, a named method, quotes, a bracket twist or a flip")
+    else:
+        add("T13 not dull", False, f"thin: only {spice}; fine if the shape carries it (a flip, a contradiction), otherwise push it", "WARN")
 
     # T12 readable at phone size (row 33: the 10% title measured 6.1vw)
     if render and ls:
