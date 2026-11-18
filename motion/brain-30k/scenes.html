@@ -1,0 +1,132 @@
+<!doctype html><html><head><meta charset="utf-8"><title>30K scenes</title>
+<!-- Stage pictures for NEVER DECIDE TO WALK / AT 30K OF A MARATHON / (WAIT 10 MINUTES) (18 Nov), 1920x1080, in the hour4 scenes' look:
+     drawn people (engine from cover.html), the myth struck through in a bubble (P207), one number dial, ERN logo. ?s=0..4 -->
+<style>
+@font-face{font-family:'Barlow Condensed';font-weight:800;src:url(../fonts/BarlowCondensed-800-normal.woff2) format('woff2');}
+@font-face{font-family:Barlow;font-weight:800;src:url(../fonts/BarlowCondensed-800-normal.woff2) format('woff2');}
+@font-face{font-family:Barlow;font-weight:700;src:url(../fonts/BarlowCondensed-700-normal.woff2) format('woff2');}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1920px;height:1080px;overflow:hidden;background:#f4efe6}
+#cv{position:absolute;inset:0}
+.logo{position:absolute;right:56px;top:40px;height:90px}
+.bub{position:absolute;background:#fff;border-radius:22px;padding:16px 30px;font-family:Barlow,sans-serif;font-weight:800;font-size:52px;letter-spacing:1px;white-space:nowrap;color:#0d1726;
+  box-shadow:0 12px 30px rgba(13,23,38,.15)}
+.bub:after{content:'';position:absolute;left:34px;bottom:-16px;border:10px solid transparent;border-top:12px solid #fff;border-left:14px solid #fff}
+.bub s{text-decoration:none;background:linear-gradient(#d9473f,#d9473f) no-repeat 0 55%/100% 6px}
+.dial{position:absolute;width:360px;height:360px;border-radius:50%;background:#0c1828;box-shadow:0 0 0 14px #1c2a3e,0 30px 60px rgba(13,23,38,.35);
+  display:flex;flex-direction:column;align-items:center;justify-content:center;color:#fff;text-align:center}
+.dial b{font-family:'Barlow Condensed',sans-serif;font-weight:800;font-size:138px;line-height:.95;color:#f5b52e}
+.dial i{font-style:normal;font-family:Barlow,sans-serif;font-weight:700;font-size:36px;letter-spacing:3px;color:#c9d3e0;margin-top:10px;line-height:1.15}
+.tag{position:absolute;left:60px;top:46px;font-family:'Barlow Condensed',sans-serif;font-weight:800;font-size:64px;letter-spacing:3px;color:#fff;background:#0c1828;padding:6px 22px;border-radius:12px}
+.tag:empty{display:none}.bub:empty{display:none}
+.bub.thought{font-size:44px;color:#5b6474}
+</style></head><body>
+<canvas id="cv" width="1920" height="1080"></canvas><img class="logo" src="../brand/ern-logo.png">
+<div class="bub" id="bub"></div><div class="bub" id="bub2"></div><div class="bub" id="bub3"></div><div class="tag" id="tag"></div><div class="dial" id="dial"><b id="db"></b><i id="di"></i></div>
+<script>
+const D=Math.PI/180; const clamp=(x,a=0,b=1)=>Math.max(a,Math.min(b,x)); const lerp=(a,b,p)=>a+(b-a)*p;
+function rng(seed){return function(){seed|=0;seed=seed+0x6D2B79F5|0;let t=Math.imul(seed^seed>>>15,1|seed);t=t+Math.imul(t^t>>>7,61|t)^t;return((t^t>>>14)>>>0)/4294967296}}
+function shade(hex,k){const n=parseInt(hex.slice(1),16);const f=v=>Math.round(clamp(v*(1-k),0,255));return `rgb(${f(n>>16&255)},${f(n>>8&255)},${f(n&255)})`}
+const css=()=>'#1f7ae0';
+const cv=document.getElementById('cv'); let c=cv.getContext('2d');
+const SKIN=['#f1c7a3','#d8a07a','#a86f4c','#7a4a2e','#f3d2b8','#c98b62']; const HAIR=['#2a1d15','#6b4528','#c99a5b','#1a1a1a','#8a3b1f','#d9c3a0'];
+function seg(x1,y1,x2,y2,w,col){c.strokeStyle=col;c.lineWidth=w;c.beginPath();c.moveTo(x1,y1);c.lineTo(x2,y2);c.stroke()}
+function leg(hx,hy,a,k){const kx=hx+44*Math.sin(a*D),ky=hy+44*Math.cos(a*D),s=a+k,ax=kx+44*Math.sin(s*D),ay=ky+44*Math.cos(s*D),f=s+90;
+  return{kx,ky,ax,ay,fx:ax+15*Math.sin(f*D),fy:ay+15*Math.cos(f*D)}}
+function arm(sx,sy,a,e){const ex=sx+32*Math.sin(a*D),ey=sy+32*Math.cos(a*D),b=a+e;return{ex,ey,hx:ex+30*Math.sin(b*D),hy:ey+30*Math.cos(b*D)}}
+/* o: x, g (ground y), s (scale), f (1 faces right, -1 left), look, pose, plus colours; returns hand positions in screen space */
+function person(o){
+  const p=Object.assign({hipN:0,hipF:0,kneeN:0,kneeF:0,shN:6,shF:-6,elN:12,elF:12,lean:2,head:0,lift:0},o.pose||{});
+  const L=Object.assign({top:'#8aa0b8',shorts:'#2c3a4d',skin:SKIN[1],hair:HAIR[0],shoe:'#ffffff'},o.look||{});
+  c.save();c.translate(o.x,o.g);c.scale((o.f||1)*o.s,o.s);c.lineCap='round';c.lineJoin='round';
+  if(o.alpha!=null)c.globalAlpha=o.alpha;
+  const lN=leg(0,0,p.hipN,p.kneeN),lF=leg(0,0,p.hipF,p.kneeF);
+  const hipY=-(Math.max(lN.ay,lF.ay,lN.fy,lF.fy)+7)-p.lift;
+  const T=64,lx=Math.sin(p.lean*D),ly=-Math.cos(p.lean*D);
+  const sx=(T-8)*lx,sy=hipY+(T-8)*ly,nx=T*lx,ny=hipY+T*ly;
+  const hd=p.lean+p.head,hx=nx+19*Math.sin(hd*D),hy=ny-19*Math.cos(hd*D);
+  const aN=arm(sx,sy,p.shN,p.elN),aF=arm(sx,sy,p.shF,p.elF);
+  const drawLeg=(l,a,far)=>{const sk=far?shade(L.skin,.12):L.skin,sh=far?shade(L.shorts,.15):L.shorts;
+    seg(0,hipY,l.kx,l.ky+hipY,19,sk);seg(l.kx,l.ky+hipY,l.ax,l.ay+hipY,16,sk);
+    seg(0,hipY,l.kx*.55,l.ky*.55+hipY,25,sh);seg(l.ax,l.ay+hipY,l.fx,l.fy+hipY,14,far?shade(L.shoe,.12):L.shoe)};
+  const drawArm=(a,far)=>{const sk=far?shade(L.skin,.12):L.skin;seg(sx,sy,a.ex,a.ey,13,sk);seg(a.ex,a.ey,a.hx,a.hy,12,sk);
+    seg(sx,sy,lerp(sx,a.ex,.45),lerp(sy,a.ey,.45),17,far?shade(L.top,.15):L.top)};
+  drawArm(aF,true);drawLeg(lF,0,true);
+  seg(0,hipY-4,sx,sy,40,L.top);
+  if(L.bib){c.save();c.translate(lerp(0,sx,.45),lerp(hipY,sy,.45));c.rotate(p.lean*D);c.fillStyle='#fff';c.fillRect(4,-15,17,30);c.fillStyle=css('blue');c.fillRect(4,-15,17,7);c.restore()}
+  if(L.name){c.save();c.translate(lerp(0,sx,.32)+6*lx,lerp(hipY,sy,.32));c.rotate(p.lean*D);c.fillStyle='#0b0b0b';c.font='italic 800 21px Barlow';c.textAlign='center';c.textBaseline='middle';c.fillText(L.name,6,0);c.restore()}
+  drawLeg(lN,0,false);
+  if(o.prop==='sign'&&o.sign){} // signs are drawn by the caller at the hands
+  drawArm(aN,false);
+  c.fillStyle=L.skin;c.beginPath();c.arc(hx,hy,17,0,7);c.fill();
+  c.fillStyle=L.hair;c.beginPath();c.arc(hx,hy,18,Math.PI*.92+hd*D,Math.PI*1.9+hd*D);c.closePath();c.fill();
+  c.fillStyle='#1a1410';c.beginPath();c.arc(hx+9*Math.cos(hd*D)+3*Math.sin(hd*D),hy+3*Math.cos(hd*D)+9*Math.sin(hd*D)-2,2.6,0,7);c.fill();
+  if(L.pony){c.beginPath();c.arc(hx-14*Math.cos(hd*D),hy+2,7,0,7);c.fill()}
+  if(L.cap){c.fillStyle=L.cap;c.beginPath();c.arc(hx,hy,16.5,Math.PI*1.0+hd*D,Math.PI*2.0+hd*D);c.fill();seg(hx+4,hy-3,hx+24,hy-1,5,L.cap)}
+  c.restore();
+  const tf=(x,y)=>({x:o.x+(o.f||1)*o.s*x,y:o.g+o.s*y});
+  return{handN:tf(aN.hx,aN.hy),handF:tf(aF.hx,aF.hy),head:tf(hx,hy),chest:tf(lerp(0,sx,.5),lerp(hipY,sy,.5))}}
+function run(ph,amp=1,lean=9){const a=ph*Math.PI*2;return{hipN:32*amp*Math.sin(a),hipF:32*amp*Math.sin(a+Math.PI),
+  kneeN:-(10+85*amp*Math.max(0,Math.cos(a))),kneeF:-(10+85*amp*Math.max(0,Math.cos(a+Math.PI))),
+  shN:-30*amp*Math.sin(a),shF:30*amp*Math.sin(a),elN:88,elF:88,lean,lift:7*amp*Math.abs(Math.cos(a))}}
+function mix(a,b,p){const o={};for(const k in a)o[k]=lerp(a[k],b[k]!=null?b[k]:a[k],p);return o}
+
+
+const S=+(new URLSearchParams(location.search).get('s')||0), W=1920, H=1080;
+const KIT={top:'#1f7ae0',shorts:'#1a2433',skin:SKIN[0],hair:HAIR[1],shoe:'#f5b52e',bib:true};
+const OTHER={top:'#8aa0b8',shorts:'#2c3a4d',skin:SKIN[3],hair:HAIR[0],shoe:'#ffffff',bib:true};
+const ell=(x,y,rx,ry,col,rot=0)=>{c.fillStyle=col;c.beginPath();c.ellipse(x,y,rx,ry,rot,0,7);c.fill()};
+const rr=(x,y,w,h,r,col)=>{c.fillStyle=col;c.beginPath();c.roundRect(x,y,w,h,r);c.fill()};
+function road(GY,hill){
+  c.fillStyle='#f4efe6';c.fillRect(0,0,W,H);const r=rng(4);
+  c.fillStyle='#dfe6ee';for(let x=-20;x<W;x+=150+r()*90){const h=180+r()*260,w=110+r()*70;c.fillRect(x,GY-120-h,w,h+120);c.fillStyle='#eef2f6';for(let wy=GY-100-h;wy<GY-130;wy+=34)for(let wx=x+14;wx<x+w-20;wx+=28)c.fillRect(wx,wy,14,18);c.fillStyle='#dfe6ee'}
+  for(let x=60;x<W;x+=330){c.fillStyle='#8a6b4f';c.fillRect(x-6,GY-170,12,170);ell(x,GY-210,70,80,'#a8c3a0')}
+  c.fillStyle='#e7dfd2';c.beginPath();c.moveTo(0,GY+(hill?40:0));c.lineTo(W,GY-(hill?120:0));c.lineTo(W,H);c.lineTo(0,H);c.fill();
+  c.fillStyle='#d7cdbc';c.beginPath();c.moveTo(0,GY+(hill?40:0));c.lineTo(W,GY-(hill?120:0));c.lineTo(W,GY-(hill?120:0)+14);c.lineTo(0,GY+(hill?40:0)+14);c.fill();
+  c.fillStyle='#fff';for(let x=20;x<W;x+=160){const y=GY+150+(hill?40-160*x/W:0);c.fillRect(x,y,80,10)}
+}
+function sign(x,y,txt){c.fillStyle='#8a96a6';c.fillRect(x-6,y,12,200);rr(x-90,y-90,180,100,14,'#0c1828');c.fillStyle='#fff';c.font="800 76px 'Barlow Condensed'";c.textAlign='center';c.textBaseline='middle';c.fillText(txt,x,y-38)}
+function gel(x,y,s,rot=0){c.save();c.translate(x,y);c.rotate(rot);c.scale(s,s);rr(-26,-50,52,100,10,'#f5b52e');c.fillStyle='#d99a12';c.beginPath();c.moveTo(-26,-50);c.lineTo(-10,-74);c.lineTo(10,-74);c.lineTo(26,-50);c.fill();rr(-16,-12,32,10,4,'rgba(255,255,255,.7)');c.restore()}
+function bub(id,html,x,y,cls){const b=document.getElementById(id);b.innerHTML=html;b.style.left=x+'px';b.style.top=y+'px';if(cls)b.className='bub '+cls}
+function dial(num,lab,x,y){const d=document.getElementById('dial');d.style.left=x+'px';d.style.top=y+'px';document.getElementById('db').innerHTML=num;document.getElementById('di').innerHTML=lab;if(String(num).length>4)document.getElementById('db').style.fontSize='104px'}
+function tag(t){document.getElementById('tag').textContent=t}
+const WALK={hipN:14,hipF:-12,kneeN:-8,kneeF:-14,shN:-10,shF:12,elN:20,elF:20,lean:8,head:22,lift:0};
+function draw(){
+if(S===0){ // the hook: the hill at 30K, the voice says walk
+  const GY=820;road(GY,true);sign(1130,560,'30K');
+  person({x:760,g:GY+40-160*760/W,s:3.2,f:1,look:KIT,pose:mix(run(.2,.55,14),WALK,.5)});
+  bub('bub',"<s>Just walk this hill.</s>",150,170);dial("30K","THE VOICE<br>STARTS",1420,150);
+}
+if(S===1){ // 1 of 3: know the voice
+  document.getElementById('dial').style.display='none';const GY=840;road(GY,false);
+  const p=person({x:900,g:GY,s:3.3,f:1,look:KIT,pose:run(.15,.8,12)});
+  bub('bub',"You'll get going again shortly.",60,190,'thought');bub('bub2',"I'll never do this again.",140,330,'thought');bub('bub3',"Why am I doing this?",80,470,'thought');
+  // the fuel gauge, low
+  const gx=1600,gy=330,R=170;c.lineWidth=34;c.lineCap='butt';
+  [['#d9473f',Math.PI,Math.PI*1.25],['#f5b52e',Math.PI*1.25,Math.PI*1.5],['#c9d3e0',Math.PI*1.5,Math.PI*2]].forEach(([col,a,b])=>{c.strokeStyle=col;c.beginPath();c.arc(gx,gy,R,a,b);c.stroke()});
+  c.strokeStyle='#0c1828';c.lineWidth=12;c.lineCap='round';c.beginPath();c.moveTo(gx,gy);c.lineTo(gx+Math.cos(Math.PI*1.1)*R*.85,gy+Math.sin(Math.PI*1.1)*R*.85);c.stroke();ell(gx,gy,18,18,'#0c1828');
+  c.fillStyle='#0c1828';c.font="800 54px 'Barlow Condensed'";c.textAlign='center';c.fillText('E',gx-R,gy+60);c.fillText('F',gx+R,gy+60);c.font="800 46px 'Barlow Condensed'";c.fillText('A FUEL GAUGE, NOT YOU',gx,gy+120);
+  tag('1 OF 3');
+}
+if(S===2){ // 2 of 3: the gel that's due
+  const GY=840;road(GY,false);
+  const p=person({x:820,g:GY,s:3.3,f:1,look:KIT,pose:Object.assign(run(.3,.7,10),{shN:150,elN:-120})});
+  gel(p.handN.x+6,p.handN.y-26,1.1,.4);
+  bub('bub',"<s>I'm sick of gels.</s>",150,170);dial("2:50","THE GEL<br>THAT'S DUE",1420,170);tag('2 OF 3');
+}
+if(S===3){ // 3 of 3, the hardest: the 10 minutes
+  const GY=840;road(GY,false);sign(1250,560,'31K');
+  person({x:700,g:GY,s:3.3,f:1,look:KIT,pose:run(.1,.6,10)});
+  // short steps marks
+  c.fillStyle='rgba(12,24,40,.18)';[520,600,680,760].forEach(x=>ell(x,GY+8,26,8,'rgba(12,24,40,.18)'));
+  bub('bub',"<s>Just walk a bit.</s>",150,170);dial("10<span style='font-size:60px'>MIN</span>","NO DECISION<br>BEFORE 3:00",1420,170);tag('3 OF 3 (THE HARDEST)');
+}
+if(S===4){ // the last 10K: counting down the signs, passing the walkers
+  const GY=840;road(GY,false);sign(1260,580,'38K');
+  person({x:1050,g:GY,s:2.6,f:1,look:OTHER,pose:WALK,alpha:.95});
+  person({x:640,g:GY,s:3.4,f:1,look:KIT,pose:run(.35,1.1,14)});
+  bub('bub',"<s>Why am I doing this?</s>",150,170);dial("3:20","THE LAST<br>GEL",1420,150);
+}
+}
+document.fonts.load("800 100px 'Barlow Condensed'").then(()=>document.fonts.load("800 40px Barlow")).then(()=>document.fonts.load("700 40px Barlow")).then(()=>{draw();document.title='ready'});
+</script></body></html>
