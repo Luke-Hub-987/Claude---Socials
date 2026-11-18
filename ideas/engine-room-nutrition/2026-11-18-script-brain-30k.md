@@ -2,7 +2,7 @@
 type: script (gated)
 gate: v1
 brief_ok: Luke 18 Nov ("the script for the 30K reel today"; then "go ahead and produce the script" for the new title, with his own 30K voice lines), brief ideas/engine-room-nutrition/2026-11-18-brief-brain-30k.md (stages from 30K, P218)
-fixed_after_review: G22 ("hold your pace" contradicted the posted wall method, slow 15 to 20 s/K for 10 minutes: now "15 to 20 seconds a K slower if you need to, with shorter steps", caption to match), G23 ("look at your watch once when the 10 minutes are up" couldn't be done: now "take the 2:50 gel and decide nothing before 3:00" off the race time already on the watch)
+fixed_after_review: G22 ("hold your pace" contradicted the posted wall method, slow 15 to 20 s/K for 10 minutes: now "15 to 20 seconds a K slower if you need to, with shorter steps", caption to match), G23 ("look at your watch once when the 10 minutes are up" couldn't be done: now "after the 2:50 gel, decide nothing before 3:00" off the race time already on the watch)
 ost_final_by_luke: 18 Nov (Luke: "update the 30K OST" with P220 and P221; the ost-reviewer's first pick from 14: NEVER DECIDE TO WALK / AT 30K OF A MARATHON / (WAIT 10 MINUTES), NEVER in red, 3 lines; replaces YOUR BRAIN QUITS AT / 30K OF A MARATHON / (IT'S NOT WEAKNESS))
 stats_ok_by_luke: 18 Nov (the cyclists' blood sugar is the turn)
 generated_at: 2026-11-18
@@ -83,7 +83,7 @@ stage 1.
 
 **[THE 10 MINUTES]**
 
-"Third, and the hardest, make no decision about walking for 10 minutes. The sugar starts reaching your blood within minutes. So keep running, 15 to 20 seconds a K slower if you need to, with shorter steps. Your watch already shows the race time, so take the 2:50 gel and decide nothing before 3:00."
+"Third, and the hardest, make no decision about walking for 10 minutes. The sugar starts reaching your blood within minutes. So keep running, 15 to 20 seconds a K slower if you need to, with shorter steps. Your watch already shows the race time, so after the 2:50 gel, decide nothing before 3:00."
 
 "The last 10K is where you find out whose voice it was."
 
