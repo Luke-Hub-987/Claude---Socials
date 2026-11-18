@@ -1,0 +1,32 @@
+<!doctype html><html><head><meta charset="utf-8"><title>White title card</title>
+<!-- Any title, the fourth-hour / oranges white style (18 Nov). ?l=LINE1|LINE2|(LINE3)&red=WORD&blue=WORD&mode=card|overlay
+     card: 1920x1080 white, the title centred and fitted (also the text-only cover, Luke 17 Nov).
+     overlay: 1080x1920 transparent, a white box full width in the top band with the title (frame one). -->
+<style>
+@font-face{font-family:'Barlow Condensed';font-weight:800;src:url(../fonts/BarlowCondensed-800-normal.woff2) format('woff2');}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{overflow:hidden;background:transparent}
+.card{position:absolute;inset:0;background:#fff;display:flex;flex-direction:column;align-items:center;justify-content:center}
+.box{position:absolute;left:32px;right:32px;top:250px;background:#fff;border-radius:18px;display:flex;flex-direction:column;align-items:center;padding:30px 24px}
+.l{font-family:'Barlow Condensed',sans-serif;font-weight:800;color:#000;line-height:1.04;white-space:nowrap;width:max-content}
+.hl{color:#fff;padding:0 .12em;display:inline-block;line-height:1.1;border-radius:.06em}
+.red{background:#d9473f}.blue{background:#1f7ae0}
+</style></head><body><div id="w"></div>
+<script>
+const Q=new URLSearchParams(location.search), mode=Q.get('mode')||'card';
+const W=mode==='card'?1920:1080, H=mode==='card'?1080:1920;
+document.documentElement.style.width=document.body.style.width=W+'px';document.documentElement.style.height=document.body.style.height=H+'px';
+const w=document.getElementById('w'); w.className=mode==='card'?'card':'box';
+const esc=s=>s.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+function mark(line){let h=esc(line);for(const [k,cls] of [[Q.get('red'),'red'],[Q.get('blue'),'blue']]){if(!k)continue;const e=esc(k.toUpperCase());const i=h.indexOf(e);if(i>=0)h=h.slice(0,i)+`<span class="hl ${cls}">${e}</span>`+h.slice(i+e.length)}return h}
+const lines=(Q.get('l')||'').split('|').map(s=>s.trim().toUpperCase()).filter(Boolean);
+const maxW=mode==='card'?1780:960;
+const els=lines.map(t=>{const d=document.createElement('div');d.className='l';d.innerHTML=mark(t);w.appendChild(d);
+  const cap=(mode==='card'?1:0.56)*(t.startsWith('(')?200:300);d.dataset.cap=cap;return d});
+document.fonts.load("800 100px 'Barlow Condensed'").then(()=>{
+  els.forEach(d=>{let fs=+d.dataset.cap;d.style.fontSize=fs+'px';while(d.getBoundingClientRect().width>maxW&&fs>30){fs-=2;d.style.fontSize=fs+'px'}});
+  // one size for the main lines (the shortest fit), brackets no bigger than the main lines
+  const main=els.filter(d=>!d.textContent.startsWith('('));const m=Math.min(...main.map(d=>parseFloat(d.style.fontSize)));
+  main.forEach(d=>d.style.fontSize=m+'px');els.filter(d=>d.textContent.startsWith('(')).forEach(d=>{d.style.fontSize=Math.min(parseFloat(d.style.fontSize),m)+'px'});
+  document.title='ready';});
+</script></body></html>

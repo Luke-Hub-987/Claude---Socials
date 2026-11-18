@@ -547,3 +547,4 @@ twice without being checked against the winners (P99).
 - [ ] **Podcast cue cards (P216):** both co-hosts answer every prompt and both bets open the show; one page, no pre-work or fill-in tables; any long-form footage is self-shot on phones and optional.
 - [ ] **Names (P217):** remembered after one hearing first, then true for every sport, tied to fuel without a claim, fits the show, not taken; fix risks in the subtitle, never with a duller name.
 - [ ] **Value by 0:15 (P218, a repeat of P69):** hook 40 to 45 words; stage 1 opens on the new part with a number they can use; known advice only as a clause later; the hook's question still open when the value starts.
+- [ ] **Title first, in code (P219):** the title-producer skill ran (levers, 20 titles, 8+ devices); `python3 gate/ost_check.py --file <titles>` PASS; the ost-reviewer ran cold; the hook says the title's keywords in its first 20 words.

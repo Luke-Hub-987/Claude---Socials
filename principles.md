@@ -6331,3 +6331,26 @@ had gone.
   scorecard and the five levers) before Luke sees it.
 
 *Gate chat: G19's hook range drops to 40 to 45 words.*
+
+## P219 — One chat, title first, checked in code (Luke, 18 Nov)
+
+Luke, 18 Nov: going through 2 or 3 chats every time is monotonous; the title
+producer and checker matter most ("a Toyota badge on a Ferrari engine: you'd
+never know what's inside"), then the verbal hook, the curiosity loop and the
+keywords; it has to be creative and really specific; a weekly loop on the
+Windsor data.
+
+**The rule:**
+- **One chat does a reel end to end:** topic, title, hook, script, gate,
+  graphics. The two-chat split (P191) is retired; the gate stays, run inside
+  the same chat (check.py, the gate-reviewer and the ost-reviewer as agents).
+- **The title comes first,** through the `title-producer` skill: the five
+  levers, 20 titles over 8 or more devices, `gate/ost_check.py` (counts,
+  "of what / in what / who", hedges, repeats, phone size), the cold
+  `ost-reviewer`, then the top 3 with their hooks. No title reaches Luke that
+  skipped a step.
+- **The hook says the title's keywords back in its first 20 words** and opens
+  the question the title promised (ost_check H3).
+- **Graphics are one command:** `node motion/title-cards/make_title.js`.
+- **A weekly results loop** reads Windsor every Monday and proposes rule
+  changes for Luke to approve; it never changes the rules itself.
