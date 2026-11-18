@@ -29,7 +29,7 @@ HEDGES = r"\bSOME\b|\bMOST\b(?!\s+(IMPORTANT|OVERLOOKED|UNDERRATED|COMMON|BRUTAL
 VAGUE_GROUPS = r"\bPROS'?\b|\bEXPERTS\b|\bTHEY\b|\bPEOPLE\b|\bSCIENCE\b|\bSTUDIES\b|\bRESEARCH\b"
 VIEWER = r"\bYOU\b|\bYOUR\b|\bYOU'LL\b|\bYOU'RE\b|\b\d+(:\d\d)?-HOUR\b|\bSUB-\d|MARATHONERS?|\bRUNNERS?\b|SUNDAY LEAGUE|\bPLAYERS?\b|FIRST-TIMERS?"
 # a number is fine when it carries its unit or counts a plural noun ("3 HABITS", "5 STAGES")
-UNIT_AFTER = r"(K|KM|KG|G|M|MI|MILES?|MINS?|MINUTES?|HOURS?|HRS?|H|SECONDS?|SECS?|S|%|WEEKS?|DAYS?|YEARS?|-HOUR|-MIN|ST|ND|RD|TH|')"
+UNIT_AFTER = r"(K|KM|KG|G|M|MI|MILES?|MINS?|MINUTES?|HOURS?|HRS?|H|SECONDS?|SECS?|S|%|WEEKS?|DAYS?|YEARS?|-HOURS?|-MINS?|-MINUTES?|-SECONDS?|-DAYS?|-WEEKS?|ST|ND|RD|TH|')"
 SPICE = r"\bTOP 1%|\bELITE\b|\bDNA\b|\bPARADOX\b|\bMETHOD\b|\bLETHAL\b|\bDISGUSTINGLY\b|\bBRUTAL(LY)?\b|\bPERFECT\b|\bMOST IMPORTANT\b|\bUNDERRATED\b|\bOVERLOOKED\b|\bSECRET(LY)?\b|\bNOBODY\b|\bNEVER\b|\bSTOP\b|\bACTUALLY\b|\bREAL\b|\bHARDER\b|\bBEAT\b|\bRANKING\b|\bTIER\b|\bMASTERCLASS\b|\bDESTROY(ING|S)?\b|\bPROOF\b|\bFREAK\b|\bGAS TANK\b|\bUNFIT\b|\bUNDERFED\b|\bRARE\b|\bYET\b|\bEVEN\b|\bWITHOUT\b"
 SAFE = r"^(HOW TO (PACE|TRAIN|PREPARE|FUEL|RUN) (A|YOUR) MARATHON$|WHAT TO (DO|EAT)\b|.*\bTIPS\b|.*\bGUIDE\b|WHERE .* GOES WRONG|THE [A-Z0-9 ]+ TRAP$)"
 STOP = set("THE A AN AND OR OF IN AT ON TO FOR IS IT ITS IT'S YOUR YOU YOU'LL YOU'RE WITH BY FROM THIS THAT ARE BE NOT NO EVEN SO BUT ONE ONES HOW WHY WHAT".split())
@@ -159,7 +159,8 @@ def check(title, red=None, stranger=None, luke_said=None, hook=None, render=True
             f"{len(qs)} questions answered" if qs and not unanswered else ("no 'stranger:' line" if not qs else f"unanswered {unanswered}"))
 
     # T10 anything about Luke needs his words
-    if re.search(r"\bI\b|\bI'M\b|\bI'VE\b|\bMY\b|\bME\b", body):
+    unquoted = re.sub(r"(^|\s)['\"‘“][^'\"’”]*['\"’”]", " ", body)  # the runner's own words in quotes aren't Luke
+    if re.search(r"\bI\b|\bI'M\b|\bI'VE\b|\bMY\b|\bME\b", unquoted):
         ok = bool(luke_said and luke_said.strip().lower() not in ("", "none", "n/a"))
         add("T10 Luke said", ok, "Luke's own words cited" if ok else "a claim about Luke with no 'luke_said:' source (never put a habit in his mouth)")
 
