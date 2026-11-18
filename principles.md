@@ -6305,3 +6305,29 @@ by choosing a duller name. A generic name fails test 1 and goes no further.
 - P26 flags that ERN doesn't have a stated seven-word-or-less brand
   through-line yet. Worth doing that exercise directly with Luke
   rather than drafting one from guesses.
+
+## P218 — Value inside 15 seconds, curiosity still open (Luke, 18 Nov; a repeat of P69)
+
+Luke, 18 Nov, after the oranges trial (half gone by 0:05, 70% by 0:12, 16s
+watched): *"getting to the value quicker is the absolute key, and having
+curiosity in the hook stack at the start as well is pretty paramount to not
+have people drop off for the body."*
+
+**A repeat (my miss).** P69 (21 Oct) already said item one lands inside 15
+seconds. P198 later allowed a 40 to 55 word hook, and the oranges hook ran 55
+words (about 20 seconds), so the first usable number came after most viewers
+had gone.
+
+**The rule:**
+- **The first thing they can use is spoken by 0:15:** a hook of 40 to 45
+  words, never 55, then stage 1 opens on a number they can act on.
+- **The first stage is the new part, not the known part.** Known advice is a
+  clause inside a later stage, never the stage that opens the method (the
+  oranges step at 0:45 came at the known-advice stage).
+- **The hook opens one question and the stages answer it a piece at a
+  time;** the curiosity is still open when the value starts (P176). Value fast
+  never means giving away the payoff.
+- **Run the checklists on every script** (GATE.md, SCRIPT-CHECKLIST, the OST
+  scorecard and the five levers) before Luke sees it.
+
+*Gate chat: G19's hook range drops to 40 to 45 words.*

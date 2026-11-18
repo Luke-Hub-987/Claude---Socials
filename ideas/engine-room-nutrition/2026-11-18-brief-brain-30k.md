@@ -21,11 +21,13 @@ QUITS in red, white card (the fourth-hour frame one). 10/10 (OST-SCORECARD, 17 N
 "If your head starts telling you to walk at 30K of your marathon, that isn't weakness. When cyclists rode for 3 hours with no carbs, their blood sugar dropped by almost half, and the tiredness and not caring came with less sugar reaching the brain."
 Stranger's one question: "so what do I do when it starts?" (answered by the stages).
 
-## The method (one race clock)
-1. **From 20 minutes:** the gel clock keeps blood sugar level (riders given glucose held steady). One short stage: told before.
-2. **The 30K voice:** "why am I doing this", "just walk a bit": read it as a fuel gauge, not a verdict. Take the gel that's due even if you're sick of them (FACTS: real complaints late), with 3 or 4 sips if passing a station.
+## The method (one race clock, from 30K: P218, the new part first)
+1. **The 30K voice (from about 0:15):** "why am I doing this", "just walk a bit": read it as a fuel gauge, not a verdict.
+2. **The gel that's due:** take it even if you're sick of them (FACTS: real complaints late), with 3 or 4 sips if passing a station. The clock you've been on since 20 minutes is one clause here, not a stage (known advice).
 3. **The 10-minute rule:** no decision about walking or quitting until 10 minutes after that gel.
 4. **The last 10K:** what it looks like when the voice goes quiet.
+
+Hook 40 to 45 words (P218), so stage 1 starts by about 0:15.
 
 Repeat line (G33): "The gel you least want at 30K is the one your head needs most."
 Send line: "Send this to the friend who walked at 30K and blamed their head."
