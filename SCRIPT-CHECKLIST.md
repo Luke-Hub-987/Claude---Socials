@@ -548,3 +548,5 @@ twice without being checked against the winners (P99).
 - [ ] **Names (P217):** remembered after one hearing first, then true for every sport, tied to fuel without a claim, fits the show, not taken; fix risks in the subtitle, never with a duller name.
 - [ ] **Value by 0:15 (P218, a repeat of P69):** hook 40 to 45 words; stage 1 opens on the new part with a number they can use; known advice only as a clause later; the hook's question still open when the value starts.
 - [ ] **Title first, in code (P219):** the title-producer skill ran (levers, 20 titles, 8+ devices); `python3 gate/ost_check.py --file <titles>` PASS; the ost-reviewer ran cold; the hook says the title's keywords in its first 20 words.
+- [ ] **Caption under the cut (G21 from 18 Nov):** 2,200 characters or fewer, the plan first (Instagram cuts the rest; the oranges caption lost its plan, 17 Nov).
+- [ ] **Names, amended (P217, 18 Nov):** concrete and in the audience's own words (what they say mid-race), memorable, through the full council; close calls go to a story poll.

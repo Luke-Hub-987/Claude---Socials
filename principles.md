@@ -6289,6 +6289,8 @@ every sport we'll cover, not just running; (3) tied to what Engine Room sells
 else has it. Risks are fixed in the subtitle, the artwork or the handle, never
 by choosing a duller name. A generic name fails test 1 and goes no further.
 
+**Amended (Luke, 18 Nov):** the name is reviewed as Ogilvy would pick it, through the full council: "incredible specificity, not boring, not dull, incredibly memorable, but incredibly specific, uses words that our audience would use and are familiar with". So test 1 becomes: a concrete thing you can feel or picture, in the audience's own words (what they say at 30K or in the 80th minute), remembered after one hearing. Where two names are close, a story poll decides (Ogilvy tested everything).
+
 *Source: Luke, 17 Nov, podcast chat.*
 
 ## Open questions for Luke

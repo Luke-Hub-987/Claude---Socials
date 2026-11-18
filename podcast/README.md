@@ -9,7 +9,7 @@ in CLAUDE.md).
 ## The master plan is a Claude doc (17 Nov)
 https://claude.ai/artifact/6LftEYohSrQKg6iTE96QpG (tabs: Plan, Episode template, Name pre-mortem). Episode 1 cue card: https://claude.ai/artifact/EW9WBoUzRLxujMCSU7U9a4. The .md files here are the history.
 
-## Name (17 Nov, recommended): ON FUMES, running, sport and fuel, by Engine Room (plan 0.11; The Race Plan rejected by Luke as generic; Faster Than You Deserve kept for the January video)
+## Name (18 Nov, council): DEAD LEGS, running, sport and fuel, by Engine Room; story poll vs ON FUMES Wed to Thu, lock Fri (plan 0.12)
 
 ## Next: Friday 20 Nov, record episode 1 (the bet)
 `podcast/2026-11-20-episode-1-run-of-show.md`. Out Sunday 22 Nov, then every Sunday (plan 0.8).

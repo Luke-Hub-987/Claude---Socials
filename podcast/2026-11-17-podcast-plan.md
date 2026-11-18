@@ -292,6 +292,18 @@ weeks after 15 January for the edit (early February), so it takes February's
 slot. The Seville guide moves to the reels.
 
 
+## 0.12 The name, council review (Luke, 18 Nov): DEAD LEGS, poll against ON FUMES
+**Overrides 0.11.** Luke asked for the full council, Ogilvy's standard: specific,
+memorable, the audience's own words. Chairman: *Dead Legs: running, sport and
+fuel, by Engine Room*. More concrete than On Fumes (a feeling in the body, not a
+metaphor); the phrase runners, footballers and GAA players use; echoes the best
+title since September (4-HOUR MARATHONS DIE) and the match brief (SUNDAY LEAGUE
+LEGS DIE); makes a weekly segment (Dead Leg of the Week: a listener's worst
+moment, read out and fixed). On Fumes can read as cars, vaping or burnout. Check:
+a 24-hour story poll Wed to Thu ("Our podcast starts on Sunday but it still has
+no name, so you're picking it." DEAD LEGS / ON FUMES); On Fumes only if it gets 6
+in 10 or more; lock Friday. Full council in the doc's "The name" tab.
+
 ## 0.11 The name (Luke rejected The Race Plan, 17 Nov, P217): ON FUMES
 **Overrides 0.9 and 0.10.** Listing title: *On Fumes: running, sport and fuel,
 by Engine Room*. It's the moment every sport shares (hour 4, the last 15 of a

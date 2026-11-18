@@ -99,13 +99,15 @@ c.fillStyle='rgba(110,84,58,.5)';c.beginPath();c.ellipse(bx+6,by+14,10,4,0,0,7);
 const t=document.getElementById('t');
 const add=(h,fs)=>{const d=document.createElement('div');d.className='l';d.innerHTML=h;d.style.fontSize=fs+'px';t.appendChild(d);return d};
 const TT={a:[['ORANGES <span class="hl">WON\'T</span> SAVE',120],['YOUR LEGS AT 75 MINS',150],['(SUNDAY LEAGUE)',110]],
-          b:[['SUNDAY LEAGUE LEGS,',120],['PREMIER LEAGUE <span class="hl">FUEL</span>',150],['(STILL FLYING AT 85)',110]]};
+          b:[['SUNDAY LEAGUE LEGS,',120],['PREMIER LEAGUE <span class="hl">FUEL</span>',150],['(STILL FLYING AT 85)',110]],
+          brain:[['YOUR BRAIN <span class="hl">QUITS</span> AT',120],['30K OF A MARATHON',150],['(IT\'S NOT WEAKNESS)',110]]};
 if(Q.get('theme')==='white'){document.body.style.background='#fff';document.querySelectorAll('.l').forEach(()=>{});
   const st=document.createElement('style');st.textContent='.l{color:#000!important}#panel{box-shadow:0 10px 40px rgba(13,23,38,.18)}';document.head.appendChild(st);
   document.getElementById('logo').src='../brand/ern-logo.png';}
 let ls;
-if(Q.get('t')) ls=TT[Q.get('t')].map(([h,fs])=>add(h,fs));
+if(Q.get('textonly')){document.getElementById('panel').style.display='none';const tt=document.getElementById('t');tt.style.width='1760px';tt.style.alignItems='center';tt.style.left='80px';}
+if(Q.get('t')) ls=TT[Q.get('t')].map(([h,fs])=>add(h,Q.get('textonly')?fs*1.9:fs));
 else { ls=[add('SUNDAY LEAGUE LEGS <span class="hl">DIE</span>',120),add('AT 75 MINUTES',150)];
   if(n===3) ls.push(add('(EVEN IN THE PREMIER LEAGUE)',84)); }
-document.fonts.load("800 100px 'Barlow Condensed'").then(()=>{ls.forEach(d=>{let fs=parseFloat(d.style.fontSize);while(d.getBoundingClientRect().width>900&&fs>30){fs-=2;d.style.fontSize=fs+'px'}});document.title='fitted'});
+document.fonts.load("800 100px 'Barlow Condensed'").then(()=>{ls.forEach(d=>{let fs=parseFloat(d.style.fontSize);while(d.getBoundingClientRect().width>(Q.get('textonly')?1700:900)&&fs>30){fs-=2;d.style.fontSize=fs+'px'}});document.title='fitted'});
 </script></body></html>

@@ -12,7 +12,7 @@ VOCAB = r"delve|tapestry|testament|landscape|realm|crucial|pivotal|intricate|met
 PATTERNS = [
     ("AI vocabulary", re.compile(r"\b(" + VOCAB + r")\b", re.I)),
     ("dodging 'is'", re.compile(r"\b(serves as|stands as|acts as|functions as|represents|boasts)\b", re.I)),
-    ("negative parallelism", re.compile(r"\b(not just|not only|rather than|isn't about|it's not .{1,40}, it's|less about)\b", re.I)),
+    ("negative parallelism", re.compile(r"\b(not just|not only|rather than|isn't about|it's not .{1,40}, it's|isn't .{1,40}, it's|is not .{1,40}, it's|less about)\b", re.I)),  # 18 Nov: the "isn't ..., it's ..." form too
     ("filler or hedging", re.compile(r"\b(in order to|it's important to|important to note|the thing is|at the end of the day|may potentially|kind of|sort of)\b", re.I)),
     ("signposting", re.compile(r"\b(let's dive|here's the thing|here's the kicker|buckle up|the secret is|spoiler)\b", re.I)),
     ("self-asked question", re.compile(r"\b(The (result|fix|answer|catch|truth|problem)\?)", re.I)),
