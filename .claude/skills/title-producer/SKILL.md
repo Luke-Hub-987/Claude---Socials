@@ -15,6 +15,9 @@ written first, checked in code, reviewed cold, and only then scripted.
 
 ## The run (do every step; don't show Luke a title that skipped one)
 
+### 0. Read the library
+`ideas/engine-room-nutrition/TITLE-EXAMPLES.md`: the other creators' titles and covers Luke has sent, what works across them, what we take and can't. If Luke sends a new example, save it to `research/title-examples/` and add a row there in the same turn, so he never sends it twice.
+
 ### 1. The levers before any words
 Write the five levers for the topic (`ideas/engine-room-nutrition/2026-11-16-premortem-psychology.md`):
 1. **The enemy outside the viewer:** the advice, the myth, the body, the tradition. Never their character or rank.

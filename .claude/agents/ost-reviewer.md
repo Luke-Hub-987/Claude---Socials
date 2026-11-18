@@ -16,6 +16,7 @@ test, and you say what would pass.
 2. `ideas/engine-room-nutrition/OST-SCORECARD.md`: the 10 tests, the
    must-passes and the scored rows (what Luke killed and why).
 3. `ideas/engine-room-nutrition/2026-11-16-premortem-psychology.md`: the five levers.
+3b. `ideas/engine-room-nutrition/TITLE-EXAMPLES.md`: what worked for other creators and why; judge each title against the best of them, not against our own past.
 4. Grep `ideas/` for each title's key nouns to find repeats of past titles,
    lines and payoffs (a title that repeats a payoff we've posted is a FAIL on
    test 7).
