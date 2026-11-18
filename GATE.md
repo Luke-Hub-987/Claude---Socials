@@ -319,6 +319,8 @@ of emails. Dublin km by km, sent to running partners: 1.8% shares.
 
 ---
 
+**From 18 Nov (P218, a repeat of P69):** the hook is 40 to 45 words, so stage 1 starts by about 0:15. **G21 from 18 Nov:** the caption is 2,200 characters or fewer, plan first (Instagram cuts the rest).
+
 ### G31 · The turn: what changed, before the method · BOTH
 **Test:** Before the first stage marker, one spoken line shows the moment
 something changed: what the viewer was doing wrong, or what they (or Luke)

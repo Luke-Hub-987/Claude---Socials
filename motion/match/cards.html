@@ -22,7 +22,8 @@ document.body.className=c==='title'?theme:'navy';
 const w=document.getElementById('w'); const fits=[];
 function line(html,cap,maxW){const d=document.createElement('div');d.className='l';d.innerHTML=html;w.appendChild(d);fits.push([d,cap,maxW]);return d}
 const TITLES={a:[['ORANGES <span class="hl">WON\'T</span> SAVE',210],['YOUR LEGS AT 75 MINS',300],['(SUNDAY LEAGUE)',200]],
-              b:[['SUNDAY LEAGUE LEGS,',210],['PREMIER LEAGUE <span class="hl">FUEL</span>',300],['(STILL FLYING AT 85)',200]]};
+              b:[['SUNDAY LEAGUE LEGS,',210],['PREMIER LEAGUE <span class="hl">FUEL</span>',300],['(STILL FLYING AT 85)',200]],
+              brain:[['YOUR BRAIN <span class="hl">QUITS</span> AT',210],['30K OF A MARATHON',300],['(IT\'S NOT WEAKNESS)',200]]};
 if(c==='title' && Q.get('t')){
   // 17 Nov, Luke's two titles for the trial reels; the bracket line is never smaller than the 4-hour card's (about 186px)
   TITLES[Q.get('t')].forEach(([h,cap])=>line(h,cap,1780));

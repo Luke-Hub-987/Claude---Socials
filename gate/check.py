@@ -320,7 +320,7 @@ def run(path):
     cta_idx = next((i for i, (k, t) in enumerate(items) if k == "para" and re.search(r"link in (?:the )?bio", t, re.I)), None)
     probs = []
     sixty = "60s" in str(fm.get("trial_format", ""))   # P208: the 60-second 3-item trial, trial reels only
-    lo, hi = (20, 30) if sixty else (40, 55)
+    lo, hi = (20, 30) if sixty else ((40, 45) if str(fm.get("generated_at", "")) >= "2026-11-18" else (40, 55))   # P218 (18 Nov): value by 0:15
     if not lo <= hook_words <= hi:
         probs.append(f"hook {hook_words} words ({lo} to {hi}, {'P208 trial' if sixty else 'P198'})")
     tlo, thi = (140, 190) if sixty else (280, 330)
@@ -384,6 +384,9 @@ def run(path):
         probs.append(f"worked example goal '{we or 'MISSING'}' isn't sub-4 or 3:45 to 4:00, and the caption doesn't carry every common goal (row 23)")
     if not cap or len(cap.strip()) < 100:
         probs.append("no caption carrying the full table")
+    elif str(fm.get("generated_at", "")) >= "2026-11-18" and len(cap.strip()) > 2200:
+        # Instagram cuts captions at 2,200 characters (the oranges caption lost its plan, 17 Nov)
+        probs.append(f"caption is {len(cap.strip())} characters (Instagram cuts at 2,200; plan first)")
     elif has_pace and "mile" not in cap.lower():
         probs.append("paces in the audio but no miles in the caption")
     add("G21", not probs, "; ".join(probs) or f"worked example {we}; caption has the table")
