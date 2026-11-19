@@ -7,7 +7,7 @@ images: motion/carousel-gut/instagram-4x5/slide-01..08.png (page motion/carousel
 titles: 2026-11-19-titles-carousel-watch.md (+ -review: killed, a repeat of 14 Oct, 18 Oct, 20 Oct, 6 Nov), 2026-11-19-titles-carousel-gut.md (+ -review)
 ---
 
-# 'GELS MAKE ME SICK' (struck through) / 60% LESS SICK IN 2 WEEKS / (BEFORE YOUR MARATHON)
+# 'MY STOMACH CAN'T TAKE GELS' (struck through) / 60% LESS SICK / IN 2 WEEKS / (YOUR MARATHON GEL PLAN)
 
 v2 after the second review (council, Ogilvy, scorecard), 8 slides. v1 cover and slide plan kept below the review for the record.
 
@@ -27,18 +27,18 @@ IG: 2,865 views, reach 1,362, saves 8 (0.6% of reach), shares 3, likes 30 (2.2%)
 ## The slides (v2)
 | # | Background | Text |
 |---|---|---|
-| 1 | Navy, yellow band, our runner hunched with an arm across his stomach | 'GELS MAKE ME SICK' struck through in red; **60% LESS SICK** (yellow) / **IN 2 WEEKS** / (BEFORE YOUR MARATHON); THE 2-WEEK PLAN IS INSIDE. SWIPE → |
-| 2 | White | WHAT CHANGED. NOT A NEW GEL. PRACTICE. 25 runners took carbs on every 1-hour run for 2 weeks. On a 2-hour run, their stomach problems fell by 60%. Source: the placebo group didn't change; Costa and others, Monash University, 2017 (they trained with 90g of carbs an hour). |
+| 1 | Navy, yellow band, our runner hunched with an arm across his stomach | 'MY STOMACH CAN'T TAKE GELS' struck through in red (the belief, not their symptom); **60% LESS SICK** (yellow) / **IN 2 WEEKS** / (YOUR MARATHON GEL PLAN); START ON YOUR NEXT RUN. SWIPE → |
+| 2 | White | WHAT CHANGED. CARBS ON EVERY 1-HOUR RUN. (1-HOUR RUN in blue; 1 Oct said long runs) 25 runners took carbs on every 1-hour run for 2 weeks. On a 2-hour run, their stomach problems fell by 60%. Source: the placebo group didn't change; Costa and others, Monash University, 2017 (they trained with 90g of carbs an hour). |
 | 3 | White | THE MISTAKE. WATER-ONLY LONG RUNS. GELS FOR THE FIRST TIME AT THE MARATHON. Your legs got 16 weeks of training. Your gut got none. |
 | 4 | Navy | AND IT GOT THEM FURTHER. IN A 1-HOUR RUN 11.7K → 12.3K. Breath tests showed about half as much of the sugar going unabsorbed. (Miall and others, 2018) |
 | 5 | Blue | YOUR 2-WEEK GUT PLAN (unchanged from v1 slide 6) |
 | 6 | White | SCREENSHOT THIS: your gels by run length (unchanged from v1 slide 7) |
 | 7 | Yellow | WHEN TO START (unchanged from v1 slide 8) |
-| 8 | Navy | SEND THIS TO THE FRIEND WHO SAYS 'GELS MAKE ME SICK'. Want your race-day gel clock for your goal time? Email us through the link in our bio and we'll send it free. FOLLOW @ENGINEROOMNUTRITION |
+| 8 | Navy | SEND THIS TO THE FRIEND WHOSE STOMACH 'CAN'T TAKE GELS'. Want your race-day gel clock for your goal time? Email us through the link in our bio and we'll send it free. FOLLOW @ENGINEROOMNUTRITION |
 
 ## Gate fields
-- Cover OST: 'GELS MAKE ME SICK'? / 2 WEEKS CUT IT 60% / (YOUR MARATHON GUT PLAN), SICK in red
-- OST score: 8/10 (the cold reviewer's, rewrite B; loses test 7: gut training is a repeat for us and a common video elsewhere). Under the 9 the scorecard asks for: Luke decides
+- Cover OST (v3, after the second cold review): 'MY STOMACH CAN'T TAKE GELS' (struck) / 60% LESS SICK / IN 2 WEEKS / (YOUR MARATHON GEL PLAN). v1 scored 5 and v2 ('GELS MAKE ME SICK' struck) 6 on the second cold review: striking their symptom made the viewer the target, and line 2 admitted it
+- OST score: 8/10 (the second cold reviewer's rewrite R, `2026-11-19-titles-carousel-gut-v2-review.md`; the most this topic can score: loses test 7: gut training is a repeat for us and a common video elsewhere). Under the 9 the scorecard asks for: Luke decides
 - Title checker: PASS on T1 to T11 and T13 (T12 phone size is for the reel title card; on this cover the lines are 110px on a 1080 slide, about 10vw)
 - Repeat line: Your legs got 16 weeks of training. Your gut got none.
 - Keep: slide 7, 1 gel (0:20) to 5 gels (last 2:20) by run length; slide 8, Valencia start Sun 22 Nov
@@ -57,7 +57,7 @@ IG: 2,865 views, reach 1,362, saves 8 (0.6% of reach), shares 3, likes 30 (2.2%)
 | 9 | Navy | SEND THIS TO WHOEVER YOU DO YOUR LONG RUNS WITH. Want your race-day gel clock for your goal time? Email us through the link in our bio and we'll send it free. FOLLOW @ENGINEROOMNUTRITION |
 
 ## Caption
-"Gels make me sick" is the line we hear most, and in one study 2 weeks of practice cut it by 60%.
+"My stomach can't take gels" is one of the lines we hear most, and in one study 2 weeks of practice cut stomach problems by 60%.
 
 25 endurance runners did a 2-hour run taking carbs, then trained for 2 weeks with carbs on every 1-hour run. On the repeat 2-hour run their stomach problems were 60% lower, and the placebo group didn't change (Costa and others, Monash University, 2017). Breath tests showed about half as much sugar going unabsorbed, and they ran further in a 1-hour test, 11.7K to 12.3K (Miall and others, 2018).
 
@@ -81,7 +81,7 @@ What does your stomach do on a long run with gels? Tell us the K it starts.
 | 30g at 20 minutes, then every 30; none in the last 20; 40g every 40; 20-25g every 20 | FACTS Fuel | Pass |
 | Gels by run length (1 to 5) | Our clock applied to each length | Pass |
 | Valencia 6 Dec, start 22 Nov | FACTS Valencia; 14 days before | Pass |
-| "Gels make me sick is the line we hear most" | FACTS email answers on gels (texture, sick of them) | Luke to OK ("most" is our inbox, not a count) |
+| "My stomach can't take gels is one of the lines we hear most" | FACTS email answers on gels (texture, sick of them, hacking it down) | Luke to OK (our inbox, not a count) |
 
 ## Humanizer
 | Check | Result |
@@ -129,3 +129,6 @@ Plus: slide 2 repeated the cover's 60% (ledger row 29: each layer says something
 - **Executor:** post it as the collab today, pin the comment, TikTok 3:4 from the same page. Judge at 24 hours on two numbers: saves at 1.5%+ of reach (the heavier carousel got 0.6%) and over 3 views a person (the heavier got about 2).
 - **Blind cross-review:** the Outsider's bracket and the Expansionist's send line change the most for the least; the Contrarian's caveat is already met by slides 2 and 5; the Assumption-ripper's point needs no change.
 - **Chairman verdict:** C2 with the Outsider's bracket and the Expansionist's send line. Slide 2 becomes the turn (NOT A NEW GEL. PRACTICE.), the old "what they did" slide goes, so it's 8 slides.
+
+### After the second cold review (v3)
+The council's v2 struck through 'GELS MAKE ME SICK': the reviewer scored it 6 and failed the enemy-outside must-pass (crossing out their real symptom makes the viewer the target; 60% LESS SICK then admits it). v3 strikes the belief ('MY STOMACH CAN'T TAKE GELS'), says GEL PLAN not GUT PLAN (a gut plan reads as a diet), swaps the band for START ON YOUR NEXT RUN (the old band repeated the bracket, row 29), and slide 2 leads on CARBS ON EVERY 1-HOUR RUN (the part 1 Oct didn't say; PRACTICE was its payoff). 8/10, the ceiling for a repeat topic (tests 6 and 7).

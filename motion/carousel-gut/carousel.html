@@ -75,12 +75,12 @@ function mix(a,b,p){const o={};for(const k in a)o[k]=lerp(a[k],b[k]!=null?b[k]:a
 
 const Q=new URLSearchParams(location.search), H=+Q.get('h')||1350, n=+Q.get('n')||1, N=8;
 document.body.style.height=H+'px';
-const TITLE=(Q.get('title')||"'GELS MAKE ME SICK' / 60% LESS SICK / IN 2 WEEKS / (BEFORE YOUR MARATHON)"), RED=(Q.get('red')||'60%');
+const TITLE=(Q.get('title')||"'MY STOMACH CAN'T TAKE GELS' / 60% LESS SICK / IN 2 WEEKS / (YOUR MARATHON GEL PLAN)"), RED=(Q.get('red')||'60%');
 const hl=(t)=>t.split(RED).join(`<span class="red">${RED}</span>`);
 const S={
 1:()=>{const L=TITLE.split(' / ');return {bg:'var(--navy)',logo:'white',cover:true,html:`
   <div style="position:absolute;left:70px;right:60px;top:0;height:${Math.round(H*.62)}px;display:flex;flex-direction:column;justify-content:center">
-   <div class="h" style="font-size:96px;color:rgba(255,255,255,.92);position:relative;align-self:flex-start">${L[0]}<span style="position:absolute;left:-8px;right:-8px;top:46%;height:14px;background:var(--red);transform:rotate(-2deg)"></span></div>
+   <div class="h" style="font-size:80px;color:rgba(255,255,255,.92);position:relative;align-self:flex-start">${L[0]}<span style="position:absolute;left:-8px;right:-8px;top:50%;height:8px;background:var(--red);opacity:.9;transform:rotate(-1.5deg)"></span></div>
    <div class="h" style="color:var(--yel);font-size:150px;margin-top:26px">${L[1]}</div>
    <div class="h" style="color:#fff;font-size:118px">${L[2]||''}</div>
    <div class="h" style="color:#fff;font-size:66px;margin-top:12px;opacity:.9">${L[3]||''}</div>
@@ -88,11 +88,11 @@ const S={
   <div style="position:absolute;left:0;right:0;bottom:0;height:${Math.round(H*.40)}px;background:var(--yel);clip-path:polygon(0 16%,100% 0,100% 100%,0 100%)"></div>
   <canvas id="cv" width="1080" height="${H}" style="position:absolute;left:0;top:0"></canvas>
   <div style="position:absolute;left:470px;right:60px;bottom:${Math.round(H*.12)}px">
-    <div class="h" style="font-size:80px;color:var(--navy)">THE 2-WEEK PLAN<br><span style="font-size:58px">IS INSIDE. SWIPE →</span></div>
+    <div class="h" style="font-size:80px;color:var(--navy)">START ON YOUR<br>NEXT RUN.<br><span style="font-size:58px">SWIPE →</span></div>
   </div>`}},
 2:()=>({bg:'var(--white)',html:`
   <span class="tag" style="background:var(--navy);color:#fff">WHAT CHANGED</span>
-  <div class="h" style="font-size:150px">NOT A NEW GEL.<br><span style="color:var(--blue)">PRACTICE.</span></div>
+  <div class="h" style="font-size:150px">CARBS ON EVERY<br><span style="color:var(--blue)">1-HOUR RUN.</span></div>
   <div class="p" style="margin-top:46px">25 runners took carbs on every 1-hour run for 2 weeks. On a 2-hour run, their stomach problems fell by 60%.</div>
   <div class="src">The placebo group didn't change. Costa and others, Monash University, 2017 (they trained with 90g of carbs an hour).</div>`}),
 3:()=>({bg:'var(--white)',html:`
@@ -134,7 +134,7 @@ const S={
    <tr><td>VALENCIA · 6 DEC</td><td class="r" style="color:var(--navy)">START SUN 22 NOV</td></tr>
    <tr><td>SPRING MARATHON</td><td class="r" style="color:var(--navy)">YOUR NEXT LONG RUN</td></tr></table>`}),
 8:()=>({bg:'var(--navy)',logo:'white',html:`
-  <div class="h" style="color:#fff;font-size:100px">SEND THIS TO<br>THE FRIEND WHO SAYS<br><span style="color:var(--yel)">'GELS MAKE<br>ME SICK'</span></div>
+  <div class="h" style="color:#fff;font-size:100px">SEND THIS TO<br>THE FRIEND WHOSE<br>STOMACH <span style="color:var(--yel)">'CAN'T<br>TAKE GELS'</span></div>
   <div class="p" style="color:#fff;margin-top:60px">Want your race-day gel clock for your goal time? Email us through the link in our bio and we'll send it free.</div>
   <div class="h src" style="color:var(--yel);font-size:60px;opacity:1">FOLLOW @ENGINEROOMNUTRITION</div>`}),
 };
