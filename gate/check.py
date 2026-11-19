@@ -227,8 +227,10 @@ def run(path):
         m = re.search(r"(\d+)\s*/\s*10", f.get("ost score", ""))
         if not m:
             probs.append("no 'OST score: N/10' in the Gate fields (OST-SCORECARD.md, P210)")
+        elif int(m.group(1)) < 9 and fm.get("ost_score_ok_by_luke"):
+            res.append(("G10", "INFO", f"OST scores {m.group(1)}/10: Luke's call ({fm.get('ost_score_ok_by_luke')})"))
         elif int(m.group(1)) < 9:
-            probs.append(f"OST scores {m.group(1)}/10 (9 to show Luke, P210)")
+            probs.append(f"OST scores {m.group(1)}/10 (9 to show Luke, P210; or Luke's yes in `ost_score_ok_by_luke:`)")
     for mk in markers:
         if len(mk) > 22:
             probs.append(f"marker '{mk}' is {len(mk)} characters")

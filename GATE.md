@@ -198,6 +198,8 @@ words (hacks, cheat code, maxxing, like you're 10), no dated words. Markers
 
 **From 13 Nov (P210, Luke):** the Gate fields carry `OST score: N/10` from `ideas/engine-room-nutrition/OST-SCORECARD.md`; under 9 fails.
 
+**Luke's call (19 Nov):** a title under 9 that Luke has seen with its score and said yes to carries `ost_score_ok_by_luke:` in the front matter, and G10 reports it instead of failing (the Valencia reel: 7/10, the reviewer's ceiling for a course title).
+
 ### G11 · "In what?", and two of five · REVIEWER
 **Test:** Read cold, the title names the race, event or object in words
 people already say, and a non-runner gets it in one read. It carries at
