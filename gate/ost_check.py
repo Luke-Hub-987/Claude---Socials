@@ -124,7 +124,7 @@ def check(title, red=None, stranger=None, luke_said=None, hook=None, render=True
     bad = []
     for m in re.finditer(r"(?<![\w:£])(\d+(?:\.\d+)?)(?![\d:])", body):
         after = body[m.end():]
-        if re.match(UNIT_AFTER + r"\b", after) or re.match(r"'", after):
+        if re.match(UNIT_AFTER + r"\b", after) or re.match(r"'|%", after):  # % is a unit; "60% of what?" goes in the stranger line
             continue
         nxt = re.match(r"\s+([A-Z'\-]+)", after)
         prev = body[:m.start()].rstrip().split(" ")[-1] if body[:m.start()].strip() else ""

@@ -1,0 +1,98 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Gut carousel</title>
+<!-- Gut-training carousel (19 Nov). ?n=1..9, ?h=1350 (Instagram 4:5) or 1440 (TikTok 3:4). Engine Room colours, one message a slide. -->
+<style>
+@font-face{font-family:'BC';font-weight:800;src:url(../fonts/BarlowCondensed-800-normal.woff2) format('woff2')}
+@font-face{font-family:'BC';font-weight:700;src:url(../fonts/BarlowCondensed-700-normal.woff2) format('woff2')}
+@font-face{font-family:'B';font-weight:700;src:url(../fonts/Barlow-700-normal.woff2) format('woff2')}
+@font-face{font-family:'B';font-weight:600;src:url(../fonts/Barlow-600-normal.woff2) format('woff2')}
+:root{--navy:#0c1828;--yel:#f5b52e;--blue:#1f7ae0;--red:#d9473f;--white:#ffffff;--paper:#f4efe6;--grey:#5b6474}
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;overflow:hidden;position:relative;font-family:'B',Arial,sans-serif;color:var(--navy)}
+.slide{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;padding:150px 80px 170px}
+.h{font-family:'BC';font-weight:800;line-height:.95;letter-spacing:-.5px;text-transform:uppercase}
+.p{font-weight:600;font-size:48px;line-height:1.28}
+.src{position:absolute;left:80px;right:80px;bottom:120px;font-weight:600;font-size:30px;line-height:1.3;opacity:.85}
+.small{font-weight:600;font-size:30px;line-height:1.3;opacity:.8}
+.red{background:var(--red);color:#fff;padding:0 14px;border-radius:10px;display:inline-block;line-height:1.02}
+.tag{position:absolute;top:84px;left:80px;font-family:'BC';font-weight:800;font-size:40px;letter-spacing:3px;text-transform:uppercase;display:inline-block;padding:6px 18px;border-radius:8px}
+.logo{position:absolute;right:56px;bottom:46px;height:58px}
+.n{position:absolute;left:80px;bottom:56px;font-family:'BC';font-weight:700;font-size:32px;letter-spacing:2px;opacity:.6}
+table{border-collapse:collapse;width:100%}
+td{font-family:'BC';font-weight:800;font-size:54px;padding:16px 0;border-bottom:4px solid rgba(12,24,40,.15)}
+td.r{text-align:right;color:var(--blue)}
+.gel{display:inline-block;width:64px;height:110px;background:var(--yel);border-radius:12px;position:relative;margin-right:18px;vertical-align:middle}
+.gel:before{content:'';position:absolute;left:10px;right:10px;top:-22px;height:24px;background:#d99a12;clip-path:polygon(0 100%,30% 0,70% 0,100% 100%)}
+</style></head><body><div id="root"></div>
+<img class="logo" id="logo" src="../brand/ern-logo.png">
+<script>
+const Q=new URLSearchParams(location.search), H=+Q.get('h')||1350, n=+Q.get('n')||1, N=9;
+document.body.style.height=H+'px';
+const TITLE=(Q.get('title')||"'GELS MAKE ME SICK'? / 2 WEEKS CUT IT 60% / (YOUR MARATHON GUT PLAN)"), RED=(Q.get('red')||'SICK');
+const hl=(t)=>t.split(RED).join(`<span class="red">${RED}</span>`);
+const S={
+1:()=>{const L=TITLE.split(' / ');return {bg:'var(--navy)',logo:'white',html:`
+  <div style="position:absolute;left:70px;right:60px;top:0;height:${Math.round(H*.62)}px;display:flex;flex-direction:column;justify-content:center">
+   ${L.map((l,i)=>`<div class="h" style="color:#fff;font-size:${l.startsWith('(')?78:110}px;margin-top:${i?6:0}px">${hl(l)}</div>`).join('')}
+  </div>
+  <div style="position:absolute;left:0;right:0;bottom:0;height:${Math.round(H*.34)}px;background:var(--yel);clip-path:polygon(0 18%,100% 0,100% 100%,0 100%)"></div>
+  <div style="position:absolute;left:80px;bottom:${Math.round(H*.09)}px;display:flex;align-items:center">
+    <div class="h" style="font-size:104px;color:var(--navy)">THE 2-WEEK PLAN<br><span style="font-size:64px">IS INSIDE. SWIPE →</span></div>
+  </div>`}},
+2:()=>({bg:'var(--yel)',html:`
+  <span class="tag" style="background:var(--navy);color:#fff;align-self:flex-start">THE RESEARCH</span>
+  <div class="h" style="font-size:330px">60%</div>
+  <div class="h" style="font-size:86px;margin-top:6px">FEWER STOMACH PROBLEMS<br>ON A 2-HOUR RUN</div>
+  <div class="p" style="margin-top:44px">after just 2 weeks of taking carbs on every run.</div>
+  <div class="src">25 endurance runners trained with 90g of carbs an hour, then ran 2 hours (Costa and others, Monash University, 2017). The placebo group didn't change.</div>`}),
+3:()=>({bg:'var(--white)',html:`
+  <span class="tag" style="background:var(--yel);color:var(--navy);align-self:flex-start">WHAT THEY DID</span>
+  <div class="h" style="font-size:120px">2 WEEKS.<br>1-HOUR RUNS.<br><span style="color:var(--blue)">CARBS EVERY<br>20 MINUTES.</span></div>
+  <div class="p" style="margin-top:50px">That's all it took. Your gut adapts to what you practise, just like your legs.</div>`}),
+4:()=>({bg:'var(--navy)',logo:'white',html:`
+  <span class="tag" style="background:var(--yel);color:var(--navy);align-self:flex-start">AND IT GOT THEM FURTHER</span>
+  <div class="h" style="color:#fff;font-size:100px">IN A 1-HOUR RUN</div>
+  <div style="display:flex;align-items:baseline;gap:40px;margin-top:40px">
+    <div class="h" style="color:rgba(255,255,255,.45);font-size:190px">11.7K</div>
+    <div class="h" style="color:var(--yel);font-size:120px">→</div>
+    <div class="h" style="color:var(--yel);font-size:190px">12.3K</div></div>
+  <div class="p" style="color:#fff;margin-top:50px">Breath tests showed about half as much of the sugar going unabsorbed.</div>
+  <div class="src" style="color:#fff">Miall and others, 2018.</div>`}),
+5:()=>({bg:'var(--white)',html:`
+  <span class="tag" style="background:var(--red);color:#fff;align-self:flex-start">THE MISTAKE</span>
+  <div class="h" style="font-size:118px">WATER-ONLY<br>LONG RUNS.<br><span style="color:var(--red)">GELS FOR THE<br>FIRST TIME AT<br>THE MARATHON.</span></div>
+  <div class="p" style="margin-top:46px">Your legs got 16 weeks of training. Your gut got none.</div>`}),
+6:()=>({bg:'var(--blue)',logo:'white',html:`
+  <span class="tag" style="background:#fff;color:var(--blue);align-self:flex-start">YOUR 2-WEEK GUT PLAN</span>
+  <div class="h" style="color:#fff;font-size:104px">EVERY RUN OF<br>AN HOUR OR MORE:</div>
+  <div class="p" style="color:#fff;font-size:50px;margin-top:40px;line-height:1.45">
+   <b style="color:var(--yel)">1.</b> A 30g gel at 20 minutes, then every 30 (your race clock).<br>
+   <b style="color:var(--yel)">2.</b> The same gel you'll race with.<br>
+   <b style="color:var(--yel)">3.</b> A few sips of water with each one.</div>
+  <div class="src" style="color:#fff">The study used 90g an hour. Your race clock is 60g an hour, so practise that.</div>`}),
+7:()=>({bg:'var(--white)',html:`
+  <span class="tag" style="background:var(--navy);color:#fff;align-self:flex-start">SCREENSHOT THIS</span>
+  <div class="h" style="font-size:80px">YOUR GELS, BY RUN LENGTH</div>
+  <div class="p" style="font-size:40px;margin-top:14px">30g gels at 0:20, then every 30 minutes. None in the last 20 minutes.</div>
+  <table style="margin-top:24px">
+   <tr><td>1 HOUR</td><td class="r">1 GEL · 0:20</td></tr>
+   <tr><td>90 MINS</td><td class="r">2 GELS · LAST 0:50</td></tr>
+   <tr><td>2 HOURS</td><td class="r">3 GELS · LAST 1:20</td></tr>
+   <tr><td>2½ HOURS</td><td class="r">4 GELS · LAST 1:50</td></tr>
+   <tr><td>3 HOURS</td><td class="r">5 GELS · LAST 2:20</td></tr></table>
+  <div class="src">40g gels: every 40 minutes. 20 to 25g gels: every 20. Same clock on race day.</div>`}),
+8:()=>({bg:'var(--yel)',html:`
+  <span class="tag" style="background:var(--navy);color:#fff;align-self:flex-start">WHEN TO START</span>
+  <div class="h" style="font-size:112px">2 WEEKS BEFORE<br>YOUR MARATHON,<br>AT THE LATEST.</div>
+  <table style="margin-top:46px">
+   <tr><td>VALENCIA · 6 DEC</td><td class="r" style="color:var(--navy)">START SUN 22 NOV</td></tr>
+   <tr><td>SPRING MARATHON</td><td class="r" style="color:var(--navy)">YOUR NEXT LONG RUN</td></tr></table>`}),
+9:()=>({bg:'var(--navy)',logo:'white',html:`
+  <div class="h" style="color:#fff;font-size:118px">SEND THIS TO<br>WHOEVER YOU DO<br><span style="color:var(--yel)">YOUR LONG RUNS</span><br>WITH.</div>
+  <div class="p" style="color:#fff;margin-top:60px">Want your race-day gel clock for your goal time? Email us through the link in our bio and we'll send it free.</div>
+  <div class="h src" style="color:var(--yel);font-size:60px;opacity:1">FOLLOW @ENGINEROOMNUTRITION</div>`}),
+};
+const s=S[n](); document.body.style.background=s.bg;
+document.getElementById('root').innerHTML=`<div class="slide" style="background:${s.bg};height:${H}px">${s.html}</div><div class="n" style="color:${s.logo?'#fff':'var(--navy)'}">${n} / ${N}</div>`;
+if(s.logo==='white') document.getElementById('logo').src='../brand/ern-logo-white.png';
+document.fonts.ready.then(()=>{document.title='ready'});
+</script></body></html>
