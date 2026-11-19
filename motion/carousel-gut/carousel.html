@@ -86,8 +86,8 @@ const S={
    <div class="h" style="color:#fff;font-size:66px;margin-top:12px;opacity:.9">${L[3]||''}</div>
   </div>
   <div style="position:absolute;left:0;right:0;bottom:0;height:${Math.round(H*.40)}px;background:var(--yel);clip-path:polygon(0 16%,100% 0,100% 100%,0 100%)"></div>
-  <canvas id="cv" width="1080" height="${H}" style="position:absolute;left:0;top:0"></canvas>
-  <div style="position:absolute;left:470px;right:60px;bottom:${Math.round(H*.12)}px">
+  ${Q.get('photo')==='0'?`<canvas id="cv" width="1080" height="${H}" style="position:absolute;left:0;top:0"></canvas>`:`<img src="photos/summit-flex-cutout.png" style="position:absolute;right:36px;bottom:0;height:${Math.round(H*.52)}px;filter:drop-shadow(0 0 0 #fff) drop-shadow(10px 14px 0 rgba(12,24,40,.35))">`}
+  <div style="position:absolute;left:70px;width:520px;bottom:${Math.round(H*.10)}px">
     <div class="h" style="font-size:80px;color:var(--navy)">START ON YOUR<br>NEXT RUN.<br><span style="font-size:58px">SWIPE →</span></div>
   </div>`}},
 2:()=>({bg:'var(--white)',html:`
@@ -142,11 +142,12 @@ const s=S[n]();
  document.body.style.background=s.bg;
 document.getElementById('root').innerHTML=`<div class="slide" style="background:${s.bg};height:${H}px">${s.html}</div><div class="n" style="color:${s.logo?'#fff':'var(--navy)'}">${n} / ${N}</div>`;
 if(s.logo==='white') document.getElementById('logo').src='../brand/ern-logo-white.png';
-if(s.cover){c=document.getElementById('cv').getContext('2d');
+if(s.cover){const lg=document.getElementById('logo');lg.style.bottom='auto';lg.style.top='48px';}
+if(s.cover&&document.getElementById('cv')){c=document.getElementById('cv').getContext('2d');
   const p=person({x:270,g:H-60,s:2.9,f:1,look:{top:'#1f7ae0',shorts:'#1a2433',skin:SKIN[0],hair:HAIR[1],shoe:'#ffffff',bib:true},
     pose:{hipN:8,hipF:-10,kneeN:-6,kneeF:-12,shN:-14,elN:122,shF:-10,elF:120,lean:22,head:20,lift:0}});
   const h=p.handN; c.strokeStyle='#0c1828';c.lineWidth=7;c.lineCap='round';
   [[0,-1],[1,0],[0,1]].forEach(([a,b],i)=>{c.beginPath();c.arc(h.x+44,h.y+b*34,22+i*4,-0.7,0.7);c.stroke();});
 }
-document.fonts.ready.then(()=>{document.title='ready'});
+Promise.all([document.fonts.ready,...[...document.images].map(i=>i.complete?1:new Promise(r=>{i.onload=i.onerror=r}))]).then(()=>{document.title='ready'});
 </script></body></html>

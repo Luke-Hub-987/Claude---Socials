@@ -27,7 +27,7 @@ IG: 2,865 views, reach 1,362, saves 8 (0.6% of reach), shares 3, likes 30 (2.2%)
 ## The slides (v2)
 | # | Background | Text |
 |---|---|---|
-| 1 | Navy, yellow band, our runner hunched with an arm across his stomach | 'MY STOMACH CAN'T TAKE GELS' struck through in red (the belief, not their symptom); **60% LESS SICK** (yellow) / **IN 2 WEEKS** / (YOUR MARATHON GEL PLAN); START ON YOUR NEXT RUN. SWIPE → |
+| 1 | Navy, yellow band, the summit flex photo cut out (motion/carousel-gut/photos/summit-flex-cutout.png; Luke 19 Nov chose a photo of him or Jamie, like the template carousels; the drawn runner stays as ?photo=0) | 'MY STOMACH CAN'T TAKE GELS' struck through in red (the belief, not their symptom); **60% LESS SICK** (yellow) / **IN 2 WEEKS** / (YOUR MARATHON GEL PLAN); START ON YOUR NEXT RUN. SWIPE → |
 | 2 | White | WHAT CHANGED. CARBS ON EVERY 1-HOUR RUN. (1-HOUR RUN in blue; 1 Oct said long runs) 25 runners took carbs on every 1-hour run for 2 weeks. On a 2-hour run, their stomach problems fell by 60%. Source: the placebo group didn't change; Costa and others, Monash University, 2017 (they trained with 90g of carbs an hour). |
 | 3 | White | THE MISTAKE. WATER-ONLY LONG RUNS. GELS FOR THE FIRST TIME AT THE MARATHON. Your legs got 16 weeks of training. Your gut got none. |
 | 4 | Navy | AND IT GOT THEM FURTHER. IN A 1-HOUR RUN 11.7K → 12.3K. Breath tests showed about half as much of the sugar going unabsorbed. (Miall and others, 2018) |
@@ -132,3 +132,6 @@ Plus: slide 2 repeated the cover's 60% (ledger row 29: each layer says something
 
 ### After the second cold review (v3)
 The council's v2 struck through 'GELS MAKE ME SICK': the reviewer scored it 6 and failed the enemy-outside must-pass (crossing out their real symptom makes the viewer the target; 60% LESS SICK then admits it). v3 strikes the belief ('MY STOMACH CAN'T TAKE GELS'), says GEL PLAN not GUT PLAN (a gut plan reads as a diet), swaps the band for START ON YOUR NEXT RUN (the old band repeated the bracket, row 29), and slide 2 leads on CARBS ON EVERY 1-HOUR RUN (the part 1 Oct didn't say; PRACTICE was its payoff). 8/10, the ceiling for a repeat topic (tests 6 and 7).
+
+### Cover photo (Luke 19 Nov: a person on the front, like the colourful template carousels)
+Of the 3 photos: the summit flex (one person, full body, arms up, red and blue against our navy and yellow, eyes on the lens; the flex is the 'after' to the struck belief) beats the Dublin pub photo (pints on a stomach carousel, Guinness and race branding, a stranger behind) and the two-person summit (small in the frame, grey sky). Cut out with rembg, standing on the yellow band and breaking into the navy. To check: the cap logo, and the trekking-pole tips at the hip.
