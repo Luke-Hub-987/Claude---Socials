@@ -25,29 +25,80 @@ td.r{text-align:right;color:var(--blue)}
 </style></head><body><div id="root"></div>
 <img class="logo" id="logo" src="../brand/ern-logo.png">
 <script>
-const Q=new URLSearchParams(location.search), H=+Q.get('h')||1350, n=+Q.get('n')||1, N=9;
+const D=Math.PI/180; const clamp=(x,a=0,b=1)=>Math.max(a,Math.min(b,x)); const lerp=(a,b,p)=>a+(b-a)*p;
+function rng(seed){return function(){seed|=0;seed=seed+0x6D2B79F5|0;let t=Math.imul(seed^seed>>>15,1|seed);t=t+Math.imul(t^t>>>7,61|t)^t;return((t^t>>>14)>>>0)/4294967296}}
+function shade(hex,k){const n=parseInt(hex.slice(1),16);const f=v=>Math.round(clamp(v*(1-k),0,255));return `rgb(${f(n>>16&255)},${f(n>>8&255)},${f(n&255)})`}
+const css=()=>'#1f7ae0';
+let c=null;
+const SKIN=['#f1c7a3','#d8a07a','#a86f4c','#7a4a2e','#f3d2b8','#c98b62']; const HAIR=['#2a1d15','#6b4528','#c99a5b','#1a1a1a','#8a3b1f','#d9c3a0'];
+function seg(x1,y1,x2,y2,w,col){c.strokeStyle=col;c.lineWidth=w;c.beginPath();c.moveTo(x1,y1);c.lineTo(x2,y2);c.stroke()}
+function leg(hx,hy,a,k){const kx=hx+44*Math.sin(a*D),ky=hy+44*Math.cos(a*D),s=a+k,ax=kx+44*Math.sin(s*D),ay=ky+44*Math.cos(s*D),f=s+90;
+  return{kx,ky,ax,ay,fx:ax+15*Math.sin(f*D),fy:ay+15*Math.cos(f*D)}}
+function arm(sx,sy,a,e){const ex=sx+32*Math.sin(a*D),ey=sy+32*Math.cos(a*D),b=a+e;return{ex,ey,hx:ex+30*Math.sin(b*D),hy:ey+30*Math.cos(b*D)}}
+/* o: x, g (ground y), s (scale), f (1 faces right, -1 left), look, pose, plus colours; returns hand positions in screen space */
+function person(o){
+  const p=Object.assign({hipN:0,hipF:0,kneeN:0,kneeF:0,shN:6,shF:-6,elN:12,elF:12,lean:2,head:0,lift:0},o.pose||{});
+  const L=Object.assign({top:'#8aa0b8',shorts:'#2c3a4d',skin:SKIN[1],hair:HAIR[0],shoe:'#ffffff'},o.look||{});
+  c.save();c.translate(o.x,o.g);c.scale((o.f||1)*o.s,o.s);c.lineCap='round';c.lineJoin='round';
+  if(o.alpha!=null)c.globalAlpha=o.alpha;
+  const lN=leg(0,0,p.hipN,p.kneeN),lF=leg(0,0,p.hipF,p.kneeF);
+  const hipY=-(Math.max(lN.ay,lF.ay,lN.fy,lF.fy)+7)-p.lift;
+  const T=64,lx=Math.sin(p.lean*D),ly=-Math.cos(p.lean*D);
+  const sx=(T-8)*lx,sy=hipY+(T-8)*ly,nx=T*lx,ny=hipY+T*ly;
+  const hd=p.lean+p.head,hx=nx+19*Math.sin(hd*D),hy=ny-19*Math.cos(hd*D);
+  const aN=arm(sx,sy,p.shN,p.elN),aF=arm(sx,sy,p.shF,p.elF);
+  const drawLeg=(l,a,far)=>{const sk=far?shade(L.skin,.12):L.skin,sh=far?shade(L.shorts,.15):L.shorts;
+    seg(0,hipY,l.kx,l.ky+hipY,19,sk);seg(l.kx,l.ky+hipY,l.ax,l.ay+hipY,16,sk);
+    seg(0,hipY,l.kx*.55,l.ky*.55+hipY,25,sh);seg(l.ax,l.ay+hipY,l.fx,l.fy+hipY,14,far?shade(L.shoe,.12):L.shoe)};
+  const drawArm=(a,far)=>{const sk=far?shade(L.skin,.12):L.skin;seg(sx,sy,a.ex,a.ey,13,sk);seg(a.ex,a.ey,a.hx,a.hy,12,sk);
+    seg(sx,sy,lerp(sx,a.ex,.45),lerp(sy,a.ey,.45),17,far?shade(L.top,.15):L.top)};
+  drawArm(aF,true);drawLeg(lF,0,true);
+  seg(0,hipY-4,sx,sy,40,L.top);
+  if(L.bib){c.save();c.translate(lerp(0,sx,.45),lerp(hipY,sy,.45));c.rotate(p.lean*D);c.fillStyle='#fff';c.fillRect(4,-15,17,30);c.fillStyle=css('blue');c.fillRect(4,-15,17,7);c.restore()}
+  if(L.name){c.save();c.translate(lerp(0,sx,.32)+6*lx,lerp(hipY,sy,.32));c.rotate(p.lean*D);c.fillStyle='#0b0b0b';c.font='italic 800 21px Barlow';c.textAlign='center';c.textBaseline='middle';c.fillText(L.name,6,0);c.restore()}
+  drawLeg(lN,0,false);
+  if(o.prop==='sign'&&o.sign){} // signs are drawn by the caller at the hands
+  drawArm(aN,false);
+  c.fillStyle=L.skin;c.beginPath();c.arc(hx,hy,17,0,7);c.fill();
+  c.fillStyle=L.hair;c.beginPath();c.arc(hx,hy,18,Math.PI*.92+hd*D,Math.PI*1.9+hd*D);c.closePath();c.fill();
+  c.fillStyle='#1a1410';c.beginPath();c.arc(hx+9*Math.cos(hd*D)+3*Math.sin(hd*D),hy+3*Math.cos(hd*D)+9*Math.sin(hd*D)-2,2.6,0,7);c.fill();
+  if(L.pony){c.beginPath();c.arc(hx-14*Math.cos(hd*D),hy+2,7,0,7);c.fill()}
+  if(L.cap){c.fillStyle=L.cap;c.beginPath();c.arc(hx,hy,16.5,Math.PI*1.0+hd*D,Math.PI*2.0+hd*D);c.fill();seg(hx+4,hy-3,hx+24,hy-1,5,L.cap)}
+  c.restore();
+  const tf=(x,y)=>({x:o.x+(o.f||1)*o.s*x,y:o.g+o.s*y});
+  return{handN:tf(aN.hx,aN.hy),handF:tf(aF.hx,aF.hy),head:tf(hx,hy),chest:tf(lerp(0,sx,.5),lerp(hipY,sy,.5))}}
+function run(ph,amp=1,lean=9){const a=ph*Math.PI*2;return{hipN:32*amp*Math.sin(a),hipF:32*amp*Math.sin(a+Math.PI),
+  kneeN:-(10+85*amp*Math.max(0,Math.cos(a))),kneeF:-(10+85*amp*Math.max(0,Math.cos(a+Math.PI))),
+  shN:-30*amp*Math.sin(a),shF:30*amp*Math.sin(a),elN:88,elF:88,lean,lift:7*amp*Math.abs(Math.cos(a))}}
+function mix(a,b,p){const o={};for(const k in a)o[k]=lerp(a[k],b[k]!=null?b[k]:a[k],p);return o}
+
+
+const Q=new URLSearchParams(location.search), H=+Q.get('h')||1350, n=+Q.get('n')||1, N=8;
 document.body.style.height=H+'px';
-const TITLE=(Q.get('title')||"'GELS MAKE ME SICK'? / 2 WEEKS CUT IT 60% / (YOUR MARATHON GUT PLAN)"), RED=(Q.get('red')||'SICK');
+const TITLE=(Q.get('title')||"'GELS MAKE ME SICK' / 60% LESS SICK / IN 2 WEEKS / (BEFORE YOUR MARATHON)"), RED=(Q.get('red')||'60%');
 const hl=(t)=>t.split(RED).join(`<span class="red">${RED}</span>`);
 const S={
-1:()=>{const L=TITLE.split(' / ');return {bg:'var(--navy)',logo:'white',html:`
+1:()=>{const L=TITLE.split(' / ');return {bg:'var(--navy)',logo:'white',cover:true,html:`
   <div style="position:absolute;left:70px;right:60px;top:0;height:${Math.round(H*.62)}px;display:flex;flex-direction:column;justify-content:center">
-   ${L.map((l,i)=>`<div class="h" style="color:#fff;font-size:${l.startsWith('(')?78:110}px;margin-top:${i?6:0}px">${hl(l)}</div>`).join('')}
+   <div class="h" style="font-size:96px;color:rgba(255,255,255,.92);position:relative;align-self:flex-start">${L[0]}<span style="position:absolute;left:-8px;right:-8px;top:46%;height:14px;background:var(--red);transform:rotate(-2deg)"></span></div>
+   <div class="h" style="color:var(--yel);font-size:150px;margin-top:26px">${L[1]}</div>
+   <div class="h" style="color:#fff;font-size:118px">${L[2]||''}</div>
+   <div class="h" style="color:#fff;font-size:66px;margin-top:12px;opacity:.9">${L[3]||''}</div>
   </div>
-  <div style="position:absolute;left:0;right:0;bottom:0;height:${Math.round(H*.34)}px;background:var(--yel);clip-path:polygon(0 18%,100% 0,100% 100%,0 100%)"></div>
-  <div style="position:absolute;left:80px;bottom:${Math.round(H*.09)}px;display:flex;align-items:center">
-    <div class="h" style="font-size:104px;color:var(--navy)">THE 2-WEEK PLAN<br><span style="font-size:64px">IS INSIDE. SWIPE →</span></div>
+  <div style="position:absolute;left:0;right:0;bottom:0;height:${Math.round(H*.40)}px;background:var(--yel);clip-path:polygon(0 16%,100% 0,100% 100%,0 100%)"></div>
+  <canvas id="cv" width="1080" height="${H}" style="position:absolute;left:0;top:0"></canvas>
+  <div style="position:absolute;left:470px;right:60px;bottom:${Math.round(H*.12)}px">
+    <div class="h" style="font-size:80px;color:var(--navy)">THE 2-WEEK PLAN<br><span style="font-size:58px">IS INSIDE. SWIPE →</span></div>
   </div>`}},
-2:()=>({bg:'var(--yel)',html:`
-  <span class="tag" style="background:var(--navy);color:#fff;align-self:flex-start">THE RESEARCH</span>
-  <div class="h" style="font-size:330px">60%</div>
-  <div class="h" style="font-size:86px;margin-top:6px">FEWER STOMACH PROBLEMS<br>ON A 2-HOUR RUN</div>
-  <div class="p" style="margin-top:44px">after just 2 weeks of taking carbs on every run.</div>
-  <div class="src">25 endurance runners trained with 90g of carbs an hour, then ran 2 hours (Costa and others, Monash University, 2017). The placebo group didn't change.</div>`}),
+2:()=>({bg:'var(--white)',html:`
+  <span class="tag" style="background:var(--navy);color:#fff">WHAT CHANGED</span>
+  <div class="h" style="font-size:150px">NOT A NEW GEL.<br><span style="color:var(--blue)">PRACTICE.</span></div>
+  <div class="p" style="margin-top:46px">25 runners took carbs on every 1-hour run for 2 weeks. On a 2-hour run, their stomach problems fell by 60%.</div>
+  <div class="src">The placebo group didn't change. Costa and others, Monash University, 2017 (they trained with 90g of carbs an hour).</div>`}),
 3:()=>({bg:'var(--white)',html:`
-  <span class="tag" style="background:var(--yel);color:var(--navy);align-self:flex-start">WHAT THEY DID</span>
-  <div class="h" style="font-size:120px">2 WEEKS.<br>1-HOUR RUNS.<br><span style="color:var(--blue)">CARBS EVERY<br>20 MINUTES.</span></div>
-  <div class="p" style="margin-top:50px">That's all it took. Your gut adapts to what you practise, just like your legs.</div>`}),
+  <span class="tag" style="background:var(--red);color:#fff;align-self:flex-start">THE MISTAKE</span>
+  <div class="h" style="font-size:118px">WATER-ONLY<br>LONG RUNS.<br><span style="color:var(--red)">GELS FOR THE<br>FIRST TIME AT<br>THE MARATHON.</span></div>
+  <div class="p" style="margin-top:46px">Your legs got 16 weeks of training. Your gut got none.</div>`}),
 4:()=>({bg:'var(--navy)',logo:'white',html:`
   <span class="tag" style="background:var(--yel);color:var(--navy);align-self:flex-start">AND IT GOT THEM FURTHER</span>
   <div class="h" style="color:#fff;font-size:100px">IN A 1-HOUR RUN</div>
@@ -57,11 +108,7 @@ const S={
     <div class="h" style="color:var(--yel);font-size:190px">12.3K</div></div>
   <div class="p" style="color:#fff;margin-top:50px">Breath tests showed about half as much of the sugar going unabsorbed.</div>
   <div class="src" style="color:#fff">Miall and others, 2018.</div>`}),
-5:()=>({bg:'var(--white)',html:`
-  <span class="tag" style="background:var(--red);color:#fff;align-self:flex-start">THE MISTAKE</span>
-  <div class="h" style="font-size:118px">WATER-ONLY<br>LONG RUNS.<br><span style="color:var(--red)">GELS FOR THE<br>FIRST TIME AT<br>THE MARATHON.</span></div>
-  <div class="p" style="margin-top:46px">Your legs got 16 weeks of training. Your gut got none.</div>`}),
-6:()=>({bg:'var(--blue)',logo:'white',html:`
+5:()=>({bg:'var(--blue)',logo:'white',html:`
   <span class="tag" style="background:#fff;color:var(--blue);align-self:flex-start">YOUR 2-WEEK GUT PLAN</span>
   <div class="h" style="color:#fff;font-size:104px">EVERY RUN OF<br>AN HOUR OR MORE:</div>
   <div class="p" style="color:#fff;font-size:50px;margin-top:40px;line-height:1.45">
@@ -69,7 +116,7 @@ const S={
    <b style="color:var(--yel)">2.</b> The same gel you'll race with.<br>
    <b style="color:var(--yel)">3.</b> A few sips of water with each one.</div>
   <div class="src" style="color:#fff">The study used 90g an hour. Your race clock is 60g an hour, so practise that.</div>`}),
-7:()=>({bg:'var(--white)',html:`
+6:()=>({bg:'var(--white)',html:`
   <span class="tag" style="background:var(--navy);color:#fff;align-self:flex-start">SCREENSHOT THIS</span>
   <div class="h" style="font-size:80px">YOUR GELS, BY RUN LENGTH</div>
   <div class="p" style="font-size:40px;margin-top:14px">30g gels at 0:20, then every 30 minutes. None in the last 20 minutes.</div>
@@ -80,19 +127,26 @@ const S={
    <tr><td>2½ HOURS</td><td class="r">4 GELS · LAST 1:50</td></tr>
    <tr><td>3 HOURS</td><td class="r">5 GELS · LAST 2:20</td></tr></table>
   <div class="src">40g gels: every 40 minutes. 20 to 25g gels: every 20. Same clock on race day.</div>`}),
-8:()=>({bg:'var(--yel)',html:`
+7:()=>({bg:'var(--yel)',html:`
   <span class="tag" style="background:var(--navy);color:#fff;align-self:flex-start">WHEN TO START</span>
   <div class="h" style="font-size:112px">2 WEEKS BEFORE<br>YOUR MARATHON,<br>AT THE LATEST.</div>
   <table style="margin-top:46px">
    <tr><td>VALENCIA · 6 DEC</td><td class="r" style="color:var(--navy)">START SUN 22 NOV</td></tr>
    <tr><td>SPRING MARATHON</td><td class="r" style="color:var(--navy)">YOUR NEXT LONG RUN</td></tr></table>`}),
-9:()=>({bg:'var(--navy)',logo:'white',html:`
-  <div class="h" style="color:#fff;font-size:118px">SEND THIS TO<br>WHOEVER YOU DO<br><span style="color:var(--yel)">YOUR LONG RUNS</span><br>WITH.</div>
+8:()=>({bg:'var(--navy)',logo:'white',html:`
+  <div class="h" style="color:#fff;font-size:100px">SEND THIS TO<br>THE FRIEND WHO SAYS<br><span style="color:var(--yel)">'GELS MAKE<br>ME SICK'</span></div>
   <div class="p" style="color:#fff;margin-top:60px">Want your race-day gel clock for your goal time? Email us through the link in our bio and we'll send it free.</div>
   <div class="h src" style="color:var(--yel);font-size:60px;opacity:1">FOLLOW @ENGINEROOMNUTRITION</div>`}),
 };
-const s=S[n](); document.body.style.background=s.bg;
+const s=S[n]();
+ document.body.style.background=s.bg;
 document.getElementById('root').innerHTML=`<div class="slide" style="background:${s.bg};height:${H}px">${s.html}</div><div class="n" style="color:${s.logo?'#fff':'var(--navy)'}">${n} / ${N}</div>`;
 if(s.logo==='white') document.getElementById('logo').src='../brand/ern-logo-white.png';
+if(s.cover){c=document.getElementById('cv').getContext('2d');
+  const p=person({x:270,g:H-60,s:2.9,f:1,look:{top:'#1f7ae0',shorts:'#1a2433',skin:SKIN[0],hair:HAIR[1],shoe:'#ffffff',bib:true},
+    pose:{hipN:8,hipF:-10,kneeN:-6,kneeF:-12,shN:-14,elN:122,shF:-10,elF:120,lean:22,head:20,lift:0}});
+  const h=p.handN; c.strokeStyle='#0c1828';c.lineWidth=7;c.lineCap='round';
+  [[0,-1],[1,0],[0,1]].forEach(([a,b],i)=>{c.beginPath();c.arc(h.x+44,h.y+b*34,22+i*4,-0.7,0.7);c.stroke();});
+}
 document.fonts.ready.then(()=>{document.title='ready'});
 </script></body></html>
