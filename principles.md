@@ -6431,3 +6431,28 @@ a profile collab, and the caption isn't where viewers find the thing to save.
    with luke_morrison_er" and "Crossposted to Facebook" in the Summary means a
    profile reel, compared with profile reels; a trial says so. Never take it
    from the plan, and Windsor doesn't say.
+
+## P223 — No medical-tent lines in scripts (Luke, 19 Nov)
+
+Luke, 19 Nov: "In scripts stop saying go to the medical tent."
+
+The 30K reel's last stage ended "if you're dizzy, shivering or weaving across
+the road... stop and find the medical tent", and the curve fell from 16% to 8%
+there (1:13). It's a disclaimer in the voice of a safety notice, it ends the
+video on a stop, and every runner already knows the tent is there. **No
+spoken line sends them to the medical tent, team or first aid.** check.py G18
+flags it. If a fact truly needs a limit, it goes in the caption.
+
+## P224 — Saves come from numbers they carry into the race (Luke, 19 Nov: "look deeper on the saves")
+
+Saves per reach across 22 reels (21 Oct to 18 Nov, `ideas/2026-11-19-saves-deep-dive.md`):
+every reel at 1.6% or more handed over numbers for the viewer's own goal time to
+carry into the race (the hand plan 2.7%, the wrist numbers 2.6%, NYC section
+paces 2.6%, the gel clock 2.0%, your 3 split numbers 1.6%). Rules, decisions,
+rankings and stories sat at 0.3% to 0.8%; a rule short enough to remember is
+remembered, not saved (30K: 0.65%).
+
+**The rule:** every script's payoff includes numbers per goal time on screen in
+the last stage and the last frame (3:30 / 4:00 / 4:30 rows; one worked example
+aloud), named in the `Keep:` gate field, and the save line names the act
+("screenshot this", "write these on your wrist"). check.py G34 (from 19 Nov).

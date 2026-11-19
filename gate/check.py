@@ -50,7 +50,7 @@ WORDS = dict(
     brands=r"precision|maurten|\bsis\b|high5|puresport|styrkr|torq|garmin|coros|strava|nike|adidas|asics|hoka|saucony",
     not_done=r"arm sleeves?|bin bags?|bin liners?|soft flasks?|watch alerts?|set your watch|\bapps?\b|pickle juice|salt tablets?",
     race_food=r"banana|pretzels?|sandwich|flapjack|energy bar|the bar\b|a bar\b|our bar",
-    templates=r"get (?:it|race week|the \w+) (?:wrong|right)|you'?re the one (?:who|passing|still|sending)|that's your race going to plan",
+    templates=r"get (?:it|race week|the \w+) (?:wrong|right)|you'?re the one (?:who|passing|still|sending)|that's your race going to plan|medical (?:tent|team|staff|point|help)|find (?:a |the )?(?:medic|first aid)|first aid (?:tent|station)",
     number_words=r"two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety|hundred|thousand",
     maths=r"\b\d+(?:\.\d+)? times\b|\bplus \d|\bminus \d|\bdivided\b|\bmultipl\w+|\bx ?\d",
 )
@@ -290,6 +290,19 @@ def run(path):
             add("G33", False, "no 'Repeat line:' in the Gate fields (one contrast pair they'd repeat, P206)")
         else:
             add("G33", rep_toks in all_toks, f"repeat line '{rep}'" + ("" if rep_toks in all_toks else " isn't spoken word for word"))
+
+    # G34 something to keep (Luke 19 Nov, P224): the top-save reels all handed over numbers to carry into the race
+    if str(fm.get("generated_at", "")) >= "2026-11-19":
+        keep = f.get("keep", "").strip()
+        nums = re.findall(r"\d+(?::\d+)?", keep)
+        save_sents = [x for x in re.split(r"(?<=[.!?])\s+", " ".join(paras)) if re.search(r"\bsave\b", x, re.I)]
+        act = any(re.search(r"screenshot|write|wrist|hand|phone|lock ?screen", x, re.I) for x in save_sents)
+        probs34 = []
+        if len(nums) < 4:
+            probs34.append(f"'Keep:' names {len(nums)} numbers (needs 4+: the numbers they screenshot or write down, per goal time)")
+        if not act:
+            probs34.append("the save line doesn't name the act (screenshot this / write these on your wrist)")
+        add("G34", not probs34, "; ".join(probs34) or f"keep: {keep[:80]}; the save line names the act")
 
     # G32 a profile sequel is a new reel (Luke 10 Nov, P195): one-change only as a trial; on the profile, 7+ days after the parent
     if fm.get("sequel_of"):

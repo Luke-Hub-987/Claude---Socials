@@ -290,7 +290,8 @@ of what's plausible; never the cause. Dream = what they'll see on their own
 race. Both are things runners have actually described, set where nearly
 every viewer has been. The shape isn't one the last 3 scripts used (the
 stack table has a "last 3 used" column). AUTO: no "get it wrong / get it
-right", "you're the one who", "that's your race going to plan".
+right", "you're the one who", "that's your race going to plan", and no
+medical-tent line ("find the medical tent", "go to the medical team": Luke, 19 Nov, P223).
 **Evidence:** "Get it wrong / get it right" came back in 5 scripts after
 being retired (Luke, 17 Oct and 4 Nov: "every single time"). Gels "smell"
 (they don't).
@@ -370,6 +371,18 @@ was in the rules but nothing checked it.
 **From:** P206, P200
 **60-second trial (P208):** with `trial_format: 60s` (trial reels only), G19 takes a
 20 to 30 word hook and 140 to 190 spoken words.
+
+### G34 · Something to keep · AUTO (from 19 Nov)
+**Test:** The Gate fields carry `Keep:`, the numbers on screen in the last stage
+and the last frame that a runner screenshots or writes down for their own goal
+time (4+ numbers: gel times, splits or paces for 3:30, 4:00, 4:30), and the
+spoken save line names the act ("screenshot this", "write these on your wrist").
+**Evidence:** saves per reach, 22 reels, 21 Oct to 18 Nov: the top 5 (sub-4
+secretly 2.7%, goal gone 2.6%, NYC 2.6%, fourth hour 2.0%, last marathon 1.6%)
+all handed over numbers to carry into the race; the rules, decisions, rankings
+and team-sport reels sat at 0.3% to 0.8% (30K 0.65%: "wait 10 minutes" is easy
+to remember). `ideas/2026-11-19-saves-deep-dive.md`.
+**From:** P224, P152, ledger row 18
 
 ## E. The body
 
@@ -555,6 +568,7 @@ gate: v1
 - Layer picture: <what the picture adds>
 - Layer line one: <the gap>
 - Worked example goal: <sub-4 | 3:45 | 4:00 | none>
+- Keep: <the numbers on screen they screenshot or write down, per goal time (G34)>
 - Forecast: <range, with the base reels named>
 ## Script
 "spoken paragraph"
