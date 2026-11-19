@@ -3,7 +3,7 @@ type: carousel (gated by hand: check.py is for scripts; title checker, cold revi
 generated_at: 2026-11-19
 brief_ok: pending Luke (repeat: gut training was one stage of the 1 Oct stomach reel and Luke's 16 Sep personal reel; the C21 precedent says Luke OKs a repeat)
 format: Instagram carousel (ERN collab), 1080 x 1350 (4:5), 8 slides (v2); TikTok photo mode at 1080 x 1440 from the same page (?h=1440)
-images: motion/carousel-gut/instagram-4x5/slide-01..08.png (page motion/carousel-gut/carousel.html, ?n=&h=); contact sheet motion/carousel-gut/contact-sheet.png
+images: motion/carousel-gut/instagram-4x5/slide-01..08.png and motion/carousel-gut/tiktok-3x4/slide-01..08.png (page motion/carousel-gut/carousel.html, ?n=&h=); contact sheet motion/carousel-gut/contact-sheet.png
 titles: 2026-11-19-titles-carousel-watch.md (+ -review: killed, a repeat of 14 Oct, 18 Oct, 20 Oct, 6 Nov), 2026-11-19-titles-carousel-gut.md (+ -review)
 ---
 
