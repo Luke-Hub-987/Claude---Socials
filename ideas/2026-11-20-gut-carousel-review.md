@@ -1,5 +1,5 @@
 ---
-type: review, Windsor read (IG only; no screenshot: age, follower split and collab status unknown)
+type: review, Windsor read + Luke's screenshots 19 Nov 18:25 (about 8.7 hours)
 post: 'MY STOMACH CAN'T TAKE GELS' / 60% LESS SICK / IN 2 WEEKS / (YOUR MARATHON GEL PLAN), IG carousel, 8 slides, ERN colours, summit photo cover; posted 19 Nov 9:41am
 ---
 
@@ -21,7 +21,6 @@ post: 'MY STOMACH CAN'T TAKE GELS' / 60% LESS SICK / IN 2 WEEKS / (YOUR MARATHON
 3. **Likeliest causes, in order:**
    - **It reads as an ad.** A designed, branded cover with a big percentage and a cut-out person is what supplement adverts look like; the cold reviewer flagged "60% less sick" as ad copy (test 8). Our posts that travelled (the white title card reels, the white heavier carousel) look organic.
    - **A repeat to the people who saw it first:** followers had seen gut training on 1 Oct and on Luke's own account on 16 Sep (the known risk in the file).
-   - **Possibly not a collab:** if it went out from ERN alone, it only reached ERN's followers. To check in the post.
    - The caption isn't the cause (P222), and time of day doesn't predict views (P144).
 
 ## Forecast
@@ -31,3 +30,9 @@ Carousels settle within about 2 days (the heavier: 1,362 at about 2.5 days, 1,38
 - **Check:** was it posted as the collab with Luke's account? A screenshot of its insights (age, followers vs non-followers, profile visits).
 - **Don't build another branded carousel until it's tested:** the next carousel goes back to the plain white look that travelled, with the keep table on screen.
 - **The keep table (slide 6) lives on in a reel:** gels by run length works as the screen in a spring-block reel, where our reach is (30K 5.5K, fourth hour 19.7K).
+
+## Luke's screenshots at 8.7 hours (19 Nov 18:25)
+633 views (455 IG, 178 FB), 171 viewers, 0 follows, profile visits none shown, **Feed 99.8% of views**; a collab with luke_morrison_er, cross-posted to Facebook (confirmed). About 3.7 views a viewer. The line was still climbing slowly at 8 hours (about 450 IG).
+- **Feed 99.8%** means it never left followers: no Explore or recommendations. The first group (followers) gave 1 like and 2 saves, so Instagram didn't test it on strangers. That fits the two causes left: it looks like an ad, and followers had seen gut training before.
+- **3.7 views a viewer** is the best swipe-through we've had on a carousel: the slides held the few who opened it.
+- Forecast stays: about 200 to 400 viewers in the end.

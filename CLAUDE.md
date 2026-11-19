@@ -219,7 +219,7 @@ a new cause becomes a new row in the same turn.**
 
 **As of 4 November 2026.**
 
-**Gut carousel posted 19 Nov 9:41am, first read (Windsor):** 429 views, reach 158, 1 like, 2 saves, 0 shares, 2.7 views a person; reach stalled (heavier carousel 1,380); likeliest causes: it reads as an ad, a repeat topic, maybe not a collab; next carousel back to the plain white look (`ideas/2026-11-20-gut-carousel-review.md`).
+**Gut carousel posted 19 Nov 9:41am, first read (Windsor):** 429 views, reach 158, 1 like, 2 saves, 0 shares, 2.7 views a person; reach stalled (heavier carousel 1,380); 8.7h screenshots: 633 views (455 IG), 171 viewers, Feed 99.8% (never left followers), collab confirmed, 3.7 views a viewer; causes: it reads as an ad, a repeat topic; next carousel back to the plain white look (`ideas/2026-11-20-gut-carousel-review.md`).
 
 **19 Nov, carousel drawn, waiting on Luke's OK for the repeat:** 'GELS MAKE ME SICK'? / 2 WEEKS CUT IT 60% / (YOUR MARATHON GUT PLAN) (SICK red, 8/10 cold review), 9 slides in ERN colours, `motion/carousel-gut/` (`ideas/engine-room-nutrition/2026-11-19-carousel-gut.md`); Costa 2017 and Miall 2018 in FACTS (Gut training). The watch carousel was killed by the reviewer (posted 5 times since 14 Oct). Last carousel (heavier): reach 1,362, saves 0.6%, about 2 views a person (aha at slide 6, the numbers only in the caption, 19 slides). ost_check: % now counts as a unit.
 
