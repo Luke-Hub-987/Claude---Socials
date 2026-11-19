@@ -1,31 +1,41 @@
 ---
-type: review, Windsor read 19 Nov (IG only; no curve, sources or follows without screenshots)
-video: NEVER DECIDE TO WALK / AT 30K OF A MARATHON / (WAIT 10 MINUTES), IG trial reel from ERN, posted Wed 18 Nov 1:54pm
-age: under a day at the read (Windsor's cache time unknown)
+type: review, Luke's screenshots 19 Nov 6:14am (IG insights) + Windsor read
+video: NEVER DECIDE TO WALK / AT 30K OF A MARATHON / (WAIT 10 MINUTES), profile reel (ERN collab with luke_morrison_er, cross-posted to Facebook), NOT a trial reel; posted Wed 18 Nov 1:54pm
+age: about 16 hours
+corrected: 19 Nov (Luke): it was a profile collab, not a trial; captions are barely read, so the caption isn't the diagnosis (P222)
 ---
 
-# 30K trial, first read
+# 30K reel at 16h
 
-| | 30K trial | Oranges trial (same read, ~40h) | T1 wall repost (a day) | Fourth hour (profile, 4 days) |
-|---|---|---|---|---|
-| Views | **4,673** (reach 3,860) | 2,468 (reach 2,213) | 3,537 | 19,425 |
-| Skip | **29.5%** | 33.4% | 33.3% | 26.8% |
-| Watched | **23.1s** | 17.1s | 24s | 31.8s |
-| Saves | **25 (0.5%)** | 17 (0.7%) | 32 | 299 (1.5%) |
-| Shares | **5 (0.1%)** | 9 (0.4%) | | 84 (0.4%) |
-| Likes | 51 (1.1%) | 23 (0.9%) | | 400 (2.1%) |
-| Comments | 2 | 0 | | 11 |
+| | 30K, 16h | Fourth hour, ~12h | 10% rule, 13.5h | Sub-4:30, 10h | Wall, 43h |
+|---|---|---|---|---|---|
+| Views (IG + FB) | **7,239** (4,678 IG, 2,561 FB) | 14,995 | 7,238 | 3,616 | 2,002 |
+| Viewers | 3,854 | | | | |
+| Skip | **29.5% Lower** | 27.0% | 41.1% | 51.3% | 60.5% |
+| Watched | **23s** on 1:22 | 29s | 16s | 10s | 15s |
+| Saves | 25 (0.6% Lower) | 1.7% | 0.4% | 1.0% | 1.1% |
+| Shares | 0.1% Lower | 0.4% | 0.1% | 0 | 0 |
+| Likes | 51 (1.1% Higher) | 1.5% | | | |
+| Reposts / comments | 2 / 2 (both Higher) | | | | |
+| Follows | **4** | | 0 | 0 | 0 |
+
+Top source: Reels tab (strangers, not followers). Views over time: above the typical-reel line from the first hour (about 4.7K IG at 16h against about 2.8K typical), still climbing slowly.
+
+## The curve (1:22; about 9 pixels a second)
+- **Half gone by about 0:08**, about 38% left at 0:13, about 32% at 0:20.
+- **The body held:** about 25% at 0:33, about 21% at 1:00, about 16% at 1:11. **No step at 0:45**, where the oranges and the 10% rule both dropped: the save line folded into stage 1 cost nothing.
+- **One drop at about 1:13 to 1:15** (16% to 8%): the last 25 words, the medical-tent line into the follow line. The video signalled the end, so people left; that's the normal end drop.
 
 ## What it says
-1. **Our best trial reel yet**, in less than a day: about twice the oranges at 40h, past the wall repost, and over the 4,000 bar. Skip 29.5% is our second best this month after the fourth hour, so the new title (NEVER DECIDE TO WALK, the 30K, the 10-minute bracket) and the turn by ~0:10 held strangers.
-2. **Watch time moved:** 23s against the oranges' 17s. The 3 OF 3 count and the title said back in line one kept people past the hook. Still 9 seconds under the fourth hour.
-3. **Saves and shares are low** (0.5% and 0.1%, under the oranges' 0.4% shares). **The caption posted was "Walking in a marathon"**, not the 1,785-character caption with the gel clock for every goal time. A runner who'd save it had nothing in the caption to come back to (ledger row 18). The fourth hour's 1.5% saves came with the full clock in the caption. This is the likeliest cause and the cheapest fix.
-4. The oranges trial missed its forecast (2,468 at ~40h against 2,800 to 3,600 at 24h) and has flattened: trial reels grow on day one and stop.
+1. **Our second-best profile reel this month**, behind only the fourth hour: the same views as the 10% rule at the same age, but 11.6 points less skip, 7 more seconds watched and 4 follows against 0. The title rebuilt under P220/P221 (NEVER in red, the 30K, the 10-minute bracket), line one saying the title back, and the turn by ~0:10 did their job.
+2. **The front still loses half by 0:08.** The fourth hour lost less with the myth killed in line one ("everyone says 90 minutes"). Ours opened on the instruction, then the turn.
+3. **Saves (0.6%) and shares (0.1%) are Lower.** The caption isn't the reason (P222). The video is: **the takeaway is short enough to remember** (wait 10 minutes; take the gel), so there's nothing to come back to on race morning (ledger row 18, P152). The fourth hour's 1.7% saves came from a gel clock on screen per goal time. Shares: the send line points at a friend who "blamed their head", which reads as calling them weak; the fourth hour's spread because it said every 4-hour runner's fade isn't their fault.
 
-## Forecast
-5,000 to 6,000 views final (trials flatten after day one: oranges +7% from 12.5h to 40h). Saves should rise if the caption goes in today.
+## 24-hour forecast
+8,000 to 9,000 views (IG + FB), skip 29% to 31%, from the curve against the typical line (about 100 IG views an hour now).
 
-## Fixes
-- **Paste the real caption in now** (`ideas/engine-room-nutrition/2026-11-18-script-brain-30k.md`, 1,785 characters). Instagram lets you edit a caption after posting.
-- Posting check: the caption from the script file is pasted before Post (the second post running where the planned caption wasn't the one live: oranges cut at 2,200, 30K a placeholder).
-- Screenshots for the curve, sources and follows decide whether this goes to the profile as a new title in January (the wall stays off the profile till then).
+## Fixes (into the next script)
+- **Something to keep on screen:** a clock, table or per-goal row in the last stage and the last frame (the fourth hour's gel times for 3:30, 4:00, 4:30), so saving it means something.
+- **A send line that flatters the friend:** "send this to the one who'll be at 30K with you", not the one who failed.
+- **Kill a myth in line one** before the instruction, as the fourth hour did.
+- Keep: the save line folded into stage 1 (no step), the 3-step count with the escalation tag, line one saying the title back.

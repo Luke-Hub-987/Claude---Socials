@@ -6412,3 +6412,22 @@ every time do.
 5. **Every "dull" from Luke becomes a dull → bold pair** in
    `TITLE-EXAMPLES.md` in the same turn, and the weekly loop checks which title
    moves win on our own numbers.
+
+## P222 — Captions are barely read; read the post type before comparing (Luke, 19 Nov)
+
+Luke, 19 Nov, on the 30K review: "Barely anyone reads captions so don't focus
+on that really. It also wasn't posted as a trial reel."
+
+**What went wrong:** I blamed the 30K reel's low saves on the placeholder
+caption, and compared it with trial reels because the plan said trial. It was
+a profile collab, and the caption isn't where viewers find the thing to save.
+
+**The rule:**
+1. **The caption is never the diagnosis** for saves, shares or watch time. Look
+   at the video: is there something too long to remember on screen (row 18,
+   P152)? Does the send line give a reason to send that flatters the friend?
+   The caption length check (G21) stays as hygiene, nothing more.
+2. **Read the post type off the insights before comparing:** "Collaboration
+   with luke_morrison_er" and "Crossposted to Facebook" in the Summary means a
+   profile reel, compared with profile reels; a trial says so. Never take it
+   from the plan, and Windsor doesn't say.
