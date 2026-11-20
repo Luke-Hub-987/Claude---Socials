@@ -6567,3 +6567,16 @@ to your heart), or a thing they've all seen and never had explained (3:59, the
 watch reading 42.6K). Never jokey everyday trivia, never a pub fact, never a
 cute angle chosen to be funny. The ERN poll (Kipchoge, no gel, the record) is
 the bar.
+
+## P231 — The topic is the runner's own world (Luke, 21 Nov)
+Luke, on CAN A HUMAN OUTRUN A HORSE?, RUNNER'S HIGH ISN'T WHAT YOU THINK and
+WHY YOUR LEGS BURN: "These suck also - why would runners think about horses?
+Why people in finance love endurance. Why everybody is obsessed with endurance
+sports today."
+
+**The rule:** an evergreen curiosity topic is about the viewer and the world
+they're already in: their job, their friends, their club, the boom they're
+part of (why people in finance love endurance, why everyone's obsessed with
+endurance, why run clubs replaced the pub). The question they've had is "why
+are people like me doing this?". Never trivia from outside their life
+(animals, pub facts), and never body science they didn't ask about.
