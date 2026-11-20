@@ -6524,3 +6524,16 @@ hook names the obvious answer and sets it aside ("you'd think it's X, but
 there's a deeper reason"), so a guessable title becomes the hook. The aha, the
 clear fact or the myth bust comes in the first sentence after the hook (by
 about 0:15), never saved for later stages.
+
+## P229 — A topic needs a real unknown, not a joke (Luke, 21 Nov)
+Luke, on story-poll topics WHY STAIRS HURT AFTER A MARATHON, HOW MANY PINTS
+DOES A MARATHON BURN? and WHY YOUR MARATHON PEAK COMES AFTER 30: "These suck -
+trying to be too funny? No one really cares about those and no curiosity."
+
+**The rule:** a topic (reel, poll option or long-form) has a real unknown with
+something at stake: a limit or a mechanism they can't explain (how fast can a
+human go, why the record fell), their body under threat (what a marathon does
+to your heart), or a thing they've all seen and never had explained (3:59, the
+watch reading 42.6K). Never jokey everyday trivia, never a pub fact, never a
+cute angle chosen to be funny. The ERN poll (Kipchoge, no gel, the record) is
+the bar.
