@@ -555,3 +555,4 @@ twice without being checked against the winners (P99).
 - [ ] **Captions aren't the diagnosis (P222):** reviews explain saves and shares from the video (something to keep on screen, a send line that flatters the friend), never the caption; the post type (profile collab, trial) is read off the insights Summary before any comparison.
 - [ ] **No medical tent (P223):** no spoken line sends them to the medical tent, team or first aid (G18 flags it).
 - [ ] **Something to keep (P224, G34):** `Keep:` names 4+ numbers on screen per goal time (last stage and last frame); the save line names the act (screenshot this / write these on your wrist).
+- [ ] **Which lane (P225):** Lane A (evergreen: identity or a curious why / how that ends in something they use on their next run; trial first) or Lane B (an event, only close to its date). No race-date stake for an audience without a race.

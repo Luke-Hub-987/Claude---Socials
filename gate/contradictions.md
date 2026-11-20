@@ -87,6 +87,8 @@ ideas/. Ordered by how much they change a script.
     Filming it is his call; a post-hoc review treats these as accepted risks,
     not misses.
 
+- **Luke, 20 Nov (P225): C8 partly settled.** Evergreen is the default lane until the spring blocks (identity or a curious why / how that ends in something they use; trial first); the 4-week stake is for event reels close to the date.
+
 - **Luke, 11 Nov (P198): C4 settled.** The hook is 40 to 55 words before stage 1 (was 80 to 95).
 
 ## Already settled, so not on the list

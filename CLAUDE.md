@@ -219,6 +219,8 @@ a new cause becomes a new row in the same turn.**
 
 **As of 4 November 2026.**
 
+**20 Nov, P225 (Luke): most viewers have no race, so evergreen first, specific close to the event.** Two lanes (`ideas/engine-room-nutrition/2026-11-20-evergreen-lane.md`): Lane A evergreen (identity like nerves of steel, or TED-Ed why / how that ends in something they use; trial first), Lane B events close to the date. G5 amended for Lane A; C8 partly settled. **Valencia moves to race week** (from about 30 Nov; the gated script and its 3 titles stay banked). Trial slate: `2026-11-20-titles-evergreen.md`.
+
 **20 Nov reel gated: VALENCIA MARATHON / GELS START AT 16.2K / (AN HOUR TOO LATE)** (TOO LATE red, 7/10 cold review, Luke's yes 19 Nov in `ost_score_ok_by_luke:`), IG trial from ERN + TikTok, `ideas/engine-room-nutrition/2026-11-20-script-valencia-gels.md`; hook 42, script 314; one review, G21 G22 G29 fixed; check.py PASS. Cards `motion/valencia/` (title card, 9:16 overlay, the Valencia clock card from the stage 1 save line). check.py G10 now takes `ost_score_ok_by_luke:` for a title under 9 that Luke said yes to.
 
 **Gut carousel posted 19 Nov 9:41am, first read (Windsor):** 429 views, reach 158, 1 like, 2 saves, 0 shares, 2.7 views a person; reach stalled (heavier carousel 1,380); 8.7h screenshots: 633 views (455 IG), 171 viewers, Feed 99.8% (never left followers), collab confirmed, 3.7 views a viewer; causes: it reads as an ad, a repeat topic; next carousel back to the plain white look (`ideas/2026-11-20-gut-carousel-review.md`).

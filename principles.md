@@ -6456,3 +6456,29 @@ remembered, not saved (30K: 0.65%).
 the last stage and the last frame (3:30 / 4:00 / 4:30 rows; one worked example
 aloud), named in the `Keep:` gate field, and the save line names the act
 ("screenshot this", "write these on your wrist"). check.py G34 (from 19 Nov).
+
+## P225 — Most viewers have no race: evergreen first, specific close to the event (Luke, 20 Nov)
+
+Luke, 20 Nov, after a fan said the content is useful but he isn't running a
+marathon or entering one next year: "there's no urgency needed from them or
+stakes at the moment... everything has to be super evergreen, and then closer
+to the events we get super super specific. Nonetheless, we still have to be
+quite specific in our titles and topics." Valencia waits until close to the race.
+
+**Why:** G5 (a stake within about 4 weeks) was built in race season. November's
+winners had no deadline (the fourth hour 19.7K, the 30K reel 7.2K); the dated
+ones did worst (spring ranking 49.7% skip).
+
+**The rule (`ideas/engine-room-nutrition/2026-11-20-evergreen-lane.md`):**
+1. **Two lanes.** Lane A, evergreen, most reels from November to early January:
+   the stake is who they become (nerves of steel: count + escalation +
+   identity) or a curious why / how question (TED-Ed) that ends in something
+   they use on their next run. Lane B, the event, only close to the date
+   (race week, the spring blocks).
+2. **Still specific:** a number, a body moment they've felt, a worked example.
+3. **No blind curiosity (Ogilvy):** every curious question ends in self-interest.
+4. **The email is a tool they use any week** (Suby: the 97% who aren't ready
+   now are captured now, nurtured until their race).
+5. **Lane A runs as trial reels first** and is judged at 24 hours against the
+   trial base rates.
+6. G5 amended for Lane A; C8 partly settled.

@@ -128,6 +128,7 @@ result only we have (real numbers from our inbox or Luke's and Jamie's
 races, with consent). And it passes "who cares": a fear they carry, a
 picture of race day they want, or a number they'll use. Trivia and admin
 fail whatever the date. [C8]
+**Lane A (P225, Luke 20 Nov):** for evergreen reels (trial first), the stake can instead be who they become (a count, an escalation, an identity: nerves of steel) or a curious why / how question that ends in something they use on their next run. Trivia with nothing to use still fails. Lane B (an event) keeps the 4-week stake.
 **Evidence:** Long run (no deadline) 55.5% skip, our worst; every top-5 reel
 went up 1 to 4 weeks before the viewers' races and grew for weeks (7 days
 31K to 151K); Luke stopped only for Valencia ("studying for an exam 4
