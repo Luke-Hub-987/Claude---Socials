@@ -6482,3 +6482,17 @@ ones did worst (spring ranking 49.7% skip).
 5. **Lane A runs as trial reels first** and is judged at 24 hours against the
    trial base rates.
 6. G5 amended for Lane A; C8 partly settled.
+
+## P226 — The secret question, specific enough to answer (Luke, 20 Nov)
+
+Luke, 20 Nov, on the evergreen topics: the good ones are "pressing questions,
+things people have thought about secretly"; "why running slower makes you
+faster... that's only true for pros, not for normal, regular people like myself";
+"how to run faster is so broad you'd need a crazy level of differentiation...
+the more specific you get, the better we can be."
+
+**The rule:** an evergreen title asks a question the viewer has privately
+wondered (after their own race, about the pros, about their body), pinned to one
+exact number or noun (3:59, 41 pacers, 2 minutes, 72 hours), true for amateurs
+like Luke, not only for elites. Never a broad "how to run faster" topic, and
+never a pro-only claim sold to a 4-hour runner.
