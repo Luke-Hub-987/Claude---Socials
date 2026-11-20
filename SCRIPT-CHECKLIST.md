@@ -559,8 +559,5 @@ twice without being checked against the winners (P99).
 - [ ] **Secret question, pinned (P226):** the title asks something they've privately wondered, pinned to one exact number or noun, true for amateurs (not a pro-only claim), never a broad "how to run faster".
 - [ ] **Title tests change the title only (P227):** two titles tested against each other share the same verbal hook, script, frame-one layout and post type; the hook is written to sit under both before filming.
 - [ ] **Interest beats need off season (P228):** with no race coming, the title is interesting today (something they've seen or wondered), not a moment in a race they aren't running; the hook names the obvious answer and sets it aside; the aha, clear fact or myth bust is the first sentence after the hook.
-<<<<<<< HEAD
 - [ ] **A real unknown, not a joke (P230):** the topic has a limit, a mechanism or a threat they can't explain, with something at stake; never jokey everyday trivia or a pub fact.
-=======
 - [ ] **Characters with shape, pictures that show the words (P229):** no stick figures (torso, shorts, tapered limbs, shoes, a face); our runner a fair-skinned white guy in ERN blue with gold shoes; the ERN logo on every animated frame; each animated shot draws the exact number, place or action being said, 3 to 5 words on screen; style approved on stills before animating.
->>>>>>> 651e3804babe10e42612b2102610cef21d70fcdf
