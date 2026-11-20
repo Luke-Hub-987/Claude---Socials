@@ -6496,3 +6496,13 @@ wondered (after their own race, about the pros, about their body), pinned to one
 exact number or noun (3:59, 41 pacers, 2 minutes, 72 hours), true for amateurs
 like Luke, not only for elites. Never a broad "how to run faster" topic, and
 never a pro-only claim sold to a 4-hour runner.
+
+## P227 — A title test changes the title only (Luke, 21 Nov)
+Luke, on testing WHY SO MANY / MARATHONERS FINISH / AT 3:59 against YOU
+WEREN'T EMPTY / AT 41K OF A MARATHON: "can we keep the verbal hooks the same?"
+
+**The rule:** when two titles are tested against each other, the verbal hook,
+the script, frame one's layout and the post type stay identical; only the
+on-screen title changes. Write the hook so it sits under both titles before
+either is filmed (the hook's claims true for both), and post both as the same
+kind of reel (trial vs trial), so the difference in skip rate is the title's.
