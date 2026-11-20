@@ -10,6 +10,9 @@ fair-skinned white guy, the ERN logo on every frame (P229).
 | `out/cutaway-3-40k-check.mp4` | 21.2 s | "So look at the clock at the 40K sign." | "...so run your own race home." |
 | `out/cutaway-4-next-run.mp4` | 19.4 s | "Pick a round number for your next long run..." | "...before you reach a 40K sign." |
 
+**All four in one file (Luke, 20 Nov):** `out/3-59-cutaways-all.mp4` (1:17.8, 1080x1920).
+Inside it: clip 1 at 0:00.0, clip 2 at 0:20.8, clip 3 at 0:37.2, clip 4 at 0:58.4.
+
 On camera (no cutaway): the hook (0:00 to ~0:15), "Send this to whoever...",
 "And you don't need a marathon...", "There's more your legs are hiding...".
 
