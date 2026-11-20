@@ -10,6 +10,16 @@ gated, posting Sat 21 Nov as an IG trial reel plus ERN TikTok. The test clip fro
 the other chat is `motion/teded-demo/` (12 s fuel tank, cream paper, Caveat
 lettering, one runner on a K line). It is the starting look.
 
+## Luke's answers (20 Nov)
+
+- **Full screen (9:16) animation, chosen.** His recorded audio runs underneath the
+  whole reel; he speaks on camera for a few seconds, then the animation covers it.
+- **No stick figures (P229).** New character rig: shaped torso, shorts, tapered
+  limbs, shoes, faces; our runner in ERN blue with gold shoes. Style stills:
+  `motion/three-59/teded/still-{sheet,1,2,3}.png` (contact sheet
+  `contact-style-v1.png`). Waiting on his yes to the look, then all 17 shots are
+  animated to his audio.
+
 ## The recommendation
 
 Make an A/B of the same recording. **A** cuts to full-screen TED-Ed animation
