@@ -1,0 +1,298 @@
+<!doctype html><html><head><meta charset="utf-8"><title>3:59 cutaways</title>
+<!-- 3:59 reel: four full-screen cutaways (1080 x 1920, 30 fps), one per stage, timed to the script at about 2.9 words a second
+     with 0.5 s of hold before and 1 s after. Luke's audio runs underneath (Luke, 20 Nov). Facts: the script's facts table
+     (Allen 2017; the last 4K clock card). Render: node motion/three-59/teded/render9.js motion/three-59/teded/cutaways.html <out>
+     Preview a frame: cutaways.html?s=1&t=4.2 -->
+<style>
+@font-face{font-family:Hand;font-weight:700;src:url(../../fonts/Caveat-700-normal.woff2) format('woff2')}
+@font-face{font-family:BC;font-weight:800;src:url(../../fonts/BarlowCondensed-800-normal.woff2) format('woff2')}
+@font-face{font-family:BC;font-weight:700;src:url(../../fonts/BarlowCondensed-700-normal.woff2) format('woff2')}
+html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#f3ead8}
+#stage{position:relative;width:1080px;height:1920px;overflow:hidden}
+#sv,.grain{position:absolute;left:0;top:0}
+.logo{position:absolute;right:36px;top:200px;width:128px;border-radius:12px;box-shadow:0 4px 0 rgba(42,36,32,.18)}
+</style></head><body>
+<div id="stage"><svg id="sv" width="1080" height="1920" viewBox="0 0 1080 1920" xmlns="http://www.w3.org/2000/svg"></svg>
+<img class="grain" src="grain.png" width="1080" height="1920"><img class="logo" src="../../brand/ern-logo.png" alt="ERN"></div>
+<script src="rig.js"></script>
+<script>
+/* ---------- motion helpers ---------- */
+const cl=(x,a=0,b=1)=>Math.max(a,Math.min(b,x)), lerp=(a,b,p)=>a+(b-a)*p;
+const seg=(t,a,b)=>cl((t-a)/(b-a)), eo=x=>1-Math.pow(1-x,3), eio=x=>x<.5?4*x*x*x:1-Math.pow(-2*x+2,3)/2;
+const back=x=>{const c=1.7;return 1+(c+1)*Math.pow(x-1,3)+c*Math.pow(x-1,2)};
+let UID=0;
+function grp(inner,{o=1,x=0,y=0,s=1,cx=0,cy=0,r=0}={}){if(o<=0.001)return '';
+  return `<g opacity="${o.toFixed(3)}" transform="translate(${(x+cx).toFixed(1)} ${(y+cy).toFixed(1)}) rotate(${r}) scale(${s.toFixed(4)}) translate(${-cx} ${-cy})">${inner}</g>`}
+/* lettering that writes on from left to right */
+function handOn(x,y,t,size,col,p,anchor='middle',rot=0){if(p<=0)return '';const w=t.length*size*.46+40,
+  x0=anchor==='middle'?x-w/2:anchor==='end'?x-w:x-20,id='c'+(UID++);
+  return `<clipPath id="${id}"><rect x="${x0}" y="${y-size*1.1}" width="${w*eo(p)}" height="${size*1.6}" transform="rotate(${rot} ${x} ${y})"/></clipPath><g clip-path="url(#${id})">${hand(x,y,t,size,col,anchor,rot)}</g>`}
+function pop(inner,p,cx,cy){return grp(inner,{o:cl(p*3),s:p<=0?0:back(cl(p)),cx,cy})}
+function strike(x1,y1,x2,y2,p,col=C.red,w=16){if(p<=0)return '';const x=lerp(x1,x2,eo(p)),y=lerp(y1,y2,eo(p));
+  return `<path d="M${x1} ${y1} L${x.toFixed(1)} ${y.toFixed(1)}" stroke="${col}" stroke-width="${w}" stroke-linecap="round"/>`}
+function check(x,y,s,p,col=C.gold){if(p<=0)return '';const L=s*230;return `<path d="M${x} ${y} l${34*s} ${34*s} l${70*s} ${-86*s}" stroke="${col}" stroke-width="${14*s}" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="${L}" stroke-dashoffset="${L*(1-eo(p))}"/>`}
+function chip(cx,cy,t,size,col,p){const w=t.length*size*.52+56,h=size*1.45;
+  return pop(`<rect x="${cx-w/2}" y="${cy-h/2}" width="${w}" height="${h}" rx="${h/2}" fill="none" stroke="${col}" stroke-width="7"/>${num(cx,cy+size*.36,t,size,col)}`,p,cx,cy)}
+function stamp(cx,cy,t,size,col,p,rot=-8){const w=t.length*size*.56+70,h=size*1.3;
+  return grp(`<rect x="${cx-w/2}" y="${cy-h/2}" width="${w}" height="${h}" rx="18" fill="none" stroke="${col}" stroke-width="10"/>${num(cx,cy+size*.36,t,size,col)}`,{o:cl(p*4),s:p<=0?0:lerp(1.8,1,eo(cl(p*1.6))),cx,cy,r:rot})}
+
+/* ---------- the run cycle ---------- */
+const GAIT={run:{A:30,kb:16,kA:85,aA:34,eb:105,lean:9,bob:7,hz:1.4},sprint:{A:40,kb:22,kA:100,aA:48,eb:100,lean:15,bob:9,hz:1.65},
+  trudge:{A:17,kb:12,kA:45,aA:14,eb:78,lean:15,tilt:14,bob:3,hz:1.05}};
+function cyc(th,k){const kn=x=>k.kb+k.kA*Math.pow((1+Math.cos(x+Math.PI/2-0.7))/2,2);
+  return{nH:k.A*Math.sin(th)+3,nK:kn(th),fH:k.A*Math.sin(th+Math.PI)+3,fK:kn(th+Math.PI),
+    nS:-k.aA*Math.sin(th)-4,nE:k.eb+20*Math.sin(th),fS:-k.aA*Math.sin(th+Math.PI)-4,fE:k.eb+20*Math.sin(th+Math.PI),lean:k.lean,tilt:k.tilt||0}}
+function mixPose(a,b,p){const o={};for(const k in a)o[k]=lerp(a[k],b[k]??a[k],p);return o}
+/* a runner on the move: gait can blend from one to another */
+function mover({x,y,s,t,g1='run',g2=null,gp=0,look,adj,watch,f=1}){
+  const k1=GAIT[g1],k2=g2?GAIT[g2]:k1,hz=lerp(k1.hz,k2.hz,gp),th=t*hz*2*Math.PI;
+  let pose=mixPose(cyc(th,k1),cyc(th,k2),gp);if(adj)pose=Object.assign(pose,adj);
+  const bob=lerp(k1.bob,k2.bob,gp)*Math.abs(Math.sin(th));
+  return runner({x,y:y-bob*s,s,f,pose,look,watch})}
+
+/* ---------- scenery ---------- */
+function roadSide(off,top=1170){let g=`<rect x="0" y="${top}" width="1080" height="${1920-top}" fill="${C.road}"/><rect x="0" y="${top}" width="1080" height="10" fill="${shade(C.road,.12)}"/>`;
+  g+=`<rect x="0" y="${top+190}" width="1080" height="${1920-top-190}" fill="${shade(C.road,.06)}"/>`;
+  const o=((off%210)+210)%210;for(let i=-1;i<7;i++)g+=`<rect x="${(i*210-o).toFixed(1)}" y="${top+92}" width="120" height="12" rx="6" fill="#efe6d4"/>`;return g}
+function crowd(off,y=1060){let g=`<rect x="0" y="${y}" width="1080" height="110" fill="${C.paper2}"/>`;const o=((off%98)+98)%98;
+  for(let i=-1;i<13;i++){const x=i*98-o, b=Math.sin((i+Math.floor(off/98))*1.7)*6;g+=`<circle cx="${(30+x).toFixed(1)}" cy="${1052+b}" r="30" fill="${shade(C.paper2,.08)}"/><rect x="${(4+x).toFixed(1)}" y="${1060+b}" width="52" height="60" rx="20" fill="${shade(C.paper2,.08)}"/>`}
+  return g+`<rect x="0" y="${y+50}" width="1080" height="16" fill="${shade(C.paper2,.15)}"/>`}
+function park(off){let g=`<rect x="0" y="1040" width="1080" height="880" fill="${C.grass}"/>`;
+  const o=((off%1400)+1400)%1400;[[110,1.1,0],[560,.7,1],[960,.9,0],[1300,1,1]].forEach(([x,s,c])=>{let xx=x-o;if(xx<-300)xx+=1400;g+=tree(xx,1060-(s<.8?30:0),s,c?C.treeD:C.tree,c?C.tree:C.treeD)});
+  g+=`<path d="M0 1200 C 300 1150 700 1170 1080 1140 L1080 1290 C 700 1310 300 1300 0 1350Z" fill="${C.road}"/>`;
+  g+=`<rect x="0" y="1350" width="1080" height="570" fill="${C.grassD}" opacity=".35"/>`;return g}
+function hills(){return `<path d="M0 980 C 200 880 380 900 520 960 C 680 860 900 870 1080 950 L1080 1170 L0 1170Z" fill="${C.paper2}"/>`}
+function sign(x,y,t,sub,s=1){return `<g transform="translate(${x} ${y}) scale(${s})"><rect x="-6" y="-200" width="12" height="200" fill="${C.ink}"/><rect x="-110" y="-300" width="220" height="${sub?120:104}" rx="14" fill="#fff" stroke="${C.ink}" stroke-width="7"/>${num(0,sub?-238:-224,t,sub?66:76)}${sub?num(0,-196,sub,36):''}</g>`}
+function gantry(s=1,clockT='3:57:40',clockCol='#f6efe2'){return `<g transform="translate(830 1180) scale(${s}) translate(-830 -1180)">
+  <rect x="640" y="600" width="30" height="580" fill="${C.ink}"/><rect x="990" y="600" width="30" height="580" fill="${C.ink}"/>
+  <rect x="610" y="600" width="440" height="110" rx="10" fill="${C.blue}"/>${num(830,684,'FINISH',80,'#fff')}
+  <rect x="825" y="540" width="10" height="60" fill="${C.ink}"/>${clock(830,450,440,clockT,clockCol)}</g>`}
+function watchFace(cx,cy,r,top,big,bottom,bigCol='#f6efe2'){return `<rect x="${cx-r*.33}" y="${cy-r*1.27}" width="${r*.66}" height="${r*2.54}" rx="${r*.19}" fill="${C.ink}"/>
+  <circle cx="${cx}" cy="${cy}" r="${r}" fill="${C.ink}"/><circle cx="${cx}" cy="${cy}" r="${r*.87}" fill="#15110e"/>
+  ${top?num(cx,cy-r*.36,top,r*.25,C.mute):''}${num(cx,cy+r*.24*Math.min(1,5/big.length),big,r*.7*Math.min(1,5/big.length),bigCol)}${bottom?num(cx,cy+r*.56,bottom,r*.21,C.mute):''}`}
+function fmt(sec){sec=Math.floor(sec);const h=Math.floor(sec/3600),m=Math.floor(sec/60)%60,s=sec%60;return `${h}:${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}`}
+
+/* the last 4K clock card, upright (the same numbers as three-59-clock-card-16x9.png) */
+const CARD=[['SUB-3','2:42','2:46','2:50','2:54'],['SUB-3:30','3:09','3:14','3:19','3:24'],['SUB-4','3:36','3:41','3:47','3:53'],['SUB-4:30','4:03','4:09','4:15','4:22']];
+function clockCard(y,{hl=0,pulse=0,rows=1}={}){const x=60,w=960,H=900;let g=`<rect x="${x+10}" y="${y+14}" width="${w}" height="${H}" rx="36" fill="${C.ink}" opacity=".14"/><rect x="${x}" y="${y}" width="${w}" height="${H}" rx="36" fill="#fffdf8"/>`;
+  g+=num(x+50,y+112,'YOUR LAST 4K',88,C.ink,'start')+`<rect x="${x+532}" y="${y+34}" width="262" height="100" rx="14" fill="${C.red}"/>`+num(x+663,y+112,'CLOCK',88,'#fff');
+  g+=`<text x="${x+52}" y="${y+178}" font-family="BC" font-weight="700" font-size="36" fill="#6b6f7a">The latest clock at each sign that still gets you under</text>`;
+  const cols=[x+50,x+300,x+470,x+640,x+810], hy=y+262;
+  if(hl>0)g+=`<rect x="${cols[3]-28}" y="${hy-58}" width="170" height="${84+4*110}" rx="18" fill="${C.gold}" opacity="${(.28*hl).toFixed(2)}"/>`;
+  ['GOAL','38K','39K','40K','41K'].forEach((h,i)=>g+=num(cols[i],hy,h,48,'#6b6f7a','start'));
+  g+=`<rect x="${x+40}" y="${hy+20}" width="${w-80}" height="7" fill="${C.ink}"/>`;
+  CARD.forEach((r,j)=>{const ry=hy+112+j*110,o=cl(rows*4-j);if(o<=0)return;let row='';
+    const isRow=pulse>0&&j===2;
+    if(isRow)row+=`<rect x="${cols[3]-24}" y="${ry-72}" width="162" height="94" rx="16" fill="${C.gold}"/>`;
+    r.forEach((v,i)=>{const isP=isRow&&i===3;row+=isP?num(cols[i]+57,ry,v,lerp(74,88,pulse),C.ink):num(cols[i],ry,v,i?74:60,i?C.blue:C.ink,'start')});
+    g+=grp(row+`<rect x="${x+40}" y="${ry+28}" width="${w-80}" height="3" fill="#e6dfd2"/>`,{o})});
+  g+=`<rect x="${x+40}" y="${y+H-140}" width="${w-80}" height="104" rx="22" fill="#0e1828"/>`;
+  g+=`<text x="${x+80}" y="${y+H-70}" font-family="BC" font-weight="800" font-size="48" fill="#fff">AT OR UNDER IT? <tspan fill="${C.gold}">GO.</tspan> 10 MIN OVER? <tspan fill="${C.gold}">EASE HOME.</tspan></text>`;
+  return g}
+
+/* ---------- scenes ---------- */
+const L0=0.5; // hold before the first word
+const SC=[];
+
+/* 1. THE ROUND NUMBER (stage 1 + the save line, 19.3 s of words) */
+SC.push({id:'cutaway-1-round-number',dur:20.8,draw(t){const T=t-L0;let g=paper();
+  // A/B: the two minutes either side of 3:00
+  const ab=1-seg(T,6.4,6.9);
+  if(ab>0){let a='';
+    const sec=T<2.0?(2*3600+59*60+30+29*cl(T/2.0)):(3*3600+59*cl((T-2.0)/4.4));
+    a+=clock(490,410,600,fmt(sec),'#f6efe2');
+    a+=handOn(540,580,'1 minute either side of 3 hours',62,C.ink,seg(T,0,1.1));
+    const base=1230,rowH=96,colX=[300,780],tops=['#1f7ae0','#e48a5a','#7fae8e','#b58cc9','#e8c25a','#9fb0c6'];
+    [[12,0,0.1,0.14],[8,1,2.05,0.17]].forEach(([n,c,st,dt])=>{for(let i=0;i<n;i++){const p=seg(T,st+i*dt,st+i*dt+.45);if(p<=0)continue;
+      const r=Math.floor(i/2),k=i%2,yy=base-48-r*rowH,y0=640;const yb=lerp(y0,yy,Math.min(1,p*p*1.15))-(p>.87?Math.sin((p-.87)/.13*Math.PI)*14:0);
+      a+=token(colX[c]-58+k*116,yb.toFixed(1),1,tops[(i*5+c*3)%6],SK[(i+c)%6],HR[(i*2+c)%6])}});
+    a+=`<rect x="120" y="${base+2}" width="840" height="10" rx="5" fill="${C.ink}"/>`;
+    a+=grp(num(colX[0],base+92,'2:59',84,C.red),{o:seg(T,0,.4)})+grp(num(colX[1],base+92,'3:00',84,C.ink),{o:seg(T,2.0,2.4)});
+    const lp=seg(T,3.5,4.3);a+=handOn(colX[1],760,'~50% more',112,C.gold,lp,'middle',-4);
+    const ap=seg(T,4.1,4.7);if(ap>0){const L=700;a+=`<path d="M${colX[1]-140} 790 C ${colX[1]-240} 800 ${colX[0]+200} 800 ${colX[0]+130} 690" stroke="${C.gold}" stroke-width="9" fill="none" stroke-linecap="round" stroke-dasharray="${L}" stroke-dashoffset="${L*(1-eo(ap))}"/>`+grp(`<path d="M${colX[0]+118} 724 L${colX[0]+128} 684 L${colX[0]+164} 704" stroke="${C.gold}" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round"/>`,{o:seg(T,4.5,4.7)})}
+    g+=grp(a,{o:ab,s:1+.03*seg(T,0,6.9)+.25*seg(T,6.4,6.9),cx:540,cy:900})}
+  // C: the same bunching under 3:30 and 4:00 (shape only; the 3:00 pair drawn at 1.5 to 1)
+  const c=seg(T,6.5,6.9)*(1-seg(T,9.8,10.2));
+  if(c>0){let a=handOn(500,400,'the same bunching',96,C.ink,seg(T,6.7,7.6));
+    const x0=110,x1=970,base=1150,N=100;// bins 2:40 to 4:19, one minute each
+    for(let i=0;i<N;i++){const m=160+i;let h=110+380*Math.pow((m-160)/100,1.35);
+      if(m===179)h=h*1.5;if(m===178)h*=1.12;if(m===209)h*=1.4;if(m===208)h*=1.1;if(m===239)h*=1.45;if(m===238)h*=1.12;if(m===237)h*=1.05;
+      if(m===180)h*=1.0;const gp=eo(seg(T,6.8+i*.012,7.6+i*.012));
+      const col=(m>=237&&m<=239)?C.red:((m>=177&&m<=179)||(m>=207&&m<=209))?C.blue:C.sand;const bw=(x1-x0)/N;
+      a+=`<rect x="${(x0+i*bw).toFixed(1)}" y="${(base-h*gp).toFixed(1)}" width="${(bw-1.6).toFixed(1)}" height="${(h*gp).toFixed(1)}" fill="${col}"/>`}
+    a+=`<rect x="${x0-10}" y="${base}" width="${x1-x0+20}" height="8" fill="${C.ink}"/>`;
+    [[180,'3:00',7.7],[210,'3:30',8.4],[240,'4:00',9.2]].forEach(([m,l,st])=>{const xx=x0+(m-160)*(x1-x0)/N;
+      const hh=(110+380*Math.pow((m-1-160)/100,1.35))*(m===180?1.5:m===210?1.4:1.45);
+      a+=pop(`<path d="M${xx-5} ${base-hh-70} l-22 -34 l44 0z" fill="${m===240?C.red:C.blue}"/>`,seg(T,st,st+.4),xx-5,base-hh-80);
+      a+=pop(`<path d="M${xx} ${base+14} l0 26" stroke="${C.ink}" stroke-width="6"/>`+num(xx,base+104,l,64,m===240?C.red:C.ink),seg(T,st,st+.4),xx,base+60)});
+    a+=handOn(540,1330,'just under every round number',58,C.ink,seg(T,8.6,9.6));
+    g+=grp(a,{o:c,s:1+.03*seg(T,6.5,10.2),cx:540,cy:900})}
+  // D: not the pacers
+  const d=seg(T,9.9,10.3)*(1-seg(T,12.4,12.8));
+  if(d>0){let a='';const px=lerp(-200,420,eo(seg(T,9.9,11.0)));
+    a+=`<rect x="0" y="1170" width="1080" height="750" fill="${C.road}"/>`;
+    const r=mover({x:px,y:1230,s:1.2,t:T,look:{skin:SK[2],hair:HR[3],top:'#e48a5a',shorts:'#3a4a5e',shoe:'#ffffff',bib:true}});
+    const hx=r.hand.x,hy=r.hand.y;a+=`<path d="M${(hx).toFixed(1)} ${hy.toFixed(1)} Q ${(hx-30).toFixed(1)} ${(hy-120).toFixed(1)} ${(hx+10).toFixed(1)} ${(hy-196).toFixed(1)}" stroke="${C.ink}" stroke-width="4" fill="none"/>`;
+    a+=`<ellipse cx="${(hx+10).toFixed(1)}" cy="${(hy-300).toFixed(1)}" rx="92" ry="104" fill="${C.gold}"/><path d="M${hx} ${hy-198} l10 -12 l10 12z" fill="${C.gold}"/>${num(hx+10,hy-276,'4:00',62,C.ink)}`;
+    a+=r.g;
+    a+=num(470,400,'PACERS',150,C.ink)+strike(180,350,760,350,seg(T,11.2,11.6));
+    a+=handOn(470,260,'it isn\'t the',72,C.ink,seg(T,10.1,10.8));
+    g+=grp(a,{o:d})}
+  // E: not qualifying times; they did it themselves
+  const e=seg(T,12.5,12.9)*(1-seg(T,15.0,15.4));
+  if(e>0){let a='';
+    const tk=`<g transform="translate(500 560) rotate(-4)"><rect x="-330" y="-150" width="660" height="300" rx="26" fill="#fffdf8" stroke="${C.ink}" stroke-width="7"/>
+      <path d="M150 -150 L150 150" stroke="${C.ink}" stroke-width="5" stroke-dasharray="14 12"/>${num(-90,-30,'QUALIFYING',76,C.ink)}${num(-90,60,'TIME',76,C.ink)}<rect x="190" y="-60" width="100" height="14" rx="7" fill="${C.sand}"/><rect x="190" y="-20" width="70" height="14" rx="7" fill="${C.sand}"/><rect x="190" y="20" width="90" height="14" rx="7" fill="${C.sand}"/></g>`;
+    a+=grp(tk,{o:seg(T,12.6,13.0),y:lerp(-60,0,eo(seg(T,12.6,13.1)))});
+    a+=strike(150,640,850,480,seg(T,13.4,13.8));
+    a+=`<rect x="0" y="1170" width="1080" height="750" fill="${C.road}"/>`;
+    const run3=[[SK[0],HR[2],'pony','#7fae8e'],[SK[3],HR[3],'short','#b58cc9'],['#f6d6bf','#5a3a24','short',C.blue]];
+    run3.forEach(([sk,hr,st,top],i)=>{const x=lerp(-150-i*220,1200-i*230,seg(T,13.6,15.4));a+=mover({x,y:1240,s:.9,t:T+i*.3,g1:'sprint',look:{skin:sk,hair:hr,style:st,top,shoe:i===2?C.gold:'#ffffff',brow:'set',mouth:'open'}}).g});
+    a+=handOn(540,820,'they did it themselves',88,C.ink,seg(T,13.9,14.9),'middle',-3);
+    g+=grp(a,{o:e})}
+  // F: save this, screenshot the clock card
+  const f=seg(T,15.1,15.5);
+  if(f>0){let a=clockCard(lerp(460,330,eo(seg(T,15.1,15.8))),{rows:seg(T,15.3,16.3)});
+    a+=chip(540,1300,'SAVE THIS',62,C.gold,seg(T,15.5,16.0));
+    g+=grp(a,{o:f})}
+  return g}});
+
+/* 2. THE LAST 2.2K (stage 2, 14.9 s of words) */
+SC.push({id:'cutaway-2-last-2k',dur:16.4,draw(t){const T=t-L0;let g=paper();
+  const main=1-seg(T,11.5,11.9);
+  if(main>0){let a='';
+    const speed=lerp(140,520,eo(seg(T,5.2,6.4))), off=T*speed+ (T>6.4?0:0);
+    a+=crowd(off*.45)+roadSide(off);
+    // the 40K sign passes at the start
+    const sx=lerp(900,-300,eio(seg(T,0,3.4)));a+=sign(sx,1172,'40K',null,1);
+    // the gantry: in from the right, then waiting at the finish
+    const gin=eo(seg(T,2.4,3.6)),gx=lerp(700,0,gin);
+    const csec=3*3600+57*60+40+cl((T-2.6)/7.4)*124, cross=T>=10.0, ct=cross?'3:59:44':fmt(Math.min(csec,3*3600+59*60+44));
+    if(gin>0)a+=grp(gantry(lerp(.86,1,seg(T,3,10)),ct,cross?C.red:'#f6efe2'),{x:gx});
+    if(cross){const bp=seg(T,10,10.6);a+=grp(Array.from({length:10},(_,i)=>{const an=i*36*D;return `<path d="M${830+Math.cos(an)*260} ${450+Math.sin(an)*140} l${Math.cos(an)*60*bp} ${Math.sin(an)*36*bp}" stroke="${C.gold}" stroke-width="10" stroke-linecap="round"/>`}).join(''),{o:1-seg(T,10.6,11.2)})}
+    // two runners who fade (they get passed from 6 s)
+    [[0,SK[2],HR[1],'#7fae8e'],[1,SK[5],HR[4],'#b58cc9']].forEach(([i,sk,hr,top])=>{const x=lerp(560+i*160,-260+i*120,seg(T,5.6,8.8));
+      if(T>4.2)a+=grp(mover({x,y:1236,s:1.05,t:T+i*.4,g1:'trudge',look:{skin:sk,hair:hr,top,shoe:'#ffffff',brow:'tired',mouth:'puff'}}).g,{o:seg(T,4.2,4.8)})});
+    // our runner: heavy, sees the clock, goes
+    const gp=seg(T,5.0,6.0), rx=lerp(250,lerp(250,880,eio(seg(T,8.6,10.6))),1);
+    const brow=T<3.4?'tired':T<5?'up':'set', eye=T<3.4?[2,4]:[3,-5], mouth=T<3.4?'puff':'open';
+    if(gp>.3)a+=speed_lines(rx-140,820,gp);
+    a+=mover({x:rx,y:1250,s:1.4,t:T,g1:'trudge',g2:'sprint',gp,look:{brow,eye,mouth,sweat:T<5}}).g;
+    // lettering
+    a+=grp(handOn(60,300,'the last 2.2K',86,C.ink,seg(T,0.3,1.2),'start',-4),{o:1-seg(T,5.6,6.0)});
+    a+=grp(handOn(60,410,'only when the clock',66,C.ink,seg(T,2.9,3.9),'start',-4)+handOn(60,490,'is close',66,C.ink,seg(T,3.5,4.2),'start',-4),{o:1-seg(T,5.6,6.0)});
+    a+=grp(handOn(60,430,'sped up',110,C.gold,seg(T,6.4,7.2),'start',-5),{o:1-seg(T,9.2,9.6)});
+    a+=handOn(60,470,'nearly 4 hours in',76,C.red,seg(T,10.1,11.0),'start',-4);
+    g+=grp(a,{o:main,s:1+.02*seg(T,0,11.9),cx:540,cy:900})}
+  // E: legs said empty, clock said go
+  const e=seg(T,11.6,12.0);
+  if(e>0){let a=`<rect x="0" y="0" width="540" height="1920" fill="${shade(C.paper,.04)}"/>`;
+    a+=`<path d="M540 230 C 534 600 546 900 540 1330" stroke="${C.ink}" stroke-width="6" fill="none" stroke-linecap="round"/>`;
+    // left: heavy legs
+    const lp=seg(T,11.8,12.4);
+    a+=grp(`<clipPath id="lg"><rect x="20" y="560" width="500" height="760"/></clipPath><g clip-path="url(#lg)">${mover({x:250,y:1600,s:3,t:T*.6,g1:'trudge',look:{brow:'tired',mouth:'puff'}}).g}</g>`,{o:lp});
+    a+=handOn(270,330,'your legs said',60,C.ink,seg(T,11.9,12.6))+stamp(270,470,'EMPTY',84,C.mute,seg(T,12.5,12.9),-6);
+    // right: the clock says go
+    a+=handOn(810,330,'the clock said',60,C.ink,seg(T,13.1,13.8));
+    a+=pop(clock(810,780,440,'3:59',C.red),seg(T,13.0,13.5),810,780);
+    a+=stamp(810,470,'GO',110,C.gold,seg(T,13.7,14.1),6);
+    g+=grp(a,{o:e})}
+  return g}});
+function speed_lines(x,y,p){return grp(speed(x,y,5,170),{o:cl(p)})}
+
+/* 3. YOUR 40K CHECK (stage 3, 19.7 s of words) */
+SC.push({id:'cutaway-3-40k-check',dur:21.2,draw(t){const T=t-L0;let g=paper();
+  // A: the clock at the 40K sign
+  const a1=1-seg(T,2.9,3.3);
+  if(a1>0){let a=crowd(T*60)+roadSide(T*160);a+=sign(780,1172,'40K',null,1.2);
+    const rx=lerp(-120,430,eo(seg(T,0,1.8))),w=seg(T,1.6,2.1);
+    const pose=w>0?{nS:lerp(-20,58,eo(w)),nE:lerp(105,100,w),tilt:lerp(0,10,w)}:null;
+    a+=mover({x:rx,y:1250,s:1.4,t:T,adj:pose,watch:w>.5,look:{eye:w>.5?[0,5]:[0,0]}}).g;
+    a+=handOn(60,330,'look at the clock',80,C.ink,seg(T,0.2,1.1),'start',-4)+handOn(60,430,'at the 40K sign',80,C.ink,seg(T,0.9,1.8),'start',-4);
+    g+=grp(a,{o:a1,s:1+.03*seg(T,0,3.3),cx:540,cy:900})}
+  // B: 3:47 on a sub-4 means go
+  const b=seg(T,3.0,3.4)*(1-seg(T,6.7,7.1));
+  if(b>0){let a=handOn(540,320,'on a sub-4',84,C.ink,seg(T,3.2,4.0));
+    a+=pop(watchFace(540,780,330,'40K','3:47','SUB-4',C.gold),seg(T,3.1,3.6),540,780);
+    a+=stamp(540,1250,'STILL YOURS. GO',72,C.gold,seg(T,5.0,5.4),-5);
+    g+=grp(a,{o:b,s:1+.03*seg(T,3,7.1),cx:540,cy:800})}
+  // C: about 12 and a half minutes left
+  const c=seg(T,6.8,7.2)*(1-seg(T,11.2,11.6));
+  if(c>0){let a=num(540,560,'12½',300,C.ink)+handOn(540,680,'minutes of running left',72,C.ink,seg(T,7.3,8.3));
+    const x0=140,x1=940,y=980;a+=`<rect x="${x0}" y="${y-8}" width="${x1-x0}" height="16" rx="8" fill="${C.sand}"/>`;
+    const pr=seg(T,7.4,11.2);a+=`<rect x="${x0}" y="${y-8}" width="${(x1-x0)*pr}" height="16" rx="8" fill="${C.blue}"/>`;
+    a+=sign(x0,y+0,'40K',null,.55)+`<g transform="translate(${x1} ${y})"><rect x="-6" y="-120" width="12" height="120" fill="${C.ink}"/><path d="M6 -120 L90 -96 L6 -72Z" fill="${C.red}"/></g>`;
+    a+=num(x1,y+80,'FINISH',48,C.ink)+num(540,y+80,'2.2K',48,C.mute);
+    a+=mover({x:x0+(x1-x0)*pr,y:y-10,s:.55,t:T}).g;
+    a+=handOn(540,1230,'at sub-4 pace',64,C.mute,seg(T,9.6,10.4));
+    g+=grp(a,{o:c})}
+  // D: the other round numbers are on the card
+  const d=seg(T,11.3,11.7)*(1-seg(T,13.6,14.0));
+  if(d>0)g+=grp(clockCard(330,{hl:seg(T,11.8,12.3),pulse:0.5+0.5*Math.sin(T*6)}),{o:d,y:lerp(60,0,eo(seg(T,11.3,11.9)))});
+  // E: 10 minutes off, run your own race home
+  const e=seg(T,13.7,14.1);
+  if(e>0){let a='';const sh=eio(seg(T,15.6,16.4));
+    const wx=lerp(540,840,sh),wy=lerp(720,490,sh),wr=lerp(320,150,sh);
+    a+=grp(handOn(540,300,'10 minutes off?',90,C.red,seg(T,13.9,14.8)),{o:1-sh});
+    if(sh>0){a+=crowd(T*60)+roadSide(T*160);a=grp(a,{o:1})}
+    if(sh>0)a+=grp(mover({x:lerp(300,380,sh),y:1250,s:1.2,t:T,look:{brow:'calm'}}).g,{o:sh});
+    a+=pop(watchFace(wx,wy,wr,'40K','3:57','SUB-4',C.red),seg(T,13.8,14.3),wx,wy);
+    a+=grp(num(60,430,'NO SPRINT',96,C.ink,'start')+strike(50,396,420,396,seg(T,16.2,16.6))+handOn(60,520,'finds that',70,C.ink,seg(T,16.4,17.0),'start',-3),{o:seg(T,16.0,16.3)});
+    a+=handOn(540,660,'run your own race home',76,C.gold,seg(T,17.6,18.8),'middle',-3);
+    g+=grp(a,{o:e})}
+  return g}});
+
+/* 4. YOUR NEXT RUN (stage 4, 17.9 s of words) */
+SC.push({id:'cutaway-4-next-run',dur:19.4,draw(t){const T=t-L0;let g=paper();
+  // A: a round number for a parkrun
+  const a1=1-seg(T,2.6,3.0);
+  if(a1>0){let a=park(T*150);a+=mover({x:380,y:1270,s:1.35,t:T}).g;
+    a+=handOn(60,320,'pick a round number',82,C.ink,seg(T,0.2,1.2),'start',-4);
+    a+=pop(watchFace(790,640,190,'PARKRUN','25:00',''),seg(T,1.0,1.5),790,640);
+    g+=grp(a,{o:a1,s:1+.03*seg(T,0,3),cx:540,cy:900})}
+  // B: or 2 hours on a long run
+  const b=seg(T,2.7,3.1)*(1-seg(T,5.3,5.7));
+  if(b>0){let a=hills()+roadSide(T*170);a+=mover({x:380,y:1250,s:1.35,t:T}).g;
+    a+=handOn(60,320,'or 2 hours',96,C.ink,seg(T,3.0,3.8),'start',-4);
+    a+=pop(watchFace(790,640,190,'LONG RUN','2:00:00',''),seg(T,3.2,3.7),790,640);
+    g+=grp(a,{o:b,s:1+.03*seg(T,2.7,5.7),cx:540,cy:900})}
+  // C: 2K from the end
+  const c=seg(T,5.4,5.8)*(1-seg(T,8.4,8.8));
+  if(c>0){let a=park(T*150+400);a+=sign(lerp(1150,560,eo(seg(T,5.4,6.8))),1190,'2K','TO GO',.95);
+    const w=seg(T,6.6,7.0);a+=mover({x:300,y:1270,s:1.3,t:T,adj:w>0?{nS:lerp(-20,58,eo(w)),nE:100,tilt:lerp(0,10,w)}:null,watch:w>.5,look:{eye:w>.5?[0,5]:[0,0]}}).g;
+    a+=handOn(60,320,'check the clock',80,C.ink,seg(T,5.7,6.5),'start',-4)+handOn(60,410,'2K from the end',80,C.ink,seg(T,6.2,7.0),'start',-4);
+    a+=pop(watchFace(780,640,200,'3K','14:52','NEED 15:00'),seg(T,7.2,7.7),780,640);
+    g+=grp(a,{o:c})}
+  // D: in reach, go after it
+  const d=seg(T,8.5,8.9)*(1-seg(T,11.2,11.6));
+  if(d>0){let a=park(T*420+900);
+    const fx=lerp(1300,720,eo(seg(T,9.4,10.6)));a+=`<g transform="translate(${fx} 1240)"><rect x="-8" y="-330" width="16" height="330" fill="${C.ink}"/><rect x="232" y="-330" width="16" height="330" fill="${C.ink}"/><rect x="-20" y="-380" width="280" height="80" rx="10" fill="${C.blue}"/>${num(120,-322,'FINISH',56,'#fff')}</g>`;
+    a+=speed_lines(160,820,1)+mover({x:lerp(330,560,seg(T,9.8,11.0)),y:1270,s:1.3,t:T,g1:'sprint',look:{brow:'set',mouth:'open'}}).g;
+    a+=check(60,300,1,seg(T,8.7,9.2))+handOn(184,330,'in reach',100,C.gold,seg(T,8.8,9.5),'start',-4);
+    a+=handOn(60,460,'go after it',90,C.ink,seg(T,9.6,10.4),'start',-4);
+    a+=pop(watchFace(840,560,150,'FINISH',T>10.6?'24:41':'24:'+String(Math.floor(lerp(20,41,seg(T,9,10.6)))).padStart(2,'0'),''),seg(T,9.4,9.8),840,560);
+    g+=grp(a,{o:d})}
+  // E: every week
+  const e=seg(T,11.3,11.7)*(1-seg(T,14.3,14.7));
+  if(e>0){let a=handOn(540,330,'every week',110,C.ink,seg(T,11.5,12.4));
+    for(let i=0;i<8;i++){const x=150+(i%4)*220,y=560+Math.floor(i/4)*300,p=seg(T,11.9+i*.28,12.2+i*.28);
+      a+=pop(`<rect x="${x-90}" y="${y-90}" width="180" height="200" rx="20" fill="#fffdf8" stroke="${C.ink}" stroke-width="6"/><rect x="${x-90}" y="${y-90}" width="180" height="50" rx="20" fill="${C.blue}"/><rect x="${x-90}" y="${y-60}" width="180" height="20" fill="${C.blue}"/>${num(x,y-52,'WEEK '+(i+1),34,'#fff')}`,seg(T,11.7+i*.1,12.1+i*.1),x,y)+check(x-48,y+40,1,p)}
+    g+=grp(a,{o:e})}
+  // F: long before you reach a 40K sign
+  const f=seg(T,14.4,14.8);
+  if(f>0){const z=eio(seg(T,14.4,18.4));let a=`<rect x="0" y="760" width="1080" height="1160" fill="${C.grass}"/>`+hills().replace(/980|880|900|960|860|870|950|1170/g,m=>({980:'700',880:'640',900:'650',960:'690',860:'630',870:'640',950:'690',1170:'770'})[m]);
+    a+=`<path d="M500 760 L580 760 L1080 1920 L0 1920 Z" fill="${C.road}"/><path d="M536 760 L544 760 L560 1920 L520 1920Z" fill="#efe6d4" opacity=".7"/>`;
+    for(let i=0;i<8;i++){const q=Math.pow((i+1)/9,2.2),y=760+q*1160,x=580+q*500+30,s=.15+q*.9;
+      a+=`<g transform="translate(${x} ${y}) scale(${s})"><rect x="-6" y="-120" width="12" height="120" fill="#7a5b40"/><rect x="-40" y="-170" width="80" height="60" rx="8" fill="#fffdf8"/>${check(-28,-142,.5,seg(T,14.6+(7-i)*.12,15+(7-i)*.12),C.blue)}</g>`}
+    a+=sign(540,762,'40K',null,.42);
+    g+=grp(a,{o:f,s:1+.5*z,cx:540,cy:720});
+    g+=grp(handOn(480,360,'a habit long before',80,C.ink,seg(T,15.6,16.6))+handOn(480,460,'your next 40K sign',80,C.ink,seg(T,16.2,17.2)),{o:f})}
+  return g}});
+
+/* ---------- runtime ---------- */
+let cur=0;
+window.SCENES=SC.map(s=>({id:s.id,dur:s.dur}));
+window.load=i=>{cur=i};
+window.frame=t=>{UID=0;document.getElementById('sv').innerHTML=defs.replace(/<filter[\s\S]*?<\/filter>/,'')+SC[cur].draw(t)};
+const q=new URLSearchParams(location.search);load(+(q.get('s')||1)-1);frame(+(q.get('t')||0));
+</script></body></html>

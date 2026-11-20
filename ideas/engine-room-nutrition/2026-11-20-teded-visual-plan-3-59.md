@@ -20,6 +20,13 @@ lettering, one runner on a K line). It is the starting look.
   `contact-style-v1.png`). Waiting on his yes to the look, then all 17 shots are
   animated to his audio.
 
+**Built (20 Nov, Luke: "go ahead and create the video"):** the main runner
+redone fair-skinned, the ERN logo on every frame, and four full-screen cutaways
+rendered from the script (stage 3 is now a cutaway too, since Luke covers the
+audio with animation): `motion/three-59/teded/out/` and the timing table in
+`motion/three-59/teded/README.md`. No audio file: timed to the script at 2.9
+words a second, with holds to trim.
+
 ## The recommendation
 
 Make an A/B of the same recording. **A** cuts to full-screen TED-Ed animation

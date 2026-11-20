@@ -6544,6 +6544,9 @@ animation, with his recorded audio running underneath.
 - **Every shot shows the exact line being said:** the number, the place or the
   action in the audio, drawn so it can be seen (a column 50% taller, the clock at
   3:57:40). If a shot doesn't show the line, it's cut.
+- **Our runner (Luke, 20 Nov, later):** a fair-skinned white guy with brown hair,
+  ERN blue singlet, gold shoes; the crowd around him stays mixed. **The ERN logo
+  sits on every animated frame** (top right, under Instagram's top bar).
 - **Full screen (9:16) for cutaways; Luke's audio runs underneath;** the style is
   approved on a character sheet and one key frame per cutaway before anything is
   animated.
