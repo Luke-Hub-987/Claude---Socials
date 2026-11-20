@@ -1,0 +1,120 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Tank demo</title>
+<!-- TED-Ed-style test (20 Nov): where the fuel goes. Facts: FACTS "The fourth hour" (about 500 g stored, about 400 muscle and 100 liver; runs short at about 3 hours, about 32K at 4-hour pace). Render: node motion/render.js motion/teded-demo/tank.html motion/teded-demo -->
+<style>
+@font-face{font-family:'Hand';src:url(../fonts/Caveat-700-normal.woff2) format('woff2');font-weight:700}
+@font-face{font-family:'BC';font-weight:800;src:url(../fonts/BarlowCondensed-800-normal.woff2) format('woff2')}
+@font-face{font-family:Barlow;font-weight:700;src:url(../fonts/Barlow-700-normal.woff2) format('woff2')}
+body{margin:0;width:1920px;height:1080px;overflow:hidden;background:#f3ead8}
+canvas{position:absolute;left:0;top:0}
+</style></head><body><canvas id="cv" width="1920" height="1080"></canvas>
+<script>
+const D=Math.PI/180; const clamp=(x,a=0,b=1)=>Math.max(a,Math.min(b,x)); const lerp=(a,b,p)=>a+(b-a)*p;
+function rng(seed){return function(){seed|=0;seed=seed+0x6D2B79F5|0;let t=Math.imul(seed^seed>>>15,1|seed);t=t+Math.imul(t^t>>>7,61|t)^t;return((t^t>>>14)>>>0)/4294967296}}
+function shade(hex,k){const n=parseInt(hex.slice(1),16);const f=v=>Math.round(clamp(v*(1-k),0,255));return `rgb(${f(n>>16&255)},${f(n>>8&255)},${f(n&255)})`}
+const css=()=>'#1f7ae0';
+const cv=document.getElementById('cv'); let c=cv.getContext('2d');
+const SKIN=['#f1c7a3','#d8a07a','#a86f4c','#7a4a2e','#f3d2b8','#c98b62']; const HAIR=['#2a1d15','#6b4528','#c99a5b','#1a1a1a','#8a3b1f','#d9c3a0'];
+function seg(x1,y1,x2,y2,w,col){c.strokeStyle=col;c.lineWidth=w;c.beginPath();c.moveTo(x1,y1);c.lineTo(x2,y2);c.stroke()}
+function leg(hx,hy,a,k){const kx=hx+44*Math.sin(a*D),ky=hy+44*Math.cos(a*D),s=a+k,ax=kx+44*Math.sin(s*D),ay=ky+44*Math.cos(s*D),f=s+90;
+  return{kx,ky,ax,ay,fx:ax+15*Math.sin(f*D),fy:ay+15*Math.cos(f*D)}}
+function arm(sx,sy,a,e){const ex=sx+32*Math.sin(a*D),ey=sy+32*Math.cos(a*D),b=a+e;return{ex,ey,hx:ex+30*Math.sin(b*D),hy:ey+30*Math.cos(b*D)}}
+/* o: x, g (ground y), s (scale), f (1 faces right, -1 left), look, pose, plus colours; returns hand positions in screen space */
+function person(o){
+  const p=Object.assign({hipN:0,hipF:0,kneeN:0,kneeF:0,shN:6,shF:-6,elN:12,elF:12,lean:2,head:0,lift:0},o.pose||{});
+  const L=Object.assign({top:'#8aa0b8',shorts:'#2c3a4d',skin:SKIN[1],hair:HAIR[0],shoe:'#ffffff'},o.look||{});
+  c.save();c.translate(o.x,o.g);c.scale((o.f||1)*o.s,o.s);c.lineCap='round';c.lineJoin='round';
+  if(o.alpha!=null)c.globalAlpha=o.alpha;
+  const lN=leg(0,0,p.hipN,p.kneeN),lF=leg(0,0,p.hipF,p.kneeF);
+  const hipY=-(Math.max(lN.ay,lF.ay,lN.fy,lF.fy)+7)-p.lift;
+  const T=64,lx=Math.sin(p.lean*D),ly=-Math.cos(p.lean*D);
+  const sx=(T-8)*lx,sy=hipY+(T-8)*ly,nx=T*lx,ny=hipY+T*ly;
+  const hd=p.lean+p.head,hx=nx+19*Math.sin(hd*D),hy=ny-19*Math.cos(hd*D);
+  const aN=arm(sx,sy,p.shN,p.elN),aF=arm(sx,sy,p.shF,p.elF);
+  const drawLeg=(l,a,far)=>{const sk=far?shade(L.skin,.12):L.skin,sh=far?shade(L.shorts,.15):L.shorts;
+    seg(0,hipY,l.kx,l.ky+hipY,19,sk);seg(l.kx,l.ky+hipY,l.ax,l.ay+hipY,16,sk);
+    seg(0,hipY,l.kx*.55,l.ky*.55+hipY,25,sh);seg(l.ax,l.ay+hipY,l.fx,l.fy+hipY,14,far?shade(L.shoe,.12):L.shoe)};
+  const drawArm=(a,far)=>{const sk=far?shade(L.skin,.12):L.skin;seg(sx,sy,a.ex,a.ey,13,sk);seg(a.ex,a.ey,a.hx,a.hy,12,sk);
+    seg(sx,sy,lerp(sx,a.ex,.45),lerp(sy,a.ey,.45),17,far?shade(L.top,.15):L.top)};
+  drawArm(aF,true);drawLeg(lF,0,true);
+  seg(0,hipY-4,sx,sy,40,L.top);
+  if(L.bib){c.save();c.translate(lerp(0,sx,.45),lerp(hipY,sy,.45));c.rotate(p.lean*D);c.fillStyle='#fff';c.fillRect(4,-15,17,30);c.fillStyle=css('blue');c.fillRect(4,-15,17,7);c.restore()}
+  if(L.name){c.save();c.translate(lerp(0,sx,.32)+6*lx,lerp(hipY,sy,.32));c.rotate(p.lean*D);c.fillStyle='#0b0b0b';c.font='italic 800 21px Barlow';c.textAlign='center';c.textBaseline='middle';c.fillText(L.name,6,0);c.restore()}
+  drawLeg(lN,0,false);
+  if(o.prop==='sign'&&o.sign){} // signs are drawn by the caller at the hands
+  drawArm(aN,false);
+  c.fillStyle=L.skin;c.beginPath();c.arc(hx,hy,17,0,7);c.fill();
+  c.fillStyle=L.hair;c.beginPath();c.arc(hx,hy,18,Math.PI*.92+hd*D,Math.PI*1.9+hd*D);c.closePath();c.fill();
+  c.fillStyle='#1a1410';c.beginPath();c.arc(hx+9*Math.cos(hd*D)+3*Math.sin(hd*D),hy+3*Math.cos(hd*D)+9*Math.sin(hd*D)-2,2.6,0,7);c.fill();
+  if(L.pony){c.beginPath();c.arc(hx-14*Math.cos(hd*D),hy+2,7,0,7);c.fill()}
+  if(L.cap){c.fillStyle=L.cap;c.beginPath();c.arc(hx,hy,16.5,Math.PI*1.0+hd*D,Math.PI*2.0+hd*D);c.fill();seg(hx+4,hy-3,hx+24,hy-1,5,L.cap)}
+  c.restore();
+  const tf=(x,y)=>({x:o.x+(o.f||1)*o.s*x,y:o.g+o.s*y});
+  return{handN:tf(aN.hx,aN.hy),handF:tf(aF.hx,aF.hy),head:tf(hx,hy),chest:tf(lerp(0,sx,.5),lerp(hipY,sy,.5))}}
+function run(ph,amp=1,lean=9){const a=ph*Math.PI*2;return{hipN:32*amp*Math.sin(a),hipF:32*amp*Math.sin(a+Math.PI),
+  kneeN:-(10+85*amp*Math.max(0,Math.cos(a))),kneeF:-(10+85*amp*Math.max(0,Math.cos(a+Math.PI))),
+  shN:-30*amp*Math.sin(a),shF:30*amp*Math.sin(a),elN:88,elF:88,lean,lift:7*amp*Math.abs(Math.cos(a))}}
+function mix(a,b,p){const o={};for(const k in a)o[k]=lerp(a[k],b[k]!=null?b[k]:a[k],p);return o}
+
+
+const W=1920,H=1080, INK='#2b2622', RED='#d9473f', YEL='#f5b52e', MUS='#c8553d', LIV='#7a4e7e', BG='#f3ead8';
+const ease=t=>t<0?0:t>1?1:t*t*(3-2*t), seg01=(t,a,b)=>ease((t-a)/(b-a));
+const R=rng(7); const specks=[...Array(900)].map(()=>[R()*W,R()*H,R()*1.6+.4,R()*.06]);
+function paper(){c.fillStyle=BG;c.fillRect(0,0,W,H);specks.forEach(([x,y,r,a])=>{c.fillStyle=`rgba(80,60,40,${a})`;c.beginPath();c.arc(x,y,r,0,7);c.fill()})}
+function wob(path,seed){c.save();c.lineJoin='round';c.lineCap='round';path();c.restore()}
+function hand(txt,x,y,size,col=INK,align='left',alpha=1){c.save();c.globalAlpha=alpha;c.fillStyle=col;c.font=`700 ${size}px Hand`;c.textAlign=align;c.textBaseline='middle';c.fillText(txt,x,y);c.restore()}
+function jar(x,y,w,h,level,split,alpha){ // level 0..1, split: muscle share
+  c.save();c.globalAlpha=alpha;
+  const top=y, bot=y+h;
+  // contents
+  const fillH=h*level, mus=fillH*split;
+  c.fillStyle=MUS;c.fillRect(x+10,bot-mus,w-20,mus);
+  c.fillStyle=LIV;c.fillRect(x+10,bot-fillH,w-20,fillH-mus);
+  // glass
+  c.strokeStyle=INK;c.lineWidth=7;c.beginPath();c.moveTo(x,top+30);c.lineTo(x,bot-20);c.quadraticCurveTo(x,bot,x+20,bot);c.lineTo(x+w-20,bot);c.quadraticCurveTo(x+w,bot,x+w,bot-20);c.lineTo(x+w,top+30);c.stroke();
+  c.beginPath();c.moveTo(x-14,top+30);c.lineTo(x+w+14,top+30);c.stroke();
+  c.strokeStyle='rgba(255,255,255,.55)';c.lineWidth=10;c.beginPath();c.moveTo(x+26,top+60);c.lineTo(x+26,bot-40);c.stroke();
+  c.restore();
+}
+function road(GY,prog){
+  c.strokeStyle=INK;c.lineWidth=6;c.beginPath();c.moveTo(120,GY);c.lineTo(1800,GY);c.stroke();
+  [[0,'0K'],[10,'10K'],[20,'20K'],[30,'30K'],[32,'32K'],[42.2,'42.2K']].forEach(([k,l])=>{const x=120+k/42.2*1680;
+    c.strokeStyle=k===32?RED:INK;c.lineWidth=5;c.beginPath();c.moveTo(x,GY-14);c.lineTo(x,GY+14);c.stroke();
+    hand(l,x,GY+46,40,k===32?RED:INK,'center')});
+}
+const KIT={top:'#3c6e91',shorts:'#2b2622',skin:SKIN[0],hair:HAIR[1],shoe:'#f5b52e',bib:true};
+const SCENES=[{id:'tank-demo',dur:12}];
+function load(i){}
+function frame(t){
+  paper();
+  // title
+  hand('Where does your marathon fuel go?',120,110,84,INK,'left',seg01(t,0,0.8));
+  // jar fills, then drains to empty at 32K
+  const fill=seg01(t,0.6,1.8), prog=Math.min(1,Math.max(0,(t-2.0)/7.0)); // 2.0s..9.0s = 0..32K
+  const level=fill*(1-prog);
+  jar(300,220,260,430,level,0.8,seg01(t,0.3,0.9));
+  if(t>1.2){hand('about 500 g of carbs',430,700,46,INK,'center',seg01(t,1.2,1.8))}
+  if(t>2.2&&t<9.2){const a=seg01(t,2.2,2.8)*(1-seg01(t,8.6,9.2));
+    c.save();c.globalAlpha=a;c.strokeStyle=INK;c.lineWidth=4;c.beginPath();c.moveTo(580,560);c.lineTo(650,600);c.stroke();c.restore();
+    hand('muscle: about 400 g',660,610,40,MUS,'left',a);hand('liver: about 100 g',660,660,40,LIV,'left',a)}
+  // clock
+  const k=prog*32, mins=Math.round(prog*182);
+  const hh=Math.floor(mins/60), mm=String(mins%60).padStart(2,'0');
+  c.save();c.globalAlpha=seg01(t,1.5,2.0);c.fillStyle=INK;c.beginPath();c.roundRect(1440,170,360,150,24);c.fill();
+  c.fillStyle=t>9?RED:YEL;c.font="800 110px BC";c.textAlign='center';c.textBaseline='middle';c.fillText(`${hh}:${mm}`,1620,250);c.restore();
+  hand('4-hour pace',1620,355,40,INK,'center',seg01(t,1.5,2.0));
+  // road + runner
+  const GY=900; road(GY);
+  const slow=seg01(t,9.2,10.5);
+  const kAll=t<9?k:32+ (t-9)*0.55*(1-slow*0.6);
+  const x=120+kAll/42.2*1680;
+  const ph=t*(1.6-slow*0.9);
+  person({x,g:GY-4,s:1.25,f:1,look:KIT,pose:mix(run(ph,1-slow*0.6,10+slow*10),{hipN:10,hipF:-8,kneeN:-6,kneeF:-10,shN:4,elN:60,shF:-8,elF:50,lean:22,head:16,lift:0},slow*0.8)});
+  // the wall
+  if(t>9){const a=seg01(t,9,9.4);
+    hand('empty: about 3 hours, about 32K',1080,470,66,RED,'center',a);
+    c.save();c.globalAlpha=a*(0.5+0.5*Math.sin(t*10));c.strokeStyle=RED;c.lineWidth=8;c.beginPath();c.arc(300+130,220+430-12,40,0,7);c.stroke();c.restore()}
+  if(t>10.3){hand('the 4th hour has to come from your pocket',960,1010,58,INK,'center',seg01(t,10.3,11))}
+}
+const Q=new URLSearchParams(location.search);
+document.fonts.ready.then(()=>{if(!Q.get('render')){frame(+Q.get('t')||9.6)};document.title='ready'});
+</script></body></html>
