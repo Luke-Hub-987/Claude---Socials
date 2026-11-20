@@ -1,0 +1,92 @@
+<!doctype html><html><head><meta charset="utf-8"><title>3:59 cutaways</title>
+<!-- 3:59 reel, full-screen TED-Ed style cutaways (Luke, 20 Nov: full screen, his audio runs underneath, no stick figures).
+     1080 x 1920. Safe zone: nothing that matters below y 1344 (subtitles, IG buttons) or above y 190.
+     ?s=sheet (the cast) | 1 | 2 | 3 (one key frame per cutaway). Facts: the script's facts table (Allen 2017). -->
+<style>
+@font-face{font-family:Hand;font-weight:700;src:url(../../fonts/Caveat-700-normal.woff2) format('woff2')}
+@font-face{font-family:BC;font-weight:800;src:url(../../fonts/BarlowCondensed-800-normal.woff2) format('woff2')}
+@font-face{font-family:BC;font-weight:700;src:url(../../fonts/BarlowCondensed-700-normal.woff2) format('woff2')}
+html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#f3ead8}
+svg{display:block}
+</style></head><body><div id="root"></div>
+<script></script><script src="rig.js"></script><script>
+/* ---------------- frames ---------------- */
+const F={};
+F.sheet=()=>{let g=paper();
+  g+=hand(W/2,170,'the cast',96,C.ink);
+  // row 1: our runner in three poses
+  const r1=[['run','running','calm','line',[0,0]],['trudge','40K, heavy','tired','puff',[2,4]],['sprint','the clock says go','set','open',[2,-4]]];
+  r1.forEach(([pose,lab,brow,mouth,eye],i)=>{const x=200+i*340;
+    g+=runner({x,y:740,s:1.15,pose,look:{brow,mouth,eye,sweat:pose==='trudge'}}).g+hand(x+20,820,lab,50,C.ink)});
+  // row 2: the crowd
+  g+=hand(W/2,900,'everyone else',64,C.ink);
+  const looks=[{skin:SK[0],hair:HR[2],style:'pony',top:'#e48a5a',shorts:'#3a4a5e'},{skin:SK[3],hair:HR[3],style:'short',top:'#7fae8e',shorts:C.ink},
+    {skin:SK[4],hair:HR[4],style:'bun',top:'#b58cc9',shorts:'#2c3a4d'},{skin:SK[2],hair:HR[1],style:'cap',top:'#e8c25a',shorts:'#3a4a5e'},{skin:SK[5],hair:HR[5],style:'bald',top:C.mute,shorts:C.ink}];
+  looks.forEach((L,i)=>{L.shoe=['#ffffff','#e85d4a','#ffffff','#5aa0e6','#ffffff'][i];g+=runner({x:140+i*200,y:1280,s:.82,pose:i%2?'run':'stand',adj:i%2?{}:{lean:3},look:Object.assign({bib:true},L)}).g});
+  // row 3: finisher tokens and the clock
+  [0,1,2,3,4].forEach(i=>{g+=token(330+i*105,1450,.95,[C.blue,'#e48a5a','#7fae8e','#b58cc9','#e8c25a'][i],SK[i],HR[i])});
+  g+=hand(170,1470,'finishers',50,C.ink);
+  g+=clock(W/2,1660,520,'3:59:41',C.red);
+  return g+finish()};
+
+F[1]=()=>{let g=paper();
+  // the clock has just flipped past 3:00
+  g+=clock(W/2,300,640,'3:00:00','#f6efe2');
+  g+=hand(W/2,480,'1 minute either side of 3 hours',62,C.ink);
+  // columns: 12 finishers in the minute under, 8 in the minute over (51.4% more, drawn as 50%)
+  const base=1230, rowH=96, colX=[300,780], tops=['#1f7ae0','#e48a5a','#7fae8e','#b58cc9','#e8c25a','#9fb0c6'];
+  [[12,0],[8,1]].forEach(([n,c])=>{for(let i=0;i<n;i++){const r=Math.floor(i/2),k=i%2;
+    g+=token(colX[c]-58+k*116,base-48-r*rowH,1,tops[(i*5+c*3)%6],SK[(i+c)%6],HR[(i*2+c)%6])}});
+  g+=`<rect x="120" y="${base+2}" width="840" height="10" rx="5" fill="${C.ink}"/>`;
+  g+=num(colX[0],base+92,'2:59',84,C.red)+num(colX[1],base+92,'3:00',84,C.ink);
+  // the one falling in
+  g+=token(colX[0]+58,base-48-6*rowH+20,1,C.blue,SK[1],HR[0]);
+  g+=`<path d="M${colX[0]+58} ${base-48-6*rowH-50} l0 -26 M${colX[0]+18} ${base-48-6*rowH-30} l0 -26 M${colX[0]+98} ${base-48-6*rowH-30} l0 -26" stroke="${C.ink}" stroke-width="7" stroke-linecap="round" opacity=".35"/>`;
+  // the label over the short column, pointing at the tall one
+  g+=hand(colX[1],760,'~50% more',112,C.gold,'middle',-4);
+  g+=arrow(`M${colX[1]-140} 790 C ${colX[1]-240} 800 ${colX[0]+200} 800 ${colX[0]+130} 690`,C.gold)+`<path d="M${colX[0]+118} 724 L${colX[0]+128} 684 L${colX[0]+164} 704" stroke="${C.gold}" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round"/>`;
+  return g+finish()};
+
+F[2]=()=>{let g=paper();
+  // the road and the finish gantry
+  g+=`<rect x="0" y="1170" width="${W}" height="174" fill="${C.road}"/><rect x="0" y="1170" width="${W}" height="10" fill="${shade(C.road,.12)}"/>`;
+  for(let i=0;i<6;i++)g+=`<rect x="${-40+i*210}" y="1262" width="120" height="12" rx="6" fill="#efe6d4"/>`;
+  // crowd barrier silhouettes behind
+  g+=`<rect x="0" y="1060" width="${W}" height="110" fill="${C.paper2}"/>`;
+  for(let i=0;i<11;i++)g+=`<circle cx="${30+i*98}" cy="1052" r="30" fill="${shade(C.paper2,.08)}"/><rect x="${4+i*98}" y="1060" width="52" height="60" rx="20" fill="${shade(C.paper2,.08)}"/>`;
+  g+=`<rect x="0" y="1110" width="${W}" height="16" fill="${shade(C.paper2,.15)}"/>`;
+  // gantry
+  g+=`<rect x="640" y="600" width="30" height="580" fill="${C.ink}"/><rect x="990" y="600" width="30" height="580" fill="${C.ink}"/>`;
+  g+=`<rect x="610" y="600" width="440" height="110" rx="10" fill="${C.blue}"/>`+num(830,684,'FINISH',80,'#fff');
+  g+=`<rect x="825" y="540" width="10" height="60" fill="${C.ink}"/>`;
+  g+=clock(830,450,440,'3:57:40','#f6efe2');
+  // our runner, eyes on the clock
+  const r=runner({x:250,y:1250,s:1.4,pose:'run',adj:{lean:12,tilt:-14},look:{brow:'up',eye:[3,-5],mouth:'open'}});
+  g+=speed(70,820,5,150)+r.g;
+  // marker and lettering
+  g+=`<g transform="translate(540 1168)"><rect x="-4" y="-150" width="8" height="150" fill="${C.ink}"/><rect x="-70" y="-210" width="140" height="70" rx="10" fill="#fff" stroke="${C.ink}" stroke-width="6"/>${num(0,-158,'400 M',48)}</g>`;
+  g+=hand(270,330,'the clock',84,C.ink,'middle',-5)+hand(270,420,'is close',84,C.ink,'middle',-5);
+  return g+finish()};
+
+F[3]=()=>{let g=paper();
+  // a park: grass, trees, a path
+  g+=`<rect x="0" y="1040" width="${W}" height="304" fill="${C.grass}"/>`;
+  g+=tree(110,1060,1.1,C.tree,C.treeD)+tree(960,1050,.9,C.treeD,C.tree)+tree(800,1030,.6,C.tree,C.treeD);
+  g+=`<path d="M0 1200 C 300 1150 700 1170 ${W} 1140 L${W} 1280 C 700 1300 300 1290 0 1340Z" fill="${C.road}"/>`;
+  // the 2K to go marker
+  g+=`<g transform="translate(860 1190)"><rect x="-6" y="-170" width="12" height="170" fill="#7a5b40"/><rect x="-100" y="-260" width="200" height="104" rx="14" fill="#fff" stroke="${C.ink}" stroke-width="6"/>${num(0,-218,'2K',62)}${num(0,-172,'TO GO',36)}</g>`;
+  const r=runner({x:420,y:1270,s:1.3,pose:'watch',watch:true,look:{skin:SK[4],hair:HR[2],style:'pony',top:C.blue,brow:'calm',eye:[0,4]}});
+  g+=r.g;
+  // the watch, close up
+  const wx=780,wy=560;
+  g+=`<path d="M${r.hand.x+10} ${r.hand.y-20} Q ${wx-200} ${wy+260} ${wx-120} ${wy+150}" stroke="${C.ink}" stroke-width="6" stroke-dasharray="4 16" stroke-linecap="round" fill="none"/>`;
+  g+=`<rect x="${wx-62}" y="${wy-240}" width="124" height="480" rx="36" fill="${C.ink}"/>`;
+  g+=`<circle cx="${wx}" cy="${wy}" r="190" fill="${C.ink}"/><circle cx="${wx}" cy="${wy}" r="165" fill="#15110e"/>`;
+  g+=num(wx,wy-70,'3K',48,C.mute)+num(wx,wy+45,'14:52',134,'#f6efe2')+num(wx,wy+106,'NEED 15:00',40,C.mute);
+  g+=`<path d="M60 300 l34 34 l70 -86" stroke="${C.gold}" stroke-width="14" fill="none" stroke-linecap="round" stroke-linejoin="round"/>`+hand(184,330,'in reach',100,C.gold,'start',-4);
+  g+=hand(70,470,'aiming for 25:00',56,C.ink,'start',-3);
+  return g+finish()};
+
+const s=new URLSearchParams(location.search).get('s')||'sheet';
+document.getElementById('root').innerHTML=`<svg width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg">${defs}${F[s]()}</svg>`;
+</script></body></html>

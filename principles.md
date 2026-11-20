@@ -6525,7 +6525,37 @@ there's a deeper reason"), so a guessable title becomes the hook. The aha, the
 clear fact or the myth bust comes in the first sentence after the hook (by
 about 0:15), never saved for later stages.
 
-## P229 — A topic needs a real unknown, not a joke (Luke, 21 Nov)
+## P229 — Characters with real shape, and every picture shows the words (Luke, 20 Nov)
+
+Luke, on the TED-Ed cutaways for the 3:59 reel: "I don't really like the look of
+the stick figures... they don't really look that visual or appealing. Obviously
+you want to keep everything very clear, very simple, but... very in line with what
+we're saying. And the motion graphic should be able to back that up in order to
+fully illustrate exactly what we're talking about." He chose full-screen
+animation, with his recorded audio running underneath.
+
+**The rule:**
+- **No stick figures.** Characters have bodies: a shaped torso in a singlet,
+  shorts, tapered limbs with a calf, shoes, a face (eye, brow, mouth, cheek) and
+  hair. Flat colour, no outlines, a darker shade for the far limbs. Our runner
+  wears ERN blue with gold shoes in every reel; the crowd is muted.
+- **Simple and clear:** one idea per shot, 3 to 5 words on screen, nothing
+  decorative.
+- **Every shot shows the exact line being said:** the number, the place or the
+  action in the audio, drawn so it can be seen (a column 50% taller, the clock at
+  3:57:40). If a shot doesn't show the line, it's cut.
+- **Our runner (Luke, 20 Nov, later):** a fair-skinned white guy with brown hair,
+  ERN blue singlet, gold shoes; the crowd around him stays mixed. **The ERN logo
+  sits on every animated frame** (top right, under Instagram's top bar).
+- **Full screen (9:16) for cutaways; Luke's audio runs underneath;** the style is
+  approved on a character sheet and one key frame per cutaway before anything is
+  animated.
+- Kit: `motion/three-59/teded/scenes.html` (the `runner()` rig, poses, tokens,
+  clock); stills with `node motion/three-59/teded/shoot.js`.
+
+*Source: Luke, 20 Nov.*
+
+## P230 — A topic needs a real unknown, not a joke (Luke, 21 Nov)
 Luke, on story-poll topics WHY STAIRS HURT AFTER A MARATHON, HOW MANY PINTS
 DOES A MARATHON BURN? and WHY YOUR MARATHON PEAK COMES AFTER 30: "These suck -
 trying to be too funny? No one really cares about those and no curiosity."
