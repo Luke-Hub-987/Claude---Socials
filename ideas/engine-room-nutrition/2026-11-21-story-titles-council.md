@@ -68,3 +68,9 @@ the psychology of chosen suffering (Bloom, The Sweet Spot); RunRepeat's
 average finish times (1986 to 2019); ultra finishers' average age; Hyrox
 participant numbers; World Athletics course measurement (shortest route,
 0.1% long). A title whose fact fails is dropped.
+
+## Shortened (Luke 21 Nov: "titles are too long for story")
+One line each, 25 characters or fewer.
+Poll 1: Why bankers love running (24) / Why runners pay to suffer (24) / Why run clubs beat pubs (23) / Why marathons hook you (22)
+Poll 2: Why everyone runs now (21) / Why ballots got so hard (23) / Why Hyrox blew up (17)
+Poll 3: Why marathons got slower (24) / Why 40-year-olds go ultra (25) / Why your watch says 42.6K (25)
