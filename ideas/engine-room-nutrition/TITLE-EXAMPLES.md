@@ -96,3 +96,18 @@ adding more: when Luke sends a new example, save it to research/title-examples/N
 | THE 10% MILEAGE RULE / FAILED ITS ONLY TRIAL (41% skip, 0.4% saves) | 4-HOUR MARATHONS DIE / IN HOUR 4 / (EVEN THE FIT ONES) (26.8% skip, 278 saves) | About a study → about them; a report word → a death word; their number |
 | HOW TO PACE A MARATHON | HOW TO RUN A SUB-4 MARATHON (SECRETLY) (18.5% skip) | The goal number + a one-word twist |
 | YOUR 22G GELS WILL STARVE YOUR MARATHON | (dead: nobody knows their gel's grams) | Bold about a problem they don't know they have is still for no one |
+
+## Added 20 Nov (Luke's 13 screenshots: TED-Ed, Ben Parkes, Steve Magness, IG Explore, a TikTok list; `research/title-examples/2026-11-20-*.png`)
+| # | Creator, platform | Title | Numbers | The move |
+|---|---|---|---|---|
+| 24 | Ben Parkes, YouTube | How to Run Fast at a Low Heart Rate (thumbnail: 165 BPM → 129 BPM) | 1.4M | A before-and-after number from their own watch, on the picture |
+| 25 | Ben Parkes, YouTube | If I Started Running Today, This Is What I'd Do & Buy | 977K and 804K (two versions) | The guide's hindsight as a list |
+| 26 | Ben Parkes, YouTube | If I Only Had 5 Minutes With Most Runners, I'd Change These 5 Things (thumbnail: DON'T TRUST THIS, a watch) | 595K | Scarce time + a count; the thing on your wrist turned against you |
+| 27 | TED-Ed, YouTube | What would happen if you didn't drink water? / didn't sleep? | 23M / 15M | Take away something they do every day |
+| 28 | TED-Ed, YouTube | What makes muscles grow? / How the food you eat affects your brain | 23M / 21M | A body process they live with and can't explain, a plain question |
+| 29 | TED-Ed, YouTube | Questions No One Knows the Answers To | 29M | An honest unknown |
+| 30 | Steve Magness, YouTube | The Truth About Long Runs / How To Get Fast Running Under 50 Miles A Week (Amateur) | 369K / 120K | "The truth about" + the amateur's constraint |
+| 31 | IG Explore | Half marathon vs marathon (700K); Fuel like a 2:07 marathoner (118K); Why some people handle pressure better than others (172K); Balancing drinking and fitness (265K); HE'S 23. I'M 35. (5M) | as shown | Two things set side by side; the elite as a yardstick; a split between people like you; their real weekend; an age contrast |
+| 32 | rory.bingethinking, TikTok | 5/5 Websites That Will Make You Smart (again), the list 1 to 5 on screen with blanks | 13.5K likes, **12.1K saves** | A numbered series with blanks still to fill: you wait for the last one, and you save it |
+
+**What we take:** the before-and-after number (24), the TED-Ed plain question about something they do every day (27, 28), and the numbered series with blanks (32). **What we don't:** Magness's "run slower" (true for pros, not amateurs: P226). The 30 headlines built from these are in `2026-11-20-titles-30-from-the-greats.md`.
