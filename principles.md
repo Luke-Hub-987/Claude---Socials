@@ -6506,3 +6506,21 @@ the script, frame one's layout and the post type stay identical; only the
 on-screen title changes. Write the hook so it sits under both titles before
 either is filmed (the hook's claims true for both), and post both as the same
 kind of reel (trial vs trial), so the difference in skip rate is the title's.
+
+## P228 — Off season, interest beats need (Luke, 21 Nov)
+Luke, on WHY SO MANY MARATHONERS FINISH AT 3:59 against YOU WEREN'T EMPTY AT
+41K: "it was so super specific to marathons, but there's no real interest in a
+lot of marathons now... I've done the marathon maybe 3 or 4 weeks ago, I don't
+give a fuck about that. But I would be interested in knowing why so many
+marathons finish under 3:59... it may seem obvious that everyone wants to
+finish on 3:59, but there's a deeper reason as to why, and then give someone an
+aha moment or a clear fact or bust a myth... very early on and give value
+straight away."
+
+**The rule:** when most viewers have no race coming (P225), the title is
+something they find interesting today, about a thing they've seen or wondered
+(3:59 finishes), not a moment inside a race they aren't running (41K, 30K). The
+hook names the obvious answer and sets it aside ("you'd think it's X, but
+there's a deeper reason"), so a guessable title becomes the hook. The aha, the
+clear fact or the myth bust comes in the first sentence after the hook (by
+about 0:15), never saved for later stages.

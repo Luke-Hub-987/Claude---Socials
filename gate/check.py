@@ -173,7 +173,7 @@ def run(path):
     # G1 first words are the viewer
     first = norm_tokens(paras[0])
     bad_first = first[0] in ("we", "we've", "weve", "i", "i'm", "im", "our", "my", "us")
-    you_early = any(w in ("you", "your", "you've", "you're", "youve", "youre") for w in first[:8])
+    you_early = any(w in ("you", "your", "you've", "you're", "you'd", "you'll", "youve", "youre", "youd", "youll") for w in first[:8])
     # P197 (Luke 10 Nov): line one may name the viewer in their own words as a question to them
     first_sent = sentences(paras[0])[0] if sentences(paras[0]) else paras[0]
     names_viewer = first_sent.strip().endswith("?") and len(first_sent.split()) <= 14

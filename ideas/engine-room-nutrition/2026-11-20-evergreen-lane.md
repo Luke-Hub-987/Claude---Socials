@@ -121,3 +121,11 @@ titles. Facts still to source before any script are in that file.
 - **Chairman verdict:** run Lane A as the default until the spring blocks
   start, trial first; keep Lane B for race weeks. Amend G5 now so the gate
   stops pushing the off-season content towards dates nobody has.
+
+## 9. Interest, not need (Luke, 21 Nov, P228)
+The first Lane A pick showed the line: WHY SO MANY MARATHONERS FINISH AT 3:59
+(interesting to anyone who has seen a finish clock) over YOU WEREN'T EMPTY AT
+41K (useful only to a runner in a race). Off season, the title earns the watch
+by being interesting today; the use comes after. The hook names the obvious
+answer and sets it aside ("you'd think it's X, but there's a deeper reason"),
+and the aha or myth bust is the first sentence after the hook.
