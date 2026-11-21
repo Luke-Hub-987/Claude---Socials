@@ -59,7 +59,7 @@ exactly (PREMIER LEAGUE, not PROS), a picture they've lived.
 - **Bold first, Luke trims:** at least 5 of the 20 should feel like too much (the strongest true word, the flip, the paradox, the identity taken away). Luke pulls back more easily than he pushes forward, and he's had to push every time.
 - **The 24x edit on every title** (TITLE-EXAMPLES.md, dull → bold pairs): a count? a stronger verb? a bracket that escalates, adds a constraint or a number? the feeling word, not the report word (brutal, not effective)?
 - **Original, not copied:** take the creator's move, write our own line in runners' words.
-- **The swap test:** if any running account could post it unchanged, rewrite it.
+- ~~The swap test~~ (removed 21 Nov, P233: how to run a sub-4 and how to carb load won though anyone could post them). Specific and bold still beat generic.
 - **The pub test:** would a runner say it to a mate after one read?
 
 ### 3. The code check

@@ -224,13 +224,16 @@ def run(path):
             probs.append(f"{name.replace('_', ' ')}: '{m.group(0)}'")
     if str(fm.get("generated_at", "")) >= "2026-11-13":
         # P210 (Luke 13 Nov): every OST scores 9 or more of 10 on OST-SCORECARD.md before Luke sees it
-        m = re.search(r"(\d+)\s*/\s*10", f.get("ost score", ""))
+        # P233 (Luke 21 Nov): test 7 removed, so new titles score out of 9 (bar 8); old N/10 scores keep bar 9
+        m = re.search(r"(\d+)\s*/\s*(10|9)\b", f.get("ost score", ""))
         if not m:
-            probs.append("no 'OST score: N/10' in the Gate fields (OST-SCORECARD.md, P210)")
-        elif int(m.group(1)) < 9 and fm.get("ost_score_ok_by_luke"):
-            res.append(("G10", "INFO", f"OST scores {m.group(1)}/10: Luke's call ({fm.get('ost_score_ok_by_luke')})"))
-        elif int(m.group(1)) < 9:
-            probs.append(f"OST scores {m.group(1)}/10 (9 to show Luke, P210; or Luke's yes in `ost_score_ok_by_luke:`)")
+            probs.append("no 'OST score: N/9' in the Gate fields (OST-SCORECARD.md, P210, P233)")
+        else:
+            sc, of = int(m.group(1)), int(m.group(2)); bar = 9 if of == 10 else 8
+            if sc < bar and fm.get("ost_score_ok_by_luke"):
+                res.append(("G10", "INFO", f"OST scores {sc}/{of}: Luke's call ({fm.get('ost_score_ok_by_luke')})"))
+            elif sc < bar:
+                probs.append(f"OST scores {sc}/{of} ({bar} to show Luke, P210/P233; or Luke's yes in `ost_score_ok_by_luke:`)")
     for mk in markers:
         if len(mk) > 22:
             probs.append(f"marker '{mk}' is {len(mk)} characters")

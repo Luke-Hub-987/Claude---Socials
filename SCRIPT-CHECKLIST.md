@@ -564,3 +564,4 @@ twice without being checked against the winners (P99).
 - [ ] **The runner's own world (P231):** the curiosity topic is about the viewer's job, friends, club or the boom they're in (why people like me do this), never trivia from outside their life.
 
 - [ ] **P232:** title or topic request? Start from the topic bank (`2026-11-20-titles-30-from-the-greats.md`), unused TED-Ed shapes first; mark used ones with the date.
+- [ ] **P233:** no 'only we could post it' / swap test on titles; score out of 9, 8+ to show Luke; a repeat of our own reel is a posting call (G32), not a title point.

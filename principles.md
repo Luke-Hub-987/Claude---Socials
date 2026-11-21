@@ -6596,3 +6596,18 @@ question about something they do or feel, a body process explained, "what
 happens if") at the front. A banked topic still goes through the full title run
 and FACTS before a script. Mark it used with its date when it's posted; add new
 headlines Luke likes to the same file.
+
+
+## P233 — No "only we could post it" test (Luke, 21 Nov)
+Luke, on the no-gel titles capped at 7 by scorecard test 7: "I don't think we
+need that test in there... all those videos for like how to run a sub 4-hour
+marathon, how to carb load, all those videos did really well in the run up to
+the races, okay? But anybody could say that. Anybody could post that. So get rid
+of that test and reevaluate."
+
+**The rule:** OST-SCORECARD test 7 (only we could post it) and the title
+producer's swap test are gone. A topic being common on other accounts costs a
+title nothing. The scorecard is 9 tests; 8 or more goes to Luke (old N/10 scores
+stay as the record, bar 9). A repeat of **our own** posted reel is still handled
+by the posting rules (G32: a trial reel, or 7+ days on the profile), not by the
+title score.

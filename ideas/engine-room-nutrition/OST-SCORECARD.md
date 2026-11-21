@@ -4,7 +4,9 @@ generated_at: 2026-11-13
 why: Luke, 13 Nov: "you keep reverting to the mean... playing it safe, plain, boring... I have to push you every bloody time." YOU CARRY 3 HOURS OF / CARBS. YOUR RACE IS / 4 HOURS went to him and scored 2 of 8 below. Nothing goes to Luke under 9 (two tests added 13 Nov after v2 scored 8 of 8 and still had holes).
 ---
 
-# The OST scorecard (10 points; 9 or more to show Luke)
+# The OST scorecard (9 points; 8 or more to show Luke)
+
+**P233 (Luke, 21 Nov): test 7, "only we could post it", is removed.** How to run a sub-4 and how to carb load did well in the run-up to races though any account could post them. Old scores out of 10 below are kept as the record; new titles are scored out of 9, bar 8. A repeat of our own posted reel is still a posting decision (G32, trial reel), not a title point.
 
 | # | Test | Pass looks like | From |
 |---|---|---|---|
@@ -14,7 +16,7 @@ why: Luke, 13 Nov: "you keep reverting to the mean... playing it safe, plain, bo
 | 4 | **It picks a fight** | Someone would comment "that's wrong" | Stop doing zone 2 (309K); our wall ACTUALLY (147K) |
 | 5 | **One exact number or place** | 3 HOURS, 32K, £250 | P178 two of five |
 | 6 | **The Outsider stops** | A non-runner would read it twice | Council |
-| 7 | **Only we could post it** | It couldn't sit on any other running account unchanged | P200 |
+| ~~7~~ | ~~Only we could post it~~ | **Removed 21 Nov (P233)** | |
 | 8 | **The pub test** | Someone would say it out loud to a mate | P200, G33 |
 | 9 | **A reason to stay to the end** | An escalation or sting in brackets, or a count | Nerves of steel: the tag was the 24x |
 | 10 | **The top line carries the pulse** | No question, filter or "why" up top; the verdict first | Ogilvy: the first words are the most read (v2 wasted them on "4-HOUR MARATHONER?") |
@@ -34,8 +36,7 @@ why: Luke, 13 Nov: "you keep reverting to the mean... playing it safe, plain, bo
 - Never put a habit in Luke's mouth he hasn't told us ("I walk from the start": he runs). His own practice is "Luke to OK" before it reaches a title or line one.
 
 **Tighter wording (16 Nov, pre-mortem 2):**
-- Test 7 fails if the topic is already a common video on other running
-  accounts, whatever bracket is added.
+- ~~Test 7 fails if the topic is already a common video on other running accounts~~ (removed 21 Nov, P233: common topics are fine).
 - Test 4: the belief is one they hold confidently, not one they already doubt.
 - No hedge word in the title (SOME, MAY, CAN, MOST). If it needs one to be
   true, find a stronger true claim.

@@ -13,7 +13,7 @@ test, and you say what would pass.
 ## Read exactly these
 1. The candidates file you're given (titles, red word, the stranger's
    questions, the hook). **Ignore any score, ranking or reasoning in it.**
-2. `ideas/engine-room-nutrition/OST-SCORECARD.md`: the 10 tests, the
+2. `ideas/engine-room-nutrition/OST-SCORECARD.md`: the 9 tests (test 7 removed, P233), the
    must-passes and the scored rows (what Luke killed and why).
 3. `ideas/engine-room-nutrition/2026-11-16-premortem-psychology.md`: the five levers.
 3b. `ideas/engine-room-nutrition/TITLE-EXAMPLES.md`: what worked for other creators and why; judge each title against the best of them, not against our own past.
@@ -38,16 +38,16 @@ test, and you say what would pass.
    with numbers, the problem with, scare quotes, a tier list. Fear titles
    still need the enemy outside the viewer. Judge against Briar's and the
    other creators' titles: would this sit in their grid?
-4. **The 10 tests,** 1 or 0 each, one line of evidence each.
+4. **The 9 tests (test 7 removed, P233),** 1 or 0 each, one line of evidence each.
 5. **The five levers:** which are present.
 6. **The hook (if given):** does line one say the title's keywords back
    within the first 20 words, open one question the title promised, and reach
    something usable by about 0:15? Does it give away the payoff?
-6b. **The grid test, the swap test, the memory test:** would it sit in the top row of Briar's, Cian's or diewithoutregretss' grid? Could any running account post it unchanged (then 0 on test 7)? Would a runner remember it an hour later? A safe, clear, forgettable title is a flop, not a pass.
+6b. **The grid test, the swap test, the memory test:** would it sit in the top row of Briar's, Cian's or diewithoutregretss' grid? (Test 7, "only we could post it", was removed on 21 Nov by P233: a common topic on other accounts costs nothing; score out of 9, bar 8.) Would a runner remember it an hour later? A safe, clear, forgettable title is a flop, not a pass.
 7. **One line on why it would flop** (the strongest reason, not a list).
 
 ## Write `<candidates file without .md>-review.md`
-- A table: title, score out of 10, must-passes (pass/fail), the strongest
+- A table: title, score out of 9, must-passes (pass/fail), the strongest
   flop reason.
 - **Your top 3, ranked**, with one sentence each on why it beats the next.
 - For any title you'd fix, the exact rewrite in capitals with its line
