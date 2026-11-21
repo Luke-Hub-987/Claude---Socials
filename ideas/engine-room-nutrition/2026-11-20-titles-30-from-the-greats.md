@@ -3,7 +3,7 @@ type: topic and title bank, 30 headlines (Luke, 20 Nov: "based on some of these 
 sources: Luke's 13 screenshots, saved to research/title-examples/2026-11-20-*.png (TED-Ed, Ben Parkes, Steve Magness, IG Explore, a TikTok list series); rows in TITLE-EXAMPLES.md
 rules_applied: P225 (evergreen first), P226 (a secret question, true for amateurs), P228 (interest beats need; the obvious answer named, then the deeper reason), P230 (a real unknown, never a joke), P231 (the runner's own world), Ogilvy (specific, self-interest, believable, no blind curiosity), G27 (no named athletes)
 facts: "FACTS" = already in FACTS.md; "verify" = a real source named but not yet read, so it's read into FACTS before any script; nothing here goes to a script until then
-status: a bank. Each pick still goes through title-producer (20 titles, ost_check, the cold ost-reviewer) before a script
+status: THE TOPIC BANK (P232, Luke 21 Nov: 'I like most of these, particularly the TED-Ed ones... remember these for next time'). Used: #29 no gels (ERN poll winner, 21 Nov, title run started). A bank. Each pick still goes through title-producer (20 titles, ost_check, the cold ost-reviewer) before a script
 ---
 
 # 30 headlines from what's working (TED-Ed, Ben Parkes, Magness, IG Explore)

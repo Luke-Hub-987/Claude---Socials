@@ -18,6 +18,9 @@ written first, checked in code, reviewed cold, and only then scripted.
 ### 0. Read the library
 `ideas/engine-room-nutrition/TITLE-EXAMPLES.md`: the other creators' titles and covers Luke has sent, what works across them, what we take and can't. If Luke sends a new example, save it to `research/title-examples/` and add a row there in the same turn, so he never sends it twice.
 
+### 0b. Read the topic bank (Luke, 21 Nov, P232)
+`ideas/engine-room-nutrition/2026-11-20-titles-30-from-the-greats.md`: the 30 headlines Luke liked ("particularly the TED-Ed ones"). When Luke asks for titles or topics, start from this bank: offer the unused ones first, TED-Ed shapes (what happens if, why your X does Y, where the fat goes) at the front, and mark each one used with its date when it's posted.
+
 ### 1. The levers before any words
 Write the five levers for the topic (`ideas/engine-room-nutrition/2026-11-16-premortem-psychology.md`):
 1. **The enemy outside the viewer:** the advice, the myth, the body, the tradition. Never their character or rank.

@@ -6568,6 +6568,8 @@ watch reading 42.6K). Never jokey everyday trivia, never a pub fact, never a
 cute angle chosen to be funny. The ERN poll (Kipchoge, no gel, the record) is
 the bar.
 
+**Update, 21 Nov:** Luke's own story poll put WHY MARATHONERS PEAK AT 30+ first (56%). The topic is fine when framed as a real unknown; what P230 kills is the jokey angle, not the subject.
+
 ## P231 — The topic is the runner's own world (Luke, 21 Nov)
 Luke, on CAN A HUMAN OUTRUN A HORSE?, RUNNER'S HIGH ISN'T WHAT YOU THINK and
 WHY YOUR LEGS BURN: "These suck also - why would runners think about horses?
@@ -6580,3 +6582,17 @@ part of (why people in finance love endurance, why everyone's obsessed with
 endurance, why run clubs replaced the pub). The question they've had is "why
 are people like me doing this?". Never trivia from outside their life
 (animals, pub facts), and never body science they didn't ask about.
+
+
+## P232 — The topic bank comes first, TED-Ed shapes at the front (Luke, 21 Nov)
+Luke, on the 30 headlines built from TED-Ed, Ben Parkes, Magness and IG Explore:
+"Yes I like most of these, particularly the Ted ed ones personally - lets bucket
+these and remember these for next time I ask for titles."
+
+**The rule:** `ideas/engine-room-nutrition/2026-11-20-titles-30-from-the-greats.md`
+is the topic bank. Every title or topic request starts there (the title-producer
+skill reads it at step 0b): unused ones first, the TED-Ed shapes (a plain
+question about something they do or feel, a body process explained, "what
+happens if") at the front. A banked topic still goes through the full title run
+and FACTS before a script. Mark it used with its date when it's posted; add new
+headlines Luke likes to the same file.

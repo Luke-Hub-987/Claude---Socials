@@ -562,3 +562,5 @@ twice without being checked against the winners (P99).
 - [ ] **A real unknown, not a joke (P230):** the topic has a limit, a mechanism or a threat they can't explain, with something at stake; never jokey everyday trivia or a pub fact.
 - [ ] **Characters with shape, pictures that show the words (P229):** no stick figures (torso, shorts, tapered limbs, shoes, a face); our runner a fair-skinned white guy in ERN blue with gold shoes; the ERN logo on every animated frame; each animated shot draws the exact number, place or action being said, 3 to 5 words on screen; style approved on stills before animating.
 - [ ] **The runner's own world (P231):** the curiosity topic is about the viewer's job, friends, club or the boom they're in (why people like me do this), never trivia from outside their life.
+
+- [ ] **P232:** title or topic request? Start from the topic bank (`2026-11-20-titles-30-from-the-greats.md`), unused TED-Ed shapes first; mark used ones with the date.
