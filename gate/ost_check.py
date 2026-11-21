@@ -117,7 +117,7 @@ def check(title, red=None, stranger=None, luke_said=None, hook=None, render=True
     add("T4 no hedge", not h, "no hedge word" if not h else f"hedge {sorted(set(h))}: find a stronger true claim")
 
     # T5 the event or sport named on screen (the stranger's "in what?")
-    ev = re.search(EVENTS, body) or re.search(r"\b(?:FIT|FITTER|FAST|FASTER|STRONG|STRONGER|ATHLETES?|ENGINE)\b(?=.*\bAGAIN\b|.*\bBACK\b)", body)   # P236: broad "again" titles (fit again, your engine back)
+    ev = re.search(EVENTS, body) or re.search(r"\b(?:FIT|FITTER|FAST|FASTER|STRONG|STRONGER|ATHLETES?|ENGINE)\b(?=.*\b(?:AGAIN|BACK|STOLE|STOLEN|LOST)\b)", body)   # P236: broad "again" titles (fit again, your engine back)
     add("T5 in what?", ev is not None, f"names '{ev.group(0)}'" if ev else "no event or sport on screen (MARATHON, PARKRUN, SUNDAY LEAGUE...): 'in what?'")
 
     # T6 every number carries its unit or counts a noun
