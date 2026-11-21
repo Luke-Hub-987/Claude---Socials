@@ -5,7 +5,7 @@ needs_luke: OK on WASTING (one instant mug is about 1.4 mg/kg at 70 kg, under th
 facts: FACTS 'Caffeine before a run'. Line one says instant, 70kg and "about". No timing-penalty claim (FACTS has none). "5% easier" is how the pace feels, never speed
 ---
 
-## 1. YOU'RE WASTING YOUR / PRE-RUN COFFEE / (ONE INSTANT = HALF A DOSE)  (WASTING red, 8/9)
+## 1. YOU'RE WASTING YOUR / PRE-RUN COFFEE / (ONE INSTANT? HALF A DOSE)  (WASTING red, 8/9)
 Hook (44): "If you have one instant coffee before your run, you'd think that's your boost, but for a 70kg runner it's about half the dose the studies used. At the right dose the same pace feels about 5% easier, so here's yours by body weight."
 
 ## 2. THE LEGAL RUNNING / DRUG IN YOUR KITCHEN / (YOU TAKE TOO LITTLE)  (TOO LITTLE red, 6/9)
