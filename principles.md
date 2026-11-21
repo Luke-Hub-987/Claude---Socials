@@ -6611,3 +6611,15 @@ title nothing. The scorecard is 9 tests; 8 or more goes to Luke (old N/10 scores
 stay as the record, bar 9). A repeat of **our own** posted reel is still handled
 by the posting rules (G32: a trial reel, or 7+ days on the profile), not by the
 title score.
+
+
+## P234 — Every topic set has one that isn't about the marathon (Luke, 21 Nov)
+Luke, after the no-gel titles: "You've landed again on another marathon topic -
+I'll record a marathon topic but need another one also not marathon related."
+
+**The rule:** whenever I bring Luke a topic or a day's posts, at least one is not
+about the marathon: an everyday run, parkrun, the gym, coffee, the body on any
+run, the runner's world (P231). It still ends in something they use on their
+next run (P225) and still goes through the full title run. The topic bank's
+non-marathon TED-Ed shapes (#10 fat, #27 coffee, #28 first 2K, #3 heart rate)
+come first for that slot.
