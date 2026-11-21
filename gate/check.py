@@ -199,7 +199,8 @@ def run(path):
         f"gap phrase '{f.get('gap phrase', 'MISSING')}' ends at spoken word {pos}" if gp else "no 'Gap phrase' field")
 
     # G4 numeral in the title
-    add("G4", bool(re.search(r"\d", ost)), f"title '{ost}' " + ("has a number" if re.search(r"\d", ost) else "has no number"))
+    num_rx = r"\d|\b(?:ONE|TWO|THREE|FOUR|FIVE|SIX|SEVEN|EIGHT|NINE|TEN|HALF|DOUBLE)\b"   # a number word counts (21 Nov: ONE INSTANT, HALF A DOSE)
+    add("G4", bool(re.search(num_rx, ost, re.I)), f"title '{ost}' " + ("has a number" if re.search(num_rx, ost, re.I) else "has no number"))
 
     # G10 title shape
     probs = []
@@ -357,7 +358,15 @@ def run(path):
             probs.append("'save this' is in the hook (P204: straight after stage 1's action)")
         if len(mk_pos) < 3 or not re.search(r"\bsave this\b", between(mk_pos[0], mk_pos[1]), re.I):
             probs.append("no 'save this' in stage 1 or straight after it (P204)")
-        if len(mk_pos) < 3 or not re.search(r"\bsend (?:\w+ ){0,2}(?:this|it)\b", between(mk_pos[1], mk_pos[2]), re.I):
+        # P235 (Luke 21 Nov, the 3:59 data: the send line at 0:44 lost half of who was left): from 21 Nov the send line goes at the end
+        send_end = str(fm.get("generated_at", "")) >= "2026-11-22" or str(fm.get("send_rule", "")) == "P235"
+        tail = " ".join([t for k, t in items if k == "para"][-2:])
+        if send_end:
+            if not re.search(r"\bsend (?:\w+ ){0,2}(?:this|it)\b", tail, re.I):
+                probs.append("no send line in the last 2 spoken paragraphs (P235)")
+            if len(mk_pos) >= 3 and re.search(r"\bsend (?:\w+ ){0,2}(?:this|it)\b", between(mk_pos[0], mk_pos[-1]), re.I):
+                probs.append("send line in the body (P235: at the end only)")
+        elif len(mk_pos) < 3 or not re.search(r"\bsend (?:\w+ ){0,2}(?:this|it)\b", between(mk_pos[1], mk_pos[2]), re.I):
             probs.append("no send line straight after stage 2 (P204)")
         paras_only = [t for k, t in items if k == "para"]
         body_cta = [t for t in paras_only[:-1] if re.search(r"link in (?:the )?bio", t, re.I)]
@@ -366,7 +375,7 @@ def run(path):
         pinned = section(text, "Pinned comment")
         if not (re.search(r"link in (?:the )?bio", paras_only[-1] if paras_only else "", re.I) or re.search(r"link in (?:the )?bio", pinned or "", re.I)):
             probs.append("no email ask in the last line or the pinned comment (P204)")
-        add("G19", not probs, "; ".join(probs) or f"hook {hook_words} words, script {total_words}, save after stage 1, send after stage 2, email ask at the end or pinned (P204)")
+        add("G19", not probs, "; ".join(probs) or f"hook {hook_words} words, script {total_words}, save after stage 1, send at the end (P235) or after stage 2 (P204, before 21 Nov), email ask at the end or pinned")
     if not new_rules and not re.search(r"\bsave this\b", " ".join(hook), re.I):
         probs.append("no 'save this' in the hook [C10]")
     if not new_rules and not re.search(r"\bsend (?:\w+ ){0,2}(?:this|it)\b", spoken, re.I):

@@ -6623,3 +6623,17 @@ run, the runner's world (P231). It still ends in something they use on their
 next run (P225) and still goes through the full title run. The topic bank's
 non-marathon TED-Ed shapes (#10 fat, #27 coffee, #28 first 2K, #3 heart rate)
 come first for that slot.
+
+
+## P235 — The send line goes at the end; the card to keep comes by 0:30 (Luke, 21 Nov)
+From the 3:59 data (the send line at about 0:44 lost almost half of who was left,
+32% to 18%; the second post where an ask in the body made a step) and Luke, 21 Nov:
+"ensure both scripts adjusted for learning from recent scripts early curiosity hook
+stack and sped to value quick as possible and myth".
+
+**The rule (changes P204):** the send line goes in the last two spoken
+paragraphs, never in the body. The save line stays in stage 1, pointing at the
+card that is on screen at that second (so the card to keep appears by about
+0:30). The myth is named and set aside in the hook; the aha is the first
+sentence of stage 1; a second question opens with the answer and only the last
+stage closes it. check.py G19 enforces the send line from 21 Nov.
