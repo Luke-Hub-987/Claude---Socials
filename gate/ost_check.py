@@ -38,7 +38,7 @@ def norm(t):
     return re.sub(r"\s+", " ", t.replace("’", "'").upper()).strip()
 
 def lines_of(title):
-    return [l.strip() for l in norm(title).split("/") if l.strip()]
+    return [l.strip().replace("\u2044", "/") for l in re.sub(r"(\d)/(\d)", "\\1\u2044\\2", norm(title)).split("/") if l.strip()]   # P236: 10/10 is a count, not a line break
 
 def words(t):
     return re.findall(r"[A-Z0-9£%'\-:.]+", norm(t))
@@ -117,13 +117,15 @@ def check(title, red=None, stranger=None, luke_said=None, hook=None, render=True
     add("T4 no hedge", not h, "no hedge word" if not h else f"hedge {sorted(set(h))}: find a stronger true claim")
 
     # T5 the event or sport named on screen (the stranger's "in what?")
-    ev = re.search(EVENTS, body)
+    ev = re.search(EVENTS, body) or re.search(r"\b(?:FIT|FITTER|FAST|FASTER|STRONG|STRONGER|ATHLETES?|ENGINE)\b(?=.*\bAGAIN\b|.*\bBACK\b)", body)   # P236: broad "again" titles (fit again, your engine back)
     add("T5 in what?", ev is not None, f"names '{ev.group(0)}'" if ev else "no event or sport on screen (MARATHON, PARKRUN, SUNDAY LEAGUE...): 'in what?'")
 
     # T6 every number carries its unit or counts a noun
     bad = []
     for m in re.finditer(r"(?<![\w:£])(\d+(?:\.\d+)?)(?![\d:])", body):
         after = body[m.end():]
+        if re.match(r"/\d", after) or re.search(r"\d/$", body[:m.start()]):
+            continue  # P236: a 10/10 or 5/5 count
         if re.match(UNIT_AFTER + r"\b", after) or re.match(r"'|%", after):  # % is a unit; "60% of what?" goes in the stranger line
             continue
         nxt = re.match(r"\s+([A-Z'\-]+)", after)

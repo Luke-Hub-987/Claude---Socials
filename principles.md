@@ -6637,3 +6637,20 @@ card that is on screen at that second (so the card to keep appears by about
 0:30). The myth is named and set aside in the hook; the aha is the first
 sentence of stage 1; a second question opens with the answer and only the last
 stage closes it. check.py G19 enforces the send line from 21 Nov.
+
+
+## P236 — The "again" series: his structure, simpler, broad, and it sells the bar (Luke, 21 Nov)
+Luke, on rory.bingethinking's "10/10 Habits to Become Smart Again": "his is just
+a pretty little bit simpler and easier to understand... the save is the start...
+so many people used to feel really, really fit... this goes an awful lot broader
+than just [marathoners]... to become increasingly fit again, increasingly faster,
+increasingly stronger again. And obviously this, everything's with a view to us
+selling more of the bar."
+
+**The rule:** the series titles follow his shape, plainly: N/N + HABITS (or a
+plain noun) + TO BECOME + FAST / FIT / STRONG + AGAIN, with an optional bracket
+(BY SPRING, NICHE EDITION). The audience is anyone who used to feel fit, not
+only marathoners. Every list carries at least one fuel item that leads to the
+bar, and the list is the thing they save. `gate/ost_check.py` reads "10/10" as a
+count (not a line break or a bare number) and accepts FIT / FAST / STRONG /
+ATHLETE / ENGINE with AGAIN or BACK as the "in what?".

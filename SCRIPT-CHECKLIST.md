@@ -567,3 +567,4 @@ twice without being checked against the winners (P99).
 - [ ] **P233:** no 'only we could post it' / swap test on titles; score out of 9, 8+ to show Luke; a repeat of our own reel is a posting call (G32), not a title point.
 - [ ] **P234:** every topic set or day's posts has at least one non-marathon topic (everyday run, parkrun, coffee, the body on any run).
 - [ ] **P235:** send line in the last 2 paragraphs only; save line in stage 1 pointing at the card on screen (by ~0:30); myth set aside in the hook, aha first sentence of stage 1, a second gap held to the last stage.
+- [ ] **P236:** 'again' series: N/N + HABITS + TO BECOME + FAST/FIT/STRONG + AGAIN, simple; broad (anyone who used to be fit); one fuel item in every list that leads to the bar.
