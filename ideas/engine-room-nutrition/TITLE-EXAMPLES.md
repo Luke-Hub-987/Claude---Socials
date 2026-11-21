@@ -112,3 +112,15 @@ adding more: when Luke sends a new example, save it to research/title-examples/N
 | 33 | rory.bingethinking, TikTok | Steal My Weekly Curriculum To Make You Smart Again (yellow text, a pile of books, his own notebook on screen) | 28.2K likes, **18K saves**, 1,374 shares | "Steal my" = his own system handed over; a week laid out day by day; "again" = something you had and lost (the brain-rot feeling). Saves at 64% of likes: a list you come back to |
 
 **What we take:** the before-and-after number (24), the TED-Ed plain question about something they do every day (27, 28), and the numbered series with blanks (32). **What we don't:** Magness's "run slower" (true for pros, not amateurs: P226). The 30 headlines built from these are in `2026-11-20-titles-30-from-the-greats.md`.
+
+## Added 21 Nov (Luke: rory.bingethinking's top reels; `research/title-examples/2026-11-21-rory-*.png`)
+| # | Title | Likes / saves / shares | The move |
+|---|---|---|---|
+| 34 | 10/10 Hobbies to Become Smart Again (niche edition #3) | 421.4K / 175.8K / 21.1K | Loss ("again") + "niche" (not the advice you already know) + a numbered series; 3 prestige pictures on top (Wikipedia, an ancient tablet, a supreme court) |
+| 35 | 10/10 Habits to Become Smart Again (niche edition #2) | 294.6K / 128.5K / 10.9K | The same template, the series number in the bracket; a playlist |
+| 36 | 10/10 Creators You Should Follow To Get Smart Again | 268.9K / 140.4K / 7,045 | A list of people to follow: the save is a to-do list |
+| 37 | 10/10 Habits to Build Extreme Discipline (niche edition) | 213.3K / 94.4K / 18.6K | An identity word (EXTREME DISCIPLINE), "progressively" escalating, "wait for number 8" in the caption |
+| 38 | 5/5 HARVARD Lectures To Make You Smart (again) | 167.2K / **173.5K saves (more than likes)** / 28.7K | Borrowed prestige (Harvard logo on top), free, "again"; saved as a promise to watch later |
+| 39 | You should read banned books (Banned Book Club, post 2) | 186.3K / 68.7K / 7,622 | Forbidden + a club the audience picks the next book for |
+
+**Why it works (21 Nov):** the save is the product (saving feels like starting); scrolling is turned into self-improvement, so the guilt goes; prestige is borrowed (Harvard, banned, Einstein); "niche" promises it isn't the advice you already know; "again" says you had it and it's coming back, not that you're stupid; a numbered series and "wait for number 8" hold to the end; a playlist and "what next?" bring people back. Our use: `ideas/2026-11-21-smart-again-psychology.md` (when written) and the chat of 21 Nov.
