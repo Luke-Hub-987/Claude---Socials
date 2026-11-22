@@ -6670,3 +6670,27 @@ job. Also from 22 Nov: the true-fan audience is defined by the person (an amateu
 who trains for marathons and halves), not by the event, so an off-season topic
 passes if it's for that same person on a training run (coffee before a run,
 parkrun, the long run) and fails if it's for someone else (Sunday league).
+
+
+## P238 — The bar's status: not available, no date; never ask again (Luke, 22 Nov)
+Luke: "it is still with the food scientist. We are hoping to put it out and give
+it to people on a table... at the Art O'Neill Challenge. We have no confirmation.
+We haven't even asked as of yet... We don't have packaging... I want you to
+record this and not to ask me again."
+
+**The rule:** don't ask Luke about launch dates, batch sizes, samples or
+packaging; he'll say when it changes. No numbered founding list, no scarcity,
+no pre-orders, and no copy that implies the bar exists. Until it does, every
+piece of content earns an email so the list is there when it lands.
+
+
+## P239 — Many runners train alone; affiliation isn't the run club (Luke, 22 Nov)
+Luke: "I don't think that run clubs are actually as popular as you made them out
+to be... an awful lot of people do train alone as well."
+
+**The rule:** never assume a club or a training partner in a script, offer or
+referral. Belonging comes from "people like us" (other restarters, other 4-hour
+runners) and our own list and podcast. Luke's definitions of Seth's three wants:
+status = run fast, win something, tell everyone; freedom from fear = not looking
+bad or unfit in front of people they respect; affiliation = being part of a team
+or group.

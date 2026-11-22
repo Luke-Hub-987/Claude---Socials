@@ -569,3 +569,5 @@ twice without being checked against the winners (P99).
 - [ ] **P235:** send line in the last 2 paragraphs only; save line in stage 1 pointing at the card on screen (by ~0:30); myth set aside in the hook, aha first sentence of stage 1, a second gap held to the last stage.
 - [ ] **P236:** 'again' series: N/N + HABITS + TO BECOME + FAST/FIT/STRONG + AGAIN, simple; broad (anyone who used to be fit); one fuel item in every list that leads to the bar.
 - [ ] **P237:** the bar is for before, during slower runs and after training, never a gel replacement at race pace; an off-season topic is for the same runner on a training run, not a different audience.
+- [ ] **P238:** nothing implies the bar exists (no dates, batches, samples, pre-orders); the CTA earns an email instead. Never ask Luke about the bar's status.
+- [ ] **P239:** no assumed run club or training partner; belonging is "people like us", the list, the podcast.

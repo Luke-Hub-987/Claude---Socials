@@ -57,6 +57,12 @@ product exists.
   a match, on the way to training. Maurten is the explicit reference
   model here: started narrow and endurance-specific, later broadened
   into other categories once established.
+- **Status, 22 Nov (P238, don't ask Luke again):** still with the food
+  scientist; no packaging; nothing confirmed. A table at the Art O'Neill
+  Challenge (15 Jan) is a hope; the organisers haven't been asked.
+- **Second circle (22 Nov, P236/P239):** people in their 30s and 40s who let
+  themselves go, see friends running halves and marathons and want to start.
+  Many train alone; don't assume a club.
 - Current stage: **pre-manufacturing.** Working with a food scientist,
   progress has been slow, considering bringing development in-house.
   Content should stay honest about this — no claims that imply the

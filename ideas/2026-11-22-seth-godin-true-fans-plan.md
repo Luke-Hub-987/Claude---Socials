@@ -255,3 +255,26 @@ not as changes.
 - **Calls: Luke's in for 10.** They double as the podcast's listener segment
   (with permission), so the calls aren't extra work on top of DEAD LEGS.
 - **Still open:** the first-batch size (the numbered founding list waits for it).
+
+## Update, 22 Nov (later): the bar's status, solo runners, the again series
+
+- **The bar (P238):** with the food scientist, no packaging, nothing confirmed;
+  a table at the Art O'Neill Challenge (15 Jan) is a hope, not asked yet.
+  **Steps 3 and 4 are off** (no numbered founding list, no batch scarcity, no
+  pre-pay). Settled: we don't ask Luke again. The job is emails.
+- **Most train alone (P239):** the bring-a-training-partner referral is dropped.
+  Belonging comes from "people like us" (other restarters, other 4-hour
+  runners), the list and the podcast, not clubs. Any referral, later, is
+  "send it to the friend who keeps saying they'll start running", not a club.
+- **The three wants, Luke's definitions:** status = run fast, win something,
+  tell everyone; freedom from fear = not looking bad or unfit in front of
+  people they respect; affiliation = a team or group.
+- **The again series is in, and I was wrong to call it a wandering
+  generality.** Seth defines the group by what they believe and fear, not by
+  the event: "in my 30s or 40s, let myself go, everyone's running, I'd look a
+  fool starting" is a specific person. It's also the marathoner a year early,
+  and the bar (a training bar, P237) fits them. Two lanes, one funnel: the
+  restarter is the year-round email engine; the 3:30-4:30 marathoner is the
+  race-season lane (P225 Lane B).
+- **Every again list hands over something we send** (P220): comment the word,
+  get the full list plus one first step by email.
