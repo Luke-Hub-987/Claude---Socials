@@ -5,7 +5,7 @@ const path = require('path'); const { chromium } = require('playwright');
 const a = process.argv.slice(2); const out = a[0], title = a[1];
 const opt = k => { const i = a.indexOf('--' + k); return i > 0 ? a[i + 1] : '' };
 if (!out || !title) { console.error('usage: node motion/title-cards/make_title.js <out prefix> "L1 / L2 / (L3)" --red WORD [--blue WORD]'); process.exit(1); }
-const l = title.split('/').map(s => s.trim()).join('|');
+const l = title.split(/\s+\/\s+/).map(s => s.trim()).join('|');   // P236: 10/10 inside a line is not a break
 (async () => {
   const b = await chromium.launch();
   for (const [mode, w, h, suffix] of [['card', 1920, 1080, '-title-16x9.png'], ['overlay', 1080, 1920, '-overlay-9x16.png']]) {
