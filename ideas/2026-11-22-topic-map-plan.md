@@ -40,3 +40,21 @@ That fits the bar (a training bar, P237) and the again series.
 - An Apify API token (saved as a network secret for api.apify.com; the scripts move from ?token= to a Bearer header).
 - Luke's list of accounts he rates (I draft the rest from brands/engine-room-nutrition/competitors.md).
 - Cost: roughly $5 to $15 of Apify credit.
+
+## The accounts to pull (22 Nov). Picked for audience overlap, not size
+Handles get verified by search and a test scrape before the pull (competitors.md: guessed handles were mostly wrong).
+- **Tier 1, the same viewer (amateur marathoners, UK/IE/EU):** Ben Parkes, The Running Channel, Stephen Scullion,
+  The Running Effect, Runner's World UK, Marathon Handbook, Rory (bingethinking).
+- **Tier 2, the science lens our audience follows:** Steve Magness, Asker Jeukendrup (mysportscience),
+  Precision Fuel & Hydration, Renee McGregor, Stacy Sims, Untapped (Spencer Matthews; guest topics that pull).
+- **Tier 3, team sport performance (amateurs):** found by search, not guessed: 5 to 8 accounts on Sunday league,
+  GAA and club rugby fitness and fuel, plus Science for Sport.
+- **Reddit (the pain in their words):** r/running, r/AdvancedRunning, r/Marathon_Training, r/C25K, r/bootroom, r/GAA.
+- **Format only, not topics:** Slow Internet Club, TED-Ed, Rory's list shape, Untapped's plain questions.
+- **Left out:** elite and US-heavy accounts (their winners are about problems our viewers don't have), weight-loss accounts.
+
+## Adjusting for TAM
+Score = outlier (views / that account's median) x share of our viewers who have the problem x fuel angle (1 if we
+can counter-position from FACTS, 0.5 if not).
+Share examples: what to eat before a run, about 100%; easy runs feeling hard, high; the wall, most marathoners;
+an ultra or a sub-3 topic, about 5%. A topic only counts if it wins on 3+ accounts, across at least 2 tiers.
