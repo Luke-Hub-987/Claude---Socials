@@ -6725,3 +6725,20 @@ sleep, and every why fits their run (an 8-minute jog doesn't empty your legs).
 Luke's science is vetted before it goes in: "muscles keep it for over a decade",
 "only a week off breaks a habit" and "sore calves are the number-one reason
 people quit" were cut or softened because the evidence doesn't say them.
+
+
+## P242 — The hook is Luke's own voice and his own story, never the "you probably said X, but it wasn't Y" shape (Luke, 22 Nov)
+Luke, on the let-myself-go hook: "I don't really like how you talk about it, it
+doesn't really feel like it's me... or really human at all... 'you probably said
+I've let myself go, but it wasn't laziness'... it's pretty AI slop." His version:
+the mirror, his own "I've really let myself go", diets that didn't stick, then the
+10 habits that took him from looking like that to losing almost 10 kilos and
+running marathons and ultras, each habit progressively more niche.
+
+**The rule:** an again-series hook opens on a scene the viewer has lived in
+Luke's words (the mirror, what you say to yourself), then Luke's own before and
+after as the proof (P151: a story opens an advice video), then the escalation
+tag ("each one more niche"). Never the reassurance shape "you probably did X,
+but it wasn't Y", never a diagnosis of the viewer. Every number in Luke's story
+(kilos, time, races) comes from Luke (`luke_said:`), and the "before" needs a
+real photo of him on screen.
