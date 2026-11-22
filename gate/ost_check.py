@@ -126,6 +126,8 @@ def check(title, red=None, stranger=None, luke_said=None, hook=None, render=True
         after = body[m.end():]
         if re.match(r"/\d", after) or re.search(r"\d/$", body[:m.start()]):
             continue  # P236: a 10/10 or 5/5 count
+        if re.match(r"(?:S\b|\+|-SOMETHINGS?\b)", after) or (re.search(r"\b(?:AFTER|AT|AGED?|OVER)\s*$", body[:m.start()].replace("(", " ")) and 18 <= float(m.group(1)) <= 80 and not re.match(r"\s*(?:K|KM|MILES?|MINS?|MINUTES|HOURS?|KG|G)\b", after)):
+            continue  # P236/P239: an age (AT 35, AFTER 30, 30S, 35+, 30-SOMETHINGS)
         if re.match(UNIT_AFTER + r"\b", after) or re.match(r"'|%", after):  # % is a unit; "60% of what?" goes in the stranger line
             continue
         nxt = re.match(r"\s+([A-Z'\-]+)", after)

@@ -6653,7 +6653,7 @@ plain noun) + TO BECOME + FAST / FIT / STRONG + AGAIN, with an optional bracket
 only marathoners. Every list carries at least one fuel item that leads to the
 bar, and the list is the thing they save. `gate/ost_check.py` reads "10/10" as a
 count (not a line break or a bare number) and accepts FIT / FAST / STRONG /
-ATHLETE / ENGINE with AGAIN, BACK, STOLE or LOST as the "in what?".
+ATHLETE / ENGINE with AGAIN, BACK, STOLE or LOST as the "in what?", and an age (AT 35, AFTER 30, 30S, 35+, 30-SOMETHINGS) as a number that needs no unit.
 
 
 ## P237 — The bar is a training bar: before, during slower runs, after (Luke, 22 Nov)
