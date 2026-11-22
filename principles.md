@@ -6708,3 +6708,20 @@ aside in the hook, the save at item 1 with the list card, and Rory's sign-off
 (who I am, follow for one list a week, the comment word for the email). Food is
 allowed in training scripts (`moment: training`, P237); P134's no-food rule stays
 for race-day scripts. 10/10 is no longer a gimmick in check.py.
+
+
+## P241 — Beginner details right: parkrun isn't booked, the breathing check, evening coffee (Luke, 22 Nov)
+Luke's edits to the two again scripts: "you don't book parkrun events" (get the free
+barcode and put the Saturday in your calendar); the talk test is "a full sentence
+without gasping for air"; slow calf raises, slow on the way down; coffee is
+"skip this after lunchtime" for evening runners; the warm-up walk says why ("so
+your heart and calves warm up"); after dark means "quiet, well-lit streets"; the
+carbs reason for a beginner is the long gap since lunch, not empty legs.
+
+**The rule:** beginner scripts get the practical detail right for a beginner:
+parkrun is free and unbooked (a barcode), every check is one they can feel
+(gasping), every evening suggestion is safe (well-lit) and doesn't cost their
+sleep, and every why fits their run (an 8-minute jog doesn't empty your legs).
+Luke's science is vetted before it goes in: "muscles keep it for over a decade",
+"only a week off breaks a habit" and "sore calves are the number-one reason
+people quit" were cut or softened because the evidence doesn't say them.

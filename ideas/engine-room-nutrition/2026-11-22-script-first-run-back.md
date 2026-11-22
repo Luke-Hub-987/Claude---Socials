@@ -7,7 +7,8 @@ send_rule: P235
 series: again (P236; a marker per list item, 1/10 to 10/10, the list filling in on screen)
 moment: training (P237: carbs before longer runs and a meal after; P134's no-food rule is race day)
 generated_at: 2026-11-22
-fixed_after_review: G22 (the coffee line contradicted the 21 Nov coffee reel, where one instant is half the dose: now "make it a full dose, like 2 instants at 70kg. At that dose...", caption to match), G23 (carbs before a 20-minute walk-run was a new step and worry, and FACTS ties it to longer runs: now "Don't go out hungry, so if it's been hours since you ate, have some toast 1 to 2 hours before"), G29 (the third 'If you...' line one running and the hook's email promise and save line repeated the pair: now opens on the turn, "You're dreading your first run back because...", no email promise in the hook, save line "Save this and screenshot the list before you lace up, because run 1 is now planned")
+luke_edits: 22 Nov (Luke's 5 changes, vetted): 'your brain guessing wrong'; 2 heaped teaspoons of instant at 70kg (brand-dependent, checked against the jar before the caption) and 'skip it after lunchtime' (Drake 2013); the warm-up walk's reason; talk pace without gasping; quiet, well-lit streets
+fixed_after_review: G22 (the coffee line contradicted the 21 Nov coffee reel, where one instant is half the dose: now "make it a full dose, like 2 instants at 70kg. At that dose...", caption to match), G23 (carbs before a 20-minute walk-run was a new step and worry, and FACTS ties it to longer runs: now "Don't go out hungry, so if it's been hours since you ate, have some toast 1 to 2 hours before"), G29 (the third 'If you...' line one running and the hook's email promise and save line repeated the pair: now opens on the turn, "You're dreading your first run back because...", no email promise in the hook, save line "Save this and screenshot the list before you lace up")
 stats_ok_by_luke: 22 Nov ("These are super fucking good!", the again series for true fans; the studies are the list)
 format: Instagram trial reel from ERN + ERN TikTok (the again series, P236 to P239; Lane A)
 teleprompter: 2026-11-22-teleprompter-first-run-back.txt
@@ -70,15 +71,15 @@ Rory's shape (Luke's transcripts): the identity line, the list filling in on scr
 
 **[1/10: THE DREAD LIES]**
 
-"The dread is a forecasting mistake. In 4 studies, people expected to enjoy a workout less than they did. They pictured the first awful minutes, so picture the walk home too. Save this and screenshot the list before you lace up, because run 1 is now planned."
+"The dread is your brain guessing wrong. In 4 studies, people expected to enjoy a workout less than they did. They pictured the first awful minutes, so picture the walk home too. Save this and screenshot the list before you lace up."
 
 **[2/10: COFFEE AT T-60]**
 
-"Have coffee about an hour before, and make it a full dose, like 2 instants at 70kg. At that dose, the same effort felt about 5% easier across 21 trials."
+"Have coffee about an hour before, and make it a full dose, like 2 heaped teaspoons of instant at 70kg. At that dose the same effort felt about 5% easier across 21 trials, but skip it after lunchtime."
 
 **[3/10: DON'T GO HUNGRY]**
 
-"Don't go out hungry, so if it's been hours since you ate, have some toast 1 to 2 hours before."
+"Don't go out hungry, so if it's been hours since you ate, have toast 1 to 2 hours before."
 
 **[4/10: SET 20 MINUTES]**
 
@@ -86,7 +87,7 @@ Rory's shape (Luke's transcripts): the identity line, the list filling in on scr
 
 **[5/10: WALK 5 MINUTES]**
 
-"Start with a brisk 5-minute walk, because that's how the NHS beginner plan starts every session."
+"Start with a brisk 5-minute walk, like every NHS beginner session, so your heart and calves warm up."
 
 **[6/10: 1 ON, 90 OFF]**
 
@@ -94,7 +95,7 @@ Rory's shape (Luke's transcripts): the identity line, the list filling in on scr
 
 **[7/10: TALK PACE]**
 
-"Run slow enough to say a full sentence out loud. If you can't, you're going too fast."
+"Run slow enough to say a full sentence out loud without gasping for air, or you're going too fast."
 
 **[8/10: LOOP YOUR DOOR]**
 
@@ -102,20 +103,20 @@ Rory's shape (Luke's transcripts): the identity line, the list filling in on scr
 
 **[9/10: GO WHEN QUIET]**
 
-"Go early or after dark if you're worried about being seen. Nobody's watching, but you'll relax faster on empty streets. The first run is the hardest, but it's also the shortest."
+"Go early or after dark if you're worried about being seen. Nobody's watching, but you'll relax faster on quiet, well-lit streets. The first run is the hardest, but it's also the shortest."
 
 **[10/10: EAT, BOOK RUN 2]**
 
-"Eat a proper meal with carbs after, and put run 2 in your calendar before you shower. 2 days later is fine, but write the day and the time down now."
+"Eat a proper meal with carbs after, and put run 2 in your calendar before you shower. 2 days later is fine, but write the day and time down now."
 
 "Send this to the friend who's been saying they'll start running for a year."
 
 "I'm Luke, so follow for one list a week to get fit again. Comment START and I'll email you the full list and your first run."
 
 ## Caption
-Dreading your first run back is normal, and it's a forecasting mistake: across 4 studies, people expected to enjoy a workout less than they did, because they pictured the unpleasant start (Ruby and others, 2011). Here's run 1, in 10 habits.
+Dreading your first run back is normal, and it's your brain guessing wrong: across 4 studies, people expected to enjoy a workout less than they did, because they pictured the unpleasant start (Ruby and others, 2011). Here's run 1, in 10 habits.
 
-1. Picture the whole run, not the first 5 minutes. 2. Coffee about an hour before, at a full dose: about 3 mg of caffeine per kg, so about 2 mugs of instant at 70kg; across 21 trials, caffeine made the same effort feel about 5.6% easier than a placebo (Doherty and Smith, 2005; ISSN 2021). 3. Don't go out hungry: if it's been hours since you ate, some toast 1 to 2 hours before. 4. Set 20 minutes, not a distance. 5. A brisk 5-minute walk first, like every NHS Couch to 5K session. 6. Then 1 minute running, 90 seconds walking, until your time's up. 7. Slow enough to say a full sentence. 8. A loop that passes your front door. 9. Early or after dark if you're worried about being seen. 10. A proper meal with carbs after, then run 2 in your calendar before you shower.
+1. Picture the whole run, not the first 5 minutes. 2. Coffee about an hour before, at a full dose: about 3 mg of caffeine per kg, roughly 2 heaped teaspoons of instant at 70kg (check your jar's label); across 21 trials, caffeine made the same effort feel about 5.6% easier than a placebo (Doherty and Smith, 2005; ISSN 2021). Skip it after lunchtime: caffeine 6 hours before bed cut sleep by over an hour in one study (Drake and others, 2013). 3. Don't go out hungry: if it's been hours since you ate, some toast 1 to 2 hours before. 4. Set 20 minutes, not a distance. 5. A brisk 5-minute walk first, like every NHS Couch to 5K session, so your heart and calves warm up. 6. Then 1 minute running, 90 seconds walking, until your time's up. 7. Slow enough to say a full sentence without gasping for air. 8. A loop that passes your front door. 9. Early or after dark if you're worried about being seen, on quiet, well-lit streets. 10. A proper meal with carbs after, then run 2 in your calendar before you shower.
 
 Comment START and I'll email you the full list and your first run.
 
@@ -128,7 +129,7 @@ Want the full list and your first run by email? Comment START, or use the link i
 | Claim | Source | Status |
 |---|---|---|
 | In 4 studies people expected to enjoy a workout less than they did, because they pictured the start | FACTS The restart (Ruby 2011: 4 studies, 279 adults) | Pass |
-| Coffee about an hour before, a full dose, like 2 instants at 70kg; at that dose the same effort felt about 5% easier across 21 trials | FACTS Caffeine (ISSN 3 mg/kg, about 60 minutes; 2 x 100 mg at 70kg; Doherty and Smith 5.6%); matches the 21 Nov coffee reel | Pass |
+| Coffee about an hour before, a full dose, like 2 heaped teaspoons of instant at 70kg (Luke's line, brand-dependent); skip it after lunchtime (Drake 2013); at that dose the same effort felt about 5% easier across 21 trials | FACTS Caffeine (ISSN 3 mg/kg, about 60 minutes; 2 x 100 mg at 70kg; Doherty and Smith 5.6%); matches the 21 Nov coffee reel | Pass |
 | Don't go out hungry: toast 1 to 2 hours before if it's been hours; a proper meal with carbs after | FACTS The restart (ACSM 2016) | Pass |
 | A brisk 5-minute walk, then 1 minute running, 90 seconds walking | FACTS (NHS Couch to 5K week 1) | Pass |
 | 20 minutes, not a distance; a loop past your door; early or after dark; run 2 in the calendar | Our coaching | Pass (coaching) |
