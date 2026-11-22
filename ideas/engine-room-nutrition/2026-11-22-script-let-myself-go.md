@@ -7,10 +7,11 @@ send_rule: P235
 series: again (P236; a marker per list item, 1/10 to 10/10, the list filling in on screen)
 moment: training (P237: carbs before longer runs and a meal after; P134's no-food rule is race day)
 generated_at: 2026-11-22
+luke_said_hook: 22 Nov, Luke's own story: 'looking in the mirror... I've really let myself go... losing almost 10 kilos and running marathons and ultra marathons... each of these habits become progressively more niche'; before and after photos sent 22 Nov
 luke_edits: 22 Nov (Luke's 6 changes, vetted against FACTS): muscle memory in the hook (said as 'kept some of that, so you're not starting from zero'; 'for over a decade' and 'bounces back faster' cut, human evidence mixed); missing one day (Lally's abstract; 'only quitting for a week does' cut, not in the paper); talk pace without gasping; slow calf raises, slow on the way down ('the number-one reason people quit in week 3' cut, unsourced); the carbs reason (a long gap since lunch, 8 minutes of jogging won't empty your legs); parkrun: aim for one, then the free barcode and the Saturday after week 9 (you don't book parkrun)
 fixed_after_review: G21 (the one schedule named no food and no am/pm, and a 9-week plan of 20 to 30 minute runs has no 'longer runs': now 'Eat some carbs before you run, like toast with jam at 5pm before a 7pm run, so dinner after is the refill' and 'Tuesday at 7am', in the audio, caption and list card), G23 ('2 short strength sessions' couldn't be pictured and could mean a gym: now '10 minutes of squats and calf raises in the kitchen, twice a week', Luke to OK as coaching), G29 (the email promise and save line repeated first-run-back, the opening copied no-gel's 'If you've said...', four 'not X' contrasts in 60 words: now 'You've probably said I let myself go, but it wasn't laziness', no email promise in the hook, 'not one big January' cut, save line 'Save this, then screenshot the list for your fridge')
 stats_ok_by_luke: 22 Nov ("These are super fucking good!", the again series for true fans; the studies are the list)
-format: Instagram trial reel from ERN + ERN TikTok (the again series, P236 to P239; Lane A)
+format: RE-CUT 22 Nov (ledger row 34): Instagram TRIAL reel from ERN + ERN TikTok, new hook and frame one, body unchanged; the first post (profile collab) is the record: 807 views, skip 58.9% (the again series, P236 to P239; Lane A)
 teleprompter: 2026-11-22-teleprompter-let-myself-go.txt
 basis: FACTS "The restart" (Lally 2010, Milne 2002, Ruby 2011, Lauersen 2014, NHS Couch to 5K, parkrun's tail walker, ACSM 2016) and FACTS "Caffeine before a run"; the Seth Godin plan (ideas/2026-11-22-seth-godin-true-fans-plan.md); P236 to P239; Rory's script shape (one vivid, specific fact per item, a series sign-off, a weekly email)
 ---
@@ -21,15 +22,15 @@ basis: FACTS "The restart" (Lally 2010, Milne 2002, Ruby 2011, Lauersen 2014, NH
 - OST: 'I LET MYSELF GO' / 10/10 HABITS TO / GET FIT AGAIN
 - OST score: 9/9 (the cold ost-reviewer, 22 Nov, T8)
 - Markers: 1/10: 66 DAYS, NOT 21 / 2/10: WHEN AND WHERE / 3/10: 1 MINUTE ON / 4/10: TALK PACE / 5/10: 3 A WEEK / 6/10: KITCHEN STRENGTH / 7/10: CARBS AROUND IT / 8/10: REPEAT A WEEK / 9/10: NEVER LAST / 10/10: YOUR BARCODE
-- Gap phrase: I let myself go
+- Gap phrase: let myself go
 - Repeat line: You didn't lose it in a month, so you won't get it back in one.
-- Gap held by: "Getting fit again comes down to 10 small habits"
+- Gap held by: "each habit gets more niche, so stay for number 10"
 - Gap closed by: 10/10: YOUR BARCODE
-- Turn: "your muscles kept some of that, so you're not starting from zero"
+- Turn: "Diets never stuck, until I picked up these 10 habits"
 - Keep: THE 10/10 RESTART LIST (motion/again/let-myself-go-list-16x9.png), the list filling in from 1/10 to 10/10, on screen from the save line in habit 1 to the end: 66 days, not 21; when and where (91% vs about a third); 1 minute on, 90 seconds off; talk pace; 3 runs a week, a rest day between; 10 minutes of kitchen strength twice a week (injuries to about a third); carbs before you run (toast with jam at 5pm before a 7pm run), dinner after; repeat a hard week; parkrun (the tail walker); book a parkrun for week 10
-- Frame one: Luke alone, eyes on the lens, the white title card full width in the top band, LET MYSELF GO in red; nothing else until habit 1
+- Frame one: the title card in the top band (LET MYSELF GO red) over Luke's before and after side by side, BEFORE and NOW labels (one picture, P242, ledger row 34): motion/again/let-myself-go-frame-one-before-after-9x16.png; Luke on camera from 0:02
 - Frame one words: title only
-- Mockup: ideas/engine-room-nutrition/mockups/2026-11-22-let-myself-go-frame-one.png
+- Mockup: motion/again/let-myself-go-frame-one-before-after-9x16.png
 - Overlay: motion/again/let-myself-go-overlay-9x16.png (card motion/again/let-myself-go-title-16x9.png)
 - Layer title: 'i let myself go' 10/10 habits to get fit again
 - Layer picture: none (Luke and the title)
@@ -67,7 +68,7 @@ Rory's shape (Luke's transcripts): the identity line, the list filling in on scr
 
 ## Script
 
-"You've probably said 'I let myself go', but it wasn't laziness. If you were active in your teens or twenties, your muscles kept some of that, so you're not starting from zero. Getting fit again comes down to 10 small habits."
+"This was me, and you've said it too: 'I've let myself go'. Diets never stuck, until I picked up these 10 habits. I've since dropped almost 10 kilos and run marathons and ultras, but each habit gets more niche, so stay for number 10."
 
 **[1/10: 66 DAYS, NOT 21]**
 
@@ -95,7 +96,7 @@ Rory's shape (Luke's transcripts): the identity line, the list filling in on scr
 
 **[7/10: CARBS AROUND IT]**
 
-"Eat some carbs before you run, like toast with jam at 5pm before a 7pm run. 8 minutes of jogging won't empty your legs, but a long gap since lunch leaves you flat, and dinner's the refill."
+"Eat some carbs before you run, like toast with jam at 5pm before a 7pm run. 8 minutes of jogging won't empty your legs, but a long gap since lunch leaves you flat, so dinner's the refill."
 
 **[8/10: REPEAT A WEEK]**
 
@@ -107,14 +108,14 @@ Rory's shape (Luke's transcripts): the identity line, the list filling in on scr
 
 **[10/10: YOUR BARCODE]**
 
-"Get your free parkrun barcode and put the Saturday after week 9 in your calendar now, before the doubt comes back."
+"Get your free parkrun barcode, so the Saturday after week 9 goes in your calendar before the doubt comes back."
 
 "Send this to the friend who keeps saying they'll start in January."
 
 "I'm Luke, so follow for one list a week to get fit again. Comment START and I'll email you the full list and your first run."
 
 ## Caption
-"I let myself go" is what almost everyone says before they start again. It wasn't laziness, and if you were active when you were younger, your muscles kept some of it (the extra muscle-cell nuclei training builds were kept through detraining in one 2024 study; the evidence in people is still mixed). Here are the 10 habits, in order.
+"I've let myself go." I said it too, and diets never stuck until these 10 habits. I've since dropped almost 10 kilos and run marathons and ultras. They're what worked for me, not a weight-loss promise, so here they are, in order.
 
 1. Give it about 66 days, not 21. In a study of 96 people, a new daily habit took 66 days on average to become automatic, from 18 to over 200, and missing one day didn't set people back (Lally and others, 2010). The 21-day idea came from a plastic surgeon. 2. Write down when and where you'll run. In one study, 91% of people who named when and where exercised, against about a third who didn't (Milne, Orbell and Sheeran, 2002). 3. Copy the NHS Couch to 5K first week: a brisk 5-minute walk, then 1 minute running and 90 seconds walking, about 20 minutes, 3 times a week. 4. Run slow enough to say a full sentence without gasping for air. 5. 3 runs a week, a rest day between. 6. 10 minutes of squats and slow calf raises (slow on the way down) in the kitchen, twice a week; in sport, strength training cut injuries to about a third (Lauersen and others, 2014). 7. Something with carbs before you run, like toast with jam at 5pm before a 7pm run: 8 minutes of jogging won't empty your legs, but a long gap since lunch leaves you flat. A proper dinner after. 8. If a week felt hard, repeat it. 9. Aim for a parkrun: a volunteer tail walker always finishes last, so you can't. 10. Get your free parkrun barcode (parkrun is free, you just register) and put the Saturday after week 9 in your calendar.
 
@@ -138,7 +139,7 @@ Want the full list and your first run by email? Comment START, or use the link i
 | Carbs before you run (toast with jam at 5pm before a 7pm run), a proper dinner after | FACTS (ACSM 2016 joint position; no g/kg in the audio) | Pass |
 | A volunteer tail walker finishes behind everyone at parkrun | FACTS (parkrun volunteer role) | Pass |
 | Repeat a hard week; get your free barcode, the Saturday after week 9 | FACTS (NHS plan is 9 weeks; parkrun is free with a barcode); our coaching | Pass |
-| Your muscles kept some of that, so you're not starting from zero | FACTS The restart (muscle memory: kept in one 2024 human study, mixed overall) | Pass (said softly; 'for over a decade' and 'bounce back faster' cut) |
+| I've since dropped almost 10 kilos and run marathons and ultras | Luke, 22 Nov (his own story; his before and after photos) | Pass (Luke's word) |
 | Missing one day didn't break it | FACTS (Lally 2010 abstract) | Pass |
 | Slow calf raises, slow on the way down | Our coaching (Luke's line, 22 Nov) | Pass (coaching) |
 

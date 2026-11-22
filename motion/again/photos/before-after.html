@@ -1,0 +1,19 @@
+<!doctype html><html><head><meta charset="utf-8"><title>ba</title>
+<style>
+@font-face{font-family:'BC';font-weight:800;src:url(../../fonts/BarlowCondensed-800-normal.woff2) format('woff2')}
+body{margin:0;background:#fff;overflow:hidden;font-family:'BC'}
+.wrap{position:relative;width:1080px;height:1920px;background:#fff}
+.title{position:absolute;left:16px;right:16px;top:150px;background:#fff;text-align:center;font-weight:800;font-size:98px;line-height:1.02;color:#0c1828}
+.title b{background:#d9473f;color:#fff;padding:0 12px;border-radius:10px}
+.pics{position:absolute;left:0;right:0;top:520px;height:1100px;display:flex;gap:10px}
+.pic{flex:1;position:relative;overflow:hidden}
+.pic img{width:100%;height:100%;object-fit:cover}#a{object-position:50% 100%}
+.lab{position:absolute;left:50%;transform:translateX(-50%);bottom:24px;background:#0c1828;color:#fff;font-size:64px;padding:4px 26px;border-radius:10px}
+.lab.now{background:#d9473f}
+</style></head><body><div class="wrap">
+<div class="title">‘I <b>LET MYSELF GO</b>’<br>10/10 HABITS TO<br>GET FIT AGAIN</div>
+<div class="pics"><div class="pic"><img id="b"><div class="lab">BEFORE</div></div><div class="pic"><img id="a"><div class="lab now">NOW</div></div></div>
+</div><script>
+const q=new URLSearchParams(location.search);document.getElementById('b').src=q.get('before');document.getElementById('a').src=q.get('after');
+Promise.all([document.fonts.ready,...[...document.images].map(i=>i.decode().catch(()=>0))]).then(()=>document.title='ready');
+</script></body></html>
