@@ -3,7 +3,23 @@
 **Verdict:** yes, research first, in this chat, time-boxed to 2 days. Routes (a) and (b) are one route:
 (b) finds the demand, (a) is our angle on it (Briar: a high-TAM topic people already search for, plus a counter-position only a fuel brand would take).
 
-## Hypothesis to test
+## Positioning (Luke, 22 Nov, second pass): performance, not weight loss
+Weight loss is out as a lane: too big a switch from what followers came for, crowded, no right to win,
+and a carb bar sits badly next to it ('I let myself go': 807 views, 58.9% skip). The line that holds
+everything together is **amateurs who compete and want to perform**, fuelled right:
+- **Status:** beat your time, beat your teammates, be the one still flying at 85 minutes or 38K.
+- **Freedom from fear:** fading in front of people (walking at 30K, legs gone in the last 15, subbed off).
+- **Affiliation:** people who take their amateur sport seriously.
+Two lanes cover the year: **marathon** (spring and autumn blocks) and **team sport** (Sunday league,
+GAA, rugby, hockey: their season runs while marathons are quiet). The oranges trial (2,468, skip 33.4%)
+says the team lane works. The restarter only stays when there's a performance goal (first parkrun, a time).
+
+## Accounts Luke rates (22 Nov)
+The Running Effect (IG), Steve Magness (YouTube), Stephen Scullion (YouTube), Spencer Matthews' podcast
+(plain questions to pros: a podcast format to copy), Slow Internet Club (YouTube: '10/10 free...' lists
+with links: the again-series shape, for performance topics). Add team-sport performance accounts to the pull.
+
+## Hypothesis to test (superseded in part: weight loss dropped)
 Our one 18K reel (the fourth hour) was fuel numbers in a seasonal lane. Evergreen topics with big audiences
 (zone 2, running to lose weight, starting again, easy runs feeling hard) have a fuel angle almost nobody takes:
 - Running to lose weight: you run empty, so the run is short and the evening binge wins.
