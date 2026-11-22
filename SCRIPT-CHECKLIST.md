@@ -571,3 +571,4 @@ twice without being checked against the winners (P99).
 - [ ] **P237:** the bar is for before, during slower runs and after training, never a gel replacement at race pace; an off-season topic is for the same runner on a training run, not a different audience.
 - [ ] **P238:** nothing implies the bar exists (no dates, batches, samples, pre-orders); the CTA earns an email instead. Never ask Luke about the bar's status.
 - [ ] **P239:** no assumed run club or training partner; belonging is "people like us", the list, the podcast.
+- [ ] **P240:** again scripts: the list filling in on screen (1/10 to 10/10 markers, `series: again`), one specific fact per item, save at item 1, Rory's sign-off; `moment: training` for food in training scripts.

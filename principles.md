@@ -6694,3 +6694,17 @@ runners) and our own list and podcast. Luke's definitions of Seth's three wants:
 status = run fast, win something, tell everyone; freedom from fear = not looking
 bad or unfit in front of people they respect; affiliation = being part of a team
 or group.
+
+
+## P240 — The again scripts: Rory's shape, a marker per item, training food allowed (Luke, 22 Nov)
+Luke, on the again titles: "These are super fucking good! Make sure that humanizer
+skill is applied in writing the scripts and adjusting for our learnings... have the
+ai councils review also", with two of rory.bingethinking's transcripts as the model.
+
+**The rule:** an again script is the list filling in on screen (1/10 to 10/10, a
+marker per item, `series: again` in the front matter, so G20 allows up to 10), one
+vivid, specific fact per item (a study, a number, a story detail), the myth set
+aside in the hook, the save at item 1 with the list card, and Rory's sign-off
+(who I am, follow for one list a week, the comment word for the email). Food is
+allowed in training scripts (`moment: training`, P237); P134's no-food rule stays
+for race-day scripts. 10/10 is no longer a gimmick in check.py.

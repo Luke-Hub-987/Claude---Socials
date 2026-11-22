@@ -43,7 +43,7 @@ def tests_for(text):
 WORDS = dict(
     jargon=r"zone ?\d|threshold|glycogen|lactate|vo2|negative split|protocol|strategy|optimal|cadence|tempo|taper|splanchnic|anaerobic",
     title_jargon=r"taper|zone|heart rate|threshold|tempo|cadence|glycogen|vo2",
-    gimmick=r"hacks?|cheat ?codes?|maxx?ing|like you'?re 10|unethical|10/10",
+    gimmick=r"hacks?|cheat ?codes?|maxx?ing|like you'?re 10|unethical",   # P236 (22 Nov): 10/10 is the again series device, no longer a gimmick
     dated=r"this (?:weekend|sunday|saturday|week|spring|summer|autumn|winter|month)|tomorrow|tonight|next weekend|next week",
     stats=r"%|\bper ?cent\b|\bstud(?:y|ies)\b|\bresearch(?:ers)?\b|\bexperts?\b|\bscientists?\b|\b(?:most|many|half of|a third of|\d+ in \d+|\d+ out of \d+) (?:runners|people|marathoners|players)\b",
     medicine=r"ibuprofen|paracetamol|painkillers?|nurofen|aspirin|anti-?inflammator\w*|medication|tablets?",
@@ -157,8 +157,8 @@ def run(path):
     spoken_no_talk = spoken.replace(TALK_TEST, "")
     all_sents = [s for p in paras for s in sentences(p)]
     ost = f.get("ost", "")
-    ost_lines = [l.strip() for l in ost.split("/")] if ost else []
-    markers = [m.strip() for m in f.get("markers", "").split("/") if m.strip()]
+    ost_lines = [l.strip() for l in re.split(r"\s+/\s+", ost)] if ost else []   # P236: 10/10 inside a line is not a break
+    markers = [m.strip() for m in re.split(r"\s+/\s+", f.get("markers", "")) if m.strip()]   # P236: "1/10: ..." markers
     res = []
 
     def add(tid, ok, msg, level=None):
@@ -398,7 +398,7 @@ def run(path):
         add("G19", not probs, "; ".join(probs) or f"hook {hook_words} words, script {total_words}, CTA after stage 1, save and send in")
 
     # G20 stages
-    ok = 3 <= len(markers) <= 5 and markers == markers_in_script
+    ok = 3 <= len(markers) <= (10 if str(fm.get("series", "")).startswith("again") else 5) and markers == markers_in_script   # P236: a 10/10 list has a marker per item
     add("G20", ok, f"{len(markers)} markers" + ("" if markers == markers_in_script else f"; script markers {markers_in_script} don't match the field"))
 
     # G21 something to keep, for a goal most have
@@ -444,7 +444,7 @@ def run(path):
     m = re.search(r"\b\d+ gels\b", spoken, re.I)
     if m:
         probs.append(f"a total gel count in the audio: '{m.group(0)}'")
-    m = rx("race_food").search(spoken)
+    m = None if str(fm.get("moment", "")).startswith("training") else rx("race_food").search(spoken)   # P134 is race day; P237 training scripts may name food
     if m:
         probs.append(f"real food or the bar in the audio: '{m.group(0)}'")
     add("G22", not probs, "; ".join(probs) or "facts table present; gel numbers match FACTS")
