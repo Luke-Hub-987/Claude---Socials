@@ -39,6 +39,13 @@ product exists.
 
 ## Product context (for accurate claims — don't oversell)
 
+- **How the bar is used (Luke, 22 Nov, P237):** a performance rice krispie
+  square for **before training, during slower or longer runs, and after**.
+  It is not a gel replacement at race pace: running fast, most people can't
+  chew, which is why gels exist. Never pitch it as "ditch your gels on race
+  day". The older note below (the 30 minutes before a race) is the narrower
+  first idea.
+
 - The product itself: a high-carbohydrate, low-fat bar built as a
   performance-optimized take on a classic rice krispie treat. The
   familiar format is deliberate — everyone already knows what a rice

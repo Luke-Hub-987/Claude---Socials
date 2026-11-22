@@ -235,3 +235,23 @@ not as changes.
 4. **P234 (non-marathon slot) and P236 ("fit again" for anyone):** keep, narrow
    or pause while we build the first 100?
 5. **Calls:** are you and Jamie up for 10 each, 15 minutes, before 13 Dec?
+
+---
+
+## Luke's answers (22 Nov) and what changed
+
+- **Audience: yes, with one change.** The bar is for training (before, during
+  slower runs, after; P237), not race pace. So the sentence becomes:
+  **"ERN is for amateur runners who train for marathons and halves (finishing
+  about 3:30 to 4:30), who want real food around their runs instead of sugary
+  rubbish. Not for elites, lab-number chasers, or anyone after the cheapest
+  gel."** "Training for a spring race" is out: off season most of them aren't,
+  and the person stays the same anyway.
+- **The non-marathon slot stays (P234), narrowed by Seth's test:** a topic
+  passes if it's for the same runner on a training run (coffee before a run,
+  parkrun, the long run, after a run) and fails if it's for different people
+  (Sunday league, "anyone who used to be fit", P236). Luke is right that race
+  content has no demand now; the fix is changing the moment, not the person.
+- **Calls: Luke's in for 10.** They double as the podcast's listener segment
+  (with permission), so the calls aren't extra work on top of DEAD LEGS.
+- **Still open:** the first-batch size (the numbered founding list waits for it).

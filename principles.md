@@ -6654,3 +6654,19 @@ only marathoners. Every list carries at least one fuel item that leads to the
 bar, and the list is the thing they save. `gate/ost_check.py` reads "10/10" as a
 count (not a line break or a bare number) and accepts FIT / FAST / STRONG /
 ATHLETE / ENGINE with AGAIN, BACK, STOLE or LOST as the "in what?".
+
+
+## P237 — The bar is a training bar: before, during slower runs, after (Luke, 22 Nov)
+Luke, answering the true-fans plan: "people can have it before training, people
+can have it during training, or they can have it afterwards... if they're running
+really, really fast, they probably won't be able to chew on it... That's why people
+have gels."
+
+**The rule:** the bar's moment is training (before a run, during an easy or long
+run, after), all year, not race-day fuel at pace. No script, caption or email
+says or implies it replaces gels at race pace. Content that leads to the bar
+lives in the training week; race-day gel content builds trust but isn't the bar's
+job. Also from 22 Nov: the true-fan audience is defined by the person (an amateur
+who trains for marathons and halves), not by the event, so an off-season topic
+passes if it's for that same person on a training run (coffee before a run,
+parkrun, the long run) and fails if it's for someone else (Sunday league).
