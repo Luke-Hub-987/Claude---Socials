@@ -44,7 +44,8 @@ That fits the bar (a training bar, P237) and the again series.
 ## The accounts to pull (22 Nov). Picked for audience overlap, not size
 Handles get verified by search and a test scrape before the pull (competitors.md: guessed handles were mostly wrong).
 - **Tier 1, the same viewer (amateur marathoners, UK/IE/EU):** Ben Parkes, The Running Channel, Stephen Scullion,
-  The Running Effect, Runner's World UK, Marathon Handbook, Rory (bingethinking).
+  The Running Effect, Runner's World UK, Marathon Handbook, Charlie Norris (cnozrun), Matt the endurance scientist (IG).
+  Rory (bingethinking) is format only: he isn't in running.
 - **Tier 2, the science lens our audience follows:** Steve Magness, Asker Jeukendrup (mysportscience),
   Precision Fuel & Hydration, Renee McGregor, Stacy Sims, Untapped (Spencer Matthews; guest topics that pull).
 - **Tier 3, team sport performance (amateurs):** found by search, not guessed: 5 to 8 accounts on Sunday league,
@@ -58,3 +59,30 @@ Score = outlier (views / that account's median) x share of our viewers who have 
 can counter-position from FACTS, 0.5 if not).
 Share examples: what to eat before a run, about 100%; easy runs feeling hard, high; the wall, most marathoners;
 an ultra or a sub-3 topic, about 5%. A topic only counts if it wins on 3+ accounts, across at least 2 tiers.
+
+## Luke's notes, 22 Nov (third pass)
+- Precision Fuel's content is good but doesn't perform, and most sports accounts are small. So we never rank by
+  raw views: always views / that account's median, and we look for **creators** who beat their own median often.
+- His feed is lifestyle (finish photos, training clips). Few accounts post useful training videos consistently,
+  so step 2 below **discovers** them instead of relying on names we know.
+- Reddit: the October bundle (research/reddit-running-research-manual.txt, themes summary) is the base; Luke can add threads.
+
+## Tomorrow (23 Nov): the run, in order
+1. **Keys (10 min).** Luke saves the Apify key in the secure form (host api.apify.com). I move the scripts from
+   ?token= to a Bearer header, raise posts per account from 20 to about 100 (12 months), and run a 1-account test.
+2. **Discover (45 min).** Keyword and hashtag searches on TikTok and IG (marathon fuelling, marathon training tips,
+   long run, easy run, parkrun, Sunday league fitness, GAA fitness, half-time food). Keep creators under 500K
+   followers, posting at least weekly, with 3+ videos at 3x their median. Target 10 new names, verified by a test scrape.
+3. **Luke cuts the list (10 min).** Named + discovered, about 25 accounts in 3 tiers. He kills any that are lifestyle.
+4. **Pull (1 hour, runs in the background).** IG and TikTok for all 25, YouTube outliers for the YouTube ones
+   (Magness, Scullion, Ben Parkes, The Running Channel, Untapped). Cost check after the first platform.
+5. **Rank (1 hour).** Every video at 3x+ its account's median gets: topic, evergreen or seasonal, lane (marathon,
+   team sport, restart with a goal), title shape, frame one, cover. Topic score = outlier x TAM share x fuel angle.
+   A topic counts only if it wins on 3+ accounts across 2 tiers.
+6. **Cross-check with Reddit (20 min).** Each top topic gets its pain in the runners' own words from the October
+   bundle. No Reddit pain, it drops a place.
+7. **The map (30 min).** One page: the top 10 topics, why each wins, our counter-position from FACTS, and the
+   title and frame-one shapes that won. Council verdict on the top 5.
+8. **Titles (rest of the day).** Title-producer on the top 2; the first goes to script and films as a trial reel.
+
+Done = a ranked map of 10 topics, 2 titled, 1 scripted. Each topic in it traced to the videos behind it.
