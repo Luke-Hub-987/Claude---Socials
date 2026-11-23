@@ -38,7 +38,7 @@ def main():
         status = run["status"]
     if status not in ("SUCCEEDED", "FAILED", "TIMED-OUT", "ABORTED"):
         s.post(f"{API}/actor-runs/{rid}/abort", timeout=30)
-        sys.exit(f"aborted after {a.max_wait}s")
+        status = f"ABORTED after {a.max_wait}s (partial items kept)"
     items = s.get(f"{API}/datasets/{run['defaultDatasetId']}/items?clean=true", timeout=120).json()
     Path(a.output).parent.mkdir(parents=True, exist_ok=True)
     Path(a.output).write_text(json.dumps(items, indent=1))
