@@ -574,3 +574,4 @@ twice without being checked against the winners (P99).
 - [ ] **P240:** again scripts: the list filling in on screen (1/10 to 10/10 markers, `series: again`), one specific fact per item, save at item 1, Rory's sign-off; `moment: training` for food in training scripts.
 - [ ] **P241:** beginner details: parkrun is free and unbooked (barcode); the talk test is 'without gasping for air'; evening caffeine skipped after lunchtime; after dark = quiet, well-lit streets; the why fits a beginner's run.
 - [ ] **P242:** again hooks in Luke's voice: the lived scene (the mirror), his own before and after as proof, the escalation tag; never 'you probably said X, but it wasn't Y'; his numbers from him (luke_said), a real before photo.
+- [ ] **P243:** topic research only from to-camera teaching accounts; each outlier tagged by driver (topic, stunt, guest, trend, event), only topic outliers count; every idea doable sat at a desk, no stunt, no guest.

@@ -6742,3 +6742,13 @@ tag ("each one more niche"). Never the reassurance shape "you probably did X,
 but it wasn't Y", never a diagnosis of the viewer. Every number in Luke's story
 (kilos, time, races) comes from Luke (`luke_said:`), and the "before" needs a
 real photo of him on screen.
+
+## P243 — Research only accounts that make our kind of video: one person, to camera, teaching; tag what drove every outlier (Luke, 23 Nov)
+Luke: last time we scraped Max Jolliffe and BPN, whose views come from stunts (100-mile runs, film crews), and then suggested he
+run 50K at the weekend. His videos are informational, sat in front of the camera, Briar-style, like a podcast clip.
+- Accounts get scraped for topics only if the format matches: one person to camera, a podcast clip, or text on screen,
+  teaching. No vlogs, stunts, race footage, travel or film-crew accounts.
+- Every outlier is tagged with what drove it: topic, stunt, guest, trend, or event. Only "topic" outliers count.
+- Guest-driven podcasts (Untapped) give us the questions asked, never the guest pull: we have no big guests.
+- Accounts outside running (finance, mental fitness) are read for title and topic mechanics that give consistent views, not for topics.
+- Every idea that comes out must be something Luke can say sat at a desk, from FACTS, with no stunt and no guest.

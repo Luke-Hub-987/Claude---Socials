@@ -94,3 +94,30 @@ Done = a ranked map of 10 topics, 2 titled, 1 scripted. Each topic in it traced 
 - Found by search, to verify by test scrape: Phily Bowden (coach, 2:25, YouTube 225K), Brady Holmer (Run Long Run Healthy,
   with Marathon Handbook's Thomas Watson), The Football Nutritionist (Craig), The Foodie Footballer (Marc Pugh, IG).
   Web search finds media lists, not consistent creators, so discovery waits for the Apify keyword search.
+
+## 23 Nov, the account plan (P243: format first)
+The mistake last time: Max Jolliffe and BPN, views from stunts and film crews, so the advice became "run 50K".
+Rule: an account is scraped for topics only if it makes Luke's kind of video (one person to camera, teaching,
+like a podcast clip); every outlier is tagged by what drove it and only topic outliers count.
+
+**A. Same format, same niche (topics we can take; ranked):**
+runcoachcath (IG, closest to Luke's videos), The Running Effect, Matt the endurance scientist, cnozrun (if to camera),
+Steve Magness (YouTube talking head), Stephen Scullion (to-camera videos only), Precision Fuel & Hydration (education),
+Ben Parkes (to-camera videos only, not race vlogs), Brady Holmer, The Football Nutritionist, The Foodie Footballer.
+Plus discovery: keyword search, keeping only to-camera teachers (checked by their covers), under 500K followers.
+
+**B. Podcast clips in the niche (the questions that pull, not the guests):**
+Nick Bare podcast clips, Untapped (Spencer Matthews), Steve Magness's podcast clips. Tag each clip by its question;
+drop any clip whose views track the guest's fame. These double as our podcast's episode questions (Luke + Jamie, no guests).
+
+**C. Same format, other niches (mechanics only: what makes topics pull every time):**
+conor.talks (finance), maya.mental.fitness, the Motional Intelligence podcast (handle to confirm), Rory (bingethinking),
+Slow Internet Club. Read for title shapes, topic types and why their floor is high, never for topics.
+
+**Out:** Max Jolliffe, BPN, Nick Bare's vlogs and stunts, race-day and lifestyle accounts, and anything with a film crew.
+
+**Tags on every outlier (3x+ its account's median):** driver (topic, stunt, guest, trend, event), format, topic, lane
+(marathon, team sport, restart with a goal), evergreen or seasonal, title shape, frame one. Then the TAM score.
+**Final filter:** could Luke say it sat at his desk tomorrow, from FACTS, with no guest and no stunt? If not, out.
+
+**Cost:** about 20 accounts in A + B, 5 in C, so roughly $13 to $24 as estimated; C pulls 50 posts each.
