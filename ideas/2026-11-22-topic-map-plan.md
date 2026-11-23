@@ -121,3 +121,15 @@ Slow Internet Club. Read for title shapes, topic types and why their floor is hi
 **Final filter:** could Luke say it sat at his desk tomorrow, from FACTS, with no guest and no stunt? If not, out.
 
 **Cost:** about 20 accounts in A + B, 5 in C, so roughly $13 to $24 as estimated; C pulls 50 posts each.
+
+## 23 Nov, handles confirmed (Instagram details scrape) and the pull
+A (to camera, our niche): runcoachcath 17K, mattendurancescientist 29K, cnozrun 26K, runningcoachmegan 74K, ben_is_running 163K,
+justalilbester 111K, benparkes 90K, stevemagness 246K, precisionfandh 133K, therunningeffect 254K, mcgurnfitness 61K (GAA),
+thefootballnutritionist 36K, thefoodiefootballer 73K. TikTok: kelsey.poulter.
+B (podcasts: the questions, not the guests): thenickbarepodcast, untapped.podcast 111K, richroll 1.6M, extramilest 3K,
+thetenacitypodcast 5K, motionalintelligencepod 20K, jakedearden_ 681K (HYROX; tag stunts hard).
+C (mechanics only): conor.talks 25K, maya.mental.fitness 673K.
+Not found on IG: Stephen Scullion (YouTube only), Brady Holmer, On Coaching, Some Work All Play (YouTube later).
+Not every post from these accounts is in our lane: every outlier is tagged by lane, and off-lane posts are dropped.
+**Seth Godin tag (Luke, 23 Nov):** every topic says which want it serves (status, freedom from fear, affiliation). No want, it's out.
+Cost so far: test $0.23, handle checks $0.09.
