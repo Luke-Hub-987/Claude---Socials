@@ -18,3 +18,27 @@ winners did, and it's the save driver (P224: 4+ numbers per goal time).
 4. Match day: by kick-off time (FACTS has it). Card: what and when for 11am, 1pm and 3pm kick-offs. Email: their match day.
 
 **Before each title run, a 5-minute gap check:** search the exact title on YouTube and TikTok. If the goal-time version exists and won, find another angle.
+
+## Picking the next video (Luke, 23 Nov: "the best way to pick out a good one")
+Score each candidate 1 to 3 on 8 tests; the highest goes next, and a tie goes to the one whose facts are ready first.
+1. Proven demand: wins on 3+ accounts across 2+ platforms (research review).
+2. Gap: no goal-time version won already (the 5-minute search).
+3. Our data: close to our winners (goal-time how-to, fuel numbers, a myth killed).
+4. Keep card: 4+ numbers per goal time.
+5. Email reason: a personal version worth an address.
+6. Seth want: status, fear or affiliation, clear in the title.
+7. Not a repeat of the last 14 days.
+8. Evergreen: works with no race in 4 weeks.
+
+**The pro's plan, scaled to you (Luke's Ferrari and Fiat Punto):** a new device for the bank. The pro's real session, then the same session for a
+3:00 to 4:00 marathoner. Status (train like the best) without the elite kit.
+
+| Candidate | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | Total |
+|---|---|---|---|---|---|---|---|---|---|
+| Almgren's long run, scaled for 3:00 to 4:00 | 2 | 3 | 2 | 3 | 3 | 3 | 3 | 3 | 22 |
+| Easy pace by goal time | 3 | 2 | 2 | 3 | 3 | 3 | 3 | 3 | 22 |
+| Gain 1.5kg in a block (don't diet it off) | 3 | 2 | 2 | 2 | 2 | 3 | 1 (heavier carousel, 16 Nov) | 3 | 18 |
+| Match day by kick-off time | 2 | 2 | 3 | 3 | 3 | 2 | 1 (oranges, 17 Nov) | 2 | 18 |
+
+Pick: **Almgren's long run, scaled**, with easy pace inside it. A long run is built on easy pace, so one video uses both, and the pro is the
+spin that easy-pace videos lack. Blocked on facts: his published long runs (the Reddit post that recreated them, and his own source), checked before the title run.
