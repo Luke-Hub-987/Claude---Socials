@@ -86,3 +86,11 @@ an ultra or a sub-3 topic, about 5%. A topic only counts if it wins on 3+ accoun
 8. **Titles (rest of the day).** Title-producer on the top 2; the first goes to script and films as a trial reel.
 
 Done = a ranked map of 10 topics, 2 titled, 1 scripted. Each topic in it traced to the videos behind it.
+
+## 23 Nov, the start
+- Luke declined the key form in chat. Route: he adds it in the environment settings (Network secrets, host api.apify.com),
+  then a new session picks it up.
+- Web search can't confirm Matt the endurance scientist or cnozrun: Luke sends the handles (copy from the app).
+- Found by search, to verify by test scrape: Phily Bowden (coach, 2:25, YouTube 225K), Brady Holmer (Run Long Run Healthy,
+  with Marathon Handbook's Thomas Watson), The Football Nutritionist (Craig), The Foodie Footballer (Marc Pugh, IG).
+  Web search finds media lists, not consistent creators, so discovery waits for the Apify keyword search.
