@@ -6752,3 +6752,9 @@ run 50K at the weekend. His videos are informational, sat in front of the camera
 - Guest-driven podcasts (Untapped) give us the questions asked, never the guest pull: we have no big guests.
 - Accounts outside running (finance, mental fitness) are read for title and topic mechanics that give consistent views, not for topics.
 - Every idea that comes out must be something Luke can say sat at a desk, from FACTS, with no stunt and no guest.
+
+## P244 — Lowest friction first: the shortest session that works, and "you can do this" in the first 15 seconds (Luke, 24 Nov)
+Luke, on the Almgren reel: "we need the resistance or friction to be minimal so the shorter the workout the better currently and we can try longer ones eventually... people will think straight away oh he is a pro at crazy paces I can't keep up with him so need to get to that as quick as possible."
+- Every training reel hands over the **shortest version** that keeps the method (Almgren's 4 x 10K becomes 4 x 10 minutes); the longer versions go in the caption or the email.
+- When the hook names a pro or an elite number, **the objection ("I can't run that") is answered by the end of the hook**, and stage 1 opens on the viewer's pace, not the pro's.
+- Curiosity first, then speed to value: the title pulls, line one names the objection, the scaling arrives before 0:15.
