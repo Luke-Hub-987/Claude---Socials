@@ -1,0 +1,38 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Almgren stages</title>
+<!-- ?s=1..4 : one card per block of the 4 x 10 (sub-4 worked example; no exact pro splits on screen, G22) -->
+<style>
+@font-face{font-family:'BC';font-weight:800;src:url(../fonts/BarlowCondensed-800-normal.woff2) format('woff2')}
+@font-face{font-family:'B';font-weight:700;src:url(../fonts/Barlow-700-normal.woff2) format('woff2')}
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1920px;height:1080px;background:#fff;font-family:'B';color:#0c1828;position:relative;overflow:hidden}
+.tag{position:absolute;left:90px;top:70px;font-family:'BC';font-weight:800;font-size:56px;color:#5b6474;letter-spacing:1px}
+h1{position:absolute;left:90px;top:168px;font-family:'BC';font-weight:800;font-size:120px;line-height:1}
+h1 span{background:#d9473f;color:#fff;padding:0 18px;border-radius:12px}
+.pace{position:absolute;left:90px;top:345px;font-family:'BC';font-weight:800;font-size:300px;line-height:1;color:#1f7ae0}
+.pace small{font-size:110px;color:#0c1828;margin-left:20px}
+.feel{position:absolute;left:96px;top:670px;font-size:54px;color:#0c1828}
+.bars{position:absolute;left:90px;right:90px;top:770px;display:flex;gap:18px;align-items:flex-end;height:90px}
+.bar{flex:1;background:#e3e7ee;border-radius:10px;font-family:'BC';font-weight:800;font-size:34px;color:#5b6474;display:flex;align-items:center;justify-content:center}
+.bar.on{background:#1f7ae0;color:#fff}
+.his{position:absolute;left:90px;right:90px;bottom:60px;background:#0c1828;color:#fff;border-radius:18px;padding:24px 36px;font-family:'BC';font-weight:800;font-size:52px}
+.his b{color:#f5b52e}
+.logo{position:absolute;right:90px;top:70px;height:70px}
+</style></head><body>
+<div class="tag" id="tag"></div><h1 id="h"></h1><div class="pace" id="p"></div><div class="feel" id="f"></div>
+<div class="bars" id="bars"></div><div class="his" id="his"></div>
+<img class="logo" src="../brand/ern-logo.png">
+<script>
+const S={1:['EASY','6:40–6:45','Slow enough to talk without gasping','HIS 40K STARTED ABOUT <b>30 SEC A K SLOWER</b> THAN RACE PACE',40],
+2:['STEADY','5:55–6:00','Quicker, but steady, not hard','HIS SECOND 10K: STILL ABOUT <b>10 SEC A K SLOWER</b> THAN RACE PACE',60],
+3:['RACE PACE','5:40–5:45','Your sub-4 marathon pace. Hold all 10 minutes','HIS THIRD 10K: <b>RIGHT ON THE PACE HE WON NEW YORK AT</b>',75],
+4:['FASTER','5:25–5:30','A bit quicker than race pace, on tired legs','HIS LAST 10K WAS <b>HIS FASTEST</b>',90]};
+const s=+(new URLSearchParams(location.search).get('s')||1), d=S[s];
+document.getElementById('tag').textContent=`BLOCK ${s} OF 4 · SUB-4 MARATHON`;
+document.getElementById('h').innerHTML=`10 MINUTES <span>${d[0]}</span>`;
+document.getElementById('p').innerHTML=`${d[1]}<small>/K</small>`;
+document.getElementById('f').textContent=d[2];
+document.getElementById('his').innerHTML=d[3];
+const bars=document.getElementById('bars');
+[1,2,3,4].forEach(i=>{const b=document.createElement('div');b.className='bar'+(i===s?' on':'');b.style.height=S[i][4]+'px';b.textContent=S[i][0];bars.appendChild(b);});
+document.fonts.ready.then(()=>document.title='ready');
+</script></body></html>
