@@ -90,7 +90,7 @@ Line one: the pro, his 2:06, the objection answered (shape, not speed), then the
 "Send this to the friend who's chasing their first sub-4, because their hardest long run just got shorter."
 
 ## Caption
-Andreas Almgren won the 2026 New York City Marathon on his debut in 2:06:01, about 2:59 a kilometre. One of his long runs in the build-up was 40K in four 10K blocks, each faster: about 3:30, 3:08, 2:59 and 2:51 a K (as reported by Marathon Handbook). That's easy, steady, race pace, then a bit quicker than race pace. Your version keeps the shape and shrinks the time: 4 blocks of 10 minutes, 40 minutes in all.
+Andreas Almgren won the 2026 New York City Marathon on his debut in 2:06:01, about 2:59 a kilometre. One of his long runs in the build-up was 40K in four 10K blocks, each faster: about 3:30, 3:08, 2:59 and 2:51 a K (as reported by Marathon Handbook). That's easy, steady, race pace, then a bit quicker than race pace. Your version keeps the shape and shrinks the time: 4 blocks of 10 minutes, 40 minutes in all, with no rest between them, each block running straight into the next, as his did.
 
 Your 4 paces a K (easy, steady, race pace, faster). 3:00 marathon: 5:01, 4:29, 4:16, 4:04. 3:30: 5:51, 5:14, 4:59, 4:44. 3:45: 6:16, 5:37, 5:20, 5:05. 4:00: 6:41, 5:59, 5:41, 5:25 (in miles, 10:45, 9:38, 9:09, 8:43). These are his blocks scaled to your race pace, not a study, so if the last block feels too much, hold race pace instead. When 4 x 10 feels easy, try 4 x 15, then 4 x 20. Once a run goes past an hour, take your first gel at 20 minutes and one every 30: in Maurten's testing it took about an hour before his drink was a steady share of the fuel he burned.
 
