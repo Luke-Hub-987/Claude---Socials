@@ -1,0 +1,22 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Almgren cover</title>
+<style>
+@font-face{font-family:'BC';font-weight:800;src:url(../fonts/BarlowCondensed-800-normal.woff2) format('woff2')}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1920px;height:1080px;overflow:hidden;background:#0c1828}
+.photo{position:absolute;right:0;top:0;width:1020px;height:1080px;background:url(almgren-nyc-finish.jpg) no-repeat;background-size:auto 1080px;background-position:-300px 0;filter:saturate(.9) contrast(1.05)}
+.fade{position:absolute;right:0;top:0;width:1020px;height:1080px;background:linear-gradient(90deg,#fff 0%,rgba(255,255,255,0) 22%)}
+.left{position:absolute;left:0;top:0;width:900px;height:1080px;background:#fff}
+.t{position:absolute;left:80px;top:0;height:1080px;width:880px;display:flex;flex-direction:column;justify-content:center;align-items:flex-start;gap:6px}
+.l{font-family:'BC';font-weight:800;color:#000;line-height:1.0;white-space:nowrap}
+.hl{background:#d9473f;color:#fff;padding:0 .12em;display:inline-block;line-height:1.08}
+.logo{position:absolute;left:80px;bottom:60px;height:64px}
+</style></head><body>
+<div class="photo"></div><div class="left"></div><div class="fade"></div>
+<div class="t" id="t"></div>
+<img class="logo" src="../brand/ern-logo.png">
+<script>
+const lines=[['STEAL THE NYC',1],['MARATHON',1],["WINNER'S LONG RUN",1],['(FOR SUB-4)',1]];
+const t=document.getElementById('t');
+const els=lines.map(([s])=>{const d=document.createElement('div');d.className='l';d.innerHTML=s.replace('STEAL','<span class="hl">STEAL</span>');t.appendChild(d);return d;});
+document.fonts.load("800 100px 'BC'").then(()=>{els.forEach(d=>{let fs=230;d.style.fontSize=fs+'px';while(d.getBoundingClientRect().width>820&&fs>40){fs-=2;d.style.fontSize=fs+'px';}});document.title='ready';});
+</script></body></html>

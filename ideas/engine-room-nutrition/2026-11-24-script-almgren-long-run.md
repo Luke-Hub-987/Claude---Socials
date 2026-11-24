@@ -28,6 +28,7 @@ format: Instagram trial reel from ERN + ERN TikTok (P174)
 - Frame one: Luke alone, eyes on the lens, the white title card full width in the top band, STEAL in red; nothing else until stage 1
 - Frame one words: title only
 - Mockup: ideas/engine-room-nutrition/mockups/2026-11-24-almgren-frame-one.png
+- Cover: motion/almgren/almgren-cover-16x9.png (grid cover only, never frame one: the title on white, Luke's photo of Almgren's NYC finish on the right; a press photo, so credit or licence it before posting)
 - Overlay: motion/almgren/almgren-overlay-9x16.png (card motion/almgren/almgren-title-16x9.png)
 - Layer title: steal the NYC Marathon winner's long run, for sub-4
 - Layer picture: none (Luke and the title)
