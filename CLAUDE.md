@@ -227,3 +227,7 @@ whole list minus Replied and new) and `emails/2026-11-18-email-2-where-will-it-g
 (Sat 9am, Email 1 openers only, reply with one number; reply bank in
 `emails/2026-11-18-two-emails-this-week.md`). Count of each number = next
 video topic.
+Campaign 25 Nov (true fans): `emails/2026-11-25-long-run-campaign.html` and `.md`. "The 2:06 long run,
+at your pace": Almgren's long run scaled by goal time (3:30 to 4:30) plus one question, "what did you eat
+before your last long run?", CALL for Luke's 10 calls. Klaviyo draft, not scheduled. 18 Nov send: 542
+delivered, 50% open, 4 clicks, 5 unsubs, 3 replies (plan offer worn out). The 21 Nov Email 2 was never sent.
