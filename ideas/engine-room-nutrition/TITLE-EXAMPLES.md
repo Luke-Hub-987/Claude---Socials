@@ -124,3 +124,13 @@ adding more: when Luke sends a new example, save it to research/title-examples/N
 | 39 | You should read banned books (Banned Book Club, post 2) | 186.3K / 68.7K / 7,622 | Forbidden + a club the audience picks the next book for |
 
 **Why it works (21 Nov):** the save is the product (saving feels like starting); scrolling is turned into self-improvement, so the guilt goes; prestige is borrowed (Harvard, banned, Einstein); "niche" promises it isn't the advice you already know; "again" says you had it and it's coming back, not that you're stupid; a numbered series and "wait for number 8" hold to the end; a playlist and "what next?" bring people back. Our use: the runner version below each new title run (chat, 21 Nov).
+
+## Added 25 Nov (Luke: slow internet club's grid and the "10/10 brain skills you can learn in a day (part 4)" carousel; `research/title-examples/2026-11-25-slowinternet-*.png`; analysis `ideas/2026-11-25-slow-internet-carousel-analysis.md`)
+| # | Title | Likes / saves / shares | The move |
+|---|---|---|---|
+| 40 | 10/10 BRAIN SKILLS YOU CAN LEARN IN A DAY (part 4) | 230.5K / **170.8K saves (74% of likes)** / 11.5K; 2.3M views | Giant blue 10/10 + a cut-out person sitting on it; "in a day" kills the friction; each slide one skill: verb-first 2-line headline (line 2 coloured), one YouTube thumbnail with its views as proof, then "9 minutes. Cyrillic, decoded." (the time cost + the outcome); 7 slides; one app slide (Memo) mid-carousel |
+| 41 | 10/10 POINTLESS SKILLS THAT MAKE YOU INSTANTLY COOLER | 2.9M views | Status (cooler), "pointless" (permission), "save this for a boring day" under the cover |
+| 42 | Iceberg of things smart people do differently | 1.6M views | Identity + the iceberg shape (surface to deep) |
+| 43 | tier list of Hobbies that make you smarter (part 3) / Languages to learn | 1.5M / 1.1M | Tier list on cream with one classical object; a series |
+| 44 | 10/10 SKILLS THAT MAKE PEOPLE THINK YOU'RE A GENIUS | 982K | Status as how others see you (Seth's status) |
+| 45 | 5 niche ways to get smarter without studying (neuroscience backed) | 408.5K | Constraint ("without studying") + one brain scan; the plain-text covers do a fifth of the 10/10 covers |
