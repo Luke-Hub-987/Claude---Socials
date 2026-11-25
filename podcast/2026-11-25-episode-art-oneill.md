@@ -6,10 +6,20 @@ basis: plan doc (master); FACTS (Art O'Neill, history, fuel, 10% rule, tendons);
 
 # Episode: 7 weeks to beat 10:35
 
-**YouTube title (CCN):** 7 WEEKS TO BEAT 10:35 IN A 62K NIGHT RACE OVER THE MOUNTAINS
-Core gets the stake and the number; casual gets "night race over the mountains";
-new gets the spectacle. Thumbnail: Luke's face lit by a head torch, "10:35" huge.
-Change "7 weeks" to the real count on recording day.
+**YouTube title (v2, council, 25 Nov): I'm Not Fit Enough for This 62K Night Race** (42 characters)
+**Thumbnail:** Luke's face lit by a head torch in the dark, "TOP 10?" big, "7 WEEKS" small.
+Title carries the fear; the thumbnail carries the stake and the deadline (they
+complement, they don't repeat). v1 (7 WEEKS TO BEAT 10:35...) cut: 60 characters,
+13 words, and "10:35" reads as a time of day to anyone new.
+
+**Council (Patty Galloway's CCN and rules 1 to 3; 1 of 10: about 50 characters,
+5 to 6 words, fear / curiosity / desire, a power word):**
+- *Contrarian:* "10:35" means nothing to casual or new viewers. A history title ("a dead man's escape route") would promise a story the episode only spends a minute on, which breaks rule 2 (respect their time).
+- *Assumption-ripper:* podcast views come from browse and suggested, not search, so curiosity beats keywords; and "top 10" means nothing until they know the field (56 finishers), so it goes in the thumbnail with a question mark.
+- *Expansionist:* make it a season format so each episode answers "do you want more like this?": "[X] weeks to..." countdown thumbnails, same look every week.
+- *Outsider:* "Top 10 in what?" kills v1; "a 62K night race, and you're not fit enough?" makes me click.
+- *Executor:* 42 characters, 9 words, fear in the audience's own words (Luke's "not fit enough"), doesn't reveal the ending.
+- *Chairman:* **I'm Not Fit Enough for This 62K Night Race.** Banked for a later test: Running a Dead Man's Escape Route at Night (only if the history gets its own segment).
 
 **What changed from the ChatGPT order and why:** it opened on "what is the Art
 O'Neill" (us and the race, ledger rows 20 and 30) and buried fears at the end. Here
@@ -30,7 +40,7 @@ fears section pays the loop off.
 |---|---|---|---|---|
 | 0:00 | Cold open (fixed) | "In 1592 a prisoner escaped Dublin Castle down the toilet chute and died in the snow before he reached Glenmalure, and on 15 January I'm running his route through the night." | Reaction | The stake, in one picture |
 | 0:30 | 1. Intro (1.5 min) | The bet: top 10 in my class, last year 10:35:37. "By the end of this you'll know the one thing that decides whether I make the top 10 in my class, and it isn't my fitness." | His bet: Western Yards, top 10. "Team Luke or Team Jamie, comments" | A side to pick |
-| 2:00 | 2. What is the Art O'Neill (3 min) | Told on the race clock: Dublin Castle at 11pm; road to Kippure (25K); open mountain; Art's Cross at 47K, where Art died; Glenmalure. 2026: winner 6:13:14, 10th in class 10:35:37, 166 finishers. "The bit that scares me most comes at 47K, so I'll get to it." | The outsider's questions: why at night? Do you get lost? | The road section is their first 10K: fresh legs go too fast |
+| 2:00 | 2. What is the Art O'Neill (3 min) | Told on the race clock and the numbers (the stats card below): Dublin Castle; road to Kippure (25K); open mountain; Art's Cross at 47K, where Art died; Glenmalure. The turn: "You'd jog a kilometre in 10 minutes, but over these mountains in the dark that pace gets you into the top 10." Then: "The 10th man in my class last year got to Art's Cross at 5:20 in the morning, still in the dark, with 15K to go." "The bit that scares me most comes at 47K, so I'll get to it." | The outsider's questions: why at night? Do you get lost? | The road section is their first 10K: fresh legs go too fast |
 | 5:00 | 3. Why take it on (3 min) | Honest: to be top 10 and tell people (status); scared of being found out as not fit enough (fear); doing it with a mate (belonging) | "Why top 10 and not just finish?" | "If you're saying just to finish, your marathon won't change, because a goal you might miss changes how you train" |
 | 8:00 | The one ask | | "If you've a spring marathon and want it planned, email us your race and goal time. The link's in the description." | |
 | 8:15 | 4. Training (4 min, cut from 5) | 7 weeks: you can't cram (tendons catch up slower than heart and lungs); each long run within 10% of the longest in 30 days; rehearse the race: a night run with the head torch, the fuel clock on every long run; the benchmark run from 21 Nov, then and now | "What does a week look like around work?" | "With 7 weeks to go you can't get much fitter, but you can change how you race." 8 weeks out vs 16 to 20 |
@@ -41,8 +51,20 @@ fears section pays the loop off.
 
 **No bar talk** (P238: not available, no date). "We've both got jobs" is fine; nothing about work getting better (P215).
 
+## The stats card (on screen in section 2; all from the 2026 results)
+| | Ultra Competitive men | Ultra men (Luke's class) |
+|---|---|---|
+| Start | 11pm, everyone together | Rolling, 9pm to 10:30pm |
+| Finishers | 45 | 56 |
+| Winner | 6:13:14 (about 6:01/km), the overall winner | 8:55:54 (about 8:38/km) |
+| 10th | 8:29:15 (about 8:12/km) | **10:35:37 (about 10:15/km): the target** |
+| Halfway finisher | 9:24:57 | 11:33:16 |
+| The 10th man's night | | Start 9:18pm, Kippure 11:48pm, Art's Cross 5:20am, finish 7:54am |
+166 finished across all classes; 62K, Dublin Castle to Glenmalure, Fri 15 Jan 2027.
+
 ## Clips (first words the viewer, the question inside 10 words, P189)
 1. **"The man this race is named after never reached the finish line."** (cold open + history) New and casual
+1b. **"You'd jog a kilometre in 10 minutes, but over these mountains in the dark that pace gets you into the top 10."** (stats) Casual and core
 2. **"If you're saying just to finish, your marathon won't change."** (why) Core marathoners
 3. **"If you're not hungry at 3am or at 30K, that's exactly when you need to eat."** (nutrition) Core, the bar's lane
 4. **"With 7 weeks to go you can't get much fitter, but you can change how you race."** (training) Spring marathoners
