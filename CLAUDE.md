@@ -223,7 +223,7 @@ a new cause becomes a new row in the same turn.**
 
 **As of 4 November 2026.**
 
-**24 Nov, Almgren trial first read (`ideas/2026-11-24-almgren-trial-review.md`):** 1,877 views, skip 32.9%, 17s, 21 saves (1.1%, best trial save rate), shares 0.2%, 1 follow; on the oranges line. Followers: share this reel to the profile at 24h if 4K+ (or 3K+ climbing, skip under 35%).
+**24 Nov, Almgren trial first read (`ideas/2026-11-24-almgren-trial-review.md`):** 1,877 views, skip 32.9%, 17s, 21 saves (1.1%, best trial save rate), shares 0.2%, 1 follow; on the oranges line. Followers: share this reel to the profile at 24h if 4K+ (or 3K+ climbing, skip under 35%). **25 Nov, ~15h+: 3,777 views, skip 36.9%, 19s, 40 saves (1.7%, equal to the fourth hour), 1 follow; edit 1:49 (20 s over); verdict: Share to everyone.**
 
 **24 Nov, reel gated (the pro's plan scaled, P244): STEAL THE NYC / MARATHON WINNER'S / LONG RUN (FOR SUB-4)** (STEAL red, 8/9 cold review, Luke to confirm), ERN trial reel, `ideas/engine-room-nutrition/2026-11-24-script-almgren-long-run.md`: Almgren's 40K in four faster 10K blocks shrunk to the 4 x 10 (40 minutes; sub-4 6:40-6:45, 5:55-6:00, 5:40-5:45, 5:25-5:30); hook 44, script 329; one review, G22 G29 fixed; check.py PASS; **new SCRIPT-SCORECARD.md (12 markers from our data): 11/12**; council: film it, bank 'the pro's session, scaled' as a series at 2,500+ views. Cards `motion/almgren/` (title, overlay, the 4 x 10 card). FACTS 'Almgren's long runs'. P244 (shortest version; the pro objection answered by 0:15).
 

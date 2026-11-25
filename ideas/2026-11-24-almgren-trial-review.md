@@ -13,3 +13,12 @@ Unlike 'I let myself go' (row 34), this is our followers' own topic (marathoners
 **Plan:** at 24 h, if 4K+ (or still climbing past 3K with skip under 35%), share this same reel to the profile from the trial's menu, so it keeps
 its views and saves, rather than reposting a copy. If Instagram won't add Luke's account as a collaborator on a shared trial, post a fresh collab copy
 instead with only the frame one checked (title only, Luke alone) and the caption as is; no other change (P227: one variable at a time).
+
+## Second read (25 Nov, 07:02 screenshot, about 15 h+)
+**Numbers:** 3,777 views, 2,350 viewers, **skip 36.9%**, **19 s**, **40 saves (save rate 1.7%)**, share rate 0.3%, like 0.8%, comment 0.2%, 1 repost, 1 follow.
+**Curve:** about half gone by 0:03, about a third left by 0:10, then flat; about 5% at the end. **The edit runs 1:49**, against the script's estimate of about 1:30 (row 7).
+**Against the base:** above the oranges (2,468, 33.4%, 17.1 s) and the wall repost (3,537, 33.3%) on views and watch time; skip a touch worse.
+**Saves 1.7%: the same as the fourth hour (1.7%), our best reel since September,** and over the 1.6% line every keep-plan reel reached (P224).
+**Verdict: release it to the profile.** Views (3,777) are just under the 4K gate and skip (36.9%) is under 40%; the save rate is the strongest signal we have.
+**Lessons:** (1) the 4 x 10 card earns saves on a trial, as the gel clock did on the profile; (2) the 1:49 edit is about 20 s over the script, so trim pauses next time;
+(3) half gone by 0:03 with the photo in the top band, so the next one tests the plain white title-only frame one (one change, P227).
