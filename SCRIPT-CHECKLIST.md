@@ -577,3 +577,4 @@ twice without being checked against the winners (P99).
 - [ ] **P243:** topic research only from to-camera teaching accounts; each outlier tagged by driver (topic, stunt, guest, trend, event), only topic outliers count; every idea doable sat at a desk, no stunt, no guest.
 - [ ] **P244:** the shortest version of any workout in the reel (longer ones by email); a pro's number in the hook gets 'you can do this at your pace' before 0:15; stage 1 starts on the viewer's pace.
 - [ ] **P245:** the title and line one carry only measured numbers (log, watch, lab, result), never a reporter's estimate or a session's first steps; the 'would a nerd call it untrue?' test; pasted numbers are leads until sourced in FACTS.
+- [ ] **P246:** the title starts from a result they've seen or a problem they have; the pro's obscure number is proof in the body, never the premise ('stop copying X' only if they already do X).

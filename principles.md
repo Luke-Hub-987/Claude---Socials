@@ -6764,3 +6764,8 @@ Luke, on KIPCHOGE ACTUALLY STARTS EASY RUNS AT SUB-4 MARATHON PACE: the 5-6 min/
 - The hook and the title carry only measured numbers (a log, a watch file, a lab test, a race result), never an eyeballed estimate, and never the first moments of a session sold as the session.
 - Test before any title: if a running nerd looked it up, would they say "that's not true"? If yes, it's out, however strong the click.
 - Numbers pasted from another tool or chat are leads, not facts: they go through FACTS with a source before use.
+
+## P246 — The pro's number is the proof, never the premise: the title starts from a problem they already have or an event they already know (Luke, 25 Nov)
+Luke, on STOP COPYING THE NYC MARATHON WINNER'S 144G CARBS AN HOUR: "I didn't even know that he took 144 grams of carbs per hour... and I'm pretty big in running... highly unlikely that someone would know that." A title can't tell people to stop doing something they never did.
+- Why Almgren worked: a result they'd seen (he won New York, 2:06), a session they could do, their number by goal time, short.
+- The title opens on what they know (the race, the result, their own fade, their long run) or a problem they have (P220); the obscure measured detail goes in the body as proof.
