@@ -208,6 +208,30 @@ CP1 (31km), CP2 (43km), Art's Cross (47km), then Glenmalure.
   screenshot was the Ultra - Male class. **Luke's target (17 Nov): top 10 in the Ultra - Male class, 10:35:37 last
   year.** Say "top 10 in my class", never "top 10" alone (10th overall was 8:29:15).
 
+**2026 results by class (parsed from Primal Tracking, 25 Nov; 62km for pace):**
+| Class | Start | Finishers | Winner | 10th | Median |
+|---|---|---|---|---|---|
+| Ultra Competitive men | 23:00, mass start | 45 | 6:13:14 (6:01/km), overall winner | 8:29:15 (8:12/km) | 9:24:57 (9:06/km) |
+| **Ultra men (Luke's class)** | rolling, 21:01 to 22:30 (median 21:43) | 56 | 8:55:54 (8:38/km) | **10:35:37 (10:15/km)** | 11:33:16 (11:10/km) |
+| Ultra Competitive women | 23:00 | 10 | 8:07:07 | 10:34:52 | 9:04:44 |
+- 166 finishers across all classes. Checkpoints: 10km, Stone Cross (15km),
+  Kippure Estate (25km), CP1 (31km), Billy Byrne's Gap, CP2 (43km), Art's Cross
+  (47km), Glenmalure.
+- **The 10th Ultra man's night:** started 21:18, Kippure 23:48, CP1 00:41, CP2
+  03:50, Art's Cross 05:20 (still dark, 15km to go), finished 07:54. Paces are
+  averages over 62km; say "about".
+
+**Why it's called the Art O'Neill (read 25 Nov, P214):** on 6 January 1592 Red
+Hugh O'Donnell and the brothers Art and Henry O'Neill escaped Dublin Castle down
+the privy chutes; Henry split off, and Art, weak from prison, had to be carried
+through the Wicklow mountains in the snow. He died in the cold before reaching
+safety at Glenmalure; Red Hugh had frostbite (one account: he lost his big toes).
+Art's Cross (the race's 47km checkpoint) marks the spot. Sources: Wikipedia "Art
+O'Neill Challenge"; Irish Times (Frank McNally, 17 Jan 2023 and 20 Jan 2026);
+Irish Examiner, "the story behind Art's Cross". Say "died in the snow before he
+reached Glenmalure"; never "died running it". The official kit list wasn't found
+online: Luke reads it from his entry pack.
+
 **Norn Iron 100: 29 to 30 May 2027** (runningcalendar.ie, gotrail.run,
 worldsmarathons.com; organiser We Run Wild NI, werunwildni.com). Listings say
 106 miles point to point (one says 170.55km, another 173.8km), from Ballintoy on
