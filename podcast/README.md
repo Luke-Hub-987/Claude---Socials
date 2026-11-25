@@ -14,6 +14,9 @@ https://claude.ai/artifact/6LftEYohSrQKg6iTE96QpG (tabs: Plan, Episode template,
 ## Next: Friday 20 Nov, record episode 1 (the bet)
 `podcast/2026-11-20-episode-1-run-of-show.md`. Out Sunday 22 Nov, then every Sunday (plan 0.8).
 
+## Next episode (25 Nov): I'M NOT FIT ENOUGH FOR THIS 62K NIGHT RACE
+Cue card (doc): https://claude.ai/artifact/46Mn8hBctekUM1SHwWnn8L; notes `podcast/2026-11-25-episode-art-oneill.md`.
+
 ## How the chats are split (Luke, 17 Nov)
 **One repo, one memory; a chat per job.** This chat ("Podcast - Riverside")
 does the podcast and works in `podcast/`. A separate **YouTube long-form**

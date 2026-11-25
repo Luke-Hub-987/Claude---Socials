@@ -1,6 +1,6 @@
 ---
 type: podcast episode cue card (Luke's 7 topics from his ChatGPT structure, rebuilt)
-status: v1, 25 Nov. Equal co-hosts (P216); FACTS for every number; humanizer check.py 0 flags on the spoken lines
+status: final, 25 Nov. Shared cue card (the master): Claude doc https://claude.ai/artifact/46Mn8hBctekUM1SHwWnn8L. Equal co-hosts (P216); FACTS for every number; humanizer check.py 0 flags on the spoken lines
 basis: plan doc (master); FACTS (Art O'Neill, history, fuel, 10% rule, tendons); levers (2026-11-16 premortem); Seth Godin wants (CLAUDE.md, 22 Nov); Cashvertising (specificity, news, quick easy way); P3 CCN, P176 the gap, P189 first 3 seconds, P158, P215, P237, P238
 ---
 
