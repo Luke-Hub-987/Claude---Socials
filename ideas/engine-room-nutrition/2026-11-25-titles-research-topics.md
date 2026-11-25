@@ -134,3 +134,8 @@ red: SLOWER THAN YOU
 stranger: how slow? 6:05 to 7:00 | says who? Daniels | sub-4 at what? MARATHON
 luke_said: none
 facts: ready as a formula (Daniels), not a study of sub-4 runners: claim too strong unless softened
+
+## After the cold review (phone-size fixes of the reviewer's rewrites)
+- T5 final: 'I LOOK TOO SLOW' / IS RUINING YOUR / MARATHON EASY RUNS (RUINING red; 9.1/10.2/7.4vw, PASS). The reviewer's 25-character version failed phone size (6.0vw); sub-4 goes in line one and on the card.
+- T13 final: YOU'RE NOT UNFIT. / YOU'RE UNDERFED / (3 SIGNS ON A LONG RUN) fails phone size at 6.7vw; needs a shorter bracket once the facts are read.
+- 30-min myth: STOP RUSHING TO EAT / AFTER A LONG RUN / (THE 30-MIN MYTH) PASS (7.6/8.8/9.4vw); facts needed.
