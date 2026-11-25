@@ -138,6 +138,10 @@ def check(title, red=None, stranger=None, luke_said=None, hook=None, render=True
             continue  # 2 AN HOUR
         if re.match(r"-\d", after) or re.search(r"\d-$", body[:m.start()]):
             continue  # 9-5, 3-4
+        if re.match(r"\s*(AM|PM)\b", after):
+            continue  # a clock time: 9AM, 4PM (P247)
+        if re.match(r"\s+(OUT OF|TO)\s+10\b", after) or re.search(r"\b(OUT OF|\d+ TO)\s*$", body[:m.start()]):
+            continue  # a rating: 2 OUT OF 10, 1 TO 10 (P247: the rating format did 1.4M)
         if re.match(r"\s+(JAN|FEB|MAR|APR|MAY|JUN|JUL|AUG|SEP|OCT|NOV|DEC)[A-Z]*\b", after):
             continue  # 6 DECEMBER
         if prev in ("HOUR", "STAGE", "PART", "WEEK", "DAY", "SUB-", "MILE", "KM", "K") or re.search(r"SUB-$|-$", prev):

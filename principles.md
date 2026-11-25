@@ -6769,3 +6769,9 @@ Luke, on KIPCHOGE ACTUALLY STARTS EASY RUNS AT SUB-4 MARATHON PACE: the 5-6 min/
 Luke, on STOP COPYING THE NYC MARATHON WINNER'S 144G CARBS AN HOUR: "I didn't even know that he took 144 grams of carbs per hour... and I'm pretty big in running... highly unlikely that someone would know that." A title can't tell people to stop doing something they never did.
 - Why Almgren worked: a result they'd seen (he won New York, 2:06), a session they could do, their number by goal time, short.
 - The title opens on what they know (the race, the result, their own fade, their long run) or a problem they have (P220); the obscure measured detail goes in the body as proof.
+
+## P247 — The tests filter, they don't veto: a WARN never kills a title, and the checker can't fail a format that has already won (Luke, 25 Nov)
+Luke: "I feel as though you may be being too stringent or too cutthroat in terms of the tests... the Almgren one passed really high, and then it did really well." Almgren scored 8/9 on the cold review and earned 1.7% saves, equal to our best.
+- The calibration: 8+ from the cold reviewer is a strong pass; FAILs are dropped only for things a stranger would hit (can't read it at phone size, "of what?", "in what?", a claim we can't source). WARNs (no pulse word on the top line, "thin") go to Luke with the title, not into the bin.
+- ost_check.py was wrongly failing proven formats: ratings ("1 TO 10", "2 OUT OF 10", the rating format did 1.4M) and clock times (9AM, 4PM). Fixed 25 Nov.
+- A title whose facts aren't in FACTS.md yet is shown as "facts needed", not dropped: the facts get read, then it's scripted.
