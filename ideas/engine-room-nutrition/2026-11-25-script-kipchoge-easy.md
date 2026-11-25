@@ -1,5 +1,6 @@
 ---
 type: script (gated)
+status: shelved 25 Nov by Luke (P245): the hook rests on a reporter's estimate of a shakeout run's first steps; not to be filmed as is
 gate: v1
 brief_ok: Luke 25 Nov ("Go" on the plan, then "put together the script" on the council's pick); P226 handled by the framing: an easy ceiling so the 2 runs that matter get your legs, never "running slower makes you faster"
 ost_final_by_luke: pending (the cold review's first pick, 8/9; Luke to confirm)

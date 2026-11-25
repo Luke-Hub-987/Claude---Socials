@@ -462,6 +462,7 @@ regulations PDF), Brighton (Cancer Research UK, realbuzz guide), Belfast
 - **Our fuel line stays ours:** 30 g every 30 minutes from 20 minutes (60 g an hour). The Maurten finding (about an hour before it counts) is why the first one goes in early; never tell amateurs to take 144 g an hour.
 
 ## Kipchoge's easy runs, and your easy pace (added 25 Nov 2026 for the pro's easy run, scaled; secondary sources, no first-hand data)
+- **P245 (Luke, 25 Nov): not usable as a hook or title claim; a visual estimate of the first steps of a shakeout run.**
 - **The video (Canadian Running, 20 Oct 2021, from Cathal Dennehy's clip of the NN Running Team, 19 Oct 2021):** an easy 10K that sets off at "around eight to nine minutes per mile (5-6 min/km)" and speeds up to "less than six minutes per mile (about 3:40/km)" by the end; his marathon race pace is "less than 3:00/km". The page doesn't say how the pace was measured: say "about 5 to 6 minutes a K" and "the start of an easy 10K", never a watch reading.
 - **His 2017 log (45 days before Berlin, 2:03:32, published by Sweat Elite, analysed by Running Scientist):** easy runs of 10 to 12 km mostly at 4:00/km (3:38 to 4:10); tempo long runs 3:16 to 3:39/km. One easy-moderate 18 km run started at 5:45/km and finished its last 6 km at 3:30/km.
 - **Race pace:** 2:01:09 in Berlin (2022) is about 2:52/km; 2:03:32 in 2017 is about 2:56/km.

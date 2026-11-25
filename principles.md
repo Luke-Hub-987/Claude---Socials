@@ -6758,3 +6758,9 @@ Luke, on the Almgren reel: "we need the resistance or friction to be minimal so 
 - Every training reel hands over the **shortest version** that keeps the method (Almgren's 4 x 10K becomes 4 x 10 minutes); the longer versions go in the caption or the email.
 - When the hook names a pro or an elite number, **the objection ("I can't run that") is answered by the end of the hook**, and stage 1 opens on the viewer's pace, not the pro's.
 - Curiosity first, then speed to value: the title pulls, line one names the objection, the scaling arrives before 0:15.
+
+## P245 — Never hook on a claim the source can't carry: if a stranger could look it up and call it untrue, it doesn't go in the title or line one (Luke, 25 Nov)
+Luke, on KIPCHOGE ACTUALLY STARTS EASY RUNS AT SUB-4 MARATHON PACE: the 5-6 min/K was a reporter's visual estimate of the first steps of a shakeout run, and "obviously he's not going to step into 3-4 minute per K pace" from a standstill. "People click in, they get hooked, and then... the payoff isn't actually true... then they lose trust in us."
+- The hook and the title carry only measured numbers (a log, a watch file, a lab test, a race result), never an eyeballed estimate, and never the first moments of a session sold as the session.
+- Test before any title: if a running nerd looked it up, would they say "that's not true"? If yes, it's out, however strong the click.
+- Numbers pasted from another tool or chat are leads, not facts: they go through FACTS with a source before use.
