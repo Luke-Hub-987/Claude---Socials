@@ -21,3 +21,6 @@ Comment SKILLS and I'll email you all five links plus your pace plan.
 
 ## Pinned comment
 Which skill are you trying first? Comment SKILLS for the links by email.
+
+## Cover photo (26 Nov, Luke: an elite runner, not Luke)
+Conner Mantz, 2025 Chicago Marathon, Wikimedia Commons, **CC0 (public domain, no credit needed)**: https://commons.wikimedia.org/wiki/File:Conner_Mantz_2025_Chicago_Marathon.jpg. Cut out with rembg (`motion/carousel-skills/photos/mantz-cutout.png`), running across the 10/10 like slow internet club's perched cut-outs; the thumbnail grid is off the cover; (part 1) added. Nike and Bank of America logos are on his kit and bib (as in the photo).
