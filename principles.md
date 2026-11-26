@@ -6775,3 +6775,10 @@ Luke: "I feel as though you may be being too stringent or too cutthroat in terms
 - The calibration: 8+ from the cold reviewer is a strong pass; FAILs are dropped only for things a stranger would hit (can't read it at phone size, "of what?", "in what?", a claim we can't source). WARNs (no pulse word on the top line, "thin") go to Luke with the title, not into the bin.
 - ost_check.py was wrongly failing proven formats: ratings ("1 TO 10", "2 OUT OF 10", the rating format did 1.4M) and clock times (9AM, 4PM). Fixed 25 Nov.
 - A title whose facts aren't in FACTS.md yet is shown as "facts needed", not dropped: the facts get read, then it's scripted.
+
+## P248 — Write mental movies: every title, payoff line and caption builds a picture with the senses, says what's specifically unique about us, and stays true (Luke, 26 Nov, Cashvertising #18 to #20; notes `research/cashvertising/notes.md`)
+- **The senses (VAKOG):** what they'd see, hear, feel, smell or taste in their own run or match. "Talk, don't gasp", "light, quiet feet", "no more heel slip", never "improve your breathing". This is P177 (Ogilvy-specific) with a checklist: at least one sense in every payoff line.
+- **Specifically unique:** a person they can picture + a discovery + a promise beats a generic benefit. Truthful but intriguing (P245 still decides what's true).
+- **Our USP, named:** say why we're the ones to listen to (100+ free pace plans sent; the pace-plan clock), not hope they notice.
+- **Long copy in the caption and email, short on screen:** the title stops them; the caption and email do the touring, every line a picture.
+- **The cover formula:** a count + a hidden-knowledge word + the big benefit + the widest true audience (+ a badge or bracket).

@@ -579,3 +579,4 @@ twice without being checked against the winners (P99).
 - [ ] **P245:** the title and line one carry only measured numbers (log, watch, lab, result), never a reporter's estimate or a session's first steps; the 'would a nerd call it untrue?' test; pasted numbers are leads until sourced in FACTS.
 - [ ] **P246:** the title starts from a result they've seen or a problem they have; the pro's obscure number is proof in the body, never the premise ('stop copying X' only if they already do X).
 - [ ] **P247:** 8+ on the cold review is a pass (Almgren 8/9 -> 1.7% saves); only stranger-facing FAILs (phone size, of what, in what, unsourced claim) drop a title; WARNs and 'facts needed' go to Luke with the title.
+- [ ] **P248:** every payoff line and caption names a sense (see, hear, feel); one 'specifically unique' detail; our USP said, not implied; long copy only in caption/email.
