@@ -27,3 +27,7 @@ Low-skip plan (our own data: white full-width title, Luke alone, eyes on lens = 
 5. No ask in the body; save line after stage 1, PLAN or email only at the end/pinned (P204, G19).
 6. Easy runs posts as the profile collab; the fry as a trial reel (row 34: a new audience goes trial first).
 Fry hook updated (44, PASS): "Your pre-match fry, sausages, beans and toast, gets a 2 out of 10 before a Sunday league game, because of what's missing and when you eat it. So I'm rating 5 pre-match meals by kick-off time, up to the one that gets a 10."
+
+## Luke, 26 Nov: "are they 100%? Do people actually have a fry beforehand?"
+- **The fry premise is unproven.** No survey found; FourFourTwo's Sunday league piece tells players to avoid a fry-up (so it's a known temptation, not a measured habit) and a chef who feeds a non-league club says hungover Sunday players are now "few and far between". "YOUR PRE-MATCH FRY" assumes they eat one (P183 premise; P245). New title: **SUNDAY LEAGUE / PRE-MATCH MEALS / RATED 1 TO 10** (RATED red; phone 10.2/9.0/12.1vw, PASS): the fry is one of the 5 meals rated (the stereotype, a 2), not the viewer's habit. Story poll first: "What do you eat before a Sunday match? Fry / Toast or cereal / Nothing / Garage meal deal": the real answers go in the script.
+- **Easy runs, one lift:** **'I LOOK TOO SLOW' / IS RUINING YOUR / EASY RUNS (3 PACES)** (phone 9.1/10.2/8.0vw, PASS): a count on screen (their number lever, Cashvertising's count), every runner (wider TAM); sub-4 said in line one and on the card. Cold review to re-run with the script.
