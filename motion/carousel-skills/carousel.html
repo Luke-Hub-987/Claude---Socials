@@ -37,6 +37,7 @@ body{width:1080px;background:#fff;font-family:Inter,Arial,sans-serif;overflow:hi
 .signs{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
 .sg{background:#dfe7f3;border-radius:18px;padding:16px 8px;text-align:center;color:#5b6577;font-size:22px;font-weight:700;letter-spacing:2px}
 .sg div{font-size:46px;letter-spacing:0;color:#0f1730;filter:blur(8px)}
+.sg svg{display:block;margin:6px auto 0}
 .sg.on{background:#3d7be0;color:#dce8ff}.sg.on div{color:#fff;filter:none}
 .pill{display:flex;align-items:center;gap:20px;background:#111;color:#fff;border-radius:22px;padding:18px 26px;margin-top:22px}
 .pill .lg{width:70px;height:70px;border-radius:14px;background:#fff;color:#000;font-family:Anton;font-size:30px;display:flex;align-items:center;justify-content:center}
@@ -49,11 +50,11 @@ document.body.style.height=H+'px';
 const T='thumbs/';
 // [headline line 1, line 2, colour, thumb, avatar colour, initials, video title, channel · views · length, payoff]
 const S={
- 2:['BREATHE SO RUNNING','FEELS EASIER','#2342c8','11-pxn34Lx3CYY.jpg','#3a3f47','NR','How to Breathe so Running Feels EASIER!','Nicklas Rossner · 3.8M views','9 minutes. Talk, don\'t gasp.'],
- 3:['RUN WITH','PROPER FORM','#c0392b','02-_kGESn8ArrU.jpg','#e4342b','GTN','How To Run Properly | Running Technique Explained','Global Triathlon Network · 4.6M views','10 minutes. Light, quiet feet.'],
- 5:['RUN SLOW ENOUGH','(ZONE 2)','#2e7d4f','03-VAsYTcBdtOg.jpg','#6b4f3a','SS','I Tried Zone 2 Training for 3 Months','Shervin Shares · 4.4M views','13 minutes. Easy finally feels easy.'],
- 6:['RAISE YOUR','RUNNING CADENCE','#d35400','04-eacl52qzr4E.jpg','#1f6fd1','BP','How to Improve & Increase Running Cadence','Ben Parkes · 821K views','7 minutes. Quicker, lighter steps.'],
- 7:['LOCK YOUR HEELS','IN YOUR SHOES','#8a6a2f','05-jG_XzEjD9Ls.jpg','#2b2b2b','PF','How to tie a heel lock (Racer\'s Loop)','Profeet · 784K views','1 minute. No more heel slip.'],
+ 2:['RUN WITHOUT','GASPING FOR AIR','#2342c8','11-pxn34Lx3CYY.jpg','#3a3f47','NR','How to Breathe so Running Feels EASIER!','Nicklas Rossner · 3.8M views','9 minutes. 5 breathing fixes.'],
+ 3:['RUN WITH LIGHT,','QUIET FEET','#c0392b','02-_kGESn8ArrU.jpg','#e4342b','GTN','How To Run Properly | Running Technique Explained','Global Triathlon Network · 4.6M views','10 minutes. Form, rebuilt.'],
+ 5:['HOLD A CHAT ON','EVERY EASY RUN','#2e7d4f','03-VAsYTcBdtOg.jpg','#6b4f3a','SS','I Tried Zone 2 Training for 3 Months','Shervin Shares · 4.4M views','13 minutes. Zone 2, explained.'],
+ 6:['TAKE QUICKER,','LIGHTER STEPS','#d35400','04-eacl52qzr4E.jpg','#1f6fd1','BP','How to Improve & Increase Running Cadence','Ben Parkes · 821K views','7 minutes. Cadence, sorted.'],
+ 7:['STOP YOUR HEEL','SLIPPING MID-RUN','#8a6a2f','05-jG_XzEjD9Ls.jpg','#2b2b2b','PF','How to tie a heel lock (Racer\'s Loop)','Profeet · 784K views','1 minute. One extra loop.'],
 };
 const p=document.getElementById('p');
 const gap=H>1400?1:0.82;
@@ -67,14 +68,14 @@ if(n===1){
   <div class="small" style="font-size:28px;margin-top:8px">(save this for your next easy run)</div>`;
 } else if(n===4){
   p.innerHTML=`<div style="height:${Math.round(H*.075)}px"></div>
-  <div class="anton h1">HIT EVERY 10K<br><span style="color:#2f6fd6">SIGN ON TIME</span></div>
+  <div class="anton h1">KNOW YOUR TIME<br><span style="color:#2f6fd6">AT EVERY 10K SIGN</span></div>
   <div style="height:${Math.round(46*gap)}px"></div>
   <div class="site"><div class="clock"><div class="ct"><span>● YOUR FINISH TIME</span><span class="goal">GOAL</span></div>
     <div class="anton big">3:45<small>:00</small></div><div class="bar"><i></i><b></b></div>
     <div class="ticks"><span>3:00</span><span>4:15</span><span>5:30</span></div></div>
-    <div class="signs"><div class="sg on">10K SIGN<div>54:00</div></div><div class="sg">20K SIGN<div>1:48</div></div><div class="sg">30K SIGN<div>2:41</div></div><div class="sg">40K SIGN<div>3:34</div></div></div></div>
-  <div class="pay" style="margin-top:${Math.round(40*gap)}px">30 seconds. Your 4 times, free.</div>
-  <div class="pill" style="width:940px"><div class="lg">ERN</div><div class="tx"><div class="t1">engineroomnutrition.com</div><div class="t2">Free marathon pace plan · 100+ sent</div></div><div class="op">Open</div></div>`;
+    <div class="signs"><div class="sg on">10K SIGN<div>54:00</div></div><div class="sg">20K SIGN<div>1:48</div><svg width="34" height="40" viewBox="0 0 34 40"><path d="M8 17V11a9 9 0 0 1 18 0v6" fill="none" stroke="#b08a2e" stroke-width="4"/><rect x="2" y="17" width="30" height="21" rx="4" fill="#e0b84a"/></svg></div><div class="sg">30K SIGN<div>2:41</div><svg width="34" height="40" viewBox="0 0 34 40"><path d="M8 17V11a9 9 0 0 1 18 0v6" fill="none" stroke="#b08a2e" stroke-width="4"/><rect x="2" y="17" width="30" height="21" rx="4" fill="#e0b84a"/></svg></div><div class="sg">40K SIGN<div>3:34</div><svg width="34" height="40" viewBox="0 0 34 40"><path d="M8 17V11a9 9 0 0 1 18 0v6" fill="none" stroke="#b08a2e" stroke-width="4"/><rect x="2" y="17" width="30" height="21" rx="4" fill="#e0b84a"/></svg></div></div></div>
+  <div class="pay" style="margin-top:${Math.round(40*gap)}px">30 seconds. Unlock all 4, free.</div>
+  <div class="pill" style="width:940px"><div class="lg">ERN</div><div class="tx"><div class="t1">Comment PLAN for yours</div><div class="t2">engineroomnutrition.com · 100+ runners have theirs</div></div><div class="op">FREE</div></div>`;
 } else {
   const [a,b,c,f,av,ini,vt,vs,pay]=S[n];
   p.innerHTML=`<div style="height:${Math.round(H*.075)}px"></div>
