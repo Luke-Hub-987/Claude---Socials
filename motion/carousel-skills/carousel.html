@@ -60,7 +60,9 @@ const p=document.getElementById('p');
 const gap=H>1400?1:0.82;
 if(n===1){
   const big=H>1400;
-  p.innerHTML=`<img src="photos/mantz-cutout.png" style="position:absolute;left:50%;transform:translateX(-48%);top:${big?120:75}px;height:${big?560:520}px;z-index:2">
+  p.innerHTML=`${Q.get('cover')==='b'
+    ? `<img src="photos/mantz-cutout.png" style="position:absolute;left:50%;transform:translateX(-48%);top:${big?120:75}px;height:${big?560:520}px;z-index:2">`
+    : `<img src="photos/lacing-cutout.png" style="position:absolute;left:50%;transform:translateX(-50%);top:${big?92:58}px;height:${big?490:430}px;z-index:2">`}
   <div style="height:${big?550:475}px"></div>
   <div class="anton score" style="position:relative;z-index:1">10/10</div>
   <div class="anton cl" style="margin-top:14px"><span style="color:#d63a2f">ELITE</span> RUNNING SKILLS<br>YOU CAN LEARN<br>IN 1 DAY</div>

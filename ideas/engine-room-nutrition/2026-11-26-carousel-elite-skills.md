@@ -24,3 +24,6 @@ Which skill are you trying first? Comment PLAN for your 4 clock times and all fi
 
 ## Cover photo (26 Nov, Luke: an elite runner, not Luke)
 Conner Mantz, 2025 Chicago Marathon, Wikimedia Commons, **CC0 (public domain, no credit needed)**: https://commons.wikimedia.org/wiki/File:Conner_Mantz_2025_Chicago_Marathon.jpg. Cut out with rembg (`motion/carousel-skills/photos/mantz-cutout.png`), running across the 10/10 like slow internet club's perched cut-outs; the thumbnail grid is off the cover; (part 1) added. Nike and Bank of America logos are on his kit and bib (as in the photo).
+
+## Final cover (26 Nov, Luke's photo pick)
+Cover A (posted): a runner lacing his shoe (Luke's image, `motion/carousel-skills/photos/lacing-runner.jpg`; source and licence to be cleared by Luke before posting), cut out and crouched on top of the 10/10: the relaxed, do-it-today picture (slow internet club's perched people; P248, the heel-lock slide). Cover B (test): Mantz running, `skills-1b-mantz.png` (CC0). Suggested test: A on one platform, B on the other; compare swipe-through and saves. Luke's close-up lacing photo (`lacing-closeup.jpg`) not used: no full body to cut out.
