@@ -478,3 +478,5 @@ regulations PDF), Brighton (Cancer Research UK, realbuzz guide), Belfast
 - **Jelly sweets:** jelly babies about 5 g of carbs each (FACTS Match day), 6 = about 30 g, no fat or fibre; UEFA's 30 g after the warm-up and at half-time (Harper 2017) is where they fit.
 - **Pastry (sausage roll, croissant):** no figures read; on camera, read the label's fat and carbs. Audio rates it on the label shown, no number unless it's on the pack.
 - **The meal still matters most:** UEFA 2021, a carb-rich meal of 1 to 3 g/kg 3 to 4 hours before kick-off (FACTS Match day). A snack tops it up; it doesn't replace it.
+- **Sausage roll (typical bakery roll, packet values, approximate):** fat about 20 g against carbs about 25 g per roll, so the fat is nearly as big as the carbs. Not read from a filmed pack: Luke reads the pack he films and the audio follows that label.
+- **Top-up by weight, about 1 g/kg an hour or so before (the short end of the 2016 range):** 60 kg: a banana + 2 slices of toast with jam (about 65 g); 75 kg: the same + 2 jelly babies (about 75 g); 90 kg: 2 bananas + 2 slices (about 90 g).
