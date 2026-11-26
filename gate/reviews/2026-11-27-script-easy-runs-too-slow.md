@@ -1,0 +1,13 @@
+# Gate review: 2026-11-27-script-easy-runs-too-slow.md
+Script hash: bd9e3c38793fc636
+Reviewed: 2026-11-26, independent (gate-reviewer), one pass
+Mockup: ideas/engine-room-nutrition/mockups/2026-11-27-easy-runs-frame-one.png
+
+| Test | Verdict | The line it rests on (quoted) | Why, and the exact fix |
+|---|---|---|---|
+| G2 | PASS | "'I LOOK TOO SLOW' / IS RUINING YOUR / EASY RUNS (3 PACES)" | The mockup shows only the white full-width title in the top band (RUINING in red) over Luke alone; the "LUKE · car · ERN running top (placeholder)" tag and the hatched safe zones are mockup markings, not frame text. |
+| G12 | PASS | "EASY RUNS (3 PACES)" | The title names the problem and promises 3 paces without giving any of them, so skipping loses the numbers; the only number on screen is 3, with nothing to divide it by. |
+| G21 | PASS | "Keep: YOUR 3 EASY PACES ... 3:00 5:20, 4:57, 4:38; ... 4:30 7:51, 7:18, 6:51" | 15 paces by goal can't be held after one watch, the worked example is sub-4, the full table is in the caption and the sub-4 row is in miles (11:18, 10:31, 9:49, checked). |
+| G22 | FAIL | "Never run quicker than 6:05 a K" (card and caption: "4:00 7:01, 6:32, 6:06") | The spoken limit lets a sub-4 runner go 1 s/K quicker than the limit on the card sitting on screen at the same moment, so the two disagree (the caption's "Easy runs go wrong in the first 5 minutes" also has no source); fix: put the sub-4 row on the card and in the caption in the watch bands Luke says (7:00-7:05, 6:30-6:35, never quicker than 6:05; miles 9:47), band every other row the same way, and cut "in the first 5 minutes" from the caption. P201 passes: the title says stop speeding up to look quick, line one shows it and the last stage sets a speed limit, so the payoff never does what the title says to stop. |
+| G23 | PASS | "If your watch says 5:50, ease off until it reads 6:05 or slower" | A 30-minute run paced off the watch on their wrist and the talk test, with no setup, no kit and no new worry; Luke would run it. |
+| G29 | FAIL | "Send this to the friend who apologises for their pace on easy runs, because they're the one doing it right." | The send line lifts "apologises for their pace on easy runs" from the 25 Nov Kipchoge script's send line, and stage 2's "Now let it come up a touch ... between 6:30 and 6:35" follows that script's "Now let it come up a little, to between 6:30 and 6:35"; fix: write a new send line (e.g. "Send this to the friend who gets passed on every easy run and doesn't care, because they've got it right") and reword stage 2's opening. No line can be heard two ways, nobody is mocked and there are no fragments. |
