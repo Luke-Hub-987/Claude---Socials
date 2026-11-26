@@ -580,3 +580,4 @@ twice without being checked against the winners (P99).
 - [ ] **P246:** the title starts from a result they've seen or a problem they have; the pro's obscure number is proof in the body, never the premise ('stop copying X' only if they already do X).
 - [ ] **P247:** 8+ on the cold review is a pass (Almgren 8/9 -> 1.7% saves); only stranger-facing FAILs (phone size, of what, in what, unsourced claim) drop a title; WARNs and 'facts needed' go to Luke with the title.
 - [ ] **P248:** every payoff line and caption names a sense (see, hear, feel); one 'specifically unique' detail; our USP said, not implied; long copy only in caption/email.
+- [ ] **P249:** team sport titles say MATCH (or MATCH OR RUN), not SUNDAY LEAGUE; a sport is named only where the fact was measured; no 'same intensity' claim.

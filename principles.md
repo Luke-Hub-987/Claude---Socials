@@ -6782,3 +6782,7 @@ Luke: "I feel as though you may be being too stringent or too cutthroat in terms
 - **Our USP, named:** say why we're the ones to listen to (100+ free pace plans sent; the pace-plan clock), not hope they notice.
 - **Long copy in the caption and email, short on screen:** the title stops them; the caption and email do the touring, every line a picture.
 - **The cover formula:** a count + a hidden-knowledge word + the big benefit + the widest true audience (+ a badge or bracket).
+
+## P249 — Say "match", not "Sunday league": most of our audience is Irish, and one match-day message covers GAA, rugby and soccer (Luke, 26 Nov)
+Luke: "Sunday league is the UK kind of thing... most of my audience are Irish... you can just keep it as a match or training." Team-sport titles say MATCH (or MATCH OR TRAINING / MATCH OR RUN), not SUNDAY LEAGUE, unless the reel is about one league. Name a sport only when the fact was measured in it (P245: UEFA and Bradley are soccer; say so in the audio, not the title). Never claim on screen that the sports are equally intense; the fuelling guidance is what carries across.
+- His own proven format: "Snacks to have or avoid pre-training / match / run" on his personal TikTok, 38.3K and 27.2K: the shop shelf, reading the label on camera. The label is a measured number (P245) and the shelf is the mental movie (P248).
